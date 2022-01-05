@@ -1,0 +1,90 @@
+
+## Plan for analysing "industrious revolution" in English text
+
+* Use EEBO
+* Research question: is there an "industrious revolution" or a "cooperative revolution"
+  in culture in England? If so, when?
+* Use tools:
+  - Word counts of words related to industry and/or cooperation
+  - Positiveness of words associated with these words
+  - Run a glove-style analysis on EEBO, per year (or per-10 year?)
+
+
+## About EEBO
+
+EEBO texts are encoded in XML. A typical URL looks like:
+https://raw.githubusercontent.com/textcreationpartnership/A00002/master/A00002.xml.
+A01224
+There is a list file of all URLs at
+https://raw.githubusercontent.com/textcreationpartnership/Texts/master/graball.sh.
+
+A CSV file with metadata and TCP identifiers (like A00002 above) is at:
+https://raw.githubusercontent.com/textcreationpartnership/Texts/master/TCP.csv
+
+Or you can get everything at once? at
+https://www.dropbox.com/sh/pfx619wnjdck2lj/AAAeQjd_dv29oPymNoKJWfEYa?dl=0.
+The "P5_XML" files for "EEBO phase 1" are 13 zip files, each about 300 Mb zipped.
+In "EEBO phase 2", there's more like 100+ zip files, but only about 10Mb zipped.
+Probably could download them all and then unzip one by one. Or even
+"save to dropbox" and have them stored online. See the TCP-readme.txt. Note that
+it says:
+
+> In the case of Evans, ECCO, and EEBO-1, these are simply 'snapshots' (downloads)* 
+> of the gitHub texts (accomplished via a wget batch file, supplied
+> here as well); in the case of EEBO-2, the files were obtained from the 
+> Oxford Text Archive and have not yet (August 2020) been posted to a gitHub 
+> repository, though discussions are under way.
+
+
+They have different encodings. There is TEI P4 and TEI P5, which are some kind of XML.
+See https://tei-c.org for details: TEI seems to be one of those drowning-in-metadata
+type standards.
+
+An alphabetical list of tags is at https://textcreationpartnership.org/docs/dox/cheat.html.
+
+Metadata for the texts is available at https://github.com/lb42/eebo-bib.
+
+A sample chunk from an XML file:
+
+<hi>Knowledge</hi> is like the talents which the <hi>Lord,</hi>
+</l>
+<l>When he went forth did to his seruants lend:</l>
+<l>The first who his one talent vp did hoard,</l>
+<l>Like him, that for his <hi>Knowledge</hi> doth contend;</l>
+<l>But therewith not himselfe, nor others mend:</l>
+<l>Hee that with talents two, gain'd other twaine;</l>
+<l>Is he that doth his time and labour spend</l>
+<l>To saue himselfe, and those with him remaine,</l>
+<l>But he that gaind the fiue; seeks all mens soules to gaine.</l>
+
+                    
+And a sample metadata:
+
+<bibl n="tcp2:A27147" ref="proquest:2248535329" xml:id="eebo:7571302" facs="eeboIs:40093" type="Book" xml:lang="eng">
+<idno type="STC">Wing B155</idno>
+<idno type="STC">ESTC R178</idno>
+<series>Early English Books, 1641-1700 (Wing)</series>
+<title>Adagia Scotica, or, A collection of Scotch proverbs and proverbial phrases collected by R.B. ...</title>
+<author>R. B.</author>
+<pubDate>1668</pubDate>
+<publisher>Printed for Nath. Brooke ...</publisher>
+<pubPlace>England</pubPlace>
+<note type="keywords">Adages, aphorisms, emblem books, jests, proverbs</note>
+<note type="sourceLibrary">The Huntington Library</note>
+<note type="transcriptType">text image</note>
+<note type="langNote">English</note>
+<measure type="pp">31</measure>
+</bibl>
+
+# The code will look like:
+
+* For each item:
+  - stem it (maybe replace u by v throughout?)
+  - count words and add to totals: 
+    - categories: work, savings, self-control, cooperation
+    - and the total word count
+    - all per year
+  - calculate the valence of words near words in these categories
+    - maybe we can create a valence score after doing the glove?
+  - update embeddings
+    - is there a way to create embeddings without downloading everything at once?
