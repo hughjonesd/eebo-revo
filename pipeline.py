@@ -1,27 +1,39 @@
 
 
 from EEBOIterator import EEBOIterator
-from process_tcp import get_metadata, get_text
+from process_tei import get_metadata, get_text
 import pandas as pd
 from pathlib import Path
 import itertools
+import os.path
 
+def make_metadata():  
+    metadata_file = "data/metadata.csv" 
+    eebo_it = EEBOIterator()
 
-def make_metadata():     
-    eebo_it = EEBOIterator("data-raw/eebo-zips", debug = True)
-    metadata_df = pd.DataFrame(columns = ["id", "date", "author", "title", 
-                    "pub_place"])
+    if os.path.exists(metadata_file):
+        metadata_df = pd.read_csv(metadata_file)
+    else:
+        metadata_df = pd.DataFrame(columns = ["id", "date", "author", 
+                    "title", "pub_place"])
     
     md_list = list()
-    for i, xml in zip(itertools.count(), eebo_it):
+    i = 0
+    for filepath in eebo_it:
+        # id = filepath.name.removesuffix(".P5.xml")
+        # if id in metadata_df.id.values:
+        #    continue
+        xml = filepath.read_text()
         md = get_metadata(xml)
         md_list.append(md)
+        i += 1
         if i % 100 == 0:
             metadata_df = metadata_df.append(md_list)
             md_list = list()
-            metadata_df.to_csv("data/metadata.csv", index = False)
+            metadata_df.to_csv(metadata_file, index = False)
 
 def make_texts():
+    eebo_it = EEBOIterator(debug = True)
     for xml in eebo_it:
         md  = get_metadata(xml)
         raw = get_text(xml)

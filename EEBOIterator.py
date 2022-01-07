@@ -2,6 +2,7 @@
 from pathlib import Path
 import zipfile
 
+folder = Path("data-raw/eebo-zips")
 
 class EEBOIterator:
     """
@@ -9,8 +10,8 @@ class EEBOIterator:
     
     * Extracts items in turn and returns the raw text
     """
-    def __init__(self, folder, debug = False, max_files = -1):
-        folder = Path(folder)
+    def __init__(self, debug = False, max_files = -1):
+        global folder
         self.zip_dir_iterator = folder.iterdir()
         self.zipfile_iterator = None
         self.zipfile = None
@@ -45,6 +46,6 @@ class EEBOIterator:
             self.zipfile_iterator = None
             self.zipfile.close()
             return self.__next__() 
+
         if self.debug: print(f"File {xml_file}")
-        xml_text = xml_file.read_text()
-        return xml_text
+        return xml_file
