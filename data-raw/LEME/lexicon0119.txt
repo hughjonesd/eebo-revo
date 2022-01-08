@@ -1,0 +1,496 @@
+
+
+<leme no="119">
+<page no="[0r]"> 
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 5 2 6 3
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+A Postil
+or orderly dispo&#173;
+sing of certeine Epistles
+vsually red in the Church of
+God, vppon the Sundayes and
+Holydayes throughout
+the whole yeere.
+Written in Latin by Dauid Chytr&#230;us,
+and translated intoo English by
+Arthur Golding.
+Seen and allowed according too
+the order appoynted.
+Imprinted at London,
+by Henrie Bynneman.
+for Lucas Harrison and
+George Bishop.
+<term lang="la">Anno Domini.</term> 1570.
+</section>
+
+</page>
+
+<page no="12">
+<section type="Definitions">
+<wordgroup1 type="t">
+<wordentry type="d"> <note type="m" lang="en">
+TOo the intent this thing may bee the more euident, first let the definitions of them bee vnderstood.
+</note>
+<form lexeme="angel(n)">Angels</form> <xpln lang="en">are spiritual substances created by God after his own image, and ordeined too sing glory too God on high, and too bee ministers vppon earth, of the churche or of the heires of euerlasting saluation.</xpln></wordentry>
+
+</page>
+
+<page no="14">
+<wordentry type="d"><note type="m" lang="en">
+The definition
+of saluation.
+</note><form lexeme="salvation(n)">Saluation</form>
+<xpln lang="en">comprehendeth all the good things
+that God bestoweth vppon his Church for hys sonnes sake
+which was giuen to vs and borne too vs of the virgin Ma&#173;
+rie: that is too wit, forgiuenesse of sinnes, attonement with
+God, deliuerance from Gods wrath, from sinne, from death,
+and from the Deuils tyrannye: the gift of the holy ghost,
+regeneration &#38; renewing of our nature, abolishment of sin
+and death, and restorement of rightuousnesse, lyfe, and end&#173;
+lesse ioy.</xpln></wordentry>
+
+</page>
+
+<page no="20">
+<wordentry type="d">
+<form lexeme="good works(n)" lexeme="new obedience(n)">And he defineth good woorkes or new obedience,</form> <xpln lang="en">(by the priuation or taking away of the contrary and by a distribu&#173;
+tion) too bee the renouncing or shunning of vngodlinesse and  worldly lustes, and too liue soberly, vprightly, and godlily.</xpln></wordentry>
+  
+<wordentry type="d">
+<form lexeme="ungodliness(n)">The woord vngodlynesse</form> <xpln lang="en">, comprehendeth all sinnes re&#173;
+pugnant too the commaundements of the first table: that is too wit, Epicurish carelessnesse, and contempt of the wrath, iudgement, and woord of God: Epicurish and Academi&#173;
+call doutings, Idolatrie, superstition, distrust, presumption, and such other.</xpln></wordentry>
+  
+<wordentry type="d">
+<form lexeme="stayedness(n)">Stayednesse</form> <xpln lang="en">(which of the Greekes is called <term lang="gkt">Sophrosyne</term>, &#38; of the Latines modestie, frugalitie or temperaunce,) signifi&#173;
+eth not only a sobernesse or sparenesse of diet in meate and  drinke, but also a maistering or brideling of all the affecti<expan type="">on</expan>s  and motions of the mind and body, in behauior, in gesture,  
+
+</page>
+
+<page no="21">
+in talke, in apparell, and in all other things.</xpln></wordentry>
+
+</page>
+
+<page no="115"> 
+<wordentry type="d">
+<form lexeme="New Testament(n)">The new Testament,</form> <xpln lang="en">Then (too define it most proprely) is nothing els but the gospel, <expan type="">that</expan> is too say, A promis of remission 
+
+</page>
+
+<page no="116"> of sinnes, of the holy ghost, and of life and soule<emend err=""> </emend>health euerla&#173;
+sting, too bee giuen freely too those that beleeue, for Chrystes sake who dyed and rose agein for vs. <note type="m">A definition 
+of the new
+Testament.</note> This definition is buil&#173;
+ded vppon the woords of our Lords supper, and vpon the .viij. and .ix. chapters too the Hebrues, and vppon the .iij. and .iiij. chapters too the Galathi<expan type="">an</expan>s.</xpln></wordentry>
+  
+<wordentry type="d">
+<note type="m">A definition 
+of the old Te&#173;
+stament.</note> <form lexeme="Old Testament(n)">The olde Testament</form> <xpln lang="en">is properly a publishing of the lawe, or a couenant whereby God bounde the people of Israell too keep the law deliuered by Moses, &#38; on the otherside promised them the l<expan type="">an</expan>d of Canaan, &#38; a certein c<expan type="">om</expan>mon weale &#38; defence, and all good things, and added ceremonies and sacrifises, too bee figures of the persone and benefites of Chryste, for whose sake only, the beleeuers are at all tymes receiued into the leage of eternall saluation.</xpln></wordentry>
+
+</page>
+
+<page no="120">
+<wordentry type="d"><note type="m">
+What preest&#173;
+hod is in ge&#173;
+neral.</note> 
+<form lexeme="priest(n)">FIrst and formest let vs consider the definition. A preest in  generall</form> <xpln lang="en">is a person ordeyned of God too teache the gospel, and too offer Sacrifyses &#38; too pray too God both for himselfe &#38; for others, hauing Gods promis wherby he may warrant  himself that he is herd.</xpln></wordentry>
+
+<wordentry type="d">
+<note type="m">
+A definition of 
+the hyghest 
+preest or of
+Chryst.
+</note><form lexeme="high priest(n)">These offices are c<expan type="">om</expan>mon too all preestes. But in this Epistle is entreated of the hyghest preest, of whom let this definition be fastned in mind. The high preest Christ</form> <xpln lang="en">is a person imme&#173;
+diatly ordeined by the eternal father, &#38; anoynted with <expan type="">the</expan> ful&#173;
+nesse of the holy Ghost, too the entent he should bring foorth the Gospel out of the secret bosom of the euerlasting father, 
+
+</page>
+
+<page no="121">
+and make intercession for the whole Churche, hauing pro&#173;
+mise that he shall assuredly bee herd, and too offer sacrifice, (that is too wit himselfe) once for all: By which sacrifice he deserueth remission of sinne s, rightuousnesse, and euerla&#173;
+sting saluation too the whole Churche. This whole defini&#173;
+tion may bee builded and warranted out of the textes of the Epistle to <expan type="">the</expan> Hebrewes.</xpln></wordentry>
+
+</page>
+
+<page no="176"> 
+<wordentry type="d"><note type="m">
+What the
+woord spirit
+signifyeth in
+the foresayd 
+text.</note><form lexeme="spirit(n)">And like as Chryst sayeth that the holy Ghost reproueth 
+the world of sinne, and beareth witnesse of him: and like as
+it is sayd in Genesis, My spirit shall not iudge in man, by&#173;
+cause he is fleshe, that is too say, I will take away the mini&#173;
+sterie or vse of the holy Ghoste from men. So in this place
+the woord Spirit</form> <xpln lang="en"> must most simply bee vnderstood of the holy
+Ghost reprouing the world of sinne by the ministerie of the
+Gospell, and bearing witnesse of Chrystes persone and be&#173;
+nefites, and of the eternall lyfe.</xpln></wordentry>
+
+<wordentry type="d">
+<note type="m">What water
+and blud sig&#173;
+nifye.</note><form lexeme="water(n)" lexeme="blood(n)">Water and blud</form> <xpln lang="en">signifie the Sacramentes of Baptim, (which is the Lauer of water cl<expan type="">en</expan>zing vs cleane by the woord from all iniquitie) and of the Lords Supper, in whiche the  bodye and blud of Chryst that was shed for vs, is distributed in assurance of remission of sinnes.</xpln></wordentry>
+
+</page>
+
+<page no="185">
+<wordentry type="d">
+<note type="m">
+The definition 
+of a Magistrate</note> <form lexeme="magistrate(n)">A Magistrate</form> <xpln lang="en">is a Minister appoynted by Gods ordin<expan type="">an</expan>ce and armed with Lawes and swoord, too bee <expan type="">the</expan> keeper of out&#173;
+ward discipline and peace, and to punish the euil dooers, and too defend and prayse the well dooers.</xpln></wordentry>
+
+</page>
+
+<page no="214">
+<wordentry type="d"><note type="m">Pentecost.</note> <form lexeme="Pentecost(n)">PEntecost</form> <xpln lang="en">is a Greeke woorde and signifieth the fifteth day, that is too wit from Easter day. For the fiftith day after
+the first passeouer and passage of the children of Israell out of
+Egipt, the lawe of God was published vppon Mount Sinai.
+And the same day a thousand fiue hundred fortie and twoo
+yeeres after, (beeing the fiftith day after that our passeouer
+Chryst was offered in sacrifise vppon the altar of the crosse)
+the holy Ghost was poured out vppon the Apostles.</xpln></wordentry>
+
+</page>
+
+<page no="242"> 
+<wordentry type="d">
+<note type="m">What God is.</note> <form lexeme="God(n)">God</form> <xpln lang="en">is a beeing or substance spirituall, vnderstanding, e&#173;
+uerlasting, soothfast, good, ryghtuous, mercifull, chast, most free, of infinite power and wisdome, and another from the  bodyes of the world. The euerlasting Father, who begate the Sonne his image from before all worlds: and the Sonne the coeternall image of the Father and the holy Ghost pro&#173;
+ceeding from the Father and the Sonne: According as the  Godhead hath disclosed it selfe: which toogither hath created  and mainteyneth heauen and earth, and all creatures: and in mankynd gathereth too it selfe a Churche, too the intent that by the same, this one and true Godhed (which is manifested by assured testimonies and by the woorde deliuered too the Prophets and Apostles,) may bee acknowledged and called vppon, and glorifyed in the eternall lyfe.  This definition is compacted out of many recordes of  Gods woord, which may bee plenteously enlarged.</xpln></wordentry>
+
+</page>
+
+<page no="261"> 
+<wordentry type="d">
+<form lexeme="humility(n)">And humili&#173;
+tie or lowlynesse</form> <xpln lang="en">is a vertue wherby we acknowledging our own infirmitie in the feare of God, are not proude: but with a true hart doo submit our selues too God, bothe in executing the duties of our vocation vpon confid<expan type="">en</expan>ce of Gods help, and in performing obedience in punishments &#38; tribulati<expan type="">on</expan>s, and also in yeelding due honor vnto others.  By this definition it is euident, that in this one woord humilitie or lowlynesse are c<expan type="">on</expan>teyned many vertues: that is to wit. j. The feare of God. ij. Modestie or myldnesse. iij. 
+
+</page>
+
+<page no="262">
+Faith settled vp<expan type="">on</expan> the good wil &#38; help of god. iiij. Dilig<expan type="">en</expan>ce. v. Patience obeying God mekely &#38; with a quiet mynde in bearing our aduersities. vj. Reuerence.</xpln></wordentry>
+
+</page>
+
+<page no="292">
+<wordentry type="d">
+<note type="m">Idolatry
+what it is.</note> <form lexeme="idolatry(n)">Idolatrie</form> <xpln lang="en">is not only the worshipping of images, or of the heathen Gods: but also of mans owne brayn &#38; wilful&#173;
+nes without gods words, either to imagin som thing to be  
+
+</page>
+
+<page no="293">
+a God which yet is no God: or too yeelde to any creature which is not God, the honor and seruices due too the only true God, as Inuocation and other sacrifices: or to wor&#173;
+ship God with the woorks of mens hands, as Paule spea&#173;
+keth in Act. xvij. that is to say, with images and pictures, and to bynde God too those images: or to choose and set vp seruices and ceremonies at a mans own pleasure, and to  imagin that God is therby appeased and made fauorable  too vs: or to confirme other idolaters by his example, and by obseruation of outward ceremonies. A larger opening of this description may bee taken oute of the exposition of the vertues of the first c<expan type="">om</expan>maundement, &#38; out of the .xxxv. chapter of Exodus.</xpln></wordentry>
+
+</page>
+
+<page no="385">
+<wordentry type="d">
+<note type="m">What iusti&#173;
+fication is.</note> <form lexeme="justification(n)">First, what it is. Iustification</form> <xpln lang="en">is a riddance of a man out of the power of darknesse, sin, &#38; death: or it is the for&#173;
+giuenesse of sins &#38; the adopting vs to bee the sons of God, and a partnershyp with the saincts in lyght, that is to say, the inheriting of eternall lyfe, lyght, ryghtuousnesse, and all good things, whiche are giuen too the Sainctes for the  price which our Lorde Iesus Chryst the son of God hath payed for vs by sheading his owne bloud.</xpln></wordentry>
+
+</page>
+
+<page no="392"> 
+<wordentry type="d"><note type="m">Interpretation,
+what it is in
+generall.</note> <form lexeme="interpretation(n)">Interpretation</form> <xpln lang="en">is, to shewe the proposition, state  or ground of the matter written, and the order of the partes and Arguments, and aptly to bring the cheef poynts into the  common places of the same arte of which the writing entrea&#173;
+teth, and too enlyghten them by putting them intoo theyr definitions, diuisions, sentences, and examples: and to open the maner of handling it, with the phrases and figures of the  wordes according to the preceptes of the artes after the order  of Rhetorike.</xpln></wordentry>
+
+</page>
+
+<page no="416">
+<wordentry type="d">
+<note type="m">The definition
+of a Minister.</note> <form lexeme="minister(n)">Nowe, a Minister of the Gospell</form> <xpln lang="en">, is a persone called of  God, eyther mediatly or immediatly, too teache Chrysts gos&#173;
+pell faithfully, and too distribute his Sacramentes, and too performe diligence, faithfulnesse and constancie, in execu&#173;
+
+</page>
+
+<page no="417"> 
+ting all other poyntes belonging too the ministration of the Gospell. By which ministration Christ himself wor&#173;
+keth myghtily, and imparteth true knowledge of God, ryghtuousnesse and eternall saluation too all men.</xpln></wordentry>
+
+</page>
+
+<page no="439">
+<wordentry type="d">
+<note type="m">Significations 
+of this woorde
+Prophet.</note> <form lexeme="prophet(n)">Shalt bee called the Prophet of the hyghest. Of this woord Prophet,</form> <xpln lang="en">there bee cheeflye foure significations vsually in  the Scryptures. First a Prophet among the people of  
+
+</page>
+
+<page no="440"> Israell, is a persone called immediatly by God, too rebuke sinne, too set foorth the Gospel concerning Chryst, and too rule the counsels and deuyses of ciuill gouernment, as Elias, E&#173;
+say. &#38;amp.c. Secondly a Prophet in generall, signifyeth one that foretelleth things too come: As Agabus foretold of the fa&#173;
+mine. Actes.xj. Thirdly, it signifyeth a teacher raysed vp by  God, and endued with singular giftes for the setting vp a&#173;
+geine of Gods doctrine and seruice decayed. Such a one was Iohn Baptyst who purged the Doctrine concerning Chryst, (which was defaced with the erroures of the Pharisies,) sharpely rebuked Idolatrous woorshippings, repaired the  Church of God, and with his finger poynted out Christ who was then exhibited.  Such Prophets also were Austine and  Luther. Fourthly, a Prophet in general, signifyeth an expo<expan type="">un</expan>&#173;
+der of Scripture, or a teacher of the Churche.</xpln></wordentry>
+
+</page>
+
+<page no="447">
+<wordentry type="d">
+<note type="m">The definition 
+of Mercy.</note> <form lexeme="mercy(n)">Mercie</form> <xpln lang="en">properly signifieth the vertue whiche is touched  with the feeling of another bodyes greef, and is sorie that o&#173;
+ther folkes fare amisse, and vppon probable reason succou&#173;
+reth those that bee in distresse, eyther of free goodnesse relea&#173;
+sing somewhat of extreeme rigour (as when GOD pity&#173;
+eth mankynde): else for ryghtes sake, as when good and  <emend err="gitlesse">giltlesse</emend> men are vexed or troubled with wrongfull dis&#173;
+pleasures.</xpln></wordentry>
+
+</page>
+
+<page no="465"> 
+<wordentry type="d">
+<note type="m">The definiti&#173;
+on of an An&#173;
+gell.</note> <form lexeme="angel(n)">THe woord Angell</form> <xpln lang="en">is a Greeke woord, and signifieth a mes&#173;
+senger.
+Like as Sophocles sayth: No man rewardeth an 
+Angel (that is too say a messenger) that bringeth all tydings. 
+And Homer in the .xv. booke of his Iliades, This also is good, 
+when the Angell (that is too say the messenger) is a wise and 
+politike persone. Theruppon is the woord Euangelion, that 
+is too say, good and glad tydings, which wee call the Gospell.
+And the sonne of God himselfe is diuers times called an An&#173;
+gell by Iames and Malachie and in others places, by reason 
+of his office for that he is the eternall fathers messenger, or 
+Ambassador which sheweth men the Gospel of glad tidings, 
+or the secrete will of God concerning forgiuenesse of sinnes 
+for Chrystes sake, according as he himself sayth: This is the 
+wil of the father that sent mee, that euery one which seeth the 
+sonne and beleeueth in him, should haue euerlasting life, and 
+I will raise him vp at the last day.
+
+But when it is spoken of the Angelicall natures or sub&#173;
+stances, let this description suche as it is, bee had in sight. An  Angell is a spirituall or bodilesse substance, created by GOD after his owne image, that is too say, vnderstanding, free, and  ryghtuous, (which is not a parte of another nature, lyke as  
+
+</page>
+
+<page no="446">
+the soule is part of a man and is immortall) ordeined of God too set out his prayse or too sing glorie too God on hygh, and too bee a seruant too the Churche, and a keeper of the god&#173;
+ly vppon earth. This Description may bee set out and con&#173;
+firmed by adding testimonies of the Scripture.</xpln></wordentry>
+
+</page>
+
+<page no="471"> 
+<wordentry type="d">
+<form lexeme="Catholic Church(n)">THe Catholike church</form> <xpln lang="en">is the Communion or Fellowship of  all Saincts: that is to say. It is the vniuersall multitude of all godly men, liuing in all times and places, which embrace  Chrystes gospell, and beleeue in Chryst, &#38; which for his sake are in Gods fauor, and are gouerned by the holy Ghost, and  enioy euerlastynge lyfe, wisdome, and gladnesse.</xpln></wordentry>
+  
+<wordentry type="d">
+<form lexeme="church militant(n)">The church militant</form> <xpln lang="en">is a companie of men embrasing the  true doctrine of the gospel, and vsing the Sacraments aright, who in this lyfe though they bee ryghtuous for Chrystes sake through faith &#38; in the fauor of God, yet notwithstanding are not vtterly quite rid of sinne and death, but are faine too keep war, or too fight continually ageinst the outrages of <expan type="">the</expan> feends, of the sinful braids of corrupted nature, or heretiks and of ty&#173;
+r<expan type="">an</expan>ts, with faith, prayer, Gods word, patience, &#38; the rest of the  armor which is described in the .vi. to the Ephesi<expan type="">an</expan>s.</xpln></wordentry>
+  
+<wordentry type="d">
+<form lexeme="Church triumphant(n)">The church triumphant</form> <xpln lang="en">is a c<expan type="">om</expan>pany of holy men, which be&#173;
+
+</page>
+
+<page no="472">
+ing conuerted to Chryst in this lyfe, out of al co<expan type="">un</expan>treys in the world, kept fayth (which is the vanquisher of death, the Di&#173;
+uell and sinne,) euen too the end of their lyfe, and now being set free from all sinne &#38; death,enioy the present sight of God, and of his sonne our Lord Iesus Chryst, and are embraced by God with new and perpetuall lyght, wisdome, ryghtuous&#173;
+nesse, lyfe and ioy euerlasting, and on their behalfe ageine do glorifie God.</xpln></wordentry>
+
+<wordentry type="d">
+<note type="m">The definiti&#173;
+on of the visi&#173;
+ble church.</note> <form lexeme="visible church(n)">The visible Churche</form> <xpln lang="en">is a company of people embrasing  Chrystes gospel, and vsing his Sacraments aryght, in which company there bee alwayes some, which in deede beleeue and  are gouerned by the holy Ghost, and are heires of the euer&#173;
+lasting lyfe: Wyth whome notwithstanding (in the out&#173;
+ward conuersation) there are mingled many Hipocrytes, who neuerthelesse fight not ageinst the true Doctrine of the  Gospel, nor defend Idols, as in the .xxij. Chapter of Mathew. Bothe the good and the bad are brought into the marriage  feast. Of this visible Churche there bee twoo sortes of mem&#173;
+bers.</xpln></wordentry>
+
+</page>
+
+<page no="474">
+<wordentry type="d">
+<note type="m">The woord
+sainct of holy.</note> <form lexeme="saint(n)" lexeme="holy(n)">THe woord Sainct or Holy in general</form> <xpln lang="en">is c<expan type="">on</expan>trarie to vnho&#173;
+ly, and signifieth dedicated too God or too godly vses. So say wee, a holy T<expan type="">em</expan>ple, holy Vesselles, that is too say, appoyn&#173;
+ted too godly vses.  But peculiarly a sainct or holy persone, signifieth a pure or cleane persone, and suche a one as is voyde of sinne or  blemish.</xpln></wordentry>
+
+</page>
+
+<page no="488"> 
+<wordentry type="d"><form lexeme="election(n)" lexeme="predestination(n)">Of election or predestinacion,</form> <xpln lang="en">which is Gods act, whereby from euerlasting, of his owne mere mercy, for his sonne our Lord Iesus Christes sake, he hath chosen out of mankind too euerlasting lyfe &#38; ioy, all that in this lyfe beleue in the sonne of God, and continue in the same beleef vnto their death. Let yong folke marke well this definition of Election, and let them know that election (as apperteyning to Gods wil,) is vniuersal, according as it is plainly sayd God wil haue al men to bee saued.</xpln></wordentry>
+ </wordgroup1>
+</section>
+
+</page>
+
+<page sig="hh6v">
+<section type="Glossary">
+<heading>To the Reader.
+</heading>
+FOrasmuch as this present woorke shall come too the hands of all men, as well of the rudest, vn&#173;
+skilfullest, and vnlearnedst sorte, that are vt&#173;
+terly ignor<expan type="">an</expan>t of the latine tong, and of the right vnderstanding of such words, as are taken out of the La&#173;
+tin intoo English, for the more beautifying of our speech, &#38; better expressing of our mynds, as too <expan type="">the</expan> hands of the skil&#173;
+ful &#38; lerned sort: I haue added a breefe declaration or ex&#173;
+position of certeyn of those woordes vsed in this my tran&#173;
+slation. Wherin as I seeke and wishe the furtherance of the one sort, (for to read and not vnderstande woulde doo them small pleasure:) so I desire the fauorable accepta&#173;
+tion of the other sort: whose helpe and aide I gladly craue  too the amendement and gentle interpreting of such fau&#173;
+tes as haue escaped either mee in translating, or the Sta&#173;
+cioner in printing.  <wordgroup1 type="a">
+<wordgroup2 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"> <form lexeme="academic(n)">ACademiks</form> <xpln lang="en">, were a certeyn sect of Philosophers, whiche hilde opinion that nothing coulde bee knowne certien&#173;
+ly. And therfore they douted of all things. The prince or first of them was Plato, &#38; they had that name of A&#173;
+cademia, which is a woody place about a myle from A&#173;
+thens, where Plato taught his philosophie.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="allegory(n)">Allegorie</form> <xpln lang="en">, is a continuall metaphor in the sentence and matter. Looke <xref>Metaphor</xref>.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="anthithesis(n)">Antithesis</form> <xpln lang="en">, is a setting toogither or matching of contra&#173;
+ries, which giue lyght eche vntoo other:as for example, by shewyng lowlynesse, it appereth the better what is pryde.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="apposition(n)">Apposition</form> <xpln lang="en">, is a figure of Grammer, when twoo woordes of one case come togither without any c<expan type="">on</expan>iunction, im&#173;
+porting bothe one thing:as Chryst the sonne of God.</xpln></wordentry>
+</wordgroup2> 
+
+<wordgroup2 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"> <form lexeme="celarent(n)">CElarent,</form> <xpln lang="en">is a kynd of sylogisme wherin the maior or first 
+
+</page>
+
+<page sig="hh7r">
+proposition and the conclusion are vniuersall negatiue: &#38; the minor or second preposition is vniuersal affirma&#173;
+tiue. As for example: no Idolater shall inherit heauen: al couetous folk are Idolaters: Ergo no couetous man shall inherit heauen.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"> <form lexeme="dehortation(n)">DEhortation</form> <xpln lang="en">is a persuasion or counselling of a man fr<expan type="">om</expan> any thing that is euill, dangerous, or too bee auoyded.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="dilemma(n)">Dilemma</form> <xpln lang="en">, is a forked kinde of argument, which on eyther side entrappeth the aduersarie,choose which part he wil.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="distribution(n)">Distribution</form> <xpln lang="en">, is a figure of Rhetorike, which consisteth in reckenyng vp of partes, particulars, or accidentes of thyngs.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h">
+<form lexeme="effect(n)">EFfect</form> <xpln lang="en">is that thing which springeth, ryseth or necessari&#173;
+ly ensueth of any efficient cause. As for example, the ef&#173;
+fects of sin are Gods wrath, death, damnation, and all manner of greefes, miseries, diseases, aduersities, pu&#173;
+nishmentes and torments as well of body as mynde<emend err="-"></emend>  For sinne is the cause for whiche all these things hap&#173;
+pen vnto vs.</xpln></wordentry>
+  
+<wordentry type="h">
+<form lexeme="enthymeme(n)">Enthymeme</form> <xpln lang="en">, is a forme of argument, wherein (for speede or for hast) the first or second part of a syllogisme is left out,as thus: Al vertue is commendable, Ergo, Thank&#173;
+fulnesse is c<expan type="">om</expan>mendable: in which argument, the second propositi<expan type="">on</expan> or minor which is this, Thankfulnesse is a ver&#173;
+tue, is left out. Or as thus: Thankfulnesse is a vertue: Ergo thankfulnesse is comm<expan type="">en</expan>dable. In which example yee see that the maior or first proposition, Al vertue is c<expan type="">om</expan>&#173;
+mendable, is left out. And therfore it is called an imper&#173;
+fect Syllogysme. Looke <xref>Syllogisme</xref>.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="enthusiast(n)">Enthusiastes</form> <xpln lang="en">, are a certeyn kind of heretikes, which holde opinion that the woord of god left in the body of the Bi&#173;
+ble is not sufficient too saluation, nor the rule of mans lyfe: but that men bee taught and gouerned immedi&#173;
+
+</page>
+
+<page sig="h7v">
+atly from God by new inspirations, reuelations, and Traunces without the worde. The cheefe champions herof were Swinkfeeld in Westphalye, Muncer in Germa&#173;
+nie and others of whom Sleydane maketh mention in  his booke of Cronacles.</xpln></wordentry>
+  
+<wordentry type="h">
+<form lexeme="epicure(n)">Epicures</form> <xpln lang="en">, are al those that set their felicitie in worldly ple&#173;
+sures, are vtterly denying eyther in word or deede, or else in both, that there is any God or that he hath any regarde of men or of worldely matters, and attribu&#173;
+ting all things to chaunce or fortune. They are so na&#173;
+med of one Epicurus a Philosopher of Athens who vp&#173;
+hild that mans cheefe blissednesse consisted in pleasure.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="expolition(n)">Expolition</form> <xpln lang="en">is a figure which tarying vp<expan type="">on</expan> one matter, doth polish, decke, and garnish the same diuerse and sundry wayes.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="F"><alpha>F</alpha> 
+<wordentry type="h">
+<form lexeme="form(n)">FOrme.</form> <xpln lang="en">Is that shape whereby euery thing taketh his name, as, lether shaped and sowed fitly too the propor&#173;
+tion of the foote is called a shoo.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h">
+<form lexeme="gradation(n)">GRadation.</form> <xpln lang="en">Is a figure of Rethoricke when the sentence ryseth by degrees to the thing that it ameth at.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"> <form lexeme="homoiptote(n)">HOmoiptote</form> <xpln lang="en">is a figure peculiar to the latine and greeke and such other tungs as haue declensions of cases: and it is when there come many woordes of lyke cases in  one sentence or neere one for another.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="homoiotileut(n)">Homoiotileut.</form> <xpln lang="en">Is a figure when diuers woords end alyke.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h">
+<form lexeme="metaphor(n)">MEtaphor</form> <xpln lang="en">is a figure transferring woordes from their propre &#38; naturall signification, to a strange signifi&#173;
+cation,by reason of some lykelynesse betwixt them. As if a man shuld say that one swimmed in wealth, which is proprely in water.</xpln></wordentry>
+  
+<wordentry type="h"> <form lexeme="metonymia(n)">Metonymia</form> <xpln lang="en">is a figure which vnder a terme of like impor<emend err="">&#173;
+</emend> tance, implyeth the thing imported: or vnder the signe 
+
+</page>
+
+<page sig="hh8r">
+is conteyned the thing signified: or when the circum&#173;
+stance of a thing is put for the thing that is m<expan type="">en</expan>t, or de&#173;
+scribed by the circumstance.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="O"><alpha>O</alpha>
+<wordentry type="h">
+<form lexeme="object(n)">OBiect</form> <xpln lang="en">, is that wheron any thing resteth or stayeth, as <expan type="">the</expan> obiect of the sight is <expan type="">the</expan> thing <expan type="">that</expan> the eye seeth or beholdes.</xpln></wordentry>
+  
+<wordentry type="h"><form lexeme="occupation(n)">Occupation</form> <xpln lang="en">is a figure of rhethorick preuenting obiections that may be alleged agenst a man, and answeri<emend err="u">n</emend>g  them before they be obiected.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h">
+<form lexeme="paraphrasis(n)">PAraphrasis</form> <xpln lang="en">is an enlargement of the bodie of a matter in words and prases only without expounding or ope&#173;
+ning of the text.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h">
+<form lexeme="stoic(n)">SToiks</form> <xpln lang="en">were a sect of Philosophers, the cheef wherof was  Zeno, who among other things hilde opinion that all things were ruled by destenie. And they tyed God in  such wise to the second causes as yf he could do nothing otherwise than these causes woulde gyue him leaue, wherby they vtterly tooke away Gods speciall and pe&#173;
+culiar prouidence, and maynteyned mans free will that he coulde of his owne power become blissed without  God.</xpln></wordentry>
+  
+<wordentry type="h">
+<form lexeme="subjection(n)">Subiection</form> <xpln lang="en">is a figure of Rhetoricke when a man demaun&#173;
+deth a question and aunswereth to it him self: or when he reasoneth with himself <term lang="la">pro &#38; contra</term> as they terme  it.</xpln></wordentry>
+  
+<wordentry type="h"><form lexeme="syllogism(n)">Syllogisme</form> <xpln lang="en">is a kind of argum<expan type="">en</expan>t which vpon the graunting of the two propositions called the maior &#38; the minor, dooth of necessitie inferre the c<expan type="">on</expan>clusion. As for ex<expan type="">am</expan>ple. 
+<lemeformat> Maior. Euery vertue is commendable. Minor. Iustice is a vertue. <term lang="la">Conclusio. Ergo.</term> Iustice is commendable. 
+</lemeformat>
+</xpln></wordentry>
+  
+<wordentry type="h"><form lexeme="synecdoche(n)">Sinecdoche</form> <xpln lang="en">is a figure, when the whole is put for the part or the part for the whole.</xpln></wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<closing><term lang="la">FINIS.</term></closing>
+
+</section>
+
+</page>
+</leme>
+

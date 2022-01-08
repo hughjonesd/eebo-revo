@@ -1,0 +1,84 @@
+<leme no="322">
+<page sig="a1r">
+<section type="Titlepage">
+RECORDS ARITHMETICKE:
+Contayning the ground of 
+Arts: In which is taught the generall 
+parts, rules, and operations, of the same 
+in whole Numbers and Fractions, after 
+a more easie and exact methode then 
+euer heretofore: First written by 
+ROBERT RECORD, Do&shy;
+ctor in Phisicke. 
+
+Since corrected and beautified by many No&shy;
+tations, and augmented with most briefe rules of 
+practise and others; necessarie in the trade of Mer&shy;
+chandise. Whereunto is added certaine Tables 
+of the valuation of all Coynes as they are current
+at this present time, with diuers other Tables and
+their explication. Very profitable and delight&shy;
+full vnto all Marchants, Gentlemen,
+and others, as by the contents of
+this booke doth appeare.
+By Iohn Mellis.
+ 
+Also the Art and application of Decimall Arith&shy;
+meticke: A Table of Board and Timber 
+measure, and the vse thereof. The Extraction and De&shy;
+monstration of the Square and Cubicke roots, 
+with necessary Questions and Tables 
+for interest after ten in the hundreth 
+is newly therevnto adioyned. 
+By R.N.
+
+LONDON:
+Printed by T.S. for Roger Iackson, 1615.
+</section>
+</page>
+
+<page no="578">
+<section type="Interest">
+<heading>
+A briefe addition of Interest.
+</heading>
+
+<heading>Definitions of Interest.</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><note>1</note> <form lang="en" lexeme="principal(n)">PRincipal,</form> <xpln lang="en">is the summe from which the
+interest is reckoned.</xpln></wordentry>
+
+<wordentry type="h"><note>2</note> <form lang="en" lexeme="interest(n)">Interest</form> <xpln lang="en">is the summe reckoned for the
+lending or forebearance of the Principal for a&shy;
+ny termes or time.</xpln></wordentry>
+
+<wordentry type="h"><note>3</note> <form lang="en" lexeme="proportion(n)">The proportion betweene the Interest,
+and the Principall</form> <xpln lang="en">is the reason of Interest.</xpln></wordentry>
+
+<wordentry type="h"><note>4</note> <form lang="en" lexeme="simple interest(n)">Interest simple,</form> <xpln lang="en">is that which is counted
+from the Principall only.</xpln></wordentry>
+
+<wordentry type="h"><note>5</note> <form lang="en" lexeme="compound interest(n)">Interest compound</form> <xpln lang="en">is that which is co<expan type="u+_">un</expan>&shy;
+ted for the Principall, together with the Arri&shy;
+age of Interest, and Principall.</xpln></wordentry>
+</page>
+
+<page no="579">
+<wordentry type="h"><note>6</note> <form lang="en" lexeme="interest profitable(n)">Interest profitable,</form> <xpln lang="en">is that which is ad&shy;
+ded to the Principall.</xpln>
+<lemenote>
+"Interest profitable" not identified as a phrase by the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><note>7</note> <form lang="en" lexeme="interest damageable(n)">Interest domageable,</form> <xpln lang="en">is that which is to 
+be subtracted from the Principall.</xpln>
+<lemenote>
+"Interest damageable" not identified as a phrase by the OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

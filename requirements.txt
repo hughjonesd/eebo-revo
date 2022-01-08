@@ -1,5 +1,6 @@
 attrs==21.2.0
 bleach==4.1.0
+cchardet==2.1.7
 cffi==1.14.5
 defusedxml==0.7.1
 entrypoints==0.3

@@ -1,0 +1,270 @@
+<leme no="570">
+
+<page sig="f1r">
+<section type="glossary">
+<heading>AN
+EXPLANATION
+OF THE
+MINERS
+Terms of Art
+Used in this
+BOOK.</heading>
+
+<wordgroup1 type="a">
+<wordentry type="h"><form lexeme="bar-master(n)"><f type="bk">B<f type="i">Ar-master<f type="r"> </form><xpln>is he which keepeth
+the Gage or Dish to measure
+all Miners Ore, he or his Servant be&shy;
+ing present when measured.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brazen-dish(n)"><f type="i">Brazen-Dish<f type="r"> </form><xpln>is the Standard by
+which the other Dishes are gaged,
+and is kept in the King's Hall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caver(n)"><f type="i">Cavers<f type="r"> </form><xpln>are any poor people that
+go about the Mines to beg or steal
+Ore from the Miners.</xpln></wordentry>
+</page>
+
+<page sig="f1v">
+<wordentry type="h"><form lexeme="coe(n)"><f type="i">Coes<f type="r"> </form><xpln>are little Houses which the
+Miners make over their Mines to
+lay the Ore in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cope(n)"><f type="i">Cope<f type="r"> </form><xpln lexeme="load(n)">is <f type="i">6d<f type="r">. for every Load of Ore,
+nine Dishes making one Load.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cross(n)"><f type="i">Crosses<f type="r"> </form><xpln>are two Nicks cut on the
+Superficies of the Earth, thus &#9769;
+which the <f type="i">Miners<f type="r"> make when they
+take the Ground to dig for Ore;
+This Cross gives the <f type="i">Miners<f type="r"> three
+days liberty to make and set on
+<f type="i">Stows<f type="r">: As many of these Crosses as
+the <f type="i">Miner<f type="r"> makes, so many Meers of
+Ground he may have in that Vein,
+if he set on Stows within three days
+after the making his Cross or Cros&shy;
+ses; but if he make but one Cross,
+and a stander by makes the second,
+and a stranger makes the third, eve&shy;
+ry one is served with the next Meer,
+according as they have first or last,
+sooner or later made their Cross or
+Crosses upon the Ground.</xpln></wordentry>
+</page>
+
+<page sig="f2r">
+<wordentry type="h"><form lexeme="dish(n)"><f type="i">Dish<f type="r"> </form><xpln>is a Trough made of Wood,
+about 28 Inches long, 4 Inches deep
+and 6 Inches wide; by which all <f type="i">Mi&shy;
+ners<f type="r"> measure their Ore: If any be
+taken selling their Ore, not first mea&shy;
+suring it by the Bar-masters Dish,
+and paying the Kings Duties, the
+<f type="i">Miners<f type="r"> incur that forfeiture which
+the 17<f type="i">th<f type="r">. Article has imposed upon
+them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drift(n)"><f type="i">Drift<f type="r"> </form><xpln>is a passage thus <editoraddition>[[image]]</editoraddition> cut
+out under the Earth betwixt Shaft
+and Shaft, or Turn and Turn, or a
+passage or way wrought under the
+Earth to the end of a Meer of ground
+or part of a Meer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="farmer(n)"><f type="i">Farmer<f type="r"> </form><xpln>is the Lord of the Field;
+or one that farms the Lot and Cope
+of the King.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fodder of lead(n)"><f type="i">Fodder of Lead<f type="r"> </form><xpln>at the Mines con&shy;
+tains Twenty two hundred and a
+half weight, though in <f type="i">London<f type="r"> but
+Twenty hundred weight.</xpln></wordentry>
+</page>
+
+<page sig="f2v">
+<wordentry type="h"><form lexeme="ore, forstid(n)"><f type="i">Forestid Ore<f type="r"></form> <xpln> is Ore that is gotten
+out of Earth and Dirt that hath been
+washt and Ore taken from it before.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="forefield(n)"><f type="i">Forfield<f type="r"> </form><xpln>is the furthest place that a
+man has wrought in his ground; or
+the end of a Meer above-ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="groove(n)"><f type="i">Groove<f type="r"> </form><xpln>is the Shaft or Pit sunk in&shy;
+to the Earth; they are sometimes
+sunk in the Vein and sometimes out.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hack(n)"><f type="i">Hack<f type="r"> </form><xpln>is a Tool that <f type="i">Miners<f type="r"> use
+like a Mattock.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hade(v)"><f type="i">Hade<f type="r"> </form><xpln>is where any Shaft or Turn
+goes descending like the side of a
+House, or like the descent of a steep
+Hill, then it is said to hade.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="load(n)"><f type="i">Load<f type="r"> </form><xpln>is nine Dishes of Ore;
+each Dish being about half a hun&shy;
+dred weight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lob(n)"><f type="i">Lobs<f type="r"> </form><xpln>are steps that ascend or des&shy;
+cend within the Mines, as stairs up
+to and down from a Chamber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lot(n)"><f type="i">Lot<f type="r"> </form><xpln>is the 13<sup>th</sup> Dish, Measure or
+Part of the <f type="i">Miners<f type="r"> Ore, which the
+Bar-master takes up for the King or
+the Farmer.</xpln></wordentry>
+</page>
+
+<page sig="f3r">
+<wordentry type="h"><form lexeme="meer(n)"><f type="i">Meer<f type="r"> </form><xpln>contains Twenty nine yards
+in length in any Vein.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meer-stake(n)"><f type="i">Meer-stake<f type="r"> </form><xpln>is a pin of wood drove
+into the superficies of the Earth, to
+shew the extent or end of a Meer of
+ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="works, old(n)"><f type="i">Old works<f type="r"> </form><xpln>are such that are either
+fallen in or stand unwrought.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pipe(n)"><f type="i">Pipe<f type="r"> </form><xpln>is where the Ore runs for&shy;
+wards endways in a hole, and doth
+not sink downwards or in a Vein.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pee(n)"><f type="i">Pee<f type="r"> </form><xpln>is where two Veins meet and
+cross one another thus &#9769; the place
+where they meet is called the <f type="i">Pee<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="possession(n)"><f type="i">Possession<f type="r"> </form><xpln>is the right to a Meer of
+ground, which <f type="i">Miners<f type="r"> enjoy, by
+having Stows upon that ground;
+and it is taken generally for the
+Stows themselves; For it is the
+Stows that give Possession.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pawn(n)"><f type="i">Pawn<f type="r"> </form><xpln>is a Pledge of Money put
+into the Bar-masters hand at the time
+when the Plaintiff causes the Bar&shy;
+master to arrest the Mine.</xpln></wordentry>
+</page>
+
+<page sig="f3v">
+<wordentry type="h"><form lexeme="pick(n)"><f type="i">Pick<f type="r"> </form><xpln>is a Tool the Miners use to
+cut down the Cliffs and Rocks of
+stone to make passages in the Earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rither(n)"><f type="i">Rither<f type="r"> </form><xpln>is a Stone or thin Cliff
+that lies in the Vein; The Ore
+sometimes runs on both sides it;
+Sometimes this Rither is so thick, it
+parts the Vein and makes one Vein
+two.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarter-cord(n)"><f type="i">Quarter-Cord<f type="r"> </form><xpln>is seven yards and a
+quarter, which the <f type="i">Miner<f type="r"> hath cross
+ways of his Vein on either side; for
+liberty to lay his Earth, Stones and
+Rubbish on, and to wash and dress
+up his Ore.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rake(n)"><f type="i">Rake<f type="r"> </form><xpln>is the same with a Vein.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shaft(n)"><f type="i">Shaft<f type="r"> </form><xpln>is the same with a Groove
+or Pit; They are sunk some ten some
+twenty Fathoms deep into the Earth,
+more or less.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stows(n)"><f type="i">Stows<f type="r"> </form><xpln lexeme="soul-tree(n)" lexeme="stow-blade(n)" lexeme="hang-bench(n)" lexeme="spindle(n)">are seven pieces of Wood
+(set upon the superficies of the Earth)
+fastened with pins of wood together;
+Two are called <f type="i">Soul-trees<f type="r">; two
+</page>
+
+<page sig="f4r">
+<f type="i">Stow-blades<f type="r">, two <f type="i">Hang-benches<f type="r"> and
+a <f type="i">Spindle<f type="r">: These <f type="i">Stows<f type="r"> give a <f type="i">Mi&shy;
+ner<f type="r"> or any person that owns them,
+as good right to a Meer or Meers of
+ground, (so that every Meer have a
+pair of <f type="i">Stows<f type="r"> set on them) as a Deed
+of Conveyance doth to any Purcha&shy;
+ser.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stool(n)"><f type="i">Stool<f type="r"> </form><xpln>is where the <f type="i">Miners<f type="r"> leave
+digging deeper, and work in the
+ends forwards; the end before you
+is called the <f type="i">Stool<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spindle(n)"><f type="i">Spindle<f type="r"> </form><xpln>is a piece of wood fastned
+into either <f type="i">Stow-blade<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="smytham(n)"><f type="i">Smytham<f type="r"> </form><xpln>is Lead Ore stamp'd and
+pounded down, like Powder or
+Sand, to cleanse the Stones and
+Earth from the Ore.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sough(n)"><f type="i">Sough<f type="r"> </form><xpln lexeme="addit(n)">is also called an <f type="i">Addit<f type="r">; It is
+a passage like a Vault cut out under
+the Earth, to drain the water from
+the Mines.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="smelting-house(n)"><f type="i">Smelting-house<f type="r"></form> <xpln lexeme="fodder(n)"> is a House where
+they run and melt the Ore into
+</page>
+
+<page sig="f4v">
+Lead; One of these will run a Tun
+in ten or twelve hours, A Fodder
+is their usual days work; that is,
+Twenty two hundred and an half
+weight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sump(n)"><f type="i">Sumps<f type="r"> </form><xpln>are holes sunk in <f type="i">Drifts<f type="r"> to
+<emend err="to"> </emend> the depth of two or three yards,
+more or less.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="men, twenty-four(n)"><f type="i">Twenty four men<f type="r">, </form><xpln>they are Twenty
+four men chosen every half year to
+redress the grievances of the <f type="i">Mines<f type="r">
+and <f type="i">Miners<f type="r">; But every man gene&shy;
+rally serves his year when chosen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="taker, next(n)"><f type="i">Next Taker<f type="r"> </form><xpln>is he that makes the
+next cross, or he that hath the next
+Meer in possession.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="turn(n)"><f type="i">Turn<f type="r"> </form><xpln>is a Pit sunk in some part of
+a Drift; If the <f type="i">Mine<f type="r"> be deep, there
+is many of these <f type="i">Turns<f type="r"> one below
+another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vein(n)"><f type="i">Vein<f type="r"></form> <xpln lexeme="gur(n)" lexeme="metals, mother of(n)" lexeme="vein, quick(n)" lexeme="vein, dead(n)"> is that which is bounded with
+<f type="i">Wrought<f type="r">, and contains <f type="i">Ore, Spar, Cauck,
+Clay, Chirt, Croil, Brown-hen, Pit&shy;
+cher-chirt, Gur<f type="r">, which the Philoso&shy;
+</page>
+
+<page sig="f5r">
+phers calls the Mother of Mettals,
+and soil of all colours sometimes.
+When it bears Ore it is called a quick
+<f type="i">Vein<f type="r">, when no Ore a dead <f type="i">Vein<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wough(n)"><f type="i">Woughs<f type="r"> </form><xpln>are the Walls or sides
+sometimes of hard stone, and some&shy;
+times soft; when soft, then the <f type="i">Mi&shy;
+ners<f type="r"> say they are rotten: These are
+the bounds of an entry. Betwixt
+the, all sorts of Earth, Stones and
+Ore lieth, or, as Philosophers say,
+groweth.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+<f type="i">The End of the Explanation.
+</closing>
+</section>
+</page>
+</leme>

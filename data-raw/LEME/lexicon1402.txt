@@ -1,0 +1,111 @@
+<leme no="1402">
+<page sig="a1r">
+<section type="Title-page">
+Abra-Mul&egrave: OR, A TRUE 
+HISTORY 
+Of the Dethronement of 
+MAHOMET IV. 
+Written in French by M. Le Noble. 
+Made English by J.P.
+
+London, Printed for R. Clavel at the peacock near St. Dun&shy;
+stan's Church in Fleet-street. 1696.
+</section>
+</page>
+
+<page sig="a4v">
+<section type="Glossary">
+<heading>
+An Explication of the Turkish Terms contain'd in 
+this History.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="sultan(n)">SUltan.</form> <xpln lang="en">
+The Emperor of the Turks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sultaness(n)">Sultaness <term lang="tu">Valid&egrave;</term>.</form> <xpln lang="en">
+The Sultaness, Mother of 
+the Sultan.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sultaness(n)">Sultaness <term lang="tu">Asseki</term>.</form> <xpln lang="en">
+The principal favourite Sultaness.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grand vizier(n)">Grand Visir.</form> <xpln lang="en">
+Chief Minister of the Ottoman Empire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mufti(n)">Mufti.</form> <xpln lang="en">
+Chief Priest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imam(n)">Iman.</form> <xpln lang="en">
+A Doctor, or Preacher of the Alcoran.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dervish(n)">Dervis.</form> <xpln lang="en">
+A Turkish Monk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Alcoran(n)">Alcoran.</form> <xpln lang="en">
+The Mahometan's Bible.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mosque(n)">Mosquee.</form> <xpln lang="en">
+A Mahometan Temple.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seraskier(n)">Seraskier.</form> <xpln lang="en">
+A General of an Army.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bashaw(n)">Basha.</form> <xpln lang="en">
+A Governor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kaimakam(n)">Kaimakan.</form> <xpln lang="en">
+High Marshall of the Houshold, and 
+Governour of Constantinople.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="janizary(n)">Janisaries.</form> <xpln lang="en">
+The Turkish Infantry, the Sultan's Guards.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aga(n)">Aga.</form> <xpln lang="en">
+Collonel of the Janisaries.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seraglio(n)">Serraglio.</form> <xpln lang="en">
+The Sultan's Palace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kehaya(n)">Kiaia.</form> <xpln lang="en">
+A Lieutenant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu">Kisler Agasi.</form> <xpln lang="en">
+Chief of the black Eunuchs, and 
+superintendent of the Serraglio.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu">Kisler Kiasi.</form> <xpln lang="en">
+Deputy to the Kisler Agasi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grand defterdar(n)">Grand Teftardar.</form> <xpln lang="en">
+Lord Treasurer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bostangi bachi(n)">Bostangi Bachi.</form> <xpln lang="en">
+Superintendent of the Sultan's 
+Palaces, Gardens and Buildings, or chief Sur&shy;
+veyor.</xpln>
+<lemenote>
+"Bostangi" is an OED headword, and "Bostangi Bachi(n)" appears in a citation dated 1688 ("steerage," n., 1.c.).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bostangi(n)">Bostangi.</form> <xpln lang="en">
+A Gardner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragoman(n)">Dragoman.</form> <xpln lang="en">
+An Interpreter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu">Catacheriff.</form> <xpln lang="en">
+A Decree of the Sultan.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fatwa(n)">Fetfa.</form> <xpln lang="en">
+A decree of the Mufti.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="timar(n)">Timar.</form> <xpln lang="en">
+A Feofment for Life.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>
+

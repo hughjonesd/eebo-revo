@@ -1,0 +1,204 @@
+<leme no="330">
+
+<page sig="a4v">
+<f type="r">THE EXPLICATION OF <emend err="CE RTAIN">CERTAIN</emend>
+<f type="i">WORDS IN THE RHEMISH TRANSLA&shy;
+tion, not familiar to the vulgar Reader, which (if we
+may beleeue them ) might not convenient&shy;
+ly bee uttered otherwise.<f type="r">
+
+<wordgroup1 type="a" object="A">A
+
+<wordentry type="h"><form lexeme="abstracted(a)"><f type="i">ABstracted ,<f type="r"></form><xpln lexeme="draw away(v)"> drawen away. Iam.
+1.14.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acquisition(n)"><f type="i">Acquisition,<f type="r"></form><xpln lexeme="getting(n)" lexeme="purchasing(n)"> getting, purchasing,
+Eph.1.14.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="advent(n)"><f type="i">Advent<f type="r"></form><xpln lexeme="coming(n)"> the comming. Matth.
+24.27.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adulterating(n)"><f type="i">Adulterating,<f type="r"> </form><xpln lexeme="corrupting(a)"> corrupting, 2. Cor
+2.17. 2.Cor.4.2.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="agnition(n)"><f type="i">Agnition,<f type="r"> </form><xpln lexeme="knowledge(n)" lexeme="acknowledging(n)"> knowledge or acknowledging. Philem.
+6.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="allegory(n)"><f type="i">Allegorie ,<f type="r"> </form><xpln> a mysticall speach, more thean the bare
+letter. Gal.4.24.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amen(ex)"><f type="i">Amen<f type="r"> </form><xpln> expounded. Io.8.34.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anathema(n)"><f type="i">Anathema<f type="r"> </form><xpln> expounded.	Rom.9.3.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="archisynagogue(n)"><f type="i">Archisynagogue<f type="r"> </form><xpln> expounded. Mar.5.22.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="assist(v)"><f type="i">Assist.<f type="r"> </form><xpln> Luke 2.19. signifieth the Angels standing
+and attending alwayes to do their ministerie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Assumption(n)"><f type="i">Assumption<f type="r"> </form><xpln> Luke 9.51. Christs departure out of
+this world by his death and ascension.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="azyme(n)"><f type="i">Azymes,<f type="r"> </form><xpln lexeme="bread, unleavened(n)"> unleavened bread. Matth.26.17.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">C
+
+<wordentry type="h"><form lexeme="calumniate(v)"><f type="i">CAlumniate,<f type="r"> </form><xpln> by this word is signified violent op&shy;
+pression by word or deed. Luk.3.14.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="catechize(v)" lexeme="catechized(a)"><f type="i">Catechizeth<f type="r"> and <f type="i">Catechized<f type="r"> </form><xpln lexeme="catechumen(n)"> Gal.6.6. He Cate&shy;
+chizeth that teacheth the principles of the
+Christian faith, and they that heare and learne,
+are Catechized , and are therefore called often
+in the Annotations Catechumens.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="character(n)"><f type="i">Character<f type="r"> </form><xpln lexeme="mark(n)" lexeme="stamp(n)"> a marke or stampe. Apoc.13.16.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="commessation(n)"><f type="i">Commessations ,<f type="r"> </form><xpln> immoderate bankets, and belly
+cheere, with wanton riotousnesse. Gal.5.21.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="condign(a)"><f type="i">Condigne<f type="r"></form><xpln lexeme="comparable(a)"> comparable. Rom.8.18.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contristate(v)"><f type="i">Contristate ,<f type="r"> </form><xpln> this word signifieth to make heauy &
+sad.<f type="r"> Eph.4.30.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cooperate(v)"><f type="i">Cooperate,<f type="r"> </form><xpln lexeme="cooperation(n)" lexeme="cooperator(n)"> signifieth working with others. Rom.
+8.28. like wise <f type="i">Cooperation Cooperatours.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corbona(n)"><f type="i">Corbona<f type="r"> </form><xpln> expounded. Math.27 6</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">D
+
+<wordentry type="h"><form lexeme="depositum(n)"><f type="i">DEpositum<f type="r"> </form><xpln lexeme="grace(n)"> expounded. I.Tim.6.20. It may
+signifie also Gods grace giuen us to keep
+2.Tim.1.12.14.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="didrachm(n)"><f type="i">Didrachme<f type="r"> </form><xpln> expounded	Mat.17.24.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dominical(a)"><f type="i">Dominicall<f type="r"> </form><xpln lexeme="day(n)" lexeme="Sunday(n)"> day, Sunday.	Apoc.1.1O.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="donaric(n)"><f type="i">Donarics,<f type="r"> </form><xpln> gifts offred to God for his temple. Luk.
+21.5.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E">E
+
+<wordentry type="h"><form lexeme="evacuated(a)"><f type="i">EVacuated<f type="r"> </form><xpln> from Christ, that is, made void and
+having no part with him, Gal.5.4.
+The scandall of the Crosse <f type="i">Evacuated,<f type="r"> that is,
+made void, cleane taken away.	Gal.5.11.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="evangelize(v)"><f type="i">Evangelize ,<f type="r"> </form><xpln> signifieth such preaching of good ti&shy;
+dings, as concerneth the Gospell. See the
+Preface.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eunuch(n)"><f type="i">Eunuches<f type="r"> </form><xpln lexeme="men, gelded(n)"> gelded men.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="euro aquilo(n)"><f type="i">Euro aquilo,<f type="r"> </form><xpln lexeme="wind, north-east(n)"> a North-est winde. Act.27.14.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exinarate(v)"><f type="i">Exinanited,<f type="r"> </form><xpln> abased exceedingly. Phil.2.7.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">G
+
+<wordentry type="h"><form lexeme="gratis(a)"><f type="i">GRatis,<f type="r"> </form><xpln lexeme="freely(adv)" lexeme="nothing, for(n)" lexeme="Godamercy, for(n)"> an usuall word to signifie, for nothing,
+freely, for Godamercie, without deserts.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">H
+
+<wordentry type="h"><form lexeme="holocaust(n)"><f type="i">HOlocauste,<f type="r"> </form><xpln> a kind of sacrifice, where all was
+burnt in the honour of God. Heb.1O.6.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="host(n)"><f type="i">Hostes,<f type="r"> </form><xpln lexeme="sacrifice(n)"> sacrifices. I.Cor.10.18.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">I
+
+<wordentry type="h"><form lexeme="invocated(a)"><f type="i">INvocated,<f type="r"> </form><xpln> called upon and prayed unto. Act.9&shy;
+21. Here of we say invocation of Saints, &
+to invocate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="issue(n)"><f type="i">Issue,<f type="r"> </form><xpln lexeme="event, good(n)"> good event I.Cor.10.13.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justice(n)"><f type="i">Iustice,<f type="r"> </form><xpln> taken in the new Testament not as it is
+contrary to wrong or iniury but for the qualitie
+whereof a man is iust and iustified. Rom.4.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N">N
+
+<wordentry type="h"><form lexeme="neophyte(n)"><f type="i">Neophyte<f type="r"> </form><xpln> expounded. I. Tim.3.6</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">P
+
+<wordentry type="h"><form lexeme="Paraclete(n)"><f type="i">PAraclete<f type="r"> </form><xpln> expounded.	Ioh.4.14</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Parasceve(n)"><f type="i">Parasceue,<f type="r"> </form><xpln lexeme="Good Friday(n)"> the Iewes Sabboth eue , good Fri&shy;
+day. Mar.15.42. See the Preface.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pasche(n)"><f type="i">Pasche,<f type="r"> </form><xpln lexeme="Easter(n)"> Easter, and the paschall lambe. Luk.22.1.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pentecost(n)"><f type="i">Pentecost ,<f type="r"> </form><xpln lexeme="Whitsuntide(n)"> Whitsuntide , and the space of fifty
+dayes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prefinition(n)"><f type="i">Prefinition,<f type="r"> </form><xpln> a determination before. Eph.3.11.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prepuce(n)"><f type="i">Prepuce<f type="r"> </form><xpln> expounded.		Rom 2.25.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prescience(n)"><f type="i">Prescience,<f type="r"> </form><xpln lexeme="foreknowledge(n)"> foreknowledge: Act.2.23.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prevaricator(n)"><f type="i">Prevaricatour,<f type="r"> </form><xpln lexeme="transgressor(n)" lexeme="prevarication(n)" lexeme="transgression(n)"> transgressour: and <f type="i">Prevarication, <f type="r">tran&shy;
+gression. Rom.2.25.25.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proposition(n)">Loaues of <f type="i">Proposition<f type="r"></form> <xpln>so called, because they were
+proposed and set upon the table, in the temple
+before God.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">R
+
+<wordentry type="h"><form lexeme="repropitiate(v)"><f type="i">REpropitiate<f type="r"> </form><xpln> the sinnes Heb. 2.17. that is, make
+a reconciliation for them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resolution(n)"><f type="i">Resolution<f type="r"> ,</form> <xpln> the separation of the body and soule,
+the departing of this life. 2.Tim.4.6.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resuscitate(v)"><f type="i">Resuscitate<f type="r"> </form><xpln> the grace, that is, raise, quicken renew
+and reviue the grace which otherwise langui&shy;
+sheth and decayeth. 2.Tim.1.6</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S">S
+
+<wordentry type="h"><form lexeme="sabbatism(n)"><f type="i">SAbbatisme;<f type="r"> </form><xpln> a time of resting and ceasing from
+labours. Heb.4.9.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sacrament(n)"><f type="i">Sacrament,<f type="r"> </form><xpln lexeme="mystery(n)"> for mysterie. Eph. 1. 9. Eph.3.3. & 9.
+Eph.5.32. and else where,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sancta sanctorum(n)"><f type="i">Sancta sanctorum,<f type="r"> </form><xpln> the holie of holies, that is, the
+inmost and holiest place of the Iewes temple
+as it were the Chancell. Heb.9.2.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superedified(a)"><f type="i">Superedified ,<f type="r"> </form><xpln> builded upon Christ the principal
+stone. I.Pet.2.5.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">T
+
+<wordentry type="h"><form lexeme="tetrach(n)"><f type="i">TEtrach ,<f type="r"> </form><xpln> governour or Prince of the fourth
+part of a countrey. Mar.14.2</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="throne(n)"><f type="i">Thrones,<f type="r"> </form><xpln> an higher order of Angels. Col.1.16</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V">V
+
+<wordentry type="h"><form lexeme="victim(n)"><f type="i">VIctims.<f type="r"> </form><xpln lexeme="sacrifice(n)"> Sacrifices. Act.7.27.</xpln></wordentry>
+</wordgroup1>
+</page>
+</leme>

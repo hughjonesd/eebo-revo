@@ -1,0 +1,453 @@
+
+
+
+<leme no="24">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 4 8 6 6
+
+v e r . 1 . 0  ( 2 0 1 8 )
+</term>
+</lemepagenote>
+<heading>
+Here begynneth a lytell treatyse for to lerne
+Englysshe and Frensshe
+</heading>
+
+
+</page>
+
+<page sig="a1v">
+<wordgroup1 type="t">
+
+<wordentry type="h"><form lang="en" lexeme="one(n)">One</form> <xpln lang="fr">Vng</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two(n)">Two</form> <xpln lang="fr">Deux</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)">Thre</form> <xpln lang="fr">Troys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)">Foure</form> <xpln lang="fr">Quatre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)">Fyue</form> <xpln lang="fr">Cinq</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)">Syxe</form> <xpln lang="fr">Six</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)">Seuen</form> <xpln lang="fr">Sept</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)">Eyght</form> <xpln lang="fr">Huyct</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)">Nyne</form> <xpln lang="fr">Neuf</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)">Ten</form> <xpln lang="fr">Dix</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleven(n)">Enleuen</form> <xpln lang="fr">Onze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelve(n)">Twelue</form> <xpln lang="fr">Douze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteen(n)">Thyrtene</form> <xpln lang="fr">Traize</xpln></wordentry>
+
+
+</page>
+
+<page sig="a2r">
+<wordentry type="h"><form lang="en" lexeme="fourteen(n)">Fourtene</form> <xpln lang="fr">Quatorze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifteen(n)">Fyftene</form> <xpln lang="fr">Quinze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteen(n)">Sixtene</form> <xpln lang="fr">Saize</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeen(n)">Seuentene</form> <xpln lang="fr">Dixsept</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteen(n)">Eyghtene</form> <xpln lang="fr">Dixhuit</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteen(n)">Nyntene</form> <xpln lang="fr">Dixneuf</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty(n)">Twenty</form> <xpln lang="fr">Vingt</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one(n)" lexeme="and(c)" lexeme="twenty(n)">One and twenty</form> <xpln lang="fr">Vingt et vng</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two(n)" lexeme="and(c)" lexeme="twenty(n)">Two and twenty</form> <xpln lang="fr">Vingt et deux</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)" lexeme="and(c)" lexeme="twenty(n)">Thre and twenty</form> <xpln lang="fr">Vingt et troys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)" lexeme="and(c)" lexeme="twenty(n)">Foure and twenty</form> <xpln lang="fr">Vingt et quatre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)" lexeme="and(c)" lexeme="twenty(n)">Fyue and twenty</form> <xpln lang="fr">Vingt et cinq</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)" lexeme="and(c)" lexeme="twenty(n)">Syxe and twenty</form> <xpln lang="fr">Vingt et six</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)" lexeme="and(c)" lexeme="twenty(n)">Seuen and twenty</form> <xpln lang="fr">Vingt et sept</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)" lexeme="and(c)" lexeme="twenty(n)">Eyght and twenty</form> <xpln lang="fr">Vingt et huict</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)" lexeme="and(c)" lexeme="twenty(n)">Nyne and twenty</form> <xpln lang="fr">Vingt et neuf</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirty(n)">Thyrty</form> <xpln lang="fr">Trente</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forty(n)">Fourty</form> <xpln lang="fr">Quarante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifty(n)">Fyfty</form> <xpln lang="fr">Cincquante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixty(n)">Sixty</form> <xpln lang="fr">Saixanta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventy(n)">Seuenty</form> <xpln lang="fr">Septante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighty(n)">Eyghty</form> <xpln lang="fr">Huictante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ninety(n)">Nynty</form> <xpln lang="fr">Nonante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="an(d)" lexeme="hundred(n)">An hondred</form> <xpln lang="fr">Cent</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="thousand(n)">A thousande</form> <xpln lang="fr">Mille</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)" lexeme="thousand(n)">Ten thousande</form> <xpln lang="fr">Dix mille</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="an(d)" lexeme="hundred(n)" lexeme="thousand(n)">An hondred thousande</form> <xpln lang="fr">Cent mille</xpln></wordentry>
+
+
+</page>
+
+<page sig="a2v">
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="gold(n)" lexeme="and(c)" lexeme="silver(n)">Of golde and syluer</form> <xpln lang="fr">Dor et dargent</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="cloth(n)" lexeme="gold(n)">Of cloth of golde</form> <xpln lang="fr">De drap dor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="satin(n)" lexeme="worstede(n)">Of satyn &amp; worstede</form> <xpln lang="fr">De satin et dostade</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="tin(n)" lexeme="and(c)" lexeme="coper(n)">Of tynne and coper</form> <xpln lang="fr">Destain et cuyure</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="wool(n)" lexeme="and(c)" lexeme="silk(n)">Of wulle and sylke</form> <xpln lang="fr">De laune et soye</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="and(c)" lexeme="of(pp)" lexeme="ginger(n)">And of gynger</form> <xpln lang="fr">Et de gingenbre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="cynamome(n)">Of cynamome</form> <xpln lang="fr">De cynamome</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="fig(n)" lexeme="and(c)" lexeme="raisin(n)">Of fygges and rasyns</form> <xpln lang="fr">De figues et de raysins</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="pearl(n)" lexeme="precious(a)" lexeme="stone(n)">Of perles &amp; precyous stones</form> <xpln lang="fr">De ples &amp; pieres preciousse</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="velvet(n)" lexeme="damask(n)">Of veluet &amp; damaskes</form> <xpln lang="fr">De velours et damas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="fine(a)" lexeme="holland(n)" lexeme="cloth(n)">Of fyn hollande cloth</form> <xpln lang="fr">De fine toille de hollande</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="iron(n)" lexeme="and(c)" lexeme="lead(n)">Of yron and leed</form> <xpln lang="fr">De fer et plomb</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="pepper(n)" lexeme="and(c)" lexeme="saffron(n)">Of peper and saffron</form> <xpln lang="fr">De poiure et saffren</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="clove(n)" lexeme="and(c)" lexeme="mace(n)">Of clowes and maces</form> <xpln lang="fr">De clous et de maces</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="date(n)" lexeme="and(c)" lexeme="almond(n)">Of dates and almondes</form> <xpln lang="fr">De dates et damandes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="apple(n)" lexeme="orange(n)">Of apples of orranges</form> <xpln lang="fr">De pommes de orenge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple(n)" lexeme="of(pp)" lexeme="garnet(n)">Apples of garnattes</form> <xpln lang="fr">Pommes de granades</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="and(c)" lexeme="of(pp)" lexeme="all(n)" lexeme="manner(n)" lexeme="wine(n)" lexeme="Rhenish(a)" lexeme="Byans(a)">And of alle maner of wyne Raynysshe and byane</form> <xpln lang="fr">Et de toutes manieres de vin De rin et de beaune</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)" lexeme="of(pp)" lexeme="Orsay(pn)" lexeme="and(c)" lexeme="caprik(a)" lexeme="Gascon(pn)">Wyne of orsey and capryk wyne of gasgon</form> <xpln lang="fr">Vin de osoye et capric vin de gascongne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)" lexeme="of(pp)" lexeme="Rochelle(n)">Wyne of rochell</form> <xpln lang="fr">Vin de rochelle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malmsey(n)" lexeme="and(c)" lexeme="rumney(n)">Maluesy and romanye</form> <xpln lang="fr">Maruoysie et rommonye</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)" lexeme="of(pp)" lexeme="Orleans(pn)">Wyne of orleaunce</form> <xpln lang="fr">Vin dorleans</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="muscadel(n)" lexeme="and(c)" lexeme="bastard(n)">Muscadell and bastarde</form> <xpln lang="fr">Muscadel et bastarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="all(n)" lexeme="manner(n)" lexeme="corn(n)">Of all maner of corne</form> <xpln lang="fr">De toutes magnieres de bles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="wheat(n)" lexeme="Normandy(pn)">Of whete of normandye</form> <xpln lang="fr">De ble de normandie</xpln></wordentry>
+
+
+</page>
+
+<page sig="a3r">
+<wordentry type="h"><form lang="fr">De toutes magnieres de bles</form> <xpln lang="fr">De bles de normandie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="rye(n)" lexeme="barley(n)" lexeme="and(c)" lexeme="oat(n)">Of rye barly and otes</form> <xpln lang="fr">De soigle dorge et dauoyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)" lexeme="pea(n)" lexeme="and(c)" lexeme="bean(n)">Of pesyn and benes</form> <xpln lang="fr">De pois et defeues</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="and(c)" lexeme="of(pp)" lexeme="all(n)" lexeme="manner(n)" lexeme="fruit(n)">And of al maner of fruyte</form> <xpln lang="fr">Et de toutes magnie&shy;
+res de fruitz</xpln></wordentry>
+
+
+</page>
+
+<page sig="a4r">
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="hair(n)">My heres</form> <xpln lang="fr">Mes cheueulx</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="brow(n)">My browes</form> <xpln lang="fr">Mez sourcieulx</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mine(pr)" lexeme="ear(n)">Myn eres</form> <xpln lang="fr">Mez oreilles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="tooth(n)">My teeth</form> <xpln lang="fr">Mes dens</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="lip(n)">My lyppes</form> <xpln lang="fr">Mez leures</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="head(n)">My hede</form> <xpln lang="fr">Ma teste</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="forehead(n)">My forhede</form> <xpln lang="fr">Mon front</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mine(pr)" lexeme="eye(n)">Myn eyen</form> <xpln lang="fr">Mez yeulx</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="nose(n)">My nose</form> <xpln lang="fr">Mon nez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="tongue(n)">My tongue</form> <xpln lang="fr">Ma langue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="chin(n)">My chynne</form> <xpln lang="fr">Mon menton</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="neck(n)">My necke</form> <xpln lang="fr">Mon col</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="throat(n)">My throte</form> <xpln lang="fr">Ma gorge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="face(n)">My face</form> <xpln lang="fr">Mon visage</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="arm(n)">My armes</form> <xpln lang="fr">Mes bras</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="shoulder(n)">My shulders</form> <xpln lang="fr">Mes espaules</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="breast(n)">My breste</form> <xpln lang="fr">Ma poyterine</xpln></wordentry>
+
+
+</page>
+
+<page sig="a4v">
+<wordentry type="h"><form lang="en" lexeme="mine(n)" lexeme="heart(n)">Myn herte</form> <xpln lang="fr">Mon cueur</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="brain(n)">My brayne</form> <xpln lang="fr">Ma ceruelle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="liver(n)">My lyuer</form> <xpln lang="fr">Ma foy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="light(n)">My lyghtes</form> <xpln lang="fr">Mon pomon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="milt(n)">My mylte</form> <xpln lang="fr">Ma rate</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="gut(n)">My guttes</form> <xpln lang="fr">Mes boiauz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="back(n)">My backe</form> <xpln lang="fr">Mon dos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="buttock(n)">My buttockes</form> <xpln lang="fr">Mez fesses</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="thigh(n)">My thyghes</form> <xpln lang="fr">Me cuisses</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="leg(n)">My legges</form> <xpln lang="fr">Mez iambes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="hand(n)">My handes</form> <xpln lang="fr">Mes mains</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="bonnet(n)">My bonet</form> <xpln lang="fr">Mon bonnet</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="hat(n)">My hatte</form> <xpln lang="fr">Mon chappeau</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="doublet(n)">My doublette</form> <xpln lang="fr">Mon pourpoint</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="shoe(n)">My shone</form> <xpln lang="fr">Mez soulliers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="point(n)">My poyntes</form> <xpln lang="fr">Mes esgulletes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="girdle(n)">My gyrdelle</form> <xpln lang="fr">Ma sainture</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="stomach(n)">My stomake</form> <xpln lang="fr">Mon estomac</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="bladder(n)">My bledder</form> <xpln lang="fr">Ma vecye</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="reins(n)">My raynes</form> <xpln lang="fr">Mez reins</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="hip(n)">My hyppes</form> <xpln lang="fr">Mez hanchez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="knee(n)">My knees</form> <xpln lang="fr">Mez genoulx</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="foot(n)">My fete</form> <xpln lang="fr">Mez piez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="tuel(n)">My toole</form> <xpln lang="fr">Mes ortieulx</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="hood(n)">My hode</form> <xpln lang="fr">Mon chapperon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="shirt(n)">My sherte</form> <xpln lang="fr">Ma chemise</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="hose(n)">My hosen</form> <xpln lang="fr">Mez chausses</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="gown(n)">My gowne</form> <xpln lang="fr">Ma robe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="purse(n)">My purse</form> <xpln lang="fr">Ma bourse</xpln></wordentry>
+
+
+</page>
+
+<page sig="a5r">
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="dagger(n)">My dager</form> <xpln lang="fr">Ma dague</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="staff(n)">My stafe</form> <xpln lang="fr">Mon baton</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="bow(n)">My bowe</form> <xpln lang="fr">Mon arc</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mine(n)" lexeme="arrow(n)">Myn arowes</form> <xpln lang="fr">Mez flesses</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="boot(n)">My botes</form> <xpln lang="fr">Mes houseaulx</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="spur(n)">My spores</form> <xpln lang="fr">Mes esperons</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="sword(n)">My swerde</form> <xpln lang="fr">Mon espee</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="horse(n)">My hors</form> <xpln lang="fr">Mon cheuaul</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="saddle(n)">My sadle</form> <xpln lang="fr">Ma selle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="bridle(n)">My brydell</form> <xpln lang="fr">Ma bryde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="spear(n)">My spere</form> <xpln lang="fr">Ma lance</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="harness(n)">My herneys</form> <xpln lang="fr">Mon harnoys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mine(n)" lexeme="aglet(n)">Myn aglet</form> <xpln lang="fr">Mon lacet</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="point(n)">Apoynt</form> <xpln lang="fr">La ferrure dun lasset</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="kirtle(n)">A kyrtell</form> <xpln lang="fr">Vng corset</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="an(d)" lexeme="apron(n)">An appron</form> <xpln lang="fr">Vng deuenteau</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="tucking(a)" lexeme="girdle(n)">A toukynge gyrdell</form> <xpln lang="fr">Vng couriette a trosser</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="key(n)">A keye</form> <xpln lang="fr">Vng clef</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="key(n)" lexeme="wonge(n)">A keye wonge</form> <xpln lang="fr">Vng pendure de clefz</xpln>
+<lemenote>
+"wonge" not found in this sense, a pendant, in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="shoe(n)">A shoo</form> <xpln lang="fr">Vng soulier</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="kerchief(n)">A kerchere</form> <xpln lang="fr">Vng querechyief</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="neckerchief(n)">A neckerchere</form> <xpln lang="fr">Vng collerette</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="pin-case(n)">A pynkasse</form> <xpln lang="fr">Vng espinceau</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="needle(n)">A nedyll</form> <xpln lang="fr">Vng esguille</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="thimble(n)">A thymble</form> <xpln lang="fr">Vng noylot</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="my(pr)" lexeme="glove(n)">My gloues</form> <xpln lang="fr">Mez gans</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="sleave(n)">A sleue</form> <xpln lang="fr">Vng mance</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="whole(n)">A hole</form> <xpln lang="fr">Vng trou</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="gait(n)">A gate</form> <xpln lang="fr">Vng porte</xpln></wordentry>
+
+
+</page>
+
+<page sig="a6v">
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="glass(n)">A glasse</form> <xpln lang="fr">Vng miroeuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="window(n)">A wyndowe</form> <xpln lang="fr">Vng fenestre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="chair(n)">A chayer</form> <xpln lang="fr">Vng chaiere</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="breech(n)">A breche </form> <xpln lang="fr">Vng ramon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="sun(n)">The sonne</form> <xpln lang="fr">Le soleil</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="moon(n)">The mone</form> <xpln lang="fr">La lune</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="star(n)">The sterre</form> <xpln lang="fr">Lestoille</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="earth(n)">The erthe</form> <xpln lang="fr">La terra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="water(n)">The water</form> <xpln lang="fr">Leaue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="sky(n)">The skye</form> <xpln lang="fr">Le firmament</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="wind(n)">The wynde</form> <xpln lang="fr">Le vent</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="night(n)">The nyght</form> <xpln lang="fr">La nuyt</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="hour(n)">The houres</form> <xpln lang="fr">Les heures</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="way(n)">The wayes</form> <xpln lang="fr">Les chemins</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="street(n)">The stretys</form> <xpln lang="fr">Lez rues</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="lane(n)">The lanes</form> <xpln lang="fr">Lez ruelles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="town(n)">The townes</form> <xpln lang="fr">Les vylles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="church(n)">The chirches</form> <xpln lang="fr">Les eglises</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="the(d)" lexeme="corn(n)">The cornes</form> <xpln lang="fr">Les bles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wheat(n)">Wete</form> <xpln lang="fr">Fourment</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barley(n)">Barley</form> <xpln lang="fr">Orge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oat(n)">Otes</form> <xpln lang="fr">Auoynes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rye(n)">Rye</form> <xpln lang="fr">Sesgle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bean(n)">Benys</form> <xpln lang="fr">Feues</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">Brede</form> <xpln lang="fr">Pain</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pease(n)">Pesyn</form> <xpln lang="fr">Pois</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butter(n)">Buttre</form> <xpln lang="fr">Beure</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese(n)">Chese</form> <xpln lang="fr">Fourmage</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="egg(n)">Egges</form> <xpln lang="fr">Oeus</xpln></wordentry>
+
+
+</page>
+
+<page sig="b1r">
+<wordentry type="h"><form lang="en" lexeme="apple(n)">Apples</form> <xpln lang="fr">Pommes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pear(n)">Perys</form> <xpln lang="fr">Poyres</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plum(n)">Plommes</form> <xpln lang="fr">Prunes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cherry(n)">Cherys</form> <xpln lang="fr">Cherises</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nut(n)">Nuttes</form> <xpln lang="fr">Noys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milk(n)">Mylke</form> <xpln lang="fr">Let</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cream(n)">Creme</form> <xpln lang="fr">Crayme</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wrath(n)">Wrath</form> <xpln lang="fr">Ire</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="day(n)">A daye</form> <xpln lang="fr">Vng iour</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yesterday(n)">Iesterdaye</form> <xpln lang="fr">Hyer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="month(n)">A moneth</form> <xpln lang="fr">Vng moys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="year(n)">A yere</form> <xpln lang="fr">Vng an</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Monday(n)">Mondaye</form> <xpln lang="fr">Lundy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tuesday(n)">Tuesdaye</form> <xpln lang="fr">Mardy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Wednesday(n)">Wednesdaye</form> <xpln lang="fr">Mercredy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Thursday(n)">Thursdaye</form> <xpln lang="fr">Ieudy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Friday(n)">Frydaye</form> <xpln lang="fr">Vendredy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Saturday(n)">Satyrdaye</form> <xpln lang="fr">Samedy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Sunday(n)">Sondaye</form> <xpln lang="fr">Dimenche</xpln></wordentry>
+
+</wordgroup1>
+</page>
+</leme>
+
+
+

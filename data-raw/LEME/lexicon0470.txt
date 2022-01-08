@@ -1,0 +1,2836 @@
+<leme no="470">
+<page no="llll1r">
+<section type="Title-page">
+A 
+PHYSICAL 
+DICTIONARY, 
+Expounding such words, as being terms of Art, or other&#124;
+wise derived from the Greek and Latin, are 
+dark to the English Reader.
+
+This Dictionary is of use in the reading of all other Books of 
+this Nature, in the English Tongue.
+
+LONDON: 
+Printed by Peter Cole in Leaden-Hall, and are to be sold 
+at his Shop, at the sign of the Printing-press in 
+Cornhil. 1655.
+</section>
+</page>
+
+<page no="llll2r">
+<section type="Dictionary">
+
+<heading>A 
+Physical 
+Dictionary.</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="en" lexeme="apophlegmatism(n)">APophlegmatisms,</form> <xpln lang="en">Medicines drawing
+flegm out of the Head.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agaric(n)" lexeme="trochiscate(v)">Agaricktrochiscated,</form> <xpln lang="en">See the <f type="i">London 
+Dispensatory</f> in English.
+</xpln>
+<lemenote>
+The use of "trochiscated" antedates the first OED citation of the verb (1657).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apozem(n)">Apozeme,</form> <xpln lang="en">A Medicine made of the Broth of di&#124;
+vers Herbs, and other Ingredients; unto which 
+somtimes certain Syrups are added.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="animal(a)" lexeme="faculty(n)">Animal Faculties,</form> <xpln lang="en">The Powers of Hearing,
+Seeing, Smelling, Tasting, Feeling; of Ima&#124;
+gination, Understanding, Memory, Will, Go&#124;
+ing, Standing, and all Voluntary Motion. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aranea Tunica:</form> <xpln lang="en" lexeme="cobweb coat(n)" lexeme="tunicle(n)">The Cobweb-Coat, or Tu&#124;
+nicle
+</xpln>
+<lemenote>
+"Cobweb-Coat" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="abdomen(n)">Abdomen:</form> <xpln lang="en">The Belly, or Paunch
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apoplectic(a)" lexeme="water(n)">Apoplectick Water:</form> <xpln lang="en">Good for the Apoplexy
+</xpln>
+<lemenote>
+"Apoplectick Water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="autumn(n)">Autumn:</form> <xpln lang="en">Harvest, the Fall of the Leaf
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="actual heat(n)">Actual Heat:</form> <xpln lang="en" lexeme="potential heat(n)">is Heat that may be felt by 
+the hand, such as is in Fire, and all things heated
+thereby; or in the Body of one in a Feaver:
+It is opposed to Potential Heat, viz. That 
+cannot be felt by the Hand, as the Heat in 
+pepper, in Mustard seed, in a Flint, in unsla&#124;
+ked Lime: and the contrary of Actual Cold.
+</xpln>
+<lemenote>
+"Actual Heat" and "Potential Heat" are not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="affected(a)">Affected:</form> <xpln lang="en">Troubled, Diseased: An Affect, a 
+Disease, Trouble, Disorder.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aquae Acidulae:</form> <xpln lang="en" lexeme="spa(n)">The Spaw Waters, like those 
+of Epsam, Barnet, and Tunbridg, with us.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="absurdity(n)">Absurdities:</form> <xpln lang="en">Unreasonable things
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="acrimony(n)">Acrimony:</form> <xpln lang="en">Sharpness, such as in Mustard, Pep&#124;
+per, and in divers Humors of the Body which 
+cause sickness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ascent(n)">Ascent:</form> <xpln lang="en">Going up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apply(v)">Apply:</form> <xpln lang="en">lay on.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cold(a)">Actually Cold:</form> <xpln lang="en">see Actual Heat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="augment(v)">Augment:</form> <xpln lang="en">Encrease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accidentally(adv)">Accidentally:</form> <xpln lang="en">By hap, by chance, upon occasi&#124;
+on.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adventitious(a)">Adventitious:</form> <xpln lang="en">not Natural, but springing from 
+external causes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attracting(a)">A<emend err="c">t</emend>tracting:</form> <xpln lang="en">drawing together, or causing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attract(v)">Attracts:</form> <xpln lang="en">draws to.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accident(n)">Accident:</form> <xpln lang="en">somthing that happens upon a Dis&#124;
+ease; <term lang="la">vide</term> Symptome. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adstriction(n)">Adstriction:</form> <xpln lang="en">binding together, shutting up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antecedent cause(n)">Antecedent Cause:</form> <xpln lang="en" lexeme="conjunct cause(n)">foregoing Cause. is oppo&#124;
+sed to the Conjunct Cause. Abundance of
+Flegm in the Body is the Antecedent Cause 
+of the Optick Nerves being stopped by flegm;
+but the Flegm in the said Nerves, is the Con&#124;
+juct Cause &amp;c. of other Diseases.
+</xpln>
+<lemenote>
+"Antecedent cause" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="articulate(a)" lexeme="voice(n)">Articulate Voyce:</form> <xpln lang="en">A distinct Voyce, such as 
+that of Man-kind, termed Speech.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="abstergent(a)">Abstergent:</form> <xpln lang="en">Clensing away filth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="access(n)">Access:</form> <xpln lang="en">Addition, joyning to, help, or company.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="afflux(n)">Afflux:</form> <xpln lang="en">flowing to.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astringent(n)">Astringents:</form> <xpln lang="en">Medicines that bind together, and 
+straiten the Pores and Passages of the Body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astriction(n)">Astriction:</form> <xpln lang="en">binding, knitting together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anodyne(n)">Anodines:</form> <xpln lang="en">Medicines which asswage pain.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anastomosis(n)">Anastomosis:</form> <xpln lang="en">an opening of the Mouths of Veins,
+by which means Blood issues.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astringe(v)">Astringe:</form> <xpln lang="en">bind, fasten, close.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="acute(a)">Acute:</form> <xpln lang="en">sharp, violent: a Disease is termed A&#124;
+cute, when it quickly changeth to health or death.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adustion(n)">Adustion:</form> <xpln lang="en">burning:</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adust(a)">Adust,</form> <xpln lang="en">burned. Blood is
+said to be adust, when by reason of extraordi&#124;
+nary heat, the thinner parts are evaporated,
+and the thicker remain dreggy and black, as if 
+they were burnt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asthmatical(a)">Asthmatical:</form> <xpln lang="en">troubled with shortness of breath.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attest(v)">Attest:</form> <xpln lang="en">witness, declare.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aneurism(n)">Aneurism:</form> <xpln lang="en">a Swelling caused by a dilatation of 
+the Arteries external Coat, the internal being 
+broken.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Axungia:</form> <xpln lang="en">Grease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="atrophy(n)">Atrophy:</form> <xpln lang="en">want of Nourishment, when the Bo&#124;
+dy pines away.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attenuating(a)" lexeme="medicament(n)">Attenuating
+Medicaments:</form> <xpln lang="en">are such as make 
+thick Humors thin.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="axiom(n)">Axiom,</form> <xpln lang="en">or Theoreme: an acknowledged, un&#124;
+doubted Truth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adjacent(a)">Adjacent:</form> <xpln lang="en">lying neer, bordering upon.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aromatized(a)">Aromatized:</form> <xpln lang="en">Spiced, perfumed.
+</xpln>
+<lemenote>
+"Aromatized" antedates the earliest OED citation (1661).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anus(n)">Anus,</form> <xpln lang="en">the Fundament.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astringe(v)">Astringe,</form> <xpln lang="en">to bind.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="atom(n)">Atomes:</form> <xpln lang="en">smal Moats hardly visible, and that 
+cannot admit of any division.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adverse(a)">Adverse:</form> <xpln lang="en">contrary to, of a contrary Nature.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="augment(v)">Augment,</form> <xpln lang="en">is the time of a Disease, while it
+grows still more vehement, until it comes to 
+its height, which is called the state of the Dis&#124;
+ease, and then the Augment ceases, because 
+the Disease is now at a stand, and encreaseth
+no more.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alterative(n)">Alteratives,</form> <xpln lang="en">are such Medicines as only change
+</page>
+
+<page sig="llll2v">
+the qualities of the Body and its Humors, by 
+heating, cooling, moistening, drying, &amp;c. they 
+are opposed to such as do cause Vomiting, 
+Purging, Sweating, Transpiration, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adjunct(n)">Adjuncts</form> <xpln lang="en">of a Disease, are qualities, dispositions,
+and Symptomes annexed thereunto.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aliment(n)">Aliments,</form> <xpln lang="en">are what ever is taken into the Body 
+to nourish the same; as all kinds of Meat and 
+Drink.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adjuvant cause(a)">Adjuvant Causes,</form> <xpln lang="en">are such as serve and assist the 
+principal Cause; so is the Taylors Boy an ad&#124;
+juvant Cause assistant to his Master, the prin&#124;
+cipal Cause of a Garment. So in Diseases,
+whatever assists the Primary Cause, is termed
+an Adjuvant Cause.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alexipharmical(a)">Alexipharmical</form> <xpln lang="en">things, are such as resist Plague, Poyson,
+and all venemous Diseases.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="la">BAlneum Mariae;</form> <xpln lang="en">the manner of stilling or 
+digesting, when the Glass containing the 
+Ingredient, stands in a Vessel of Water, with 
+Fire made under it.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bolus(n)">Bolus:</form> <xpln lang="en">A Morsel; a Medicine to be taken from 
+a Knifes point.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bellilucanae Thermae:</form> <xpln lang="en">Hot Baths in France, 
+so called from the place where they are.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="breathing(n)">Breathing of a Vein;</form> <xpln lang="en">Blood-letting, properly
+if but little Blood be taken away.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bronchia(n)">Bronchia;</form> <xpln lang="en">the hollow gristly Pipes that spread 
+themselves through the Body of the Lungs, be&#124;
+ing Branches of the Wezand or Wind-pipe.
+</xpln>
+<lemenote>
+"Bronchia" antedates the earliest OED citation (1675).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>C</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="caruncle(n)">CAruncle;</form> <xpln lang="en">a little bit of Flesh that grows
+and sticks out on any part of the Body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="catarrh(n)">Catarrh;</form> <xpln lang="en">a Defluxion or Distillation of Hu&#124;
+mors from the Brain, into any part of the Bo&#124;
+dy, especially the Lungs, causing Coughs.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="condense(v)">Condense,</form> <xpln lang="en">to make thick.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme=contention(n)">Contention;</form> <xpln lang="en">Digestion in the Stomach, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cataphora;</form> <xpln lang="en">a deep sleep.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cupping-glass(n)">Cupping-glass,</form> <xpln lang="en">is that which Physitians use to 
+draw out Blood with Scarrifying of the Skin, 
+Glasses fastened with lighted Tow or Flax. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Catalepsis;</form> <xpln lang="en">Congelation, or stifness of the Bo&#124;
+dy.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caustic(n)">Causticks,</form> <xpln lang="en">are Medicines which burn the Skin 
+and Flesh to make Issues, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coronal suture(n)">Coronal Suture;</form> <xpln lang="en">the Seam which runs through 
+the Crown of the Head, where the two sides
+of the Skul close.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crude(a)">Crude;</form> <xpln lang="en">Raw, undigested: So Meat not well
+boyled or rosted, is Crude; and Blood and 
+other Humors not well digested by the Sto&#124;
+mach, Liver, &amp;c. are called Crude.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conjunctiva(n)">Conjunctiva;</form> <xpln lang="en">a Coat of the Eye, so called be&#124;
+cause it sticks fast unto the Eye, and keeps it in 
+its place. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cautery(n)">Actual Cautery,</form> <xpln lang="en">is burning with a red hot Iron.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="congelation(n)">Congelation,</form> <xpln lang="en">freezing together, stifness with 
+Cold.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="constipation(n)">Constipation,</form> <xpln lang="en">stopping up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone-colic(n)">Chollick,</form> <xpln lang="en">pain and griping of the Gut Colon; 
+and because the pain proceeding from the 
+Stone, is very like thereunto, it is called the 
+Stone-Collick.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cerate(n)">Cerates,</form> <xpln lang="en">Medicines made of Wax, and other Ma&#124;
+terials, stiffer than an Oyntment, and softer
+than a Plaister, to be applied to divers parts.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cephalic(a)">Cephalick, or Capital Opiate,</form> <xpln lang="en" lexeme="electuary(n)">Head Electuary.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cephalic(a)" lexeme="pill(n)">Cephalick Pills,</form> <xpln lang="en">Head-pils.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cephalic(a)" lexeme="plaster(n)">Cephalick Plaister,</form> <xpln lang="en">Head-Plaister.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="collyrium(n)">Collyrium,</form> <xpln lang="en">an Eye-salve.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="convulsion(n)">Convulsion,</form> <xpln lang="en">a drawing together, a shrinking to&#124;
+gether.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contracted(a)">Contracted,</form> <xpln lang="en">drawn together. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cornea(n)">Cornea,</form> <xpln lang="en">a Coat of the Eye like the Horn of a 
+Lanthorn. See Veslingus in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="surgeon(n)">Chyrurgeon,</form> <xpln lang="en">Surgeon.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="circumvolution(n)">Circumvolution,</form> <xpln lang="en">turning round like a wheel or 
+whirl-wind.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="compression(n)">Compression,</form> <xpln lang="en">thrusting or squeezing together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contusion(n)">Contusion,</form> <xpln lang="en">Bruising, a Bruise.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cold seed(n)">Cold seeds,</form> <xpln lang="en">See the English Dispensatory.
+</xpln>
+<lemenote>
+"cold seed" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="compress(v)">Compress,</form> <xpln lang="en">thrust together, squeeze.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="condense(v)">Condense,</form> <xpln lang="en">thicken, condensing, thickening; a 
+Condensation, a thickening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coarctation(n)">Coarctation,</form> <xpln lang="en">a straitening, thrusting together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contraction(n)">Contraction,</form> <xpln lang="en">drawing together, shrinking up, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contracted(a)">Contracted,</form> <xpln lang="en">drawn together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="confirmed(a)">Confirmed,</form> <xpln lang="en">A Disease is said to be confirmed,
+when it is perfect, setled, and hath taken root.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="couched(a)">Couched with a Needle,</form> <xpln lang="en">that is, taken away with 
+a Needle, or pressed down with a Needle.
+</xpln>
+<lemenote>
+"Couched with a Needle" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="centre(n)">Centre,</form> <xpln lang="en">is properly the middle point within a 
+Circle, from whence all Lines drawn to the Circumference, are equal; it is taken figura&#124;
+tively for the middle of any thing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="continuity(n)">Continuity,</form> <xpln lang="en">the oneness, the joyning together 
+without interruption.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="compact(a)">Compact,</form> <xpln lang="en">firmly united, wel thrust and crowded
+together. So Gold, Lead, and other Mettals,
+are said to be compact, compared to Cork, 
+Spunge, and light Wood which are not com&#124;
+pact, but hollow and pory. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="concocted(a)">Concocted:</form> <xpln lang="en">An Humor is said to be concocted
+when it is either turned into good Blood, as 
+sweet Flegm is wont to be; or when it is se&#124;
+parated from the Mass of blood, and made fit 
+for expulsion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="concoction(n)">Concoction;</form> <xpln lang="en">a boyling,
+or boyling together: when the meat in the Stomach is changed into 
+a substance like Almond Cream; that change
+is called Concoction.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cataplasm(n)">Cataplasm;</form> <xpln lang="en">a Pultiss.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cavity(n)">Cavity;</form> <xpln lang="en">hollowness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crisis(n)">Crisis;</form> <xpln lang="en">by bleeding at the Nose, or by vomit, 
+page 57. that is a breaking away of the Dis&#124;
+ease by Natures Conquest of the Cause,
+</page>
+
+<page sig="llll3r"> 
+which she drives forth by the Nose or Mouth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crystalline humour(n)">Crystalline Humor;</form> <xpln lang="en">a part of the Eye which re&#124;
+sembles a little Cake of Crystal; if you open 
+a Calves Eye carefully, you may take it out 
+whol.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Conus,</form> <xpln lang="en">is a Geometrical Figure, representing a 
+Sugar-Loaf, or an Extinguisher; which Phy&#124;
+losophers make use of when they teach how 
+the Eye perceives its Object.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="connatural(a)">Connatural;</form> <xpln lang="en">which is bred with a Man; as he 
+that is born with one Eye, or but two Fingers: 
+such a Disease is termed Connatural.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="convex(n)">Convex;</form> <xpln lang="en">bunching out like the back-side of 
+a Buckler or Platter.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conjunct cause(n)">Conjunct Cause</form> <xpln lang="en">of a Disease, is the immediate 
+Cause; so Flegm stopping the Optick Nerves 
+is the Conjunct Cause of Blindness; whereas
+taking of cold, swimming in cold water, eating
+flegmatick meats, sleeping after Dinner, were
+the remote, or far distant Causes, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="constriction(n)">Constriction,</form> <xpln lang="en">a drawing together, a straitening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="congestion(n)">Congestion;</form> <xpln lang="en">a gathering together or heaping up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cumulation(n)">Cumulation;</form> <xpln lang="en">the same with Congestion. These 
+words are opposed to defluxion. When a 
+part is diseased by an Humor sent from ano&#124;
+ther part, it is termed Defluxion; when the 
+Humor is first gathered in the part it self, by 
+reason of its own proper weakness, it is termed
+Congestion or Cumulation.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conjoined(a)" lexeme="matter(n)">Conjoyned Matter;</form> <xpln lang="en">see Conjunct cause.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corroding(a)">Corroding;</form> <xpln lang="en">biting, gnawing, eating.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consolidation(n)">Consolidation;</form> <xpln lang="en">closing up of a Sore or Wound, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carus(n)">Carus;</form> <xpln lang="en">foulness, rottenness, corruption of a 
+Bone.
+</xpln>
+<lemenote>
+OED records "Carus" as applying to "profound sleep."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cicatrize(v)">Cicatrize;</form> <xpln lang="en">to bring to a Scar, to close up a 
+wound or sore.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Commissura;</form> <xpln lang="en">the Mold of the Head, where the 
+parts of the Skul are united. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cavous(a)">Cavous;</form> <xpln lang="en">hollow.
+</xpln>
+<lemenote>
+"Cavous" antedates earliest OED citation (1698).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="critical(a)" lexeme="evacuation(n)">Critical Evacuations</form> <xpln lang="en">by bleeding, stool, &amp;c. 
+are such as Nature procures to drive out her 
+vanquisht Enemy; and are means and tokens
+of Recovery. Symptomatical Evacuations
+are such as proceed from the vehemency of the
+Disease, before Nature hath mastered the of&#124;
+fending Humor, and they prove bad tokens.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calcine(v)">Calcine;</form> <xpln lang="en">to burn to Ashes in a Crucible, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corrode(v)">Corrode;</form> <xpln lang="en">eat, fret; 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corroding(a)">Corroding,</form> <xpln lang="en">eating, fretting.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chronical(a)">Cronical;</form> <xpln lang="en">long lasting.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cacochymical(a)">Cacochymical;</form> <xpln lang="en">abounding with evil Humors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="critical(a)">Critical day;</form> <xpln lang="en">See Day of Judgment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corrosion(n)">Corrosion;</form> <xpln lang="en">a fretting, eating asunder.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conjugation(n)">Conjugation;</form> <xpln lang="en">a pair of Nerves is so called.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cardialgia;</form> <xpln lang="en">Heart-burning.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crudity(n)">Crudities;</form> <xpln lang="en">Rawness, indigestion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Chylus;</form> <xpln lang="en">a Liquor like a Posset, into which all 
+Meats are changed in the Stomach, if the Di&#124;
+gestion be good. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cydoniatum;</form> <xpln lang="en">Conserve of Quinces, or Mar&#124;
+malade.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cardiogmos;</form> <xpln lang="en">Heart-burning.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carminating(a)">Carminating Medicines;</form> <xpln lang="en">are such as do break 
+Wind.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="constringe(v)">Constringe;</form> <xpln lang="en">draw together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carminative(a)">Carminative;</form> <xpln lang="en">expelling Wind.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chalybeate(a)" lexeme="vinegar(n)">Chalibeat Vinegar,</form> <xpln lang="en">and Chalibeate Water, are 
+such as have steel quenched in them.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp">Carabe;</form> <xpln lang="en">Amber. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chronical(a)">Cronical Diseases;</form> <xpln lang="en">such as usually last very 
+long, as Quartan Agues, Stone, Dropsies, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crystals of tartar(n)">Crystal of Tartar;</form> <xpln lang="en">Cream of Tartar.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consistence(n)">Consistence;</form> <xpln lang="en">Body, or Substance.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="catheter(n)">Catheter;</form> <xpln lang="en">an hollow Silver Instrument to thrust 
+into the Bladder when the Urine is stopt by a 
+stone, to thrust back the stone, and let out the 
+Urine.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="complication(n)">Complication of Diseases;</form> <xpln lang="en">when divers Disea&#124;
+ses are in the Body at the same time, especially
+if they depend one upon another.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coaltion(n)">Coalition;</form> <xpln lang="en">healing up, growing together of a 
+Wound or Ulcer; or any Part that ought
+to be open, as of the Privity in some
+Girls.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coincide(v)">Coincide;</form> <xpln lang="en">is to happen together at one and the 
+same time.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cachectical(a)">Cachectical Persons,</form> <xpln lang="en">are such as have their whol
+Bodies blown up with a soft and moist swel&#124;
+ling, with the color of the Face white, or lead&#124;
+colored. Also their Legs especially swell, and 
+their Face is bloated.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coindicant(n)">Coindicants,</form> <xpln lang="en">are divers things in a Disease or 
+Patient, which plead for one and the same Re&#124;
+medies. So in a putrid Feaver, the person 
+being full bodied, and the season warm also, 
+the person lusty and yong: The Feaver, the 
+fulness of Blood in the Patient, his Age and 
+strength, and Season of the Year, are Coindi&#124;
+cants that he must be let Blood.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contra-indicant(n)">Contra-indicants,</form> <xpln lang="en">are divers considerations that 
+disswade a Remedy: As when in a putrid 
+Feaver, old Age, Winter Season, Weakness, 
+are Contra-indicants, that disswade from 
+Blood-letting; which the Feaver simply con&#124;
+sidered, doth indicate, or perswade and hint 
+out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coction(n)">Coction of Humors,</form> <xpln lang="en">is their being separated
+from the Mass of good Blood, and fitted for ex&#124;
+pulsion: As when thin Humors are moderate&#124;
+ly thickened, and tough clammy Humors are 
+cut and divided. This Coction of Humors is
+known by the Urine, when it hath a light, even, 
+and smooth setling, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Causa sine qua non;</form> <xpln lang="en">The Cause without which 
+a thing cannot be, though it be not the princi&#124;
+pal Cause thereof: So a Taylors Shop-boord
+is a Cause <term lang="la">sine qua non,</term> without which a Gar&#124;
+ment cannot be made, though himself and the 
+stuff, the shape and the end be principal Cau&#124;
+ses.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="commemorative(a)">Commemorative;</form> <xpln lang="en">bringing to remembrance 
+what is past.
+</xpln></wordentry>
+</page>
+
+<page sig="llll3v">
+<wordentry type="h"><form lang="en" lexeme="cicatrize(v)">Cicatrize;</form> <xpln lang="en">is to bring unto a Scar, which is done
+when Wounds and Ulcers are healed up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contumacy(n)">Contumacy;</form> <xpln lang="en">stubbornness, rebellion. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="diuretic(n)">DIureticks;</form> <xpln lang="en">Provokers of Urine.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="diagnosis(n)">Diagnosis;</form> <xpln lang="en">the knowledg of a Disease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distillation(n)">Distillation;</form> <xpln lang="en">a flowing down of thin Humors 
+from the Brain into several parts.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="decoction(n)">Decoction;</form> <xpln lang="en">the Liquor where in things are boy&#124;
+led, the Broth of Herbs, and other Medica&#124;
+ments.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diagnostic(n)">Diagnosticks;</form> <xpln lang="en">the Signs to know what Disease 
+a Patient hath.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="defluxion(n)">Defluxion;</form> <xpln lang="en">the same with Distillation: also a
+running
+together of Humors into any part, 
+causing pain or swelling, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="delirium(n)">Delirium;</form> <xpln lang="en">Dotage, raving, talking idlely, in 
+time of sickness especially.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diarrhoea(n)">Diarrhoea;</form> <xpln lang="en">a simple Loosness, without Infla&#124;
+mation of the Guts, any extream pain, or voi&#124;
+ding of Blood.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diaphoenicon(n)">Diaphoenicon;</form> <xpln lang="en">see the <f type="i">London Dispensatory</f> in 
+English. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="discatholicon(n)" lexeme="diacatholicon(n)">Diacatholicon, Diacarthamum;</form> <xpln lang="en">see the Dis&#124;
+pensatory.
+</xpln>
+<lemenote>
+"Diacarthamum" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diet(n)">Diet;</form> <xpln lang="en">this signifies in many places a Diet drink.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diminished(a)">Diminished;</form> <xpln lang="en">Lessened.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diminution(n)">Diminution;</form> <xpln lang="en">a lessening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="discuss(v)">Discuss;</form> <xpln lang="en">dispel invisibly: as a Plaister that 
+makes a swelling go away without breaking,
+is said to discuss the same. because the Matter 
+of the swelling is not seen to come away; but 
+is turned into steems and vapors, and partly 
+drinks up the substance of the Plaister, and so 
+vanisheth invisibly. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="declination(n)">Declination</form> <xpln lang="en">of a Disease; is the breaking of the 
+Disease, when it begins to tend to health, 
+which is known by the Symptomes growing
+more gentle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diverting(a)">Diverting Medicines;</form> <xpln lang="en">which turn aside the 
+Humor causing the disease, so that it flow not 
+into the part offended.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dislocation(n)">Dislocation;</form> <xpln lang="en">putting out of its place.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="derived(a)">Derived;</form> <xpln lang="en">turned away from.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diffuse(v)">Diffuse;</form> <xpln lang="en">spread abroad.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dissipated(a)">Dissipated;</form> <xpln lang="en">scattered abroad.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="demonstrated(a)">Demonstrated;</form> <xpln lang="en">cleerly proved from undenia&#124;
+ble Arguments.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="depravation(n)">Depravations;</form> <xpln lang="en">marrings spoilings, hurtings.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="depressed(a)">Depressed;</form> <xpln lang="en">made flat or hollow, dented in.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distemper(n)">Distemper;</form> <xpln lang="en">any excess of the four first qualities,
+Heat, Cold, Moisture, Dryness. There are
+reckoned four simple or single distempers, viz. 
+a Hot, a Cold, a Moist, a Dry: and four com&#124;
+pound, viz. Hot and Moist, Hot and Dry, 
+Cold and Moist, Cold and Dry.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dilated(a)">Dilated;</form> <xpln lang="en">widened.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dilatation(n)">Dilatation;</form> <xpln lang="en">widening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="debility(n)">Debility;</form> <xpln lang="en">weakness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distortion(n)">Distortion;</form> <xpln lang="en">writhing, wresting, crooking.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dissipating(a)">Dissipating:</form> <xpln lang="en">spread abroad, driving away.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="derivation(n)">Derivations:</form> <xpln lang="en">drawing an offensive Humor 
+from the part diseased, to some other part neer 
+it.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="digestive(n)">Digestives:</form> <xpln lang="en">Medicines which prepare evil Hu&#124;
+mors for to be driven out by Nature.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dissolved(a)">Dissolved:</form> <xpln lang="en">melted, consumed away. It is used
+of swellings that are brought down by Oynt&#124;
+ments or Plaisters; and in other cases when 
+the Humor causing the Disease, is invisibly
+driven away.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drum(n)">The Drum</form> <xpln lang="en">mentioned in page 96. is
+a pretty lit&#124;
+tle hollow bone in the Ear, covered with a thin 
+Skin like a Drum, which being beaten upon 
+by another little bone like a mallet, doth cause 
+sounds to be heard in the Ear. See Veslingus 
+his Anatomy in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diapedesis(n)">Diapedesis;</form> <xpln lang="en">is an issuing of the blood through 
+the Pores of the Veins.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Judgment Day(n)" lexeme="critical day(n)">The Day of Judgment, or Critical day:</form> <xpln lang="en">is that 
+day in feavers especially wherein it appears, on 
+which side sentence is given, whether on the 
+Plantifs, viz. the Diseases; or on Natures, the 
+Defendant; so that by some Evacuation, or
+swelling, or other great mutation to the better 
+or worse, it appears whether the Patient is like 
+to recover or not.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distention(n)">Distention:</form> <xpln lang="en">stretching.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="depraved(a)">Depraved:</form> <xpln lang="en">marred, spoiled.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dilatation(n)">Dilatation:</form> <xpln lang="en">widening, opening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Diaphragma:</form> <xpln lang="en">the Midrif.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dyspnoea(n)">Dyspnaea:</form> <xpln lang="en">shortness of breath.
+</xpln>
+<lemenote>
+"Dyspnaea" antedates the earliest OED citation (1681).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dysentery(n)">Dysentery:</form> <xpln lang="en">a Bloody-flux.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diagrydiate(n)">Diagrydiates:</form> <xpln lang="en">Medicines that have Scammony 
+or Diagrydium in them.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dissolution(n)">Dissolution</form> <xpln lang="en">of Natural Heat: a decay of Natu&#124;
+ral Heat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diaphoretic(a)" lexeme="sweat(n)">Diaphoretick Sweats:</form> <xpln lang="en">which are caused by Na&#124;
+ture, oppressed with a malignant Humor, and 
+forcibly driving the same out by Sweat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dung gate(n)">Dung-gate;</form> <xpln lang="en">the Arse-hole.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme=distillation(n)" lexeme="descent(n)">Distillations by descent:</form> <xpln lang="en">are when the Liquor
+which comes from the Materials stilled, doth 
+not rise up above the said Materials, as in or&#124;
+dinary distillation; but falls down under the 
+Materials stilled, which are therefore laid up&#124;
+on a Grace, that the bottom of the Vessel may 
+be empty, and free to receive the distilled Li&#124;
+quor.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="excrement(n)">EXcrement:</form> <xpln lang="en">the Dregs of Digestion in the 
+Body, voided by Dung, Urine, and Sweat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evacuation(n)">Evacuation:</form> <xpln lang="en">an emptying or voiding forth, 
+purging.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epispastic(a)">Epispastick:</form> <xpln lang="en" lexeme="vesicatory(n)">a Plaister to draw a Blister, called
+also a Vesicatory, or any strong drawing Plai&#124;
+ster.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="errhine(n)">Errhines:</form> <xpln lang="en">Medicinal Liquors to be snuft up the 
+Nostrils to purge the Brain.
+</xpln></wordentry>
+</page>
+
+<page sig="llll4r">
+<wordentry type="h"><form lang="en" lexeme="empyema(n)">Empyema:</form> <xpln lang="en">Empyems a corrupt matter between 
+the breast and the lungs following a Pleurisie.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Erysipelas Oedematosum:</form> <xpln lang="en">a tertian swelling a&#124;
+rising from choller and flegm.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elephantiasis(n)">Eliphantiasis:</form> <xpln lang="en">a leprous disease, which makes
+the Patients skin like the Hide of an Ele&#124;
+phant.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="electuary(n)">Electuary:</form> <xpln lang="en">See the <f type="i">London Dispensatory.</f>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expulsion(n)">Expulsion:</form> <xpln lang="en">driving forth; as of Excrements,
+Dung, Urine, Sweat, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expel(v)">Expel:</form> <xpln lang="en">to drive forth. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eruption(n)">Eruption:</form> <xpln lang="en">breaking forth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extinguished(a)">Extinguished:</form> <xpln lang="en">quenched, put out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emunctuary(n)">Emunctuaries</form> <xpln lang="en">or Emunctoryes; certain waies
+and passages that Nature finds to drive ill Hu&#124;
+mors into, from the Principal Parts; as cer&#124;
+tain Kernels behind the Ears; and in the 
+Groins, under the Arm-pits, &amp;c. where risings
+happened in time of Pestilence &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="essentially(adv)">Essentially springing</form> <xpln lang="en">P. 11. that is primarily and 
+principally, not accidentally or occasionally.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ebullition(n)">Ebullition:</form> <xpln lang="en">boiling and working of the blood 
+in the Veins, like New-wine in a Cask.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extension(n)">Extension:</form> <xpln lang="en">stretching out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extenuation(n)">Extenuation:</form> <xpln lang="en">Leanness, Consumption of flesh.
+Extenuating making thin.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expulsive(a)">Expulsive faculty:</form> <xpln lang="en">the power of our body which
+drives forth Dung, Urine, Sweat, Vapors &amp;c. 
+every part partakes of this Ability, or Faculty.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eminent(a)">Eminent:</form> <xpln lang="en">neer at hand approaching.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="erysipelas(n)">Erysipelas:</form> <xpln lang="en">a swelling caused by choller. <term lang="la">Ery&#124;
+sipelas Phlegmonodes,</term> or <term lang="la">Phlegmon Erysipe&#124;
+latodes.</term> Is a swelling caused by Inflamation
+of Choller and Blood.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emulsion(n)">Emulsions:</form> <xpln lang="en">Almond milkes; and milkes made
+of cool Seeds, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="electuary(n)">Electuaries.</form> <xpln lang="en">Medicines made up of Conserves
+of Flowers or Herbs; to which is added some 
+sweet Spicy pouder for the most part, and so 
+with Syrup it is made up in the form of Mi&#124;
+thridate or Treacle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epitheme(n)">Epithemes:</form> <xpln lang="en">are Medicines applyed in Bags, com&#124;
+monly upon the Heart or Stomach Liver or 
+Spleen &amp;c. Certain convenient pouders being
+put in a Bag, or between two cloths, and so wet 
+in Wine or other convenient Liquor, are laid
+upon the Stomach, Heart, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="essential(a)">Essential to the Disease:</form> <xpln lang="en">that is of the be&#124;
+ing or substance, so that without that, the dis&#124;
+ease could not be. So Heat is Essential to a 
+Feaver.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="excrement(n)">Excrements:</form> <xpln lang="en">dregs and refuse of our meat and 
+drink after Concoction, voided by dung, 
+Urine, Sweat, and invisibly through the 
+Pores.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="excrementitious(a)">Excrementitious:</form> <xpln lang="en">of or belonging to Excre&#124;
+ments, impure, preternatural humors are so 
+called.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extenuate(v)">Extenuate:</form> <xpln lang="en">make thin.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expressed(a)">Expressed:</form> <xpln lang="en">Squeezed out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epidemical(a)">Epidemical:</form> <xpln lang="en">common to a whol Nation. So the 
+<emend err="the"></emend> Plague, small Pocks, Loosness, Sweating&#124;
+sickness, &amp;c. when they are rise all over a Na&#124;
+tion; or Country at one time, they are called
+Epidemical diseases.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Elixir Proprietatis.</form> <xpln lang="en">A Medicine invented by 
+Paracelsus. Take of the best Aloes, Myrrh 
+&amp; Saffron, of each half an ounce: Pouder them
+and put them into a Glass. Then take Musca&#124; 
+dine made tart with Oyl of Sulphur, and 
+pour upon the pouder, til the liquor stand four 
+fingers above the pouder: Let them stand and 
+digest in a warm place. Then pour off the 
+Liquor and put on more, till all the Colour 
+and vertue be drawn out from the pouder. At 
+last still the settlings with a gentle fire, and 
+pour that which comes away, to the former 
+Liquor, and let all stand and digest a Month 
+in a warm place, close stopped. The name 
+signifies such a Quintessence, as hath a special 
+propriety of agreement with Mans nature, 
+whereby it comforts and restores the same, in 
+al kind of weakness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emollient(n)">Emollient:</form> <xpln lang="en">Medicines that soften.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eroded(a)">Eroded:</form> <xpln lang="en">eaten a sunder, eaten up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extraction(n)">Extraction:</form> <xpln lang="en">pulling out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exquisite(a)">Exquisite:</form> <xpln lang="en">perfect, in an high degree.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="escharotic(n)">Escharoticks:</form> <xpln lang="en">see Causticks potential.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="embrocate(v)">Embrochated:</form> <xpln lang="en">moistened, bedewed, bathed.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="erosion(n)">Erosion:</form> <xpln lang="en">fretting, eating.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Eclegma.</form> <xpln lang="en">See Lambitive.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extreme(a)">Extream parts:</form> <xpln lang="en">the Armes and Legs.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emplastic(a)">Emplastick diet:</form> <xpln lang="en">consists of such meats as are of 
+a clammy substance, viz. Calves Head and Feet,
+Sheeps-trotters; all Feet of Beasts, Tripes, 
+Gellys, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><term lang="la">Excreta</term> and <term lang="la">Retenta:</term></form> <xpln lang="en">things voided out of the 
+Body, things retained, or kept in.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eradicate(v)">Eradicate,</form> <xpln lang="en">pluck up by the Roots.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exasperated(a)">Exasperated:</form> <xpln lang="en">pained, vexed, molested.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="equivocal(a)">Equivocal:</form> <xpln lang="en">Signs of a Disease, are such as are 
+common to it and other Diseases.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="efficient cause(n)">The Efficient Cause:</form> <xpln lang="en" lexeme="working cause(n)" lexeme="making cause(n)" lexeme="material cause(n)" lexeme="formal cause(n)" lexeme="final cause(n)">is the working or making
+Cause, so a Tailor is the Efficient of a Gar&#124;
+ment; The Material Cause is the stuff, a thing 
+is made of which the Efficient works upon; So 
+the Cloth or Silk is the Material Cause of the 
+Garment. The formal Cause, the shape that 
+makes it a Coat, or Cloak, or Doublet; the 
+Final Cause, is the end why it was made, viz. 
+to hide nakedness, keep off Sun and Cold, and
+to adorn the body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emulgent vein(n)">Emulgent Veins:</form> <xpln lang="en">which bring the Wheyish Ex&#124;
+crement of the blood unto the Kidneyes where 
+it becomes Urine, and is passed by the Urecers 
+into the Piss-bladder.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evaporation(n)">Evaporation:</form> <xpln lang="en">a steeming
+out of Vapors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="egress(n)">Egress:</form> <xpln lang="en">coming
+forth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evaporated(a)">Evaporated:</form> <xpln lang="en">steemed away, as Water that 
+spends away in boiling.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evacuator(n)">Evacuators:</form> <xpln lang="en">Medicines which empty out evil 
+Humors, either by vomit, Purge, &amp;c.
+</xpln></wordentry>
+</page>
+
+<page sig="llll4v">
+<wordentry type="h"><form lang="en" lexeme="exhalation(n)">Exhalations:</form> <xpln lang="en">Vapors drawn up by the Sun, out 
+of the Earth and Waters.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eventilated(a)">Eventilated:</form> <xpln lang="en">Fanned, purged as Corn by fan&#124;
+ning. So Exercise is said to eventilate or fan 
+the Body; because the motion opens the 
+Pores, and drives many vapors out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eneorema(n)">Eneorema:</form> <xpln lang="en">that which hangs like a cloud in U&#124;
+rines, especially when the Disease is breaking
+away.
+</xpln>
+<lemenote>
+"Eneorema" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emollient(a)" lexeme="decoction(n)">Emollient Decoction:</form> <xpln lang="en">a softening moistening 
+Decoction, made for Clysters to soften and 
+moisten the hardened Excrements of the Guts.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eschar(n)">An <term lang="la">Eschara,</term> or Eschar;</form> <xpln lang="en">is
+the Core that falls
+off from a part that hath had a Caustick ap&#124;
+plied thereto.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="en" lexeme="fumigation(n)">FUmigations:</form> <xpln lang="en">Perfumes and others things,
+burnt to qualifie the Air in a sick mans cham&#124;
+ber.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fracture(n)">Fracture:</form> <xpln lang="en">breaking, as fracture of the Skul or 
+Arm, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fomentation(n)">Fomentation:</form> <xpln lang="en">when linnen Cloaths or Spunges
+are dipped in some Liquor, and applied to the 
+diseased part, and after renewed.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="function(n)">Functions</form> <xpln lang="en">of the Brain: the Abilities of the 
+Brain, to Hear, See, Imagine, Understand, 
+Remember, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="friction(n)">Frictions:</form> <xpln lang="en">Rubbings.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Furor Uterinus:</form> <xpln lang="en" lexeme="womb-madness(n)"">Womb-Madness; when Wo&#124;
+men are mad by reason of a disorder in the 
+Womb. See the Chapter of that Disease.
+</xpln>
+<lemenote>
+"Womb-madness" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flux(n)">A Flux of Humors:</form> <xpln lang="en">flowing of Humors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Febris Catarrhalis:</form> <xpln lang="en">a Feaver caused by Rheum 
+falling from the Head.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fabric(n)">Fabrick:</form> <xpln lang="en">Frame, making up, composition.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frontal vein(n)">Frontal Vein:</form> <xpln lang="en">Fore-head Vein.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fortified(a)">Fortified:</form> <xpln lang="en">strengthened.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fistula(n)">Fistula:</form> <xpln lang="en">an hollow, deep, but narrow Ulcer that 
+will not be closed up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pair of forceps(n)">A pair of Forceps,</form> <xpln lang="en">a smal Instrument like a pair 
+of Tongs, to draw forth any thing out of the
+Ears, &amp;c.
+</xpln>
+<lemenote>
+"pair of Forceps" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fluid(a)">Fluid:</form> <xpln lang="en">apt to run and flow like Water, and o&#124;
+ther Liquors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="filtration(n)">Filtration:</form> <xpln lang="en">straining through a brown Paper, 
+or by means of a piece of cloth hanging out of 
+one Vessel into another. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="filter(v)">Filter:</form> <xpln lang="en">to strain as aforesaid.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fermentation(n)">Fermentation:</form> <xpln lang="en">the working of Humors, as new 
+drink works in the Barrel.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="symptomatical fever(n)">A Feaver Symptomatical,</form> <xpln lang="en">is a Feaver
+caused by 
+some other foregoing Disease; in respect of 
+which Disease, the Feaver is but a Symptom 
+or Accident.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flatulent(a)" lexeme="pituitous(a)" lexeme="colic(n)">A Flatulent and Pituitous Chollick,</form> <xpln lang="en">is
+a Chol&#124;
+lick caused by wind and flegm.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Formicans Pulsus;</form> <xpln lang="en">a weak, feeble, quick Pulse, 
+that feels under the Fingers like creeping Pis&#124;
+mires, from whence it is named.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="form(n)">Form:</form> <xpln lang="en">See Efficient Cause.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fluxive(a)">Fluxive:</form> <xpln lang="en">apt to flow and run like Water and 
+other Liquors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="friable(a)">Friable:</form> <xpln lang="en" lexeme="puff paste(n)" lexeme="piecrust(n)">is crumbly, short, like costly Cake&#124;
+bread, Pie-crust, Puf-past, &amp;c. So Fishes that 
+have a short crumbly substance, not clammy or 
+slimy, such as Soals, Smelts, Trouts, are said
+to be friable in comparison of Eels, Carps, 
+Tenches, &amp;c.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="la">GUm Animi:</form> <xpln lang="en">Indian Amber.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gargarism(n)">Gargarisms:</form> <xpln lang="en">that is, Medicines to Gargle 
+in the Throat to wash sore Throats,
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">de Gutteta:</form> <xpln lang="en">a Pouder used in Falling-sickness
+and Convulsion of Children by the French. 
+It is described page 33. at the bottom.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Going about:</form> <xpln lang="en">by fits.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="generating(n)">Generating:</form> <xpln lang="en">breeding, begetting.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glandule(n)">Glandules:</form> <xpln lang="en">Kernels, such as are about the 
+Throat, a<emend err="a">n</emend>d are called the Almonds of the 
+Ears, and such as the Sweet-bread, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gate-vein(n)">Gate-Vein:</form> <xpln lang="la">Vena Porta. See Veslingus Anato&#124;
+my in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="generous(a)" lexeme="wine(n)">Generous Wine:</form> <xpln lang="en">strong Wine, as rich Canary, 
+Muskadine, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glutination(n)">Glutinations:</form> <xpln lang="en">Clamminess like Gum about the 
+corners of the Eyes.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glutinator(n)">Glutinators:</form> <xpln lang="en">things which glue and close up broken Veins, &amp;c.
+</xpln>
+<lemenote>
+"glutinator" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glutinous(a)">Glutinous:</form> <xpln lang="en">clammy like Glue.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gangrene(n)">A Gangrene:</form> <xpln lang="en">is a corruption of a part tending to 
+the utter deading thereof.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en" lexeme="hypocondrium(n)">HYpochondria:</form> <xpln lang="en">the parts beneath the Ribs.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemiplegia(n)">Hemiplegia:</form> <xpln lang="en">the Palsey possessing one 
+side.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hydrelaeum(n)">Hydrelaeum:</form> <xpln lang="en">a Bath and Oyntment; that is, of Water and Oyl beaten together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hippocras bag(n)">Hippocras Bag:</form> <xpln lang="en">a Bag of Wool shaped like an
+Extinguisher, through which Hippocras and 
+divers Medicines are strained.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hereditary(a)">Hereditary:</form> <xpln lang="en">from Father or Mother, to Son or Daughter.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hydromel(n)">Hydromel:</form> <xpln lang="en">Honey and Water, Mead, Metheg&#124;
+lin.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemorrhoid(n)">Hemorrhoids:</form> <xpln lang="en">Veins of the Fundament, to 
+which Leeches are applied.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="head herb(n)">Head-Herbs:</form> <xpln lang="en">Rosemary, Betony, Sage, Laven&#124;
+der, sweet Marjoram, Hysop, Balm, Cow&#124;
+slips, Roses, Violets, Lettice, Borrage, Bug&#124;
+loss, &amp;c.
+</xpln>
+<lemenote>
+"Head-Herbs" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="habit(n)" lexeme="body(n)">Habit of Body:</form> <xpln lang="en">is the whol bulk and substance thereof. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="humidity(n)">Humidity:</form> <xpln lang="en">Moisture.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="holy fire(n)">Holy Fire:</form> <xpln lang="en">a red Inflamation, St. Anthonies 
+fire, the Rose.
+</xpln></wordentry>
+</page>
+
+<page sig="mmmm1r">
+<wordentry type="h"><form lang="en" lexeme=haemorrhagy(n)">Hemorrhagies:</form> <xpln lang="en">breaking forth of Blood from 
+any part of the Body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hysterical(a)">Hysterical Fits:</form> <xpln lang="en">Fits of the Mother, Womb&#124;
+sickness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hermetical(a)" lexeme="hermit(n)">Hermetical Physitians, and Hermets:</form> <xpln lang="en">Chy&#124;
+mists, such as trade with Furnaces, Pots, and 
+Glasses, to draw Spirits, Oyls, Waters; to 
+make Salts, Quintessences, &amp;c. called so from 
+Hermes Trismegistus, an old Egyptian Phy&#124;
+losopher, who is thought to have been a Chy&#124;
+mist.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horror(n)">Horrors:</form> <xpln lang="en">Shiverings.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en" lexeme="infuse(v)">INfuse:</form> <xpln lang="en">that is, steep.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inflammation(n)">Inflamation:</form> <xpln lang="en">great Heat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="indication(n)">Indication:</form> <xpln lang="en">is an hinting to the Physitian what 
+he is to do. So extream heat is said to give in&#124;
+dication of cooling; extream fulness of blood 
+gives indication of blood-letting; want of a 
+womans Courses gives indication of blood-let&#124;
+ting, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jugular(a)">Jugular Veins:</form> <xpln lang="en">that is, the Throat Veins. See Veslingus Anatomy in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="insensible(a)">Insensible Passages:</form> <xpln lang="en">which cannot be seen, nor felt, by reason of their smalness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="influence(n)">Influence:</form> <xpln lang="en">flowing in.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inherent(a)">Inherent:</form> <xpln lang="en">sticking fast within, seated and  abi&#124;
+ding within.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inordinate(a)">Inordinate:</form> <xpln lang="en">disorderly, unnatural, and unfit&#124;
+ting.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="internal sense(n)" lexeme="external sense(n)">Internal and External Sences:</form> <xpln lang="en">The Internal 
+are, Common Sence, Imagination, Under&#124;
+standing, Memory: The External are, Seeing,
+Hearing, Smelling, Tasting, Feeling.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intercepted(a)">Intercepted:</form> <xpln lang="en">stopped in the middle way.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="internally(adv)" lexeme="externally(adv)">Internally and Externally:</form> <xpln lang="en">inwardly and out&#124;
+wardly.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="julep(n)">Juleps:</form> <xpln lang="en">pleasant Drinks made of distilled Wa&#124;
+ters, or the broth of Barley, and other conve&#124;
+nient things, and sweetened with Syrups or Su&#124;
+gar; given chiefly in Feavers to cool and 
+quench Thirst.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infusion(n)">Infusion:</form> <xpln lang="en">a strained Liquor wherein  Medica&#124;
+ments have been steeped, either hot or cold.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incrassate(v)">Incrassate:</form> <xpln lang="en">thicken.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incrassating(a)">Incrassating:</form> <xpln lang="en">thickening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="insensible(a)">Insensible:</form> <xpln lang="en">not to be perceived
+by the outward Sences,
+of Seeing, Hearing, Smelling, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="illumination(n)">Illumination:</form> <xpln lang="en">enlightening.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="influx(n)">Influx:</form> <xpln lang="en">flowing into.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inversion(n)">Inversion;</form> <xpln lang="en">turning the inside out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intermission(n)">Intermission:</form> <xpln lang="en">ceasing, leaving off.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inveterate(a)">Inveterate:</form> <xpln lang="en">old, of long continuance, rooted.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inclination(n)">Inclination:</form> <xpln lang="en">that is, by holding the vessel on the 
+one side, and so powring the cleer from the set&#124;
+lings: this is called to clarifie by Inclination, 
+in opposition to clarifying with the white of 
+an Eg by boyling, or any other way.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="iris(n)">The Iris:</form> <xpln lang="en">a party-color'd round Circle in the 
+sight of the Eye like a Rainbow, from whence 
+it hath its name.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incarnate(v)">Incarnate:</form> <xpln lang="en">to breed flesh.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="irritation(n)">Irritation:</form> <xpln lang="en">provocation, stirring
+up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="involuntary(a)" lexeme="tear(n)">Involuntary Tears:</form> <xpln lang="en">which are not shed by force 
+of sorrow working upon the mind, but by force 
+of a bodily Disease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="day of indication(n)">The day of Indication:</form> <xpln lang="en">is that day in a Feaver
+on which may be collected what wil betide up&#124;
+on the following Critical day. So the fourth 
+day doth hint what is like to happen on the se&#124;
+venth; and the eleventh hints what is like to 
+happen upon the fourteenth; and the seven&#124;
+teenth what will happen upon the twenty one; 
+and the twenty four what will betide upon the 
+twenty eight. Therefore the fourth, eleventh, 
+seventeenth, twenty four, are called daies of 
+Indication, or telling and declaring.
+</xpln>
+<lemenote>
+"day of Indication" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="judged(a)">Judged,</form> <xpln lang="en">see Day of Judgment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infirm(a)">Infirm:</form> <xpln lang="en">weak.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="insipid(a)">Insipid:</form> <xpln lang="en">Tastless.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incising(a)" lexeme="medicament(n)">Incising Medicaments;</form> <xpln lang="en">are such as cut and di&#124;
+vide tough flegm, and other clammy humors, 
+whereby they become fit for expulsion; such
+is Oxymel, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intestine(n)">Intestines:</form> <xpln lang="en">the Guts.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intension(n)" lexeme="remission(n)">Intension and Remission:</form> <xpln lang="en">Increase and decrease, growing stronger or weaker.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="injection(n)">Injection:</form> <xpln lang="en">is a Medicinal Liquor cast with a fit&#124;
+ting Instrument into the Womb, Bladder, or 
+Fundament, when there is soreness of hemor&#124;
+roids, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inserted(a)">Inserted:</form> <xpln lang="en">fastened or planted
+into.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inspissate(a)" lexeme="juice(n)">Inspissate Juyce:</form> <xpln lang="en">is Juyce of some Herb boyled
+till it be thick, as Honey.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="illustrated(a)">Illustrated:</form> <xpln lang="en">made cleer and manifest.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="invasion(n)" lexeme="gout(n)">Invasions of the Gout:</form> <xpln lang="en">fits of the Gout, or of 
+Agues, may be called Invasions of the said Dis&#124;
+eases.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intense(a)">Intense:</form> <xpln lang="en">vehement, strong.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="indicate(v)">Indicate:</form> <xpln lang="en">declare, point out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="impacted(a)">Impacted:</form> <xpln lang="en">wedged in, thrust far in.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="irrigation(n)">Irrigations:</form> <xpln lang="en">moistenings, sprinklings, waterings.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intervention(n)">Intervention:</form> <xpln lang="en">coming between, happening toge&#124;
+ther with.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intermediate(a)">Intermediate:</form> <xpln lang="en">coming between.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intermitting(a)" lexeme="pulse(n)">Intermitting Pulse:</form> <xpln lang="en">is that which holds
+up a 
+while, and then beats again; and then stops,
+and then beats again, which is a sign of great 
+weakness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incoctibility(n)">Incoctibility:</form> <xpln lang="en">an unaptness to be concocted or 
+digested, or an impossibility thereof.
+</xpln>
+<lemenote>
+"Incoctibility" not found in OED, and not found in Google (17 July 2019).	
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="en" lexeme="lenitive(a)">LEnitive:</form> <xpln lang="en">a gentle, refreshing, cordial Medi&#124;
+cine.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ligature(n)">Ligatures:</form> <xpln lang="en">or strings wherewith the Joynts of 
+Bones and the Gristles are compact and bound
+together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lozenge(n)">Lozenges:</form> <xpln lang="en" lexeme="tablet(n)">the same with Tablets, being the
+</page>
+
+<page sig="mmmm1v">
+form of a Medicine made up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="luxation(n)">Luxation:</form> <xpln lang="en">is when one Joyne is loosned from 
+another.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liniment(n)">Liniment:</form> <xpln lang="en">Oyntment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ligature(n)">Ligatures:</form> <xpln lang="en">bindings of several parts to draw the 
+blood and Humors from the part diseased, to 
+the parts bound, by reason of the pain of bind&#124;
+ing which must be very hard and straight.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="looseness(n)" lexeme="continuity(n)">Loosness of Continuitie:</form> <xpln lang="en">separating and dividing
+of things closed and united. So a wound is
+termed a loosening of Continuitie; because, 
+it separates these parts of the skin and flesh 
+which were formerly united together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lax(a)">Laxe:</form> <xpln lang="en">loose, slack, as an unbended Bowstring.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="livid(a)">Livid:</form> <xpln lang="en">black and blew.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lambitive(n)" lexeme="lohoch(n)">A Lambative or Lohoch:</form> <xpln lang="en">is a medicine to be lickt
+from a Liquoris stick, and to be swallowed
+softly down, being chiefly ordained for the 
+Lungs.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="iron-water(n)">Iron-water:</form> <xpln lang="en" lexeme="forge-water(n)">Water wherein Iron hath
+been
+quenched. Smiths forge-water.
+</xpln>
+<lemenote>
+"iron-water" not found in OED. "forge-water" antedates earliest OED citation (1725).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laxative(n)">Laxative:</form> <xpln lang="en">which makes the belly loose.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="livid(a)">Livid:</form> <xpln lang="en" lexeme="lead-coloured(a)">black and blew, Lead-coloured.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="meninx(n)">MEninges:</form> <xpln lang="en">or films of the Brain, coats
+that cover the brain.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="masticatory(n)">Masticatories:</form> <xpln lang="en">that is Medicines to be chewed to 
+bring away Rheum.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mesenteric(a)">Mes<emend err="">ent</emend>eraick
+Veins:</form> <xpln lang="en">little Veins that are thought 
+to carry chyle from the stomach to the Li&#124;
+ver. See Vestingus Anat. in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malignity(n)">Malignity:</form> <xpln lang="en">venemous or poysonful quality 
+of certain humors and Diseases which make them 
+very dangerous, and for the most part dead&#124;
+ly.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="matter(n)" lexeme="quittor(n)">Matter, or Quittor:</form> <xpln lang="en">a snotty kind of filth which
+comes out of Imposthumes when they break, 
+and out of Ulcers when they are in a good way 
+of cure.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="magistral(a)" lexeme="syrup(n)">Magistral Syrup:</form> <xpln lang="en">is such an one as is
+invented
+by a Physitian for his Patient, in opposition 
+to those Syrups commonly kept in shops.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="matrix(n)">Matrix:</form> <xpln lang="en">Womb.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Membrana:</form> <xpln lang="en">skin or coat of the Arteries, Veins,
+&amp;c. Membranes, skins or coats.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mortification(n)">Mortification:</form> <xpln lang="en">a deading of any part of the 
+body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malign(a)">Malign:</form> <xpln lang="en">venemous, poysonful. See Maligni&#124;
+ty.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mother(n)">Mother:</form> <xpln lang="en">the Womb in Women is so called.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mitigation(n)">Mitigation:</form> <xpln lang="en">abatement, lessening, growing
+mild.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="medium(n)">The Medium:</form> <xpln lang="en">is that through which we see, as principally the Air, which we look thorough 
+upon objects; also the Water and Glass, 
+ Horn, or what ever is cleer, and may be seen
+thorough, may be termed a medium of sight.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mammilary(a)" lexeme="passage(n)" lexeme="production(n)">Mammilarie passages, or  productions:</form> <xpln lang="en">certain 
+little knobby bunchings out of the Nerves,
+which serve for smelling, resembling Teates,
+called therefore Teat-like productions. See 
+the English <f type="i">Anatomy.</f>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malax(v)">Malax:</form> <xpln lang="en">soften. To Malax a lump of Pil&#124;
+stuff, is to soften it, that it may work up into
+Pills the better.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mercurial(a)" lexeme="purge(n)">Mercurial Purges:</form> <xpln lang="en">Purges made of Quicksilver, Chymically prepared, such as <term lang="la">Mercurius dul&#124;
+cis,</term> some kind of Precipitate, <term lang="la">Mercurius 
+vit&aelig;,</term> &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="macerate(v)">Macerate:</form> <xpln lang="en">steep.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mesentery(n)">Mesenterie:</form> <xpln lang="en">the skin wh<emend err="">i</emend>ch knits the Guts toge&#124;
+ther, and runs all along among them, embossed
+with Fat. See Vestingus his <f type="i">Anatomy</f> in Eng&#124;
+lish.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="membranous(a)">Membranous:</form> <xpln lang="en">of the Nature of Skin or Parch&#124;
+ment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="morbifical(a)" lexeme="morbific(a)">Morbifical, or Morbifick
+matter;</form> <xpln lang="en">is that which is
+the principal cause of any Disease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="minorative(a)" lexeme="purgation(n)">Minorative purgation:</form> <xpln lang="en">is gentle purgation, such 
+as takes away only a part of the matter of a 
+disease: it is opposed to Eradicative purgati&#124;
+on, which is strong, and pulls the whol matter 
+offending up by the Roots; as it were.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="en" lexeme="nutrition(n)">NUtrition:</form> <xpln lang="en">Nourishment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="narcotic(a)">Narcotick medicines:</form> <xpln lang="en">stupefying medi&#124;
+cines: that dull the sence of feeling, and cause 
+profound sleep. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nitre(n)">Nitre:</form> <xpln lang="en" lexeme="saltpetre(n)">salt Peter, as some hold; but Matthio&#124;
+lus conceives the true Nitre is rarely found in 
+these daies.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="natural(a)">Natural functions:</form> <xpln lang="en">actions of the stomach, Li&#124;
+ver, Spleen, Gal, Kidneyes, in concocting the 
+meat, making blood, and separating and expel&#124;
+ling the excrements.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nauseousness(n)">Nauseousness:</form> <xpln lang="en">sickness of the stomach enclining to vomit.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nidorous(a)">Nidorous:</form> <xpln lang="en">smelling of burnt fat, or scortched
+Roast-meat, or fryed Oyl.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noxious(a)">Noxious:</form> <xpln lang="en">hurtful.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nausiosis(n)">Nausiosis of the Veins:</form> <xpln lang="en">is when the Veins are 
+sick of bad blood, and doth as it were spew it 
+out into the habit of the body: from whence 
+comes scurvy-spots, morphew, scabs, &amp;c.
+</xpln>
+<lemenote>
+"Nausiosis" (a Latin form) not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neoteric(n)">Neotericks:</form> <xpln lang="en">are late writers in physick, or any 
+other Art, so called in opposition to the Anti&#124;
+ent Authors.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+<wordentry type="h"><form lang="en" lexeme="organ(n)">ORgans:</form> <xpln lang="en">peculiar parts of the body fitted
+for some notable service of the Spirit, such 
+as the Eye to see, the Ear to hear, the Nose to 
+smell, the Skin to feel, the Lungs to breath, 
+Stomach to digest.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="os sacrum(n)">Os Sacrum:</form> <xpln lang="en">the great bone whereon the Ridg 
+bone resteth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="opisthotonos(n)">Opisthotones:</form> <xpln lang="en">a Convulsion so named, when the
+</page>
+
+<page sig="mmmm2r">
+Body is drawn backward.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oval(a)">Oval forme:</form> <xpln lang="en">that is the shape of an Eg.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="original(n)">Original:</form> <xpln lang="en">beginning, foundation.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oedema(n)">Oedema:</form> <xpln lang="en">a swelling caused by flegm, which is
+soft and whiteish, and has little heat or pain 
+with it.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="obstruction(n)">Obstruction</form> <xpln lang="en">stopping.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="opiate(n)">Opiate</form> <xpln lang="en" lexeme="diascord(n)">signifies an Electuary: properly it is
+put for Venice Treacle, Mithridate, Diascor&#124;
+dium, &amp;c. which have Opium in them: from 
+whence the name is derived. But secondarily,
+it signifies any Electuary or Antidote made up 
+in such a body as Treacle, &amp;c. though it have
+no Opiate in it.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orifice(n)">Orifice:</form> <xpln lang="en">the whol which is made by a Surgeon 
+when he lets blood. Also the mouth or pas&#124;
+sage into the Womb, or Stomach, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="optics(n)">Opticks:</form> <xpln lang="en" lexeme="multiplying glasses(n)" lexeme="augmenting glasses(n)" lexeme="perspective glass(n)" lexeme="burning glass(n)">a Part of Natural Philosophy (though
+falsly reckoned for a branch of the Mathema&#124;
+ticks) opening all the Mysteries of sight, and 
+the reasons of the Deceptions, or mistakes
+thereof, and teaching to make augmenting
+Glasses, mu<emend err="">l</emend>tiplying Glasses, Perspective Glas&#124;
+ses, burning Glasses, &amp;c.
+</xpln>
+<lemenote>
+"augmenting Glasses" antedates the first OED citation (1658; "augmenting," adj., 1).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oblique(a)">Oblique:</form> <xpln lang="en">slantling, athwart, crooked,
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="obnoxious(a)">Obnoxious:</form> <xpln lang="en">liable, or subject unto.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ophthalmy(n)">Ophthalmy:</form> <xpln lang="en">an Inflamation of the Eyes, cau&#124;
+sing foreness and redness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oscribosum:</form> <xpln lang="en">the bony Sieve. A bone full of 
+small holes, like a Sieve or colendar, placed a&#124;
+bove the Nose, through which Snot and Sni&#124;
+vil, is drained from the brain.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="occult(n)">Occult:</form> <xpln lang="en">hidden, unknown.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxycrate(n)">Oxycrate:</form> <xpln lang="en">Vineger and water mingled
+together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="organical(a)">Organical Disease.</form> <xpln lang="en">See similar diseases.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="systole(n)" lexeme="diastole(n)">The Systole, or diastole of
+the Pulse:</form> <xpln lang="en">are the 
+double motion thereof. For when the Arte&#124;
+ry is extended by the blood, Issuing out of 
+the Heart, and smites the Finger of him that 
+feels the Pulse; that motion is called Dia&#124;
+stole, or a widening and stretching of the Arte&#124;
+rie: but when the Arterie falls, contracts it 
+self, and sinks from under a Mans Finger, that 
+motion is called Systole, a contraction.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxyrrhodine(n)">Oxyrrhodine:</form> <xpln lang="en">Vinegar of Roses, and Medicines
+made principally thereof.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="prognosis(n)">PRognosis:</form> <xpln lang="en">the foreknowledg of Diseases.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plethora(n)">Plethora:</form> <xpln lang="en">a too great fulness of good blood 
+in the body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paralysis(n)">Paralysis:</form> <xpln lang="en">the Palsie.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paraplegia(n)">Paraplegia:</form> <xpln lang="en">Parisis, Palsie.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peripneumonia(n)">Peripneumonia:</form> <xpln lang="en">an Inflamation of the Lungs,
+or Lights.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pericranium(n)">Pericranium:</form> <xpln lang="en">the skins which compasseth the 
+Scul.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pugil(n)">A Pugil</form> <xpln lang="en">of Herbs viz. as much as is taken up  be&#124;
+tween the Thumb and the three fore-Fingers.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="physical(a)" lexeme="regiment(n)">Physical Regiment:</form> <xpln lang="en">is the right ordering of 
+a Patient, having taken a Purge, or other strong 
+Medicament. As to keep the Patient warm, to 
+give posset or thin-broath after every stool; 
+not suffer him to read, or her to Sow or hold 
+down the head, or to be sad, or to sleep; espe&#124;
+cially after a vomit, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frenzy(n)">Phrensie:</form> <xpln lang="en">rageing, Madness joyned with a  Fea&#124;
+ver. see Chap. 11. Book 1.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prognostic(n)">Prognostick:</form> <xpln lang="en">foretelling. A Prognostick sign 
+is a sign foretelling what will become of the 
+Disease, and patient.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="privation(n)">Privation:</form> <xpln lang="en">loss. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plethoric(a)">Plethorick:</form> <xpln lang="en">full of blood, too full of blood.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pore(n)">Pores:</form> <xpln lang="en">little holes in the skin, through which 
+vapors and sweat come out. Sometimes they 
+are visible upon the Arm or Leg, being swelled
+and closed with cold; resembling a Goose 
+skin for roughness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preternaturally(adv)">Preternaturally:</form> <xpln lang="en">otherwise then the Course of 
+Nature requires.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perspicuous(n)">Perspicuous:</form> <xpln lang="en">cleer, that may be seen through, as 
+Glass, fair-water, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peritoneum(n)">Periton&aelig;um:</form> <xpln lang="en">the inner coat of the Belly,  which
+covers the Guts: See the English <f type="i">Anatomy.</f>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poplar(n)" lexeme="ointment(n)">Poplar Oyntment:</form> <xpln lang="en">in the shops called Popule&#124;
+on. See the English <f type="i">Dispensatory.</f>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="potential(a)" lexeme="coldness(n)">Potential coldness:</form> <xpln lang="en">that is coldness in operati&#124;
+on, though not to the feeling. So a draught 
+of Whey in which cooling Herbs hath
+been boiled, being drunk down warm from 
+the fire; is said to be actually hot, because it 
+is so to the hand and palate; but Potentially
+cold, because it afterward cools the stomach, 
+Liver, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pulsation(n)">Pulsation:</form> <xpln lang="en">beating of the Arteries, in any part 
+of the Body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="precede(v)">Precede:</form> <xpln lang="en">go before.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preparing(n)" lexeme="humour(n)">Preparing of humors:</form> <xpln lang="en">is the qualifying of them,
+so as that they may be fit for expression which
+preparation consists in separating them from 
+the mass of good blood: in making them thick, 
+if they be too thin and sharp: in cutting them
+and making them thin, if they be too thick and 
+clammy.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="phlebotomy(n)">Phlebotomy:</form> <xpln lang="en">blood-letting.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preternatural(a)">Preternatural:</form> <xpln lang="en">beside the intent or custom of Nature. vide Preternaturally.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="propriety(n)">Propriety:</form> <xpln lang="en">a pain by propriety, is when the 
+cause of the Pain is in the part pained, so when 
+the Head-ach comes from the Humors in the 
+Head, it is called a pain by propriety; when 
+it comes from Humors in the Stomach, 
+or any other part that sends up vapors; it is
+called Head-ach by Consent. And the like 
+may be said of other Symptoms or accidents.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pyramid(n)">A Pyramis:</form> <xpln lang="en">is a Geometrical figure, broad and 
+angular at the bottom, and growing less and less 
+towards the top, till it come to a point. The
+Sepulchers of the Egyptian Kings were made
+in this form, and therefore called Pyramides.
+Naturalists do make use of this Figure to shew
+</page>
+
+<page sig="mmmm2v">
+how the Eye receives the representations of 
+visible objects.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pupil(n)" lexeme="eye(n)">Pupil of the Eye:</form> <xpln lang="en">is the midlemost round circle, which we commonly call, the sight of the Eye, 
+and which in Cats, is seen to widen and con&#124;
+tract it self.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pulse(n)">Pulse:</form> <xpln lang="en" lexeme="hastivers(n)">Beans, Pease, Hastivers, French-pease,
+&amp;c. called so, because they are gathered by 
+pulling, and not by mowing down, as corn.
+</xpln>
+<lemenote>
+"Hastivers" (a kind of pease) not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="probable(a)">Probable:</form> <xpln lang="en">likely, possible.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="profound(a)">Profound:</form> <xpln lang="en">deep.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="producing(a)">Producing:</form> <xpln lang="en">breeding, causing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peccant(a)" lexeme="humour(n)">Peccant Humor:</form> <xpln lang="en">the Humor offending, cau&#124;
+sing the Disease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="phlegmon(n)">A Phlegmon:</form> <xpln lang="en">is an Inflamation or swelling cau&#124;
+fed by blood. If no other Humor be adjoy&#124; 
+ned, it is a true Phlegmon. If choller be joy&#124;
+ned, it is called a Phlegmon erisipelous; if
+flegm, &aelig;dematous; if melancholly, Scirrhous.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paroxysm(n)">Paroxysme:</form> <xpln lang="en">the fit of an Ague, of the Mother, or 
+any Disease that comes by fits.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perforated(a)">Perforated:</form> <xpln lang="en">bored through.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="putrid(a)">Putrid:</form> <xpln lang="en">rotten, filthy, stinking.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pustula(n)">Pustula:</form> <xpln lang="en" lexeme="pustule(n)">a pustle, push, or whelk. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ponderous(a)">Ponderous:</form> <xpln lang="en">weighty.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peristaltic(a)" lexeme="motion(n)" lexeme="gut(n)">Peristaltickmotion of the Guts:</form> <xpln lang="en">is whereby the 
+Guts do contract and purse themselves toge&#124;
+ther above the excrements, and so squeez them
+out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pomum curtipendulum:</form> <xpln lang="en">an Apple so called.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pubes(n)">Pubes:</form> <xpln lang="en">the hairy Hillock above the privities in 
+men and women. The word signifies ripeness, 
+because that hair being grown out, testifies the 
+parties to be fit to engender.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perineum(n)">P&aelig;rineum:</form> <xpln lang="en">the space which runs like a ridge be&#124;
+tween the privities and fundament in men and 
+women.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preposterous(a)">Praeposterous:</form> <xpln lang="en">unnaturall, undue, unfitting.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perturbation(n)" lexeme="eye(n)">Perturbation of the Eyes:</form> <xpln lang="en">a troubled, drousie,
+frighted look of the Eyes.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="procatarctic(a)">Procatarctick Causes:</form> <xpln lang="en">primarie, first working
+and occasional Causes. So in a Feaver, the 
+next immediate Cause, is putrefied choller &amp;c. 
+but the first working &amp; occasional causes, were
+the patients taking cold, by swimming in the 
+cold-water; whereby the pores became shut, 
+and the Matter of the Disease was retained in 
+the Body. So the Procatarctick Cause of 
+worms in Children, is their greedy eating of 
+Fruit; but the immediate Cause, is putrid 
+humors occasioned by those Fruits; out of 
+which humors the worms breed.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="precipitated(a)">Precipitated:</form> <xpln lang="en">thrown
+head-long, forcibly
+cast down.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palliative(a)">Palliative Cure:</form> <xpln lang="en">is when a Disease is not taken
+away, but only mitigated and made more 
+mild, so that the patient may have as much 
+ease as possible. Or if the Disease deform the 
+Body, a palliative Cure, does hide as much as 
+may be that deformity. So an Eye being thurst 
+out, cannot be properly cured; but it may 
+admit of a palliative cure, in asswaging the 
+pain, and other Symptoms, and by putting in&#124;
+to the place thereof a Glass or other Artifici&#124;
+al Eye.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="potent(a)">Potent:</form> <xpln lang="en">powerful.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perspirable(a)">Perspirable:</form> <xpln lang="en">the Body is
+said to be Perspirable, 
+when the invisible Pores or holes in the skin, 
+are kept open, so that the vapors arising from 
+evil Humors may freely breath out. See Tran&#124;
+spiration.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pernicious(a)">Pernicious;</form> <xpln lang="en">deadly, causing
+death, &amp; destructi&#124;
+on.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="protraction(n)">Protraction:</form> <xpln lang="en">is
+a lengthening out of a Disease 
+and making the same to last long.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pharmaceutic(a)" lexeme="remedy(n)">Pharmaceutick Remedies:</form> <xpln lang="en">whatsoever kind of 
+Medicines are made by the Apothecary.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preposterous(a)">Pr&aelig;posterous:</form> <xpln lang="en">disorderly, undue, unfit, the 
+Cart before the Horse.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q">
+<wordentry type="h"><form lang="en" lexeme="quittor(n)">Quittor.:</form> <xpln lang="en">See Matter.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en" lexeme="repletion(n)">Repletion.</form> <xpln lang="en">over much fulness of blood, or 
+Humors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resolution(n)">Resolution,</form> <xpln lang="en">weakening or dissolving the strength 
+of a part, as when it is palsyed &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="revulsion(n)">Revulsion:</form> <xpln lang="en">drawing back of blood or Humors
+from the part affected.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="repelling(n)">Repelling:</form> <xpln lang="en">Medicines which draw back the hu&#124;
+mor from the part affected,
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="repeller(n)">Repellers,</form> <xpln lang="en">the 
+same.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="relaxing(n)">Relaxing:</form> <xpln lang="en" lexeme="slacking(n)">Slacking as the string of a bow when 
+the bow is unbent, is said to be relaxed or 
+slackned.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="revel(v)">To Revel:</form> <xpln lang="en">to draw back Humors from the part 
+diseased.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="remitted(a)">Remitted:</form> <xpln lang="en">lessened, abated.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="restriction(n)">Restriction:</form> <xpln lang="en">exception, limitation.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ruption(n)">Ruption:</form> <xpln lang="en">breaking, or tearing asunder.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="relic(n)">Reliques</form> <xpln lang="en">remainders of an Humor after Solemn 
+purging, bleeding &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="retraction(n)">Retraction:</form> <xpln lang="en">drawing back.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="radical(a)" lexeme="moisture(n)">Radical moisture:</form> <xpln lang="en">the fundamental juice of the 
+<emend err="Fundamental juice of the"></emend> body, which nouri&#124;
+shes and preserves the natural heat, as the oile 
+in a lampe preserves and feeds the flame.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="revelled(a)">Revelled:</form> <xpln lang="en">drawen back,
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="revulsive(a)">Revulsives,</form> <xpln lang="en">remedies
+to draw back the Humor from the Diseased
+part.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="repelled(a)">Repelled:</form> <xpln lang="en">driven away.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="retentive(a)">Retentive<emend err=":"> faculty</emend><emend err=",">:</emend> </form> <xpln lang="en">the power in our body and
+its parts to hold fast its nutriment and what 
+ever is agreeable thereunto.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rough artery(n)">Rough Arterie or <term lang="la">Aspera Arteria,</term></form> <xpln lang="en">is 
+the wind&#124;
+pipe or Wesand, which is rough on the out side 
+with circles and gristly rings.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reduced(a)">Reduced</form> <xpln lang="en">brought bac<emend err="h">k</emend> againe.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="refraction(n)">Refractions:</form> <xpln lang="en">breaking of the Representations
+of visible objects. a terme used by the writers
+of Opticks, or the Art of seeing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="recruited(a)">Recruted:</form> <xpln lang="en">repaired, restored, made up, a mi&#124;
+</page>
+
+<page sig="nnnn1r">
+litary term.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resolving(a)">Resolving medicaments:</form> <xpln lang="en">are such as loosen and 
+scatter evil humors which are gathered and 
+combined together in some diseased part of 
+the Body.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme=repercussive(n)">Repercussives:</form> <xpln lang="en">medicines which drive back the 
+Humors from a diseased part.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="relaxation(n)">Relaxation:</form> <xpln lang="en">loosenes.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="refrigerating(a)">Refrigerating:</form> <xpln lang="en">cooling.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resperation(n)">Resp<emend err="">e</emend>ration:</form> <xpln lang="en">breathing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reflux(n)">Reflux:</form> <xpln lang="en">flowing back again.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="recipient(n)">Recipient</form> <xpln lang="en">part, is that part which receives the 
+Humor offending.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="suppository(n)">Suppository:</form> <xpln lang="en">that which is put into the Fun&#124;
+dament to cause solubleness.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sudorofic(a)">Sudo<emend err=" ">r</emend>ofick:</form> <xpln lang="en">that is causing sweat.
+</xpln>
+<lemenote>
+"Sudorofick" not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subeth(n)">Subeth</form> <xpln lang="en">a deep sleep.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scarification(n)">Scarefication:</form> <xpln lang="en">is a cutting of the Skin that it may 
+bleed into a Cupping-glass.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="superficies(n)">Superficies:</form> <xpln lang="en">the outside of any thing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stufe(n)">Stuphes:</form> <xpln lang="en">Stoves or Hot-Houses to sweat in.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spiritus acousticos:</form> <xpln lang="en">is that portion of the spirit 
+which in the Eares discerneth sounds.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strangulation(n)">Strangulation:</form> <xpln lang="en">choaking.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sternon(n)">Sternon:</form> <xpln lang="en">the breast bone, See Veslingus Ana&#124;
+tomie in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sphincter(n)">Sphinchter:</form> <xpln lang="en">is the Musle of the Arse.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stupor(n)">Stupor:</form> <xpln lang="en">dulness.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spasmus(n)">Spasmus:</form> <xpln lang="en">cramp or Convulsion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scruple(n)">A Scruple</form> <xpln lang="en">is twenty graines or the weight of so 
+many barley cornes.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sternutatory(n)">Sternutatories:</form> <xpln lang="en">medicines to snuf into the nose 
+to provoke sneezing. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stupefying(a)">Stupefying:</form> <xpln lang="en">taking away the sence of feeling;
+benumming.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stupid(a)">Stupid:</form> <xpln lang="en">that is benummed, besotted, hath no feel&#124;
+ling or sense, blockish.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="symptom(n)">Symptomes:</form> <xpln lang="en">evil dispositions of the Body which 
+depend upon and accompany a disease; as 
+Heat, thirst, Headach, want of sleep, stom&#124; 
+ach-sickness, faintings, swoonings &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sympathy(n)">Sympathy:</form> <xpln lang="en">fellow-feeling, a disease is said to 
+come by sympathy, when the principal cause
+is in some other part, with which the part of&#124;
+fended hath a fellow-feeling. So paines of 
+the Head caused by evil Humors in the sto&#124;
+mach, are said to come by sympathy. And 
+sickness of stomach caused by stone in the kid&#124;
+neys is a disease of the stomach by sympathy.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nerve(n)" lexeme="sinew(n)">Nerves Sinnewes,</form> <xpln lang="en">certaine strings carrying
+the facultie of Motion and sence from the 
+Braine into all parts of the Body see Veslingus
+Anatomie in English.
+</xpln>
+<lemenote>
+"Nerves" appears to have been added before the headword "Sinnewes" after alphabetical sorting of the second under S.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scorbut(n)">Scorbut:</form> <xpln lang="en">the Scurvie.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steeled(a)">Steeled</form> <xpln lang="en">in which steel hath bin quenched or in&#124;
+fused.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scorbutic(a)">Scorbutick</form> <xpln lang="en">persons, that are troubled with the 
+scurvy.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spinal(a)">Spinal:</form> <xpln lang="en">of or belonging to the Back-bone.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serous(a)">Serous matter:</form> <xpln lang="en">wheyish, like whey.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suture(n)">Sutures:</form> <xpln lang="en">seams of the Head, where the parts of 
+the skull are joined together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="species(n)" lexeme="object(n)">Species of the Objects:</form> <xpln lang="en">representations of things
+seen. For the visible things themselves do 
+not enter into the eyes, but certain images,
+and figures of them.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="situation(n)">Scituation</form> <xpln lang="en">place or posture.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="species(n)" lexeme="mind(n)">Species retained in the Mind:</form> <xpln lang="en">the shapes and 
+patterns of things seen or heard &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="state(n)">State of the disease:</form> <xpln lang="en">is when it is at the highest and 
+does neither encrease nor decrease.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saphena(n)">Saphena:</form> <xpln lang="en">A vein of the foot which is
+usually
+opened in woemen; see Veslingus Anatomie
+in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sal-prunella(n)">Sal-prunell&aelig;:</form> <xpln lang="en">salt-peter purified with Brimstone 
+Clean white salt Peter is as good for use, only 
+the Chymists love to mend Magnificat and 
+many times take great pains to little purpose.
+</xpln>
+<lemenote>
+"Sal-prunellae" antedates the earliest OED citation (1664).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sphacelus(n)">Sphacelus:</form> <xpln lang="en" lexeme="sphacelation(n)">deadnes of any part, when the flesh 
+and bone are dead; sphacelation signifies the 
+same.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="superfluous(a)">Superfluous:</form> <xpln lang="en">over much, unnecessary &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Speculum Oris:</form> <xpln lang="en">an Instrument wherewith the 
+Mouth and throat is kept open, that the parts
+diseased may be seen and dealt with.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scirrhus(n)">Scirrhus:</form> <xpln lang="en">an hard swelling without pain.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppurated(a)">Suppurated:</form> <xpln lang="en">an Impostume is said to be suppura&#124;
+ted, when it gathers matter &amp; enclines to break.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppuration(n)">Suppuration:</form> <xpln lang="en">a collection of matter in an impo&#124;
+stume.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppression(n)">Suppression:</form> <xpln lang="en">stoppage.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="solution(n)" lexeme="continuity(n)">Solution of continuitie:</form> <xpln lang="en">a dividing of such parts 
+as were naturally united; so every wound and 
+Sore, is called a solution of continuity &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stupe(n)">Stupes:</form> <xpln lang="en">cow or Cotton-wooll.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sealed earth(n)">Sealed Earth:</form> <xpln lang="en" lexeme="terra sigillata(n)">Terra Sigillata, it is a kind of 
+Medicinal Earth brought out of the straights
+&amp; sealed in little flatt cakes, to avoid Imposture 
+the Seal is wont to be the great Turks badg viz. 
+the half moon.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sparadrap(n)">Sparadrap:</form> <xpln lang="en">a cerecloath.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sediment(n)">Sediment:</form> <xpln lang="en">the settlings
+and dregs of Urine or 
+any other liquor.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppression(n)">Suppression:</form> <xpln lang="en">stoppage.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sincere(a)" lexeme="excrement(n)">Sincere excrements;</form> <xpln lang="en">are such as are pure and 
+unmixed, as choller alone &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sudorific(n)">Sudoroficks:</form> <xpln lang="en">medicines
+causing Sweat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suffocating(a)">Suffocating,</form> <xpln lang="en">choaking,
+Suffocation a choaking.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subject(n)">Subject;</form> <xpln lang="en">a logical term, it signifies any thing that 
+hath somwhat adjoined and annexed to it. So 
+the Bodie is the subject of Sicknes &amp; Health, of 
+Beautie and deformity. The Head is the sub&#124;
+ject of paines, and other parts are the subject 
+of other accidents. The Soul is the subject of 
+vertues and Vices, of Happiness and Misery &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suffusion(n)">Suffusion:</form> <xpln lang="en">a shedding abroad of Humors; as 
+when an Humor is shed abroad in the Eye and 
+hinders the sight, it is called a suffusion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seton(n)">A Seton</form> <xpln lang="en" lexeme="skein(n)">is
+an Hole made in the skin and a skein
+</page>
+
+<page sig="nnnn1v">
+of Silke, or yarn, or such like drawn thorough, 
+and kept in, in which being removed dayly
+causes the matter and humor to come away.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sulfurous(a)" lexeme="bituminous(a)">Sulphurus and Bituminous bathes:</form> <xpln lang="en">that is hot 
+bathes like those of Bath in Summerset-shire,
+whose Heat and virtue springs from a tincture 
+of Brimstone and Bitumen which they bring 
+out of the Earth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppuration(n)">Suppuration:</form> <xpln lang="en">is when a swelling comes to gather 
+Head, breed matter and is ready to break.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="specific(a)" lexeme="quality(n)">Specifick
+quality:</form> <xpln lang="en">a peculiar hidden propertie,
+not springing from the first qualities.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="similar(a)" lexeme="disease(n)">Similar Diseases:</form> <xpln lang="en">are such as  befall the substance 
+of the Body, not considered as formed into 
+any organ or limb or part; and they are al kind
+of Distempers. Organick diseases are such as 
+are proper to the organs and Instruments of 
+the Body as such, viz. what ever mar their Fa&#124;
+brick. Common diseases are such as are liable 
+both to the Similary and Organick parts viz. So&#124;
+lutions of Unitie.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="tablet(n)">Tablets:</form> <xpln lang="en" lexeme="lozenge(n)">are the same with Lozenges: they 
+are Medicines made up in flat four squar'd 
+Cakes with acuted angles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="topor(n)">Torpor:</form> <xpln lang="en">numbness. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transpiration(n)">Transpiration:</form> <xpln lang="en">the passage of the vapours through 
+the pores of the skin of the whol body invisib&#124;
+ly, onely causing a smell according to the hu&#124;
+mors, in some more in some less, in some of&#124;
+fensive in others not so.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tumor(n)">Tumor:</form> <xpln lang="en">swelling.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tincture(n)">Tincture:</form> <xpln lang="en">the virtue or strength of any thing
+drawn forth by steeping the same in spirit of 
+wine, vinegar, or any percing liquor', the 
+said Liquor containing the virtue and often&#124;
+times the Colour of that which was steeped in 
+it is called the tincture thereof.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tile tree(n)">Tile tree:</form> <xpln lang="en" lexeme="linden-tree(n)">a Linden tree there grow two on New&#124;
+ington green they bear sweet blossomes.
+</xpln>
+<lemenote>
+"Tile" (as a tree) not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trepan(n)">Trepan:</form> <xpln lang="en">an Instrument made to bore an hole in 
+the skull.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turgent(a)">Turgent:</form> <xpln lang="en">swelling,
+working, moving too and 
+fro spoken of the Humors of the Body when 
+they are in a Combustion, and full of motion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tacamahaca(n)">Tacamahaca:</form> <xpln lang="en">A sweet Gumm. See the Lon&#124;
+don <f type="i">Dispensatory</f> in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="translation(n)">Translation:</form> <xpln lang="en">carrying
+of an humor from one part 
+to another.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tunicle(n)">Tunicles:</form> <xpln lang="en">little coats
+or skins of which the eye 
+is partly made up. See the English Anatomy </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="terminated(a)">Terminated:</form> <xpln lang="en">ended.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="topical(a)" lexeme="medicine(n)">Topical Medicines:</form> <xpln lang="en">such as are outwardly ap&#124;
+plied to the part affected, or the part which 
+sends the Humor &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transparentness(n)">Transparentnes:</form> <xpln lang="en">such a clearness as is in Glass, 
+Horn, the Ayr, Fair water, or any other 
+thing which we can see through.
+</xpln>
+<lemenote>
+"Transparentness" antedates the earliest OED citation (1727).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="troche(n)" lexeme="trochisk(n)">Troches or Trochiscs,</form> <xpln lang="en">medicines made up in the 
+form of little flat Bouls, whence they have 
+their name.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tunica retiformis:</form> <xpln lang="en">the net-like Coat or tunicle
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorax(n)">Thorax:</form> <xpln lang="en">the Chest.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="treble(a)" lexeme="quantity(n)">Trebble Quantity:</form> <xpln lang="en">thrice so much.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tartarous(a)" lexeme="matter(n)">Tartarous matter:</form> <xpln lang="en">congealed
+hard matter like 
+the hardned Lees of wine which are called 
+Tartar.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transpire(v)">Transpire:</form> <xpln lang="en">breath through.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="vertigo(n)">VErtigo:</form> <xpln lang="en">a swimming in the Head.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vesicatory(n)">Vesitatoryes:</form> <xpln lang="en">a Medicine  applied to the 
+skin to cause a Blyster.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vertebra(n)">Vertebr&aelig;:</form> <xpln lang="en">the turning bones of the whol back.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ventricle(n)" lexeme="brain(n)">Ventricles of the Brain:</form> <xpln lang="en">certain hollownesses
+of the Brain.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="venenosity(n)">Venenosity:</form> <xpln lang="en" lexeme="poisonfulness(n)">poysonfulness.
+</xpln>
+<lemenote>
+"poysonfulness" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vapor(n)">Vapors:</form> <xpln lang="en">Steams ascending into the Head, like 
+the Steams we see mounting from a mess of hot 
+Broth, or Meat, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vital(a)" lexeme="function(n)">Vital function:</form> <xpln lang="en">faculty of the Heart causing
+Life, Pulse-beating, and Breathing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="visive(a)" lexeme="nerve(n)">Visive Nerve:</form> <xpln lang="en">the seeing
+Nerve. The Sinnew 
+wherewith the Objects of sight are carried in&#124;
+to the Brain, to the Imagination or Common&#124;
+sence. See Veslingus Anatomy.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vaporous(a)">Vaporous Matter:</form> <xpln lang="en">steeming,
+reaking matter. See 
+Vapors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ulcerated(a)">Ulcerated:</form> <xpln lang="en">having
+an Ulcer or running sore.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="visor(n)">Visor, or Visive Spirits:</form> <xpln lang="en">the Spirit wherewith 
+we see.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="universal(a)" lexeme="evacuation(n)">Universal evacuation:</form> <xpln lang="en">is
+a general purging of 
+the whol body, all at once.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vitrous(a)">Vitrous Humor:</form> <xpln lang="en">a moisture like to molten-&#124;
+Glass. which goes into the making up of the 
+Eye. See Veslingus Anatomy in English; and 
+cut up an Eye of a Calf, Sheep, &amp;c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Uvea tunica:</form> <xpln lang="en">a coat of the Eye, resembling the 
+skin of a Grape, from whence it is named. See 
+Veslingus Anatomy in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="voluntary(a)">Voluntary faculty:</form> <xpln lang="en">that power of our Body 
+which works according as we please; as the 
+power of going, running, speaking, &amp;c. whereas 
+the powers of beating in the Pulse, of digesting 
+in the Stomach, and Liver, of making blood, 
+flesh, fat, &amp;c. do not work according to our 
+wills. The former we can exercise, or suspend, 
+and moderate them as we please, but the lat&#124;
+ter not: which are therefore termed involun&#124;
+tary.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="uvula(n)">Uvula</form> <xpln lang="en">or  Columella: the Pallate of the mouth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vehicle(n)">A Vehicle:</form> <xpln lang="en">that which serves to carry.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vermicular(a)">Vermicular:</form> <xpln lang="en">Worm-like. The Pulse is so cal&#124;
+led, when it is weak, and lifts it self unequally, 
+sometimes more, sometimes less; like the cree&#124;
+ping of a Catterpillar.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ureter(n)">Ureters:</form> <xpln lang="en">certain long pipes
+or passages, which 
+bring the Urine from the Kidney to the Blad&#124;
+der. See Veslingus Anatomy in English.
+</xpln></wordentry>
+</page>
+
+<page sig="nnnn2r">
+<wordentry type="h"><form lang="en" lexeme="vicous(a)" lexeme="roping(n)">Viscous,</form> <xpln lang="en">cleaving and  roaping, like Birdlime.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vicissitude(n)">Vicissitude,</form> <xpln lang="en">the following of one thing upon the 
+neck of another.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="venery(n)">Venery:</form> <xpln lang="en">Letchery, the immoderate exercise or 
+doating upon such Acts as tend to Generation.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="en" lexeme="wild poppy(n)">WIld-Poppies.</form> <xpln lang="en" lexeme="corn-rose(n)" lexeme="red poppy(n)">Red-Poppies which grow 
+among Corn, called likewise Corn-&#124;
+Rose.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="watery(a)">Watry Humor:</form> <xpln lang="en">a certain liquor
+like water, which 
+goes into the Composition of the Eye, See
+Veslingus Anatomy in English.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water gate(n)">Water-Gate:</form> <xpln lang="en">the Privities
+in Women.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><alpha>Z</alpha>
+<wordentry type="h"><form lang="en" lexeme="Zacutus Lusitanus(pn)">ZAcutus Lusitanus:</form> <xpln lang="en">a famous Physitian;
+A Jew that pacticed at Amsterdam in Hol&#124;
+land. He has wrote divers excellent Treatises
+of Physick, sutable to the Principles of Hip&#124;
+pocrates and Galen.
+</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</section>
+</page>
+</leme>

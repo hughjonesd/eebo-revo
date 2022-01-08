@@ -1,0 +1,191 @@
+<leme no="850">
+
+<page sig="*3r">
+<heading>
+Because many doe desire to knowe the maner of their 
+<f type="i">language, I haue inserted these few words.<f type="r">
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="al">Ka ka torawincs yowo.</form> <xpln lang="en" lexeme="call(v)">What call you this.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Nemarough.</form> <xpln lang="en" lexeme="man(n)">a man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Crenepo.</form> <xpln lang="en" lexeme="woman(n)">a woman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Marowanchesso.</form> <xpln lang="en" lexeme="boy(n)">a boy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Yehawkans.</form> <xpln lang="en" lexeme="house(n)">Houses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Matchcores.</form> <xpln lang="en" lexeme="skin(n)" lexeme="garment(n)">Skins, or garments.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Mockasins.</form> <xpln lang="en" lexeme="shoe(n)">Shooes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Tussan.</form> <xpln lang="en" lexeme="bed(n)">Beds.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Pokatawer.</form> <xpln lang="en" lexeme="fire(n)">Fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Attawp.</form> <xpln lang="en" lexeme="bow(n)">A bowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Attonce.</form> <xpln lang="en" lexeme="arrow(n)">Arrowes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Monacookes.</form> <xpln lang="en" lexeme="sword(n)">Swords.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Aumoughhowgh.</form> <xpln lang="en" lexeme="target(n)">A Target.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Pawcussacks.</form> <xpln lang="en" lexeme="gun(n)">Gunnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Tomahacks.</form> <xpln lang="en" lexeme="ax(n)">Axes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Tockahacks.</form> <xpln lang="en" lexeme="pickax(n)">Pickaxes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Pamesacks.</form> <xpln lang="en" lexeme="knife(n)">Kniues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Accowprets.</form> <xpln lang="en" lexeme="shears(n)">Sheares.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Pawpecones.</form> <xpln lang="en" lexeme="pipe(n)">Pipes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Mattassin.</form> <xpln lang="en" lexeme="copper(n)">Copper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Vssawassin.</form> <xpln lang="en" lexeme="iron(n)" lexeme="brass(n)" lexeme="silver(n)">Iron, Brasse, Silver, or any white mettal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Musses.</form> <xpln lang="en" lexeme="woods(n)">Woods.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Attasskuss.</form> <xpln lang="en" lexeme="leaves(n)" lexeme="weeds(n)" lexeme="grass(n)">Leaues, weeds, or grasse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Chepsin.</form> <xpln lang="en" lexeme="land(n)">Land.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Shacquohocan.</form> <xpln lang="en" lexeme="stone(n)">A stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Wepenter,</form> <xpln lang="en" lexeme="cuckold(n)">a cookold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Suckahanna.</form> <xpln lang="en" lexeme="water(n)">Water.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Noughmass.</form> <xpln lang="en" lexeme="fish(n)">Fish.</xpln></wordentry>
+</page>
+
+<page sig="*3v">
+<wordentry type="h"><form lang="al">Co<damage></damage>tone.</form> <xpln lang="en" lexeme="surgeon(n)">Surgion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Weghshaughes.</form> <xpln lang="en" lexeme="flesh(n)">Flesh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Sawwehone.</form> <xpln lang="en" lexeme="blood(n)">Bloud.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Netoppew.</form> <xpln lang="en" lexeme="friend(n)">Friends.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Marrapough.</form> <xpln lang="en" lexeme="enemy(n)">Enimies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Maskapow.</form> <xpln lang="en" lexeme="enemies, worst of(n)">The <emend err="wo rst">worst</emend> of the enimies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Mawchick chammay.</form> <xpln lang="en" lexeme="friends, best of(n)">The best of friends.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Casacunnakack, peya quagh acquintan vttasantasough.</form>
+<xpln lang="en">In how many daies will there come hether any more 
+English ships?</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Numbers">
+<heading>Their numbers.</heading>
+
+<wordentry type="h"><form lang="al">Necut.</form> <xpln lang="en" lexeme="one(n)">1.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Ningh.</form> <xpln lang="en" lexeme="two(n)">2</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Nuss.</form> <xpln lang="en" lexeme="three(n)">3.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Yowgh.</form> <xpln lang="en" lexeme="four(n)">4.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Paranske.</form> <xpln lang="en" lexeme="five(n)">5.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Comotinch.</form> <xpln lang="en" lexeme="six(n)">6.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Toppawoss.</form> <xpln lang="en" lexeme="seven(n)">7.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Nusswash.</form> <xpln lang="en" lexeme="eight(n)">8.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Kekatawgh.</form> <xpln lang="en" lexeme="nine(n)">9.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Kaskeke.</form> <xpln lang="en" lexeme="ten(n)"></xpln></wordentry>
+
+<heading>They count no more but by tennes as followeth.</heading>
+
+<wordentry type="h"><form lang="al">Case,</form> <xpln lang="en" lexeme="how many(adv)">how many.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Ninghsapooeksku.</form> <xpln lang="en" lexeme="twenty(n)">20.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Nussapooeksku.</form> <xpln lang="en" lexeme="thirty(n)">30.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Yowghapooeksku.</form> <xpln lang="en" lexeme="forty(n)">40.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Parankestassapooeksku.</form> <xpln lang="en" lexeme="fifty(n)">50.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Comatinchtassapooeksku.</form> <xpln lang="en" lexeme="sixty(n)">60.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Nussswashtassapooeksku.</form> <xpln lang="en" lexeme="eighty(n)">80.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Toppawousstassapooeksku.</form> <xpln lang="en" lexeme="seventy(n)">70</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Kekataughtassapooeksku.</form> <xpln lang="en" lexeme="ninety(n)">90.</xpln></wordentry>
+</page>
+
+<page sig="*4r">
+<wordentry type="h"><form lang="al">Necuttoughtysinough.</form> <xpln lang="en" lexeme="one hundred(n)">100.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Necuttwevnquaough.</form> <xpln lang="en" lexeme="one thousand(n)">1000.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="al">Rawcosowghs.</form> <xpln lang="en" lexeme="day(n)">Daies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Keskowghes.</form> <xpln lang="en" lexeme="sun(n)">Sunnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Toppquough.</form> <xpln lang="en" lexeme="night(n)">Nights.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Nepawweshowghs.</form> <xpln lang="en" lexeme="moon(n)">Moones,</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Pawpaxsoughes.</form> <xpln lang="en" lexeme="year(n)">Yeares.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Pummahumps.</form> <xpln lang="en" lexeme="star(n)">Starres.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Osies.</form> <xpln lang="en" lexeme="heavens(n)">Heavens.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Okes.</form> <xpln lang="en" lexeme="god(n)">Gods.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Quiyoughcosucks.</form> <xpln lang="en" lexeme="gods, petty(n)">Pettie Gods, and their affinities.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Righcomoughes.</form> <xpln lang="en" lexeme="deaths(n)">Deaths.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Kekughes.</form> <xpln lang="en" lexeme="lives(n)">Liues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Mowchick woyawgh tawgh noeragh kaquere mecher.</form>
+<xpln lang="en">I am verie hungrie? what shall I eate?</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Tawnor nehiegh Powhatan.</form> <xpln lang="en" lexeme="Powhatan(pn)" lexeme="dwell(v)">where dwels Powwahtan.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Mache, nehiegh yowrowgh, orapaks.</form> <xpln lang="en" lexeme="dwell(v)">Now he dwels a 
+great way hence at orapaks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Vttapitchewayne anpechitchs nehawper werowacomoco.</form>
+<xpln lang="en" lexeme="lie(v)" lexeme="stay(v)">You lie, he staide ever at <term lang="al">werowocomoco</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Kator nehiegh mattagh neer vttapitchewayne.</form> <xpln lang="en" lexeme="truly(adv)" lexeme="lie(v)">Truely he 
+is there I doe not lie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Spaughtynere keragh werowance mawmarinough kekaten 
+wawgh peyaquaugh.</form> <xpln lang="en" lexeme="run(v)" lexeme="bid(v)">Run you then to the king mawma&shy;
+rynough and bid him come hither.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Vtteke, epeya weyack wighwhip.</form> <xpln lang="en" lexeme="get gone(v)" lexeme="come again(v)">Get you gone, and come 
+againe quickly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="al">Kekaten pokahontas patiaquagh niugh tanks manotyens 
+neer mowchick rawrenock audowgh.</form> <xpln lang="en" lexeme="Pocahontas(pn)" lexeme="bring(v)" lexeme="basket(n)" lexeme="beads, white(n)" lexeme="chain(n)">Bid Pokahontas 
+bring hither two little Baskets, & I wil giue her white 
+beads to make her a chaine.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</page>
+</leme>

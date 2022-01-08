@@ -1,0 +1,484 @@
+
+
+<leme no="116">
+<page sig="23r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 3 0 6 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+To the Reader.
+</heading>
+
+FOrasmuche as this present woorke shall come too
+the hands of all men, as well of the rudest, vnskil&#173;
+fullest, and vnlearnedst sorte, that are vtterly ig&#173;
+norant of the Latin tong, and of the ryght vnder&#173;
+standing of such wordes, as are taken out of the Latin in&#173;
+too English, for the more beautifying of our speeche, and bet&#173;
+ter expressing of our myndes: as too the handes of the skilfull
+and learned sort: I haue added a breefe declaration or expo&#173;
+sition of certein of those woordes vsed in this my Translati&#173;
+on. Wherein as I seeke and wish the furtherance of the one
+sort, (for too read and not vnderstand would doo them small
+pleasure:) so I desire the fauorable acceptation of the other
+sort: whose helpe and ayde I gladly craue too the amende&#173;
+ment and gentle interpreting of such faults as haue escaped
+either me in translating, or the Stacioner in printing.
+
+<wordgroup1 type="a">
+<wordgroup2 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="abandon(v)">
+ABandon,</form> <xpln lang="en">too giue ouer, too yeelde vp, too leaue or cast vp, too
+forsake, too put intoo the hande or power of an other m<expan type="">an</expan>,
+too submit too an other mans wil or vse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="absurdity(n)">Absurditie,</form> <xpln lang="en">a thing clean contrary (or at least wise irksom)
+too reason, suche a thing as it greeueth a man too heere it,
+irksomnesse, fondnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accessory(n)">Accessorie,</form> <xpln lang="en">that which commeth from elsewhere, an appur&#173;
+tenaunce that is not properly or peculiarly belonging too
+a thing, that which naturally is no parte or member of a 
+thing, and yet goeth with it in such wyse as it may at all
+times bee separated from it without impayring the for&#173;
+mer condition, estate, and nature of it. An accident or ex&#173;
+traordinarie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="administration(n)">Administration,</form> <xpln lang="en">the manner of disposing and ordering of 
+things, as well in small matters, as in gouernement and
+great affaires.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="admiration(n)">Admiration,</form> <xpln lang="en">woonderment or maruelling at a thing, hygh
+
+</page>
+
+<page sig="23v">
+commendation and prayse giuen too any thing, reioyce&#173;
+ment or delyght in a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="admonition(n)">Admonition,</form> <xpln lang="en">admonishment, warning, inkling, foretelling
+of any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="advocate(n)">Aduocate,</form> <xpln lang="en">a spokesman, a counseller, such a one as by his
+aduyse and trauell aydeth and comforteth a man in his
+neede.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="affected(a)">Affected,</form> <xpln lang="en">mynded, disposed, inclined, affectioned.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aggravate(v)">Aggrauate,</form> <xpln lang="en">too make heynous, too set out too the vtter&#173;
+moste, too burthen a man with a thing, too lay sore too
+ones charge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="allegory(n)">Allegorie,</form> <xpln lang="en">is a Sentence or Oration, importing in it a mee&#173;
+ning diuers or straunge from the common sense of the 
+woords, and it is as it were a continuall Metaphor. Loke
+Metaphor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alliance(n)">Aliaunce,</form> <xpln lang="en">kinred that commeth in by mariage, and by a Me&#173;
+taphor, it is the linking, knitting, or ioyning of folkes
+willes and consents toogither in any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apprehended(a)">Apprehended,</form> <xpln lang="en">too lay holde vppon a thing, too talke holde of a
+thing, too catch a thing, too attein too a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ardent(a)">Ardent,</form> <xpln lang="en">feruent, burning, glowing, hotte, earnest, vn&#173;
+feyned.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="authentical(a)">Authenticall,</form> <xpln lang="en">that which is of authoritie, that whiche cary&#173;
+eth a weight, estimation, or maiestie, substanciall, effec&#173;
+tuall, aucthorized, allowed.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="barbarous(a)">BArbarous,</form> <xpln lang="en">is properly he that is not a Greeke or a Roman, 
+which name is now applyed too any that is in conditi&#173;
+ons, and manners rude, feerce, cruell, vnciuill, vnnurtu&#173;
+red, or in speeche grosse, vnlearned, harshe, vneloquent.
+Also it signifieth an Alient, Forreyner, or Straunger
+borne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="benefactor(n)">Benefactour,</form> <xpln lang="en">any body that bestoweth a good turne, pleasure,
+benefite or frendship vpon vs.</xpln></wordentry>
+</wordgroup2>
+
+</page>
+
+<page sig="24r">
+<wordgroup2 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="calamity(n)">CAlamitie,</form> <xpln lang="en">proprelye a laying of Corne by excesse of winde
+and foule weather, and by a Metaphore, it signifieth
+any manner of greate trouble, affliction, aduersitie, or
+miserie that ouerthroweth a man or bringeth him vnder
+foote.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="celebrate(v)">Celebrate,</form> <xpln lang="en">too set foorth, too publishe, too solemnize, too vtter, too
+declare, or too doo a thing with praise, deuotion, reuerence,
+pompe, or ioyfulnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="centurion(n)">Centurion,</form> <xpln lang="en">a Captaine of a hundred men.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="circumstance(n)">Circumstance,</form> <xpln lang="en">a farre fetche or windlasse in a matter, a thing
+that comprehendeth matters in it. Also the large setting
+out of a thing by his seuerall membres and particulars. A
+going about the bushe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="circumstant(a)">Circumstant,</form> <xpln lang="en">things that are about vs, things that beset or be
+seege vs, things that enuyron and hem vs in on all sides,
+things alwayes conuersaunt &#38; at hand with vs, things
+that accompanie vs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="civility(n)">Ciuilitie,</form> <xpln lang="en">curtesie, good behauiour, honest conuersation, comely
+and gentle behauiour.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="communion(n)">Communion,</form> <xpln lang="en">felloweship, partaking, partnership, companie, 
+vse or enioying of a thing in common. Also the vniting 
+or knitting toogither of diuers persones as it were in one 
+league and bond of aliance, as well by inseperable consent 
+of wil and affection of minde, as by outward conuersation 
+and trade of life.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consecrated(a)">Consecrated,</form> <xpln lang="en">halowed, made holy, put or appoynted too a holye
+vse, assigned too the seruice of God.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="constancy(n)">Constancie,</form> <xpln lang="en">a stedfast and continuall sticking too the truthe, &#38;
+an vnmouable abiding in all goodnesse. It is contrary too 
+wauering.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contrite(a)">Contrite,</form> <xpln lang="en">broosed or broken, as things are brayed in a morter.
+Therof commeth Contrition, which is an inward remorse 
+with an earneste sorrowe and gr&#233;efe of minde for sinne, or 
+for offending God.</xpln></wordentry>
+
+</page>
+
+<page sig="24v">
+<wordentry type="h"><form lang="en" lexeme="convince(v)">Conuince,</form> <xpln lang="en">too prooue a thing substancially, euidently &#38; plainly:
+too ouercome by manifest and apparant reason: too shew a 
+thing by suche effectual and open arguments, that the ve&#173;
+ry aduersarie may not b&#233;e able too gainsay it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cross(n)">Crosse,</form> <xpln lang="en">is put for any persecution, affliction, trouble, losse, hin&#173;
+derance, disease of body, or disquyetnesse of minde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="curiosity(n)">Curiositie,</form> <xpln lang="en">an ouermuche carefulnesse, or inquisitiuenesse in
+other mennes matters. H&#233;e that is infected with this vice, 
+Paule termeth a Busybody.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="curiousness(n)">Curiousnesse,</form> <xpln lang="en">is an ouermuche precisenesse in a mannes own 
+dooings.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="delusion(n)" lexeme="illusion(n)">DElusion, or Illusion,</form> <xpln lang="en">Mockerie, mockage, a deceitfull thing,
+and whatsoeuer bleareth mens eyes that they cannot 
+discerne the truthe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="demonstration(n)">Demonstration,</form> <xpln lang="en">a pointing too a thing with the finger, a set&#173;
+ting foorth of a thing too the eye, an open, plaine, and mani&#173;
+fest shewing of a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deprave(v)">Depraue,</form> <xpln lang="en">too marre, too corrupt, too infect, too staine, too defile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distinguish(v)">Distinguishe,</form> <xpln lang="en">too put a difference betw&#233;ene things; too sepe&#173;
+rate intoo partes or membres, too disseuer, too diuide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="durable(a)">Durable,</form> <xpln lang="en">longlasting, of long continuance, that which endu&#173;
+reth wel, that whiche is able too holde out.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="E"><alpha>E</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="exclude(v)">EXclude,</form> <xpln lang="en">too shutte out, putte out, thruste out, or 
+k&#233;epe out.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="F"><alpha>F</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="felicity(n)">FElicitie,</form> <xpln lang="en">happinesse, blissednesse, blisfulnesse, the full and
+perfect state of b&#233;eing well, the full fruition or enioying of 
+God and all good things.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="figurate(v)">Figurate,</form> <xpln lang="en">too signifie or pretend a thing after a couert &#38; darke 
+manner, too shadowe or represent, too m&#233;ene or betoken, too 
+imploy or purporte, too beare the Image or likenesse of a 
+thing, too counterfet.</xpln></wordentry>
+</wordgroup2>
+
+</page>
+
+<page sig="25r">
+<wordgroup2 type="a" object="G"><alpha>G</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="glory(n)">GLorie,</form> <xpln lang="en">is a renowmed and vniuersall reporte of woorthy&#173;
+nesse, purchased by deserts of many great benefites and 
+good turnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glorify(v)">Glorifie,</form> <xpln lang="en">too giue glorie, honoure, praise, or commendation too
+any body, or too mainteine the good name, honour, and esti&#173;
+mation of a bodye. Also too bring too euerlasting blisse and 
+heauenly felicitie.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="H"><alpha>H</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="habitation(n)">HAbitation,</form> <xpln lang="en">a dwelling place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hypocrite(n)">Hypocrite,</form> <xpln lang="en">is suche a one as in outwarde apparel, counte&#173;
+nance, or behauioure, pretendeth too b&#233;e another man than 
+h&#233;e is in d&#233;ed, suche a one as counterfetteth himselfe too b&#233;e 
+holy or rightuous, and is not.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honour(n)">Honour,</form> <xpln lang="en">is the estimation that is giuen by agr&#233;eable iudge&#173;
+ment and consent of good men too any body in commenda&#173;
+tion and rewarde of his singular vertues.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="impediment(n)">IMpediments,</form> <xpln lang="en">lets, hinderances, stoppes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incest(n)">Incest,</form> <xpln lang="en">vnlawful copulation of man and woman within the 
+degr&#233;es of kinred or aliance forbidden by Gods law, why&#173;
+ther it b&#233;e in mariage, or otherwise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incorporate(v)">Incorporate,</form> <xpln lang="en">too grafte one thing intoo the body of an other, too 
+make one body or substance of twoo, or mo, too mixt or put
+toogither.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incur(v)">Incurre,</form> <xpln lang="en">too runne intoo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infallible(a)">Infallible,</form> <xpln lang="en">vndeceyuable, that whiche wil not deceiue, nor can 
+b&#233;e beguyled, vnguileful, vndeceitful, deceitlesse, sure, cer&#173;
+teine, assured, soothfast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="institute(v)">Institute,</form> <xpln lang="en">too begin, too go in hande with a thing, too ordeine, 
+too purpose, too appoint, too make, too found, too stablishe, too
+decr&#233;e, too set vp a new, too bring in a new.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="interpret(v)">Interprete,</form> <xpln lang="en">expounde, open, make plaine and manifest too an
+other mans vnderstanding, too shew the sence or m&#233;ening 
+of a thing. Also too accepte or take the meaning of a thing
+
+</page>
+
+<page sig="25v">
+in good or ill parte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="invocation(n)">Iunocation,</form> <xpln lang="en">is a calling vp<expan type="">on</expan> any thing with trust in the same.
+It consisteth of twoo partes, that is too witte, of prayer and 
+thanksgiuing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="justified(a)">Iustified,</form> <xpln lang="en">found rightuous, made rightuous, accounted or ac&#173;
+cepted for rightuous, that is too say, fr&#233;e and cl&#233;ere from sin
+or set fr&#233;e from sinne and the penalties therof.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="magistrate(n)">MAgistrates,</form> <xpln lang="en">are all Princes, Rulers, Gouernours, or 
+Officers placed in authoritie by God, or by the soue&#173;
+rein of any common weale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="majesty(n)">Maiestie,</form> <xpln lang="en">the stately porte and honorable renowme of any 
+Prince, people, superior, or souereine: and the comely &#38; 
+beautifull grace of any thing that is excellent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="matron(n)">Matrone,</form> <xpln lang="en">an auncient, sober, and discr&#233;ete woman, that ey&#173;
+ther hath, or hath had children, such a one as for hir sad be&#173;
+hauiour deserueth too bee called a mootherly woman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mediation(n)">Mediation,</form> <xpln lang="en">the earnest minding or thinking vpon a thing, 
+the often c<expan type="">on</expan>sideration and musing vpon a thing, mindful&#173;
+nesse, studie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metaphor(n)">Metaphor,</form> <xpln lang="en">is the putting ouer of a woorde from his proper 
+and naturall signification to a forreine or vnproper signi&#173;
+fication. As Fol. 62. where the worlde is termed a fielde, 
+Chryste a s&#233;edman, and his woord the s&#233;ed: in whiche sp&#233;e&#173;
+ches, the woords field, s&#233;edman, &#38; s&#233;ed, importe other things 
+than their proper signification y&#233;eldeth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="minister(n)">Minister,</form> <xpln lang="en">a seruant that is alwayes at hand, or that is redy 
+too put his hande too all things. It is a name sitly giuen too 
+the Clergie, as whiche putteth them or ought too put them 
+continually in mind of their dutie and calling, which is too 
+b&#233;e seruants of God and his Congregation, and not Lords 
+ne seruants of the fleshe, the world, and the Diuel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moral(a)">Morall,</form> <xpln lang="en">perteyning too manners, behauiour, conuersation, 
+and life among men.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mystery(n)">Misterie,</form> <xpln lang="en">a secret or hid thing, <expan type="">the</expan> vnderst<expan type="">an</expan>ding &#38; knowledge
+
+</page>
+
+<page sig="26r">
+wherof passeth the capacitie of common reason too teache 
+vntoo.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="oracle(n)">ORacle,</form> <xpln lang="en">an aunswere or saying of God, or of a Prophet in 
+Gods name, such as is certein and infallible.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="parable(n)">PArable,</form> <xpln lang="en">is an applying of some thing that hath no life or 
+no body, too our matter, fitly alledged for some likely&#173;
+nesse or vnlikelinesse which it hath too our purpose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="particularity(n)">Particularitie,</form> <xpln lang="en">is the restrayning of the largenesse of Chrysts 
+benefites (which are offered generally too all men) vntoo 
+a feawe: And it is properly the occasion of falling which 
+as well the wilfull as the weake do take by miswresting 
+or by misvnderstanding the doctrine of Election and pre&#173;
+destination.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pastor(n)"><emend err="Pastort">Pastors</emend>,</form> <xpln lang="en">Shepherds, a name aptly applyed too the Ministers 
+and Curates of Chrysts church, wherby they are put in 
+minde too f&#233;ede their flockes with Gods woorde and Sa&#173;
+craments and good example of life.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perplexity(n)">Perplexitie,</form> <xpln lang="en">anguish, distresses, (according too our English 
+prouerbe) a pecke of troubles. When men b&#233;e so snarled 
+and entangled, that they wote not which waye too winde 
+them selues out, or what way too turne them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pomp(n)">Pomp,</form> <xpln lang="en">the countenancing of things in furniture and setting 
+foorth too the outward showe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prefigurate(v)">Prefigurate,</form> <xpln lang="en">couertly, darkly or slightly too foretoken, fore&#173;
+shew, import, shadow, or represent a thing too come.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preposterously(adv)">Preposterously,</form> <xpln lang="en">aukly, frowardly, ouerthwartly, vntoward&#173;
+ly, vndaftly, setting the cart before the horses, arsiuersie, 
+topsiteruie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="privation(n)">Priuation,</form> <xpln lang="en">the vtter taking away, voydance, or ber&#233;euing of 
+a thing, so as it haue no more being.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prohibition(n)">Prohibition,</form> <xpln lang="en">a forbidding, a forwarning, a forfending, a com&#173;
+maundement or lawe restrayning a man from dooing a 
+thing.</xpln></wordentry>
+
+</page>
+
+<page sig="26v">
+<wordentry type="h"><form lang="en" lexeme="propitiation(n)">Propiciation,</form> <xpln lang="en">procurement of mercy, forgiuenesse, attone&#173;
+ment and fauour.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="propiciatory(a)">Propiciatorie,</form> <xpln lang="en">that whiche reconcileth, or whiche purchaseth 
+mercy, forgiuenesse, attonement, and fauour. Also it is 
+put for the mercy seate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="proposition(n)">Proposition,</form> <xpln lang="en">a ground or foundation in a sentence or oration, 
+whervpon too builde, dilate, argue, gather and conclude 
+the matter. Also it is sometime put for the full effect, con&#173;
+teint, purport, and m&#233;ening of a sentence or matter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purify(v)">Purifie,</form> <xpln lang="en">too purge, too clense, too make cleane, too make pure, 
+too skowre.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="R"><alpha>R</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="regeneration(n)">REgeneration,</form> <xpln lang="en">or new birth is when by being washed out&#173;
+wardly by Baptim, and clenzed inwardly from sinne 
+by the woorking of the holy Ghoste, w&#233;e are graffed intoo 
+Chryste, and made the children of God, and heires of his 
+heauenly kingdome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="renegate(n)">Renegate,</form> <xpln lang="en">is he that renounceth or forsaketh his profession: 
+as when a Protestant becommeth a Papist. A Turncote.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reprobate(n)">Reprobate,</form> <xpln lang="en">a castaway, a forlorne person. Also a frowarde, 
+peruerse, wilfull and obstinate person, such a one as is gi&#173;
+uen vp too his own wickednesse, and hardned in his wil&#173;
+fulnesse, and so consequently past grace.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="sacrilege(n)">SAcriledge,</form> <xpln lang="en">is properly the stealing of Holy things, or of 
+things dedicated and appoynted too a holye vse, or the 
+stealing of things out of a holy or halowed place. And so 
+by a maner of sp&#233;ech, it is any spitefull or contemptuous 
+fact doone too the derogation of Gods glorie or the breach 
+of Religon, and is as it were high treason too God.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanctify(v)">Sanctifie,</form> <xpln lang="en">too halow, too make holy, too k&#233;epe holy: whereof 
+commeth Sanctification, which is halowing, making ho&#173;
+ly, or holynesse. As Chryst is our Sanctification, that is 
+to say, Chryst is our holynesse, or the thing that maketh 
+vs holy.</xpln></wordentry>
+
+</page>
+
+<page sig="27r">
+<wordentry type="h"><form lang="en" lexeme="salvation(n)">Saluation,</form> <xpln lang="en">soulehealth, or rather perfect blisse, heauenly ioy, &#38; 
+euerlasting welfare bothe of bodye and soule. Or it is the 
+cl&#233;ere deliuerance and fr&#233;e sauing of vs from sinne, death, 
+hel, the Diuel, and damnation, by Iesus Chryst.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="satisfaction(n)">Satisfaction,</form> <xpln lang="en">is a making of amends for misd&#233;eds, displesures, 
+or wrongs doone, too the ful contentation of the partie that 
+was gr&#233;eued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="secular(a)">Secular,</form> <xpln lang="en">worldly, of the world.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="society(n)">Societie,</form> <xpln lang="en">felowship, companie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="solemnize(v)">Solemnize,</form> <xpln lang="en">too doo a thing with great pompe, reuerence, or de&#173;
+uotion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sincere(a)">Sincere,</form> <xpln lang="en">pure, cleane, vncorrupt, vnmingled, vndefiled, vnfey&#173;
+ned, vnstayned, voyde of guile, voyde of craft, sw&#233;et, sound,
+vpright.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="tabernacle(n)">TAbernacle,</form> <xpln lang="en">a Tent, Hall, or Pauilion, such as men of war 
+pitch in the fields too lie in.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="testimony(n)">Testimonies,</form> <xpln lang="en">witnessings, witnesse bearings, recordes, deposi&#173;
+tions.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throne(n)">Throne,</form> <xpln lang="en">a Kings seate or chaire of estate, a s&#233;ege Royall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tumult(n)">Tumult,</form> <xpln lang="en">vprore, hurlyburly, commotion, insurrection.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="type(n)">Type,</form> <xpln lang="en">a figure, shadow, signe, tok<expan type="">en</expan>, representation, or Image 
+of a thing too come.</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="a" object="V"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="unite(v)">VNite,</form> <xpln lang="en">too make one thing of twoo or mo, too cupple, to knit 
+too ioyne toogither.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vocation(n)">Vocation,</form> <xpln lang="en">or calling is that estate, degr&#233;e, or trade of life too
+which any man is allotted, eyther by birth, by commaun&#173;
+dement of God, by appoyntmente of the Magistrate, by o&#173;
+portunitie of time, or by necessitie.</xpln></wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<term lang="la">
+FINIS.
+</term>
+
+</page>
+</leme>

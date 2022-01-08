@@ -1,0 +1,273 @@
+
+
+<leme no="146">
+<page sig="***2r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 3 4 3 2
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="note">
+A briefe note, taken out of M. Dees
+Mathematical Preface that goeth before Euclides Ele&#173;
+mentes nowe extant in our Inglish tongue, as touching what
+the Mathematical Sciences are, that is to say, all those Artes 
+that order number, measure, or wayght, and tyme, without
+the which, in respect, we can doo nothing. For what can bee
+doone in any respect, but we must vse number, which is Arith&#173;
+meticke? or what can be doone, but we must vse measure or
+wayght, which is Geometrie? or what can there be doone, but
+that we must vse tyme, which dooth appertayne vnto Astro&#173;
+nomie? for by number we knowe howe many or fewe there are:
+and by measure we knowe whether it be ynches, feete, yardes,
+scores, myles, leagues, poundes, ounces, galloes, quartes, or
+tunnes: and by tyme, we knowe whether it be minutes, howres,
+dayes, weekes, monethes, yeeres, &#38;c. Whereof two are prynci&#173;
+pal, Arithmeticke and Geometrie, wherof al these compoun&#173;
+ded sciences are spong of these two Simples.
+</section>
+
+<section type="glossary">
+<wordgroup1 type="t" object="Thinges done by hand Geometricall">
+Thinges done by hand Geometricall.
+
+<wordentry type="h"><form lexeme="mecometry(n)">1 Mecometrie. </form> <xpln>Is the measuring of the length
+any thing whatsoeuer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="embadometry(n)">2 Embadometrie. </form> <xpln>Is the measuring the con&#173;
+tentes of all flat things, as Land, Boorde,
+Glasse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stereometry(n)">3 Stereometrie. </form> <xpln>Is the measuring of all solid bo&#173;
+dies, as Timber, Stone, Kaske, &#38; such lyke.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Thinges measured that haue distaunce from you">
+Thinges measured that haue di&#173;
+staunce from you.
+
+<wordentry type="h"><form lexeme="apomecometry(n)">4 Apomecometrie. </form> <xpln>Is how farre any thing is
+fr<expan type="">om</expan> you, whether it be on lande or on water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hippometry(n)">5 Hipomettie. </form> <xpln>Is how high or deepe any thing
+seene, is from the leuell, whether it bee on
+
+</page>
+
+<page sig="***2v">
+Lande or water. &#38;.</xpln>
+<lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="platometry(n)">6 Platometrie. </form> <xpln>How broade any thing is. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="geodesy(n)">7 Geodesie. </form> <xpln>Is the suruaying or measuring of
+landes, woods, or water, hauing distaunce
+from you by instrument or otherwise.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="geography(n)">8 Geographie. </form> <xpln>Is the description of Countries,
+or Kingdomes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cherography(n)" lexeme="typography(n)">9 Cherographie or Typographie. </form> <xpln>Is the descrip&#173;
+tion of a part of a Country or kingdome. &#38;c.</xpln>
+<lemenote>No OED entry for "cherography"; antedates earliest OED entry for "typography" (1641)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="hydrography(n)">10 Hydrographie. </form> <xpln>Is the discription of the Seas,
+with the Ilandes and rockes, and dangers
+and lynes, and Courses. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stratarithmetry(n)">11 Stratarithmetrie. </form> <xpln>Is the view or measuring of
+a battel of men, to know the number of them
+not comming neare them. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perspective(n)">12 Perspectiue. </form> <xpln>Demonstrateth the manner and
+propertie of all radiations directe, broken, 
+and reflected.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astronomy(n)">13 Astronomie. </form> <xpln>Is the mouing of the lightes and
+Planets. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="music(n)">14 Musike. </form> <xpln>Teacheth the diuersyty of sounds. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cosmography(n)">15 Cosmographie. </form> <xpln>Is the descripti<expan type="">on</expan> of the whole
+earth, and the Paralell of the heauens an&#173;
+swering thereunto. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astrology(n)">16 Astrologie. </form> <xpln>Is to geue iudgment by <expan type="">the</expan> signes,
+lights and planets. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="static(n)">17 Statick. </form> <xpln>Is an art that doth order and deale
+with heuines and lightnesse. &#38;c.</xpln>
+<lemenote>Antedates earliest OED citation (1646)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="anthropography(n)">18 Anthropographie. </form> <xpln>Is of thinges appertay&#173;
+nyng to the body of man, to shew them. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trochilic(n)">19 Trochilike. </form> <xpln> Doth appertaine vnto the turning
+of wheels, this art is necessary for Clockma&#173;
+
+</page>
+
+<page sig="***3r">
+kers, &#38; Crane makers, and Mylles, &#38; al o&#173;
+ther sciences, that doo deale with wheeles.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="heliosophy(n)">20 Helicosophie. </form> <xpln>Is an art to drawe hylical or
+Spheral or winding lines, and is very ne&#173;
+cessary for Skrewe makers, &#38; diuers other
+things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pneumatithmy(n)">21 Pneumatithmie. </form> <xpln>This art is necessary for all
+them that doo make Pumpes or great
+Bellows, for <expan type="">that</expan> it teacheth al those thinges
+that goe by wynde and water. &#38;c.</xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="menadry(n)">22 Menadrie. </form> <xpln>Is an art, that teacheth the making
+of al ingenes, as things to pull to, or thrust
+fro, or lyfting vp, or pressing downe. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypogeiody(n)">23 Hypogeiodie. </form> <xpln>Is that arte that dooth apper&#173;
+tayne vnto myners in the grounde. &#38;c.</xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="hydrogogy(n)">24 Hydrogogie. </form> <xpln>Is that art to bring water vnto
+any place assigned. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horometry(n)" lexeme="horologiography(n)">25 Horometrie, or Horologiographie. </form> <xpln>Is the ma&#173;
+king of Dyals of al sortes. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="zography(n)">26 Zographie. </form> <xpln>Is the art of a cunning Painter. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="althalmasat(n)">27 Althalmasat. </form> <xpln lexeme="graving(n)">The art of Grauing.</xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="architecture(n)">28 Archetectur. </form> <xpln>Is a cunning Mason or Car&#173;
+penter. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="navigation(n)">29 Nauigation. </form> <xpln>Is sayling on the Sea. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thaurunaturaike(n)">30 Thaurunaturaike. </form> <xpln>Is that which dooth make
+strange workes, as those that made the bra&#173;
+sen head seeme to speake, the brasen Serp<expan type="">en</expan>t
+to hisse, the Doue of wood to flye, the Eagle
+made by art to flye. &#38;c.</xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="archemastry(n)">31 Archemastrie. </form> <xpln>This art teacheth to bryng 
+to actual experience sensible, al worthy con&#173;
+clusions, by al the artes Mathematical. &#38;c.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</section>
+
+</page>
+
+<page sig="a2r">
+<section type="To the Reader">
+<heading>
+To the Reader of the fyrst booke.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="d"><form lexeme="circle(n)" lexeme="centre(n)" lexeme="circumference(n)" lexeme="diameter(n)" lexeme="prick(n)" lexeme="line(n)" lexeme="plate(n)" lexeme="superficial(n)" lexeme="angle(n)" lexeme="solid body(n)">
+<editoraddition>Pricke " lexeme=" lyne " lexeme=" Plat " lexeme=" Superficial " lexeme=" Angles " lexeme=" sholded bodie " lexeme=" Circle " lexeme=" Centre " lexeme=" Circumference " lexeme=" Diametre</editoraddition></form>
+<xpln>FOr that it is sufficiently decla&#173;
+red in diuers bookes nowe ex&#173;
+tant in our Englishe tongue,
+wherefore I doo thinke it su&#173;
+perfluous for to shewe what a
+Pricke is, or what a lyne is, or
+what a Plat or Superficial is, or
+what Angles be, and what a
+sholded bodie is, as it is suffici&#173;
+ently declared in all these bookes: as in Euclides Ele&#173;
+mentes, and in M. Thomas Dygges booke called Pan&#173;
+tometay, and also in M. Leonarde Dygges booke cal&#173;
+led Tectonicon. &#38;c. A Circle is that whiche is dra&#173;
+wen rounde with a payre of Compasses, a Centre is 
+the myddle pricke, Circumference is the compasse,
+Diameter is the breadth of a Circle. &#38;c. </xpln>
+<note type="m">A Circle.
+A Centre.
+A Circumfe&#173;
+rence.
+A Diametre.</note>
+</wordentry>
+
+<wordentry type="d">
+<note type="m">A Foote.
+A Yarde.
+A pase Geome&#173;
+trical.
+A simple stop or
+ yarde.
+A pase is two
+steppes.</note>
+<form lexeme="foot(n)" lexeme="yard(n)" lexeme="pace(n)" lexeme="geometrical(n)" lexeme="step(n)" lexeme="score(n)" lexeme="mile(n)" lexeme="rod of land measure(n)" lexeme="rod of wood measure(n)" lexeme="fathom(n)"><editoraddition>foote " lexeme=" yarde " lexeme=" pase Geometricall " lexeme=" pase " lexeme=" steppe " lexeme="  score " lexeme=" myle " lexeme=" Rod of lande measure " lexeme=" Rod of woode measure " lexeme=" fadome</editoraddition></form>
+<xpln>And furthermore, for that in this first part there is
+the conclusions of the Scall, and the Crosse staffe, she&#173;
+wyng by them howe for to knowe the distance vnto
+any place assigned: Therefore it is very necessarie
+for to knowe the partes of measure, as it is not vnkno&#173;
+wen vnto all men, what a foote is, and that. 12. yn&#173;
+ches maketh a foote, so. 3. foote is a yarde, and. 5.
+foote is a pase Geometricall: but some persons haue
+been of that opinion, that. 3. foote is a pase, which is
+a yarde, but it is but a simple steppe, and fewe men are
+able to endure to pase a yarde any long tyme togea&#173;
+ther: but any person may endure to steppe two foote
+and a halfe, all a day long togeather. Therefore a pase
+Geometrical, is two reasonable steppes, and that is fiue
+foote: and so any man may endure all a day together,
+
+</page>
+
+<page sig="a2v">
+and twelue pases maketh a score, and that is twentye
+yardes, and that maketh. 60. foote: and a myle con&#38;
+teyneth. 1000. Geometrical pases, and that is. 5000.
+foote, and that maketh 1666. yardes. 2/3. and that is. 2.
+foote, and that conteyneth 83. score. 1/3. and that is. 20.
+foote. &#38;c. and a Rod is. 16. foote and a halfe, of lande
+measure, and. 18. foote is a Rod of woode measure,
+<emend err="accordiug">according</emend> to our Englishe account: and. 303. Rodde
+and 1/33. that is halfe a foote, is a myle of lande mea&#173;
+sure, and. 277. Rodde, and. 7/9. that is. 14. foote of
+woode measure, is a myle, and a fadome is. 6. foote,
+and that is. 2. yardes: and. 10. fadome is a score and
+a myle conteyneth. 833. fadome, and. 1/3 part, that is 
+2. foote. &#38;c. </xpln>
+<note type="m">12. pases is a
+score, that is,
+20. yardes.
+A myle is a 
+1000. pases,
+that is. 5000.
+foote, or. 1666.
+yardes, and 3.
+A Rod is. 16.
+foote. 2. of land
+measure, and
+18.foote is a 
+Rod of woode
+measure.
+6.foote is a fa&#173;
+dome, and.833
+fadome is a 
+myle.</note></wordentry>
+</wordgroup1>
+
+And thus muche haue I saide as touching our En&#173;
+glishe account, as concernyng the measuryng of the
+length, or the distances vnto any place assigned. &#38;c.
+</section>
+
+</page>
+</leme>

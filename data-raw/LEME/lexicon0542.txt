@@ -1,0 +1,1354 @@
+<leme no="542">
+
+<page no="34">
+<section type="Canting-English">
+<heading><f type="r">AN
+
+ALPHABETICAL
+
+Canting Vocabulary.
+
+Canting before the English.</heading>
+
+<wordgroup1 type="a" object="a"><alpha>A A A.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="autem(n)"><f type="bk">A<f type="r">Utem</form> <f type="i"><xpln lang="en">A Church</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="autem mort(n)"><f type="r">Autem Mort</form> <f type="i"><xpln lang="en">A Married Woman</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="Abram(n)"><f type="r">Abram</form> <f type="i"><xpln lang="en">Naked</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="Abram cove(n)"><f type="r">Abram Cove</form> <f type="i"><xpln lang="en">A Poor Fellow</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B B B.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="bluffer(n)"><f type="r">Bluffer</form> <f type="i"><xpln lang="en">An Host</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bounsing-cheat(n)"><f type="r">Bounsing-cheat</form> <f type="i"><xpln lang="en">A Bottle</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bughar(n)"><f type="r">Bughar</form> <f type="i"><xpln lang="en">A Dug</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="booz(n)"><f type="r">Booz</form> <f type="i"><xpln lang="en">Drink</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="boozing-ken(n)"><f type="r">Boozing-ken</form> <f type="i"><xpln lang="en">A Tippling-house</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bord(n)"><f type="r">Bord</form> <f type="i"><xpln lang="en">A Shilling</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bung(n)"><f type="r">Bung</form> <f type="i"><xpln lang="en">A Purse</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="been(a)"><f type="r">Been</form> <f type="i"><xpln lang="en">Good or well</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="been(a)" lexeme="shiply(n)"><f type="r">Been shiply</form> <f type="i"><xpln lang="en">Very well</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="benat(a)"><f type="r">Benat</form> <f type="i"><xpln lang="en">Better</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bing(v)"><f type="r">Bing</form> <f type="i"><xpln lang="en">To go</xpln></wordentry>
+</page>
+
+<page no="35">
+<wordentry type="h"><form lang="ct" lexeme="bing awast(n)"><f type="r">Bing awast</form> <f type="i"><xpln lang="en">To go away</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bube(n)"><f type="r">Bube</form> <f type="i"><xpln lang="en">The Pox.
+As for Example,
+<f type="r"><expression lang="ct">The Mort hath tipt the
+Bube to the Cully.</expression><f type="i"> 
+The wench hath clapt the
+Fellow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bleating-cheat(n)"><f type="r">Bleating-cheat</form> <f type="i"><xpln lang="en">A Sheep</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="belly-cheat(n)"><f type="r">Belly-cheat</form> <f type="i"><xpln lang="en">An Apron</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="betty(n)"><f type="r">Betty</form> <f type="i"><xpln lang="en">An Instrument to open a
+door.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bite(v)"><f type="r">Bite</form> <f type="i"><xpln lang="en">To cheat or cozen
+<f type="r"><expression lang="ct">As bite the Cully</expression>,<f type="i"> that is, put the Cheat on such 
+a Fellow. <f type="r"><expression lang="ct">Or the Cove was bit</expression>,<f type="i"> The Man was
+cheated.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bite the Roger(v)"><f type="r">Bite the Roger</form> <f type="i"><xpln lang="en">Steal the Portmanteau</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="budge(n)"><f type="r">Budge</form> <f type="i"><xpln lang="en">One that steals Cloaks or 
+ought else, slipping in&shy;
+to an house in the dark</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="brush(v)"><f type="r">Brush</form> <f type="i"><xpln lang="en">To fly.
+<f type="r"><expression lang="ct">As the Cully is brush'd or rub'd</expression>,<f type="i"> that is, He is
+march'd off, or broke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="beenship(n)"><f type="r">Beenship</form> <f type="i"><xpln lang="en">Worship</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bulk and file(n)"><f type="r">Bulk and File</form> <f type="i"><xpln lang="en">The one jostles you up
+whilst the other picks
+your pocket.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="been darkmans(ex)"><f type="r">Been darkmans</form> <f type="i"><xpln lang="en">Good night.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="blower(n)"><f type="r">Blower</form> <f type="i"><xpln lang="en">One mans particular
+Wench.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="batner(n)"><f type="r">Batner</form> <f type="i"><xpln lang="en">An Oxe</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="blow off the ground-fils(n)"><f type="r">Blow off on the Ground-&shy;
+fils.</form> <f type="i"><xpln lang="en">O. Q. P. on the Floar or
+Stairs</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="blot the skrip and jark(v)"><f type="r">Blot the Skrip and jark
+it.</form> <f type="i"><xpln lang="en">To be engaged or bound
+for any body.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="36">
+<wordgroup1 type="a" object="c">C C C.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="coker(n)"><f type="r">Coker</form> <f type="i"><xpln lang="en">A lye</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cove(n)" lexeme="cuffin(n)"><f type="r">Cove, 
+<term lang="en">or</term> 
+Cuffin</form> <f type="i"><xpln lang="en">A Man</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cuffin-quire(n)"><f type="r">Cuffin-Quire</form> <f type="i"><xpln lang="en">A Justice of Peace</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="crampring(n)"><f type="r">Cramprings</form> <f type="i"><xpln lang="en">Bolts or Shackles</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="chats(n)"><f type="r">Chats</form> <f type="i"><xpln lang="en">The Gallows</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cank(a)"><f type="r">Cank</form> <f type="i"><xpln lang="en">Dumb</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="crackmans(n)"><f type="r">Crackmans</form> <f type="i"><xpln lang="en">Hedges</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="calle(n)" lexeme="togeman(n)"><f type="r">Calle 
+<term lang="en">or</term>
+Togeman</form> <f type="i"><xpln lang="en">A Cloak</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="couch(v)"><f type="r">Couch</form> <f type="i"><xpln lang="en">To lie</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="couch a hogshead(v)"><f type="r">Couch a hogshead</form> <f type="i"><xpln lang="en">To go to sleep</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mish(n)" lexeme="commission(n)"><f type="r">Mish 
+<term lang="en">or</term>
+Commission</form> <f type="i"><xpln lang="en">A Shirt</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cackling cheat(n)"><f type="r">Cackling cheat</form> <f type="i"><xpln lang="en">A Chicken</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cassan(n)"><f type="r">Cassan</form> <f type="i"><xpln lang="en">Cheese</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="crashing cheats(n)"><f type="r">Crashing cheats</form> <f type="i"><xpln lang="en">Teeth</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cloy(v)"><f type="r">Cloy</form> <f type="i"><xpln lang="en">To Steal</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cut(v)"><f type="r">Cut</form> <f type="i"><xpln lang="en">To Speak</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cut been whids(v)"><f type="r">Cut been whids</form> <f type="i"><xpln lang="en">To Speak well</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cut quire whids(v)"><f type="r">Cut quire whids</form> <f type="i"><xpln lang="en">To Speak evilly</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="confeck(a)"><f type="r">Confeck</form> <f type="i"><xpln lang="en">Counterfeit</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="canakin(n)"><f type="r">Canakin</form> <f type="i"><xpln lang="en">The Plague</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cly the jerk(c)"><f type="r">Cly the jerk</form> <f type="i"><xpln lang="en">To be whipt</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="clapperdogeon(n)"><f type="r">Clapperdogeon</form> <f type="i"><xpln lang="en">A Beggar born</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cully(n)"><f type="r">Cully</form> <f type="i"><xpln lang="en">A Fool or Fop</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="colquarron(n)"><f type="r">Colquarron</form> <f type="i"><xpln lang="en">A Mans Neck</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="croppinken(n)"><f type="r">Croppinken</form> <f type="i"><xpln lang="en">A Privy or Boghouse</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cracker(n)"><f type="r">Cracker</form> <f type="i"><xpln lang="en">An Arse</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="chaft(a)"><f type="r">Chaft</form> <f type="i"><xpln lang="en">Beaten or hang'd</xpln></wordentry>
+</page>
+
+<page no="37">
+<wordentry type="h"><form lang="ct" lexeme="clincker(n)"><f type="r">Clincker</form> <f type="i"><xpln lang="en">A Crafty Fellow</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="chap'd(a)"><f type="r">Chap'd</form> <f type="i"><xpln lang="en">Dry, or Thirsty</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cackling fart(n)"><f type="r">Cackling Farts</form> <f type="i"><xpln lang="en">Eggs</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cobble-colter(n)"><f type="r">Cobble-colter</form> <f type="i"><xpln lang="en">A Turky</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D D D.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="dimber(a)"><f type="r">Dimber</form> <f type="i"><xpln lang="en">Pretty</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="damber(n)"><f type="r">Damber</form> <f type="i"><xpln lang="en">Rascal</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="drawers(n)"><f type="r">Drawers</form> <f type="i"><xpln lang="en">Stockings</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="duds(n)"><f type="r">Duds</form> <f type="i"><xpln lang="en">Goods</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="deuseavile(n)"><f type="r">Deuseavile</form> <f type="i"><xpln lang="en">The Country</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dommerar(n)"><f type="r">Dommerar</form> <f type="i"><xpln lang="en">A Mad man</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="darkmans(n)"><f type="r">Darkmans</form> <f type="i"><xpln lang="en">Night or Evening</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dell(n)" lexeme="doxy(n)"><f type="r">Dell 
+<term lang="en">or</term>
+Doxy</form> <f type="i"><xpln lang="en">A Wench</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="deuswins(n)"><f type="r">Deuswins</form> <f type="i"><xpln lang="en">Two pence</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dup(v)"><f type="r">Dup</form> <f type="i"><xpln lang="en">To enter or go into an
+house,
+
+<f type="r"><expression lang="ct">As Dup the Ken</expression>,<f type="i"> Enter the House, <f type="r"><expression lang="ct">Dup the Booz-&shy;
+ing-Ken, and booz a gage</expression>;<f type="i"> go into the Ale-house
+and drink a pot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dancers(n)"><f type="r">Dancers</form> <f type="i"><xpln lang="en">Stairs</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="deuseavile-stampers(n)"><f type="r">Deuseavile-Stampers</form> <f type="i"><xpln lang="en">Country Carriers</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E E E.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="earnest(n)"><f type="r">Earnest</form> <f type="i"><xpln lang="en">A part or share,
+<f type="r">As for example,
+<expression lang="ct">Tip me my Earnest</expression>,<f type="i"> Give me my Share or Divident.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F F F.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="flicker(n)"><f type="r">Flicker</form> <f type="i"><xpln lang="en">A Glass.</xpln></wordentry>
+</page>
+
+<page no="38">
+<wordentry type="h"><form lang="ct" lexeme="flicker-snapt(n)"><f type="r">Flicker-snapt</form> <f type="i"><xpln lang="en">A Glass broken</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="flick(v)"><f type="r">Flick</form> <f type="i"><xpln lang="en">To Cut
+<f type="r">As <expression lang="ct">Flick me some Pannam and Cash</expression>;<f type="i"> Cut me some
+Bread and Cheese</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="flick the peeter(v)"><f type="r">Flick the Peeter</form> <f type="i"><xpln lang="en">Cut the Cloak-bag</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fam-grasp the cove(v)"><f type="r">Fam-grasp the Cove</form> <f type="i"><xpln lang="en">To agree with an Adver&shy;
+sary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="frummagen(a)"><f type="r">Frummagen</form> <f type="i"><xpln lang="en">Choak'd</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="filch(n)"><f type="r">Filch</form> <f type="i"><xpln lang="en">A Staff with an hole in
+the end thereof, in which upon occasion, your
+Rogues will fasten an hook, to pull things cunning&shy;
+ly from an Hedge, or through a Casement.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ferme(n)"><f type="r">Ferme</form> <f type="i"><xpln lang="en">An hole</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fambles(n)"><f type="r">Fambles</form> <f type="i"><xpln lang="en">Hands</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="famble-cheat(n)"><f type="r">Famble-cheats</form> <f type="i"><xpln lang="en">Rings or Gloves</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="flag(n)"><f type="r">Flag</form> <f type="i"><xpln lang="en">A Groat</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="flog(v)"><f type="r">Flog</form> <f type="i"><xpln lang="en">To whip as in Bridewell,
+<f type="r">As <expression lang="ct">the Prancer drew the Quire Cove at the Crop&shy;
+ping of the Rotam through the Rum pads of the
+Rum vile, and was flog'd by the Nubbing-Cove.</expression><f type="i">
+That is, The Rogue was drag'd at a Carts-arse,
+through the chief streets of <f type="r">London,<f type="i"> and was
+soundly whipt by the Hangman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fogus(n)"><f type="r">Fogus</form> <f type="i"><xpln lang="en">Tobacco
+<f type="r">As <expression lang="ct">tip me a gage of Fogus</expression>,<f type="i"> Give me a pipe of To&shy;
+bacco.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fencing(n)" lexeme="cully(n)"><f type="r">Fencing Cully</form> <f type="i"><xpln lang="en">A Receiver of stolen Goods</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fib(v)"><f type="r">Fib</form> <f type="i"><xpln lang="en">To beat,
+<f type="r">As <expression lang="ct">Fib the Coves quarrons in the rom pad for the
+lour in his burg.</expression><f type="i"> Beat the Man on the high-way
+for the money in his purse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="flog'd at the tumbler(a)"><f type="r">Flog'd at the Tumbler</form> <f type="i"><xpln lang="en">Whipt at the Carts arse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fence(v)"><f type="r">Fence</form> <f type="i"><xpln lang="en">To spend
+<f type="r">As <expression lang="ct">Fence your Flag</expression>,<f type="i"> Spend your Groat,</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="floggin cove(n)"><f type="r">Floggin Cove,</form> <f type="i"><xpln lang="en">The whipper of Bridewell, or any
+other that whips people commonly called at <f type="r">Dublin<f type="i">
+in <f type="r">Ireland<f type="i"> Bellores.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="39">
+<wordgroup1 type="a" object="g"><alpha>G G G.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="groper(n)"><f type="r">Gropers</form> <f type="i"><xpln lang="en">Blind men</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glimflashy(a)"><f type="r">Glimflashy</form> <f type="i"><xpln lang="en">Angry</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glimfender(n)"><f type="r">Glimfenders</form> <f type="i"><xpln lang="en">Andirons</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="grunting peck(n)"><f type="r">Grunting peck</form> <f type="i"><xpln lang="en">Porke</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glymmer(n)"><f type="r">Glymmer</form> <f type="i"><xpln lang="en">Fire</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glazier(n)"><f type="r">Glazyers</form> <f type="i"><xpln lang="en">Eyes</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="grannam(n)"><f type="r">Grannam</form> <f type="i"><xpln lang="en">Corn</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gentry mort(n)"><f type="r">Gentry Mort</form> <f type="i"><xpln lang="en">A Gentlewoman</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gage(n)"><f type="r">Gage</form> <f type="i"><xpln lang="en">A pot or pipe</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="grunting cheat(n)"><f type="r">Grunting cheat</form> <f type="i"><xpln lang="en">A Sucking pig</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gigger(n)"><f type="r">Gigger</form> <f type="i"><xpln lang="en">A Door</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gybe(n)"><f type="r">Gybe</form> <f type="i"><xpln lang="en">Any writing or Pass</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glazyer(n)"><f type="r">Glazyer</form> <f type="i"><xpln lang="en">One that creeps in at case&shy;
+ments, or unrips glass windows to filch and steal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="grit(n)"><f type="r">Grit</form> <f type="i"><xpln lang="en">A Picklock,
+Where note that some of them are so excellent at it, that
+they are furnished with all sorts of Grits or Keys,
+from a Church door to the smallest Cabinet, and al&shy;
+most at first sight will dexterously open any door,
+trunk, chest, or any lock whatever.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glym jack(n)"><f type="r">Glym Jack</form> <f type="i"><xpln lang="en">A Link boy</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glym stick(n)"><f type="r">Glym Stick</form> <f type="i"><xpln lang="en">A Candlestick</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="grinders(n)"><f type="r">Grinders</form> <f type="i"><xpln lang="en">Teeth</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gigg(n)"><f type="r">Gigg</form> <f type="i"><xpln lang="en">The Nose
+<f type="r">As <expression lang="ct">give him a rum snitch, or snichel the Gigg</expression>,<f type="i">
+that is, Fillip him on the Nose.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H H H.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="harmanbeck(n)"><f type="r">Harmanbeck</form> <f type="i"><xpln lang="en">A Constable</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="harmans(n)"><f type="r">Harmans</form> <f type="i"><xpln lang="en">The Stocks</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="heave(v)"><f type="r">Heave</form> <f type="i"><xpln lang="en">To Rob,
+<f type="r">As <expression lang="ct">Heave a Book</expression>,<f type="i"> To rob an house</xpln></wordentry>
+</page>
+
+<page no="40">
+<wordentry type="h"><form lang="ct" lexeme="half(n)" lexeme="bord(n)"><f type="r">Half bord</form> <f type="i"><xpln lang="en">Sixpence</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="husky lour(n)"><f type="r">Husky lour</form> <f type="i"><xpln lang="en">A Guinny</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="hog(n)"><f type="r">Hog</form> <f type="i"><xpln lang="en">A Shilling,
+As for Example;
+<f type="r"><expression lang="ct">You Darkman-budge, will you fence your hog with
+me, at the next Boozing Ken.</expression><f type="i"> That is, d'ye hear
+you House-creeper, will you spend your shilling with
+me, at the next Alehouse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="hoodwinkt(a)"><f type="r">Hoodwinkt</form> <f type="i"><xpln lang="en">Beneghted or belated</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="heaver(n)"><f type="r">Heaver</form> <f type="i"><xpln lang="en">A Breast</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i"><alpha>I I I.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="jague(n)"><f type="r">Jague</form> <f type="i"><xpln lang="en">A ditch</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="jark(n)"><f type="r">Jark</form> <f type="i"><xpln lang="en">A Seal</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="jockum gage(n)"><f type="r">Jockum gage</form> <f type="i"><xpln lang="en">A Chamber pot</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="job(n)"><f type="r">Job</form> <f type="i"><xpln lang="en">A Guinney</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k"><alpha>K K K.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="ken(n)"><f type="r">Ken</form> <f type="i"><xpln lang="en">An house</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="kinchin(n)"><f type="r">Kinchin</form> <f type="i"><xpln lang="en">A little child</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="kinchin cove(n)"><f type="r">Kinchin Cove</form> <f type="i"><xpln lang="en">A little man</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="kidnapper(n)"><f type="r">Kidnapper</form> <f type="i"><xpln lang="en">A fellow that walketh the
+streets, and takes all advantages to pick up the
+younger sort of people, whom with lies and many
+fair promises he inticeth on board a ship and tran&shy;
+sports them into forreign plantations.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L L L.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="lour(n)"><f type="r">Lour</form> <f type="i"><xpln lang="en">Money</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lightmans(n)"><f type="r">Lightmans</form> <f type="i"><xpln lang="en">Day, or Day-break</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="libben(n)"><f type="r">Libben</form> <f type="i"><xpln lang="en">A private dwelling house</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lage(n)"><f type="r">Lage</form> <f type="i"><xpln lang="en">Water</xpln></wordentry>
+</page>
+
+<page no="41">
+<wordentry type="h"><form lang="ct" lexeme="libbedge(n)"><f type="r">Libbedge</form> <f type="i"><xpln lang="en">A bed</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lap(n)"><f type="r">Lap</form> <f type="i"><xpln lang="en">Pottage</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lurries(n)"><f type="r">Lurries</form> <f type="i"><xpln lang="en">All manner of cloaths</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lifter(n)" lexeme="plyer(n)"><f type="r">Lifter, <term lang="en">or</term> Plyer</form> <f type="i"><xpln lang="en">A Crutch.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M M M.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="mow heater(n)"><f type="r">Mow heater</form> <f type="i"><xpln lang="en">A Drover</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mower(n)"><f type="r">Mower</form> <f type="i"><xpln lang="en">A Cow</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mish topper(n)"><f type="r">Mish topper</form> <f type="i"><xpln lang="en">A Coate</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="maund(v)"><f type="r">Maund</form> <f type="i"><xpln lang="en">To beg</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="maunder(n)"><f type="r">Maunders</form> <f type="i"><xpln lang="en">Beggars</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="Margry Prater(n)"><f type="r">Margry Prater</form> <f type="i"><xpln lang="en">An Hen</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mill(v)"><f type="r">Mill</form> <f type="i"><xpln lang="en">To Steal</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="make(n)"><f type="r">Make</form> <f type="i"><xpln lang="en">An half peny</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mynt(n)"><f type="r">Mynt</form> <f type="i"><xpln lang="en">Gold</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="muffling cheat(n)"><f type="r">Muffling cheat</form> <f type="i"><xpln lang="en">A Napkin</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mumper(n)"><f type="r">Mumpers</form> <f type="i"><xpln lang="en">Gentile Beggars,
+Such as will not accept of Victuals, but money or
+cloaths, and these beg under the pretence of being
+decay'd Gentlemen, Tradesmen, or such who have
+been burn'd out or shipwrack'd</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="milken(n)"><f type="r">Milken</form> <f type="i"><xpln lang="en">An house breaker</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="muns(n)"><f type="r">Muns</form> <f type="i"><xpln lang="en">The Face,
+<f type="r">As <expression lang="ct">tout his Muns</expression>,<f type="i"> Mark his face well</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="moon curser(n)"><f type="r">Moon Curser</form> <f type="i"><xpln lang="en">A Link boy</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="marinated(a)"><f type="r">Marinated</form> <f type="i"><xpln lang="en">Transported into some for&shy;
+reign Plantation.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N N N.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="nabgirder(n)"><f type="r">Nabgirder</form> <f type="i"><xpln lang="en">A Bridle</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nubbing(n)" lexeme="ken(n)"><f type="r">Nubbing Ken</form> <f type="i"><xpln lang="en">The Sessions house</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="neck(n)" lexeme="stamper(n)"><f type="r">Neck stamper</form> <f type="i"><xpln lang="en">A Pot-boy</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="napper of naps(n)"><f type="r">Napper of Naps</form> <f type="i"><xpln lang="en">A Sheep-stealer</xpln></wordentry>
+</page>
+
+<page no="42">
+<wordentry type="h"><form lang="ct" lexeme="nab(n)"><f type="r">Nab</form> <f type="i"><xpln lang="en">An Head</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nab-cheat(n)"><f type="r">Nab-cheat</form> <f type="i"><xpln lang="en">An Hat</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nap(v)"><f type="r">Nap</form> <f type="i"><xpln lang="en">To take, or cheat with the
+Dice, that is, by certainly securing one chance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="naskin(n)"><f type="r">Naskin</form> <f type="i"><xpln lang="en">A Goal, or Bridewell</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nazie(a)"><f type="r">Nazie</form> <f type="i"><xpln lang="en">Drunken</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nazie cove(n)"><f type="r">Nazie Cove</form> <f type="i"><xpln lang="en">A Drunkard</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nizie(n)"><f type="r">Nizie</form> <f type="i"><xpln lang="en">A Fool or Coxecomb</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nub(n)"><f type="r">Nub</form> <f type="i"><xpln lang="en">The Neck</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nubbing(n)"><f type="r">Nubbing</form> <f type="i"><xpln lang="en">Hanging</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nubbing cove(n)"><f type="r">Nubbing Cove</form> <f type="i"><xpln lang="en">The Hangman</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nubbing cheat(n)"><f type="r">Nubbing cheat</form> <f type="i"><xpln lang="en">The Gallows</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o"><alpha>O O O.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="ogles(n)"><f type="r">Ogles</form> <f type="i"><xpln lang="en">Eyes</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="old Mr Gory(n)"><f type="r">Old Mr Gory</form> <f type="i"><xpln lang="en">A piece of Gold</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p"><alpha>P P P.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="panter(n)"><f type="r">Panter</form> <f type="i"><xpln lang="en">An heart</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prig-star(n)"><f type="r">Prig-star</form> <f type="i"><xpln lang="en">A Rival in love</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="palliard(n)"><f type="r">Palliard</form> <f type="i"><xpln lang="en">One whose Father is a 
+born Beggar</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="papplar(n)"><f type="r">Papplar</form> <f type="i"><xpln lang="en">Milk pottage</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prats(n)"><f type="r">Prats</form> <f type="i"><xpln lang="en">Thighs</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prigg(v)"><f type="r">Prigg</form> <f type="i"><xpln lang="en">To Ride</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prigging(n)"><f type="r">Prigging</form> <f type="i"><xpln lang="en">Riding</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prigger of prancers(n)"><f type="r">Priggers of Prancers</form> <f type="i"><xpln lang="en">Horse-stealers</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="priggs(n)"><f type="r">Priggs</form> <f type="i"><xpln lang="en">Are all sort of Thieves</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="peck(n)" lexeme="peckidge(n)"><f type="r">Peck <term lang="en">or</term>  Peckidg</form> <f type="i"><xpln lang="en">Any sort of meat</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="pannam(n)"><f type="r">Pannam</form> <f type="i"><xpln lang="en">Bread</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="plant(v)"><f type="r">Plant</form> <f type="i"><xpln lang="en">To lay, place, or hide</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prancer(n)"><f type="r">Prancer</form> <f type="i"><xpln lang="en">An horse</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prating cheat(n)"><f type="r">Prating cheat</form> <f type="i"><xpln lang="en">A Tongue</xpln></wordentry>
+</page>
+
+<page no="43">
+<wordentry type="h"><form lang="ct" lexeme="peak(n)"><f type="r">Peak</form> <f type="i"><xpln lang="en">Any lace</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="pike(v)"><f type="r">Pike</form> <f type="i"><xpln lang="en">To run</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="pike on the been, as(v)"><f type="r">As Pike on the been,</form> <f type="i"><xpln lang="en">Run for it as fast as you can.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="peery(a)"><f type="r">Peery</form> <f type="i"><xpln lang="en">Fearful</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="peeter(n)"><f type="r">Peeter</form> <f type="i"><xpln lang="en">A portmantle</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="pad(n)"><f type="r">Pad</form> <f type="i"><xpln lang="en">The high-way</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="plant your whids and stow them(v)"><f type="r">Plant your whids, and
+stow them,</form> <f type="i"><xpln lang="en">Be careful what you say
+or speak</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prig-napper(n)"><f type="r">Prig-napper.</form> <f type="i"><xpln lang="en">A Horse-stealer</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="peeper(n)"><f type="r">Peeper</form> <f type="i"><xpln lang="en">A Looking glass,
+<f type="r">As <expression lang="ct">track the Dancers and pikes with the Peep&shy;
+er</expression>,<f type="i"> Go up the stairs and trip off with the Looking-&shy;
+glass.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="peeping(a)"><f type="r">Peeping</form> <f type="i"><xpln lang="en">Drowsie, or Sleepy</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q"><alpha>Q Q Q.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="quarron(n)"><f type="r">Quarron</form> <f type="i"><xpln lang="en">A Body</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="quacking cheat(n)"><f type="r">Quacking cheat</form> <f type="i"><xpln lang="en">A Duck</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="queer(a)"><f type="r">Queer</form> <f type="i"><xpln lang="en">Base or roguish</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="queer(n)" lexeme="ken(n)"><f type="r">Queer Ken</form> <f type="i"><xpln lang="en">A Prison</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="queer mort(n)"><f type="r">Queer Mort</form> <f type="i"><xpln lang="en">A pockie Baggage</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="queer cove(n)"><f type="r">Queer Cove</form> <f type="i"><xpln lang="en">A Rogue</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R R R.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="rum gutlers(n)"><f type="r">Rum gutlers</form> <f type="i"><xpln lang="en">Canary wine,
+<f type="r">As <expression lang="ct">Rum hopper, tip us presently a Bounsing cheat
+of Rum gutlers</expression>;<f type="i"> Drawer fill us presently a bottle
+of the best Canary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum dropper(n)"><f type="r">Rum dropper</form> <f type="i"><xpln lang="en">A Vintner</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rarling cove(n)"><f type="r">Rarling Cove</form> <f type="i"><xpln lang="en">A Coatchman</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum glimmar(n)"><f type="r">Rum glimmar</form> <f type="i"><xpln lang="en">King of the Link boys</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rumboyle(n)"><f type="r">Rumboyle</form> <f type="i"><xpln lang="en">A Ward or Watch</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum(n)"><f type="r">Rum</form> <f type="i"><xpln lang="en">Gallant</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum vile(n)"><f type="r">Rum Vile</form> <f type="i"><xpln lang="en">London</xpln></wordentry>
+</page>
+
+<page no="44">
+<wordentry type="h"><form lang="ct" lexeme="ruffin(n)"><f type="r">Ruffin</form> <f type="i"><xpln lang="en">The Devil,
+<f type="r">As <expression lang="ct">the Ruffin nap the Cuffin-quier, and let the
+Harmanbeck trine with his Kinchins about his
+Colquarron</expression>;<f type="i"> That is, Let the Devil take the
+Justice, and let the Constable bang with his chil&shy;
+dren about his neck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum boozing welts(n)"><f type="r">Rum boozing Welts</form> <f type="i"><xpln lang="en">A bunch of Grapes</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="roger(n)"><f type="r">Roger</form> <f type="i"><xpln lang="en">A Cloak-bag</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ridgcully(n)"><f type="r">Ridgcully</form> <f type="i"><xpln lang="en">A Goldsmith</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ruffler(n)"><f type="r">Ruffler</form> <f type="i"><xpln lang="en">A notorious Rogue</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ruff peck(n)"><f type="r">Ruff peck</form> <f type="i"><xpln lang="en">Bacon</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="redshank(n)"><f type="r">Redshank</form> <f type="i"><xpln lang="en">A Mallard</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum pad(n)"><f type="r">Rum pad</form> <f type="i"><xpln lang="en">The highway</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum padder(n)"><f type="r">Rum Padders</form> <f type="i"><xpln lang="en">The better sort of High&shy;
+way men.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum cully(n)"><f type="r">Rum Cully</form> <f type="i"><xpln lang="en">A rich Coxcomb</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ratling mumper(n)"><f type="r">Ratling Mumpers</form> <f type="i"><xpln lang="en">Such who onely beg at
+Coaches.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="romboyl'd(a)"><f type="r">Romboyl'd</form> <f type="i"><xpln lang="en">Sought after with a War&shy;
+rant</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="rum hopper(n)"><f type="r">Rum hopper</form> <f type="i"><xpln lang="en">A Drawer</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S S S.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="squeeker(n)"><f type="r">Squeeker</form> <f type="i"><xpln lang="en">A Bar-boy</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="smacking cove(n)"><f type="r">Smacking Cove</form> <f type="i"><xpln lang="en">Coachman</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="scout(n)"><f type="r">Scout</form> <f type="i"><xpln lang="en">A Watch</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="swag(n)"><f type="r">Swag</form> <f type="i"><xpln lang="en">A Shop</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="smudge(n)"><f type="r">Smudge</form> <f type="i"><xpln lang="en">One that lies underneath
+a bed, to watch an opportunity to rob the house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="shoplift(n)"><f type="r">Shoplift</form> <f type="i"><xpln lang="en">One that filcheth Commo&shy;
+dities out of a Shop, under the pretence of cheapning
+or buying them of the Shop-keeper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stampers(n)"><f type="r">Stampers</form> <f type="i"><xpln lang="en">Shooes</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stamps(n)"><f type="r">Stamps</form> <f type="i"><xpln lang="en">Leggs</xpln></wordentry>
+</page>
+
+<page no="45">
+<wordentry type="h"><form lang="ct" lexeme="stock-drawers(n)"><f type="r">Stock-drawers</form> <f type="i"><xpln lang="en">Stockings</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="scoure(v)"><f type="r">Scoure</form> <f type="i"><xpln lang="en">To wear</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="skew(n)"><f type="r">Skew</form> <f type="i"><xpln lang="en">A Dish</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="slate(n)"><f type="r">Slate</form> <f type="i"><xpln lang="en">A Sheet</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="skipper(n)"><f type="r">Skipper</form> <f type="i"><xpln lang="en">A Barnel</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="shoulder sham(n)"><f type="r">Shoulder sham</form> <f type="i"><xpln lang="en">Partner to a File</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stam flesh(v)"><f type="r">Stam flesh</form> <f type="i"><xpln lang="en">To Cant;
+<f type="r">As <expression lang="ct">the Cully Stams flesh rumly</expression>;<f type="i"> He Cants very
+well</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stow your whids(v)"><f type="r">Stow your whids</form> <f type="i"><xpln lang="en">Be wary</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stalling ken(n)"><f type="r">Stalling Ken</form> <f type="i"><xpln lang="en">A Brokers shop, or an house
+that will recive stoln goods.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="smelling cheat(n)"><f type="r">Smelling cheat</form> <f type="i"><xpln lang="en">A Garden or Nosegay</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="salomon(n)"><f type="r">Salomon</form> <f type="i"><xpln lang="en">The Mass</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stow your whids and plant'em for the cove of the ken can cant'em(v)"><f type="r">Stow your Whids and
+plant'em, for the
+Cove of the Ken can
+cant'em,</form> 
+<f type="i"><xpln lang="en">Have a care what you say,
+the Man of the House
+understands you.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="smiter(n)"><f type="r">Smiter</form> <f type="i"><xpln lang="en">An Arm</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stall(n)" lexeme="whimper(n)"><f type="r">Stall whimper</form> <f type="i"><xpln lang="en">A Bastard</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="skrip(n)"><f type="r">Skrip</form> <f type="i"><xpln lang="en">Paper,
+<f type="r">As <expression lang="ct">the Cully did freely blot the Skrip, and so tipt
+me forty Hogs</expression>; that is, One enter'd into bond
+with me for forty shillings.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T T T.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="touting  ken(n)"><f type="r">Touting Ken</form> <f type="i"><xpln lang="en">A Tavern Bar</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="trundlers(n)"><f type="r">Trundlers</form> <f type="i"><xpln lang="en">Pease</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tour(v)"><f type="r">Tour</form> <f type="i"><xpln lang="en">To look out</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="track up the dancers(v)"><f type="r">Track up the Dancers</form> <f type="i"><xpln lang="en">Go up the Stairs</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cul snilches(n)"><f type="r">The Cul Snilches</form> <f type="i"><xpln lang="en">The man eyes you</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tip the cole to Adam Tiler(v)"><f type="r">Tip the cole to Adam
+Tiler</form> <f type="i"><xpln lang="en">Give your pick-pocket mo&shy;
+ney presently to your
+running Comrade.</xpln></wordentry>
+</page>
+
+<page no="46">
+<wordentry type="h"><form lang="ct" lexeme="tip the mish(v)"><f type="r">Tip the Mish</form> <f type="i"><xpln lang="en">Give the Shirt</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="Tib of the buttery(n)"><f type="r">Tib of the buttery</form> <f type="i"><xpln lang="en">A Goose</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tip(v)"><f type="r">Tip</form> <f type="i"><xpln lang="en">To give</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="trine(vn)"><f type="r">Trine</form> <f type="i"><xpln lang="en">To hang: or Tyburn</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tick-rum(n)"><f type="r">Tick-rum</form> <f type="i"><xpln lang="en">A Licence</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tres wins(n)"><f type="r">Tres wins</form> <f type="i"><xpln lang="en">Three pence</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="toppin cove(n)"><f type="r">Toppin Cove</form> <f type="i"><xpln lang="en">The Hangman</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tumbler(n)"><f type="r">Tumbler</form> <f type="i"><xpln lang="en">A Cart</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="topping cheat(n)"><f type="r">Topping cheat</form> <f type="i"><xpln lang="en">The Gallows</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w"><alpha>W W W.</alpha>
+
+<wordentry type="h"><form lang="ct" lexeme="win(n)"><f type="r">Win</form> <f type="i"><xpln lang="en">A penny</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="wicher-cully(n)"><f type="r">Wicher-cully</form> <f type="i"><xpln lang="en">A Silver-smith</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="whit(n)"><f type="r">Whit</form> <f type="i"><xpln lang="en">Newgate;
+<f type="r"><expression lang="ct">As five Rum padders are rub'd in the darkmans
+out of the Whit, and are pik'd into the Deusea&shy;
+vile</expression>:<f type="i"> Five Highway men in the night broke New&shy;
+gate, and are gone into the Country.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="witcher(n)"><f type="r">Witcher</form> <f type="i"><xpln lang="en">Silver</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="witcher bubber(n)"><f type="r">Witcher bubber</form> <f type="i"><xpln lang="en">A Silver Bowl;
+<f type="r">As for example, <expression lang="ct">The Cull is pik'd with the Witch&shy;
+er bubber</expression>;<f type="i"> The Rogue is March'd off with the Sil&shy;
+ver Bowl.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="witcher-tilter(n)"><f type="r">Witcher-tilter</form> <f type="i"><xpln lang="en">A Silver-hilted sword</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="wicket(n)"><f type="r">Wicket</form> <f type="i"><xpln lang="en">A Casement;
+<f type="r"><expression lang="ct">As tout through the Wicket, and see where a Cul&shy;
+ly pikes with his Gentry Mort, whose Muns are
+the rummest I ever touted before</expression>:<f type="i"> Look through
+the Casement, and see where the man walks with a 
+Gentlewoman, whose face is the fairest I have
+ever seen.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+<page no="47">
+<section type="English-Canting">
+<heading><f type="r">AN
+
+ALPHABETICAL
+
+Canting Dictionary.
+
+English before the Canting.</heading>
+
+<wordgroup1 type="a" object="a"><alpha>A A A.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="curious wench(n)"><f type="bk">A <f type="r">Curious wench</form> <f type="i"><xpln lang="ct">Rum Mort</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apron(n)"><f type="r">An Apron</form> <f type="i"><xpln lang="ct">Belly cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">An Instrument to break
+a door</form> <f type="i"><xpln lang="ct">Betty</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="part(n)" lexeme="share(n)"><f type="r">A part or share</form> <f type="i"><xpln lang="ct">Earnest</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hole(n)"><f type="r">An hole</form> <f type="i"><xpln lang="ct">Ferm</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="groat(n)"><f type="r">A Groat</form> <f type="i"><xpln lang="ct">Flag</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">A Receiver of stoln
+goods</form> <f type="i"><xpln lang="ct">Fencing Cully</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gentlewoman, fine(n)"><f type="r">A fine Gentlewoman</form> <f type="i"><xpln lang="ct">Gentry-Mort</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="door(n)"><f type="r">A Door</form> <f type="i"><xpln lang="ct">Gigger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"  lexeme="writing(n)" lexeme="pass(n)"><f type="r">Any writing or Pass</form> <f type="i"><xpln lang="ct">Gybe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="guiny(n)" lexeme="job(n)"><f type="r">A Guiny, or Job</form> <f type="i"><xpln lang="ct">Huskie lour</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="child, little(n)"><f type="r">A Little child</form> <f type="i"><xpln lang="ct">Kinchin</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man, little(n)"><f type="r">A Little man</form> <f type="i"><xpln lang="ct">Kinchin Cove</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">A private dwelling house</form> <f type="i"><xpln lang="ct">Libben</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clothes(n)"><f type="r">All manner of cloaths</form> <f type="i"><xpln lang="ct">Lurries</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thief(n)"><f type="r">All sorts of Thieves</form> <f type="i"><xpln lang="ct">Priggs</xpln></wordentry>
+</page>
+
+<page no="48">
+<wordentry type="h"><form lang="en" lexeme="meat(n)"><f type="r">Any sort of meat</form> <f type="i"><xpln lang="ct">Peck or Pickedge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lace(n)"><f type="r">Any Lace</form> <f type="i"><xpln lang="ct">Peak</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rogue, notorious(n)"><f type="r">A notorious Rogue</form> <f type="i"><xpln lang="ct">Ruffler</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arm(n)"><f type="r">An Arm</form> <f type="i"><xpln lang="ct">Smiter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arse(n)"><f type="r">An Arse</form> <f type="i"><xpln lang="ct">Cracker</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="andiron(n)"><f type="r">Andirons</form> <f type="i"><xpln lang="ct">Glimfenders</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agree(v)"><f type="r">Agree with a man</form> <f type="i"><xpln lang="ct">Famgrasp the Cove</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="angry(a)"><f type="r">Angry</form> <f type="i"><xpln lang="ct">Glim flashy</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B B B.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="bar-boy(n)"><f type="r">Bar-boy</form> <f type="i"><xpln lang="ct">Squeeker</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beadle of Bridewell(n)"><f type="r">Beadle of Bridewell</form> <f type="i"><xpln lang="ct">Floging Cove</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="better(a)"><f type="r">Better</form> <f type="i"><xpln lang="ct">Benar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Bridewell(pn)"><f type="r">Bridewell</form> <f type="i"><xpln lang="ct">Naskin</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beggar born(n)"><f type="r">Beggar born</form> <f type="i"><xpln lang="ct">Clapperdogeon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boghouse(n)" lexeme="privy(n)"><f type="r">Boghouse or Privy</form> <f type="i"><xpln lang="ct">Croppinken</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)"><f type="r">Bed</form> <f type="i"><xpln lang="ct">Libbedge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bottle(n)"><f type="r">Bottle</form> <f type="i"><xpln lang="ct">Bounsing cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beg(v)"><f type="r">Beg</form> <f type="i"><xpln lang="ct">Maund</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beggar(n)"><f type="r">Beggars</form> <f type="i"><xpln lang="ct">Maunders</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)"><f type="r">Bread</form> <f type="i"><xpln lang="ct">Pannam</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Be careful of what you
+say</form> <f type="i"><xpln lang="ct">Stow your whids and
+plant 'em</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bridle(n)"><f type="r">Bridle</form> <f type="i"><xpln lang="ct">Nabgirder</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bolt(n)" lexeme="shackles(n)"><f type="r">Bolts or Shackles</form> <f type="i"><xpln lang="ct">Cramprings</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="body(n)"><f type="r">Body</form> <f type="i"><xpln lang="ct">Quarron</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="base(a)" lexeme="roguish(a)"><f type="r">Base or  Roguish</form> <f type="i"><xpln lang="ct">Queer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bacon(n)"><f type="r">Bacon</form> <f type="i"><xpln lang="ct">Ruff peck</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard(n)"><f type="r">Bastard</form> <f type="i"><xpln lang="ct">Stall-whimper</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broker(n)"><f type="r">Broker</form> <f type="i"><xpln lang="ct">Fencing Cully</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="belated(a)"><f type="r">Belated</form> <f type="i"><xpln lang="ct">Hoodwinke</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blind men(n)"><f type="r">Blind men</form> <f type="i"><xpln lang="ct">Gropers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barn(n)"><f type="r">Barn</form> <f type="i"><xpln lang="ct">Skippers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bar of an alehouse(n)"><f type="r">Bar of an Alehouse or
+Tavern.</form> <f type="i"><xpln lang="ct">Touting Ken</xpln></wordentry>
+</page>
+
+<page no="49">
+<wordentry type="h"><form lang="en" lexeme="wary, be(v)"><f type="r">Be wary</form> <f type="i"><xpln lang="ct">Stow your whids</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brokers' shop(n)"><f type="r">Brokers shop</form> <f type="i"><xpln lang="ct">Stallen-ken</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beaten(a)"><f type="r">Beaten</form> <f type="i"><xpln lang="ct">Chaft</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="breast(n)"><f type="r">Breast</form> <f type="i"><xpln lang="ct">Heaver</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C C C.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cart(n)"><f type="r">Cart</form> <f type="i"><xpln lang="ct">Tumbler</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coach-beggar(n)"><f type="r">Coach-beggars</form> <f type="i"><xpln lang="ct">Ratling Mumpers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cloak-bag(n)"><f type="r">Cloak-bag</form> <f type="i"><xpln lang="ct">Roger or Peeter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheat(n)"><f type="r">Cheat</form> <f type="i"><xpln lang="ct">Napper</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coach(n)"><f type="r">Coach</form> <f type="i"><xpln lang="ct">Ratler</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chamber pot(n)"><f type="r">Chamber pot</form> <f type="i"><xpln lang="ct">Jockum-gage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coachman(n)"><f type="r">Coachman</form> <f type="i"><xpln lang="ct">Smacking-Cove</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="constable(n)"><f type="r">Constable</form> <f type="i"><xpln lang="ct">Harmanbeck</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="candle stick(n)"><f type="r">Candle stick</form> <f type="i"><xpln lang="ct">Glym-stick</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Cut the Cloak-bag</form> <f type="i"><xpln lang="ct">Flick the Peeter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn(n)"><f type="r">Corn</form> <f type="i"><xpln lang="ct">Grannam</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clusters of grapes(n)"><f type="r">Clusters of Grapes</form> <f type="i"><xpln lang="ct">Rum-boozing Welts</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carrier(n)"><f type="r">Carriers</form> <f type="i"><xpln lang="ct">Deuseavile Stampers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="choak'd(a)"><f type="r">Choak'd</form> <f type="i"><xpln lang="ct">Frummagem'd</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crutch(n)"><f type="r">Crutch</form> <f type="i"><xpln lang="ct">Lifter or Plyer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="copulate(v)"><f type="r">Copulate</form> <f type="i"><xpln lang="ct">Wap or Jockum cloy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="country(n)"><f type="r">Country</form> <f type="i"><xpln lang="ct">Deuseavile</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="counterfeit(a)"><f type="r">Counterfeit</form> <f type="i"><xpln lang="ct">Confeck</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crafty fellow(n)"><f type="r">Crafty fellow</form> <f type="i"><xpln lang="ct">Clincher</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crust(n)"><f type="r">Crust</form> <f type="i"><xpln lang="ct">Crakler</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese(n)"><f type="r">Cheese</form> <f type="i"><xpln lang="ct">Cash or Cassan</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chicken(n)"><f type="r">Chicken</form> <f type="i"><xpln lang="ct">Cackling-cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cloak(n)"><f type="r">Cloak</form> <f type="i"><xpln lang="ct">Culle or Togeman</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheat(v)" lexeme="cuzen(v)"><f type="r">Cheat or cuzen</form> <f type="i"><xpln lang="ct">Bite</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="church(n)"><f type="r">Church</form> <f type="i"><xpln lang="ct">Autem</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coat(n)"><f type="r">Coat</form> <f type="i"><xpln lang="ct">Mish-topper</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow(n)"><f type="r">Cow</form> <f type="i"><xpln lang="ct">Mower.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="50">
+<wordgroup1 type="a" object="d"><alpha>D D D.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="drawers of wine(n)"><f type="r">Drawers of Wine</form> <f type="i"><xpln lang="ct">Rum hoppers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog(n)"><f type="r">Dog</form> <f type="i"><xpln lang="ct">Bughar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drink(n)"><f type="r">Drink</form> <f type="i"><xpln lang="ct">Booze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drousy(a)"><f type="r">Drousie</form> <f type="i"><xpln lang="ct">Peeping</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dumb(a)"><f type="r">Dumb</form> <f type="i"><xpln lang="ct">Cank</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ditch(n)"><f type="r">Ditch</form> <f type="i"><xpln lang="ct">Jague</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="day(n)" lexeme="day-break(n)"><f type="r">Day, or Day-break</form> <f type="i"><xpln lang="ct">Lightmans</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drunken(a)"><f type="r">Drunken</form> <f type="i"><xpln lang="ct">Nazy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dry(a)" lexeme="thirsty(a)"><f type="r">Dry or thirsty</form> <f type="i"><xpln lang="ct">Chapt</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drunkard(n)"><f type="r">Drunkard</form> <f type="i"><xpln lang="ct">Nazy-Cove</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="duck(n)"><f type="r">Duck</form> <f type="i"><xpln lang="ct">Quacking-cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="devil(n)"><f type="r">Devil</form> <f type="i"><xpln lang="ct">Ruffin</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dish(n)"><f type="r">Dish</form> <f type="i"><xpln lang="ct">Skew</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drover(n)"><f type="r">Drover</form> <f type="i"><xpln lang="ct">Mow-heater</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E E E.</alpha>
+
+<wordentry type="h"><form lang="en"><f type="r">Enter or go into an house</form> <f type="i"><xpln lang="ct">Dup</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)"><f type="r">Eyes</form> <f type="i"><xpln lang="ct">Ogles or Glaziers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Ends of Gold and Silver</form> <f type="i"><xpln lang="ct">Spangles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="egg(n)"><f type="r">Eggs</form> <f type="i"><xpln lang="ct">Cackling-farts</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F F F.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="spirit(n)"><f type="r">Fellows that pick up
+people for transporta&shy;
+tion commonly called
+Spirits</form> <f type="i"><xpln lang="ct">Kidnappers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fence(n)"><f type="r">Fence</form> <f type="i"><xpln lang="ct">Muns</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fool(n)" lexeme="coxcomb(n)"><f type="r">Fool or Coxcomb</form> <f type="i"><xpln lang="ct">Nizie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fearful(a)"><f type="r">Fearful</form> <f type="i"><xpln lang="ct">Peery</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fly(v)" lexeme="run(v)"><f type="r">Fly or run</form> <f type="i"><xpln lang="ct">Brush</xpln></wordentry>
+</page>
+
+<page no="51">
+<wordentry type="h"><form lang="en" lexeme="fop(n)"><f type="r">Fop, or one that may ea&shy;
+sily be wrought upon</form> <f type="i"><xpln lang="ct">Cully</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)"><f type="r">Fire</form> <f type="i"><xpln lang="ct">Glymmer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feet(n)"><f type="r">Feet</form> <f type="i"><xpln lang="ct">Stampers.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G G G.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)"><f type="r">Gold</form> <f type="i"><xpln lang="ct">Mynt</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beggars, gentle(n)"><f type="r">Gentile Beggars</form> <f type="i"><xpln lang="ct">Mumpers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gaol(n)"><f type="r">Goal</form> <f type="i"><xpln lang="ct">Naskin</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gallows(n)"><f type="r">Gallows</form> <f type="i"><xpln lang="ct">Trine</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gallant(n)"><f type="r">Gallant</form> <f type="i"><xpln lang="ct">Rum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goldsmith(n)"><f type="r">Goldsmith</form> <f type="i"><xpln lang="ct">Ridgcully</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden(n)" lexeme="nosegay(n)"><f type="r">Garden or Nosegay</form> <f type="i"><xpln lang="ct">Smelling cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Goes up the Stairs</form> <f type="i"><xpln lang="ct">Track up the Dancers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)"><f type="r">Give</form> <f type="i"><xpln lang="ct">Tip</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass(n)"><f type="r">Glass</form> <f type="i"><xpln lang="ct">Flicker</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gallows(n)"><f type="r">Gallows</form> <f type="i"><xpln lang="ct">Topping cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass, broken(n)"><f type="r">Glass broken</form> <f type="i"><xpln lang="ct">Flicker snapt.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H H H.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="highway(n)"><f type="r">High-way</form> <f type="i"><xpln lang="ct">Topping Cove</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="highway-men(n)"><f type="r">High-way-men</form> <f type="i"><xpln lang="ct">Rum pad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)"><f type="r">Horse</form> <f type="i"><xpln lang="ct">Rum padders</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-stealer(n)"><f type="r">Horse-stealer</form> <f type="i"><xpln lang="ct">Prancer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="head(n)"><f type="r">Head</form> <f type="i"><xpln lang="ct">Nab</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hat(n)"><f type="r">Hat</form> <f type="i"><xpln lang="ct">Nab cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="half-penny(n)"><f type="r">Half-penny</form> <f type="i"><xpln lang="ct">Make</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="house(n)"><f type="r">House</form> <f type="i"><xpln lang="ct">Ken</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hand(n)"><f type="r">Hands</form> <f type="i"><xpln lang="ct">Fambles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hose(n)"><f type="r">Hose</form> <f type="i"><xpln lang="ct">Drawers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hostess(n)"><f type="r">Hostess</form> <f type="i"><xpln lang="ct">See pouch</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heart(n)"><f type="r">Heart</form> <f type="i"><xpln lang="ct">Panter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="host(n)"><f type="r">Host</form> <f type="i"><xpln lang="ct">Bluffer</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="52">
+<wordgroup1 type="a" object="i"><alpha>I I I.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="engage(v)"><f type="r">Ingage</form> <f type="i"><xpln lang="ct">Blot the Skrip.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k"><alpha>K K K.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="king of the link-boys(n)"><f type="r">King of the Link-boys</form> <f type="i"><xpln lang="ct">Rum glimmer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knavery(n)"><f type="r">Knavery</form> <f type="i"><xpln lang="ct">Queer topping</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L L L.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="link-boy(n)"><f type="r">Link-boy</form> <f type="i"><xpln lang="ct">Moon-curser, or Glym&shy;
+Jack</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="looking-glass(n)"><f type="r">Looking-glass</form> <f type="i"><xpln lang="ct">Peeper</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="London(pn)"><f type="r">London</form> <f type="i"><xpln lang="ct">Rumvile</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)"><f type="r">Legs</form> <f type="i"><xpln lang="ct">Stampers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="licence(n)"><f type="r">Licence</form> <f type="i"><xpln lang="ct">Jukrum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Look through the Case&shy;
+ment</form> <f type="i"><xpln lang="ct">Tout through the Wicker</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lip(n)"><f type="r">Lips</form> <f type="i"><xpln lang="ct">Gans</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lie(n)"><f type="r">Lye</form> <f type="i"><xpln lang="ct">Coker</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M M M.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="mass(n)"><f type="r">Mass</form> <f type="i"><xpln lang="ct">Salomon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mallard(n)"><f type="r">Mallard</form> <f type="i"><xpln lang="ct">Red-shank</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milk-pottage(n)"><f type="r">Milk-pottage</form> <f type="i"><xpln lang="ct">Papplar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="money(n)"><f type="r">Money</form> <f type="i"><xpln lang="ct">Lour</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="married woman(n)"><f type="r">Married Woman</form> <f type="i"><xpln lang="ct">Autem-Mort</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="madmen(n)"><f type="r">Mad-men</form> <f type="i"><xpln lang="ct">Dommerars</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)"><f type="r">Man</form> <f type="i"><xpln lang="ct">Cove.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="53">
+<wordgroup1 type="a" object="n"><alpha>N N N.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="nose(n)"><f type="r">Nose</form> <f type="i"><xpln lang="ct">Gigg</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neck(n)"><f type="r">Neck</form> <f type="i"><xpln lang="ct">Nub</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Newgate(pn)"><f type="r">Newgate</form> <f type="i"><xpln lang="ct">Whit</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="night(n)" lexeme="evening(n)"><f type="r">Night or Evening</form> <f type="i"><xpln lang="ct">Darkman</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="naked(a)"><f type="r">Naked</form> <f type="i"><xpln lang="ct">Abram</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o"><alpha>O O O.</alpha>
+
+<wordentry type="h"><form lang="en"><f type="r">One that slips into an
+house in the dark and
+steals what he can lay
+hands on</form> <f type="i"><xpln lang="ct">Budge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">One that creeps in at
+Casements and lets in
+others to rob the house</form> <f type="i"><xpln lang="ct">Glazier</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">One that filcheth com&shy;
+modities out of a shop
+under the pretence of 
+Cheapning or Buy&shy;
+ing</form> <f type="i"><xpln lang="ct">Shoplift</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">One that lieth under&shy;
+neath a bed, or in some
+other covert place to
+watch an opportunity
+to rob the house</form> <f type="i"><xpln lang="ct">Smudge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">One whose father is born
+a Beggar</form> <f type="i"><xpln lang="ct">Palliard</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="O Q P on the stairs(v)"><f type="r">O Q P on the stairs</form> <f type="i"><xpln lang="ct">Blow off on the Ground-&shy;
+sill</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="54">
+<wordgroup1 type="a" object="p"><alpha>P P P.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="pottage(n)"><f type="r">Pottage</form> <f type="i"><xpln lang="ct">Lap</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pork(n)"><f type="r">Pork</form> <f type="i"><xpln lang="ct">Grunting peck</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pease(n)"><f type="r">Pease</form> <f type="i"><xpln lang="ct">Trundlers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="partners to files(n)"><f type="r">Partners to Files</form> <f type="i"><xpln lang="ct">Shoulder-shams</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piece of old gold(n)"><f type="r">Peice of old Gold</form> <f type="i"><xpln lang="ct">Old Mr. Gory</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="portmantue(n)"><f type="r">Portmantue</form> <f type="i"><xpln lang="ct">Peeter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prison(n)"><f type="r">Prison</form> <f type="i"><xpln lang="ct">Queer Ken</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penny(n)"><f type="r">Penny</form> <f type="i"><xpln lang="ct">Win</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="picklock(n)"><f type="r">Picklock</form> <f type="i"><xpln lang="ct">Gilt</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pot(n)" lexeme="pipe(n)"><f type="r">Pot or Pipe</form> <f type="i"><xpln lang="ct">Gage</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pretty(a)"><f type="r">Pretty</form> <f type="i"><xpln lang="ct">Dimber</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plague(n)"><f type="r">Plague</form> <f type="i"><xpln lang="ct">Cannakin</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pox(n)"><f type="r">Pox</form> <f type="i"><xpln lang="ct">Bube</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purse(n)"><f type="r">Purse</form> <f type="i"><xpln lang="ct">Bung</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poor fellow(n)"><f type="r">Poor Fellow</form> <f type="i"><xpln lang="ct">Abram Cove</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q"><alpha>Q Q Q.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="question(n)"><f type="r">Question</form> <f type="i"><xpln lang="ct">Starter</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R R R.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="rascal(n)"><f type="r">Rascal</form> <f type="i"><xpln lang="ct">Damber</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ring(n)" lexeme="glove(n)"><f type="r">Rings or Gloves</form> <f type="i"><xpln lang="ct">Famble cheats</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coxcomb, rich(n)"><f type="r">Rich Coxcomb</form> <f type="i"><xpln lang="ct">Rum Cully</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)"><f type="r">Ride</form> <f type="i"><xpln lang="ct">Prig</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="riding(n)"><f type="r">Riding</form> <f type="i"><xpln lang="ct">Prigging</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rider(n)"><f type="r">Riders</form> <f type="i"><xpln lang="ct">Priggers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rogue(n)"><f type="r">Rogue</form> <f type="i"><xpln lang="ct">Queer Cove.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="55">
+<wordgroup1 type="a" object="s"><alpha>S S S.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="shilling(n)"><f type="r">Shilling</form> <f type="i"><xpln lang="ct">Bord or Hog</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep(n)"><f type="r">Sheep</form> <f type="i"><xpln lang="ct">Bleating cheats</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steal the portmantue(n)"><f type="r">Steal the Portmantue</form> <f type="i"><xpln lang="ct">Bite the Roger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shirt(n)"><f type="r">Shirt</form> <f type="i"><xpln lang="ct">Mish</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speak(v)"><f type="r">Speak</form> <f type="i"><xpln lang="ct">Cut</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stocking(n)"><f type="r">Stockings</form> <f type="i"><xpln lang="ct">Drawers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pig, suckling(n)"><f type="r">Sucking Pig</form> <f type="i"><xpln lang="ct">Grunting cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stocks(n)"><f type="r">Stocks</form> <f type="i"><xpln lang="ct">Harmans</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixpence(n)"><f type="r">Sixpence</form> <f type="i"><xpln lang="ct">Half a Hog</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="silver(n)"><f type="r">Silver</form> <f type="i"><xpln lang="ct">Witcher</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bowl, silver(n)"><f type="r">Silver bowl</form> <f type="i"><xpln lang="ct">Witcher-bubber</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="silver-smith(n)"><f type="r">Silver-smith</form> <f type="i"><xpln lang="ct">Witcher-cully</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="straw(n)"><f type="r">Straw</form> <f type="i"><xpln lang="ct">Strummel</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheet(n)"><f type="r">Sheets</form> <f type="i"><xpln lang="ct">Slates</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stockings(n)"><f type="r">Stockings</form> <f type="i"><xpln lang="ct">Stock drawers</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoe(n)"><f type="r">Shoes</form> <f type="i"><xpln lang="ct">Stamps</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shop(n)"><f type="r">Shop</form> <f type="i"><xpln lang="ct">Swag</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Sought after with a war&shy;
+rant</form> <f type="i"><xpln lang="ct">Romboyld</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep-stealer(n)"><f type="r">Sheep-stealer</form> <f type="i"><xpln lang="ct">Napper of Naps</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steal(v)"><f type="r">Steal</form> <f type="i"><xpln lang="ct">Mill or Cloy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seal(n)"><f type="r">Seal</form> <f type="i"><xpln lang="ct">Jark</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T T T.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="teeth(n)"><f type="r">Teeth</form> <f type="i"><xpln lang="ct">Crushing cheats</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lie(v)"><f type="r">To lye</form> <f type="i"><xpln lang="ct">Couch</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sleep(v)"><f type="r">To go to sleep</form> <f type="i"><xpln lang="ct">Couch a Hogshead</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speak well(v)"><f type="r">To speak well</form> <f type="i"><xpln lang="ct">Cut ben whids</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speak ill(v)"><f type="r">To speak ill</form> <f type="i"><xpln lang="ct">Cut queer whids</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whipt(a)"><f type="r">To be whipt</form> <f type="i"><xpln lang="ct">Cly the Jerk</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two pence(n)"><f type="r">Two <emend err="penbe">pence</emend></form> <f type="i"><xpln lang="ct">Deuswins</xpln></wordentry>
+</page>
+
+<page no="56">
+<wordentry type="h"><form lang="en" lexeme="three pence(n)"><f type="r">Three pence</form> <f type="i"><xpln lang="ct">Treswins</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tobacco(n)"><f type="r">Tobacco</form> <f type="i"><xpln lang="ct">Fogus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="take tobacco(v)"><f type="r">To take Tobacco</form> <f type="i"><xpln lang="ct">Raise a cloud</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beat(v)"><f type="r">To beat</form> <f type="i"><xpln lang="ct">Fib</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spend(v)" lexeme="lay out(v)"><f type="r">To spend or lay out</form> <f type="i"><xpln lang="ct">Fence</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="teeth(n)"><f type="r">Teeth</form> <f type="i"><xpln lang="ct">Grinders</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rob a house(v)"><f type="r">To rob an house</form> <f type="i"><xpln lang="ct">Heave a Booth</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tumble together(v)"><f type="r">To tumble together</form> <f type="i"><xpln lang="ct">Lib</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transported(a)"><f type="r">Transported</form> <f type="i"><xpln lang="ct">Marinate</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lay place(v)" lexeme="hide(v)"><f type="r">To lay place or hide</form> <f type="i"><xpln lang="ct">Plant</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue(n)"><f type="r">Tongue</form> <f type="i"><xpln lang="ct">Prating cheat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="run away(v)"><f type="r">To rune away</form> <f type="i"><xpln lang="ct">Pikes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wear(v)"><f type="r">To wear</form> <f type="i"><xpln lang="ct">Scour</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="look out(v)"><f type="r">To look out</form> <f type="i"><xpln lang="ct">Tour</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hang(v)"><f type="r">To hang</form> <f type="i"><xpln lang="ct">Trine</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sessions-house(n)"><f type="r">The Sessions-house</form> <f type="i"><xpln lang="ct">Nubbing Ken</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turkey(n)"><f type="r">Turky</form> <f type="i"><xpln lang="ct">Cobble-colter.</xpln></wordentry>
+</wordgroup1>
+
+<f type="r">Our Canting Alphabet will not extend a Letter
+farther then<f type="i"> <f type="i">T, <f type="r">as far as I can find out; not know&shy;
+ing any Canting word beginning with<f type="i"> <f type="i">V, X, Y, Z,
+<f type="r">although I have made a strict inquiry from some of
+the most notorious Professors hereof: I have con&shy;
+sulted likewise what is printed on this subject, and
+have slighted no help I could gather from thence,
+which indeed is very little; the greatest assistance
+I had in this discovery, was from<f type="i"> <f type="i">Newgate<f type="r">; which
+with much difficulty I screw'd out of the sullen
+Rogues, who would not speak a word till I had
+suppled their tongues with the oil of Barley, or ra&shy;
+ther thaw'd their obstinate silence with the heat
+of strong Liquors.
+
+From these I understood, that the Mode of 
+Canting alter'd very often, and that they were for&shy;
+ced to change frequently those material words which
+chiefly discovered their mysterious practices and
+</page>
+
+<page no="57">
+Villanies, least growing too common their own
+words should betray them.
+
+Here in this Vocabulary or little Canting Dicti&shy;
+onary, You have all or most of the old words
+which are still in use, and a many new never pub&shy;
+blished in print, and but very lately minted, such
+too which have passed the approbation of the Criti&shy;
+cal Canter. If I seem deficient in the quantity of
+words, let some else supply my defects, having
+collected words sufficiently enough for one, if you
+will have more, take the pains which I have done
+to be supplyed, and in the mean time be content
+with what is gathered to your hands.<f type="i">
+</section>
+</page>
+
+</leme>

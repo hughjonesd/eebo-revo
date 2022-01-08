@@ -1,0 +1,1210 @@
+  <leme no="544">
+<page no="129">
+<heading>A brief Vocabulary of the <f type="i">Malayan</f> Tongue</heading>
+
+<wordgroup1 type="u">
+<wordentry type="h"><form lang="ma">PAckoe,</form> <xpln lang="en"> To put on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kaelwaer,</form> <xpln lang="en"> To put off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Backasse,</form> <xpln lang="en"> To worship.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Minjaot,</form> <xpln lang="en"> To answer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batturon cabauwa,</form> <xpln lang="en"> To carry away.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Carratam pangal,</form> <xpln lang="en"> To keep off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tariman,</form> <xpln lang="en"> To perswade.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bangala tana,</form> <xpln lang="en"> Tilling.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran gouno,</form> <xpln lang="en"> Husbandmen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sampe,</form> <xpln lang="en"> To come on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Turan cababa,</form> <xpln lang="en"> To go off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bandagar,</form> <xpln lang="en"> To hear.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Backaraga,</form> <xpln lang="en"> To work.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Karat,</form> <xpln lang="en"> To cut off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Laing,</form> <xpln lang="en"> Others.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bigitou,</form> <xpln lang="en"> Also.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Disoruna,</form> <xpln lang="en"> There.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cassian,</form> <xpln lang="en"> Poor <f type="i">or</f> Bashful.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Balacan,</form> <xpln lang="en"> Behind.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lambaet,</form> <xpln lang="en"> Too late.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Arry galap,</form> <xpln lang="en"> Too soon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Abis,</form> <xpln lang="en"> All out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Liat,</form> <xpln lang="en"> To look on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande,</form> <xpln lang="en"> To Trade.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Banan mara,</form> <xpln lang="en"> O my.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Thouca,</form> <xpln lang="en"> Oh his.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Taua dara,</form> <xpln lang="en"> Earth <f type="i">or</f> Sand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Piggy darat,</form> <xpln lang="en"> To go ashore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Malan,</form> <xpln lang="en"> The Evening.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Samonga,</form> <xpln lang="en"> Altogether.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Savou,</form> <xpln lang="en"> An Anchor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cassion amat,</form> <xpln lang="en"> Poverty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jabo soau,</form> <xpln lang="en"> To anchor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tarra kaelwaer,</form> <xpln lang="en"> To draw off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Candati packanita,</form> <xpln lang="en"> As your self.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Taugan,</form> <xpln lang="en"> An Arm.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oupan,</form> <xpln lang="en"> Carrion to fish with.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sendiri,</form> <xpln lang="en"> All one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kaelwatr darot,</form> <xpln lang="en"> To Let-blood.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Badamme,</form> <xpln lang="en"> To agree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bamanarou onutom,</form> <xpln lang="en"> To adventure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bapassou,</form> <xpln lang="en"> To Arrest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Yangan,</form> <xpln lang="en"> to leave off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Rawa,</form> <xpln lang="en"> To bring.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nanty,</form> <xpln lang="en"> Both.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Backara mangala,</form> <xpln lang="en"> To burn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Icat,</form> <xpln lang="en"> To bind.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Zieron,</form> <xpln lang="en"> To pour upon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boat adar,</form> <xpln lang="en"> To prepare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Petschaya,</form> <xpln lang="en"> To borrow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bocaet bae,</form> <xpln lang="en"> To amend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Battan Doelou,</form> <xpln lang="en"> To feign.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Semoeny,</form> <xpln lang="en"> To hide, <f type="i">or</f> Keep.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tida bishouca,</form> <xpln lang="en"> To Cough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Zouda balanga,</form> <xpln lang="en"> To bestow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baassap,</form> <xpln lang="en"> To smoak.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Trayzion,</form> <xpln lang="en"> To bathe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Peyrzia,</form> <xpln lang="en"> To break.</xpln></wordentry>
+</page>
+
+<page no="130">
+<wordentry type="h"><form lang="ma">Bayar,</form> <xpln lang="en"> To pay.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Moullay,</form> <xpln lang="en"> To begin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mauncka,</form> <xpln lang="en"> To desire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bodoy,</form> <xpln lang="en"> To cheat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tanam,</form> <xpln lang="en"> To bury.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batjagay,</form> <xpln lang="en"> To inspect.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tackana,</form> <xpln lang="en"> To bewitch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barmayn,</form> <xpln lang="en"> Foolish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Papodan,</form> <xpln lang="en"> To defend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Giget,</form> <xpln lang="en"> To bite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mangorou,</form> <xpln lang="en"> To command.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bataver,</form> <xpln lang="en"> To prosper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mintacan,</form> <xpln lang="en"> To pray.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Claawaer darat,</form> <xpln lang="en"> To bleed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Betachinta,</form> <xpln lang="en"> To endeavor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Goumartaer,</form> <xpln lang="en"> To quake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tavar,</form> <xpln lang="en"> To promise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Manaroo,</form> <xpln lang="en"> To keep.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bouta,</form> <xpln lang="en"> Blind.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lebar,</form> <xpln lang="en"> Broad.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kyaey agum,</form> <xpln lang="en"> A civil Man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dalangh,</form> <xpln lang="en"> Within.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lonaer,</form> <xpln lang="en"> Without.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Iddo,</form> <xpln lang="en"> Blue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Attas,</form> <xpln lang="en"> Above.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Di bava,</form> <xpln lang="en"> Below.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bayck,</form> <xpln lang="en"> Better.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Payit,</form> <xpln lang="en"> Bitter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Rotty,</form> <xpln lang="en"> Bread.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran pande thicor,</form> <xpln lang="en"> A Barber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran pande rotty,</form> <xpln lang="en"> A Baker.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cave cau yan,</form> <xpln lang="en"> A Bridegroom.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Macanan minum</form> <xpln lang="en">A Wedding.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tampat tidoran,</form> <xpln lang="en"> A Bedstead.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Davon,</form> <xpln lang="en"> A Leaf.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Backara,</form> <xpln lang="en"> Beans.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pouroot,</form> <xpln lang="en"> The Belly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Casingan bumata,</form> <xpln lang="en"> A Bladder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pantat,</form> <xpln lang="en"> The Buttocks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cacky,</form> <xpln lang="en"> The Legs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Janget,</form> <xpln lang="en"> A Beard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Zousou,</form> <xpln lang="en"> The Breast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Addy,</form> <xpln lang="en"> A Brother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Outang,</form> <xpln lang="en"> Wood.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jambatan,</form> <xpln lang="en"> A Bridge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gouno,</form> <xpln lang="en"> A Mountain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Binatan,</form> <xpln lang="en"> A Beast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bongham,</form> <xpln lang="en"> A Flower.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cabon,</form> <xpln lang="en"> An Orchard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pana,</form> <xpln lang="en"> A Bough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Paen,</form> <xpln lang="en"> A Tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kackaer,</form> <xpln lang="en"> To burn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sarou matta,</form> <xpln lang="en"> Spectacles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Campa,</form> <xpln lang="en"> an Ax.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cambyn,</form> <xpln lang="en"> A Book.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ampon,</form> <xpln lang="en"> To have compassion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Minnon,</form> <xpln lang="en"> Drinking.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Totop,</form> <xpln lang="en"> Covering.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bamoula,</form> <xpln lang="en"> Prevailing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Balambat,</form> <xpln lang="en"> Lasting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Manare,</form> <xpln lang="en"> Dancing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gymoor,</form> <xpln lang="en"> Drying.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Minpyn,</form> <xpln lang="en"> Dreaming.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Britacot,</form> <xpln lang="en"> Threatning.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Calam,</form> <xpln lang="en"> Dark.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Matte,</form> <xpln lang="en"> To kill.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bagy,</form> <xpln lang="en"> To distribute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Thinta,</form> <xpln lang="en"> To suppose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bamatty,</form> <xpln lang="en"> Dead.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Touly,</form> <xpln lang="en"> Deaf.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batzinta,</form> <xpln lang="en"> Melancholy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gommo,</form> <xpln lang="en"> Thick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cayn tabbael,</form> <xpln lang="en"> Course Cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lanaa</form> <xpln lang="en"> There.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Santanga,</form> <xpln lang="en"> One half.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Harry,</form> <xpln lang="en"> A Day.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Farry Saryan,</form> <xpln lang="en"> Daily.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cayn caryn,</form> <xpln lang="en"> Dry Cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ponvonry,</form> <xpln lang="en"> A Thief.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cryn,</form> <xpln lang="en"> Thirsty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lipat,</form> <xpln lang="en"> Double.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cassian caly,</form> <xpln lang="en"> Miserable.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gymat,</form> <xpln lang="en"> Vertue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nipis,</form> <xpln lang="en"> Thin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mahael,</form> <xpln lang="en"> Dear.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tyris,</form> <xpln lang="en"> A Drop.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Chamar,</form> <xpln lang="en"> Dirt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nigay citgil,</form> <xpln lang="en"> A Village.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran beta,</form> <xpln lang="en"> A Servant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ana parampuam,</form> <xpln lang="en"> A Daughter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Settam,</form> <xpln lang="en"> The Devil.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dury,</form> <xpln lang="en"> Thorns.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran maboor</form> <xpln lang="en">A Drunkard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pintou,</form> <xpln lang="en"> A Gate or Door.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mabo,</form> <xpln lang="en"> To be Drunk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Papan,</form> <xpln lang="en"> A Board or Plank.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Decat,</form> <xpln lang="en"> Hard by.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Soutratoieist,</form> <xpln lang="en"> Damask.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran itou,</form> <xpln lang="en"> That Man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bemeyna,</form> <xpln lang="en"> To provoke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boathassaer,</form> <xpln lang="en"> Honor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Abbis,</form> <xpln lang="en"> Rending.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Olu balam,</form> <xpln lang="en"> Noble.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Calmary dolu,</form> <xpln lang="en"> Two days since.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Larien remapa,</form> <xpln lang="en"> Somewhere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dulu,</form> <xpln lang="en"> First.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bode baye,</form> <xpln lang="en"> Honorable.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sackuly iny,</form> <xpln lang="en"> Once.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sompa,</form> <xpln lang="en"> An Oath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barancali,</form> <xpln lang="en"> Any ways.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bigittou,</form> <xpln lang="en"> Alone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tilloor,</form> <xpln lang="en"> Eggs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran,</form> <xpln lang="en"> Honest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ity,</form> <xpln lang="en"> Ducks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tongo,</form> <xpln lang="en"> To demand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Soutra viloudu,</form> <xpln lang="en"> Flannel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Couranga,</form> <xpln lang="en"> Salt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Songe,</form> <xpln lang="en"> A Fountain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boaboa,</form> <xpln lang="en"> Fruit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sapirin Boat,</form> <xpln lang="en"> A Fruit-dish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bongra pala,</form> <xpln lang="en"> Mace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Alys,</form> <xpln lang="en"> Fine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pathia,</form> <xpln lang="en"> Broken,</f></xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baeyk,</form> <xpln lang="en"> Good.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bedil,</form> <xpln lang="en"> Guns.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Basaer,</form> <xpln lang="en"> Great.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sadang,</form> <xpln lang="en"> Enough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dilima,</form> <xpln lang="en"> A Pomegranate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Engatkan,</form> <xpln lang="en"> To think.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jaman,</form> <xpln lang="en"> Opinion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Calmary,</form> <xpln lang="en"> Yesterday.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bottou assa,</form> <xpln lang="en"> Hew'd Stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pigy,</form> <xpln lang="en"> To go.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bry,</form> <xpln lang="en"> To give.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baampeer,</form> <xpln lang="en"> To approach.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sagar,</form> <xpln lang="en"> To cure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Icat pingan,</form> <xpln lang="en"> To gird.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bataot,</form> <xpln lang="en"> To believe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Icot,</form> <xpln lang="en"> To conduct.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gonsar,</form> <xpln lang="en"> To be angry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Soucka,</form> <xpln lang="en"> To please.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Botta mon,</form> <xpln lang="en"> The Conscience.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Thangan,</form> <xpln lang="en"> To gape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mintan,</form> <xpln lang="en"> To accommodate.</xpln></wordentry>
+</page>
+
+<page no="131">
+<wordentry type="h"><form lang="ma">Bangon,</form> <xpln lang="en"> To think.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Badamme,</form> <xpln lang="en"> To Salute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ibou,</form> <xpln lang="en"> A Grandfather.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bainga,</form> <xpln lang="en"> To Grace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Soucka moidanga,</form> <xpln lang="en"> Satisfaction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kekeer,</form> <xpln lang="en"> Courteous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bayck,</form> <xpln lang="en"> Healthful.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Olubalan,</form> <xpln lang="en"> Greatness.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Momoulay,</form> <xpln lang="en"> Constant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Petzayaya,</form> <xpln lang="en"> Faithful.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Aran,</form> <xpln lang="en"> Fortunate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mambrybeta,</form> <xpln lang="en"> Conversation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boula,</form> <xpln lang="en"> Whole.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Maangus,</form> <xpln lang="en"> Burnt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pangan,</form> <xpln lang="en"> Roasted.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Birou,</form> <xpln lang="en"> Green.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Couny,</form> <xpln lang="en"> Yellow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande masse,</form> <xpln lang="en"> A Goldsmith.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dastar,</form> <xpln lang="en"> A Girdle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tidoron,</form> <xpln lang="en"> A Curtain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Daghy messing,</form> <xpln lang="en"> Salt-fish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dios,</form> <xpln lang="en"> God.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ganton,</form> <xpln lang="en"> A Gibbet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gounou,</form> <xpln lang="en"> Mountains.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Minta,</form> <xpln lang="en"> Prayer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lavan,</form> <xpln lang="en"> A Ghost.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bouan,</form> <xpln lang="en"> Hunting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mouda,</form> <xpln lang="en"> Young.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tauwan,</form> <xpln lang="en"> A Year.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anna dare,</form> <xpln lang="en"> Young Women.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Wissy,</form> <xpln lang="en"> Iron.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bylly,</form> <xpln lang="en"> To buy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Massa,</form> <xpln lang="en"> To boyl.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bellaygaer,</form> <xpln lang="en"> To chastise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gatrou,</form> <xpln lang="en"> To Scratch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Datan,</form> <xpln lang="en"> To come.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nayn,</form> <xpln lang="en"> To climbe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Chium,</form> <xpln lang="en"> To kiss.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pingakit,</form> <xpln lang="en"> Sick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tempan,</form> <xpln lang="en"> Decrepid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Panda,</form> <xpln lang="en"> Short.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Daganang,</form> <xpln lang="en"> Merchandize.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bayng pande,</form> <xpln lang="en"> Artificial.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Crot,</form> <xpln lang="en"> Crooked.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dingin,</form> <xpln lang="en"> Cold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Raydtza,</form> <xpln lang="en"> The King.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bina radya,</form> <xpln lang="en"> The Queen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jordapoo,</form> <xpln lang="en"> A Cook.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande Boat poyegan,</form> <xpln lang="en"> A Taylor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bele,</form> <xpln lang="en"> A Chamber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oranbadagan,</form> <xpln lang="en"> A Merchant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Prigy,</form> <xpln lang="en"> A Water-pit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Rompot,</form> <xpln lang="en"> Herbs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anack,</form> <xpln lang="en"> A Calf.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cabyret,</form> <xpln lang="en"> A Capon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cayou manis,</form> <xpln lang="en"> Cinamon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tombaka,</form> <xpln lang="en"> Copper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cotchyn,</form> <xpln lang="en"> A Cat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gouret,</form> <xpln lang="en"> A Castle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Banthon,</form> <xpln lang="en"> A Cushion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Capor,</form> <xpln lang="en"> Chalk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Damaran,</form> <xpln lang="en"> A Candlestick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kede,</form> <xpln lang="en"> A Shop.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Antimon,</form> <xpln lang="en"> Cucumbers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batou,</form> <xpln lang="en"> A Precious Stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Piramata,</form> <xpln lang="en"> A Diamond.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bitsgara,</form> <xpln lang="en"> A Contract.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Catan,</form> <xpln lang="en"> A Crab.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nior,</form> <xpln lang="en"> Coco-nuts.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anna codda,</form> <xpln lang="en"> A Captain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anack,</form> <xpln lang="en"> Children.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dabondaer,</form> <xpln lang="en"> A Button.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bassaman,</form> <xpln lang="en"> Company.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Massa,</form> <xpln lang="en"> Gold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Toulang,</form> <xpln lang="en"> A Fish-bone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bapelo,</form> <xpln lang="en"> To embrace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cauyn,</form> <xpln lang="en"> The Morning.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bavva,</form> <xpln lang="en"> To fetch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Marouca,</form> <xpln lang="en"> To hate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batour,</form> <xpln lang="en"> A Cough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dengaer,</form> <xpln lang="en"> Hoping.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Namanga,</form> <xpln lang="en"> To command.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caras,</form> <xpln lang="en"> Hard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caras amat,</form> <xpln lang="en"> To provide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tyngy,</form> <xpln lang="en"> High.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Daghyn caras,</form> <xpln lang="en"> Hard Flesh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barappe,</form> <xpln lang="en"> How much.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ada siny,</form> <xpln lang="en"> He is here.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lapaer,</form> <xpln lang="en"> Hunger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sapanga,</form> <xpln lang="en"> Half.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Saratus,</form> <xpln lang="en"> A hundred.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Knyn,</form> <xpln lang="en"> A Lord.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bayou,</form> <xpln lang="en"> A Shirt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Capalla,</form> <xpln lang="en"> The Head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tangan,</form> <xpln lang="en"> The Hand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bantal,</form> <xpln lang="en"> A Pillow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Rouma,</form> <xpln lang="en"> A House.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bacatan,</form> <xpln lang="en"> Private.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Angy plando,</form> <xpln lang="en"> A Greyhound.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anghyn,</form> <xpln lang="en"> A Dog.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Del avataua,</form> <xpln lang="en"> Hell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dilanghyn,</form> <xpln lang="en"> Heaven.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Leheer,</form> <xpln lang="en"> The Neck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oura,</form> <xpln lang="en"> The Brains.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Rambot,</form> <xpln lang="en"> The Hair of the Head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pomokol,</form> <xpln lang="en"> A Hammer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bayon,</form> <xpln lang="en"> Wood.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Belegyn ganton,</form> <xpln lang="en"> A Hangman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mado,</form> <xpln lang="en"> A Hedge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bakanat,</form> <xpln lang="en"> To know.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Datan,</form> <xpln lang="en"> To come.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Giget,</form> <xpln lang="en"> To gnaw.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pario tamback,</form> <xpln lang="en"> A Kettle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Damaer,</form> <xpln lang="en"> A Conduit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dapor,</form> <xpln lang="en"> A Kitchin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Satou nesserani,</form> <xpln lang="en"> A Christian.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pytti,</form> <xpln lang="en"> A Chest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gadon,</form> <xpln lang="en"> Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kamaran,</form> <xpln lang="en"> A Lamp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sarat can,</form> <xpln lang="en"> To Load.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Saling,</form> <xpln lang="en"> To Lodge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Meyngam,</form> <xpln lang="en"> To Lend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tetaua,</form> <xpln lang="en"> To Laugh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pacol gantan,</form> <xpln lang="en"> Idle or Lazy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Idop,</form> <xpln lang="en"> Level.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dengher,</form> <xpln lang="en"> To hearken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Braycan,</form> <xpln lang="en"> To deliver.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tingalcan,</form> <xpln lang="en"> To let alone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ringan,</form> <xpln lang="en"> Light.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jahat,</form> <xpln lang="en"> Ugly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Calaparan,</form> <xpln lang="en"> Dainty:</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tzerade,</form> <xpln lang="en"> Loose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pangan,</form> <xpln lang="en"> Long.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sadekit,</form> <xpln lang="en"> Small.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tanga,</form> <xpln lang="en"> A Ladder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cayn,</form> <xpln lang="en"> Cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tabee,</form> <xpln lang="en"> Long Pepper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baden,</form> <xpln lang="en"> The Body.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Debeer,</form> <xpln lang="en"> The Lips.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande bryckat,</form> <xpln lang="en"> To master.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oucor,</form> <xpln lang="en"> To measure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Toucaer,</form> <xpln lang="en"> To want.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bollee,</form> <xpln lang="en"> To be able.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bassongot,</form> <xpln lang="en"> To grumble.</xpln></wordentry>
+</page>
+
+<page no="132">
+<wordentry type="h"><form lang="ma">Casse,</form> <xpln lang="en"> To affect or love.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lapas can,</form> <xpln lang="en"> Meek.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Kita,</form> <xpln lang="en"> Me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ponga,</form> <xpln lang="en"> Mine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Conraas,</form> <xpln lang="en"> Lean.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baeyck,</form> <xpln lang="en"> Brave.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tangan,</form> <xpln lang="en"> A Sleeve.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Isso,</form> <xpln lang="en"> To morrow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Saptateauwe,</form> <xpln lang="en"> Perhaps.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lagi,</form> <xpln lang="en"> More.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Couran,</form> <xpln lang="en"> Less.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bayntan,</form> <xpln lang="en"> Many.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lala,</form> <xpln lang="en"> Wary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sondara,</form> <xpln lang="en"> Friendship.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gila,</form> <xpln lang="en"> Foolish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pisou,</form> <xpln lang="en"> A Knife.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande pisou,</form> <xpln lang="en"> A Cutler.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pagera,</form> <xpln lang="en"> A Bricklayer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Harta,</form> <xpln lang="en"> Coin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande harta,</form> <xpln lang="en"> A Coyner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Canda parampuan,</form> <xpln lang="en"> A Mare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ticos,</form> <xpln lang="en"> A Mouse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sousou,</form> <xpln lang="en"> Milk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anadara,</form> <xpln lang="en"> A Maid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Molot,</form> <xpln lang="en"> A Mouth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lacky,</form> <xpln lang="en"> A Man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bonlan,</form> <xpln lang="en"> A Month.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sobott,</form> <xpln lang="en"> a Companion or Friend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cota,</form> <xpln lang="en"> A Wall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Passaer,</form> <xpln lang="en"> A Fair or Market.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tampa macanan,</form> <xpln lang="en"> A Meal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande bellagaet,</form> <xpln lang="en"> A Master.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran,</form> <xpln lang="en"> A Humane Creature.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande bounon,</form> <xpln lang="en"> A Murderer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ticaer,</form> <xpln lang="en"> To faint.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boulan,</form> <xpln lang="en"> The Moon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Toudong,</form> <xpln lang="en"> A Cap.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tiang,</form> <xpln lang="en"> A Mast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tingary,</form> <xpln lang="en"> Noon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Maa,</form> <xpln lang="en"> A Mother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sasaue,</form> <xpln lang="en"> Mustard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Moampeer,</form> <xpln lang="en"> To approach.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pocolpocou,</form> <xpln lang="en"> A Nail.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Namania,</form> <xpln lang="en"> A Name.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batou,</form> <xpln lang="en"> To sneese.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pangilmacan,</form> <xpln lang="en"> To invite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ambil,</form> <xpln lang="en"> To take.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Macan zoere,</form> <xpln lang="en"> To eat in the Afternoon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boat Hambaer,</form> <xpln lang="en"> To make a Courtesie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Basso,</form> <xpln lang="en"> To wet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Icat,</form> <xpln lang="en"> To put after.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Leliat iahat,</form> <xpln lang="en"> Revengeful.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Zerrede,</form> <xpln lang="en"> Industrious.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sacaran,</form> <xpln lang="en"> Now.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tida,</form> <xpln lang="en"> No.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tida baran,</form> <xpln lang="en"> No where.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sacarandolu,</form> <xpln lang="en"> Henceforward.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tydalagy,</form> <xpln lang="en"> Never.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tida sappa,</form> <xpln lang="en"> No body.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tandaporot,</form> <xpln lang="en"> The Navel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Malam,</form> <xpln lang="en"> The Night.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Iarom,</form> <xpln lang="en"> Near.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Anackneene,</form> <xpln lang="en"> A Neece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tzouzou,</form> <xpln lang="en"> A Nephew.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Chancke,</form> <xpln lang="en"> Cloves or Spices.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pala,</form> <xpln lang="en"> Nutmegs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bara,</form> <xpln lang="en"> The North.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tacot,</form> <xpln lang="en"> To be asham'd.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ihan loupa,</form> <xpln lang="en"> To remember.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caulwaer pinghan,</form> <xpln lang="en"> To ungird.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Battata capalla,</form> <xpln lang="en"> To behead.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Beryta doulou,</form> <xpln lang="en"> To instruct.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bangou,</form> <xpln lang="en"> To rise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Backatan,</form> <xpln lang="en"> To declare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nayn,</form> <xpln lang="en"> To go up.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tondo can,</form> <xpln lang="en"> To be subject.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Moutacan,</form> <xpln lang="en"> To evacuate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Larycan,</form> <xpln lang="en"> To outrun.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Byatas,</form> <xpln lang="en"> To pass over.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Coulezly,</form> <xpln lang="en"> To surround.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Diatas diang,</form> <xpln lang="en"> To remain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Borca totop,</form> <xpln lang="en"> To discover.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Salingkan,</form> <xpln lang="en"> To discharge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Batamo,</form> <xpln lang="en"> To meet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sacit,</form> <xpln lang="en"> Unwholesom.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tuora,</form> <xpln lang="en"> Ancient.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Docana,</form> <xpln lang="en"> Not vertuous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Yni tyda tau,</form> <xpln lang="en"> Ignorant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tyda banga,</form> <xpln lang="en"> Shortly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Carn apa,</form> <xpln lang="en"> For his sake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Minta dolu,</form> <xpln lang="en"> To leave.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bygito in,</form> <xpln lang="en"> Also.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tyda songo,</form> <xpln lang="en"> Uncertain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tida banar,</form> <xpln lang="en"> Impossible.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tide samma,</form> <xpln lang="en"> Uneven.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mata,</form> <xpln lang="en"> An Eye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Talingan,</form> <xpln lang="en"> An Ear.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mingan,</form> <xpln lang="en"> Oyl.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dapor,</form> <xpln lang="en"> An Oven.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Daghy lambo,</form> <xpln lang="en"> Beef.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Taryman,</form> <xpln lang="en"> A Receiver.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cartas sapzy,</form> <xpln lang="en"> An Obligation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dolu,</form> <xpln lang="en"> An Original.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Carna anscho,</form> <xpln lang="en"> Occasion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Timor,</form> <xpln lang="en"> East and by North.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caulaver,</form> <xpln lang="en"> Plucking.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boat boncosan,</form> <xpln lang="en"> Packing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tauer,</form> <xpln lang="en"> To set a Price.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lapis,</form> <xpln lang="en"> To Print.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Chanschyn,</form> <xpln lang="en"> To Urine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Rassa,</form> <xpln lang="en"> To taste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tanam,</form> <xpln lang="en"> To plant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boat dina,</form> <xpln lang="en"> To use.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ayarcan,</form> <xpln lang="en"> To plague.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Commataer,</form> <xpln lang="en"> Torturing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Souda caya,</form> <xpln lang="en"> To prosper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Couda,</form> <xpln lang="en"> A Horse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cartas,</form> <xpln lang="en"> Paper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boncousan,</form> <xpln lang="en"> A Pack.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lada,</form> <xpln lang="en"> Pepper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tapian,</form> <xpln lang="en"> A Pot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pintou,</form> <xpln lang="en"> A Gate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Prighy,</form> <xpln lang="en"> To point.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gady,</form> <xpln lang="en"> To pawn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mancoo,</form> <xpln lang="en"> Purslane.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nory,</form> <xpln lang="en"> A Parrot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mallim,</form> <xpln lang="en"> A Pilot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boulo marulis,</form> <xpln lang="en"> Pens.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bonat moulagan,</form> <xpln lang="en"> To trouble.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ado louca,</form> <xpln lang="en"> To wound.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ghahatt,</form> <xpln lang="en"> Anger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Papas can,</form> <xpln lang="en"> An Acquittance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cartas bieguidit,</form> <xpln lang="en"> Bad play.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bilan quera,</form> <xpln lang="en"> To run.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bytsiara,</form> <xpln lang="en"> To advise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ora caian,</form> <xpln lang="en"> Riches.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baialan,</form> <xpln lang="en"> Travel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caian,</form> <xpln lang="en"> Rich.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barentyn,</form> <xpln lang="en"> Rest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mansiuri,</form> <xpln lang="en"> Robbing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Houcum,</form> <xpln lang="en"> To Reign.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Panganio,</form> <xpln lang="en"> To Row.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mera,</form> <xpln lang="en"> Red.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pangil,</form> <xpln lang="en"> To call.</xpln></wordentry>
+</page>
+
+<page no="133">
+<wordentry type="h"><form lang="ma">Baas,</form> <xpln lang="en"> Rice.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Balacca,</form> <xpln lang="en"> The Back.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Simbiri,</form> <xpln lang="en"> Without.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Glam,</form> <xpln lang="en"> To strike.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tasiam,</form> <xpln lang="en"> Sharp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Masam,</form> <xpln lang="en"> Sower.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sakyt,</form> <xpln lang="en"> Sick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sakytan,</form> <xpln lang="en"> Sickness.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barancalla,</form> <xpln lang="en"> Sometimes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Nypis,</form> <xpln lang="en"> Narrow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tolar,</form> <xpln lang="en"> A Serpent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bant,</form> <xpln lang="en"> A Shoulder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Passyt,</form> <xpln lang="en"> Sand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Parlent,</form> <xpln lang="en"> An Arch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bran,</form> <xpln lang="en"> Valiant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Massaaan,</form> <xpln lang="en"> Boyling.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Miniehi,</form> <xpln lang="en"> Singing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pingan,</form> <xpln lang="en"> A Dish,</f> or Platter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ecot,</form> <xpln lang="en"> A Tail.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lari,</form> <xpln lang="en"> To shun or avoid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Macanan,</form> <xpln lang="en"> Spittle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Negri,</form> <xpln lang="en"> A City.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cuntsican,</form> <xpln lang="en"> To whistle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Basiudi,</form> <xpln lang="en"> To play.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Molam,</form> <xpln lang="en"> In the Evening.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tombo,</form> <xpln lang="en"> Pounding.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Maganti,</form> <xpln lang="en"> A Cobweb.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baiki,</form> <xpln lang="en"> Sending.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Connyt,</form> <xpln lang="en"> Saffron.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pandecan,</form> <xpln lang="en"> Striking on an Anvil.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande bissi,</form> <xpln lang="en"> A Smith.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Totan,</form> <xpln lang="en"> To be indebted.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Becatta,</form> <xpln lang="en"> Saying.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jemma,</form> <xpln lang="en"> Sunday.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tydon,</form> <xpln lang="en"> Sleeping.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Timor,</form> <xpln lang="en"> Sweet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tompa,</form> <xpln lang="en"> To spill.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tsiusi,</form> <xpln lang="en"> Pure or clean.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gapit,</form> <xpln lang="en"> Snuffers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Calmari,</form> <xpln lang="en"> Since yesterday.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pande contsi,</form> <xpln lang="en"> A Lock-maker.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gyla,</form> <xpln lang="en"> Folly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Brossu,</form> <xpln lang="en"> A stink.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Ini brossu,</form> <xpln lang="en"> To stink.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baiparas,</form> <xpln lang="en"> Fair.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sappangan,</form> <xpln lang="en"> A Piece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Mansuiri,</form> <xpln lang="en"> To stick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caiu,</form> <xpln lang="en"> A Stick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Antra,</form> <xpln lang="en"> To play.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Paian,</form> <xpln lang="en"> The Sight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Coran,</form> <xpln lang="en"> Small.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barat,</form> <xpln lang="en"> Heavy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sadab,</form> <xpln lang="en"> To taste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pangali,</form> <xpln lang="en"> A Spade.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Caersia baiki,</form> <xpln lang="en"> To furnish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Sompa,</form> <xpln lang="en"> To swear.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tsiarri,</form> <xpln lang="en"> To tear.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Battu,</form> <xpln lang="en"> A Stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jurtilis,</form> <xpln lang="en"> A Secretary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tidor,</form> <xpln lang="en"> To sleep.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Fellimo,</form> <xpln lang="en"> A Sheet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Andrior,</form> <xpln lang="en"> To melt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Becatta,</form> <xpln lang="en"> To speak.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Terran,</form> <xpln lang="en"> To shine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Prande rebor,</form> <xpln lang="en"> A Musician.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Boatsiamar,</form> <xpln lang="en"> To defile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Romal,</form> <xpln lang="en"> A Napkin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Suruan,</form> <xpln lang="en"> Sending.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Matti,</form> <xpln lang="en"> Dying.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Barnan,</form> <xpln lang="en"> Swimming.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cappal,</form> <xpln lang="en"> A Ship.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Oran tua paran,</form> <xpln lang="en"> A Mariner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Antrante,</form> <xpln lang="en"> To spin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Itam,</form> <xpln lang="en"> Black.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gallam,</form> <xpln lang="en"> To stop.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Campon manaro,</form> <xpln lang="en"> To save.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dosa,</form> <xpln lang="en"> Sin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pucol,</form> <xpln lang="en"> To beat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Jalan,</form> <xpln lang="en"> The Street.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Marri,</form> <xpln lang="en"> Tearing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tiaermin,</form> <xpln lang="en"> A Looking-glass.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Malon,</form> <xpln lang="en"> Disgracing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Manys,</form> <xpln lang="en"> Sweet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Addeparapas,</form> <xpln lang="en"> A Sister.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Doduer,</form> <xpln lang="en"> To look.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Baon,</form> <xpln lang="en"> The Shoulders.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dyem,</form> <xpln lang="en"> To be silent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Apon,</form> <xpln lang="en"> Fair.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Matary,</form> <xpln lang="en"> Salt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Peca,</form> <xpln lang="en"> Silver.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Tehylacca,</form> <xpln lang="en"> Sin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Corni,</form> <xpln lang="en"> Business, <f type="i">or</f> Affairs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Negle,</form> <xpln lang="en"> Steel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Bantatan,</form> <xpln lang="en"> Dying.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pienning,</form> <xpln lang="en"> A Dish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Goethieng,</form> <xpln lang="en"> A pair of Scissers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Calvenetten,</form> <xpln lang="en"> To pin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Padang,</form> <xpln lang="en"> A Sword.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Salwacke,</form> <xpln lang="en"> A Shield.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Pockul,</form> <xpln lang="en"> To stand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Byte secate,</form> <xpln lang="en"> I am sick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Cras,</form> <xpln lang="en"> Strong.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Domba,</form> <xpln lang="en"> A Sheep.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Prau,</form> <xpln lang="en"> A Boat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Dia,</form> <xpln lang="en"> She.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Gergafien,</form> <xpln lang="en"> To saw.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ma">Lear de caesia,</form> <xpln lang="en"> To look in a Glass.</xpln></wordentry>
+</wordgroup1>
+</page>
+</leme>
+

@@ -1,0 +1,582 @@
+<leme no="293">
+
+<page sig="dd1v">
+<section type="preface">
+<heading>
+<f type="r">A Short Table of some hard
+words, and phrases, with a few
+briefe notes.
+</heading>
+
+<f type="i">I Haue so nearly as I could, and euen as much
+as<f type="r"> TIBERIVS C&AElig;SAR<f type="i"> himselfe (who
+would not endure the word <f type="r">Monopoly<f type="i">, be&shy;
+cause it was not <f type="r">LATIN<f type="i">) auoided all ende&shy;
+nization of words: which hath mooued me in
+most places of my Booke to adde other more cleare, to inter&shy;
+pret by them such as may seeme to thee obscure, as thou
+may'st euery-where obserue: for albeit (as in my Epistle) I
+wish such a Reader as need not an Interpreter, yet I must
+not neglect such as I haue. Though there are scarce any
+words of mine (howsoeuer they may perhaps seeme strange)
+which other writers in our language haue not formerly
+made familiar, and these few which are not altogether so
+(for the which also I haue more then once askt pardon in my
+Booke it selfe) I haue heere for thy vses, collected, and (by
+conference with the learned) so farre onely interpreted, as is
+necessary to vnderstand my meaning in the places where I
+vse them: for to interprete them at large, and in all their
+senses were to take <f type="r">SCAPVLA'S<f type="i">, or <f type="r">THOMASIVS<f type="i"> offices
+out of their hands. My care is chiefly to haue thee know
+mine.<f type="r">
+
+<closing>
+FARE-WELL.
+</closing>
+</section>
+
+<section type="lexicon">
+<wordgroup1 type="a" object="a"><alpha>A.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="apostrophe(n)"><f type="r">APOSTRO&shy;
+PHE.</form>
+<xpln lexeme="strophe(n)" lexeme="antistrophe(n)">An abrupt, or sodaine turning of our speech from one
+matter, or person to another. Poets, and Orators, are full
+of that vehement kinde of figure: and <f type="i">Strophe<f type="r">, and <f type="i">An&shy;
+tistrophe<f type="r"> (in the GREEKE <f type="i">Lyricks<f type="r">) doe signifie other
+turnings, or changes of speech, and station, as wee are
+taught. <class type="etymlang" lang="gk"><f type="i">GR.</class>
+</xpln></wordentry>
+</page>
+
+<page sig="dd2r">
+<wordentry type="h"><form location="margin" lexeme="analogy(n)"><f type="r">ANALOGIE.</form>
+<xpln>The iust proportion, correspondence, and measure
+which the obiect, or subiect holds with the true reason
+required therein: An agreement, harmonie, or apt an&shy;
+swering of the Thing to the considerations proper
+therevnto. <class type="etymlang" lang="gk"><f type="i">GR.</class><f type="r">
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="analysis(n)">ANALYSIS.</form>
+<xpln>A resoluing, or distribution of the whole into the
+parts. <class type="etymlang" lang="gk"><f type="i">GR.<f type="r"></class>
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="antithesis(n)">ANTITHESIS</form>
+<xpln lexeme="opposition(n)">A contrary position, or an opposition. <class type="etymlang" lang="gk"><f type="i">GR.</class><f type="r">
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="autom(n)">AVTOMS.</form>
+<xpln>The word imports artificiall bodies made by D&AElig;&shy;
+DALVS, or by any other of like skill, which moue alone,
+or houer of themselues in the ayre, without the support
+of any other thing. Such were not the <term lang="la"><f type="i">Horti pensiles</term><f type="r">, or
+Hanging gardens of SEMIRAMIS, for they stood vpon
+pillars: Nor the ICARVS in OVID, or in SVETONIVS; for the
+one was but (as the fable of PHAETON) a picture of vn&shy;
+fortunate ambition; the other the true story of the break&shy;
+neck fall of SIMON MAGVS the Sorcerer, vnder the name
+of ICARVS, at ROME: Nor MAHOMET'S yron coffin at
+MECCA: for that (as the fame, or fable is) it hangs in
+the Temple, by reason of certaine proportionable quan&shy;
+tities of <f type="i">Load-stone<f type="r"> which hold it vp by equall attracti&shy;
+ons. The perpetuall motion (when it is found) is such. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="atomy(n)">ATOMIE.</form>
+<xpln lexeme="anatomy(n)" lexeme="resection(n)">As Anatomie is a resection, or such a cutting-vp as
+Surgeons vse in humane bodyes at their Hall, so <f type="i">Ato&shy;
+mies<f type="r"> are those things, of which, by reason of their inex&shy;
+plicable smallnesse there cannot bee any section. The
+LATINS calls it <term lang="la"><f type="i">Indiuiduum</term><f type="r">, and LVCRETIVS <f type="i">semen rerum<f type="r">:
+<f type="i">Indiuiduum<f type="r">, because it was so little as it could not bee
+parted, or diuided, and <term lang="la"><f type="i">semen rerum</term><f type="r"> (seed of things)
+for that they were (according to the conceit of EPI&shy;
+CVRVS) the common mater of all things. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="artic(a)">ARTICK.</form>
+<xpln lexeme="arctic circle(n)" lexeme="arctic hemisphere(n)">That which is of, or appertaineth to the Northern
+signe of the C&aelig;lestial Beare. So the ARCTICK Circle is
+the bound of the <f type="i">Cold Zone<f type="r"> vpon Earth, and of the Nor&shy;
+thern constellations in Heauen. The whole North is de&shy;
+nominated of that imagined figure. The fable of that
+</page>
+
+<page sig="dd2v">
+Beare is famous among Poets. So the <f type="i">Artick Hemi&shy;
+sphear<f type="r"> is that halfe of the world which is betweene the
+North-pole, and the<f type="i">&AElig;quinoctiall Line. <class type="etymlang" lang="gk"><f type="i">GRE.</class>
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="antarctic(a)"><f type="r">ANTARC&shy;
+TICK.</form>
+<xpln lexeme="southern(a)">* Contrary, or opposite to Arctick. <f type="i">Southern. <class type="etymlang" lang="gk"><f type="i">GR.</class>
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="Argo(pn)"><f type="r">ARGO.</form>
+<xpln>The name of the Ship, or Argose, in which IASON sail'd
+to CHOLCHIS for conquest of the golden Fleece, and
+which by the power of Poesie is turnd to an Asterism,
+or a C&aelig;lestiall figure of Starres in the South-sky. The
+Armorists ARGO, is in my meaning, no more, but the bu&shy;
+sinesse of Armorie which is in handling, and in which
+Sir AMIAS is shipt, or embarked. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="arras(n)">ARRAS.</form>
+<xpln lexeme="tapestry(n)">Cloath of Arras, Tapistrie, or hangings wrought at
+the Cittie of ARRAS in ARTOIS, one of the seuenteene
+Prouinces, and at this present is vnder the ARCHDVKES
+ALBERTVS and his wife ISABELLA. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="basis(n)">BASIS.</form>
+<xpln><class type="kind of">A word in <f type="i">Architecture<f type="r"></class>. The bottom-part of a Co&shy;
+lumne, or Pillar, and figuratiuely the supporture, stay,
+ground-worke or foundation of any thing. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="bevil(n)">BEVIL.</form>
+<xpln>Euery Carpenter can tell you what it is. Beeing a
+Squire, or Square of two equall pieces, and moouing
+vpon a ioynt, or pinne from the Angle wherein they
+are ioyned. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="chaos(n)">CHAOS.</form>
+<xpln>OVID calls the rude, and vndigested first heape of
+naturall Elements, <f type="i">Chaos<f type="r">. In the Impresse, Symbol, or
+Deuise vpon the front of my Booke, I haue followed the
+common placing of the foure common Simples, and
+Elements; about the which, in so many Scucheons, are
+set the seauen chiefe Armoriall Colours, which men may
+obserue in the naturall Elements. In fire, <f type="i">yellow, redde,<f type="r">
+</page>
+
+<page sig="dd3r">
+and P<f type="i">urple<f type="r">: In a&euml;r; <f type="i">white<f type="r">: In water; <f type="i">blew<f type="r">: In earth, <f type="i">greene<f type="r">,
+and <f type="i">sable<f type="r">. The sentence <emend err="is is ">is</emend> out of some the first verses
+in the Metamorphosis, where it is said
+
+<quotation><expression lang="la"><f type="i">Vnus erat toto natur&aelig; vultus in orbe,
+Quem dixere <f type="r">CHAOS ---</expression></quotation>
+
+<f type="r">The sense of the whole Imprese is plain. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="cocket(n)">COCKET.</form>
+<xpln>A certificate from the customer of a Port that the par&shy;
+cels comprehended in that Certificate, or Bill haue bene
+customed, or haue paid custome. The word is dearly wel&shy;
+knowne to Marchant-venturers. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="convex(n)">CONVEX.</form>
+<xpln lexeme="concave(a)" lexeme="belly(a)"><f type="i">Conuexity<f type="r"> is the out-side of an hollow body, as <f type="i">conca&shy;
+uity<f type="r"> the inside. In a painted Globe of the world the de&shy;
+scriptions are vppon the <f type="i">conuexitie<f type="r"> therof, and that face is
+<f type="i">conuex<f type="r">, the rest is bellie or concaue. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="coryphae(n)">CORYPHAE.</form>
+<xpln lexeme="chief(n)" lexeme="principal(n)">The Chief, or principal in any kinde. <class lang="gk" type="etymlang">GR.</class> 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="diallel(n)">DIALLELS.</form>
+<xpln lexeme="parallel(n)">As <f type="i">Parallels<f type="r"> are lines running one by the other without
+meeting, so <f type="i">Diallels<f type="r"> are lines which runne one through
+the other, that is, do crosse, intersecate, or cutt. <class type="etymlang" lang="gk">G.R.</class> 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="diagonal(n)">DIAGONAL.</form>
+<xpln>Is a line which passeth from one corner or one angle of
+a Geometrical body to another corner or angle of the
+same. <class type="etymlang" lang="gk">GR.</class> 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="deipnosophist(n)">DEIPNOSO&shy;
+PHISTS.</form>
+<xpln>ATHENAEVS his great learned books carry that title, im&shy;
+porting a conference, discourse, or Inter-speach among
+wise-men at a supper. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="diameter(n)">DIAMETER.</form>
+<xpln><f type="rl">EVCLYD<f type="r">(who best knewe) defineth it thus.
+<f type="i">The diameter of a circle, is a certain straight line
+drawne through the center, and of both sides bounded in the
+compasse of the circle, which cutts, or deuides the circle into
+two portions. 
+</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="dd3v">
+<wordgroup1 type="a" object="e"><alpha>E.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="equivocal(a)">EQUIVOCAL.</form>
+<xpln lexeme="aspiration(n)" lexeme="elenck(n)">An <f type="i">Equiuocal<f type="r"> word is that which conteyneth more sig&shy;
+nifications then one, or that which in the sense, or mea&shy;
+ning thereof doth equally extend it selfe as wel to one as
+to another. As the word (<term lang="en"><f type="i">Armes</term><f type="r">) in our vulgar vse ther&shy;
+of doth equally signifie those parts of our body so called,
+or <f type="i">weapons<f type="r">, or <f type="i">tokens of honour<f type="r">, and with an aspiration
+(which is an ELENCK, or deceit in the <f type="i">Accent) Harms.<f type="r">
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="empyraean(a)">EMPYRAEAN.</form>
+<xpln><f type="i">Fierie.<f type="r"> It is among the old Diuines taken for the Sph&aelig;re
+of the blessed, or the Heauen of the triumphant. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="folkmote(n)">FOLKMOTE.</form>
+<xpln>A meeting of the people, which the LATINS called <term lang="la"><f type="i">Concio</term><f type="r">,
+and in a more spacious word <f type="i">Comitia<f type="r">. For <term lang="la"><f type="i">Concio</term><f type="r"> was
+any auditory, before, or vnto whome a speach was vsed,
+aswell as the speach it selfe, both which <term lang="la"><f type="i">Concio</term><f type="r"> signified;
+but <term lang="la"><f type="i">Comitia</term><f type="r"> did import a generall assembly of the people
+of <f type="rl">ROME<f type="r"> to make lawes &c. Our FOLKMOTE may bee
+either.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="geminel(n)">GEMINELS.</form>
+<xpln lexeme="twin(n)" lexeme="pair(n)" lexeme="match(n)" lexeme="like(n)"><f type="i">Twins, Pairs, Matches, or Likes.<f type="r">
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="gourmon(n)">GOVRMONS.</form>
+<xpln>Great eaters; <f type="i">Gluttons<f type="r">, <f type="i">Norman<f type="r">, <f type="i">Gourmon<f type="r">, is a speach (I
+heare) by which the <f type="i">Normans<f type="r"> are taxed for great fee&shy;
+ding, and gourmondize. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="grammar(n)">GRAMMAR.</form>
+<xpln>Who knowes not that this word signifies the Art of let&shy;
+ters, and speach? <class type="etymlang" lang="gk">Yet it is meere GREEK in the originall;</class>
+but now so familiar in our tongue, euen in the most vp&shy;
+landish, countries as it need no Interpreter.
+
+Those who will perswade vs to turne backe to our old
+language for auoyding the loan of words, and phrases,
+may from hence learn, that vse makes all things familiar;
+Friuolous it is to wish (when thinges are dayly new) to
+</page>
+
+<page sig="dd4r">
+dreame of a certaine state of words, or speach; that is, That
+the number of ENGLISH wordes should be definite, and
+certaine.
+
+And what shall wee say of reuiuing old and forgotten
+words? That cannot auoyd obscurity but will induce it ra&shy;
+ther, our helps being fewer to vnderstand them, then the
+GREEK, LATIN, or other famous languages: It is our sloath
+which suffers so many of our owne wordes to liue onely
+among the Arts, and Mysteries where they are common&shy;
+ly knowne, like DVTCH coynes which are not current out
+of their owne Citties, or Territories, Industry, and Wise&shy;
+dome would that wee should not borrow till our owne
+store were empty, or worne bare, which is to our selues
+vnknowne for want of obseruation. Therefore I could
+wish there were a Tribunal, and Magistrate for wordes,
+that it might not be in euery witts-will, <term lang="la"><f type="i">donare ciuitate
+ANGLICANA</term><f type="r">, to make words, & phrases free of ENG&shy;
+<f type="rl">LAND<f type="r">.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="hierogliphick(n)">HIEROGLI&shy;
+PHICKS.</form>
+<xpln lexeme="hierogram(n)">Hallowed Engrauements, or sacred Sculptures; as <f type="i">Hiera&shy;
+ticall<f type="r"> figures are sacred figures; and <f type="i">Hierogramms<f type="r"> sacred
+letters or writings. In all which words the mysticall cy&shy;
+phers or records of the AEGIPTIAN rites, and Philosophie,
+were signified to be comprised. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="hyperborean(n)">HYPERBO&shy;
+REANS. HORD.</form>
+<xpln lexeme="septentrional(a)" lexeme="due north(adv)"><f type="i">Septentrional<f type="r">. <f type="i">Due North<f type="r">: Vnder the North-pole.
+
+A TARTARIAN word: and as (I thinke) doth import a <f type="i">Clan<f type="r">,
+<f type="i">Race<f type="r">, or <f type="i">Familie<f type="r"> vnder some one Chiefe or other, which
+conducts the troup after their barbarous vsage from coun&shy;
+ty and country.
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="hord(n)">HORD</form>
+<xpln>is the whole company of so many TARTARS flit&shy;
+ting vp, and downe where they can find new feedings. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="honorary(a)">HONORARY.</form>
+<xpln>That which is made for honour, more then for vse. 
+</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="dd4v">
+<wordgroup1 type="a" object="i"><alpha>I</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="imbricate(a)">IMBRICATE.</form>
+<xpln>Square, and bent like to a <f type="i">Roofe-tile<f type="r">, which the LATINS
+cal <term lang="la"><f type="i">Imbrex</term><f type="r">.
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="inlay(n)">INLAYES.</form>
+<xpln>At <expan type="S+t.">Saint</expan> OLAVES in SOVTHWARK you shall learn among the
+Ioyners what <f type="i">Inlayes<f type="r"> and <f type="i">Marquetrie<f type="r"> meane. <f type="i">Inlay<f type="r"> (as
+the word imports) is a laying of colour'd wood in their
+Wainscoat works, Bed-steds, Cupbords, Chayres and the
+like.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="landskep(n)">LANDSKEP.</form>
+<xpln lexeme="parergon(n)" lexeme="by-work(n)">The same that P<f type="i">arergon<f type="r">, which in one word I call <f type="i">By-&shy;
+work<f type="r">; wherein though I render the GREEK <term lang="la">P<f type="i">arergon</term><f type="r"> ful&shy;
+ly, and truly, yet (for that it is not receiued in such a sense
+among vs) it doth not shew the thing.
+
+All that, which in a picture is not of the body, or argu&shy;
+ment thereof, is LANDSKEP, P<f type="i">arergon<f type="r">, or <f type="i">By-work<f type="r">. As in
+the table of our Sauiours passion; The picture of CHRIST
+vpon the <term lang="en"><f type="i">Rood</term><f type="r"> (which is the proper ENGLISH word for
+<f type="i">Crosse<f type="r">) the two <f type="i">Theeues<f type="r">, the blessed Virgin MARIE, and
+Saint IOHN, are the argument: But the Cittie IERVSALEM,
+the country about, the <f type="i">Clowdes<f type="r">, and the like are B<f type="i">y-&shy;
+work<f type="r">.
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="letter, laureated(n)">LAVREATED 
+LETTERS.</form>
+<xpln><f type="i">Leters<f type="r"> bound about with laurell, which the ROMAN
+Generals sent to the Senat when their contents were
+victory, and conquest newly by them obtained. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="labarum(n)">LABARVM.</form>
+<xpln>EVSEBIVS PAMPHILVS in his first booke of the life of
+great CONSTANTINE describes this peculiar Standard very
+curiously. The common forme thou maist behold in the
+163. page of my <f type="i">Elements<f type="r">. In the LABARVM these things
+are more. First the Banner was of <f type="i">Purple<f type="r">, where the pic&shy;
+tures of the Emperour and his Children were wrought in
+gold, and stone of wonderfull value and beauty; aboue
+the crosse-beam, or trauerse-staffe of the banner stood
+</page>
+
+<page sig="ee1r">
+those two first GREEKE Capitals of CHRISTE'S name
+which you may see in my Elements, and on the point, or
+toppe of the Launce, or Staffe imperiall, was aduanced
+a crowne of gold set with pretious stone. All in honor of
+his miraculous conuersion vpon the apparition of the
+CROSSE. Which as it consisted of shining light, and was
+seene abooue the Sunne, it beeing now past Noone, so
+there was very lately in our time seene by honorable
+personages, and others at Saint LEONARD's by NEWARKE
+vpon TRENT, the like figure of the <f type="i">Crosse<f type="r"> aboue the
+Moone at night, in colour brighter then the Moone,
+whose paler body was betweene their sight, and the
+lower part of the long beame of the <f type="i">Crosse<f type="r">.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="mot(n)">MOTT.</form>
+<xpln>Is (in generall) FRENCH for (a Word) but in a restrai&shy;
+ned sense is properly now among vs the Word, or Sen&shy;
+tence applide to an Impresse, or Heroick Deuise. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="mytholologer(n)">MYTHOLO&shy;
+LOGERS.</form>
+<xpln>Morall Interpreters of Poeticall Histories, or of the
+wise Fables of &AElig;SOP, which sort of inuention the
+GREEKES call an <term lang="la"><f type="i">Apologus</term><f type="r">. <class type="etymlang" lang="gk"><f type="i">GR.<f type="r"></class>
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="mizraim(n)">MIZRAIM.</form>
+<xpln lexeme="Egyptian(pn)">The <f type="i">Hebrew<f type="r">, or MOSAICAL name of the &AElig;GYPTIANS,
+which I vse, the rather to signifie thereby those &AElig;GYP&shy;
+TIANS that were of the oldest times. <class type="etymlang" lang="he"><f type="i">HEB</class><f type="r">.
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="mathematical(a)">MATHEMA&shy;
+TICAL.</form>
+<xpln lexeme="sciental(a)"><f type="i">Sciential. Mathemata<f type="r"> are generally all sorts of liberall
+knowledges, but for their excellencie appropriated more
+specially to these foure, ARITHMETICK, MVSICK, GEO&shy;
+METRIE, ASTRONOMIE. <class type="etymlang" lang="gk"><f type="i">GR.<f type="r"></class>
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="marquetry(n)">MARQVETRY</form>
+<xpln>See INLAY. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="nomenclator(n)">NOMENCLA&shy;
+TOR.</form>
+<xpln>An Officer among the ROMANS whose it was to call,
+cite, or rehearse euery one of the Senatours, Guests, &c.
+by their seuerall names. <class type="etymlang" lang="la"><f type="i">LAT.</class><f type="r">
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="negro(n)">NEGRO.</form>
+<xpln lexeme="swart(n)">A black Moore, whom the DVTCH call a Swart, and
+NEGRO's in the plural, <f type="i">Swarts<f type="r">
+</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="ee1v">
+<wordgroup1 type="a" object="o"><alpha>O.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="oval(n)">OVAL.</form>
+<xpln>A figure round like an Egge, an oblong round. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p"><alpha>P.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="perimeter(n)">PERIMETER.</form>
+<xpln lexeme="compass(n)">The out-most line of any solid body, or other figure.
+The Compasse, or bounding Tract. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="pythagoracism(n)">PYTHAGO&shy;
+RACISM.</form>
+<xpln>In my sense is an imitation of PYTHAGORAS his super&shy;
+stitions in numbers; to the which PYTHAGORAS attribu&shy;
+ted too much. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="physiologer(n)">PHYSIOLO&shy;
+GERS.</form>
+<xpln lexeme="philosopher, natural(n)">Naturall Philosophers; or discoursers of naturall
+matters. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="physics(n)">PHYSICKS.</form>
+<xpln lexeme="philosophy, natural(n)" lexeme="natural(a)"  lexeme="physician(n)" lexeme="leech(n)" lexeme="medicus(n)" lexeme="physiologer(n)">Naturall Philosophy. Naturall.
+
+The word <term lang="en"><f type="i">Physitian</term><f type="r"> we do vulgarly abuse (as we doe
+very many other) for a <f type="i">Leech<f type="r">, or <term lang="la"><f type="i">Medicus</term><f type="r">, but not alto&shy;
+gether intollerably, because it is a trite, and a true saying,
+that <expression lang="la"> <f type="i">Vbi definit Philosophus incipit Medicus</expression><f type="r">, where the
+Naturalist (for there the word <f type="i">Philosopher<f type="r"> stands for a
+Physiologer) ends, there the <f type="i">Medicus<f type="r"> begins; so as if an
+expert <f type="i">Leech<f type="r"> must needs be expert in the Physicks (that
+is, in those speculations which concerne the workes of
+nature) the nearest word to fall with our tongue, yet not
+farre from the thing, was <f type="i">Physitian<f type="r">, for <term lang="la"><f type="i">Medicus</term><f type="r"> could
+not well brooke any flexion among vs. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="renegado(n)">RENEGADO.</form>
+<xpln>One that renyes, or renounceth the faith, that is (in the
+receiued sense of the word) the CHRISTIAN faith. An
+<term lang="la"><f type="i">Apostata</term><f type="r">: by which word the Emperour IVLIANVS for his
+speciall malice to CHRISTIANITIE, was surnamed. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="sand(n)">SAND.</form>
+<xpln lexeme="arena(n)">Here it signifies that famous place which the ROMANS
+by a LATIN word of the same signification called <term lang="la"><f type="i">Arena</term><f type="r">,
+for that it (being the ground within an Amphitheater)
+was sanded ouer both for sure footing, and the sooner to
+drinke vp the bloud of men, &amp; beasts their shed in sight
+for <emend err="entertaintment">entertainment</emend> of the people. Figuratiuely, it is taken
+for any subiect of Trial, as <f type="i">Prouince<f type="r"> for a businesse. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="symbol(n)">SYMBOL.</form>
+<xpln lexeme="token(n)" lexeme="symbolize(v)" lexeme="betoken(v)">Of all our ENGLISH words, none comes nearer to ex&shy;
+presse it, then TOKEN, so as we vnderstand thereby such a
+TOKEN, as in which there is alwayes some pourtraict,
+</page>
+
+<page sig="ee2r">
+figure, or image. Symbol (in my sense) is a figure, or shape
+which relateth to some cause, reason, qualitie, nature, or
+Historie, proper to this, or that Bearer, or family. To <f type="i">sym&shy;
+bolize<f type="r">, is <f type="i">so to beetoken, or<f type="r"> so, and <f type="i">in that sort<f type="r">, to answer,
+or agree-with. Many frauds you shall read in PLAVTVS,
+plotted, and acted by counterfetting, and slie conueiance
+of these <f type="i">Symbols<f type="r">, or <f type="i">Tokens<f type="r">, wherein there was euer some
+image, or other. So the Symbol of AMPHITRVON in that
+<f type="i">Tragicomedie<f type="r"> was, <expression lang="la"><f type="i">Sol cum quadrigis,</expression> <expression lang="en">The Sunne in his
+Chariot drawne with foure horse</expression><f type="r">, PYRGOPOLINICES, the
+bragging Soldier, had his owne louely selfe with great
+<f type="i">Decorum<f type="r">, drawne in his Signet for a Symbol. <f type="i">Symbolical
+Philosophie<f type="r"> therefore is that kinde of learning, and wis&shy;
+dome, which knowing the causes, and proprieties of
+<emend err="of"></emend> things naturall, and supernaturall, doth teach how to
+make, or to expound those mystical, and artificial bodies,
+called <term lang="en"><f type="i">Symbols</term><f type="r">, of what kinde soeuer. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="skeleton(n)">SKELETON.</form>
+<xpln lexeme="anatomy(n)">Is that which the vulgar call an Anatomie: <f type="i">Skeleton<f type="r"> is
+the whole Fabrick, or dry frame of humane Bones. The
+dry carcasse of a man, or woman, without Arteries, Mus&shy;
+cles, or other naturall appurtenances.
+
+<term lang="gk"><f type="i">Skeletos</term><f type="r"> in GREEKE is bony, or dry as a Bone. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="surcoat(n)">SVRCOAT.</form>
+<xpln>A Coate of Armes to were ouer Armour. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T.</alpha>
+
+<wordentry type="h"><form location="margin" lexeme="taberd(n)">TABERD.</form>
+<xpln lexeme="tabert(n)" lexeme="coat, herald's(n)">VERSTEGAN'S words in his antient ENGLISH Alphabet
+are these. A <f type="i">Tabert<f type="r">, anciently a short gowne, that reached
+no further then to the mid-legge, In ENGLAND it is now
+the name onely of an Heralds Coate. 
+</xpln></wordentry>
+
+<wordentry type="h"><form location="margin" lexeme="thole(n)">THOLES.</form>
+<xpln>Places in Temples where <f type="i">Donaries<f type="r">, and such gifts as
+are presented there, be hung vp. 
+</xpln></wordentry>
+</wordgroup1>     
+
+<closing><f type="rl">FINIS.</closing>
+
+</section>
+</page>
+</leme>

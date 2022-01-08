@@ -1,0 +1,598 @@
+
+
+<leme no="473">
+<page sig="k4r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+w i n g b 4 4 0
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+That the weak Traveller in this his Celestial pro&#173;
+grese may not stumble, or be at a stand, I have
+made the way somewhat smoother, by the ex&#173;
+plication of some words not familiarly used,
+which he may meet withal in the precedent
+Discourse.
+
+<wordgroup1 type="a" object="a"><alpha>A</alpha>
+
+<wordentry type="h"><form lexeme="afflux(n)">Afflux, </form> <xpln lexeme="flowing together(n)"> a flowing together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aerial(a)">Aerial, </form> <xpln>belonging to the air.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="animal(n)">Animals, </form> <xpln>those things that move upon the earth, and
+have besides Augmentation, either Sense onely, or
+both Sense and Reason; as all kinde of Beasts,
+and Man.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Antipodes(n)">Antipodes, </form> <xpln>people dwelling on the other side of the
+earth, with their feet against ours.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apogea(n)">Apogea, </form> <xpln>a point in the heaven, when any Planet is 
+furthest from the Centre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apogeiety(n)">Apogeiety, </form> <xpln> furthest distant from the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="approximation(n)">Approximation, </form> <xpln lexeme="drawing near(n)">a drawing neer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Archimedes(pn)">Archimedes, </form> <xpln>a Geometrician of wonderful skill.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="architect(n)">Architect, </form> <xpln lexeme="builder(n)">a Builder, or chief Workman.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aries(n)">Aries, </form> <xpln>one of the twelve Signes.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k4v">
+<wordentry type="h"><form lexeme="artifice(n)">Artifice, </form> <xpln>the skill or ability of an Arts man.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aspect(n)">Aspect, </form> <xpln>its form and figure which it shews to ano&#173;
+ther body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asperse(v)">Asperse, </form> <xpln lexeme="sprinkle(v)" lexeme="besmear(v)">to sprinkle, besmear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astrolobe(n)">Astrolobe, </form> <xpln>an Instrument whereby the motion of the 
+Stars is gathered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astrology(n)">Astrologie, </form> <xpln>a Science teaching the knowledge, ver&#173;
+tue, and influence of the Stars.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astronomy(n)">Astronomy, </form> <xpln>a Science teaching the knowledge of the 
+courses and motion of the Planets and Stars; and
+their distance, greatness, and form.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="atom(n)">Atome, </form> <xpln>any thing so small, that it cannot be made
+less.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attractive(a)">Attractive, </form> <xpln>having power to draw.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attrition(n)">Attrition, </form> <xpln>rubbing of two solid things together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="axletree(n)">Axletree, </form> <xpln>an imagined Line from the one Pole to the 
+other, drawn thorow the Centre.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="b"><alpha>B</alpha>
+
+<wordentry type="h"><form lexeme="basis(n)">Basis, </form> <xpln lexeme="foundation(n)">a foundation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="benign(a)">Benign, </form> <xpln lexeme="gentle(a)" lexeme="favourable(a)" lexeme="friendly(a)">gentle, favourable, friendly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bitumenous(a)">Bitumenous, </form> <xpln>an oily substance quickly taking fire.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C</alpha>
+
+<wordentry type="h"><form lexeme="calofaction(n)">calofaction, </form> <xpln lexeme="heating(n)">heating.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cancer(n)">Cancer, </form> <xpln>one of the twelve Signes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="capacious(a)">Capacious, </form> <xpln lexeme="large(a)">large, containing much.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Capricorn(n)">Capricorn, </form> <xpln>one of the twelve Signes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="celestial(a)">Celestial, </form> <xpln lexeme="heavenly(a)">heavenly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="character(n)">Character, </form> <xpln lexeme="mark(n)" lexeme="sign(n)" lexeme="description(n)">a mark, signe, or description.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumference(n)">Circumference, </form> <xpln lexeme="circle(n)">a Circle, whose every part is equi&#173;
+distant from the Centre.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k5r">
+<wordentry type="h"><form lexeme="circumvolution(n)">Circumvolution, </form> <xpln lexeme="turning about(n)" lexeme="wheeling about(n)">a turning or wheeling about.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circular(a)">Circular, </form> <xpln>that which is round in compass.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="claritude(n)">Claritude, </form> <xpln lexeme="clearness(n)">clearness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="climate(n)">Climate, </form> <xpln>a particular situation of any Country, in 
+reference to the Poles and &#198;quator.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cohibition(n)">Cohibition, </form> <xpln>a letting or forbidding to go.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="column(n)">Columns, </form> <xpln lexeme="pillar(n)">pillars.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="combination(n)">Combinations, </form> <xpln> a joyning or confederating toge&#173;
+ther.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compression(n)">Compression, </form> <xpln>a pressing or thrusting together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="computed(a)">Computed, </form> <xpln lexeme="accounted(a)" lexeme="calculated(a)">accounted or calculated.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conjunctive(a)">Conjunctive, </form> <xpln>which knitteth or fasteneth together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conspicuous(a)">Conspicuous, </form> <xpln>easie to be seen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="constellation(n)">Constellation, </form> <xpln>a certain number of Stars making
+up a certain Figure given unto it for distinction&#173;
+sake.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cosmography(n)">Cosmography, </form> <xpln>a description of the whole world.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="constringent(a)">Constringent, </form> <xpln lexeme="binding(a)">binding, as frost bindes the water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cubit(n)">Cubit, </form> <xpln>the length of the bend of the arm to the end
+of the little finger, which is a foot and a half.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D</alpha>
+
+<wordentry type="h"><form lexeme="Daedalus(pn)">Daedalus, </form> <xpln>a famous Artificer, the father of Icarus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="degree(n)">Degree,</form> <xpln> a Degree is 60 minutes or miles; and in the
+heavens it is the 360 part of the Zodiack.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="demonstration(n)">Demonstration, </form> <xpln>an eminent and undeniable mani&#173;
+festation of any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="demonstrative(a)">Demonstrative, </form> <xpln>that which declareth any thing
+evidently.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="despicable(a)">Despicable, </form> <xpln lexeme="despised(n)">a thing to be despised.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dextrous(a)">Dextrous, </form> <xpln lexeme="nimble(a)" lexeme="skilful(a)" lexeme="quick(a)">nimble, skilful, quick.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k5v">
+<wordentry type="h"><form lexeme="diameter(n)">Diameter, </form> <xpln lexeme="thickness(n)">thickness, or a strait line passing between
+the middle of a Figure, dividing it into two equal
+parts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diametrically(adv)">Diametrically, </form> <xpln>in a direct line.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dictate(v)">Dictate, </form> <xpln>to endite what another writes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="digit(n)">Digits, </form> <xpln>Figures  in  Arithmetick.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="digression(n)">Digression, </form> <xpln>a going from the matter in hand.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dimension(n)">Dimension, </form> <xpln>a true measuring of a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diurnal(a)">Diurnal, </form> <xpln lexeme="daily(a)">daily.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dragon(n)">Dragon, </form> <xpln>a Constellation so named.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E</alpha>
+
+<wordentry type="h"><form lexeme="eclipse(n)">Eclipse: </form> <xpln>interposition of a dark body between the
+eye and a light body,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ecliptic line(n)">Ecliptick Line: </form> <xpln> a Line in which the Sun always
+keeps his course: which Line runs thorow the
+middle of the twelve Signes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="efficient cause(n)">Efficient cause: </form> <xpln>that makes or produceth any
+thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ela(n)">Ela: </form> <xpln>the highest Note in the Scale of Musick.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elemental(a)">Elemental: </form> <xpln>belonging to the Elements.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eliptical(a)">Eliptical: </form> <xpln>belonging to a crooked line.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emanation(n)">Emanation: </form> <xpln>a flowing from any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="empyrean(n)">Empyrean: </form> <xpln>the highest heaven above the firma&#173;
+ment.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="endenized(a)">Endenized: </form> <xpln>made free.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epitome(n)">Epitome: </form> <xpln>a short gathering of a matter in writing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equidistant(a)">Equidistant: </form> <xpln>of like distance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="essentially(adv)">Essentially: </form> <xpln>of the nature or essence of a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="evince(v)">Evince: </form> <xpln>to clear by argument.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eccentricity(n)">Eccentricity: </form> <xpln>not having Centres alike.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k6r">
+<wordentry type="h"><form lexeme="exhalation(n)">Exhalations: </form> <xpln>a fumy smoak hot and dry, drawn
+out of the earth by the heat of the Sun, or other
+Stars.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ecstasy(n)">Ecstasie: </form> <xpln lexeme="trance(n)" lexeme="astonishment(n)">a trance, or astonishment.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="extraction(n)">Extraction: </form> <xpln lexeme="drawing forth(n)">drawing forth.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="f"><alpha>F</alpha>
+
+<wordentry type="h"><form lexeme="furlong(n)">Furlong: </form> <xpln>a measure used in Geometry, eight of
+which make a mile.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G</alpha>
+
+<wordentry type="h"><form lexeme="genuine(a)">Genuine: </form> <xpln lexeme="true(a)" lexeme="natural(a)">true and natural.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="genius(n)">Genius: </form> <xpln> a term arising from the supposition of
+every mans having a Guardian-Angel taking
+particular care of him, called his Genius. Others
+conceive it to import no more but the inward mo&#173;
+tions and suggestions of a mans spirit.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="geometry(n)">Geometry: </form> <xpln>one of the seven Liberal Arts, conver&#173;
+sant about measuring the earth, and proportioning
+Figures.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="globe(n)">Globe: </form> <xpln>a round bowl, or the description of the 
+world made in such a form.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="globous(a)">Globous: </form> <xpln>round as a Globe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gradation(n)">Gradations: </form> <xpln>a going by steps.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gradually(adv)">Gradually: </form> <xpln lexeme="degrees, by(adv)"> by degrees.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="h"><alpha>H</alpha>
+
+<wordentry type="h"><form lexeme="habitually(adv)">Habitually: </form> <xpln>arising from a habit, begotten by fre&#173;
+quent actions.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hemisphere(n)">Hemisphere: </form> <xpln>that part of the heaven which is still
+to us visible.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="i"><alpha>I</alpha>
+
+<wordentry type="h"><form lexeme="igneal(a)">Igneal: </form> <xpln lexeme="fiery(a)">or fiery.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k6v">
+<wordentry type="h"><form lexeme="illuminated(a)">Illuminated: </form> <xpln lexeme="enlightened(a)">enlightened.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imagery(n)">Imagery: </form> <xpln lexeme="painted(a)">painted, or that which is conceited in the
+minde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="immaterial(a)">Immaterial: </form> <xpln>without matter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="immense(a)">Immense: </form> <xpln> that cannot be measured, or that is of
+vast extent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imperceptible(a)">Imperceptible: </form> <xpln>not to be perceived.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imperial(a)">Imperial: </form> <xpln lexeme="imperious(a)" lexeme="stately(a)" lexeme="lordly(a)">imperious, stately, Lordly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impression(n)">Impressions, </form> <xpln>figures or representations of things
+appearing in the heavens, clouds, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impulsion(n)">Impulsion: </form> <xpln>a forcible motion from another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="encounter(n)">Incounter: </form> <xpln>most in opposition.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="influence(n)">Influence: </form> <xpln>a flowing in ; power which Planets and
+Stars have over inferiour things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inherently(adv)">Inherently: </form> <xpln>grounded in the substance of accidents.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="interposing(n)" lexeme="interposition(n)" lexeme="interposure(n)">Interposing, 
+Interposition, 
+Interposure, </form> <xpln>putting or coming between.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="intrinsecal(a)">Intrinsecal, </form> <xpln>that which is within, or belonging to 
+the essence of any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="irregular(a)">Irregular, </form> <xpln>out of order or course.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="l"><alpha>L</alpha>
+
+<wordentry type="h"><form lexeme="lare(n)">Lares, </form> <xpln lexeme="tutelar god(n)">Tutelar-gods, that were protectors  of a fa&#173;
+mily.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Libra(n)">Libra: </form> <xpln>one of the twelve Signes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="locality(n)">Locality: </form> <xpln lexeme="place(n)"> the place of any thing.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="m"><alpha>M</alpha>
+
+<wordentry type="h"><form lexeme="magnitude(n)">Magnitude: </form> <xpln lexeme="greatness(n)">greatness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mathematics(n)">Mathematicks: </form> <xpln>the Arts of Arithmetick, Musick
+Geometry, Astronomy, Astrologie, and Cosmo&#173;
+graphy.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k7r">
+<wordentry type="h"><form lexeme="maxim(n)">Maxime: </form> <xpln>a plain and allowed position in any Art.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meridional(a)">Meridional, </form> <xpln>belonging to the Southern noon-tide.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meteor(n)">Meteor: </form> <xpln>an elementary body; as snow, hail, clouds,
+windes, blazing stars, thunder, lightning, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="million(n)">Million, </form> <xpln lexeme="thousand(n)">a thousand thousand.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mineral(n)">Minerals, </form> <xpln>hard and compacted bodies digged out
+of the bowels of the earth; as lead, tin, iron, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mutation(n)">Mutation: </form> <xpln lexeme="changing(n)">changing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mutuation(n)">Mutuation: </form> <xpln lexeme="borrowing(n)">borrowing.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N</alpha>
+
+<wordentry type="h"><form lexeme="nadir(n)">Nadir, </form> <xpln>the opposite point of the heaven under us.
+See Zenith.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="notion(n)">Notion, </form> <xpln>a term for the better understanding of any
+thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="numerous(a)">Numerous, </form> <xpln>many in number.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nutriment(n)">Nutriment, </form> <xpln lexeme="nourishment(n)">or nourishment.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="o"><alpha>O</alpha>
+
+<wordentry type="h"><form lexeme="oblique(a)">Oblique: </form> <xpln lexeme="crooked(a)" lexeme="aslope(a)">crooked, or aslope.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obliquely(adv)">Obliquely: </form> <xpln lexeme="crookedly(adv)">crookedly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obliquity(n)">Obliquity: </form> <xpln>crookedness in ascent or descent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obsequious(a)">Obsequious: </form> <xpln lexeme="dutiful(a)">dutiful.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obvious(a)">Obvious: </form> <xpln>met in the way, or easily understood.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="occult(a)">Occult: </form> <xpln lexeme="hidden(a)">hidden.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="opacous(a)">Opacous: </form> <xpln>thick and dark, opposite to transparent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="optic glass(n)">Optick-glass: </form> <xpln lexeme="trunk spectacle(n)" lexeme="prospective-glass(n)">a trunk-spectacle, a prospective-
+glass, bettering the sight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orb(n)">Orbs: </form> <xpln>round Circles, or the heavens where the Pla&#173;
+nets and Stars are.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orbicular(a)">Orbicular: </form> <xpln>round like a Circle.</xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="k7v">
+<wordgroup1 type="a" object="p"><alpha>P</alpha>
+
+<wordentry type="h"><form lexeme="parallel(n)">Parallel: </form> <xpln>lines equally distant.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parallax(n)">Parallax: </form> <xpln>the distance between the site of such Pla&#173;
+nets in reality and in appearance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="penetrate(v)">Penetrate: </form> <xpln>that pierceth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="percolated(a)">Percolated: </form> <xpln lexeme="strained(a)">strained.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perfidious(a)">Perfidious: </form> <xpln>full of treachery.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perigeiety(n)">Perigeiety: </form> <xpln> the neerest distance to the earth.
+</xpln><lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="perigee(n)">Perigaeum: </form> <xpln>a prick or point of greatest neerness
+of any Planet in its approach towards the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="periodical(a)">Periodical: </form> <xpln>that observes certain periods, course
+or changes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="permanence(n)">Permanence: </form> <xpln lexeme="permanent(a)" lexeme="long-enduring(a)">permanent, long enduring.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perpendicular(a)">Perpendicular: </form> <xpln>directly downright.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="position(n)">Position: </form> <xpln>a setting, placing, or being of any star.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="positure(n)">Positure: </form> <xpln lexeme="position(n)">as position.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="posthume(a)">Posthume: </form> <xpln>brought to light after the death of the 
+Author.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="predisposition(n)">Predisposition: </form> <xpln>the disposition or aptness of the 
+matter beforehand.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="profundity(n)">Profundity: </form> <xpln lexeme="depth(n)">depth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="progression(n)">Progression: </form> <xpln>going forward.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="projected(a)">Projected: </form> <xpln lexeme="contrived(a)">contrived.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="propinquity(n)">Propinquity: </form> <xpln lexeme="nearness(n)">neerness.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q"><alpha>Q</alpha>
+
+<wordentry type="h"><form lexeme="quondam(n)">Quondam: </form> <xpln>in times past.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R</alpha>
+
+<wordentry type="h"><form lexeme="radiation(n)">Radiation: </form> <xpln>a shooting or darting of beams, spirit 
+or light; or the aspects or rays which the Stars
+and Planets have to one another.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="k8r">
+<wordentry type="h"><form lexeme="rapid(a)">Rapid: </form> <xpln>violent whirling about.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="receptacle(n)">Receptacle: </form> <xpln>that which receives another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reflex(n)">Reflex: </form> <xpln>a darting back again.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reflexion(n)">Reflexion: </form> <xpln lexeme="reflex(n)">as reflex.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="repress(v)">Repress: </form> <xpln lexeme="beat down(v)" lexeme="keep down(v)">to beat or keep down.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="revolution(n)">Revolution: </form> <xpln>returning to the same point.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S</alpha>
+
+<wordentry type="h"><form lexeme="semidiameter(n)">Semidiameter: </form> <xpln>the half of the diameter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="semicircle(n)">Semicircle: </form> <xpln>the half circle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="serene(a)">Serene: </form> <xpln lexeme="clear(a)">clear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sign(n)">Signe: </form> <xpln>a Signe is the twelfth part of the Zodiack,
+which is thirty degrees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solstice(n)">Solstice: </form> <xpln>the two extreme points which the Sun
+passes North and South.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solution(n)">Solution: </form> <xpln lexeme="payment(n)" lexeme="expounding(n)">a payment, or an expounding.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="species(n)">Species: </form> <xpln lexeme="kind(n)">or kinde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sphere(n)">Sphere: </form> <xpln>a round circle, commonly taken for the
+round circled compass of the heavens.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spherical(a)">Spherical: </form> <xpln>belonging to the Sphere.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spherometry(n)">Spherometry: </form> <xpln>the art of measuring the Spheres.
+</xpln><lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="stabiliment(n)">Stabiliment: </form> <xpln lexeme="foundation(n)">foundation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="station(n)">Station: </form> <xpln lexeme="standing(n)">a standing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sublunary(a)">Sublunary: </form> <xpln>under the moon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sulphurous(a)">Sulpherous: </form> <xpln>or full of brimstone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superficies(n)">Superficies: </form> <xpln>the utmost face or lines of any body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="supineness(n)">Supiness: </form> <xpln> most neglectful.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="surface(n)">Surface: </form> <xpln>as superficies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suspended(a)">Suspended: </form> <xpln>hung in equal poise.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sympathy(n)">Sympathy: </form> <xpln>mutual affection.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symptom(n)">Symptome: </form> <xpln>any grief following a disease, or sensi&#173;
+
+
+
+
+</page>
+
+<page sig="k8v">
+bly joyned with it; as Head-ach with an Ague,
+&#38;c.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T</alpha>
+
+<wordentry type="h"><form lexeme="telescope(n)">Telescope: </form> <xpln>a glass by which things may be plainly
+seen at a very great distance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tendency(n)">Tendency: </form> <xpln>a tending towards any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="terrestrial(a)">Terrestrial: </form> <xpln lexeme="earthly(a)">earthly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="termination(n)">Termination: </form> <xpln>the ending of any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thirds(n)" lexeme="fourths(n)">Thirds and fourths: </form> <xpln>note that a degree is 60 mi&#173;
+nutes or miles: a minute is 60 seconds: a second
+is 60 thirds: a third is 60 fourths. So 10 fourths
+is 1/6 part of a third.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="torrent(n)">Torrents: </form> <xpln>a forcible motion of the waters.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="transparent(a)">Transparent: </form> <xpln>which may be seen thorow, or clear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tripod(n)">Tripod: </form> <xpln lexeme="three-footed(a)">Three-footed.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v"><alpha>V</alpha>
+
+<wordentry type="h"><form lexeme="variation(n)">Variations: </form> <xpln lexeme="change(n)" lexeme="alteration(n)">changes or alterations.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vegetable(n)">Vegetables: </form> <xpln>those things that spring up from the
+earth; as plants, herbs, trees, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vicinity(n)">Vicinity: </form> <xpln lexeme="nearness(n)">neerness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vertical(a)">Vertical: </form> <xpln>the point of return.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vivid(a)">Vivid: </form> <xpln lexeme="lively(a)">lively.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vivification(n)">Vivification: </form> <xpln lexeme="making(n)" lexeme="alive(n)">making alive.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="undemonstrable(a)">Vndemonstrable: </form> <xpln>that cannot be made plain.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="z"><alpha>Z</alpha>
+
+<wordentry type="h"><form lexeme="zenith(n)">Zenith: </form> <xpln lexeme="nadir(n)">that part of heaven which is right over 
+our heads. And that part opposite to the Zenith
+under us, is called Nadir.</xpln></wordentry>
+</wordgroup1>
+
+<term lang="la">
+F I N I S.
+</term>
+
+
+</page>
+</leme>
+

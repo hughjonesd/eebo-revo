@@ -1,0 +1,335 @@
+
+
+<leme no="130">
+<page sig="a2r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 9 0 6 0
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+Certayne rules of Geo&#173;
+graphie, for the vnderstanding of 
+Mappes and Chartes.
+
+THe perfect vnderstanding of Mappes
+and the vse of the same dothe consiste
+in the knowledge of these foure poynts.
+
+1 The necessarie circles described in
+Mappes.
+2 The longitude &#38; latitude of places.
+3 The Clymats and Paraleles.
+4 The measure of distaunce of one
+place from another.
+
+<wordentry type="g">
+<form lexeme="circle(n)">1 Of the Circles.</form>
+
+<xpln lexeme="equinoctial(a)" lexeme="tropic(n)" lexeme="polar(a)" lexeme="zone, temperate(n)" lexeme="zone, cold(n)" lexeme="zone, burnt(n)">The circles expressed in Mappes are
+fiue, the Equinoctiall, the 2. Tropikes, and
+the two Polare circles.
+
+The Equinoctiall or Equator, is a cir&#173;
+cle imagined iust in the midst betweene
+the two Poles, compassing the whole
+earth about.
+
+1 This circle deuideth the worlde in&#173;
+to two equall parts, that is to saye, the
+
+</page>
+
+<page sig="a2v">
+North and the South.
+
+2 It serueth also to know the Longi&#173;
+tude of places, which is measured vpon
+it, and the Latitude which is measured 
+from it, either Northwarde or South&#173;
+warde.
+
+3 When the Sunne is in it, the day is
+equall with the nighte throughout all
+the worlde.
+
+4 When the Sunne is furthest from
+it, the day is either shortest or longest.
+
+The Tropikes are those circles which
+the Sunne maketh about the worlde,
+when it is furthest from the Equinoctial
+either Northwarde or Southwarde.
+
+If it be Northwarde it is called the
+Tropike of Cancer, bicause the Sunne
+then returning backwardes entreth into
+that signe.
+
+If it be Southwarde it is called the 
+Tropike of Capricorne, bicause then the
+Sunne entreth into the signe of Capri&#173;
+corne.
+
+These circles do deuide the temperate
+Zones from the burnt Zone.
+
+</page>
+
+<page sig="a3r">
+The Polare circles are those which the
+Poles of the Zodiake doe make aboute
+the Poles of the worlde, in the space of
+24. houres.
+
+They deuide the temperate Zones
+from the colde Zones: and are so farre
+distant from their Poles (that is, the Ar&#173;
+ctike from the North, and the Antartike 
+from the South Pole) as the Tropikes
+are from the Equinoctiall.
+
+The two Tropikes and the two Po&#173;
+lare circles do deuide the whole earthe
+into fiue parts, which are called Zones.
+Wherof that which lieth vnder the E&#173;
+quinoctiall betweene the two Tropikes,
+is called the burnte Zone: the other
+two betwixt either of the Tropikes and
+the Polare circles are called Temperate
+Zones: and the other two vnder either 
+Pole are called colde Zones.
+</xpln></wordentry>
+
+</page>
+
+<page sig="a3v">
+<wordentry type="g">
+<form lexeme="longitude(n)" lexeme="latitude(n)">2 Of the Longitude and Latitude.</form>
+
+<xpln lexeme="line, western(n)" lexeme="ponant(n)" lexeme="levant(n)" lexeme="zenith(n)" lexeme="meridian(n)">In reckning <expan type="">the </expan> Longitude of <expan type=""> the</expan> world,
+the auncient Geographers tooke their
+beginning at a right line imagined to be
+drawne from the one Pole to the other,
+by the Ilandes called the Canaries, be&#173;
+yonde Hercules pillers (which lyne for
+this purpose I call the Westerne line) so
+that the Longitude of any place is the di&#173;
+
+</page>
+
+<page sig="a4r">
+staunce of the same from that line East&#173;
+warde, and so rounde aboute vnto the
+same line agayne.
+
+Some late writers do reck<expan type="">en</expan> the Lon&#173;
+gitude fr<expan type="">om</expan> the Westerne line Eastward
+180. degrees, and also from the same
+westward, 180. degrees, which beeing ad&#173;
+ded togither do make. 360. describing it in
+the middest betwene the two Poles, and
+deuiding the world into. 2. equall partes,
+wherof the Westerne they call the Po&#173;
+nent, and the Easterne the Levant.
+
+The latitude is the distaunce of any
+place fr<expan type="">om</expan> the Equinoctiall circle towards
+either of the Poles.
+
+Where so euer you are, imagine a
+poynt or pricke directly ouer your head,
+which is called Zenith, the dist<expan type="">an</expan>ce wher&#173;
+of from the Westerne lyne, is the longi&#173;
+tude, and from the Equinoctiall the lati&#173;
+tude. And for this purpose in the vni&#173;
+uersall Chartes, you haue lines (called
+Meridians) drawne in lengthe from
+Pole to Pole, distant one from another
+10. degrees, beginning at the Westerne
+lyne, and so Eastwarde, which doe eui&#173;
+
+</page>
+
+<page sig="a4v">
+dently shew the Longitude of any place.
+
+There are also drawne certaine Para&#173;
+leles from the Equinoctiall towardes ei&#173;
+ther of the Poles, differing one from an
+other 10. degrees, declaring the Latitude.
+
+Note that the latitude or distance fr<expan type="">om</expan>
+the Equinoctiall line, and the eleuation
+of the Pole in any place are equall.
+</xpln></wordentry>
+
+<wordentry type="g">
+<form lexeme="climate(n)" lexeme="parallel(n)">3 Of Climates and Paraleles.</form>
+
+<xpln lexeme="Meroe(pn)" lexeme="Syena(pn)" lexeme="Alexandria(pn)" lexeme="Rhodes(pn)" lexeme="Rome(pn)" lexeme="Euxine(pn)" lexeme="Pontus(pn)" lexeme="Boreisthenes(pn)" lexeme="anti-(n)">The Climates &#38; Paraleles serue both
+for one purpose, that is, the difference of
+the longest dayes, whiche doe increase 
+within certayne spaces from the Equi&#173;
+noctiall towards either of the Poles.
+
+A Climate is a space of distance from
+the Equinoctiall line, where the longest
+day maketh difference of halfe an houre.
+
+The olde writers do make but seuen
+Climates, and doe name them of some
+notable and famous place.
+
+1 The first they name of Meroe a citie
+in Afrike, vnder the burnt Zone, thys
+c<expan type="">on</expan>teineth in brodnesse. 7. degrees. 40. mi.
+
+</page>
+
+<page sig="a5r">
+It beginneth at 12.deg. 45.mi.
+[It] endeth [at] 20.deg. 30.mi.
+The longest day. Prin. 12.h.45.m.
+Fin. 13.h.15.m.
+
+2. The seconde of Syena, a citie in the
+confines of Ethiopia, vnder the Tropike
+of Cancer, c<expan type="">on</expan>teining in brodnesse. 7.degr.
+beg. 20.g. 30.m. dies lo. 13.h.15.m.
+end. 27.g. 30.m. dies lo. 13.h.45.m.
+
+3. The third is named of Alexandria, a
+famous Citie in Egypte, conteyning in
+brodnesse. 6.g. 10.min.
+beg. 27.g. 30.m. dies lo. 13.h.45.m.
+end. 33.g. 40.m. dies lo. 14.h.15.m.
+
+4 The fourth hath his denomination
+of that noble Ilande of Rhodes in Asia
+the lesse, whose brodnesse is .5.g. 20.m.
+beg. 33.g. 40.m. dies lo. 14.h.15.m.
+end. 39.g. dies lo. 14.h.45.m.
+
+5 The fifte climate hath his name of
+the citie of Rome, whiche conteineth in
+brodnesse 4.g.30.m.
+
+</page>
+
+<page sig="a5v">
+beg. 39.g. 40.m. dies lo. 14.h.45.m.
+end. 43.g. 30.m. dies lo. 15.h.15.m.
+
+6 The sixte of the sea Euxine called
+Pontus, which is .3.g.45.m. brode.
+beg. 43.g. 30.m. dies lo. 15.h.15.m.
+end. 47.g. 15.m. dies lo. 15.h.45.m.
+
+7 The seuenth is named of Boristhe&#173;
+nes a great riuer in Scythia, whose brod&#173;
+nesse is .3.g.15.m.
+beg. 47.g. 15.m. dies lo. 15.h.45.m.
+end. 50.g. 30.m. dies lo. 16.h.15.m.
+
+Some do adde the eight Climat by the 
+South partes of England, and the ninth
+by the riuer Tanais.
+
+The Southerne Climate, haue <expan type="">the</expan> same
+names, putting only this Greeke propo&#173;
+sition, Anti, before them.
+
+A Paralele is iuste halfe a Climate,
+so that one Climate conteyneth two
+Paraleles.
+</xpln></wordentry>
+
+</page>
+
+<page sig="a6r">
+<wordentry type="g">
+<form lexeme="distance(n)">4 The measure of distance of one
+place from another.</form>
+
+<xpln lexeme="sign(n)" lexeme="mark(n)" lexeme="parasanga(n)" lexeme="furlong(n)" lexeme="mile(n)" lexeme="stone(n)" lexeme="league(n)" lexeme="finger(n)" lexeme="hand(n)" lexeme="foot(n)" lexeme="pace(n)" lexeme="pace, geometrical(n)" lexeme="league, French(n)" lexeme="mile, Italian(n)" lexeme="league, great(n)" lexeme="farasanga(n)" lexeme="mile, German(n)">Diuers nations do diuersly measure the
+distance of places.
+The Egyptians by signes or markes.
+The Persians by their Parasangas.
+The Greekes by furlonges.
+The Latines by miles, and sometimes
+by stones or markes.
+The Spaniards &#38; Frenchm<expan type="">en</expan> by legues.
+The Germanes and diuers other nati<expan type="">on</expan>s 
+by myles, and those of diuers length.
+Those which do write of these mat&#173;
+ters, do all in a maner agree in this, that
+foure graynes of barly do make a finger.
+Foure fingers a hande.
+Foure hands a foote.
+Foure foote a Geometricall pase, whiche
+is two simple pases.
+125. Geometricall pases a furlong.
+8. Furlonges one mile.
+16. Furlongs a French league, which is
+two Italian miles.
+3. Miles a great league.
+30. Furlongs one Parasanga, which the 
+
+</page>
+
+<page sig="a6v">
+Persians at this day call Farasanga.
+40. Furlongs one Germaine mile.
+</xpln></wordentry>
+
+To apply your degrees to the finding
+out of the distance of one place from an
+other, by the number of miles (as they
+are c<expan type="">om</expan>monly taken  amongst vs in Eng&#173;
+lande) you must vnderstande that euery
+degree containeth, 60. miles on earth, so
+that if you multiplie .360. degrees, which
+is the compasse of the Equinoctial, by 60. 
+you shall finde the worlde to conteine a&#173;
+boute the whole circumference of the
+earth and water 21600. miles.
+
+If you take your measure of distance
+from the Equinoctiall line directly either
+Northwarde or Southward, or else vp&#173;
+pon the Equinoctiall line Eastwarde or
+Westwarde, you neede no more but
+count your degrees, and for euery degree
+count .60. miles: or if your Chart be true
+in proportion, open your compasse as
+wide as those two places are asunder,
+whose distance you woulde knowe, and
+apply the same to the Equinoctiall line,
+and multiplye your degrees as before,
+and so you shall haue your purpose.
+
+In particular <emend err="and">in</emend> Chorographical 
+
+</page>
+
+<page sig="a7r">
+Chartes you may finde the true distance
+of any place from another, either by the 
+numbers of longitude and latitude de&#173;
+scribed in the margine of your Chart, or
+by the Scale which is moste commonly
+made for that purpose. And if you wante
+bothe these helpes, take any two places
+wherof you knowe or may learne the 
+true distance, and measure that,
+and according to that propor&#173;
+tion you may finde out
+any distaunce in
+the Chart.
+
+</page>
+</leme>

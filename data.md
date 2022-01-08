@@ -12,3 +12,12 @@
   * Also from TCP
   * URL: https://www.dropbox.com/sh/pfx619wnjdck2lj/AAAeQjd_dv29oPymNoKJWfEYa?dl=0
   * Download date: 5/1/2022
+
+* Files in the LEME subfolder
+  * From Lexicons of Early Modern English
+  * URL: https://leme.library.utoronto.ca/lexicons/downloadPlainText/1641582204712
+  * Download date: 7/1/2022
+  * Documentation: https://leme.utoronto.ca/?page_id=78
+    NB different from leme.library.utoronto.ca !
+  * Terms of use (CC4.0): 
+    https://leme.library.utoronto.ca/help/termsofuse - i.e. do what you like but give credit

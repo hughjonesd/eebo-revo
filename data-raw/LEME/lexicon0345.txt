@@ -1,0 +1,125 @@
+
+
+<leme no="345">
+<page no="58">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 8 6 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+A DESCRIPTION OF
+SOME PECVLIAR THINGES,
+fit to bee considered, by such as intend to
+practise the Art of Nauigation,
+or Astronomy.
+</heading>
+
+<wordentry type="h"><form lexeme="zenith(n)"> THe Zenith </form> <xpln> is an immaginary point
+in the heauens, ouer our heades,
+making right Angles with the Ho&#173;
+rizon, as the Equinoctiall maketh
+with the Pole.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nadir(n)"> The Nadir </form><xpln> is a pricke in the hea&#173;
+uens vnder our feet, making right Angles with the
+Horizon vnder the earth, as the Zenith doth aboue;
+and therefore is opposite vnto the Zenith.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="declination of the sun(n)"> The declination of the Sunne, </form><xpln> is the Arke of a
+Circle contained betwixt the Ecliptique and the E&#173;
+quinoctiall, making right Angles with the Equino&#173;
+ctiall.  But the declination of a Starre, is the Arke
+of a Circle let fall from the Center of a Starre, Per&#173;
+pendicularly vnto the Equinoctiall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="latitude(n)"> The Latitude </form><xpln> is the Arke of a Circle contained be&#173;
+twixt the Center of any Starre, and the Ecliptique
+Line, making right Angles with the Ecliptique, and
+counted either Northward, or Southward, according 
+to the Situation of the Starre, whether it bee neerer
+vnto the North or South Pole of the Ecliptique.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="latitude of a town or country(n)">   The Latitude of a Towne or country, </form><xpln> is the height
+of the Pole aboue the Horizon, or the distance be&#173;
+twixt the Zenith and the Equinoctiall.</xpln></wordentry>
+
+
+
+</page>
+
+<page no="59">
+<wordentry type="h"><form lexeme="longitude of a star(n)"> The Longitude of a Starre, </form><xpln> is that part of the Ec&#173;
+cliptique which is contained betwixt the Stars place
+in the Ecliptique, and the beginning of Aries, coun&#173;
+ting them from Ariesaccording to the succession or
+order of the Signes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="longitude of a town or country(n)">  The Longitude of a Towne or Countrey </form><xpln> are the
+number of degrees, which are contained in the Equi&#173;
+noctiall, betwixt the Meridian that passeth ouer the 
+Iles of Azores (from whence the beginning of Lon&#173;
+gitude is accounted) Eastwardes, and the Meridian
+that passeth ouer the Towne or Countrey desired.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="altitude of the sun(n)">   The Altitude of the Sunne or Starre, </form><xpln> is the Arch
+of a Circle contained betwixt the Center of the Sun,
+or any Starre, and the Horizon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amplitude(n)"> The Amplitude </form><xpln> is that part of the Horizon which
+is betwixt the two East or West points, and the point
+of the Compasse that the Sunne or any Starre doth
+rise or set vpon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="azimuth(n)"> Azimuthes </form><xpln> are Circles, which meet together in
+the Zenith, and Crosse the Horizon at right Angles
+and serue to find the pointe of the Compasse, which
+the Sunne is vpon at any houre of the day, or the
+Asumeth of the Sunne or Starre, is a part of the Ho&#173;
+rizon contained betwixt the true East or West point, 
+&#38; that Azimuthe which passeth by the Center of the 
+same Starre to the Horizon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ascension, right(n)"> The right ascention of a Starre, </form><xpln> is that part of the
+Equinoctiall that riseth or setteth with the Starre, in
+a right Spheare, or in an oblique Spheare, it is that
+portion of the Equinoctiall, contained betwixt the
+beginning of Aries, and that place of the Equinocti&#173;
+all, which passeth by the Meridian with the Center
+of the Starre.</xpln></wordentry>
+
+
+
+</page>
+
+<page no="60">
+<wordentry type="h"><form lexeme="ascension, oblique(n)"> The oblique ascention </form><xpln> is a part of the Equinocti&#173;
+all, contained betwixt the beginnning of Aries, and
+that part of the Equinoctiall that riseth with the 
+Center of a Starre, in an oblique Spheare.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="difference(n)" lexeme="ascensional(a)">   The difference ascensionall, </form><xpln> is the difference be&#173;
+twixt the right and oblique ascention: or it is the
+number of degrees contained betwixt that place of
+the Equinoctiall, that riseth with a Center of a Star,
+and that place of the Equinoctiall that commeth vn&#173;
+to the Meridian with the Center of the same Starre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="almucantar(n)">   Almicanterahs, </form><xpln> are Circles drawne parallell vnto
+the Horizon, one ouer another vntill you come vn&#173;
+to the Zenith: these are Circles that doe measure the 
+eleuation of the Pole, or height of the Sun, Moone,
+or Starres aboue the Horizon, which is called the
+Almicanter of the Sunne, Moone or Star: the Arke
+of the Sunne or Stars Almicanter, is a portion of an
+Azimuthe contained betwixt that Almic<expan type="">an</expan>ter which
+passeth through the Center of the Starre, and the Ho&#173;
+rizon.</xpln></wordentry>
+
+
+</page>
+</leme>

@@ -1,0 +1,2292 @@
+<leme no="279">
+
+<page sig="xx2r">
+<heading>
+A briefe explanation of most of the most-difficulties
+through the whole worke, for the ease of such as
+are least exercised in these kinde
+of readinges.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lexeme="abyss(n)"><f type="i">ABisse,</form> <f type="r"><xpln lexeme="gulf(n)">a gulfe, or bottomles pit.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abderian(pn)" lexeme="Abderite(pn)" lexeme="Democritus(pn)"><f type="i">Abderian & Abderite, Democri&shy;
+tus</form><f type="r">, <xpln>the laughing Philosopher
+of <f type="I">Abydus</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aben-Roes(pn)"><f type="i">Aben-Roes</form><f type="r">, <xpln>a learned Philosopher of
+<f type="i">Corduba<f type="r">, sprung from <f type="i">Arabian<f type="r"> pa&shy;
+rents.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abydus(pn)"><f type="i">Abydus, </form> <xpln> <f type="I">Leanders<f type="r"> Towne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="academian shades(pn)"><f type="i">Accademian Shades</form>, <xpln><f type="r">Platos<f type="r"> Skoole,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Acheron(pn)"><f type="i">Accheron</form><f type="r">, <xpln>a Riuer in Hell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Acconite(pn)"><f type="i">Acconite,</form> <xpln lexeme="libbard's bane(n)" lexeme="wolf's bane(n)"><f type="i">Libbards<f type="r"> (or Wolfes) bane.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Achilles(pn)"><f type="i">Achilles</form><f type="r">, <xpln>the most valiant Captaine
+of the <f type="i">Myrmadons<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Adonis(pn)"><f type="i">Adonis</form><f type="r">, <xpln>a most beautifull youngm<expan type="a+_">an</expan>,
+beloued of <f type="i">Venus<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Adrian Sea(pn)" lexeme="Adriatic Sea(pn)"><f type="i">Adrian, Adriatike Sea. </form><f type="r"><xpln> the gulfe of <f type="i">Venice<f type="r">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aeson(pn)"><f type="i">Aeson</form><f type="r">, <xpln>the father of <f type="i">Iason<f type="r"> made yong
+againe by the skill of <f type="i">Medea<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="etherial(n)"><f type="i">Aetherial,</form> <f type="r"><xpln lexeme="heavenly(a)">heauenly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aesculapius(pn)"><f type="i">Aesculapius</form><f type="r">, <xpln>an excellent Phisition, fa&shy;
+ther of Apollo.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Africa(pn)"><f type="i">Africa</form><f type="r">, <xpln>the South quarter of the
+World</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ajax shield(n)"><f type="i">Aiax Shield</form><f type="r">, <xpln>a prouerb, for a sure de&shy;
+fence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aiguescald(pn)"><f type="i">Aiguescald</form><f type="r">, <xpln>a Bath in Gasconie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alarbies(pn)"  lexeme="Alarbians(pn)"><f type="i">Alarbies, & Alarbians</form><f type="r">, <xpln>wild and vpland
+<f type="i">Arabian<f type="r"> theeues:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Albion(pn)"><f type="i">Albion,</form> <f type="r"><xpln lexeme="England(pn)">England, the Ile of great
+Brittaine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alceste(pn)"><f type="i">Alceste</form><f type="r">, <xpln>the most chaste and louing
+wife of <f type="i">Admetus<f type="r">, that gaue her
+owne life to saue her husbands.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alcides(pn)" lexeme="Hercules(pn)" lexeme="Alcides' spires(n)" lexeme="Hercules' pillars(n)" lexeme="Alcides' grief(n)"><f type="i">Alcides, Hercules: Alcides Spires. Her&shy;
+cules Pillers: Alcides griefe<f type="r"></form>, <xpln lexeme="falling sickness(n)">the
+falling-Sicknes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alemoena(pn)"><f type="i">Alcm&oelig;na</form><f type="r">, <xpln>the mother of <f type="i">Hercules<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alcaron(n)"><f type="i">Alcaron</form><f type="r">, <xpln>the <f type="i">Turkes<f type="r"> Law and Reli&shy;
+gion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aleband(pn)"><f type="i">Aleband</form><f type="r">, <xpln>a Cittie in <f type="i">Caria<f type="r">, of old, fa&shy;
+mous for the best Bow-strings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alecto(pn)"><f type="i">Alecto</form><f type="r"><xpln> one of the <f type="i">Furies<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alexander's altars(pn)"><f type="i">Alexanders Altars</form><f type="r">, <xpln>were at the foote
+of the <f type="i">Ryphian<f type="r"> Mountaines.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="almicantharats(pn)" lexeme="Almadarats(pn)"><f type="i">Almicantharats<f type="r">, and <f type="i">Almadarats</form>,
+<xpln>Arabian<f type="r"> names of <f type="i">Circles<f type="r"> which are
+imagined to passe through euerie
+degree of the <f type="i">Meridian, Paralel<f type="r">
+to the <f type="i">Horizon<f type="r"> vp to the <f type="i">Zenith<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="albidade(n)"><f type="i">Albidade</form><f type="r">, <xpln>a Rule on the backe of
+the <f type="i">Astrelabe<f type="r"> to measure heights,
+breadths and depths.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amafrose(n)"><f type="i">Amafrose, gutta serena</form><f type="r">, <xpln>a disease in the
+sinnewes of the Sight:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Amaelthaean horn(n)"><f type="i">Am&aelig;lth&aelig;an Horne</form><f type="r">, <xpln>plentie of all
+things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amblygone(n)"><f type="i">Amblygone</form><f type="r">, <xpln>a flat Triangle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ambrosia(n)"><f type="i">Ambrosia</form><f type="r">, <xpln>the Gods meate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="America(n)"><f type="i">Americ<expan type="a+_">an</expan></form><f type="r">, <xpln>the French disease brought
+first from the Indies to Naples,
+from thence to France, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amia(n)"><f type="i">Amia,</form> <f type="r"><xpln lexeme="tunny(n)">a fishlike, a Tunnie, found in
+the sea neere Constantinople.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Amphetrite(pn)"><f type="i">Amphetrite</form>, <f type="r"><xpln lexeme="sea(n)">the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amphisbaena(n)"><f type="i">Amphisb&aelig;na</form><f type="r">, <xpln>a Serpent hauing a head
+at both ends.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Amphion(pn)"><f type="i">Amphion</form><f type="r">, <xpln>the author of Harmonie
+and builder of <f type="i">Th&aelig;bes<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Amiclean Harp(n)"><f type="i">Amiclean Harpe,</form> <f type="r"><xpln lexeme="Arion(pn)">Arion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Amyot(pn)"><f type="i">Amyot</form><f type="r">, <xpln>a learned French-man, tran&shy;
+slator of Plutarke, and other
+Greeke Authors.</xpln></wordentry>
+</page>
+
+<page sig="xx2v">
+<wordentry type="h"><form lexeme="Ancossa(pn)"><f type="i">Ancossa</form><f type="r">, <xpln>a Bath in Gasconie:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Andromeda(pn)"><f type="i">Andromeda</form><f type="r">, <xpln>the Wife of Perseus,
+(with her husbande, Father and
+Mother) turned into a Starre:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Androdus(pn)"><f type="i">Androdus</form><f type="r">, <xpln>a Roman slaue grateful&shy;
+ly requighted of a Lyon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anorexia(n)"><f type="i">Anorexia</form><f type="r"><xpln> a queasines of stomach.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Antheus(pn)"><f type="i">Antheus</form><f type="r"><xpln>. Antenors sonne, beloued
+and vnwillingly slaine by <f type="i">Paris<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Marcus Anthony(pn)"><f type="i">M. Anthony</form><f type="r">, <xpln>competitor with Octa&shy;
+uius and Lepidus for the Em&shy;
+pire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antiperistasis(n)"><f type="i">Antiperistasis</form><f type="r">, <xpln>incounter of contraries
+or contrarie circumstance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Antipodes(n)"><f type="i">Antipodes</form><f type="r">, <xpln>those people that dwell
+directly vnder vs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antarctic(n)"><f type="i">Antartike</form>. <f type="r"><xpln lexeme="southern(a)">Southerne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aonian band(n)"><f type="i">Aonian band</form><f type="r">. <xpln lexeme="Muses(pn)"> the Muses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Apelles(pn)"><f type="i">Apelles</form><f type="r"><xpln>. an excellent Painter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apium risus(n)"><f type="i">Apium risus</form><f type="r"><xpln>. a kind of Crow-foot
+that kils men with laughing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Apian way(pn)"><f type="i">Apian way</form><f type="r">, <xpln>one of the brodest wayes
+in Rome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Apollo(pn)"><f type="i">Apollo</form><f type="r">, <xpln>the Sunne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apoplexy(n)"><f type="i">Apoplexie</form><f type="r"><xpln>. a kind of dead palsie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apoge(n)"><f type="i">Apoge</form><f type="r"><xpln>. the point farthest from the
+Center of the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Arabians(n)"><f type="i">Arabians</form><f type="r"><xpln> people of Asia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Arcadian scout(n)"><f type="i">Arcadian-scoute</form><f type="r"><xpln lexeme="Mercury(pn)">. Mercurie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arsenal(n)"><f type="i">Arcenal</form><f type="r"><xpln lexeme="armory(n)" lexeme="storehouse(n)">: an Armorie or stoarehouse</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Archelaus(pn)"><f type="i">Archelaus</form><f type="r"><xpln>: a King much praised by 
+Plutarch and others for wisedome
+and temperance, and for delight
+in husbandrie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Archimedes(pn)"><f type="i">Archimedes</form><f type="r"><xpln> a famous Mathematici&shy;
+an of Syracusa.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Archytas(pn)"><f type="i">Archytas</form><f type="r"><xpln>. a noble philosoper of Ta&shy;
+rentum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Arion(pn)"><f type="i">Arion</form><f type="r"><xpln>. a famous Harper and lyrike
+poet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Arne(pn)"><f type="i">Arne</form><f type="r">, <xpln>a Riuer in Italie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arsensk(n)"><f type="i">Arsensk</form><f type="r"><xpln lexeme="orpine(n)" lexeme="okar(n)">. orpine: supposed Okar.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Artemisia(pn)"><f type="i">Artemisia</form><f type="r">, <xpln>Queene of Caria wife of
+Mausolus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="artemisian stem(n)"><f type="i">Artemisian stem</form><f type="r"><xpln lexeme="mugwort(n)">, mugg-woorte.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Armorik(pn)"><f type="i">Armorik</form><f type="r"><xpln "Brittany(pn)">. Brittaine in France.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="armados(n)"><f type="i">Armados</form><f type="r">, <xpln>Spanish Armies, or great
+shippes of Warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arctic(n)"><f type="i">Artik</form><f type="r"><xpln lexeme="northern(a)">: Northern, or of the North.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aristotle(pn)"><f type="i">Aristotle</form><f type="r"><xpln>. the most famous philoso&shy;
+pher of Stagyra.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Asia(n)"><f type="i">Asia</form><f type="r"><xpln>: a third part of the word in for&shy;
+mer times most famous for lear&shy;
+ning and Religion, but now for
+the most part miserablie yoaked
+vnder the Turkes tirannie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asylum(n)"><f type="i">Asylym</form><f type="r"><xpln lexeme="refuge(n)" lexeme="defence(n)">. a refuge or defence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Assur(pn)"><f type="i">Assur</form><f type="r"><xpln lexeme="Assyria(pn)">: one of the Sonnes of Sem: al&shy;
+so the countrie of Assiria.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Astaroth(pn)"><f type="i">Astaroth</form><f type="r"><xpln>: an Idol of the Philistines</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Astrea(pn)"><f type="i">Astrea</form><f type="r"><xpln lexeme="justice(n)"> Iustice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astrolabe(n)"><f type="i">Astrelabe</form><f type="r"><xpln>. an instrument to gather the
+motion of the Starres.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asthma(n)"><f type="i">Asthma</form><f type="r"><xpln lexeme="shortwindedness(n)">: short&shy;
+windednesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Attalus(pn)"><f type="i">Attalus</form><f type="r"><xpln>: a wealthy King of Perga&shy;
+mus, delighted in the Country&shy;
+life.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Atlantic Sea(n)"><f type="i">Atlantik Sea</form><f type="r"><xpln>: is the Mediterranean,
+or a part thereof.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Atlas(pn)"><f type="i">Atlas</form><f type="r"><xpln>: a King skilfull in Astronomy
+therefore fayned to beare vp
+Heauen. it is also a mountaine in
+Barbarie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Athenian sage(n)"><f type="i">Athenian Sage</form><f type="r"><xpln lexeme="Socrates(pn)">: Socrates.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Attic muse(n)"><f type="i">Attik Muse</form><f type="r"><xpln lexeme="Zenophon(pn)">: Zenophon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="atheist(n)"><f type="i">Atheists</form><f type="r"><xpln lexeme="infidel(n)">: those that acknowledge no
+God, infidels.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aurora(pn)"><f type="i">Aurora</form><f type="r"><xpln lexeme="morning(n)">: the morning.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Auster(pn)"><f type="i">Auster</form><f type="r"><xpln lexeme="south wind(n)">: the South-winde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Avernux(pn)"><f type="i">Auernux</form><f type="r"><xpln lexeme="hell(n)"> Hell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Avicen(pn)"><f type="i">Auicen</form><f type="r"><xpln>: a learned Phylopher and
+phisition borne at Seuil, of Arabi&shy;
+an stocke:	</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aziminth(n)"><f type="i">Aziminths</form><f type="r"><xpln>: great Circles meeting
+in the Zenith or vertical Point. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha><emend err="">B</emend></alpha>
+</page>
+
+<page sig="xx3r">
+<wordentry type="h"><form lexeme="Baltic Ocean(pn)"><f type="i">Baltik Ocean</form><f type="r"><xpln>. the Danish sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Baignere(pn)"><f type="i">Baignere</form><f type="r"><xpln>. a Bath <emend err="iu"><f type="i">in</emend> Gasconye.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bandan(n)"><f type="i">Bandans</form><f type="r"><xpln>. the Ilanders of the Molu&shy;
+ques, rich in excellent spi&shy;
+ces.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bacchanalian frow(n)"><f type="i">Bacchanalian Frowes</form><f type="r"><xpln>. Weomen&shy;
+priests of Bacchus, the God of
+Cups.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bard(n)"><f type="i">Bardes</form><f type="r"><xpln>. ancient Poets & Sages.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Barege(pn)"><f type="i">Barege</form><f type="r">, <xpln>a Bath in Gasconie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bar-greese(n)" lexeme="barnacle(n)"><f type="i">Barr-greese<f type="r"> and Barnacles</form>, <xpln>a kinde of
+foules that grow of rotten Trees
+and broken Ships.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bek(n)"><f type="i">Bek</form><f type="r"><xpln lexeme="bread(n)">. Phrigian woord, signifying
+bread.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Belgian(pn)"><f type="i">Belgian</form><f type="r"><xpln>. of the Nether-lands.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Belgrade(pn)"><f type="i">Belgrad</form><f type="r"><xpln>. a Towne in Hungarie taken
+by the Turke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bellona(pn)"><f type="i">Bellona</form><f type="r"><xpln>. Goddesse of warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Belus son(n)"><f type="i">Belus Sonne</form><f type="r"><xpln lexeme="Ninus(pn)">. Ninus first King of Assi&shy;
+ria, supposed to bee inuentor of
+Nauigation</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bitumen(n)"><f type="i">Bitumen</form><f type="r"><xpln>. a kinde of oylye,
+slimie, gummie, or clammie
+Clay.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Byzantium(pn)"><f type="i">Bizantium</form><f type="r"><xpln lexeme="Constantinople(pn)">. Constantinople.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Brontes(n)"><f type="i">Brontes</form><f type="r"><xpln>. one of Vulcans Forge&shy;
+<emend err="ment">men</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Briareus(pn)"><f type="i">Briareus</form><f type="r">, <xpln>a Giant with 100.hands.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Brutus heirs(n)"><f type="i">Brutus heires</form><f type="r"><xpln lexeme="Englishmen(n)" lexeme="Britan(n)">. Englishmen, Brit&shy;
+tans.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bocconi(n)"><f type="i">Bocconi</form><f type="r"><xpln>. Poisonie confections, Itali<expan type="a+_">an</expan>
+figges.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bonjour(n)"><f type="i">Bon-iours</form><f type="r"><xpln>. Good morrowes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bonaret(n)"><f type="i">Bonarets</form><f type="r"><xpln>. a kind of Beast-plantes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Beotes(pn)"><f type="i">Beotes</form><f type="r"><xpln>. a little starre in the North&shy;
+Pole neere to <f type="i">Vrsa minor<f type="r">. vsed for
+the North.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Boreas(pn)">Boreas</form><f type="r"><xpln lexeme="north-wind(n)">. the North-winde,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bosphorus(pn)"><f type="i">Bosphores</form><f type="r">, <xpln>2 Strayghts, so called
+of an Oxes wading ouer: the
+one sirnamed Thracian, the other
+Cimmerian.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bulimy(n)"><f type="i">Bouliane</form><f type="r"><xpln>. a hungrie, or greedie Dis&shy;
+ease in a cold stomach.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bucephalus(pn)"><f type="i">Bucephalus</form><f type="r"><xpln>. the couragious Horse of
+Alexander the Great.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Busirus(pn)"><f type="i">Busirus</form><f type="r"><xpln>. a most cruel Tyrant of Egipt
+which vsed to sacrifice strangers to
+Iupiter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Busrie(pn)"><f type="i">Busrie</form><f type="r"><xpln>. a learned and eloquent Ger&shy;
+man (of later dayes) Counsailer to
+Cassimirus. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lexeme="cabalistic(n)">CAbalistik</form><f type="r"><xpln> misticall Tradition
+among the Iewes Rabbins.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caesar(n)"><f type="i">C&aelig;sars</form><f type="r"><xpln>. Emperours, so called from C.
+Iulius C&oelig;sar the first Emperour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cadmus(pn)"><f type="i">Cadmus</form><f type="r"><xpln>. sonne of Agenor, who slew
+a serpent and pulling out his teeth
+sowed them in the ground, where&shy;
+of instantly there sprung vp ready
+armed men.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cairo(pn)"><f type="i">Cairo</form><f type="r"><xpln>. a Citty in &AElig;gypt, of old called
+Babilon, and thought one of the
+greatest in the world.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calamary(n)"><f type="i">Calamarie</form><f type="r"><xpln lexeme="sea clerk(n)">. a fish, that may bee well
+called the Sea Clarke, beinge
+furnished with necessaries for a
+scribe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Caellicrates(pn)"><f type="i">C&aelig;llicrates</form><f type="r"><xpln>. an excellent Caruer espe&shy;
+cially in small workes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Calpe(pn)"><f type="i">Calpe</form><f type="r"><xpln lexeme="pillars of Hercules(pn)">, a Mountaine within the
+Straights of Gibaltar iust opposit
+to Abila. these 2. are called the
+Pillers of Hercules.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cannibal(n)"><f type="i">Canibals</form><f type="r">, <xpln>people in the South part of
+America that eate mans-flesh.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Candia(pn)"><f type="i">Candia</form><f type="r"><xpln>. an Iland in the Mediterra&shy;
+nian Sea, subiect to the Veneti<expan type="a+_">an</expan>s.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Canna(pn)"><f type="i">Cana</form><f type="r"><xpln>. a Town in Galile, wher Christ
+(at a mariage) wrought his first
+miracle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cantharus(n)"><f type="i">Cantharus</form><f type="r"><xpln>: a fish of admirable chastity</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Capharean Rock(pn)"><f type="i">Capharean Rock</form><f type="r"><xpln lexeme="Negropont(pn)">, a most dangerous
+and rocky Coast of Eub&oelig;a, now
+called Negropont.</xpln></wordentry>
+</page>
+
+<page sig="xx3v">
+<wordentry type="h"><form lexeme="carpese(n)"><f type="i">Carpese</form><f type="r">, <xpln>a venemous plant, whose
+Iuice causeth deepe sleepe, and so
+strangleth the Patient.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Carinthia(n)"><f type="i">Carinthia</form><f type="r">, <xpln>a Dutchie belonging to
+the Dukes of Austria.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carracks(n)"><f type="i">Carraques</form><f type="r">, <xpln>great Spanish Vessels.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Caligula(pn)"><f type="i">Caligula</form><f type="r">, <xpln>a most wanton and wicked
+Emperour of Rome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cassagale(pn)"><f type="i">Cassagale</form><f type="r"><xpln lexeme="Quinzay(pn)">, the Cittie Quinzay, in the 
+East Indies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cassiopea(pn)"><f type="i">Cassiopea</form><f type="r">, <xpln>Mother of Andromeda.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Castalian(pn)"><f type="i">Castalian</form><f type="r"><xpln> Well, springes, Fount
+Springs at the foote of Parnassus
+sacred to the Muses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cathay(pn)"><f type="i">Cathay</form><f type="r"><xpln lexeme="Cambalu(pn)">, a large Country in East Asia
+fronting on the Sea, now called
+Cambalu.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cataract(n)"><f type="i">Catharact</form><f type="r">, <xpln>a violent fall of any Wa&shy;
+ters, causing deafenesse with the
+noyse. also a disease in the Eye di&shy;
+stilling a tough humour like gelly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Catiline(pn)"><f type="i">Catiline</form><f type="r">, <xpln>a factious Citiz<expan type="e+_">en</expan> of Rome
+famous for his dangerous conspi&shy;
+racy, gainst his Countrie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cato(pn)"><f type="i">Cato</form><f type="r">, <xpln>a reuerent, and a renowned
+Romane both for his temperate
+life, and resolute death.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Caudrets(pn)"><f type="i">Caudrets</form><f type="r"><xpln>. a Bath in Gasconye.
+Caucasus, a verie high Mountaine
+that deuides Sythia from India.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ceres(pn)"><f type="i">Ceres</form><f type="r">, <xpln>Goddesse of Haruest, inuen&shy;
+tresse of Tillage and of the vse of
+Corne, sometimes vsed for the
+Earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cephalus(pn)"><f type="i">Cephalus</form><f type="r">, <xpln>the husband of Procis, the
+minion of Aurora.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="centaur(n)"><f type="i">Centaures</form><f type="r">, <xpln>half men-Horses begot&shy;
+ten by Ixion on a Clowd.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cerastes(n)"><f type="i">Cerastes</form><f type="r">, <xpln>a Serpent of sundrie cul&shy;
+lours, with horns like a Ramme.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cerathus(pn)"><f type="i">Cerathus</form><f type="r"><xpln>. A Riuer in Candie from
+whence comes the best Malmsie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cerbas(n)"><f type="i">Cerbas</form><f type="r">, <xpln>a Tree in the Indies of 15.
+fadome about.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cerberus(pn)"><f type="i">Cerberus</form><f type="r">, <xpln>the three headed dog of
+Hel, the Porter there.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Celtic(pn)"><f type="i">Celtike</form><f type="r">, <xpln>a part of France. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chaos(n)"><f type="i">Chaos</form><f type="r">, <xpln>a confused heape, the matter
+of the world before it receiued
+forme.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Chaldee(pn)"><f type="i">Chalde</form><f type="r">, <xpln>the Country wherein Babi&shy;
+lon stood: where were great A&shy;
+stronomers, Magitians, & South&shy;
+sayers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Martel, Charles(pn)"><f type="i">Charles Martel</form><f type="r">, <xpln>King of Fraunce o&shy;
+uerthrew 400000. Turkes neere
+vnto Tours.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chermiz(n)"><f type="i">Chermiz</form><f type="r">, <xpln>the graine wherwith Skar&shy;
+lat and Crimson are dyed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chymera(n)"><f type="i">Chymeras</form><f type="r">, <xpln>strang Fancies, monstrous
+Imaginations Castles in the Aire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cincinnatus(pn)"><f type="i">Cincinnatus</form><f type="r">, <xpln>one called from the
+Plough (all dustie and almost na&shy;
+ked) to the Roman Dictatorship.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cimmerian(n)"><f type="i">Cimmerians</form><f type="r">, <xpln>People farr North that
+are thought neuer to see the Sun.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="citadel(n)"><f type="i">Cittadel</form><f type="r">, <xpln>a Castle, built, with a small
+Garison to keepe a great Towne
+in awe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cirque(n)"><f type="i">Cirques</form><f type="r">, <xpln>round Lists to behold pub&shy;
+like Races.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Chus(pn)"><f type="i">Chus</form><f type="r"><xpln lexeme="Ethiopia(pn)">: &AElig;thyopia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Clio(pn)"><f type="i">Clio</form><f type="r">, <xpln>one of the Muses, reciting the
+glorious acts of Worthynes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Clitus(pn)"><f type="i">Clitus</form><f type="r">, <xpln>one of Alexanders greatest
+Minions, whom yet in his drunc&shy;
+kennes he slew.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coco(n)"><f type="i">Cocos</form><f type="r">, <xpln>an admirable Nutte brought
+from the Indies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cocytus(pn)"><f type="i">Cocytus</form><f type="r">, <xpln>a Riuer in Hell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Colchos(pn)"><f type="i">Colchos</form><f type="r"><xpln>. Medeas Countrie from
+whence Iason fetcht the Golden
+Fleece.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Codrus(pn)"><f type="i">Codrus</form><f type="r"><xpln>. a King of Athens, that gaue
+his owne life for the safe-guard of
+his Countrie,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colony(n)"><f type="i">Colonies</form><f type="r"><xpln>. numbers of People sent
+to inhabite some new conque&shy;
+</page>
+
+<page sig="xx4r">
+red Countrie. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colure(n)"><f type="i">Colures</form><f type="r"><xpln>. 2 Circles in heauen wherin
+the Sun-stops are caused.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cochenel(n)"><f type="i">Cochenel</form><f type="r"><xpln>. graine wherewith Purple
+is died.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colossus(n)"><f type="i">Colosses</form><f type="r">, <xpln>huge Statues erected in ho&shy;
+nor of any person.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Columbus(pn)"><f type="i">Columbus</form><f type="r"><xpln>. a Genoese, discouerer of
+America for Ferdinando, king of
+Castile,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="comitial(n)"><f type="i">Comitiall</form><f type="r"><xpln lexeme="ill(a)" lexeme="falling sickness(n)"> Ill, the Falling-sickenes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Comodus(pn)"><f type="i">Comodus</form><f type="r"><xpln>. a most vicious Emperour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cone(n)"><f type="i">Cones</form><f type="r"><xpln> geometrical figures broad be&shy;
+neth, and sharpe aboue with a
+Circular bottome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="concentric(n)"><f type="i">Concentrik</form><f type="r"><xpln>. hauing one comm<expan type="o+_">on</expan> Cen&shy;
+ter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Copernicus(pn)"><f type="i">Copernicus</form><f type="r"><xpln> a learned German that
+maintaineth the heauens to stand
+still, and the Earth to turne round
+about.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Corvinus(pn)"><f type="i">Coruinus</form><f type="r">, <xpln>a Roman Orator that after a
+sickenes forgat his owne name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Corfu(pn)"><f type="i">Corfu</form><f type="r">, <xpln>an Iland in the Ionian Sea sub&shy;
+iect to the Venetians</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="critic(n)" lexeme="critical(a)"><f type="i">Critik<f type="r">. and Critical</form>, <xpln>sharpe Censurers
+also dangerous dayes for health
+obserued by Phisitions.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crescent(n)"><f type="i">Crescent</form><f type="r">, <xpln>the Moone increasing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ctesiphon(pn)"><f type="i">Ctesiphon</form><f type="r">, <xpln>the builder of Dianas Tem&shy;
+ple at Ephesus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ctesibes(pn)"><f type="i">Ctesibes</form><f type="r">, <xpln>an excellent inuentor of wa&shy;
+ter Engines.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cube(n)"><f type="i">Cubes</form><f type="r">, <xpln>geometricall figures foure&shy;
+square, like a Die:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cuevio(n)"><f type="i">Cueuio</form><f type="r">, <xpln>a strange bird in new spaine:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cupid(pn)"><f type="i">Cupid</form><f type="r">, <xpln>the bastard of Mars, and Ve&shy;
+nus, the little God of loue,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Curius(pn)"><f type="i">Curius</form><f type="r">, <xpln>a Citizen of Rome, famous
+for frugalitie and temperance,
+who delighted rather to comm<expan type="a+_">an</expan>d
+the rich, then to be rich.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cylinder(n)"><f type="i">Cylinders</form><f type="r"><xpln>. geometrical figures round
+and long, consisting from top
+to toe of a equall paralel-Circles</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cyclops(n)"><f type="i">Cyclops</form><f type="r"><xpln>: Giants with one eye: wor&shy;
+king in the Forge of Vulcan.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cyprus(pn)"><f type="i">Cyprus</form><f type="r">, <xpln>a fruitefull Iland in the Gulfe
+of Issa formerly subiect to the
+Venetians, but nowe vsurped by
+the Turke, anciently consecrated
+to Venus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cynthia(pn)"><f type="i">Cynthia, Diana</form><f type="r"><xpln lexeme="Moon(n)">, the Moone,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cytharea(pn)"><f type="i">Cytharea</form><f type="r"><xpln lexeme="Venus(pn)">. Venus:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cynosure(n)"><f type="i">Cynosure</form><f type="r"><xpln lexeme="North Pole(n)" lexeme="North-star(n)">, 7. starres in the North
+pole, the North Pole, the North&shy;
+starre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cymbrian(n)"><f type="i">Cymbrians</form><f type="r">, <xpln>the people of Denmarke
+and Nor-way.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cyrus(pn)"><f type="i">Cyrus</form><f type="r">, <xpln>the great King of Persia c<expan type="o+_">on</expan>&shy;
+querour of the Medes, and after
+slaine by Tomyris Queene of 
+the Massagets. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lexeme="Damon(pn)"><f type="i">DAmon</form><f type="r">, <xpln>the most faithfull frende
+of Pytheas, both disciples of
+Pythagorus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Danae(pn)"><f type="i">Danae</form><f type="r">, <xpln>daughter of Acrisius, who
+kept her lockt in a brazen Tow&shy;
+er; Iupiter raynd himselfe in a 
+Golden shower into her lap.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Danubius(pn)"><f type="i">Danubius</form><f type="r"><xpln lexeme="Isther(pn)">. the greatest Riuer in Eu&shy;
+rope, called also Isther.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ant, Dardan(n)"><f type="i">Dardane Ants</form><f type="r"><xpln lexeme="emmet, Indian(n)">, Indian Emmets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Darius(pn)"><f type="i">Darius</form><f type="r">, <xpln>a King of Persia, vanquished
+by Alexander the great.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Delian twins(n)"><f type="i">Delian Twinnes</form><f type="r">, <xpln>the Sun and Moone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Delian princess(n)"><f type="i">Delian. Princesse</form><f type="r"><xpln lexeme="Diana(pn)">. Diana.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Delos(n)"><f type="i">Delos</form><f type="r">, <xpln>an Iland, one of the Cyclades.
+which for a long time floated as
+hidden in the Sea, after sou&shy;
+dainly appeared.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Delphian oracle(n)"><f type="i">Delphian Oracle</form><f type="r"><xpln>. the Oracle of A&shy;
+pollo.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Deiphos God(n)"><f type="i">Deiphos God</form><f type="r"><xpln lexeme="Apollo(pn)">. Apollo.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Democritus(pn)"><f type="i">Democritus</form><f type="r">, <xpln>the laughing Philoso&shy;
+pher of Abydus.</xpln></wordentry>
+</page>
+
+<page sig="xx4v">
+<wordentry type="h"><form lexeme="Demosthenes(pn)"><f type="i">Demosthenes</form><f type="r">, <xpln>the best Orator of the
+Grecians.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Denis(pn)" lexeme="Dionysius(pn)"><f type="i">Denis<f type="r">, or Dionisius</form>, <xpln>a Tyrant of Sy&shy;
+racusa.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Deuclaton(pn)"><f type="i">Deucalton</form><f type="r"><xpln>. son of Prometheus, who
+with his wife Pyrrah, escaped the 
+Flood and (as the Poets faine) resto&shy;
+red the world.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diabetes(n)"><f type="i">Diabete</form><f type="r">, <xpln>a disease, when one cannot
+hold his water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diapason(n)"><f type="i">Diapason</form><f type="r">, <xpln>a Concord of all,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diarrhea(n)"><f type="i">Diarrhea</form><f type="r"><xpln> a Laske or loosenes of the
+Bellie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diameter(n)"><f type="i">Diameter</form><f type="r"><xpln>. a line deuiding any figure
+into equall parts, passing through
+the middle pointe of any fi&shy;
+gure.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dialect(n)"><f type="i">Dialect</form><f type="r"><xpln>. a forme of speech diuers fr<expan type="o+_">om</expan> 
+others in any language:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Diana(pn)"><f type="i">Diana</form><f type="r"><xpln lexeme="Moon(pn)">: the Goddesse of virginitie.
+the Moone:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Dircean Wales(n)"><f type="i">Dircean wales</form><f type="r"><xpln lexeme="Thebes(pn)">. Thebes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dysentery(n)"><f type="i">Disenteria</form><f type="r">, <xpln>the bloodie-flixe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dodochaedron(n)"><f type="i">Dodoch&aelig;drons</form><f type="r"><xpln>: figures of 12. An&shy;
+gles</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="druid(n)"><f type="i">Druides</form><f type="r">, <xpln>ancient learned Priests, and
+Sages of France: <emend err="suppposed"><f type="i">supposed</emend>  to 
+haue first issued out of this I&shy;
+land of Brittaine. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+
+<wordentry type="h"><form lexeme="ecliptic line(n)"><f type="i">ECliptik line</form><f type="r">, <xpln>a great Circle in the 
+middle of the Zodiak through
+which the Sunne, runneth his
+proper course in 365 dayes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Egyptian flood(n)"><f type="i">Egiptian flood</form><f type="r"><xpln lexeme="Nile(pn)">: The Riuer Nilus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="electrum(n)"><f type="i">Electrum</form><f type="r"><xpln lexeme="amber(n)">. Amber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Electra(pn)"><f type="i">Electra</form><f type="r"><xpln>. one of the sisters of Phaeton,
+who incessantlie weeping for her
+brothers fall, was turned into a
+Tree that droppeth Amber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elixir(n)"><f type="i">Elixir</form><f type="r"><xpln lexeme="quintessence(n)" lexeme="stone, philosopher's(n)">: An Arabian word signifying,
+Quintessence, the Phylosophers
+stone:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Elisium(pn)"><f type="i">Elisium</form><f type="r"><xpln>: the fayned Paradise of he&shy;
+then Poets:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eldebag(pn)"><f type="i">Eldebag</form><f type="r"><xpln>. a learned Arabian Satyrical
+Poet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="embryon(n)"><f type="i">Embryon</form><f type="r"><xpln>: the Child in the mothers
+Wombe before it haue receiued
+shape:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="encyclopedia(n)"><f type="i">Encyclopedie</form><f type="r"><xpln>. that learning which
+comprehendeth all liberall Scien&shy;
+ces:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Endymion(pn)"><f type="i">Endimion</form><f type="r"><xpln>. a young shepheard the fa&shy;
+uorite of Cinthya:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eugastrimyth(n)"><f type="i">Eugastromith</form><f type="r">, <xpln>one possessed, which
+seemes to speake in his bellie:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="empyema(n)"><f type="i">Empyema</form><f type="r">, <xpln>an impostume in the 
+Breast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Enyon(pn)"><f type="i">Enyon</form><f type="r"><xpln>: the same that Bellona sister
+to Mars: and Goddesse of Bat&shy;
+taile:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enthousiasmos(n)"><f type="i">Enthousiasmos</form><f type="r"><xpln> poeticall furie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aeoan Monark(n)"><f type="i">Eoan Monark</form><f type="r"><xpln lexeme="Alexander the Great(pn)">. Alexander the great.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eolian scout(n)"><f type="i">Eolian scoutes</form><f type="r"><xpln lexeme="wind(n)">, the windes:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ephemerides(n)"><f type="i">Ephemerides</form><f type="r"><xpln lexeme="day book(n)" lexeme="register(n)" lexeme="journal(n)">: Daye bookes, Regi&shy;
+sters. Iournals.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ephesian moan(n)"><f type="i">Ephesian moane</form><f type="r"><xpln>. Heraclitus weeping
+at the worlds miseries.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ephori(n)"><f type="i">Ephori</form><f type="r">, <xpln>a kind of Maiestrats, prote&shy;
+ctors of the people.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epidemic ill(n)"><f type="i">Epidemik illes</form><f type="r">, <xpln>Vniuersall Disea&shy;
+ses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epicycle(n)"><f type="i">Epicycle</form><f type="r">, <xpln>a lesser Circle, whose center
+is in the circumference of a grea&shy;
+ter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Epicurus(pn)"><f type="i">Epicurus</form><f type="r"><xpln>: a Phylosopher that pla&shy;
+ced mans felicitie in the pleasures
+of the Sence, beleeuing no God
+but Fortune.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epilepsis(n)"><f type="i">Epilepsis</form><f type="r"><xpln lexeme="falling sickness(n)">: the Fallinge-sick&shy;
+nesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epithalamy(n)"><f type="i">Epithalamie</form><f type="r"><xpln>: a nuptiall song,</xpln></wordentry>
+</page>
+
+<page sig="xx5r">
+<wordentry type="h"><form lexeme="epitaph(n)"><f type="i">Epitaph</form><f type="r">, <xpln>a funerall song, or an
+Inscription on a Tombe or
+graue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epithet(n)"><f type="i">Epithets</form><f type="r">, <xpln>additions to nownes expres&shy;
+sing some qualitie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epitome(n)"><f type="i">Epitome</form><f type="r"><xpln lexeme="abridgement(n)">. an Abridgment:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Epirus(pn)"><f type="i">Epirus</form><f type="r"><xpln lexeme="Albania(pn)">. a Countrie in Greece (now
+called Albania) famous in
+late times by the Noble ex&shy;
+ploits, of G. Castriot (sir-na&shy;
+med Scanderbeg) against the
+Turke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equinoctial(n)"><f type="i">Equinoctiall</form><f type="r"><xpln>. a Circle in Heauen
+through which when the Sunne
+passeth, the dayes and nights bee
+of equall length.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eroetrian(n)"><f type="i">Er&oelig;trian</form><f type="r"><xpln> soile, medicinable Earth
+brought from Eretria:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Erebus(pn)"><f type="i">Erebus</form><f type="r"><xpln> a Riuer in hell: Hell,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Erithrean deep(n)"><f type="i">Erithrean Deepe</form><f type="r"><xpln lexeme="Red Sea(pn)">, the red Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Erynnis(pn)"><f type="i">Erynnis</form><f type="r">, <xpln>one of the Furies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eridanus(pn)"><f type="i">Eridanus</form><f type="r">, <xpln>a figure in Heauen, the Ri&shy;
+uer Po, in Lumbardie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eurus(pn)"><f type="i">Eurus</form><f type="r"><xpln lexeme="east wind(n)">, the East wind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Euritus(pn)"><f type="i">Euritus</form><f type="r"><xpln>. a narrow Sea, which ebbeth
+and floweth seauentimes in 24.
+howres:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Euphrates(pn)"><f type="i">Euphrates</form><f type="r">, <xpln>a Riuer that runs through
+Babilon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Europe(pn)"><f type="i">Europe</form><f type="r"><xpln lexeme="Christendom(n)">, Christendome, or this
+Westerne Part of the
+world:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eccentric(n)"><f type="i">Excentrik</form><f type="r"><xpln>: that hath his center wholy
+separated from the Center of
+the Earth:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="erysipelas(n)"><f type="i">Erysipiles</form><f type="r"><xpln lexeme="St. Anthony's fire(n)">: hot and red swellings cal&shy;
+led S: Anthonies fier.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Erycina(pn)"><f type="i">Erycina</form><f type="r"><xpln lexeme="Venus(pn)">. Venus: </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+
+<wordentry type="h"><form lexeme="Fabritius(pn)"><f type="i">FAbritius</form><f type="r">, <xpln>a famous Romane, con&shy;
+temner of Riches & in extreme
+pouertie most puissant for vertu&shy;
+ous valour and integritie:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Faustina(pn)"><f type="i">Faustina</form><f type="r"><xpln>. a most lasciuious Em&shy;
+presse, wife to Marcus Aurelius,
+and daughter of Antonius pi&shy;
+us.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Fez(pn)"><f type="i">Fez</form><f type="r"><xpln>. a kingdome in Barbarie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Finland(pn)"><f type="i">Finland</form><f type="r"><xpln>. a Dukedome vnder the king
+of Sweden.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flamine(n)"><f type="i">Flamine</form><f type="r"><xpln>. a Sacrificer or high Priest a&shy;
+mong the Heathen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Flavio(pn)"><f type="i">Flauio</form><f type="r"><xpln>. Melphio a Neapolitan inuen&shy;
+ter of the needle in the Mari&shy;
+ners compasse and the vse there&shy;
+of.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Foix(pn)"><f type="i">Foix</form><f type="r"><xpln>. a Country belonging to 
+Nauarr neere the Pirene Moun&shy;
+taines.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Flora(pn)"><f type="i">Flora</form><f type="r"><xpln>. a faire and rich harlot which
+made the people of Rome her
+Heire, in respect whereof they
+made her Goddesse of Flowers:
+and kept yeerely Feastes in ho&shy;
+nour of her. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+
+<wordentry type="h"><form lexeme="Galen(pn)"><f type="i">GAlen</form><f type="r">, <xpln>a famous Phisition borne
+at Pergamus, whose learned
+works through all ages haue been
+honoured.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ganges(pn)"><f type="i">Ganges</form><f type="r">, <xpln>a great Riuer in India.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gaules(pn)"><f type="i">Gaules</form><f type="r"><xpln lexeme="French-men(n)">, the auntient name of the
+French-men.</xpln></wordentry>
+</page>
+
+<page sig="xx5v">
+<wordentry type="h"><form lexeme="genius(n)"><f type="i">Genius</form><f type="r"><xpln>. a mans spirit, or naturall
+instinct or inclination.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gemonide(pn)" Lexeme="Gemonian(pn)"><f type="i">Gemonide<f type="r">, or <f type="i">Gemonian<f type="r"> Ladders:</form> <xpln>a 
+place in Rome from whence c<expan type="o+_">on</expan>&shy;
+demned persons were throwne
+downe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ghion(pn)"><f type="i">Ghion</form><f type="r">, <xpln>one of the Riuers in Eden.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gnidian idol(n)"><f type="i">Gnidian Idols</form><f type="r"><xpln>. Venus and Cupid (for
+in Gnidos shee was worshipped)</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gonorrhea(n)"><f type="i">Gonorrhea</form><f type="r"><xpln>. a foule and inuoluntarie
+Fluxe of seed, the Running of the
+Reines.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gordian knot(n)"><f type="i">Gordian knott</form><f type="r"><xpln>. a knott thought im&shy;
+possible to be vndone. wherewith
+Gordius, had fastened his Oxe&shy;
+yoake in the Temple of Apollo.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gorgon(n)"><f type="i">Gorgons</form><f type="r">, <xpln>vgly hellish monsters. in
+forme of schaly Dragons with
+crooked teeth, one eye, Iron ta&shy;
+lents, and mightie wings. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+
+<wordentry type="h"><form lexeme="halcyon(n)"><f type="i">Halcyon</form><f type="r">, <xpln>a litle water-bird thought
+to be the kings fisher,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="harpy(n)"><f type="i">Harpies</form><f type="r">, <xpln>rauenous Birdes, with faces
+like weomen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hecatomb(n)"><f type="i">Hecatombes</form><f type="r"><xpln>. Heath<expan type="e+_">en</expan> Sacrifices wher&shy;
+in were offered 100. Beasts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hebe(pn)"><f type="i">Hebe</form><f type="r">, <xpln>Ioues Cup-bearer the God&shy;
+desse of youth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Heber(pn)"><f type="i">Heber</form><f type="r">, <xpln>of whom the Hebrues and
+Hebrue Tongue are so called: the
+great-great-Grand-Chyld of
+Sem, the sonne of Noah.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hecuba(pn)"><f type="i">Hecuba</form><f type="r"><xpln>. the Frantike and disfigured,
+old wythered wife of Priamus
+King of Troy, and here opposed
+to the fresh, young, beautifull
+<f type="i">Helena<f type="r">, the fatall Prize of their
+sonne Paris.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Helicon(pn)"><f type="i">Helicon</form><f type="r"><xpln>. a Mountaine sacred to A&shy;
+pollo and the Muses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Helena(pn)"><f type="i">Helena</form><f type="r">, <xpln>the wanton wife of Mene&shy;
+laus. Cause of the tedious warre
+and finall destruction of Troy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hemisphere(n)"><f type="i">Hemispear</form><f type="r">, <xpln>halfe the compasse of
+Heauen which we behold:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hercules(pn)"><f type="i">Hercules</form><f type="r">, <xpln>the most renownd Monster&shy;
+Tamer of Thebes,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hermes(pn)"><f type="i">Hermes</form><f type="r"><xpln lexeme="Mercury(pn)">. Mercurie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hero(pn)"><f type="i">Hero</form><f type="r">, <xpln>the faire Sestian Nunne, for
+whose sake Leander was drowned
+in Hellespont.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hero(n)"><f type="i">Heroes</form><f type="r">, <xpln>halfe Gods, excellent Men,
+for valour and vertue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Herophilus(pn)"><f type="i">Herophilus</form><f type="r"><xpln>. a verie Auncient Physi&shy;
+tion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Herodotus(pn)"><f type="i">Herodotus</form><f type="r"><xpln> an Eloquent Greeke His&shy;
+toriographer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hesiodus(pn)"><f type="i">Hesiodus</form><f type="r">, <xpln>an ancient Greeke Poet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hesperian plant(n)"><f type="i">Hesperian Plant</form><f type="r">, <xpln>Golden fruit Trees
+garded by a Dragon which was
+slaine by Hercules but here it is
+vsed for the Sugar Cane, a richer
+Plant then those fayned golden
+<emend err="fuites"><f type="i">fruites</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hexameter(n)"><f type="i">Hexameter</form><f type="r">, <xpln>verses of 6 feete.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hiades(pn)"><f type="i">Hiades</form><f type="r">, <xpln>5 starres (some hold 7.) in
+the head of the Bull.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hiero(pn)"><f type="i">Hiero</form><f type="r"><xpln>. A King of Cicilia (after A&shy;
+gathocles) greatly delighted in
+Husbandrie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hieroglyphics(n)"><f type="i">Hieroglyphikes</form><f type="r">, <xpln>secret Cyphers, strang
+Caracters, mysticall wrighting by
+sundrie formes of things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hiram(pn)"><f type="i">Hiram</form><f type="r">, <xpln>King of Tyrus, remembred
+in the Scripture for sending Tim&shy;
+ber and workemen to Salomon,
+to the building of the Temple in
+Ieusalem.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Homer(pn)"><f type="i">Homer</form><f type="r">, <xpln>for called for his blindnes, the
+most excellent of all the Greeke
+Poets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horizon(n)"><f type="i">Horizon</form><f type="r">, <xpln>a Circle deuiding the half&shy;
+spheare of the firmament ouer
+vs, from the other halfe vnder vs,
+</page>
+
+<page sig="xx6r">
+which we see not.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hun furious(n)"><f type="i">Hun<f type="r"> furious</form> <xpln lexeme="Attila(pn)">, Attyla who sir-named
+himselfe the skourge of God, and
+Terror of the World.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hyantian fount(n)"><f type="i">Hyantian Fount</form><f type="r">, <xpln>Springs sacred to the
+Muses:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hydrantic(n)" lexeme="hydraulic(a)"><f type="i">Hydrantik<f type="r">, or <f type="i">Hydraulik<f type="r">. </form> <xpln>braule, Mu&shy;
+sike artificially made with the fall
+of waters,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hyana(n)"><f type="i">Hyana</form><f type="r">, <xpln>a horrible Beast that coun&shy;
+terfaiteth mans voice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hydrargyrum(n)"><f type="i">Hydrargire</form><f type="r"><xpln lexeme="quicksilver(n)">. quicke siluer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hydra(pn)"><f type="i">Hydra</form><f type="r">, <xpln>a Serpent with 50. heads,
+slaine by Hercules.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hybla(pn)" lexeme="Hymetas(pn)"><f type="i">Hybla<f type="r">, and
+<f type="i">Hymetas<f type="r">,</form>
+<xpln>Mountains abounding
+in bees and honnie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hymen(pn)"><f type="i">Hymen</form><f type="r">, <xpln>the God of Mariage.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hyperborean(n)"><f type="i">Hyper-borean</form><f type="r">, <xpln>aboue or beyond the
+blowing of the North wind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hyppocrates(pn)"><f type="i">Hyppocrates</form><f type="r">, <xpln>a most excellent Physi&shy;
+tion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hyppolitus(pn)"><f type="i">Hyppolitus</form><f type="r"><xpln>. the sonne of Theseus,
+who shunning the wanton intice&shy;
+ments of his stepdame Ph&oelig;dra,
+was through her false accusati&shy;
+<emend err="tions"><f type="i">ons</emend> torne in peeces.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hyren(pn)"><f type="i">Hyren</form><f type="r">, <xpln>a faire Greeke Mayden Cap&shy;
+tiue, on whom Mahomet the 2.
+extreamely doated. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lexeme="Janus(pn)"><f type="i">IAnus</form><f type="r">, <xpln>an ancient King of Italie,
+whom in respect of his wise&shy;
+dom & prouid<expan type="e+_">en</expan>ce they figured
+with 2. faces, as looking backe
+into thing past, and foreseeing
+things to come.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jaffa(pn)"><f type="i">Iaffa<f type="r">, (anciently <f type="i">Ioppa<f type="r">) </form> <xpln>a notable
+Hauen-Towne in Siria, where
+they land that Trauaile to Ierusa&shy;
+lem,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Japetus(pn)"><f type="i">Iapetus</form><f type="r"><xpln>. a Thesalian, more famous
+by the 2. sonnes Prometheus, and
+Epimetheus, then for any great
+worth of his owne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jason(pn)"><f type="i">Iason</form><f type="r"><xpln>. Captaine of the Argonautes,
+by the fauour of Medea, surmoun&shy;
+ting all dangers brought home
+the golden Fleece.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ibis(n)"><f type="i">Ibis</form><f type="r">, <xpln>a certaine high Bird, with a long
+Bill and stiffe legs, worshipped by
+the olde Egyptians.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ibnu-farid(pn)"><f type="i">Ibnu-farid</form><f type="r">, <xpln>a learned Arabian, not
+much knowne in these
+parts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Iberian(n)"><f type="i">Iberians</form><f type="r"><xpln lexeme="Spaniard(n)">. Spaniards.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Icarus(pn)"><f type="i">Icarus</form><f type="r"><xpln>. the sonne of Dedalus, who
+presuming to flye, was drowned
+in that Sea, which after bore his
+name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ichneumon(n)"><f type="i">Ichneumon</form><f type="r"><xpln lexeme="Pharoah's rat(n)">. Pharoas Ratte a little
+Beast enemie to the Croco&shy;
+dile.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Idalian fire(n)"><f type="i">Idalian Fire</form><f type="r"><xpln> the burning heate of
+loues desire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idea(n)"><f type="i">Idea</form><f type="r"><xpln>. an Image or Patterne of
+things conceiued in the Fan&shy;
+cie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idioma(n)"><f type="i">Idioma</form><f type="r"><xpln>. a proper and peculiar forme
+of speech.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Iossean harp(n)"><f type="i">Iossean Harpe</form><f type="r">, <xpln>the holy musike of
+Dauid the Sonne Ishai, common&shy;
+ly called Iesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Iliaca passio(n)"><f type="i">Iliaca passio</form><f type="r">, <xpln>a kinde of Col&shy;
+licke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Illium(pn)" Lexeme="Ilion(pn)"><f type="i">Illium<f type="r">, and Ilion.</form> <xpln lexeme="Troy(pn)"> Troye.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Imaus(pn)"><f type="i">Imaus</form><f type="r"><xpln>. a Hill in India part of Cau&shy;
+casus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maid, impartial(n)"><f type="i">Im-Partiall maydes</form><f type="r"><xpln>. the Fatall sis&shy;
+ters.</xpln></wordentry>
+</page>
+
+<page sig="xx6v">
+<wordentry type="h"><form lexeme="Isle of Iron(pn)" Lexeme="Isola de Ferro(pn)"><f type="i">Ile<f type="r"> of Iron, or <f type="i">Isola de Ferro</form><f type="r"><xpln lexeme="Canaries(pn)">, one of
+the fortunate Ilands nowe called
+Canaries.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incubus(n)"><f type="i">Incubus</form><f type="r"><xpln lexeme="nightmare(n)">, a disease oppressing the sto&shy;
+mach in our sleepe, which the ig&shy;
+nor<expan type="a+_">an</expan>t haue thought to <emend err="a be"><f type="i">be a</emend> spright
+it is commonly called the Night&shy;
+Mare.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="individuum(n)"><f type="i">Indiuiduum</form><f type="r">, <xpln>a body that canot be de&shy;
+uided.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jove's bird(n)"><f type="i">Ioues Bird</form><f type="r"><xpln lexeme="eagle(n)">, the &AElig;gle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Iris-bow(n)"><f type="i">Iris-bow</form><f type="r"><xpln lexeme="rainbow(n)"> the Rain bow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Juno's bird(n)"><f type="i">Iunos bird</form><f type="r"><xpln lexeme="peacock(n)"> the Pea-cocke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Islebam glory(pn)"><f type="i">Isleban glorie</form><f type="r"><xpln lexeme="Luther, Martin(pn)"> of Wittingberg Mar&shy;
+tine Luther.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="isthmus(n)"><f type="i">Isthmus</form><f type="r">, <xpln>a narrow-straite of land be&shy;
+tweene 2. Seas.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Isther(n)"><f type="i">Isther</form><f type="r"><xpln lexeme="Danubius(pn)">, Danubius.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ithacan(n)"><f type="i">Ithacan</form><f type="r"><xpln lexeme="Ulysses(pn)">, Vlisses the prudent hus&shy;
+band of the most Chaste Pene&shy;
+lope.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jupiter(pn)"><f type="i">Iupiter</form><f type="r">, <xpln>the cheefe God of the Pa&shy;
+gans.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jubilee(n)"><f type="i">Iubile</form><f type="r">, <xpln>a yeare of libertie and release
+which was euerie fiftieth
+yeare.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Justinian(pn)"><f type="i">Iustinian</form><f type="r">, <xpln>a learned Emperour,
+Compiler of the Ciuill lawes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Juturna(pn)"><f type="i">Iuturna</form><f type="r"><xpln>. the North part of Scotland
+towards the Orcades,</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+
+<wordentry type="h"><form lexeme="karos(n)"><f type="i">KAros</form><f type="r">, <xpln>a drouzie, and stupefying
+disease in the head,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Kennet(pn)"><f type="i">Kennet</form><f type="r">, <xpln>a pleasant Riuer running
+through Barkshire neer vnto whole
+flowerie bankes our callow Cig&shy;
+nets had their nest. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<wordentry type="h"><form lexeme="Lacedemon(n)" lexeme="Sparta(pn)"><f type="i">LAcedemon<f type="r"> (called also Sparta)</form> <xpln> a
+Cittie and a Common-wealth.
+most famous and flowrishing vn&shy;
+der the Lawes of Lycurgus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Laconia(pn)"><f type="i">Laconia</form><f type="r"><xpln>. the Country where that
+Cittie stood,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lachesis(pn)"><f type="i">Lachesis</form><f type="r">, <xpln>one of the Fates.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Leda(pn)"><f type="i">L&aelig;da</form><f type="r">, <xpln>the wife of Tyndarus, who by
+the helpe of Iupiters Swan laide
+2. egges, whereof were hatched
+double Twinnes, of the one Pollux
+and Helena, of the other Castor &
+Clytemnestra,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Latmos(pn)"><f type="i">Latmos</form><f type="r">, <xpln>a Hil in Ionia, where Cynthia
+is sayd to haue imbraced her deere
+Endimion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Latona(pn)"><f type="i">Latona</form><f type="r">, <xpln>the Mother of Diana and
+Apollo,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Latonian(n)"><f type="i">Latonian<f type="r"> Twinnes,</form> <xpln>those Children
+of hers, the Sun and Moone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lais(pn)"><f type="i">Lais</form><f type="r">, <xpln>a beautifull and costly Harlot
+of Corynth, frequented by ma&shy;
+ny gallants of Greece.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lee(pn)"><f type="i">Lee</form><f type="r">, <xpln>a neate little Towne in Es&shy;
+sex in the mouth of the
+Thames.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Leander(pn)"><f type="i">Leander</form><f type="r">, <xpln>a younge man of Aby&shy;
+dus beloued of Hero, drowned in
+Hellespont while he was swim&shy;
+ming to her.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lers(pn)"><f type="i">Lers</form><f type="r">, <xpln>a riuer in France of most strang
+qualitie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lethe(pn)"><f type="i">Lethe</form><f type="r">, <xpln>a Riuer in Hell, which causeth
+forgetfulnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lethargy(n)"><f type="i">Lethargy</form><f type="r">, <xpln>the sleepie disease.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lestrigon(n)"><f type="i">Lestrigons</form><f type="r">, <xpln>a cruel people of Campa&shy;
+nia in Italy, which were said to feed
+on Mans Flesh.</xpln></wordentry>
+</page>
+
+<page sig="xx7r">
+<wordentry type="h"><form lexeme="Lyguria(pn)"><f type="i">Lyguria</form><f type="r"><xpln>. the Territorie of
+Genoa.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Licurgus(pn)"><f type="i">Licurgus</form><f type="r">, <xpln>the famous Lawe-Maker
+of the Laced&aelig;monians:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lemnos(pn)"><f type="i">Lemnos</form><f type="r"><xpln lexeme="Stalimene(pn)">. Vulcans Iland, Nowe called
+Stalimene.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Limbo(n)"><f type="i">Limbo</form><f type="r"><xpln lexeme="hell(n)">. Hell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Linus(pn)"><f type="i">Linus</form><f type="r"><xpln>. an excellent ancient Musitian,
+maister of Orpheus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lynx(n)"><f type="i">Linx</form><f type="r"><xpln>. a beast of exceeding quicke
+and piercing sight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Leucippus(pn)"><f type="i">Leucippus</form><f type="r"><xpln>. a Philosopher that imagi&shy;
+ned infinite worlds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Leucothoe(pn)"><f type="i">Leucothoe</form><f type="r"><xpln>. a Sea-Goddesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="liquor-god(n)"><f type="i">Liquor-God</form><f type="r"><xpln lexeme="Bacchus(pn)">: Bacchus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lopez(pn)"><f type="i">Lopez</form><f type="r"><xpln>. a late Iew-spanish Phisitian,
+executed for infinite Treasons a&shy;
+gainst this State.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lotos(n)"><f type="i">Lotos</form><f type="r"><xpln>. an admirable plant, strangely
+sympathizing with the
+Sunne:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lucania(pn)"><f type="i">Lucania</form><f type="r"><xpln lexeme="Basilicata(pn)">. a prouince of Italie, now
+called Basilicata.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lucina(pn)"><f type="i">Lucina</form><f type="r"><xpln lexeme="Juno(pn)" lexeme="Diana(pn)">. Iuno, and Diana, supposed
+of old to bee assistant to women
+in their trauell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lucretia(pn)"><f type="i">Lucretia</form><f type="r"><xpln>. the chast wife of Collati&shy;
+nus, rauished by Tarquin.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lucretius(pn)"><f type="i">Lucretius</form><f type="r"><xpln>. a verie auncient Latine
+Poet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Luna(pn)"><f type="i">Luna</form><f type="r"><xpln lexeme="Moon(pn)">. the Moone,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lupercales(n)"><f type="i">Lupercales</form><f type="r"><xpln>. Sacrifices and Feasts so&shy;
+lemnized to Pan.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lyceum(pn)"><f type="i">Lyceum</form><f type="r"><xpln>. the Skoole of Aristo&shy;
+tle. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lexeme="Madera(pn)"><f type="i">MAdera</form><f type="r"><xpln>. one of the Canaries
+from whence come excellent
+Sugers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Malta(pn)"><f type="i">Malta</form><f type="r"><xpln>. <emend err="and"><f type="i">an</emend> Ilande in the Medi&shy;
+terranean Sea, where
+the Knightes (that were)
+of Rhodes. now keepe their resi&shy;
+dence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="manie(n)"><f type="i">Manie</form><f type="r"><xpln>. a disease in the head causing
+madnes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Martian-field(pn)"><f type="i">Martian-field</form><f type="r"><xpln>. a fielde betweene Ty&shy;
+ber, and the Cittie of Rome
+where they vsed to behoulde
+the fight of the condem&shy;
+ned men with wilde
+Beasts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mars(pn)"><f type="i">Mars</form><f type="r"><xpln>. the God of warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mark Pole(pn)"><f type="i">Mark Pole</form><f type="r">, <xpln>a notable Venetian Na&shy;
+uigator and Discouerer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maize(n)"><f type="i">Maiz</form><f type="r"><xpln lexeme="wheat, Indian(n)">. Indian wheat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mausole(n)"><f type="i">Mausole</form><f type="r"><xpln>. a sumtuous Tombe built
+by Artemisia Queene of Ca&shy;
+ria, for her husbande Mauso&shy;
+lus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Marcellus(pn)"><f type="i">Marcellus</form><f type="r"><xpln>. A most noble Roman
+Captaine, Conquerour of
+Syracusa, and fiue-times
+Consul.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mahomite(pn)"><f type="i">Mahomite</form><f type="r"><xpln>. the Turkish Empe&shy;
+rour, worshippinge Maho&shy;
+met.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mantuan muse(n)"><f type="i">Mantuan muse</form><f type="r"><xpln lexeme="Virgil(pn)">. the poet Virgil.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="massacre(n)"><f type="i">Massacres</form><f type="r"><xpln>. horrible murders</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Medea(pn)"><f type="i">Medea</form><f type="r"><xpln>. a sorceresse, or (as 
+some call them) a cunning&shy;
+woman.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meander(n)"><f type="i">Meanders</form><f type="r"><xpln lexeme="Meander(pn)">. crooked turnings, so cal&shy;
+led of the Riuer <f type="i">Meander<f type="r"> for his
+exceeding crookednes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Medici(pn)"><f type="i">Medices</form><f type="r"><xpln>. the late Queene mo&shy;
+ther of France, being of the house
+of Florence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Medusa's tress(n)"><f type="i">Medusas-Tresse</form><f type="r"><xpln>. a head with snakelike
+haires, turning the beholders into
+stones.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Maine(n)"><f type="i">Mein</form><f type="r"><xpln> a Riuer in Germany,
+whereon standes Frank&shy;
+fort the famous Mart of the
+World.</xpln></wordentry>
+</page>
+
+<page sig="xx7v">
+<wordentry type="h"><form lexeme="Meonian bard(n)"><f type="i">Meonian Bard</form><f type="r"><xpln lexeme="Homer(pn)">. Homer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mecaenas(pn)"><f type="i">Mec&aelig;nas</form><f type="r">, <xpln>a noble Romane, and libe&shy;
+rall fauourer of Virgil.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Megera(pn)"><f type="i">Megera</form><f type="r">, <xpln>one of the Furies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="melt(n)"><f type="i">Melt</form><f type="r"><xpln>. an admirable Tree In <f type="i">Mexico<f type="r">
+a mightie kingdome of <f type="i">Ame&shy;
+rica<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Memphian(n)" lexeme="Memphite(n)" lexeme="Memphist(n)" lexeme="Memphitist(n)"><f type="i">Memphians
+Memphites
+Memphists
+Memphitists</form>
+<f type="r"><xpln lexeme="Egyptian(n)">Egyptians.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mercury(pn)"><f type="i">Mercurie</form><f type="r">, <xpln>one of the Planets, the
+God of wit, eloquence, inuention,
+and subtiltie, and the messenger
+of the Gods.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mercurial(n)"><f type="i">Mercuriall</form><f type="r">, <xpln>as it were a Chancerie,
+controuling & reuoking false iudg&shy;
+ments of inferiour Courts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Meridian(n)"><f type="i">Meridian</form><f type="r">, <xpln>the south Circle,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metaphoras(n)"><f type="i">Metaphoras</form><f type="r">, <xpln>borrowed speeches:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metempsychosis(n)"><f type="i">Metempsychosis</form><f type="r">, <xpln>transmigration of
+soules from one body to another:
+after <f type="i">Pythagoras<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Milo(pn)"><f type="i">Milo</form><f type="r">, <xpln>a man of prodigious strength
+that carried a Bull on his backe,
+killed him with his fist, and eate him
+vp in one day.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mince(pn)"><f type="i">Mince</form><f type="r">, <xpln>a Riuer neere <f type="i">Mantua<f type="r">, where
+Virgil was borne,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Minerva(pn)"><f type="i">Minerua</form><f type="r"><xpln lexeme="Pallas(pn)">, the same that Pallas: God&shy;
+desse of witte and warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moly(n)"><f type="i">Moly</form><f type="r">, <xpln>an herbe brought from hea&shy;
+uen by <f type="i">Mercurie<f type="r"> to Vlisses, suppo&shy;
+sed to be our Rue or herbe-grace.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Moloch(pn)"><f type="i">Moloch</form><f type="r">, <xpln>the Idole of the Ammonits.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Moluques(pn)"><f type="i">Moluques</form><f type="r">, <xpln>rich Ilands in the East In&shy;
+dies plentifull in all kinde of ex&shy;
+cellent Spices, and other Trea&shy;
+sures.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Moor(n)"><f type="i">Moores</form><f type="r">, <xpln>the people of, <f type="i">Ethyopia<f type="r">, sub&shy;
+iects of <f type="i">Prester Iohn<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Morpheus(pn)"><f type="i">Morpheus</form><f type="r">, <xpln>the God of Dreames.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mummy(n)"><f type="i">Mummie</form><f type="r">, <xpln>a drugge, taken for part of
+ancient imbalmed bodies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="musculus(n)"><f type="i">Musculus</form><f type="r">, <xpln>a little Fish most officious
+to the whale.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="musulman(n)"><f type="i">Musulmans</form>, <xpln lexeme="Arabian(pn)"> Arabians.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mycaena(pn)"><f type="i">Myc&aelig;na</form><f type="r">, <xpln>Agamemnons kinge&shy;
+dome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mydas(pn)"><f type="i">Mydas</form><f type="r">, <xpln>a wealthie king of <f type="i">Phrigia<f type="r">,
+whose touch (by the graunt of
+Bacchus) turned all thinges into
+Gold. so that at last his Gold tur&shy;
+ned meate in his mouth choaked
+him,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Myrmecides(pn)"><f type="i">Myrmecides</form><f type="r">, <xpln>a cunning and curious
+Caruer in small workes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Myron(pn)"><f type="i">Myron</form><f type="r">, <xpln>an excellent statuarie, or I&shy;
+mage maker. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+
+<wordentry type="h"><form lexeme="nacre(n)"><f type="i">NAcre</form><f type="r"><xpln lexeme="pearl-shell(n)" lexeme="mother-of-pearl(n)">, the Pearle-shell, or mo&shy;
+ther of Pearle. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nadir(n)"><f type="i">Nadir</form><f type="r">, <xpln>the point directly vnder vs,
+iust opposit to the Zenith or point
+verticall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Natolia(n)"><f type="i">Natolia</form><f type="r"><xpln lexeme="Asia Minor(pn)">, Asia minor, now wholy vn&shy;
+der the <f type="i">Turke<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nectar(n)"><f type="i">Nectar</form><f type="r">, <xpln>the drinke of the Gods.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Neptune(pn)"><f type="i">Neptune</form><f type="r"><xpln lexeme="sea(n)">, the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nephellan(n)"><f type="i">Nephellan</form><f type="r"><xpln lexeme="crook horn(n)" lexeme="Aries(pn)"> Crook horne, the Signe
+Aries.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nepenthe(n)"><f type="i">Nepenthe</form><f type="r">, <xpln>an herbe which being stee&shy;
+ped in wine, is thought to expell
+sadnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nereus(n)"><f type="i">Nereus</form><f type="r"><xpln lexeme="sea(n)">, the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nero(pn)"><f type="i">Nero</form><f type="r">, <xpln>a most cruell Emperour of
+Rome, the monster of nature, and
+shame of mankinde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nestor(pn)"><f type="i">Nestor</form><f type="r">, <xpln>a wise and eloquent Greeke,
+who being nigh 300. yeeres olde
+came to the siege of Troy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nile(pn)" lexeme="Nilus(pn)"><f type="i">Nile<f type="r">, and N<f type="i">ilus<f type="r"></form>, <xpln>the famous Riuer of
+Egipt, vsed often for Egypt it
+selfe,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nimrod(pn)"><f type="i">Nimrod</form><f type="r">, <xpln>the builder of Babel, the first
+ambitious vsurper of soueraintie.</xpln></wordentry>
+</page>
+
+<page sig="xx8r">
+<wordentry type="h"><form lexeme="Niphates(pn)"><f type="i">Niphates</form><f type="r">, <xpln>a mountaine from whence
+the Riuer Tigris hath his
+source.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nitre(n)"><f type="i">Nitre</form><f type="r"><xpln lexeme="saltpetre(n)">, a light, white, spongie mat&shy;
+ter, much like salt, which some haue
+(falsely) thought to bee salte&shy;
+peter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nuremberg(pn)">Noremberg</form><f type="r">, <xpln>a citty in Germany, espe&shy;
+cially famous for curious handy&shy;
+crafts,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nubian(pn)"><f type="i">Nubian</form><f type="r">, <xpln>of a kingdome fronting on 
+the South of Egypt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Numidian(pn)"><f type="i">Numidian</form><f type="r">, <xpln>people of a part of Afri&shy;
+ca, accustomed to liue continually
+in the fieldes with their flockes, &
+Heards, remoouing often for fresh
+pastures. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lexeme="obsequies(n)"><f type="i">OBsequies</form><f type="r">, <xpln>funeral ceremonies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ocean(n)" lexeme="oceanus(n)"><f type="i">Ocean<f type="r">, and <f type="i">Oceanus</form><f type="r">, <xpln lexeme="sea(n)">the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Oedipus(pn)"><f type="i">Oedipus</form><f type="r">, <xpln>a Riddle Reader of Thebes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oedem(n)"><f type="i">Oedems</form><f type="r">, <xpln>thinne, waterish, and flegma&shy;
+tik swellings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Olympius(pn)"><f type="i">Olympius</form><f type="r">, <xpln>an Arrian Bishop, stroke
+dead with Lightning, for blasphe&shy;
+ming the Deitie of Christ.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Olympus(pn)"><f type="i">Olympus</form><f type="r">, <xpln>a verie high hill fronting on
+Macedonia: it is often vsed for
+Heauen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ophthalmy(n)"><f type="i">Ophthalmy</form><f type="r">, <xpln>a disease in the Eye,
+through inflamation of the vtter&shy;
+most tunicle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="optic sinew(n)"><f type="i">Optik sinnew</form><f type="r">, <xpln>is that which bringeth
+sight vnto the Eye.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orgy(n)"><f type="i">Orgies</form><f type="r">, <xpln>Sacrifices to Bacchus,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oracle(n)"><f type="i">Oracles</form><f type="r">, <xpln>Misteries of the heathen
+Gods, deliuered by diuers means,
+and in diers manner.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Orion(pn)"><f type="i">Orion</form><f type="r">, <xpln>a tempest-boading star</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Orpheus(pn)"><f type="i">Orpheus</form><f type="r">, <xpln>an excellent Poet and Mu&shy;
+sitian of Thrace.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Oromene(pn)"><f type="i">Oromene</form><f type="r"><xpln>. a Mountaine in India ful of
+Salt-quarres.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ortygian Delos(pn)"><f type="i">Ortygian Delos</form><f type="r">, <xpln>a floating Iland where
+<f type="i">Diana<f type="r">, and <f type="i">Apollo<f type="r"> were
+borne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Orithias love(n)"><f type="i">Orithias<f type="r"> loue.</form> <xpln lexeme="Boreas(pn)" lexeme="north-wind(n)">Boreas, the North&shy;
+winde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ottoman(pn)"><f type="i">Ottoman</form><f type="r">, <xpln>the first Emperour of
+Turkes,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ovid's heirs(n)"><f type="i">Ouids<f type="r"> heires.</form> <xpln>Wanton poets,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oxygon(n)"><f type="i">Oxygone</form><f type="r">, <xpln>a sharpe-Trian&shy;
+gle. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lexeme="Pactolus(pn)"><f type="i">PActolus</form><f type="r">, <xpln>a riuer in <f type="i">Lydia<f type="r">, which (af&shy;
+ter the washinge of Kinge <f type="i">Mi&shy;
+das<f type="r">) is sayde to haue Golden
+sands.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pallas(pn)"><f type="i">Pallas</form><f type="r">, <xpln>the Goddesse of Arts and
+Wisedome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Palaemon(pn)"><f type="i">Pal&aelig;mon</form><f type="r">, <xpln>a Sea God, called also
+<f type="i">Melicertes<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Palaestine(pn)"><f type="i">Pal&aelig;stine,</form><f type="r"> <xpln lexeme="Judea(pn)" lexeme="Holy Land(n)" lexeme="Canaan(pn)">Iudea, the holy land, first
+called <f type="i">Canaan<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pan(n)"><f type="i">Pan</form><f type="r">, <xpln>the God of Shepherds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pandect(n)"><f type="i">Pandects</form><f type="r">, <xpln>Bookes treatinge of 
+all manner of Argu&shy;
+mentes:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Panchayan fume(n)"><f type="i">Panchayan Fumes</form>, <f type="r"><xpln lexeme="incense(n)">Incense.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pannonia(pn)"><f type="i">Pannonia</form><f type="r">, <xpln>Hungarie and Aust&shy;
+ria.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Panope(pn)"><f type="i">Panope</form><f type="r">, <xpln>a Sea-Nymph.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pandora(pn)"><f type="i">Pandora</form><f type="r">, <xpln>fayned (by Hesiodus) to be
+the first woman, and made by
+Vulcan: indued by all the Gods
+with euerall excellent guifts, but
+afterward by Iupiter (in his dis&shy;
+pleasure) sent to her spouse Epime&shy;
+theus, with a Box full of all man&shy;
+ner of miseries:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Paphos' archer(n)"><f type="i">Paphos Archer</form>, <xpln lexeme="Cupid(pn)">Cupid<f type="r">, the little God
+of loue,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Paphian fire(n)" lexeme="Paphian shot(n)"><f type="i">Paphian<f type="r">, Fier
+or shott</form> <xpln> his Arrowes:
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Parrhasius(pn)"><f type="i">Parrhasius</form><f type="r">, <xpln>a most excellent painter
+of Ephesus.</xpln></wordentry>
+</page>
+
+<page sig="xx8v">
+<wordentry type="h"><form lexeme="Parthian(n)"><f type="i">Parthians</form><f type="r"><xpln>: a people of Asia, excel&shy;
+len Archers and notorious eni&shy;
+mies to the Romans.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Parcos(pn)"><f type="i">Paros</form><f type="r"><xpln>: an Iland in the Archipelago
+(which deuideth Europe & Asia)
+wherein is excellent white Marble
+or Alablaster.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Parcas(n)"><f type="i">Parcas</form><f type="r"><xpln lexeme="Fates(n)" lexeme="Destinies(n)">: the Fates or Destinies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parallel(n)"><f type="i">Paralels</form><f type="r"><xpln>: lines euerie where like di&shy;
+stant</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paradox(n)"><f type="i">Paradox</form><f type="r"><xpln>: an argument maintained,
+contrarie to the common and re&shy;
+ceiued opinion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pegasus(pn)"><f type="i">Pegasus</form><f type="r"><xpln lexeme="Hyppocrene(pn)">: the flying Horse of Bellero&shy;
+phon, which strayning to fly vp to 
+heauen, with his hoofe rased the
+top o' Helicon, whence immedi&shy;
+atly gushed out a spring which
+therefore is <emend err="call"><f type="i">called</emend> Hyppocrene.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Penelope(pn)"><f type="i">Penelope</form><f type="r"><xpln>: the most chast wife of the
+wandring Prince, Vlisses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Peneian Vale(n)"><f type="i">Peneian Vale</form><f type="r"><xpln lexeme="Tempe(pn)">: is Tempe a most
+pleasant valley in Thessalie on
+the verge of the Riuer Pene&shy;
+us:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Panthea(n)" lexeme="Pentheus(pn)"><f type="i">Panthea<f type="r">: (read <f type="i">Pentheus<f type="r">) </form> <xpln>a younge
+prince who for contemning the
+drunken feasts of Bacchus, was
+by his own mother (<f type="i">Agaue<f type="r">) mur&shy;
+dered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="peripneumonia(n)"><f type="i">Peripneumonie</form><f type="r">: <xpln>the Impostume of
+the Lungs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perige(n)"><f type="i">Perige</form><f type="r">: <xpln>that point of Heauen wherin
+the Sun (or other planet) is nee&shy;
+rest to the center of the Earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Persiphone(pn)" lexeme="Proserpine(pn)"><f type="i">Persiphone<f type="r">. or Proserpine:</form> <xpln>the Queen
+of Hell and horror.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Perseus(pn)"><f type="i">Perseus</form><f type="r"><xpln>: a most tryumphant Cham&shy;
+pion that reskude Andromeda
+from the Sea-monster: who for
+his prowesse is both by poets and
+Astronomers magnified as a 
+God and placed amonge the
+Starres.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Parnassus(pn)"><f type="i">Pernassus</form><f type="r"><xpln>: the mountaine of the Mu&shy;
+ses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Persian Monarch(n)"><f type="i">Persian Monarke<f type="r"> with the hea&shy;
+uen of glasse</form> <xpln lexeme="Sapores(pn)">, was Sapores.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Peru(pn)"><f type="i">Peru</form><f type="r">, <xpln>one of the largest and richest
+parts of America.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phaeton(pn)"><f type="i">Phaeton</form><f type="r">, <xpln>the Sunne of Ph&oelig;bus, who
+presuming to guide his fathers
+Chariot, set the word on fire, and
+fell himselfe headlong into the
+Riuer Eridanus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phoebus(pn)"><f type="i">Ph&oelig;bus</form><f type="r"><xpln lexeme="sun(n)"> the Sunne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phalaris(pn)"><f type="i">Phalaris</form><f type="r"><xpln>. a most cruell Tirant of A&shy;
+grigen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phalec(pn)"><f type="i">Phalec</form><f type="r"><xpln>: the sonne of Heber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pharos(pn)"><f type="i">Pharos</form><f type="r"><xpln>; a Lanthorn-Tower to beare
+a light for the guide of Saylors
+in a hauen by night:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phlegon(pn)"><f type="i">Phlegon</form><f type="r"><xpln>. one of the horses of the
+Sunnes Chariot:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phlegeton(pn)"><f type="i">Phlegeton</form><f type="r"><xpln>. a Riuer in Hell, taken oft
+for Hell it selfe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="philtre-charmed(n)"><f type="i">Philtre-charmd</form><f type="r"><xpln>: inchanted with loue&shy;
+potions.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phantic(n)"><f type="i">Phantik</form><f type="r"><xpln>. such as are hanted with
+straunge and illuding Visi&shy;
+ons.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Philirian scout(n)"><f type="i">Philirian Scoute</form><f type="r"><xpln lexeme="Saggitarius(pn)">. the signe Sagitari&shy;
+us.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Philometor(pn)"><f type="i">Philometor</form><f type="r"><xpln>. an ancient king of Egipt
+much giuen to husbandrie and
+delighting in the Countrie&shy;
+life.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phlebotomy(n)"><f type="i">Phlebotomie</form><f type="r"><xpln lexeme="blood-letting(n)">: Blood-letting.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phlegmous(n)"><f type="i">Phlegmous</form><f type="r"><xpln>: hotte and red inflamati&shy;
+ons of blood.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phrygian skinker(n)"><f type="i">Phrigian Skincker</form><f type="r"><xpln>. the Signe Aqua&shy;
+rius.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phrixus' sister(n)"><f type="i">Phrixus sister</form><f type="r"><xpln lexeme="Helle(pn)">. was Helle, drownd in
+Hellespont, which of her is so cal&shy;
+led.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="frenzy(n)"><f type="i">Phrenzie</form><f type="r"><xpln>: a most violent and 
+daungerous disease of the
+Braine.</xpln></wordentry>
+</page>
+
+<page sig="xx*1r">
+<wordentry type="h"><form lexeme="phthisic(n)"><f type="i">Phtysik</form><f type="r"><xpln lexeme="consumption(n)">. The consumption of the
+Lungs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phtyriasis(n)"><f type="i">Phtyriasis</form><f type="r"><xpln lexeme="lousy disease(n)">. the lowsie disease,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pica(n)"><f type="i">Pica</form><f type="r"><xpln>: the longing disease of weomen
+with child.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Physon(pn)"><f type="i">Physon</form><f type="r"><xpln>: one of the Riuers in the gar&shy;
+den of Eden.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pigmy(n)"><f type="i">Pigmes</form><f type="r"><xpln>. little people of the North a
+Cubit high.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pirene(pn)"><f type="i">Pirene</form><f type="r">, <xpln>a princesse from whom the
+Pirene Mountaines (which deuide
+France and Spaine) are so cal&shy;
+led.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pindus(pn)"><f type="i">Pindus</form><f type="r"><xpln>. a Mountaine sacred to the
+Muses -</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pierian maid(n)"><f type="i">Pierian Maydes</form><f type="r"><xpln lexeme="Muses(pn)">, the Muses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pirrhon(pn)" lexeme="Pirrho(pn)"><f type="i">Pirrhon<f type="r"> (read <f type="i">Pirrho<f type="r">)</form> <xpln> a philosopher
+alwayes doubtfull of all thinges,
+yea euen of those subiect to our
+sences:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Plato(pn)"><f type="i">Plato</form><f type="r"><xpln>. prince of the Accademiks, sir&shy;
+named deuine, and indeede the
+most neere approaching deuinitie
+of all the heathen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pleiades(pn)"><f type="i">Pleiades</form><f type="r">, <xpln>the 7. Starres.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Plessis(pn)"><f type="i">Plessis</form><f type="r"><xpln>. a noble learned French-man
+of our time a notable defender of
+the Truth of Christian Religi<expan type="o+_">on</expan>, a&shy;
+gainst all Iewes, Turkes, Pagans.
+Papists, Atheists and Infidels
+what-soeuer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pluto(pn)"><f type="i">Pluto</form><f type="r">, <xpln>the God of Hell and of Ri&shy;
+chesse, the Deuill and all.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Po(pn)"><f type="i">Po</form><f type="r"><xpln>. the Riuer that watreth Lumbar&shy;
+die the garden of Italie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polypes(n)"><f type="i">Polype</form><f type="r"><xpln lexeme="many-feet(n)" lexeme="pour-contrel(n)">. a subtle fish called a Manie&shy;
+feete, or Pour-contrell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polimnia(n)"><f type="i">Polimnia</form><f type="r">, <xpln>manifold memorie, in va&shy;
+rietie of knowledge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pole(n)"><f type="i">Poles</form><f type="r">, <xpln>the imagined Hindges of the
+Heauens whereon the World is
+turned, commonly vsed for hea&shy;
+uen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="poetaster(n)"><f type="i">Poetasters</form><f type="r"><xpln>. Base, Counterfaite, vn&shy;
+learned. wit-lesse and wanton Po&shy;
+ets that pester the World either
+with Idle vanities or odious villa&shy;
+nies</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="porphiry(n)"><f type="i">Porphirie</form><f type="r"><xpln lexeme="marble(n)">, Marble.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Porus(n)"><f type="i">Porus</form><f type="r">, <xpln>a King of India, of huge sta&shy;
+ture ouercome by Alexander</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polygamy(n)"><f type="i">Polygamie</form><f type="r">, <xpln>the hauing of many
+wiues,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Polypheme(pn)"><f type="i">Polyphem</form><f type="r"><xpln>. a huge and cruell Gyant
+with one eye in his fore-head.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pomona(pn)"><f type="i">Pomona</form><f type="r">, <xpln>Goddesse of fruites.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pontic heath(pn)"><f type="i">Pontik heath</form><f type="r"><xpln lexeme="Pontus(pn)">, pontus is a Region in
+Asia minor fronting East-ward vp&shy;
+on Colchis.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Progne(pn)"><f type="i">Progne</form><f type="r">, <xpln>Pandions daughter, sister of
+Philomele and wife of Tereus,
+transformed to a swallow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Porteus(pn)"><f type="i">Porteus</form><f type="r">, <xpln>a Sea god that taketh on him
+all Shapes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="problem(n)"><f type="i">Problems</form><f type="r">, <xpln>mathematicall propositi&shy;
+ons referred especially to Prac&shy;
+tise.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Prometheus(pn)"><f type="i">Prometheus</form><f type="r">, <xpln>is fayned to haue
+made the first man, and to haue
+stollen fier from heauen to put life
+into his Creature.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pryenian sage(n)"><f type="i">Pryenian Sage</form><f type="r"><xpln lexeme="bias(n)">, Bias.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ptolomeus(pn)" lexeme="Phyladelphus(pn)"><f type="i">Ptolomeus, Phyladelphus</form><f type="r">, <xpln>most fa&shy;
+mous for his learning and loue to
+the learned, and especially for his
+noble Librarie erected in Alexan&shy;
+dria.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pyramid(n)"><f type="i">Pyramides</form><f type="r">, <xpln>exceeding huge and high
+Spires built by the Kings of Egipt
+for fond and idle ostentation of
+their riches and pride.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pyrausta(n)"><f type="i">Pyrausta</form><f type="r"><xpln lexeme="firefly(n)">, a fier-flye, or winged
+worme, breeding and liuing only
+in the fier.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Python(pn)"><f type="i">Python</form><f type="r">, <xpln>a horrible dragon slaine by
+Apollo. </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="xx*1v">
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+
+<wordentry type="h"><form lexeme="rabbin(n)"><f type="i">RAbbines</form><f type="r"><xpln>. great Doctors a&shy;
+mong the Iewes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rabican(pn)"><f type="i">Rabican</form><f type="r"><xpln>. the name of a gallant horse
+in <f type="i">Orlando Furioso<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Regulus(pn)"><f type="i">Regulus</form><f type="r"><xpln>. a noble Consul and resolute
+Captaine of the Romans in the
+Punik warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="remora(n)"><f type="i">Remora</form><f type="r"><xpln lexeme="suck-stone(n)">. a little fish (which some call
+a Suck-stone, that suddenly stop&shy;
+peth a shipp vnder all her sayles in
+her full course.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rendez-vous(n)"><f type="i">Rendez vous</form><f type="r"><xpln>. an appointed place of 
+meeting.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rome's dragon(n)"><f type="i">Romes Dragon</form><f type="r"><xpln lexeme="Pope(n)">. the Pope,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ryphean wood(n)"><f type="i">Ryphean Wood</form><f type="r"><xpln>. Forests of Scy&shy;
+thia. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lexeme="Saba(pn)"><f type="i">SAba</form><f type="r"><xpln>. Cheefe Cittie of the
+Sab&aelig;ans in Arabia aboun&shy;
+ding in Cinamon, Cas&shy;
+sia, Frankincense and Mir&shy;
+rhe,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="salamander(n)"><f type="i">Salamander</form><f type="r">, <xpln>a spotted beast like a
+Lizard, whose extreame coldnes
+quencheth the fire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Salmoneus(pn)"><f type="i">Salmoneus</form><f type="r"><xpln>. a king that with certaine
+violent Engins counterfaited
+Thunder.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Salust(pn)"><f type="i">Salust</form><f type="r"><xpln lexeme="Bartas(pn)">, a notable Roman Historio&shy;
+grapher, also the name of our no&shy;
+ble Author <f type="il(n)"><f type="i">BARTAS<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Samian wise(n)"><f type="i">Samian wise</form><f type="r"><xpln lexeme="Pythagorus(pn)">. Pythagoras.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sardanapalus(pn)"><f type="i">Sardanapalus</form><f type="r"><xpln>. a most effeminate
+King, the last of the Assiri&shy;
+ans.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sargus(n)"><f type="i">Sargus</form><f type="r">, <xpln>a Fish strangely Lust&shy;
+full.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Saturn's door(n)"><f type="i">Saturnes Doore</form><f type="r"><xpln>. the ende of
+Time.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Saturnales(n)"><f type="i">Saturnales</form><f type="r"><xpln>. Feasts kept in Decem&shy;
+ber, in the honour of Satur&shy;
+ne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="satire(n)"><f type="i">Satyres</form><f type="r"><xpln>. nipping Poesies that reproue
+vice sharpely without respect of
+persons.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Scaliger(pn)"><f type="i">Scaliger</form><f type="r"><xpln>. it is Iosephus, now liuing,
+a French-man, admirable in all
+Languages for al manner of lear&shy;
+ning.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Scipio(pn)"><f type="i">Scipio</form><f type="r"><xpln>. Sir-named African, a most
+wise, valiant, and vertuous
+Captaine of the Romans, who
+being ill requited for infinite ho&shy;
+norable seruices: sequestred
+him-selfe to a Countrye&shy;
+life.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scirrhe(n)"><f type="i">Scirrhes</form><f type="r"><xpln>. A kinde of harde (yet
+paine-lesse) swellinges in the
+Flesh.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scolopendra(n)"><f type="i">Scolopendra</form><f type="r"><xpln>. a certaine Fish that
+casteth foorth her Bowells,
+to cleere them from the
+hooke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Scopas(pn)"><f type="i">Scopas</form><f type="r"><xpln>. A Notable Architect, im&shy;
+ployed in the building of Mauso&shy;
+lus Toombe which is numbred
+among the seuen wonders of the 
+world</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Syrtes(pn)"><f type="i">Syrtes</form><f type="r"><xpln>. dangerous sands in the Ly&shy;
+bian Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Serean forest(n)"><f type="i">Serean Forrests</form><f type="r"><xpln>: (now Cathay and
+Cambalu) are in Asian-Scy&shy;
+thia, abounding in the best
+Silkes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Serranus(pn)"><f type="i">Serranus</form><f type="r"><xpln>. A worthie Roman, fetcht
+from his Plough to the Dictator&shy;
+ship, which was (for the time)
+an office of King-like Autho&shy;
+ritie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sentinel(n)"><f type="i">Sentinel</form><f type="r"><xpln lexeme="scout(n)" lexeme="night-watch(n)">. A scoute or Night-watch
+</page>
+
+<page sig="xx*2r">
+in a Camp or Towne of Garri&shy;
+son.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seraphin(n)"><f type="i">Seraphin</form><f type="r"><xpln lexeme="angel(n)">. an Angell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Seine(pn)"><f type="i">Sein</form><f type="r"><xpln>. the Riuer of Paris.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Shynar(pn)" lexeme="Sennaar(pn)"><f type="i">Shynar<f type="r"> or <f type="i">Sennaar</form><f type="r"><xpln>. the plaine where
+Nimrod built the Tower of <f type="i">Ba&shy;
+bel<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sibil(n)"><f type="i">Sibils</form><f type="r"><xpln lexeme="prophetess(n)">: Prophetesses. Varro remem&shy;
+breth 10. of them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Semiramis(pn)"><f type="i">Semiramis</form><f type="r"><xpln>. the prowde and wanton
+Queene of Babilon wife of Ni&shy;
+nus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Serius(pn)"><f type="i">Serius</form><f type="r"><xpln>. the Dog-starre at whose ri&shy;
+sing the Dog-dayes alwayes be&shy;
+gin.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="skink Alexendrian(n)"><f type="i">Skinc Alaxendri&aelig;n</form><f type="r"><xpln lexeme="land-crocodile(n)">. a kind of Serpent,
+a land-Crocodile.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Skinker(n)"><f type="i">Skincker</form><f type="r"><xpln lexeme="Aquarius(pn)">. the signe Aquarius.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sol(n)"><f type="i">Sol</form><f type="r"><xpln lexeme="sun(n)">, the Sunne, one of the Pla&shy;
+nets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solid(n)"><f type="i">Solides</form><f type="r"><xpln>. 5. regular bodies or figures
+Geometrical (<expan type="vidlt">videlicit</expan>) the Circle,
+Cube, Pyramid, Cilinder and
+Dodoch&aelig;dron.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sofirates(pn)"><f type="i">Sofirates</form><f type="r"><xpln>. a notable Architect builder
+of the Lanthorn-Tower in the Ile
+of Pharos.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Staegyrian(n)"><f type="i">St&aelig;gyrian. </form> <xpln lexeme="Aristotle(pn)">Aristotle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Stix(pn)" lexeme="Stigian strand(n)"><f type="i">Stix Stigian strand </form><f type="r"><xpln lexeme="hell(n)">. Hell.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Steropes(pn)"><f type="i">Steropes</form><f type="r"><xpln>. one of Vulcans Cyclo&shy;
+pes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stoic(n)"><f type="i">Stoikes</form><f type="r"><xpln>. Seuere Philosophers, pre&shy;
+tending to condemne all Passions
+and esteeming all thinges to bee
+ordered by an ineuitable neces&shy;
+sitie of Fate or Destinie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Strymon(pn)"><f type="i">Strymon</form><f type="r"><xpln>. A Riuer betweene Mace&shy;
+don and Thrace.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Swiss(n)"><f type="i">Suisses</form><f type="r"><xpln lexeme="Swizer(n)">. (we call them Swizers) the
+warlike people of the Cantons of
+Heluetia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sulphur(n)"><f type="i">Sulphur</form><f type="r"><xpln lexeme="brimstone(n)">. Brimstone</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="synonym(n)"><f type="i">Synonimas</form><f type="r">, <xpln>Words of the same sig&shy;
+nification,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symbolize(v)"><f type="i">Symbolize</form><f type="r"><xpln lexeme="resemble(v)" lexeme="agree(v)">. to resemble or a&shy;
+gree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sympathy(n)">Sympathie</form><f type="r"><xpln lexeme="consent(n)">. Consent or resemblance
+of qualitie:</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symphony(n)"><f type="i">Symphonie</form><f type="r"><xpln>. Concent of time of har&shy;
+monie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symmetry(n)"><f type="i">Symetrie</form><f type="r"><xpln> Proportion of partes be&shy;
+tweene themselues and to their
+whole.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Syracusa(n)"><f type="i">Syracusa</form><f type="r"><xpln>. a great, wealthie, & wan&shy;
+ton Cittie in Sicilia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="siren(n)"><f type="i">Syrens</form><f type="r"><xpln lexeme="mermaid(n)">. Mer-Maydes. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lexeme="Tagus(pn)"><f type="i">TAgus</form><f type="r"><xpln>. the Riuer of Lisbone in
+Portugal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tanais(pn)"><f type="i">Tanais</form><f type="r"><xpln>. a mightie Riuer deuiding 
+Asia from Europe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tantalus(pn)"><f type="i">Tantalus</form><f type="r"><xpln> a King of Phrigia, whome
+they fayned to stand in Hel vp to
+the chin in water, & to haue deli&shy;
+cate Fruites dangling ouer his
+vpper lipp, yet can touch neither:
+either to ease his hunger, or allay
+his thirst.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tambut(pn)"><f type="i">Tambut</form><f type="r"><xpln>. A Countrie of the Ne&shy;
+gros, which is a part of Africa ex&shy;
+tending to the vttermost bounds
+thereof towarde the South and
+East.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tabrobane(pn)"><f type="i">Tabrobane</form><f type="r"><xpln>. An Ilande vnder the
+Equinoctial (nowe called Su&shy;
+matra) Scituate betweene
+Malaca and Iaua Maior, aboue
+450. leagues long, and about
+120. broade: abounding in
+Golde, and verie plentifull in
+other excellent Commodi&shy;
+ties:</xpln></wordentry>
+</page>
+
+<page sig="xx*2v">
+<wordentry type="h"><form lexeme="Tarettium(pn)"><f type="i">Tarettium</form><f type="r"><xpln>. a famous Cittie in Cala&shy;
+bria.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tarnasser(pn)"><f type="i">Tarnasser</form><f type="r">, <xpln>is in the East Indies, neere
+the gulph of Bengala.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thebes(pn)"><f type="i">Thebes</form><f type="r">, <xpln>a Cittie in Beotia where
+Hercules was borne: it was first
+built by Cadmus: but more beau&shy;
+tifully restored by Amphi&shy;
+on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thetis(pn)"><f type="i">Thetis</form><f type="r"><xpln lexeme="sea(n)">, the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Themis(n)"><f type="i">Themis</form><f type="r"><xpln lexeme="justice(n)">, Iustice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thersites(pn)"><f type="i">Thersites</form><f type="r">, <xpln>the foulest Lubber in all
+the Grecian Campe, whom A&shy;
+chilles slew with his fist.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Theseus(pn)"><f type="i">Theseus</form><f type="r">, <xpln>for valour, another Hercu&shy;
+les: but most famous for his kind
+and constant friendship to Piri&shy;
+thous.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thesiphone(pn)"><f type="i">Thesiphone</form><f type="r"><xpln>. one of the Furies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thisbe's tree(n)"><f type="i">Thisbes Tree</form><f type="r"><xpln lexeme="mulberry(n)">. the mulberie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thule(pn)"><f type="i">Thule</form><f type="r"><xpln lexeme="Ultima Thule(pn)">. an Iland beyond the Orcades,
+the farthest North that was
+knowne to the Romaines, there&shy;
+fore then called <f type="i">Vltima Thu&shy;
+le<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Timanthes(pn)"><f type="i">Timanthes</form><f type="r">, <xpln>one of the most excellent
+of the ancient Painters.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tindarides(pn)"><f type="i">Tindarides</form><f type="r"><xpln lexeme="Castor(pn)" lexeme="Pollux(pn)">. Castor and Pollux.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tigris(pn)"><f type="i">Tigris</form><f type="r">, <xpln>a Riuer in Asia, passing by
+East of Mesopotamia, through
+Armenia and Media.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Titan(pn)"><f type="i">Titan</form><f type="r"><xpln lexeme="sun(n)">, the Sun.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tirrhenian(n)"><f type="i">Tirrhenian</form><f type="r">, <xpln>the Tuscan Seas.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tirrian(n)"><f type="i">Tirrians</form><f type="r"><xpln>. Marchant men of Tirus, a 
+ Cittie of Siria anciently flowri&shy;
+shing in trade, and famous for the
+excellent pur-ple-Die.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tivoli(pn)"><f type="i">Tiuoli</form><f type="r">, <xpln>a village neere Rome, where
+the Cardinall of Ferrara hath a 
+sumptuous house of pleasure,
+furnished with infinite Curiosi&shy;
+ties.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="torpedo(n)"><f type="i">Torpedo</form><f type="r"><xpln lexeme="cramp-fish(n)">, the Cramp-fish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="treasure trove(n)"><f type="i">Tresortroue</form><f type="r">, <xpln>Gold, monie, or other
+Riches found vnder ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Troglodites(n)"><f type="i">Troglodites</form><f type="r">, <xpln>a people or Aethiopia,
+that dwell vnder ground, goe na&shy;
+ked, and eate Serpents.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tropics(n)"><f type="i">Tropiks</form><f type="r">, <xpln>two great Circles in heauen
+in equall distance from the Equi&shy;
+noctial. the one called the Tro&shy;
+pik of Cancer, the other of Capri&shy;
+corne, at the which the Sunne tur&shy;
+neth either higher (hauing beene
+at the lowest) or lower (hauing
+beene at the highest) wherof they
+are so called.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tryton(n)"><f type="i">Trytons</form><f type="r">, <xpln>Neptunes Trumpeters.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tuscan(n)"><f type="i">Tuscan</form><f type="r"><xpln lexeme="Italian(n)">, Italian.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tiber(pn)"><f type="i">Tyber</form><f type="r">, <xpln>the Riuer of Rome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Typhis(n)"><f type="i">Typhis</form><f type="r">, <xpln>the master or Captaine of
+the Shippe Argos that sayld with
+Iason to Colchis for the Golden
+Fleece.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tymothy(pn)"><f type="i">Tymothy</form><f type="r">, <xpln>an excellent caruer that
+wrought on Mausolus Tombe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Typhon(pn)"><f type="i">Typhon</form><f type="r">, <xpln>a huge Giant, that endeuou&shy;
+red to pull Iupiter out of Hea&shy;
+uen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="type(n)"><f type="i">Type</form><f type="r"><xpln lexeme="figure(n)" lexeme="stamp(n)">, a figure or stampe of anie
+thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Tysephone(pn)" lexeme="Thesiphone(pn)"><f type="i">Tysephone<f type="r">, or Thesiphone</form> <xpln>one of the
+Furies. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="V"><alpha>V.</alpha>
+
+<wordentry type="h"><form lexeme="Valois(n)"><f type="i">VAlois</form><f type="r">, <xpln>one of the Royall fami&shy;
+lies of France, extinguished in
+the late Henry, 3, slaine by a Fri&shy;
+er before Paris, who in his Mon&shy;
+sicurship (with his mother and
+the Duke of Guise) had been too
+busie an Actor in the bloudie
+Massacre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Venus(pn)"><f type="i">Venus</form><f type="r">, <xpln>the Goddesse of Loue, and
+Beautie also one of the planets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Venus escuage(n)"><f type="i">Venus Escuage</form><f type="r">, <xpln>Knights (or Nights)
+seruice to Ladies.</xpln></wordentry>
+</page>
+
+<page sig="xx*3r">
+<wordentry type="h"><form lexeme="Venerian mirth(n)"><f type="i">Venerian mirth</form><f type="r">, <xpln>Idem.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ver(n)"><f type="i">Ver</form><f type="r"><xpln lexeme="spring(n)">, the Spring.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Vertumnus(n)"><f type="i">Vertumnus</form><f type="r">, <xpln>an imagined God of the
+Romanes that tooke on him all
+shapes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Vespucio(n)"><f type="i">Vespucio</form><f type="r"><xpln lexeme="Americus Vespucius(pn)">. Americus vespucius, a Flo&shy;
+rentine, first discouerer of Ame&shy;
+rica, of whom it is so called.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Viginere(pn)"><f type="i">Viginere</form><f type="r">, <xpln>a learned French-man of
+late times, translater of C&aelig;sar,
+Liuius, and other Latine wri&shy;
+ters.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Vienna(pn)"><f type="i">Vienna</form><f type="r">, <xpln>a Cittie in Austria where for
+the most the Emperor keepes his
+Court.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Urania(pn)"><f type="i">Vrania</form><f type="r"><xpln lexeme="Muse, Heavenly(n)">, one of the Muses, especially
+handling Heauenly things, there&shy;
+fore called the Heauenly Muse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Urim and Tummin(n)"><f type="i">Vrim<f type="r">, and T<f type="i">ummin</form><f type="r">, <xpln>2. words grauen
+in the Brest-plate of Aaron signi&shy;
+fying Illumination and Integrity.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ulysses(pn)"><f type="i">Vlisses</form><f type="r"><xpln>. the politike prince of Ithaca,
+husband of Penelope.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Vulcan(pn)"><f type="i">Vulcan</form><f type="r">, <xpln>the God of Fier and forge&shy;
+men.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vianoscopus(n)"><f type="i">Vianoscopus</form><f type="r">, <xpln>a fish alwayes gazing vp
+to Heauen. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="X"><alpha>X</alpha>
+
+<wordentry type="h"><form lexeme="Xanth(pn)" lexeme="Scamander(pn)"><f type="i">XAnth<f type="r">. called also <f type="i">Scamander<f type="r">.</form> <xpln>the
+Riuer of Troy, there is also
+an Iland in the Arcipelago,
+so called. </xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="Z"><alpha>Z</alpha>
+
+<wordentry type="h"><form lexeme="Zebut(pn)"><f type="i">ZEbut</form><f type="r"><xpln>. an Iland in the west Indies
+exceeding rich in Gold, Suger,
+and Ginger.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="zenith(n)"><f type="i">Zenith</form><f type="r"><xpln lexeme="nadir(n)">, the point verticall, the point
+of Heauen right ouer our heades,
+the contraries point is called
+Nadir.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zero(pn)"><f type="i">Zero</form><f type="r">, <xpln>the chiefe of the Stoike phy&shy;
+losophers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zeuxis(pn)"><f type="i">Zeuxis</form><f type="r">, <xpln>a most cunning & exceeding
+rich painter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="zodiac(n)"><f type="i">Zodiak</form><f type="r">, <xpln>a byaz or slaoping Circle in
+the Heauens. wherein are the 12.
+Signes, through which all the pla&shy;
+ners passe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="zone(n)"><f type="i">Zones</form><f type="r"><xpln>. Imagined Circles, deuiding
+the World into 5. parts</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zopyrus(pn)"><f type="i">Zopyrus</form><f type="r"><xpln> a Persian that strangely dis&shy;
+figured himselfe to do his prince
+an important seruice. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zephirus(pn)"><f type="i">Zephirus</form><f type="r"><xpln lexeme="west(n)" lexeme="west wind(n)">, the West, the West-winde.</xpln></wordentry>
+</wordgroup1>
+
+<closing><f type="i">FINIS.</f></closing>
+
+</page>
+
+</leme>

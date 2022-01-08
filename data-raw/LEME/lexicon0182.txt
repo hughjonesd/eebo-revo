@@ -1,0 +1,1837 @@
+<leme no="182">
+<page sig="45r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+B o d l e i a n M S R a w l i n s o n 1 0 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<wordgroup1 type="a" object="Ab"><alpha>A. b.</alpha>
+<wordentry type="h"><form lexeme="abandon(v)">abandon -- </form> <xpln>forsake</xpln></wordentry>
+<wordentry type="h"><form lexeme="abaleanate(v)">abaleanate --</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abase(v)">Abase -- <emend err="hum"></emend> </form> <xpln>humble.</xpln></wordentry>
+<wordentry type="h"><form lexeme="abash(v)">abash.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abate(v)">abate -- </form> <xpln>diminish</xpln></wordentry>
+<wordentry type="h"><form lexeme="abreviate(v)">abreuiate +-- </form> <xpln>abstract</xpln></wordentry>
+<wordentry type="h"><form lexeme="abbridge(v)">abbridge  +</form> <xpln><emend err="">abstract</emend></xpln></wordentry>
+<wordentry type="h"><form lexeme="abhomination(n)">abhomination -- </form> <xpln>offence</xpln></wordentry>
+<wordentry type="h"><form lexeme="abhor(v)">abhoure -- </form> <xpln>loath</xpln></wordentry>
+<wordentry type="h"><form lexeme="abide(v)">abide -- -- </form> <xpln>tarry</xpln></wordentry>
+<wordentry type="h"><form lexeme="abide(v)">abide -- </form> <xpln>suffer.</xpln></wordentry>
+<wordentry type="h"><form lexeme="abject(v)">abiect -- -- </form> <xpln>forsake</xpln></wordentry>
+<wordentry type="h"><form lexeme="abjure(v)">abiure -- </form> <xpln>forsweare</xpln></wordentry>
+<wordentry type="h"><form lexeme="able(a)">able -- </form> <xpln>power.</xpln></wordentry>
+<wordentry type="h"><form lexeme="abolish(v)">abolish -- </form> <xpln>destroy</xpln></wordentry>
+<wordentry type="h"><form lexeme="abound(v)">-- abound -- </form> <xpln>plenty</xpln></wordentry>
+<wordentry type="h"><form lexeme="abrogate(v)">-- abrogate -- </form> <xpln>destroy</xpln></wordentry>
+<wordentry type="h"><form lexeme="absolve(v)">-- absolue -- </form> <xpln>pardon</xpln></wordentry>
+<wordentry type="h"><form lexeme="absoluteness(n)">-- absolutnesse -- </form> <xpln>per&#173;
+fection</xpln></wordentry>
+<wordentry type="h"><form lexeme="absurdity(n)">-- absurdity -- </form> <xpln>foolish&#173;
+nesse</xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="abbot(n)">-- abbot</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abbey(n)">-- abbey</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ablative case(n)">-- ablatiue case</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abortive(a)">abortiue</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abricot(n)">abricot </form> <xpln>appl</xpln></wordentry>
+<wordentry type="h"><form lexeme="absence(n)">absence</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abstinence(n)">abstinence</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abstract(n)">abstract</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abuse(n)">abuse</form> <xpln></xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="abstract(n)">abstract</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ac"><alpha>A. c.</alpha>
+
+<wordentry type="h"><form lexeme="academy(n)">academy -- </form> <xpln>vniversity</xpln></wordentry>
+<emend err="acent accent"></emend>
+<wordentry type="h"><form lexeme="access unto(n)">accesse vnto --</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accomplish(v)">accomplish -- </form> <xpln>perfection</xpln></wordentry>
+<wordentry type="h"><form lexeme="accompt(n)">  Accoumpt</form> <xpln></xpln></wordentry>
+<emend err="account -- estimation"></emend>
+<wordentry type="h"><form lexeme="accord(n)">accorde -- </form> <xpln>agreement</xpln></wordentry>
+<wordentry type="h"><form lexeme="account(n)">account - </form> <xpln>estimation.</xpln></wordentry>
+<wordentry type="h"><form lexeme="accumulate(v)">Accumulate --</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accusation(n)">  Accusation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accustom(v)">accustome -- </form> <xpln>vse</xpln></wordentry>
+<wordentry type="h"><form lexeme="ace(n)">ace -- </form> <xpln>dice</xpln></wordentry>
+<wordentry type="h"><form lexeme="ache(n)">  Ache .</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="achieve(v)">achieue -- </form> <xpln>perfection</xpln></wordentry>
+<wordentry type="h"><form lexeme="acknowledgement(n)">acknowledgment </form> <xpln>confes&#173;
+sion</xpln></wordentry>
+<wordentry type="h"><form lexeme="acorn(n)">  Acorne</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acquaintance(n)">  Aquaintance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aquittance(n)">  Aquittance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acre(n)">  Acre</form> <xpln></xpln></wordentry>
+<emend err="Act"></emend> 
+<wordentry type="h"><form lexeme="act(n)">act -- <emend err="decree"></emend> </form> <xpln>statute</xpln></wordentry>
+<wordentry type="h"><form lexeme="action(n)">action -- </form> <xpln>deed</xpln></wordentry>
+<wordentry type="h"><form lexeme="action(n)" lexeme="law(n)">  Action in the law</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="activity(n)">  Actiuity</form> <xpln></xpln></wordentry>
+------------------------
+<emend err="adamant ston"></emend>
+<emend err="addition"></emend>
+<wordentry type="h"><form lexeme="accent(n)">accent</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acceptance(n)">acceptance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accidence(n)">accidens</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accompany(v)">accompany</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accompt(n)">accoumpt</form> <xpln></xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="accuse(v)">  accuse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acorn(n)">  acorne </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="act(v)">  act</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="activity(n)">  actiuity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="action(n)">  action</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ad"><alpha>A. d.</alpha>
+
+<wordentry type="h"><form lexeme="adamant(n)">Adamant - </form> <xpln>stonn.</xpln></wordentry>
+<wordentry type="h"><form lexeme="addition(n)">Addition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adder(n)">Adder</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="addicting(n)">addicting -- </form> <xpln>employing</xpln></wordentry>
+<wordentry type="h"><form lexeme="adherent(n)">adherent -- </form> <xpln>partaker</xpln></wordentry>
+<wordentry type="h"><form lexeme="adjective(n)">Adiectiue</form> <xpln></xpln></wordentry>
+<emend err="adioyning"></emend> 
+<wordentry type="h"><form lexeme="adjourn(v)">adiourne -- </form> <xpln>delay</xpln></wordentry>
+<wordentry type="h"><form lexeme="adjunct(n)">adiunct</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adjure(v)">adiure -- </form> <xpln>coniure</xpln></wordentry>
+<wordentry type="h"><form lexeme="administration(n)">Administration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admiral(n)">admiral of the  
+seas</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admiration(n)">admiration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admission(n)">Admission</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admonition(n)">admonition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adoption(n)">adoption</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adonation(n)">adonation -- </form> <xpln>a worship&#173;
+ing</xpln></wordentry>
+<wordentry type="h"><form lexeme="adown(adv)">adoune</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="advancement(n)">aduancement -- </form> <xpln>prefer-
+ment</xpln></wordentry>
+<wordentry type="h"><form lexeme="advantage(n)">aduantage -- </form> <xpln>gaine</xpln></wordentry>
+<wordentry type="h"><form lexeme="adventure(n)">aduenture -- </form> <xpln>enterpuise</xpln></wordentry>
+<wordentry type="h"><form lexeme="adventuring(n)">aduenturing -- <emend err="trying"></emend> </form>
+<xpln>proue</xpln></wordentry>
+<wordentry type="h"><form lexeme="adventure(n)">aduenture <emend err="chaunce"></emend> </form> <xpln>fortune</xpln></wordentry>
+<wordentry type="h"><form lexeme="adverse(a)">  aduerse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adversary(n)">  aduersary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adversity(n)">  aduersity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="advertisement(n)">aduertisment -- </form> <xpln>admoni&#173;
+tion</xpln></wordentry>
+<wordentry type="h"><form lexeme="advise(v)">aduise -- </form> <xpln>councell</xpln></wordentry>
+<wordentry type="h"><form lexeme="adultery(n)">  Adultery</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="advocate(n)">  aduocate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="advowson(n)">  aduowson</form> <xpln></xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="admonition(n)">  admonition</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Af"><alpha>A. f</alpha>
+
+<wordentry type="h"><form lexeme="affability(n)">affability -- </form> <xpln>courtesy</xpln></wordentry>
+<wordentry type="h"><form lexeme="affair(n)">affaires -- </form> <xpln>business</xpln></wordentry>
+<wordentry type="h"><form lexeme="affection(n)">  Affection</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affectation(n)">affectation -- -- </form> <xpln>curi&#173;
+osity</xpln></wordentry>
+<wordentry type="h"><form lexeme="affiancing(n)">affiancing -- <emend err="betrothing"></emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affiance(n)">affiance - </form> <xpln>faith</xpln></wordentry>
+<wordentry type="h"><form lexeme="affinity(n)">affinity -- </form> <xpln>kindred.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Af"><alpha>af</alpha>
+
+<wordentry type="h"><form lexeme="affirmation(n)">Affirmation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affliction(n)">Affliction</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affluence(n)">affluence -- </form> <xpln>plenty</xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ag"><alpha>A. G</alpha>
+
+<wordentry type="h"><form lexeme="age(n)">Age</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="agent(n)">Agent -- </form> <xpln>action</xpln></wordentry>
+<wordentry type="h"><form lexeme="aggravate(n)">  Agrauate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="agility(n)">agility -- </form> <xpln>actiuity</xpln></wordentry>
+<wordentry type="h"><form lexeme="aglet(n)">  Aglet</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="agnail(n)">agnaile -- </form> <xpln>corne</xpln></wordentry>
+<wordentry type="h"><form lexeme="agnition(n)">agnition -- </form> <xpln>kowledg</xpln></wordentry>
+<wordentry type="h"><form lexeme="agony(n)">agony -- </form> <xpln>anguish</xpln></wordentry>
+<wordentry type="h"><form lexeme="agreement(n)">  agreement</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ague(n)">  ague</form> <xpln></xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="agreement(n)">agreement</form> <xpln></xpln></wordentry>
+------------------------
+
+a l
+
+------------------------
+  
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ahi"><alpha>A. H I.</alpha>
+
+<wordentry type="h"><form lexeme="aid(n)">Aide</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aim(n)">Aime</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="air(n)">Aire</form> <xpln></xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ak"><alpha>A. K</alpha>
+
+<wordentry type="h"><form lexeme="ache(n)">ake -- </form> <xpln>ache</xpln></wordentry>
+<wordentry type="h"><form lexeme="acorn(n)">akorne -- </form> <xpln>acorne</xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Al"><alpha>A . L</alpha>
+<wordentry type="h"><form lexeme="alabaster(n)">  Alabaster</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alacrity(n)">alacrity -- </form> <xpln>mirth</xpln></wordentry>
+<wordentry type="h"><form lexeme="alarm(n)">alarum - </form> <xpln>watch-word</xpln></wordentry>
+<wordentry type="h"><form lexeme="alay(v)">alay --</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alb(n)">Albe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alchemy(n)">Alchymy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alderman(n)">Alderman</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alder(n)">alder -- </form> <xpln>tree</xpln></wordentry>
+<wordentry type="h"><form lexeme="alembic(n)">alembick -- </form> <xpln>stillatory</xpln></wordentry>
+<wordentry type="h"><form lexeme="ale(n)">ale</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alehouse(n)">alehouse -- </form> <xpln>inne</xpln></wordentry>
+<wordentry type="h"><form lexeme="alien(n)">aliant -- </form> <xpln>strainger</xpln></wordentry>
+<wordentry type="h"><form lexeme="alienation(n)">alienation -- </form> <xpln>forsaking</xpln></wordentry>
+<wordentry type="h"><form lexeme="allegation(n)">alegation -- </form> <xpln>proofe of 
+matter</xpln></wordentry>
+<wordentry type="h"><form lexeme="allegory(n)">allegory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alley(n)">alley</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alliance(n)">alliance -- </form> <xpln>kindred</xpln></wordentry>
+<wordentry type="h"><form lexeme="allot(v)">allot -- </form> <xpln>appoint</xpln></wordentry>
+<emend err="allowanc"></emend>
+<wordentry type="h"><form lexeme="allowance(n)">allowance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="allurement(n)">allurement -- </form> <xpln>entisment</xpln></wordentry>
+<wordentry type="h"><form lexeme="alusion(n)">alusion</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="almanack(n)">almanack -- </form> <xpln>calender</xpln></wordentry>
+<wordentry type="h"><form lexeme="alms(n)">almes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="house of alms(n)">house of almes -- <emend err="house"></emend></form>
+<xpln>hospital</xpln></wordentry>
+<wordentry type="h"><form lexeme="almond(n)">almond</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aloe(n)">aloes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alp(n)">alpes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alpha(n)">alpha</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alphabet(n)">alphabet</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="altar(n)">altar</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alteration(n)">alteration -- </form> <xpln>chainge</xpln></wordentry>
+<wordentry type="h"><form lexeme="altitude(n)">altitud -- </form> <xpln>height</xpln></wordentry>
+<wordentry type="h"><form lexeme="alum(n)">allum.</form> <xpln></xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Am"><alpha>A . M</alpha>
+
+<wordentry type="h"><form lexeme="ample(a)">Ample -- </form> <xpln>feaue</xpln></wordentry>
+<wordentry type="h"><form lexeme="ambage(n)">ambage -- </form> <xpln>circumstance</xpln></wordentry>
+<wordentry type="h"><form lexeme="ambassage(n)">Ambassage</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amber(n)">Amber</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ambiguity(n)">ambiguity -- </form> <xpln>doubtfulnes</xpln></wordentry>
+<wordentry type="h"><form lexeme="ambition(n)">Ambition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ambling(n)" lexeme="pace(n)">Ambling pace</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ambrey(n)">ambrey -- </form> <xpln>cupboord</xpln></wordentry>
+<wordentry type="h"><form lexeme="ambusement(n)">  ambusment</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amend(v)">amend -- </form> <xpln>repaire</xpln></wordentry>
+<wordentry type="h"><form lexeme="amend(v)">amend -- </form> <xpln>correct</xpln></wordentry>
+<wordentry type="h"><form lexeme="amerse(v)">amerse -- </form> <xpln>fine</xpln></wordentry>
+<wordentry type="h"><form lexeme="amice(n)">Amesse -- </form> <xpln>robe</xpln></wordentry>
+<wordentry type="h"><form lexeme="amity(n)">amity -- </form> <xpln>frindship</xpln></wordentry>
+<wordentry type="h"><form lexeme="amphitheatre(n)">Amphitheatre</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amphibology(n)">amphibology</form> <xpln></xpln></wordentry>
+------------------------
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="45v">
+<wordgroup1 type="a" object="An"><alpha>A. N.</alpha>
+
+<wordentry type="h"><form lexeme="analogy(n)">  Analogy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="analysis(n)">  analosys</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anarchy(n)">  anarchy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anatomy(n)">  an anatomy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anatomy(n)">  anatomy out.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ancestor(n)">  ancestors</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anchor(n)">anchor -- </form> <xpln>anker</xpln></wordentry>
+<wordentry type="h"><form lexeme="ancientness(n)">ancientness -- </form> <xpln>antiquity</xpln></wordentry>
+<wordentry type="h"><form lexeme="ancient(n)">ancients -- </form> <xpln>ensigne</xpln></wordentry>
+<wordentry type="h"><form lexeme="ankle(n)">ancle</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="andiron(n)">  andiron</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anvil(n)">anuil -- </form> <xpln>anuile</xpln></wordentry>
+<wordentry type="h"><form lexeme="angel(n)">angell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anger(n)">anger</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="angle(n)">angle -- </form> <xpln>rod</xpln></wordentry>
+<wordentry type="h"><form lexeme="angle(n)">angle - </form> <xpln>corner</xpln></wordentry>
+<wordentry type="h"><form lexeme="anguish(n)">anguish</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="animadversion(n)">animaduersion -- </form> <xpln>coun&#173;
+sell</xpln></wordentry>
+<wordentry type="h"><form lexeme="aniseed(n)">aniseed</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anchor(n)">anker</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="annals(n)">annals -- </form> <xpln>cronicles</xpln></wordentry>
+<wordentry type="h"><form lexeme="annihilation(n)">anihilation -- </form> <xpln>frustra&#173;
+tion</xpln></wordentry>
+
+ 
+<wordentry type="h"><form lexeme="anniversary(n)">anniuersary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="annotation(n)">annotations -- </form> <xpln>notes</xpln></wordentry>
+<wordentry type="h"><form lexeme="annoyance(n)">annoyance -- </form> <xpln>loathing</xpln></wordentry>
+<wordentry type="h"><form lexeme="annointing(n)">annoynting -- </form> <xpln>oyntment</xpln></wordentry>
+<wordentry type="h"><form lexeme="annuity(n)">  annuity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="answer(n)">  answeare</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anthem(n)">antheme -- </form> <xpln>song</xpln></wordentry>
+<wordentry type="h"><form lexeme="antichrist(n)">  antichrist</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antic-work(n)">  antik-work</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antidote(n)">  antidote</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antiquity(n)">  antiquity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antipathy(n)">  antipathy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anvil(n)">  anuile</form> <xpln></xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="april(n)">  auprile</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antiquity(n)">    antiquity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aver(v)">    auer</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anguish(n)">    anguish</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ap"><alpha>A. P.</alpha>
+
+<wordentry type="h"><form lexeme="ape(n)">  Ape</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aphorism(n)">  Aphorisme</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apple(n)">aple -- </form> <xpln>apple</xpln></wordentry>
+<wordentry type="h"><form lexeme="apocalypse(n)">apocalyps -- </form> <xpln>vision</xpln></wordentry>
+<wordentry type="h"><form lexeme="apocrypha(n)">apocripha -- </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apology(n)">apology -- </form> <xpln>defence</xpln></wordentry>
+<wordentry type="h"><form lexeme="apoplexy(n)">  Apoplexy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apostasy(n)">apostasy -- </form> <xpln>forsaking</xpln></wordentry>
+<wordentry type="h"><form lexeme="apostle(n)">  Apostle</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apostume(n)">apostume -- </form> <xpln>impostume
+  <emend err="apothegme"></emend></xpln></wordentry>
+<wordentry type="h"><form lexeme="apothegm(n)">apothegme -- </form> <xpln>sentence</xpln></wordentry>
+<wordentry type="h"><form lexeme="apothecary(n)">  apothecary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appair(v)">appaire -- </form> <xpln>deminish</xpln></wordentry>
+<wordentry type="h"><form lexeme="appale(v)">appale -- </form> <xpln>discorage</xpln></wordentry>
+<wordentry type="h"><form lexeme="apparell(n)">  Apparrell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apparition(n)">apparition -- </form> <xpln>vision</xpln></wordentry>
+<wordentry type="h"><form lexeme="appeach(v)">appeach -- </form> <xpln>accuse</xpln></wordentry>
+<wordentry type="h"><form lexeme="appealing(n)">appealing</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appear(v)">appeare</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appease(v)">appease -- </form> <xpln>pacify</xpln></wordentry>
+<wordentry type="h"><form lexeme="appendix(n)">  appendix</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appendent(n)">  appendent</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appetite(n)">  appetite</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="applause(n)">  applause</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apple(n)">  aple</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apple of the eye(n)">apple oth eye -- </form> <xpln>eye</xpln></wordentry>
+<wordentry type="h"><form lexeme="application(n)">  applycation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appointing(n)">  appointing</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appose(n)">appose -- </form> <xpln>examine</xpln></wordentry>
+<wordentry type="h"><form lexeme="apprehension(n)">  apprehension</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apprentice(n)">  apprentise</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="approach(v)">  approach</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="approvement(n)">approuement -- </form> <xpln>inlarging</xpln></wordentry>
+<wordentry type="h"><form lexeme="approbation(n)">  approbation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appurtenance(n)">  appurtenance</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apron(n)">  Apron</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aptness(n)">aptness - </form> <xpln>fitness</xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="appoint(n)">  appoynt</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apple(n)">  apple</form> <xpln></xpln></wordentry>
+------------------------
+
+<wordentry type="h"><form lexeme="art(n)">  Art</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="artichoke(n)">  Artechoke</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="artery(n)">artery -- </form> <xpln>sinow</xpln></wordentry>
+<wordentry type="h"><form lexeme="article(n)">  Article</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="artificer(n)">  Artificer</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="artillery(n)">artillery -- </form> <xpln>gun</xpln></wordentry>
+
+<emend err="apple"></emend>  
+<emend err="appoint"></emend>  
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ar"><alpha>A. R.</alpha>
+
+<wordentry type="h"><form lexeme="array(n)">aray -- </form> <xpln>apparell</xpln></wordentry>
+<wordentry type="h"><form lexeme="array(n)">aray -- </form> <xpln>order</xpln></wordentry>
+<wordentry type="h"><form lexeme="arbitrator(n)">arbitrator </form> <xpln>iudge</xpln></wordentry>
+<wordentry type="h"><form lexeme="arbitrement(n)">arbitrement </form> <xpln>iudgment</xpln></wordentry>
+<wordentry type="h"><form lexeme="arbour(n)">Arbour</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="archangel(n)">Archangell - </form> <xpln>herbs</xpln></wordentry>
+<wordentry type="h"><form lexeme="archangel(n)">Archangell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="archbishop(n)">Archbishopp</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="archdeacon(n)">Arch deacon</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="archduke(n)">Arch-duke</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arch(n)">Arch.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="archer(n)">Archer -- </form> <xpln>shooter</xpln></wordentry>
+<wordentry type="h"><form lexeme="arch-heretic(n)">Arch -- heretick</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arch-priest(n)">arch prist</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="architect(n)">architect. -- </form> <xpln>builder</xpln></wordentry>
+<wordentry type="h"><form lexeme="argument(n)">  Argument</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arising(n)">  arising</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arithmetic(n)">  Arithmetick</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ark(n)">  Arke</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arm(n)">  Arme</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arms(n)">  Armes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="army(n)">  Armye</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="armour(n)">  Armour</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="army(n)">  army</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="harquebus(n)">arquebre -- </form> <xpln>pistoll</xpln></wordentry>
+<wordentry type="h"><form lexeme="arraign(v)">arrainge -- </form> <xpln>accuse</xpln></wordentry>
+<wordentry type="h"><form lexeme="arras(n)">  Arras -- </form> <xpln>cloth</xpln></wordentry>
+<wordentry type="h"><form lexeme="arrest(v)">  Arest</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arrive(v)">arriue -- </form> <xpln>approach</xpln></wordentry>
+<wordentry type="h"><form lexeme="arrogancy(n)">arrogancy -- </form> <xpln>pride</xpln></wordentry>
+<wordentry type="h"><form lexeme="arrow(n)">  arrow</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="arsenic(n)">  Arsnick -- </form> <xpln><xref>vid supra</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="As"><alpha>A. S.</alpha>
+
+<wordentry type="h"><form lexeme="ascend(v)">Ascend.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="askile(adv)">Asiuile -- </form> <xpln>impulse</xpln></wordentry>
+<wordentry type="h"><form lexeme="ashamed(a)">aschamed -- </form> <xpln>bashfull-
+ness.</xpln></wordentry>
+<wordentry type="h"><form lexeme="ash(n)">  Ash -- </form> <xpln>tree</xpln></wordentry>
+<wordentry type="h"><form lexeme="asties(n)">  <emend err="Asetree"></emend> Asties</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="Ash Wednesday(n)">  Ash wednesday</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="asking(n)">askeng -- </form> <xpln>demaund</xpln></wordentry>
+<emend err="askew -- asquint"></emend> 
+<wordentry type="h"><form lexeme="asp(n)">  Aspe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aspiration(n)">aspiration -- </form> <xpln>breathing</xpln></wordentry>
+<wordentry type="h"><form lexeme="aspire(v)">aspire -- </form> <xpln>ambition</xpln></wordentry>
+<wordentry type="h"><form lexeme="assay(v)">assay -- </form> <xpln>proue</xpln></wordentry>
+<wordentry type="h"><form lexeme="assail(v)">  Assaile -- </form> <xpln>assault</xpln></wordentry>
+<wordentry type="h"><form lexeme="ass(n)">  asse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="assembly(n)">  Assembly</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="assent(n)">assent -- </form> <xpln>agreement</xpln></wordentry>
+<wordentry type="h"><form lexeme="assentation(n)">assentation -- </form> <xpln>flattery</xpln></wordentry>
+<wordentry type="h"><form lexeme="assertion(n)">assertion -- </form> <xpln>affirmation</xpln></wordentry>
+<wordentry type="h"><form lexeme="assiduity(n)">assiduity --</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aseege(v)">asseige -- </form> <xpln>beseige</xpln></wordentry>
+<wordentry type="h"><form lexeme="assign(v)">assigne -- </form> <xpln>appoint</xpln></wordentry>
+<wordentry type="h"><form lexeme="assise(n)">  Assise</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="assistance(n)">assistance -- </form> <xpln>aide</xpln></wordentry>
+<wordentry type="h"><form lexeme="associate(n)">associat -- </form> <xpln>accompany</xpln></wordentry>
+<wordentry type="h"><form lexeme="assoil(v)">assoile -- </form> <xpln>pardon</xpln></wordentry>
+<wordentry type="h"><form lexeme="assure(v)">assure-- </form> <xpln>+ affirme</xpln></wordentry>
+<wordentry type="h"><form lexeme="assure(v)"><emend err="">assure</emend> -- </form> <xpln>+ warrant</xpln></wordentry>
+<wordentry type="h"><form lexeme="assuage(v)">  Aswage</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="astonish(v)">astonish -- </form> <xpln>feare</xpln></wordentry>
+<wordentry type="h"><form lexeme="astray(a)">astray -- </form> <xpln>wander</xpln></wordentry>
+<wordentry type="h"><form lexeme="astrolabe(n)">  Astrolabe -- </form> <xpln>instru&#173;
+ment</xpln></wordentry>
+<wordentry type="h"><form lexeme="astrology(n)">  Astrology</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="astronomy(n)">  Astronomy.</form> <xpln></xpln></wordentry>
+
+----------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="At"><alpha>A. T.</alpha>
+
+<wordentry type="h"><form lexeme="achieve(v)">atchieue -- </form> <xpln>perfection</xpln></wordentry>
+<wordentry type="h"><form lexeme="atheist(n)">  Atheiste</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="attach(v)">attach -- </form> <xpln>arrest</xpln></wordentry>
+<wordentry type="h"><form lexeme="attain(v)">attaine -- </form> <xpln>obtaine</xpln></wordentry>
+<wordentry type="h"><form lexeme="attainture(n)">attainture -- </form> <xpln>corruption</xpln></wordentry>
+<wordentry type="h"><form lexeme="attempt(n)">attempt -- -- </form> <xpln>enterprise</xpln></wordentry>
+<wordentry type="h"><form lexeme="attendance(n)">attendance -- </form> <xpln>seruice.</xpln></wordentry>
+<wordentry type="h"><form lexeme="attentiveness(n)">  Attentiuenesse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="attenuate(v)">attenuat -- </form> <xpln>diminish</xpln></wordentry>
+<wordentry type="h"><form lexeme="attire(n)">attire -- <emend err="Antick"></emend> -- </form> <xpln>ap&#173;
+parrell</xpln></wordentry>
+<wordentry type="h"><form lexeme="attonement(n)">attonement -- </form> <xpln>agreement</xpln></wordentry>
+<wordentry type="h"><form lexeme="attorney(n)">  Attoorney</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="attrap(n)">attrap -- </form> <xpln>trapping</xpln></wordentry>
+<wordentry type="h"><form lexeme="attribute(v)">attribute -- </form> <xpln>impute</xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Av"><alpha>A. V.</alpha>
+
+<wordentry type="h"><form lexeme="availe(v)">auaile -- </form> <xpln>profit</xpln></wordentry>
+<wordentry type="h"><form lexeme="avarice(n)">auarice -- </form> <xpln>coueteousness</xpln></wordentry>
+<wordentry type="h"><form lexeme="audacity(n)">audacity -- </form> <xpln>boldnesse</xpln></wordentry>
+<wordentry type="h"><form lexeme="audience(n)">audience -- </form> <xpln>attention</xpln></wordentry>
+<wordentry type="h"><form lexeme="auditor(n)">Auditor . - </form> <xpln>Keep  
+Reciptes</xpln></wordentry>
+<wordentry type="h"><form lexeme="avenge(v)">auenge - </form> <xpln>reuenge</xpln></wordentry>
+<wordentry type="h"><form lexeme="aver(v)">averr -- </form> <xpln>affirme</xpln></wordentry>
+<wordentry type="h"><form lexeme="augment(v)">augment -- </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ague(n)">Augue</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="auguration(n)">auguration -- </form> <xpln>conniue</xpln></wordentry>
+<wordentry type="h"><form lexeme="august(n)">August    </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aunt(n)">Aunt</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="avoid(v)">Auoid -- </form> <xpln>+ eschew</xpln></wordentry>
+<wordentry type="h"><form lexeme="avoid(v)"><emend err="">Auoid</emend> -- </form> <xpln>loath</xpln></wordentry>
+<wordentry type="h"><form lexeme="avoid(v)"><emend err="">Auoid</emend> -- </form> <xpln>+ empty</xpln></wordentry>
+<wordentry type="h"><form lexeme="avouch(v)">auouch -- </form> <xpln>affirme</xpln></wordentry>
+<wordentry type="h"><form lexeme="author(n)">author<emend err="ity"></emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="authority(n)">authority.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="autumn(n)">autumne - </form> <xpln>haruest</xpln></wordentry>
+------------------------
+<wordentry type="h"><form lexeme="awe(n)">awe -- </form> <xpln>feare</xpln></wordentry>
+<wordentry type="h"><form lexeme="awake(v)">Awake</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="award(n)">award -- </form> <xpln>iudgment</xpln></wordentry>
+<wordentry type="h"><form lexeme="award(v)">award a blow -- </form> <xpln>defend</xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Aw"><alpha>A. W.</alpha>
+ 
+<wordentry type="h"><form lexeme="awake(v)">Awake</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="award(n)">award -- </form> <xpln>+ iudgmennt</xpln></wordentry>
+<wordentry type="h"><form lexeme="award(v)"><emend err="">award</emend>-- </form> <xpln>+ defend</xpln></wordentry>
+<wordentry type="h"><form lexeme="award(v)"><emend err="">award</emend> </form> <xpln>blow</xpln></wordentry>
+<wordentry type="h"><form lexeme="awe(n)"> awe -- </form> <xpln>feare</xpln></wordentry>
+------------------------
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ax"><alpha>A. X</alpha>
+
+<wordentry type="h"><form lexeme="axe(n)">Axe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="axle-tree(n)">Axell-tree</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="axiom(n)">axiome -- </form> <xpln>aphorisme</xpln></wordentry>
+<wordentry type="h"><form lexeme="azure(n)">Azure -- </form> <xpln>color.</xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="46r">
+<wordgroup1 type="a" object="Ba"><alpha>B. A.</alpha>
+
+<wordentry type="h"><form lexeme="babe(n)" lexeme="baby(n)">babe. baby - </form> <xpln>child.</xpln></wordentry>
+<wordentry type="h"><form lexeme="bacheler(n)">  Batcheler - </form> <xpln>vnmarr.</xpln></wordentry>
+<wordentry type="h"><form lexeme="bacheler(n)" lexeme="art(n)">  Batcheler of art.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="Bacchus(pn)">  B. Baccus -- </form> <xpln>god</xpln></wordentry>
+<wordentry type="h"><form lexeme="put back(v)">put back -- </form> <xpln>repulse</xpln></wordentry>
+<wordentry type="h"><form lexeme="keep back(v)">Keep back -- </form> <xpln>reteine</xpln></wordentry>
+<wordentry type="h"><form lexeme="give-back(n)">giue-backe -- </form> <xpln>recoile</xpln></wordentry>
+<wordentry type="h"><form lexeme="go back(v)">goe back - </form> <xpln>returne.</xpln></wordentry>
+<wordentry type="h"><form lexeme="back-sliding(n)">Back sliding -- </form> <xpln>apostasy</xpln></wordentry>
+<wordentry type="h"><form lexeme="back(n)">  Backe.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="back-bone(n)">  Back-bonn.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="backbite(v)">backbite - </form> <xpln>slaunder.</xpln></wordentry>
+   <wordentry type="h"><form lexeme="bacon(n)">bacon</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="badge(n)">badge - </form> <xpln>armes.</xpln></wordentry>
+<wordentry type="h"><form lexeme="badger(a)">Badger -- </form> <xpln>gray</xpln></wordentry>
+<wordentry type="h"><form lexeme="badger(n)">  badger. </form> <xpln> for corne.</xpln></wordentry>
+<wordentry type="h"><form lexeme="bag(n)">  bagg</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bagpipe(n)">bagge.-- <emend err="bagage"></emend> pipe. -- </form><xpln>pipe.</xpln></wordentry>
+<wordentry type="h"><form lexeme="bag-pudding(n)">bagg pudding - </form> <xpln>pudding.</xpln></wordentry>
+<wordentry type="h"><form lexeme="bag and baggage(n)">  bag &#38; baggage</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bay(n)">  bay. </form> <xpln>for shipps to lie 
+in</xpln></wordentry>
+<wordentry type="h"><form lexeme="bay tree(n)">  bay tree.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bail(v)">  baile. -- </form> <xpln>maineprise</xpln></wordentry>
+<wordentry type="h"><form lexeme="bailiff(n)">  bailife. -- </form> <xpln>or ser&#173;
+geant</xpln></wordentry>
+<wordentry type="h"><form lexeme="bait(n)">  baite . </form> <xpln>for fish</xpln></wordentry>
+<wordentry type="h"><form lexeme="baize(n)">  baize . </form> <xpln>- frise.</xpln></wordentry>
+<wordentry type="h"><form lexeme="baking-house(n)">  <emend err="Ba"></emend> bakeing . er 
+   -- <emend err="hos"></emend> house</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="baking-pan(n)"> <emend err="">bakeing</emend>-- pan.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ballad(n)">  balad.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bay tree(n)">  bay tree.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ballast(n)">  <emend err="basas"></emend> balasse </form> <xpln>for 
+  ships</xpln></wordentry>
+<wordentry type="h"><form lexeme="baldness(n)">  Baldness.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bale(n)">  bale </form> <xpln>-- baile</xpln></wordentry>
+<wordentry type="h"><form lexeme="balk(n)">Balk - </form> <xpln>furrow.</xpln></wordentry>
+<wordentry type="h"><form lexeme="hand-ball(n)">  Ball. -- hand</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="foot-ball(n)">  foote ball.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="stow-ball(n)">  stow ball.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ball(n)" lexeme="eye(n)">ball of eye -- </form> <xpln>eye.</xpln></wordentry>
+<wordentry type="h"><form lexeme="balance(n)">  ballance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="balm(n)">  Balme</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="band(n)">  band of souldiers</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="band(n)">  band to bind.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="band(n)">  band</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="hat-band(n)">  hat band.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bane(n)">bane -- </form> <xpln>poison</xpln></wordentry>
+<wordentry type="h"><form lexeme="banneret(n)">  banneret</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bang(n)">bang --</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="banish(v)">  banish.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bank(n)">  banke . </form> <xpln>hillock.</xpln></wordentry>
+<wordentry type="h"><form lexeme="banker(n)">  banker. </form> <xpln>for money.</xpln></wordentry>
+<wordentry type="h"><form lexeme="ban(n)">banne -- </form> <xpln>curse</xpln></wordentry>
+<wordentry type="h"><form lexeme="bannings(n)">bannings. - </form> <xpln>fish.</xpln></wordentry>
+<wordentry type="h"><form lexeme="banner(n)">banner -- <emend err="banner"></emend> -- </form> <xpln>en<emend err="">&#173;</emend>
+signe.</xpln></wordentry>
+<wordentry type="h"><form lexeme="bankrupt(n)">  banquerupt</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="banquet(n)">  banquett</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="baptisement(n)">  baptisement</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barber(n)">  barber</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barbarian(n)">  Barbarian</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barbarism(n)">  Barbarisme</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bareness(n)">barenesse -- </form> <xpln>nakednesse</xpln></wordentry>
+<wordentry type="h"><form lexeme="bargain(n)">bargane.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barge(n)">barge.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bark(v)" lexeme="like(n)" lexeme="dogg(n)">barke like a dogg</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bark(n)" lexeme="tree(n)">bark of a tree</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bark(n)" lexeme="little(n)" lexeme="shipe(n)">bark or little shipe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barley(n)">barly</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barm(n)">barme </form> <xpln>or yest.</xpln></wordentry>
+<wordentry type="h"><form lexeme="barne(n)">barne</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bar-nail(n)">barnaile </form> <xpln>for horse</xpln></wordentry>
+<wordentry type="h"><form lexeme="baron(n)">baron</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bar(n)">bar -- </form> <xpln>or bolt</xpln></wordentry>
+<wordentry type="h"><form lexeme="barn(n)">barne </form> <xpln>or Couer</xpln></wordentry>
+<wordentry type="h"><form lexeme="bar(n)">barre </form> <xpln>where ye plead</xpln></wordentry>
+<wordentry type="h"><form lexeme="barrel(n)">barrell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barren(a)">barren.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barrier(n)">barrier</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barrister(n)">barrester</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="barrow(n)">barrow</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barter(n)">barter -- </form> <xpln> chaunge</xpln></wordentry>
+<wordentry type="h"><form lexeme="base(n)">base - </form> <xpln>musicke.</xpln></wordentry>
+<wordentry type="h"><form lexeme="balenesh(n)">  baleneshe </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="bashfulness(n)">  bashfulnesse.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="basilisk(n)">  basolike</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="basket(n)">  baskett</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Be"><alpha>B.E</alpha>
+<wordentry type="h"><form lexeme="besiege(v)">beseige</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Bi"><alpha>B. I</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="46v">
+<wordgroup1 type="a" object="Bo"><alpha>B. O</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Br"><alpha>B. R</alpha>
+
+
+
+
+</page>
+
+<page sig="47r">
+<wordentry type="h"><form lexeme="breath(n)">breath</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Bv"><alpha>B V</alpha>
+
+<wordentry type="h"><form lexeme="builder(n)">builder</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="business(n)">businesse</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ca"><alpha>C A </alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="47v">
+<wordgroup1 type="a" object="Ce"><alpha>C. E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ch"><alpha>C. H</alpha>
+
+<wordentry type="h"><form lexeme="change(n)">chaing</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ci"><alpha>C. I.</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cl"><alpha>C. L</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="47r">
+<wordgroup1 type="a" object="Co"><alpha>C. O</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cm"><alpha>M</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cn"><alpha>N </alpha>
+
+<emend err="Consumplio"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cr?"><alpha>R</alpha>
+
+
+
+
+</page>
+
+<page sig="48v">
+<wordentry type="h"><form lexeme="confession(n)">confession</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="connive(v)">conniue</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="counsell(n)">counsell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="courtesy(n)">courtesy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="corn(n)">corne</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="connect(v)">connect</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="corner(n)">corner</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="corruption(n)">corruption</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="coveteousness(n)">coueteousnes</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cr"><alpha>C. R</alpha>
+
+<wordentry type="h"><form lexeme="chronicle(n)">cronicles</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cv"><alpha>C. V</alpha>
+
+<wordentry type="h"><form lexeme="cupboard(n)">cupboard</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="curiosity(n)">curiosity</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Cy"><alpha>C Y</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Da"><alpha>D. A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Iv"><alpha>I. V</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="49r">
+<wordgroup1 type="a" object="De"><alpha>D E</alpha>
+
+<wordentry type="h"><form lexeme="demand(n)">demaund</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="deceived(a)">dyseued</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="delay(n)">delay</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="dead(n)">deade</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="destroy(v)">destroy</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Dik"><alpha>D I K </alpha>
+
+<wordentry type="h"><form lexeme="divorce(n)">diuorce -- </form> <xpln>forsake</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="discourage(v)">discorage</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="died(v)">died</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="diminish(v)">diminish</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="49v">
+<wordgroup1 type="a" object="Do"><alpha>D. O</alpha>
+
+<wordentry type="h"><form lexeme="doubtfulness(n)">doubtfulnesse</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Dr"><alpha>D. R.</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Dv"><alpha>D. V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Dw"><alpha>D W</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Dy"><alpha>D Y</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="50r">
+<wordgroup1 type="a" object="Ea"><alpha>E A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Eb"><alpha>E B</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ec"><alpha>E C.</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ed"><alpha>E D</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ef"><alpha>E F</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Eg"><alpha>E G </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ei"><alpha>E I</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="El"><alpha>E L</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Em"><alpha>E M</alpha>
+
+<wordentry type="h"><form lexeme="empty(a)">emty</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="En"><alpha>E </alpha>
+
+<wordentry type="h"><form lexeme="enlarge(v)">enlarge</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ensign(n)">ensigne</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="entisement(n)">entisment </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="enterprise(n)">enterprise</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ep"><alpha>E P</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Eq"><alpha>E Q</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Er"><alpha>E R.</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="50v">
+<wordgroup1 type="a" object="Es"><alpha>E S</alpha>
+
+<wordentry type="h"><form lexeme="eschew(v)">eschew</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="estimation(n)">estimation</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ei"><alpha>E I</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ev"><alpha>E V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ex"><alpha>E X</alpha>
+
+<emend err="Expell -- forsake"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ey"><alpha>E Y</alpha>
+
+<wordentry type="h"><form lexeme="eye(n)">eye</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Fa"><alpha>F A </alpha>
+
+<wordentry type="h"><form lexeme="faith(n)">faith</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Fe"><alpha>F E</alpha>
+
+
+
+
+</page>
+
+<page sig="51r">
+<wordentry type="h"><form lexeme="fear(n)">feare</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Fi"><alpha>F I</alpha>
+
+<wordentry type="h"><form lexeme="fitness(n)">fitnesse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="find(v)">find</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Fl"><alpha>F L</alpha>
+
+<wordentry type="h"><form lexeme="flattery(n)">flattery</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Fo"><alpha>F O</alpha>
+
+<wordentry type="h"><form lexeme="fortune(n)">fortune</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="foolishness(n)">foolishnesses</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="forswear(v)">forsweare</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="forsake(v)">forsake</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="51v">
+<wordgroup1 type="a" object="Fr"><alpha>F R</alpha>
+
+<wordentry type="h"><form lexeme="frustration(n)">frustration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="friendship(n)">frindship</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Fv"><alpha>F V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ga"><alpha>G A</alpha>
+
+<wordentry type="h"><form lexeme="game(n)">game</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ge"><alpha>G E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Gi"><alpha>G I </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Gl"><alpha>G L </alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="52r">
+<wordgroup1 type="a" object="Gn"><alpha>G </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Go"><alpha>G O </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Gr"><alpha>G R.</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Gv"><alpha>G V</alpha>
+
+<wordentry type="h"><form lexeme="gan(v)">gan</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Gy"><alpha>G Y</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ha"><alpha>H A </alpha>
+
+
+
+
+</page>
+
+<page sig="52v">
+<wordentry type="h"><form lexeme="harvest(n)">haruest</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="He"><alpha>H E</alpha>
+
+<wordentry type="h"><form lexeme="height(n)">height.</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Hi"><alpha>H I</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ho"><alpha>H O </alpha>
+
+<wordentry type="h"><form lexeme="hospital(n)">hospitall</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Hv"><alpha>H V</alpha>
+
+<wordentry type="h"><form lexeme="humble(a)">Humble</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="53r">
+<wordgroup1 type="a" object="Ia"><alpha>I A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Id"><alpha>I D</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ie"><alpha>I E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="If"><alpha>I F </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ig"><alpha>I G </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Il"><alpha>I L </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Im"><alpha>I M</alpha>
+
+<wordentry type="h"><form lexeme="impulse(n)">impulse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="impostume(n)">impostume</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="employing(n)">imploying</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="In"><alpha>I </alpha>
+
+<wordentry type="h"><form lexeme="inn(n)">inne</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Io"><alpha>I O</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="53v">
+<wordgroup1 type="a" object="Ir"><alpha>I R</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Is"><alpha>I S</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ka"><alpha>K A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ke"><alpha>K E</alpha>
+
+<wordentry type="h"><form lexeme="kindred(n)">Kindred</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Kn"><alpha>K </alpha>
+
+<wordentry type="h"><form lexeme="knowledge(n)">Kouwledg</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="La"><alpha>L A </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="De"><alpha>D E</alpha>
+
+
+</page>
+
+<page sig="54r">
+</wordgroup1>
+
+<wordgroup1 type="a" object="Lig"><alpha>L I g.</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Lo"><alpha>L O</alpha>
+
+<wordentry type="h"><form lexeme="loathing(n)">loathing</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Lv"><alpha>L V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ma"><alpha>M A</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="54v">
+<wordgroup1 type="a" object="Me"><alpha>M E </alpha>
+
+<wordentry type="h"><form>m</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Mi"><alpha>M I </alpha>
+
+<wordentry type="h"><form lexeme="mirth(n)">mirth</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Mo"><alpha>M O </alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="55r">
+<wordgroup1 type="a" object="Mv"><alpha>M V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Na"><alpha><damage>N</damage> A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ne"><alpha><damage>N</damage> E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ni"><alpha><damage>N</damage> I</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="No"><alpha><damage>N</damage> O</alpha>
+
+<wordentry type="h"><form lexeme="note(n)">notes</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nv"><alpha><damage>N</damage> V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Oa"><alpha>O A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ob"><alpha>O B</alpha>
+
+<wordentry type="h"><form lexeme="obtain(v)">obtaine</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="55v">
+<wordgroup1 type="a" object="Oc"><alpha>O C</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Od"><alpha>O D</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Of"><alpha>O F </alpha>
+
+<wordentry type="h"><form lexeme="offence(n)">offence</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Oi"><alpha>O I </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ok"><alpha>O K </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ol"><alpha>O L </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Om"><alpha>O M</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="On"><alpha>O </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Op"><alpha>O P </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Or"><alpha>O R </alpha>
+
+<wordentry type="h"><form lexeme="order(n)">order</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Os"><alpha>O S.</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ot"><alpha>O T </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ov"><alpha>O V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ow"><alpha>O W</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ox"><alpha>O X </alpha>
+
+<wordentry type="h"><form lexeme="ointment(n)">oyntment</form> <xpln></xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="56r">
+{col. 2]
+
+<wordentry type="h"><form lexeme="pardon(n)">pardon</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pacify(v)">pacify</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="partaker(n)">partaker</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Pe"><alpha>P E</alpha>
+
+<wordentry type="h"><form lexeme="perfection(n)">perfection</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ph"><alpha>P H </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Pi"><alpha>P I</alpha>
+
+<wordentry type="h"><form lexeme="pistol(n)">pistoll.</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Pl"><alpha>P L </alpha>
+
+
+
+
+</page>
+
+<page sig="56v">
+<wordentry type="h"><form lexeme="perfection(n)">perfection</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pardon(n)">pardon</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="plenty(n)">plenty</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Po"><alpha>P O </alpha>
+
+<wordentry type="h"><form lexeme="power(n)"> power</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Pr"><alpha>P R</alpha>
+
+<wordentry type="h"><form lexeme="profit(n)">profit</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pride(n)">pride.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="proof(n)" lexeme="matter(n)">proof of matter</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="preferment(n)">preferment</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ps"><alpha>P S</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="57v">
+<wordgroup1 type="a" object="Pv"><alpha>P V</alpha>
+
+<emend err="Put away -- forsake"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Qv"><alpha>Q V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ra"><alpha>R A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Re"><alpha>R E </alpha>
+
+<emend err="remoue -- forsake"></emend>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="57v">
+<wordgroup1 type="a" object="Rh"><alpha>R H.</alpha>
+
+<wordentry type="h"><form lexeme="revenge(n)">Reuenge</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="repair(v)">Repaire</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ri"><alpha>R I</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ro"><alpha>R O </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Rv"><alpha>R V </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sa"><alpha>S A </alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="58r">
+<wordgroup1 type="a" object="Sc"><alpha>S C</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Se"><alpha>S E</alpha>
+
+<wordentry type="h"><form lexeme="service(n)">service</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="sentence(n)">sentence</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sh"><alpha>S H</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="58v">
+<wordgroup1 type="a" object="Si"><alpha>S I </alpha>
+
+<wordentry type="h"><form lexeme="sinew(n)">sinow</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sk"><alpha>S K</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sl"><alpha>S L </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sm"><alpha>S M </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sn"><alpha>S N</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="So"><alpha>S O</alpha>
+
+
+
+
+</page>
+
+<page sig="59r">
+<wordentry type="h"><form lexeme="song(n)">song</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sp"><alpha>S P </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sq"><alpha>S Q</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="St"><alpha>S T </alpha>
+
+
+
+
+</page>
+
+<page sig="59v">
+<wordentry type="h"><form lexeme="stranger(n)">strainger</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="stillatory(n)">stillatory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="statute(n)">statute</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sv"><alpha>S V</alpha>
+
+<wordentry type="h"><form lexeme="suffer(v)">suffer</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sw"><alpha>S W</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Sy"><alpha>S Y</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="60 r">
+<wordgroup1 type="a" object="Ta"><alpha>T A</alpha>
+
+<wordentry type="h"><form lexeme="tarrying(n)">tarrying</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Te"><alpha>T E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Th"><alpha>T H </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ti"><alpha>T I </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="To"><alpha>T O </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Tr"><alpha>T R </alpha>
+
+
+
+
+</page>
+
+<page sig="60v">
+<wordentry type="h"><form lexeme="trapping(n)">trapping</form> <xpln></xpln></wordentry>
+
+<emend err="tryall"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Tv"><alpha>T V </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Tw"><alpha>T W </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Va"><alpha>V A </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ve"><alpha>V E </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vi"><alpha>V I </alpha>
+
+
+
+
+</page>
+
+<page sig="61 r">
+<wordentry type="h"><form lexeme="vision(n)">vision</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vl"><alpha>V L</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vm"><alpha>V M </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vn"><alpha>V </alpha>
+
+<wordentry type="h"><form lexeme="university(n)">vniuersity</form> <xpln></xpln></wordentry>
+<emend err="vniuerfity"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vo"><alpha>V O </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vp"><alpha>V P</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vs"><alpha>V S</alpha>
+
+<wordentry type="h"><form lexeme="use(n)">vse</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Vt"><alpha>V T </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Wa"><alpha>W A </alpha>
+
+
+
+
+</page>
+
+<page sig="61v">
+<wordentry type="h"><form lexeme="wandering(n)">wandering</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="warrant(n)">warrant.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="watch-word(n)">watch-word</form> <xpln></xpln></wordentry>
+<emend err="watch-wordd"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="We"><alpha>W E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Wh"><alpha>W H </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Wi"><alpha>W I </alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="62r">
+<wordgroup1 type="a" object="Wo"><alpha>W O </alpha>
+
+<wordentry type="h"><form lexeme="worshiping(n)">worshiping</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Wr"><alpha>W R</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ya"><alpha>Y A</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ye"><alpha>Y E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Yo"><alpha>Y O </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ze"><alpha>Z E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Zo"><alpha>Z O</alpha>
+
+A Table to the 
+Queens closet
+Opened. 1655.
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="62v">
+<wordgroup1 type="a" object="Iv"><alpha>I V</alpha>
+
+<wordentry type="h"><form lexeme="judgment(n)">iudgment</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="63r">
+<wordgroup1 type="a" object="Ab"><alpha>A b </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ac"><alpha>A c</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ad"><alpha>A d</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ae"><alpha>A e</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Af"><alpha>A f</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ag"><alpha>A g</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Aj"><alpha>A j</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ak"><alpha>A k</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="63v">
+<wordgroup1 type="a" object="Al"><alpha>Al</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Am"><alpha>A m</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="An"><alpha>An</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ao"><alpha>A o</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ap"><alpha>A p</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Aq"><alpha>A q</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Ar"><alpha>A R </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="As"><alpha>A S</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="64r">
+<wordgroup1 type="a" object="At"><alpha>A T</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Av"><alpha>A V</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Aw"><alpha>A W</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Axyz"><alpha>A X y z.</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="80r">
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lexeme="abbot(n)">abbot. ----o</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abbey(n)">abbey</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ablative case(n)">ablatiue-case</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abortive(a)">abortiue</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abricot-apple(n)">abricot-apple</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="absence(n)">absence</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abstinence(n)">abstinance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abstract(n)">abstract</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abuse(n)">abuse.</form> <xpln></xpln></wordentry>
+</wordgroup1>
+------------<wordgroup1 type="a" object="Ac"><alpha>c</alpha>
+<wordentry type="h"><form lexeme="accent(n)">accent.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acceptance(n)">acceptance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accident(n)">accident.</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accompany(v)">accompany</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accompt(n)">accoumpt</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accusation(n)">accusation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ache(n)">ache</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acorn(n)">acorne</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acquaintance(n)">aquaintance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acquittance(n)">aquittance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acre(n)">acre</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="action(n)">action oth law</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="activity(n)">actiuity</form> <xpln></xpln></wordentry>
+</wordgroup1>
+---------------<wordgroup1 type="a" object="Ad"><alpha>d</alpha>
+<wordentry type="h"><form lexeme="adamant(n)" lexeme="stone(n)">adamant ston</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="addition(n)">addition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adder(n)">adder</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adjective(n)">adiectiue</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adjunct(n)">adiunct</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="administration(n)">administration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admiral(n)">admirall seas</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admiration(n)">admiration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admission(n)">admission</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="admonition(n)">admonition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adoption(n)">adoption</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adverse(a)">aduers</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adversary(n)">aduersary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adversity(n)">aduersity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adultery(n)">adulery </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="advocate(n)">aduocate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="advowson(n)">aduowson</form> <xpln></xpln></wordentry>
+</wordgroup1>
+-----------<wordgroup1 type="a" object="Af"><alpha>f</alpha>
+<wordentry type="h"><form lexeme="affection(n)">affection</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affirmation(n)"><emend err="affirnation">affirmation</emend> </form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affliction(n)">affliction</form> <xpln></xpln></wordentry>
+</wordgroup1>
+-----------<wordgroup1 type="a" object="Ag"><alpha>g</alpha>
+<wordentry type="h"><form lexeme="age(n)">age</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aggravation(n)">agrauation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aglet(n)">aglet</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aguement(n)">aguement</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ague(n)">ague</form> <xpln></xpln></wordentry>
+</wordgroup1>
+-------------<wordgroup1 type="a" object="Ah"><alpha>h</alpha>
+</wordgroup1>
+-------------<wordgroup1 type="a" object="Ai"><alpha>i</alpha>
+ 
+<wordentry type="h"><form lexeme="aid(n)">aide</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aiune(n)">aiune</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aied(n)">aied</form> <xpln></xpln></wordentry>
+</wordgroup1>
+--------------<wordgroup1 type="a" object="Al"><alpha>l</alpha>
+<wordentry type="h"><form lexeme="alabaster(n)">alabaster</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alb(n)">albe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alchemy(n)">alchymy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alderman(n)">alderman</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alder-tree(n)">alder-tree</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ale(n)">ale</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="allegory(n)">allegory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alley(n)">alley</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="allowance(n)">allowance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="allusion(n)">allusion</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alms(n)">almes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="almond(n)">almond</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aloe(n)">aloes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alp(n)">alpes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alpha(n)">alpha</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alphabet(n)">alphabet</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="altar(n)">altar</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alum(n)">allum</form> <xpln></xpln></wordentry>
+</wordgroup1>
+-------------<wordgroup1 type="a" object="Am"><alpha>m</alpha>
+<wordentry type="h"><form lexeme="ambassage(n)">ambassage</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amber(n)">amber</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ambition(n)">ambition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ambling pace(n)">ambling pace</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<emend err="diminsh"></emend>
+<emend err="destruction"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+
+<emend err="forsaking"></emend>
+<emend err="forswearing"></emend>
+<emend err="foolishness"></emend>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="80v">
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H </alpha>
+
+<emend err="humble -"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<emend err="loathsomenes"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha><damage>N</damage></alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O </alpha>
+
+<emend err="offence"></emend>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="81r">
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+
+<emend err="power"></emend>
+<emend err="plenty"></emend>
+<emend err="pardon"></emend>
+<emend err="parfection"></emend> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+
+<emend err="suffering"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+
+<emend err="tarrying"></emend>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="81v">
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="XYZ"><alpha>X. Y. Z. </alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+--------------
+<wordentry type="h"><form lexeme="ambushment(n)">ambushment</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amice robe(n)">amesse robe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amphitheatre(n)">amphitheatre</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amphilology(n)">amphilology</form> <xpln></xpln></wordentry>
+</wordgroup1>
+--------------<wordgroup1 type="a" object="An"><alpha>n</alpha>
+<wordentry type="h"><form lexeme="analogy(n)">analogy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="analysis(n)">analosys</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anavely(n)">anauely</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anatomy(n)">anatomy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anatomy(n)">anatomy ad</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ancestor(n)">ancestors</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ankle(n)">ancle</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="andiron(n)">andiron</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="angel(n)">angell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anger(n)">anger</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="angle(n)" lexeme="rod(n)">angle rod</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anguish(n)">anguish</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aniseed(n)">aniseed</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anchor(n)">anker</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anniversary(n)">anniuersary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="annuity(n)">annuity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="answer(n)">answeare</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anticrist(n)">anticrist</form> <xpln></xpln></wordentry>
+<emend err="antidote"></emend>
+<wordentry type="h"><form lexeme="antic-work(n)">antick -- work</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antidote(n)">antidote</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antiquity(n)">antiquity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antipathy(n)">antipathy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anulled(a)">anuled</form> <xpln></xpln></wordentry>
+</wordgroup1>
+------------<wordgroup1 type="a" object="Ap"><alpha>p</alpha>
+<wordentry type="h"><form lexeme="ape(n)">ape</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aphorism(n)">aphourisme</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apology(n)">apology</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apposed(a)">aposed</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apothecary(n)">apothecary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apparrel(n)">apparrell</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appendix(n)">appendix</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appendant(n)">appendant</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appetite(n)">appetite</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="applause(n)">applause</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apple(n)">apple</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="application(n)">application</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appointing(n)">appointing</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apprehension(n)">apprehension</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apprentise(n)">apprentise</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="approach(v)">approach</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="approbation(n)">approbation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appurtenance(n)">appurtenance</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="apron(n)">apron</form> <xpln></xpln></wordentry>
+</wordgroup1>
+---------------------<wordgroup1 type="a" object="Aq"><alpha>q</alpha>
+</wordgroup1>
+---------------------<wordgroup1 type="a" object="Ar"><alpha>R</alpha>
+</wordgroup1>
+
+
+</page>
+</leme>

@@ -1,0 +1,200 @@
+<leme no="1433">
+<page sig="a2r">
+<section type="Title-page">
+A TREATISE OF
+ALL THE MUSCLES
+OF THE WHOLE
+BODIE.
+
+BY
+
+ALEXANDER READ,
+Doctor of Physicke, a Fellow of the
+Colledge of the Physicians of
+the famous City London, and
+a Brother of the Worshipfull
+Company of Barbour-&shy;
+Chirurgians of the 
+Same Citie.
+
+The Author is to read of this subject
+this next Shrove-tide publikely, in
+the Theater erected this last
+yeere by the aforesaid Com&shy;
+pany, at their extra&shy;
+ordinary great charges.
+
+LONDON,
+Printed by R. Y. for F. Constable, and are to
+be sold at his Shop under St. Martins
+Church neere Ludgate. 1637.
+</section>
+</page>
+
+<page sig="h9v">
+<section type="Glossary">
+<heading>
+THE
+EXPLICATION 
+OF SOME
+APPELLATIONS
+OF THE
+MUSCLES
+and some other parts
+of the bodie.
+</heading>
+
+<wordentry type="h"><form lang="la">ANcyroides,</form> <xpln lang="en">anchor-like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ancon,</form> <xpln lang="en">the bending of the elbow</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Acromium,</form> <xpln lang="en">the upper part of the
+shoulder-blade.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Arytenoid&aelig;us,</form> <xpln lang="en" lexeme="ewar(n)"> because it beginneth
+and endeth in the ewar-like cartilage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bronchus,</form> <xpln lang="en" lexeme="windpipe(n)">the lower part of the wind&shy;
+pipe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Biceps,</form> <xpln lang="en">because it hath two heads.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ceratoglossus,</form> <xpln lang="en">because it ariseth
+</page>
+
+<page sig="h10r">
+from the points of the bone of the
+tongue, and is inserted into the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Coracohyoid&aelig;us,</form> <xpln lang="en">because it spring&shy;
+eth from the processe of the shoulder-&shy;
+blade, like the crowes bill, and is inserted
+to the bone of the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cephalopharing&aelig;us,</form> <xpln lang="en">because it be&shy;
+ginneth where the head is joyned to the
+necke by the first <term lang="la">vertebra</term>, and is 
+inserted into the <term lang="la">pharynx</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Crycothyroid&aelig;us,</form> <xpln lang="en" lexeme="cartilage(n)">because it spring&shy;
+eth from the ring-like cartilage, and is
+inserted into the <term lang="la">thyroides</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Crycoarytenoid&aelig;us,</form> <xpln lang="en">because it be&shy;
+ginneth at the ring-like, and endeth at
+the ewar-like cartilage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Corone</form> <xpln lang="en" lexeme="process(n)">is the proces of the lower jaw.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Coracoides,</form> <xpln lang="en">like the crowes bill.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cremaster,</form> <xpln lang="en">it holds up the stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Deltoides,</form> <xpln lang="en">because it is like to the
+Greeke letter &delta;.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Geneoglossus,</form> <xpln lang="en">because it hath its
+beginning from the chinne, and is in&shy;
+</page>
+
+<page sig="h10v">
+serted into the bone of the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gluteus,</form> <xpln lang="en">because it maketh up the
+buttockes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gastrochemius,</form> <xpln lang="en">because it maketh up
+the calfe of the legge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Hypsiloglossus,</form> <xpln lang="en">because it hath its be&shy;
+ginning from the bone of the tongue, and
+is inserted into the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Hyothiroid&aelig;us,</form> <xpln lang="en">because it springeth 
+from the bone of the tongue, and is in&shy;
+serted into the bucklar-like cartilage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Larynx</form> <xpln lang="en">is the beginning of the wind&shy;
+pipe, derived from <term lang="gk">&#x03BB;&#x03B1;&#x03C1;&#x03C5;&#x03B3;&#x03B3;&#x03AF;&#x03B6;&#x03B5;&#x03B9;&#x03BD;</term>, which is
+to shout with an open mouth. It is fra&shy;
+med of four cartilages: the first is
+<term lang="la">Thyroides</term>, bucklar-like: the second and
+third is <term lang="la">Arytenoides</term>, ewar-like: the
+fourth is <term lang="la">Cricoides</term>, ring-like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Myloglossus,</form> <xpln lang="en" lexeme="grinder(n)">because it hath its be&shy;
+ginning at the root of the grinders of the
+lower jaw, &amp; is inserted into the tongue</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mastoid&aelig;us,</form> <xpln lang="en" lexeme="temple(n)">because it is inserted into
+the dugge-like processe of the tempill.</xpln></wordentry>
+</page>
+
+<page sig="h11r">
+<wordentry type="h"><form lang="la">Masseter,</form> <xpln lang="en">because it serves for eating.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pharnyx</form> <xpln lang="en">is the throat. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Psoa,</form> <xpln lang="en">because
+it is clipped in embracing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rhomboides,</form> <xpln lang="en">because it is like the
+mathematicall figure called <term lang="la">rhombus</term>,
+having foure lines, but not the 4. sides
+equall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sternohyoid&aelig;us,</form> <xpln lang="en">because it hath its
+beginning from the <term lang="la">sternum</term>, and is in&shy;
+serted into the bone of the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Styloceratohyoid&aelig;us,</form> <xpln lang="en">because it
+springeth from the bodkin-like processe,
+and is inserted into the points of the 
+bone of the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sph&aelig;nopharing&aelig;us,</form> <xpln lang="en" lexeme="wedge-bone(n)">because it spring&shy;
+eth from the wedge bone, and is inserted
+into the <term lang="la">pharnyx</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stylopharing&aelig;us,</form> <xpln lang="en">because it begin&shy;
+neth at the bodkin-like processe, and is
+inserted into the <term lang="la">pharynx</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Styloides,</form> <xpln lang="en">because it representeth the
+pin of a table-booke, or a needle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sternohyoid&aelig;us,</form> <xpln lang="en">because it begin&shy;
+</page>
+
+<page sig="h11v">
+neth at the <term lang="la">sternum</term>, and is inserted into
+the bone of the tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spinatus,</form> <xpln lang="en">which is placed by the sharp
+brimme of a bone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sigmoides,</form> <xpln lang="en">which is like to the greek
+C.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sph&aelig;noides,</form> <xpln lang="en">the wedge-like bone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sphincter,</form> <xpln lang="en">the drawer together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Thyroaritenoid&aelig;us,</form> <xpln lang="en">because it begin&shy;
+neth at the bucklar-like cartilage, and
+endeth in the ewar-like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Trigeminus,</form> <xpln lang="en">which hath three begin&shy;
+nings.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Trapezius,</form> <xpln lang="en" lexeme="geometer(n)">because it hath foure sides 
+bounded with unequall lines: for the
+Geometers so call such a figure.</xpln></wordentry>
+
+<closing>
+<term lang="la">FINIS.</term>
+</closing>
+
+</section>
+</page>
+</leme>

@@ -1,0 +1,698 @@
+<leme no="1397">
+<page sig="[a1v]">
+<section type="Title-page">
+Novemb. 16. 1639.
+
+Imprimatur.
+
+THO. WYKES.
+</page>
+
+<page sig="[a2r]">
+THE 
+DISTILLER 
+OF 
+LONDON.
+
+Compiled and set forth by the 
+speciall Licence and Command 
+of the Kings most Excel&shy;
+lent Majesty: 
+For the sole use of the Company of 
+DISTILLERS of London.
+
+And by them to bee duly ob&shy;
+served and practized.
+
+LONDON, 
+Printed by RICHARD BISHOP. 
+MDCXXXIX.
+</section>
+</page>
+
+<page no="18">
+<section type="Glossaries">
+<heading>
+The names of the severall Waters and Spirits, contained in this Book, 
+Alphabetically exprest, according to their Latine Appellations.
+
+Page. Rule.
+</heading>
+
+<wordgroup1 type="a" object="Waters and Spirits"><alpha></alpha>
+
+<wordentry type="h"><form lang="la">v. Aqua Annisi,</form> <xpln lang="en" lexeme="aniseed-water">Anise seed water</xpln>
+<lemenote>
+"Anise seed water" antedates earliest OED citation (1728).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">o. Aq. Angelicae</form> <xpln lang="en" lexeme="angelica  water(n)">Angelica water</xpln>
+<lemenote>
+"Angelica water" antedates the earliest OED citation (1687; see "angelica," n., 3, and"angel-water," n.)
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">c. Aq. Absynthij</form> <xpln lang="en" lexeme="wormwood water(n)">Wormewood water</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">yo. Aq. Balsamitae,</form> <xpln lang="en"  lexeme="balsam-mint water(n)">Balsamint water</xpln>
+<lemenote>
+"Balsamint water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ya. Aq. Caryophilorum,</form> <xpln lang="en"  lexeme="clove water(n)">Clove water</xpln>
+<lemenote>
+"Clove water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">vo. Aq. Caryophilatae</form> <xpln lang="en"  lexeme="avens water(n)">Avens water</xpln>
+<lemenote>
+"Avens water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ns. Aq. Calendulae</form> <xpln lang="en"  lexeme="marigold water(n)">Marigold water</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ny. Aq. Carui</form> <xpln lang="en"  lexeme="caraway water(n)">Caruway water</xpln>
+<lemenote>
+"Caruway water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">yt. Aq. Cinnamomi communis,</form> <xpln lang="en"  lexeme="cinnamon-water(n)">Cinnamon water common</xpln>
+<lemenote>
+"Cinnamon water common" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ye. Aq. Cinnamomi optimi,</form> <xpln lang="en"  lexeme="cinnamin-water(n)">Cinnamon water proper</xpln>
+<lemenote>
+"Cinnamon water proper" not fiound in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">no. Aq. Carminativa,</form> <xpln lang="en"  lexeme="wind water(n)">Winde water</xpln>
+<lemenote>
+"Winde water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">na. Aq. ad Crapulam,</form> <xpln lang="en"  lexeme="surfeit water(n)">Surfeit water</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">nc. Aq. Diaphoretica,</form> <xpln lang="en"  lexeme="procure(v)" lexeme="sweat(n)">Water to procure sweat</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">vn. Aq. Florum,</form> <xpln lang="en">Water of flowers</xpln>
+<lemenote>
+"Water of flowers" not found in OED but see "water flower," n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">vv. Aq. Fructuum,</form> <xpln lang="en"  lexeme="water of fruit(n)">Water of fruits</xpln>
+<lemenote>
+"Water of fruits" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">yr. Aq. Faeniculi dulcis,</form> <xpln lang="en"  lexeme="sweet fennel water(n)">Sweet Fennell water</xpln>
+<lemenote>
+"Sweet Fennell water" not in OED, and "Fennell water" antedates the earliest OED citation (1757).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">nr. Aq. Lavendulae,</form> <xpln lang="en"  lexeme="lavender-water(n)">Lavender water</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">r. Aq. Limonum, & Aurantii,</form> <xpln lang="en"  lexeme="lemon water(n)" lexeme="orange water(n)">Lymon and Orenge waters</xpln>
+<lemenote>
+"Orenge waters" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">a. Aq. Melissae,</form> <xpln lang="en"  lexeme="balm-water(n)">Balme water</xpln>
+<lemenote>
+"Balme water" antedates the earliest OED citation (1712).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">t. Aq. Menthae,</form> <xpln lang="en"  lexeme="mint water(n)">Mint water</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">yn. Aq. Majoranae,</form> <xpln lang="en"  lexeme="marjoram water(n)">Marjerome water</xpln>
+<lemenote>
+"Marjerome water" antedates the earliest OED citation (1769).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">nv. Aq. Praetiosa</form> <xpln lang="en"  lexeme="precious water(n)">Pretious water </xpln>
+<lemenote>
+"Pretious water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">vnn. Aq. Nucis Moschatae</form> <xpln lang="en"  lexeme="nutmeg water(n)">Nutmeg water</xpln>
+<lemenote>
+"Nutmeg water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ne. Aq. Pestifuga</form> <xpln lang="en"  lexeme="plague-water(n)">Plague water</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">e. Aq. Rorismarini</form> <xpln lang="en"  lexeme="rosemary water(n)">Rosemary water</xpln>
+<lemenote>
+"Rosemary water" antedates the first OED citation (1728).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">yc. Aq. Rosasolis</form> <xpln lang="en">Vulgarly so called</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">vy. Aq. Roris Solis</form> <xpln lang="en"  lexeme="ros solis(n)">Ros solis proper</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ys. Aq. Stomachica minor</form> <xpln lang="en"  lexeme="stomach water small(n)">Stomack water small comp.</xpln>
+<lemenote>
+"Stomack water" or "Stomack water small" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">yy. Aq. Stomachica major</form> <xpln lang="en"  lexeme="stomach water great(n)">Stomack water great comp.</xpln>
+<lemenote>
+"Stomack water great" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">nt. Aq. Anti Scorbutica</form> <xpln lang="en"  lexeme="scorbutic-water(n)">Scorbuticall water</xpln>
+<lemenote>
+"Scorbuticall water" antedates the first OED citation ("Scorbutick-Water" [1696]).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">vs. Aq. Salviae</form> <xpln lang="en"  lexeme="sage water(n)">Sage water</xpln>
+<lemenote>
+"Sage water" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">y. Aqua vitae</form> <xpln lang="en"  lexeme="aqua-vitae(n)">Aquavitae 1 sorts</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">n. Aqua vitae</form> <xpln lang="en"  lexeme="aqua-vitae(n)">Aquavitae 2 sorts</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="usquebaugh(n)">yv. Vsquebach.</form> <xpln lang="en">The Irish appellation.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="19">
+<heading>
+The Characters expressing the quantities, qua&shy;
+lities, and kinds of Materials and Ingredients 
+used in this Worke.
+</heading>
+
+<wordgroup1 type="t" object="Characters"><alpha></alpha>
+
+<wordentry type="h"><form lang="la">&#x211E;</form> <xpln lang="en"  lexeme="take(v)">Take</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Q. S.</form> <xpln lang="en"  lexeme="sufficient quantity(n)">Sufficient quantity.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ana</form> <xpln lang="en"  lexeme="each(pr)">of Each</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">S. A.</form> <xpln lang="en"  lexeme="according to art(n)">According to art</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">B.M.</form> <xpln lang="en"  lexeme="hot bath(n)">Hott Bath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">M.</form> <xpln lang="en"  lexeme="handful(n)">Handfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x2598;</form> <xpln lang="en"  lexeme="barrel(n)">Barrell</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Qr. </form> <xpln lang="en"  lexeme="quarter(n)">Quarter</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">gr.</form> <xpln lang="en"  lexeme="grain(n)">graine</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x02649;</form> <xpln lang="en"  lexeme="dram(n)" lexeme="ounce(n)">Dram or 1/8 ounce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x0264C;</form> <xpln lang="en"  lexeme="ounce(n)">Ounce</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x02653;</form> <xpln lang="en"  lexeme="pound(n)" lexeme="ounce(n)">Pound, or 16 ounces</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x2609;</form> <xpln lang="en"  lexeme="red rose(n)">Reed roses</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x2643;</form> <xpln lang="en"  lexeme="clove gillyflower(n)">Cloue gilliflouers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x25b3;</form> <xpln lang="en"  lexeme="red poppy(n)">Reed Poppie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x2642;</form> <xpln lang="en"  lexeme="red sanders(n)">Reed Saunders.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">y.</form> <xpln lang="en"  lexeme="rape(n)">Rape</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x2640;</form> <xpln lang="en"  lexeme="malt(n)">Mault</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#x26B9</form> <xpln lang="en"  lexeme="hop(n)">Hopps.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">A</form> <xpln lang="en"  lexeme="alum(n)">Allum.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="63">
+<heading>
+A 
+CATALOGVE 
+of the 
+MATERIALS and INGREDIENTS
+used in the precedent Rules.
+</heading>
+
+<wordgroup1 type="t" object="Roots"><alpha>Roots.</alpha>
+
+<wordentry type="h"><form lang="en"  lexeme="angelica(n)">Angelica,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"  lexeme="avens(n)">Avens,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"  lexeme="butterbur(n)">Butter-Burr,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Calamus aromaticus,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cypress(n)">Cyperus, long,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contrayerva(n)">Contra yerva,</form> <xpln lang="en"></xpln>
+<lemenote>
+"Contra verva" antedates the earliest OED citation (1648).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Enula campana,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="galangal(n)">Galingale,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gentian(n)">Gentian,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ginger(n)">Ginger,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-radish(n)">Horse Redish,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Imperatoria,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="licorice(n)">Licorice,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lovage(n)">Lovage,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orris(n)">Orris,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sassafras(n)">Sassafras,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scordium(n)">Scordium,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snake grass(n)">Snakegrasse</form> <xpln lang="en"></xpln>
+<lemenote>
+"Snakegrasse" antedates the earliest OED citation (1883).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="valerian(n)">Valerian</form> <xpln lang="en">
+<subform lang="en">common</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">garden,</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">great,</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Vincetoxicum,</form> <xpln lang="en"></xpln>
+<lemenote>
+"Vincetoxicum" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Zedoaria.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+</page>  
+  
+<page no="64">
+<wordgroup1 type="t" object="Wood"><alpha>Woods</alpha>
+
+<wordentry type="h"><form lang="la">Lignum Rhodium,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanders(n)">Saunders</form> <xpln lang="en">
+<subform lang="en">red</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">yellow</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Barks and Pills"><alpha>Barks 
+&amp; Pills.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="bay-tree(n)">Bay-tree roots,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cassia Lignea,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cinnamon(n)">Cynnamon</form> <xpln lang="en">
+<subform lang="en">common</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">white</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="citron(n)">Cytron,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="guaiacum(n)">Guiacum,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lemon(n)">Limon,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orange(n)">Orenge,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pippin(n)">Pippins,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quince(n)">Quinces,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sassafras(n)">Sassafras.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1> 
+
+<wordgroup1 type="t" object="Herbs"><alpha>Herbs</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="angelica(n)">Angelica,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arsesmart(n)">Arsmart,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bay leaf(n)">Bay leaves,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="balm(n)">Balme or Bawme,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burnet(n)">Burnett,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brookelime(n)">Brookelime,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="balsa-mint(n)" lexeme="costmary(n)">Balsamint or Cost&#124;
+mary,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carduus benedictus(n)">Carduus benedictus,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweet chervil(n)">Chervile, sweet,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clary(n)">Clarie,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calamint(n)">Callamint,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cress(n)" lexeme="watercress(n)" lexeme="garden cress(n)" lexeme="winter cress(n)" lexeme="bank cress(n)">Cresses</form> <xpln lang="en">
+<subform lang="en">water</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">garden</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">winter</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">banke</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="costmary(n)" lexeme="balsa-mint(n)">Costmary or Balsa&#124;
+mint,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white horehound(n)">Horehound, white,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lavender(n)">Lavender leaves,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lavender cotton(n)">Lavender Cotton,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)" lexeme="spearmint(n)" lexeme="red mint(n)">Mint</form> <xpln lang="en">
+<subform lang="en">speire</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">red</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="summer marjoram(n)">Marjerome, sommer,</form> <xpln lang="en"></xpln>
+<lemenote>
+"Marjerome, sommer" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pennyroyal(n)">Penny royall,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosemary(n)">Rosemarie,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rocket(n)">Rockett,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ros solis(n)">Ros solis,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rue(n)">Rue,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)">Sage</form> <xpln lang="en">
+<subform lang="en">red</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">great</subform> <subxpln lang="en"></subxpln></xpln>
+<lemenote>
+"red" or "great" sage not found in OED.
+</lemenote>
+</wordentry>
+</page>
+
+<page no="65">
+
+<wordentry type="h"><form lang="en" lexeme="scurvy-grass(n)">Scurvie-grasse,</form> <xpln lang="en">
+<subform lang="en">common, </subform> <subxpln lang="en"></subxpln>
+<subform lang="en">garden</subform> <subxpln lang="en"></subxpln></xpln>
+<lemenote>
+Neither "common" nor "garden" scurvy-grass found in OED. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stechados(n)">Staechados,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="southernwood(n)">Southernewood,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scordium(n)">Scordium,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thyme(n)" lexeme="lemon thyme(n)" lexeme="wild thyme(n)" lexeme="garden thyme(n)">Time</form> <xpln lang="en">
+<subform lang="en">wilde</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">garden</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">Lymon</subform> <subxpln lang="en"></subxpln></xpln>
+<lemenote>
+"garden" thyme antedates the earliest OED citation (1838); "Lymon" thyme antedates the earliest OED citation (1676).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tarragon(n)">Tarragon,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water trefoil(n)">Trefoile, water</form> <xpln lang="en"></xpln>
+<lemenote>
+"Trefoile, water" antedates the earliest OED citation (1860).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great valerian(n)">Valerian, great</form> <xpln lang="en"></xpln>
+<lemenote>
+"Valerian, great" antedates the earliest OED citation (1640).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wormwood(n)" lexeme="Roman wormwood(n)">Worm-wood</form> <xpln lang="en">
+<subform lang="en">common</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">romaine</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Flowers"><alpha>Flowers.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cowslip(n)">Cowslip,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="citron(n)">Cytron,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="camomile(n)">Commomile,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elder(n)">Elder,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clove gillyflower(n)">Gilliflower, clove</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gillyflower(n)" lexeme="stock-gillyflower(n)">Gilliflo: stock, 2 sorts</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jasmine(n)">Iasmine,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lavender(n)">Lavender,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lillium Convallium,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marigold(n)">Marigold,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melilot(n)">Melilote,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orange(n)">Orenge,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red poppy(n)">Poppie, red</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rose(n)" lexeme="damask rose(n)" lexeme="musk rose(n)" lexeme="red rose(n)" lexeme="rose-briar(n)">Roses</form> <xpln lang="en">
+<subform lang="en">red</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">damask</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">musk</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">bryer</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saffron(n)">Saffron,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)">Sage,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stoechas(n)">Staechas,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="linden-tree(n)"><term lang="la">Tillia</term>, or Lyndentree,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thyme(n)" lexeme="garden thyme(n)" lexeme="lemon thyme(n)" lexeme="wild thyme(n)">Time</form> <xpln lang="en">
+<subform lang="en">garden</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">Lymon</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">wilde</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honeysuckle(n)" lexeme="woodbine(n)">Woodbyne (or ho&#124;
+ney suckle.)</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1> 
+    
+<wordgroup1 type="t" object="Seeds"><alpha>Seeds.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="anise(n)">Anise,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="angelica(n)">Angelica,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basil(n)">Basill,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caraway(n)">Caruway,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cardamom(n)">Cardamums,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bank cress(n)">Cresse, bank</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweet  chervil(n)">Chervile, sweet</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coriander(n)">Coriander,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cumin(n)">Cummyn,</form> <xpln lang="en"></xpln></wordentry>
+</page>
+
+<page no="66">  
+
+<wordentry type="h"><form lang="en" lexeme="sweet fennel(n)">Fennell, Sweet</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grain of paradise(n)">Grayns of paradise,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mustard(n)">Musterd,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="radish(n)">Redish,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rocket(n)">Rockett,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scurvy-grass(n)">Scurvie grasse, garden</form> <xpln lang="en"></xpln>
+<lemenote>
+""garden" scurvy-grass not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common wormwood(n)">Wormewood, com&#124;
+mon.</form> <xpln lang="en"></xpln>
+<lemenote>
+"Wormewood, common" not found in OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+    
+<wordgroup1 type="t" object="Fruits"><alpha>Fruits.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="apricot(n)">Apricocks,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alkermes-berry(n)">Alkermesberries</form> <xpln lang="en"></xpln>
+<lemenote>
+"Alkermesberries" not found in OED but see "alkermes, n."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barley(n)" lexeme="malted(a)">Barley, maulted</form> <xpln lang="en"></xpln>
+<lemenote>
+"maulted" antedates the first citation of OED "malted," adj. (1655).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bayberry(n)">Bay berries</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cardamom(n)">Cardamums</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cherry(n)">Cherries</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="current(n)">Currans</form> <xpln lang="en">
+<subform lang="en">forraigne</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">English</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cubeb(n)">Cubebs</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clove(n)">Cloves</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grape(n)">Grapes</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hop(n)">Hopps</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="juniper berry(n)">Iuniper berries</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mace(n)">Maces</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nutmeg(n)">Nutmegs</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepper(n)" lexeme="white pepper(n)" lexeme="long pepper(n)">Pepper</form> <xpln lang="en">
+<subform lang="en">white</subform> <subxpln lang="en"></subxpln>
+<subform lang="en">long</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quince(n)">Quinces</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raspis(n)">Raspis, red</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raisin(n)">Raysins, sol</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strawberry(n)">Straw berries</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saffron(n)">Saffron</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="walnut(n)">Walnuts greene with 
+husks,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Zedoaria.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+ 
+<wordgroup1 type="t" object="Juices"><alpha>Juices.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="lemon(n)">Lymons,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="walnut(n)">Walnutts green, with 
+the husks.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Others"><alpha>Others of divers kindes.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="ambergris(n)">Amber greice,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alum(n)">Allum</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="benjamin(n)">Benjamyne,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="camphor(n)">Camphire</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="confiction of alkermes(n)">Confiction of Al&#124;
+kermes,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mithridate(n)">Methredate,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="musk(n)">Musk,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Venus treacle(n)">Treakle, Venice</form> <xpln lang="en"></xpln></wordentry>
+</page>
+
+<page no="67">
+<wordentry type="h"><form lang="en" lexeme="gillyflower(n)" lexeme="syrup(n)">Sirrup of Gilliflowers,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="storax(n)">Storax,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugar(n)">Sugar, of divers sorts.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Liquids"><alpha>Liquid Materials.</alpha>
+<wordentry type="h"><form lang="en" lexeme="wine(n)">Wines of all kindes,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beer(n)" lexeme="ale(n)">Beere and Ale,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="after-wort(n)">After-worts, or Wash</form> <xpln lang="en"></xpln>
+<lemenote>
+"After-worts" antedates the earliest OED citation (1653); "Wash" antedates the earliest OED citation (1699).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugar-water(n)">Sugar-waters,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tilt(n)" lexeme="dreg(n)" lexeme="lee(n)" lexeme="grounds(n)">Tilts, Dregs, Lees, or 
+grounds of Beere
+or Ale,</form> <xpln lang="en"></xpln>
+<lemenote>
+"Tilts" postdates the only OED citation of "tilt" in this sense (a1603).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lee(n)">Lees of wines,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spirit(n)">Spirits of wine,</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosewater(n)">Rosewater.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+  
+<closing>FINIS.</closing>
+</page>
+</section>
+</leme>
+     

@@ -1,0 +1,401 @@
+
+
+<leme no="45">
+<page sig="m6r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 0 4 7 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<heading>
+&#182; A good table for them that shall rede this sermon / and vnder
+stande nat Latin and frenche termes / vsed in englisshe
+</heading>
+
+<wordgroup1 type="a" object="a">
+&#182; <wordentry type="h"><form lexeme="ascribe(v)">Ascribe </form>/<xpln lexeme="yield(v)" lexeme="claim to(v)"> to yeld or clayme to one.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accounted(a)">Accompted </form>/<xpln lexeme="cast(a)" lexeme="reckoned(a)"> cast or rekened.</xpln>
+<lemenote>
+"Accompted" antedates the earliest OED citation (1550).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="assembled(a)">Assembled </form> <xpln lexeme="gathered together(a)">gethered to gether.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attentive(a)">Attentyue </form>/<xpln lexeme="making inwardly(a)"> inwardly markynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abominable(a)">Abominable </form>/<xpln lexeme="loathsome(a)"> lothesome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ancient(a)">Ancient </form>/<xpln lexeme="aged(a)" lexeme="old(a)"> aged or olde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accept(v)">Accept </form>/<xpln lexeme="take(v)" lexeme="allow(v)"> to take or allowe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="angelical(a)">Angelicall </form>/<xpln lexeme="heavenly(a)">  heuenly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="affliction(n)">Affliction </form>/<xpln lexeme="pain(n)" lexeme="grief(n)"> peyne or grefe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="add(v)">Adde </form>/<xpln> to put or lay more to.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="augment(v)">Augm<expan type="">en</expan>teth </form>/<xpln lexeme="inlarge(v)"> <expan type="">in</expan>largeth maketh more</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adulteress(n)">Aduoutrice </form>/<xpln> a woman aduoutrer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abandoning(n)">Ab<expan type="">an</expan>donyng </form>/<xpln lexeme="misusing(n)"> is taken for mysusyng</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arbitrement(n)">Arbitrement </form>/<xpln lexeme="will(n)" lexeme="opinion(n)"> wyll or opinion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abject(a)">Abiecte </form>/<xpln lexeme="low(a)" lexeme="outcast(a)"> lowe or out cast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accomplished(a)">Accomplysshed </form>/<xpln lexeme="done(a)" lexeme="fulfilled(a)"> done or fulfylled.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amplify(v)">Amplifieth </form>/<xpln lexeme="make(v)" lexeme="large(a)"> maketh more large.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="advocatrice(n)">Aduocatrice </form>/<xpln> is a woman that ple&#173;
+deth causes or matters.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">
+<wordentry type="h"><form lexeme="briefly(adv)">Brefely </form>/<xpln lexeme="soon(adv)" lexeme="shortly(adv)"> soone or shortly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="benign(a)">Benigne </form><xpln>is he that well and wo&#173;
+thily rewardeth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bounty(n)">Bounte </form>/<xpln lexeme="goodness(n)"> goodnes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brute(a)">Brute </form>/<xpln lexeme="unwitty(a)" lexeme="dull(a)" lexeme="slow(a)"> vnwytte dull or slowe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blaspheme(v)">Blaspheme </form>/<xpln> to speke yll or by leude
+sayeng to hynder ones honour.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">
+<wordentry type="h"><form lexeme="concern(v)">Concerneth </form><xpln lexeme="touch(v)">toucheth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="confounded(a)">Confounded </form>/<xpln lexeme="troubled(a)"> troubled or all out of 
+square and order.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compel(v)">Compelleth </form>/<xpln> constrayneth by force.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="commit(v)" lexeme="sin(v)">Comyt syn </form>/<xpln> to do synne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calamity(n)">Calamite </form>/<xpln lexeme="wretchedness(n)" lexeme="grief(n)"> wretchednes or grefe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="comprehend(v)">Comprehende </form>/<xpln lexeme="perceive(v)" lexeme="understand(v)"> perceyue or vnder&#173;
+stande.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="confidence(n)">Confidence </form>/<xpln> sure hope.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conquered(a)">Conquered </form>/<xpln> got by fyght.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="composition(n)">Composicion </form>/<xpln lexeme="treaty(n)"> a treaty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crime(n)">Crime </form>/<xpln lexeme="sin(n)" lexeme="blame(n)" lexeme="slander(n)"> synne blame or sklaunder.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="commendation(n)">C<expan type="">om</expan>mendacion </form>/<xpln lexeme="praise(n)"> preyse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="complect(v)">Complecteth </form>/<xpln lexeme="clip(v)" lexeme="contain(v)" lexeme="consider(v)" lexeme="remember(v)"> clyppeth conteyneth
+consydereth or remembreth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="clemency(n)">Clemency </form>/<xpln lexeme="mercy(n)" lexeme="pity(n)"> mercy or pite.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="congregation(n)">Congregacion </form>/<xpln> a c<expan type="">om</expan>pany gethered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conversation(n)">Conuersacion </form>/<xpln> maner in lyuynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="confer(v)">C<expan type="">on</expan>ferred </form>/<xpln> one th<expan type="">in</expan>ge laid to an other</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="celebrate(v)">Celebrate </form>/<xpln lexeme="worship(v)" lexeme="honour(v)"> worshyp or honour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carnal(a)">Carnall </form>/<xpln lexeme="fleshy(a)"> flesshye.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contemplation(n)">C<expan type="">on</expan>templacion </form>/<xpln> diligent <damage>[damaged]</damage></xpln><lemenote>Gee reads "consideration".</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="conformity(n)">Conformite </form><xpln lexeme="seemliness(n)" lexeme="shape(n)">semelynes or shappe</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contemn(v)">Contemne </form>/<xpln> set at naught.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consist(v)">Confisketh </form><xpln>is wh<expan type="">an</expan> a prince <damage>[damage]</damage>
+on a mans goodes forfayted.</xpln><lemenote>Gee reads "sesoneth".</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">
+<wordentry type="h"><form lexeme="dedicate(v)">Dedicate </form><xpln>is a thyng done and <damage>gy&#173;</damage>
+uen by cause of honour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="direct(v)">Direct </form>/<xpln lexeme="lead(v)" lexeme="shew(v)" lexeme="dress(v)"> to leade shewe or <damage>dresse</damage></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="destruction(n)">Distruction </form>/<xpln lexeme="marring(n)"> marrynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="distinction(n)">Distinction </form>/<xpln lexeme="difference(n)" lexeme="dividing(n)"> difference or diuidyng</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="divine(v)">Diuined </form>/<xpln lexeme="deemed(a)"> demed or truly spoken as
+well of thynges present as past.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="discipline(n)">Discipline </form>/<xpln lexeme="learning(n)"> lernynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="difficile(a)">Difficile </form>/<xpln lexeme="hard(a)" lexeme="uneasy(a)"> harde or vneasy</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="detect(v)">Detecte </form>/<xpln lexeme="cast(v)" lexeme="throw(v)"> cast or threwe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="deprive(v)">Depriued </form>/<xpln lexeme="put from(v)"> put from.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">
+<wordentry type="h"><form lexeme="excite(v)">Exciteth </form>/<xpln lexeme="stir up(v)" lexeme="awaken(v)"> stereth vp or awakeneth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="expedient(a)">Expedient </form>/<xpln lexeme="profitable(a)" lexeme="good(a)" lexeme="necessary(a)" lexeme="behoveful(a)"> profitable good necessa<emend err="">&#173;</emend>
+ry or behouefull.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="express(v)">Expressed </form>/<xpln> shewed playnly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eloquent(a)">Eloquent </form>/<xpln> fayre langaged.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="effectuous(a)" lexeme="effectual(a)">Effectuous or effectuall </form><xpln>is hit that
+to do a thyng hath power and wo<emend err="">&#173;</emend>
+keth moste.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exalt(v)">Exhalte </form>/<xpln> to prease vp on high.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="expel(v)">Expelled </form>/<xpln lexeme="driven out(a)"> dryuen out.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="erudite(a)">Erudite </form>/<xpln> well lerned.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="excellent(a)">Excellent </form>/<xpln lexeme="exceeding(a)"> excedynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enterprise(n)">Enterprise </form>/<xpln> taken on hande.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="extol(v)">Extolleth </form>/<xpln lexeme="advance(v)" lexeme="enhance(v)" lexeme="lift up(a)" lexeme="praise(v)"> auanceth enhaunceth
+lyfteth vp or preyseth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="encounter(v)">Encountred </form>/<xpln> met with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="excess(n)">Excesse </form>/<xpln> more than ynough.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="embrace(v)">Enbraceth </form>/<xpln lexeme="clip(v)"> clyppeth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="employ(v)">Employe </form>/<xpln lexeme="exercise(v)"> exercise or put forth</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="environ(v)">Enuiron </form>/<xpln lexeme="compass(v)" lexeme="set about(v)"> compasse or set about.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eternal(a)">Eternall </form>/<xpln lexeme="everlasting(a)"> euerlastynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enormity(n)">Enormite </form>/<xpln> out of measure.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">
+<wordentry type="h"><form lexeme="felicity(n)">Felicite </form>/<xpln lexeme="prosperity(n)" lexeme="wealth(n)"> prosperite or welthe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fornication(n)">Fornicacion </form>/<xpln> hore hauntynge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fugitive(a)">Fugitiue </form>/<xpln> vanysshynge lyghtly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fruition(n)">Fruicion </form>/<xpln> frutefull desyre.</xpln><lemenote>Gee reads "delyte" for "desyre".</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="fortify(v)">Fortifieth </form>/<xpln lexeme="strength(v)"> strengtheth</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">
+<wordentry type="h"><form lexeme="human(a)">Humayne </form>/<xpln> is what that bel<expan type="">on</expan>gen
+<emend err="ynto" source="il">vnto</emend> mankynde.</xpln></wordentry>
+
+
+</page>
+
+<page sig="m6v">
+<wordentry type="h"><form lexeme="horrible(a)">Horrible </form>/<xpln lexeme="dreadful(a)" lexeme="irksome(a)"> dredefull or erkesome.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="humility(n)">Humilite </form>/<xpln lexeme="lowliness(n)" lexeme="meekness(n)"> lowlynes or mekenes.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">
+<wordentry type="h"><form lexeme="incredible(a)">Incredible </form>/<xpln> vnneth to be beleued.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="infinite(a)">Infinite </form>/<xpln> without ende.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="interpretate(v)">Interpretate </form>/<xpln lexeme="expound(v)" lexeme="declare(v)"> expounde or declare.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="injury(n)">Iniury </form>/<xpln lexeme="harm(n)" lexeme="wrong(n)"> harme or wronge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="infamous(a)">Infamous </form>/<xpln> yll named.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inhabitant(n)">Inhabitantis </form>/<xpln lexeme="dweller(n)"> dwellers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incontinent(a)">Incontinent </form>/<xpln lexeme="shortly(adv)" lexeme="by and by(adv)"> shortly or by and by.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ineffable(a)">Ineffable </form>/<xpln lexeme="unspeakable(a)"> vnspekeable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incomparable(a)">Incomparable </form>/<xpln> without pere.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="iniquity(n)">Iniquite </form>/<xpln lexeme="unrightousness(a)" lexeme="wickedness(n)"> vnrightousnes / wikednes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="infirmity(n)">Infirmitees </form>/<xpln lexeme="sickness(n)" lexeme="disease(n)"> sickenes or diseases.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="insolent(a)">Insolent </form>/<xpln> vnwont or vnused / and is 
+taken for proude presumptuousnes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="indurate(a)">Indurate </form>/<xpln lexeme="hardened(a)"> made harde or hardned.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">
+<wordentry type="h"><form lexeme="liberality(n)">Liberalite </form>/<xpln lexeme="free(a)" lexeme="gentle(a)"> free or gentyll.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">
+<wordentry type="h"><form lexeme="mortal(a)">Mortall </form><xpln>is he that muste dye.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="misery(n)">Misery </form>/<xpln lexeme="sorrow(n)" lexeme="wretchedness(n)"> sorowe or wretchednes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="multitude(n)">Multitude </form>/<xpln> moche folke gethered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="miracle(n)">Miracle </form>/<xpln lexeme="marvel(n)" lexeme="wonder(n)"> a maruayle or a wonder.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mystical(a)">Mysticall </form>/<xpln lexeme="figured(a)"> figured.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mansion(n)">Mansions </form>/<xpln lexeme="dwelling(n)"> dwellynges.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="magnify(v)">Magnifie </form>/<xpln lexeme="crake(v)" lexeme="boast(v)"> to crake or boste.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monish(v)">Monyssheth </form>/<xpln lexeme="warn(v)"> warneth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="memory(n)">Memory </form>/<xpln lexeme="remembrance(n)"> remembrance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mollify(v)">Mollifieth </form>/<xpln lexeme="supple(v)" lexeme="tender(v)"> soupleth tendreth or
+maketh softe.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">
+<wordentry type="h"><form lexeme="necessity(n)">Necessites </form>/<xpln lexeme="need(n)"> nedis.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">
+<wordentry type="h"><form lexeme="odious(a)">Odious </form>/<xpln lexeme="hateful(a)"> hatefull.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="object(v)">Obiecteth </form>/<xpln lexeme="put(v)" lexeme="cast(v)" lexeme="lay against(v)"> putteth casteth or 
+layeth agaynst.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">
+<wordentry type="h"><form lexeme="prohibited(a)">Prohibeted </form>/<xpln lexeme="let(a)" lexeme="forbidden(a)"> let or forbyden.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prosecute(v)">Prosecute </form><xpln>is whan the mynde is
+bent towarde one to fauour hate
+or loue hym / to folowe the same.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="precept(n)"><emend err="Precepteo" source="il">Preceptes</emend> </form>/<xpln lexeme="teaching(n)"> teachynges.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="presumptuous(a)">Presumtuous </form><xpln>is whan one taketh
+vpon hym that he ought nat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ponder(v)">Pondred </form>/<xpln lexeme="weigh(v)" lexeme="consider(v)"> wayed or consydered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pestilent(a)">Pestilent </form>/<xpln lexeme="mischievous(a)"> mischeuous.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perdition(n)">Perdicion </form>/<xpln lexeme="loss(n)"> losse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perpetual(a)">Perpetuall </form>/<xpln lexeme="still(a)" lexeme="continual(a)"> styll or contynuall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="puissance(n)">Puissance </form>/<xpln lexeme="might(n)" lexeme="power(n)"> myght or power.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parable(n)">Parabol </form>/<xpln lexeme="similitude(n)" lexeme="likeness(n)"> a similitude or lykenes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prevent(v)">Preuent </form>/<xpln> come or take fyrst.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proceed(v)">Procedeth </form>/<xpln lexeme="hold on(v)"> holdeth on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prescribe(v)">Prescribeth </form>/<xpln lexeme="limit(v)" lexeme="mark(v)" lexeme="appoint(v)" lexeme="before(adv)"> lymytteth marketh
+or appoynteth before.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pleasant(a)">Pleasant </form>/<xpln lexeme="gay(a)"> gaye to ones mynde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polluted(a)">Polluted </form><xpln lexeme="dirt(v)">be durted.</xpln>
+<lemenote>
+"Durted" antedates the earliest OED citation ("dirt," v.1; 1570).
+</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="prejudice(n)">Preiudice </form>/<xpln lexeme="harm(n)"> harme.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="profound(a)">Profounde </form>/<xpln lexeme="deep(a)"> depe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prodigal(a)">Prodigall </form>/<xpln lexeme="riotous(a)"> riottous.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">
+<wordentry type="h"><form lexeme="rude(a)">Rude </form>/<xpln lexeme="unlearned(a)"> vnlerned.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="redound(v)">Redoundeth </form>/<xpln lexeme="return(v)"> returneth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reproach(n)">Reproche </form>/<xpln lexeme="reproof(n)" lexeme="blame(n)"> reprofe or blame.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="repeat(v)">Repeted </form>/<xpln lexeme="rehearse(v)"> rehersed or spok<expan type="">en</expan> agayne</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reconciled(a)">Reconciled </form>/<xpln> fauourably returned</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="regard(v)">Regarde </form>/<xpln lexeme="behold(v)"> beholde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rapine(n)">Rapine </form>/<xpln lexeme="robbery(n)"> robbery.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resist(v)">Resisteth </form>/<xpln lexeme="withstand(v)"> withstandeth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reduce(v)">Reduce </form>/<xpln> to brynge in agayne.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">
+<wordentry type="h"><form lexeme="subtle(a)">Subtyle </form>/<xpln lexeme="wily(a)"> wyly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superstitiousness(n)" lexeme="superstition(n)">Superstitiousnes or superstition </form>/<xpln>
+is vayne deuocion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seriously(adv)">Seriously </form>/<xpln lexeme="sadly(adv)" lexeme="earnestly(adv)"> sadly or ernestly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solemn(a)">Solemne </form>/<xpln lexeme="customable(a)"> customable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Satanas(pn)">Satanas </form>/<xpln lexeme="Devil, the(n)" lexeme="adversary(n)"> the dyuell / whiche is 
+say an aduersary.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stablish(v)">Stablisshe </form>/<xpln> surely grounde</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sagacite(a)">Sagasite </form>/<xpln lexeme="quick(a)" lexeme="crafty(a)"> quicke or crafty.</xpln>
+<lemenote>
+"Sagasite" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="sharnbud(n)">Scarbet </form>/<xpln lexeme="dorre(n)"> in some places of Engl<expan type="">an</expan>de
+is called a dorre / in som other places
+a shernebod / it is lyke a h<expan type="">um</expan>bullbee
+it is blacke / it fleeth in the euenyng
+and falleth in beastis donge.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">
+<wordentry type="h"><form lexeme="testimony(n)">Testimony </form>/<xpln lexeme="witness(n)"> wytnes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="transitory(a)">Transitory </form>/<xpln> is it that lyghtly goth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="temporal(a)">Temporall </form>/<xpln> duryng a tyme.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v">
+<wordentry type="h"><form lexeme="vile(a)">Vile </form>/<xpln> lyttel worthe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="usurp(v)">Vsurpe </form>/<xpln lexeme="take upon(v)"> to take vpon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="veritable(a)">Veritable </form>/<xpln lexeme="true(a)"> true.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="violate(v)">Violate </form>/<xpln lexeme="break(v)"> breke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vanquished(a)">Vanquisshed </form>/<xpln lexeme="overcome(a)"> ouercome.</xpln></wordentry>
+
+<term lang="la">Finis.</term>
+
+</wordgroup1>
+
+</page>
+</leme>

@@ -1,0 +1,2022 @@
+<leme no="275">
+
+<page sig="">
+<section type="titlepage">
+THE
+PHILOSOPHIE,
+commonlie called, 
+THE
+MORALS
+WRITTEN BY
+the learned Philosopher
+PLUTARCH
+of <f type="i">Ch&aelig;ronea.</f>
+Translated out of Greeke into English, and conferred
+<f type="i">with the Latine translations and the French,</f>
+by PHILEMON HOLLAND of
+Coventrie, Doctor in
+<f type="i">Physicke</f>.
+
+<f type="i">Whereunto are annexed the Summaries necessary to be</f>
+read before every Treatise.
+
+AT LONDON
+Printed by <f type="i">Arnold Hatfield</f>.
+1603
+</section>
+</page>
+
+<page sig="Zzzzz1r">
+<section type="glossary">
+AN EXPLANATION OF
+SUNDRY TEARMES SOMEWHAT
+obscure, in this translation of <f type="i">Plutarch</f>, in favour
+<f type="i">of the unlearned Reader; after the order
+of the Alphabet</f>.
+
+<wordgroup1 type="a" object="a">A
+
+<wordentry type="h"><form lexeme="A. Ulus(pn)"><f type="i">A, Ulses</f>,</form> <xpln>A forename a&shy;
+mong the Romans.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abyrtace(n)"><f type="i">Abyrtace</f>,</form> <xpln>A deintie 
+kinde of meat, with 
+the Medes & other 
+Barbarous nations, 
+sharpe & quicke of 
+taste to provoke and please the appetite, 
+composed of Leeks, Garlike, Cresses, Sen&shy;
+vie, Pomgranate kirnels, and such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="academy(n)"><f type="i">Academie</f>,</form> <xpln>A shadowy place full of groves, 
+a mile distant from <f type="i">Athens</f>, where <f type="i">Plato</f> the 
+Philosopher was borne, and wherein hee 
+taught.  Of it, the Academicke Philoso&shy;
+phers tooke their name; whose maner was 
+to discourse and dispute of all questions, 
+but to determine and resolve of nothing.  
+And for the great frequence and concourse 
+of scholars to that place, our Universities 
+and great schooles of learning, be named 
+Academies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aedile(n)"><f type="i">Aediles</f>,</form> <xpln lexeme="Plebeus(n)" lexeme="curule(n)">Certeine magistrates or officers in 
+<f type="i">Rome</f>: who were of two sorts; <f type="i">Plebeij</f> and 
+<f type="i">Curules</f>.  <f type="i">Plebeij</f>, of the Commons onely, 
+two in number, more ancient than the o&shy;
+ther; chosen by the people alone, to second 
+and assist the Tribunes of the Commons, 
+as their right hands.  This name they tooke 
+of the charge which they had to mainteine 
+temples and chapels:  albeit they registred 
+the Sanctions and Acts of the people, cal&shy;
+led <f type="i">Plebiscita</f>, and kept the same in their 
+owne custodie; were Clerks of the Market, 
+and looked to weights and measures, &c. 
+yea, and exhibited the games and playes 
+named <f type="i">Plebeij</f>.  <f type="i">Curules</f> were likewise twain, 
+elected out of the order and degree of the 
+<f type="i">Patritij</f>; so called of the Yvorie chaire 
+wherein they were allowed to sit, as officers 
+of greater state; and by vertue whereof, in 
+some cases, and at certein times they might 
+exercise civill jurisdiction.  It belonged un&shy;
+to these to set forth the solemnities, called 
+<f type="i">Ludi Magni</f> or <f type="i">Romani</f>:  overseers they 
+were likewise of the buildings thorowout 
+the city, aswell publike as private, in maner 
+of the <f type="i">Astynomi</f> in <f type="i">Athens</f>:  they had regard 
+unto the publike vaults, sinks, conveiances, 
+and conduits of the waters that served the 
+city, as also to the Arcenall, &c.  Moreover, 
+they had power to attach the bodies of 
+great persons:  and were charged to see un&shy;
+to the provision of corne and victuals.  At 
+the first, none but of noble families or Pa&shy;
+tricians were advanced to this place:  but in 
+processe of time, Commoners also attei&shy;
+ned thereto.  More of them; & how in <f type="i">Iulius 
+C&aelig;sars</f> time there were elected six <f type="i">Aediles</f>, 
+whereof two were named <f type="i">Cereals</f>; See <f type="i">Ale&shy;
+xander</f> at <f type="i">Alexander, lib.4.cap.4. Genial.</f> 
+dieth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aeginetic mina(n)"><f type="i">Aegineticke, Mna</f> or <f type="i">Mina</f>,</form> <xpln>Seemeth to be the 
+ancient coine or money of <f type="i">Greece</f>; for they 
+were the first that coined money:  and of 
+them came [Greek]. <f type="i">C&aelig;lius Rhodig</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aeolius modus(n)"><f type="i">Aeolius Modus</f>,</form> <xpln>In Musicke a certeine simple, 
+plaine and mild tune, apt to procure sleepe 
+and bring folke to bed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aequinox(n)"><f type="i">Aequinox</f>,</form> <xpln>That time of the yeere, when the 
+daies and nights be of equall length; which 
+hapneth twice in the yeere, to wit, in March 
+and September.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aestival(a)"><f type="i">Aestivall</f>,</form> <xpln lexeme="summer, of(n)" lexeme="solstice(n)" lexeme="tropic(n)">that is to say, Of the Summer:  as 
+the <f type="i">Aestivall</f> Solstice or Tropicke of the 
+Sunne, when he is come neerest unto us, 
+and returneth Southward from us.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Alo&iuml;d(pn)"><f type="i">Alo&iuml;de</f> or <f type="i">Alo&iuml;ade</f>, </form> <xpln lexeme="Othus(pn)" lexeme="Ephialtes(pn)" lexeme="Iphimedia(pn)" lexeme="Neptune(pn)"> were <f type="i">Othus</f> and <f type="i">Ephialtes</f>, 
+two giants, so named of <f type="i">Alo&euml;us</f> the giant 
+their supposed father:  for of his wife <f type="i">Iphi&shy;
+media, Neptune</f> begat them.  It is said, that 
+every moneth they grew nine fingers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alphabet(n)"><f type="i">Alphabet</f>,</form> <xpln lexeme="A.B.C.(n)">The order or rew of Greeke letters 
+as they stand; so called of <f type="i">Alpha</f> and <f type="i">Beta</f>, 
+the two formost letters:  and it answereth to 
+our A.B.C.</xpln></wordentry>
+</page>
+
+<page sig="Zzzzz1v">
+<wordentry type="h"><form lexeme="alternative(a)"><f type="i">Alternative</f>,</form> <xpln>By course or turnes, one after an&shy;
+other; going and comming, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amphiction(n)"><f type="i">Amphictyones</f>,</form> <xpln>Were a certein solemne coun&shy;
+sell of State in <f type="i">Greece</f>, who held twice in the 
+yeere a meeting, in the Spring and Au&shy;
+tumne, at <f type="i">Thermopyle</f>; being assembled 
+from the 12 flourishing cities of <f type="i">Greece</f>: 
+there to consult of most important affaires.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amphitheatre(n)"><f type="i">Amphitheatre</f>,</form> <xpln> A spacious shew-place; in 
+forme round, and made as it were of two 
+Theaters.  See <f type="i">Theater</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amphora(n)"><f type="i">Amphora</f>,</form> <xpln>A measure in <f type="i">Rome</f> of liquors only.  
+It seemeth to take that name of the two 
+eares it had, of either side one:  it conteined 
+eight <f type="i">Congios</f>, which are somewhat under as 
+many of our wine gallons.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amnet(n)"><f type="i">Amnets</f>,</form> <xpln>Preservatives hung about the necke, 
+or otherwise worne, against witchcraft, poi&shy;
+son, eiebiting, sicknesse, or any other evils.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anarchy(n)"><f type="i">Anarchie</f>,</form> <xpln>The state of a city or countrey with&shy;
+out government.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anaria(n)"><f type="i">Anaria</f>,</form> <xpln>A societie of men, meeting together 
+in some publicke hall for to eat and drinke:  
+Instituted first among the Thebans, like to 
+the <f type="i">Phiditia</f> in <f type="i">Laced&aelig;mon</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="annals(n)"><f type="i">Annales</f>,</form> <xpln lexeme="history(n)" lexeme="records(n)" lexeme="chronicle(n)">Histories, Records, or Chronicles, 
+conteining things done from yere to yeere.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anniversary(n)"><f type="i">Anniversarie</f>,</form> <xpln>Comming once euery yeere, at 
+a certeine time:  as the Nativity of <f type="i">Christ</f>, 
+and Sturbridge faire, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Antarctic(pn)"><f type="i">Antarcticke</f>,</form> <xpln>That is to say, Opposit unto the 
+Arcticke.  See <f type="i">Arcticke</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anitdote(n)"><f type="i">Antidote</f>,</form> <xpln lexeme="counterpoison(n)" lexeme="preservative(n)">A medicine, properly taken inwardly 
+against a poison or some pestilent and ve&shy;
+nimous disease.  A counterpoison or pre&shy;
+servative.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antipathy(n)"><f type="i">Antipathie</f>,</form> <xpln>A repugnance in nature, by reason 
+of contrarie affections; whereby some can 
+not abide the smell of roses, others may not 
+endure the sight of a Cat, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antiparistasis(n)"><f type="i">Antiparistasis</f>,</form> <xpln>A cohibition or restraint on 
+every side; whereby either colde or heat is 
+made stronger in it selfe by the restraining 
+of the contrary:  as the naturall heat of our 
+bodies in Winter, through the coldnesse 
+of the aire compassing it about:  likewise, 
+the coldnesse of the middle region of the 
+aire in Summer, by occasion of the heat on 
+both sides causing thunder and haile, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antiphony(n)"><f type="i">Antiphonie</f>,</form> <xpln>A noise of contrarie sounds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antipodes(n)"><f type="i">Antipodes</f>,</form> <xpln>Those people who inhabit under 
+and beneath our Hemisph&aelig;re, and go with 
+their feet full against ours.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apathy(n)"><f type="i">Apathie</f>,</form> <xpln lexeme="impassibility(n)">Impassibilitie, or voidnesse of all af&shy;
+fections and passions.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apaturia(n)"><f type="i">Apaturia</f>,</form> <xpln>A feast solemnized for the space of 
+foure daies at <f type="i">Athens</f> in the honour of <f type="i">Bac&shy;
+chus</f>.  So called of <f type="i">Apate</f>, that is to say, De&shy;
+ceit:  because <f type="i">Xanthius</f> the B&oelig;otian was in 
+single fight slaine deceitfully by <f type="i">Thimocles</f> 
+the Athenian.  For the tale goeth, that 
+whiles they were in combat, <f type="i">Bacchus</f> appea&shy;
+red behind <f type="i">Xanthius</f>, clad in a goats skinne:  
+and when <f type="i">Thimocles</f> charged his concur&shy;
+rent for comming into the field with an as&shy;
+sistant; as he looked backe, he was killed by 
+<f type="i">Thimocles</f> abovenamed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apology(n)"><f type="i">Apologie</f>,</form> <xpln>A plea for the defence or excuse of 
+any person.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apothegm(n)"><f type="i">Apothegme</f>,</form> <xpln>A short sententious speech.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apoplexy(n)"><f type="i">Apoplexie</f>,</form> <xpln>A disease comming suddenly in 
+maner of a stroke, with an universall asto&shy;
+nishment and deprivation of sense and 
+motion, which either causeth death quicke&shy;
+ly; or else endeth in a dead palsey.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="archontes(n)"><f type="i">Archontes</f>,</form> <xpln>Were chiefe magistrates at <f type="i">A&shy;
+thens</f>, at first every tenth yeere; and after&shy;
+wards yeerely chosen by lot, unto whom 
+the role of the common-welth in their po&shy;
+pular state was committed:  of whom the 
+first was named [Greek], that is to say, King:  
+the second, <f type="i">Archon</f>, that is to say, Ruler: 
+the third, <f type="i">Polemarchus</f>: and the other six, 
+<f type="i">Thesmothel&aelig;</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Arctic(a)"><f type="i">Arctick</f>,</form> <xpln>that is to say, Northerly; so called 
+of <f type="i">Arctos</f> in Greeke, which signifieth the 
+Beare, that is to say, those conspicuous sea&shy;
+ven starres in the North, named <f type="i">Charle&shy;
+mains</f> waine; neere unto which is that 
+pole or point of the imaginarie axell-tree, 
+about which the heavens turne, which 
+thereupon is named, The pole Arctick:  and 
+over against it, underneath our Hemi&shy;
+sph&aelig;re, is the other pole, called Antarctick, 
+in the South part of the world.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aristocracy(n)"><f type="i">Aristocratie</f>,</form> <xpln>A forme of Government, or a 
+State wherein the nobles and best men be 
+Rulers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aromatize(v)">To <f type="i">Aromatize</f>,</form> <xpln>that is to say, To season or 
+make pleasant, by putting thereto some 
+sweete and odoriferous spices.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="astragalote mastis(n)"><f type="i">Astragalote Mastis</f>,</form> <xpln>A scourge or whip, the 
+strings whereof are set and wrought with 
+ankle-bones, called <f type="i">Astragali</f>,  thereby to 
+give a more grievous lash.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="atomi(n)"><f type="i">Atomi</f>,</form> <xpln>Indivisible bodies like to motes in 
+the Sunne beames; of which <f type="i">Democritus</f> 
+and <f type="i">Epicurus</f> imagined all things to be 
+made.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Attic pure(n)"><f type="i">Atticke pure</f>,</form> <xpln>that is to say, The most fine and 
+eloquent:  for in <f type="i">Athens</f> they spake the pu&shy;
+rest Greeke; insomuch as <f type="i">Thucydides</f> cal&shy;
+</page>
+
+<page sig="Zzzzz2r">
+led it [Greek], that is to say, Greece of 
+Greece, as one would say, the very quin&shy;
+tenssence of Greece.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Averrunt(pn)" lexeme="Averruncani(pn)"><f type="i">Averrunct</f> or <f type="i">Averruncani</f>,</form> <xpln>Were gods a&shy;
+mong the Romans, supposed to put by and 
+chace away evils and calamities:  such as 
+<f type="i">Hercules</f> and <f type="i">Apollo</f> among the Greekes, 
+called thereupon <f type="i">Apotrop&aelig;i</f>,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="auspices(n)"><f type="i">Auspices</f>,</form> <xpln><f type="i">Plutarch</f> seemeth to take for <f type="i">Augu&shy;
+res</f>, that is to say, Certeine priests or sooth&shy;
+saiers, who by the inspection and observa&shy;
+tion of birds did foretell future things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="axiom(n)"><f type="i">Axiomes</f>,</form> <xpln>Were principal propositions in Lo&shy;
+gicke, of as great authoritie and force as 
+Maximes in law:  and it should seeme that 
+those Maximes be derived corruptly from 
+Axiomes.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">B
+
+<wordentry type="h"><form lexeme="Bacchanalia(n)"><f type="i">BAcchanalia</f>,</form> <xpln>named also <f type="i">Dionysia</f>, Certein 
+licentious festivall solemnities in the 
+honor of <f type="i">Bacchus</f>, performed at the first 
+by day light, and afterward in the night 
+season, with all maner of filthy wanton&shy;
+nesse:  instituted first in <f type="i">Athens</f>, and other 
+cities of <f type="i">Greece</f> euery three yeeres:  in <f type="i">Ae&shy;
+gypt</f> also:  at last they were taken up in <f type="i">Italy</f> 
+and at <f type="i">Rome</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bacchiadae(pn)"><f type="i">Bacchiad&aelig;</f>,</form> <xpln>A noble familie in <f type="i">Corinth</f>, who for 
+the space almost of 200. yeeres there ruled.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bachyllion(n)"><f type="i">Bachyllion</f>,</form> <xpln>A song of daunce, which seemeth 
+to take the name of a famous Trag&oelig;dian 
+poet named <f type="i">Bachyllus</f>, who devised and 
+practised it; like as <f type="i">Pyladion</f>, or <f type="i">Pylades</f>, as 
+notable as a Com&oelig;dian.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barbarism(n)"><f type="i">Barbarisme</f>,</form> <xpln>A rude and corrupt maner of 
+speech, full of barbarous and absonant 
+words.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="basis(n)"><f type="i">Basis</f>,</form> <xpln>The flat, piedstall or foote of a Co&shy;
+lumne, pillar, statue, or such like, whereup&shy;
+on it standeth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Boeotarch(pn)"><f type="i">B&oelig;otarches</f> or <f type="i">B&oelig;otarch&aelig;</f>,</form> <xpln>The soueraigne ma&shy;
+gistrate or Ruler of the B&oelig;otians.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="boeotius(n)"><f type="i">B&oelig;otius</f>,</form> <xpln>a kinde of Mesure of Note in Musick 
+used in <f type="i">B&oelig;otia</f>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">C
+
+<wordentry type="h"><form lexeme="Caius(pn)"><f type="i">CAius</f>,</form> <xpln>A common forename to many 
+families in <f type="i">Rome</f>, and <f type="i">Caia</f> to the wo&shy;
+man kinde:  as usuall as <f type="i">John</f> and <f type="i">Jone</f> with 
+us, as appeereth by this forme of speech or&shy;
+dinary in mariage; Where thou are <f type="i">Caius</f>, I 
+will be <f type="i">Caia</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calends(n)"><f type="i">Calends</f>,</form> <xpln>See <f type="i">Kalends</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="callasitre(n)"><f type="i">Callasitres</f>,</form> <xpln>Hardnesse in maner of brawn, as in 
+the skinne of hands or feet, occasioned by 
+much labour and travell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cancerous(a)"><f type="i">Cancerous</f>,</form> <xpln lexeme="wolf(n)">that is to say, Resembling a certeine 
+hard tumor or swelling, occasioned by me&shy;
+lancholicke bloud, named a Cancer, for 
+the likenesse it hath to a crab-fish, (named 
+in Latine <f type="i">Cancer</f>) partly, for the swelling 
+veines appearing about it, like unto the feet 
+or cleis of the said fish:  and in part, for that 
+is not easily remooved, no more than the 
+crab if it once settle to a place:  & lastly, be&shy;
+cause the colour is not much unlike.  This 
+swelling if it breake out into an ulcer, hard&shy;
+ly or unneth admitteth any cure, and by 
+some is called a Wolfe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="candyly(n)"><f type="i">Candyli</f>,</form> <xpln>A kind of dainty meat made with ho&shy;
+ny and milke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="candys(n)"><f type="i">Candys</f>,</form> <xpln>an ornament of Persians, Medians, 
+and other East nations; much like to a 
+Diademe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="catamite(n)"><f type="i">Catamite</f>,</form> <xpln lexeme="baggage(n)">A boy abused against kinde:  a bag&shy;
+gage.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cataplasm(n)"><f type="i">Cataplasme</f>,</form> <xpln lexeme="pultess(n)">A pultesse or grosse maner of pla&shy;
+ster.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cauterize(v)">To <f type="i">Cauterize</f>,</form> <xpln>To burne or seare with a red hot 
+iron or other mettall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cenotaph(n)"><f type="i">Cenotaph</f>,</form> <xpln>An emptie Tombe or Sepulcher, 
+wherein no corps is interred.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="censor(n)"><f type="i">Censours</f>,</form> <xpln>Magistrates of State in <f type="i">Rome</f>, whose 
+charge was to valew and estimate mens 
+goods, and enroll them accordingly in 
+their seuerall ranges:  Also to demise unto 
+certaine farmers, called Publicanes, the 
+publicke profits of the city for a rent, and 
+to put foorth the city works unto them, to 
+be undertaken at a price.  Likewise their of&shy;
+fice it was to oversee mens maners, where&shy;
+by oftentimes they woulde deprive Sena&shy;
+tours of their dignitie:  take from Gentle&shy;
+men their horses of service and rings:  dis&shy;
+place commanders out of their owne tribe:  
+disable them for giving voices; and make 
+them &AElig;rarij.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="centre(n)"><f type="i">Centre</f>,</form> <xpln>The middle pricke of a circle or globe, 
+equally distant from the circumference 
+thereof.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="centumviri(n)"><f type="i">Centumviri</f>,</form> <xpln>A certeine Court of Judges in 
+<f type="i">Rome</f>, chosen three out of every tribe.  And 
+albeit there were 35. tribes, and the whole 
+number by that account amounted to an 
+hundred and five; yet in round reckoning, 
+and by custome, they went under the name 
+of an hundred, and therefore were called 
+<f type="i">Centumviri</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cercopes(n)"><f type="i">Cercopes</f>,</form> <xpln>Certaine ridiculous people inhabi&shy;
+ting the Iland <f type="i">Pitherusa</f>, having tailes like 
+monkeys, good for nought but to make 
+sport.</xpln></wordentry>
+</page>
+
+<page sig="Zzzzz2v">
+<wordentry type="h"><form lexeme="chalon(n)"><f type="i">Chalons</f>,</form> <xpln>A small piece of brasse money; the 
+eighth part or (as some say) the sixth, of the 
+Atticke <f type="i">Obolus</f>:  somewhat better than 
+halfe a farthing or a cue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="music, chromatic(n)"><f type="i">Chromaticke Musicke</f>,</form> <xpln>Was soft, delicate and 
+effeminate, ful of descant, fained voices and 
+quavering, as some are of opinion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cidaris(n)"><f type="i">Cidaris</f>,</form> <xpln>An ornament of the head, which in 
+<f type="i">Persia, Media,</f> and <f type="i">Armenia</f>, the Kings and 
+High priests wore, with a blew band or rib&shy;
+band about it, beset with white spots.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cinaradae(n)"><f type="i">Cinarad&aelig;</f>,</form> <xpln>A familie descended from <f type="i">Cinaras</f>.  
+Some read <f type="i">Cinyrad&aelig;</f>, and <f type="i">Cinyras</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumgyration(n)"><f type="i">Circumgyration</f>,</form> <xpln lexeme="turning round(n)" lexeme="winding round(n)">A turning or winding round.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cn.(pn)"><f type="i">Cn.</f>,</form> <xpln>A forename to some houses in <f type="i">Rome</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="earth, Colian(n)"><f type="i">Colian earth</f>,</form> <xpln>So called of <f type="i">Colias</f> a promontory 
+or hill in the territorie of <f type="i">Attica</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colleague(n)"><f type="i">Colleague</f>,</form> <xpln>A fellow or companion in office.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colony(n)"><f type="i">Colonies</f>,</form> <xpln>Were townes wherein the Romanes 
+placed citizens of their owne to inhabit, ei&shy;
+ther as Free-holders, or tenants & underta&shy;
+kers; endowed with franchises and liberties 
+diversly:  Erected first by <f type="i">Romulus</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="comoedia vetus(n)"><f type="i">Com&oelig;dia vetus</f>,</form> <xpln>Licentiously abused all maner 
+of persons, not forbearing to name and tra&shy;
+duce upon the Stage even the best men, 
+such as noble <f type="i">Pericles</f>, wise <f type="i">Solon</f>, and just 
+<f type="i">Aristides</f>:  nay it spared not the very State it 
+selfe and bodie of the Common-weale; 
+whereupon at length it was condemned 
+and put downe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="concion(n)"><f type="i">Concions</f>,</form> <xpln>Orations or speeches made openly 
+before the body of the people, such pro&shy;
+perly as the Tribunes of the Commons u&shy;
+sed unto them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="congiarum(n)"><f type="i">Congiarium</f>,</form> <xpln>a dole or liberall gift of some 
+Prince or Noble person bestowed upon the 
+people.  It tooke the name of that measure 
+<f type="i">Congius</f>, much about our gallon, which was 
+given in oile or wine, by the poll:  but after&shy;
+wards, any other such gift or distribution, 
+whether it were in other victuals, or in mo&shy;
+ney, went under that name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consul(n)"><f type="i">Consuls</f>,</form> <xpln>two in number, Soveraigne Magi&shy;
+strates in <f type="i">Rome</f>, succeeding in the place of 
+Kings, with the same authoritie and roiall 
+ensignes:  onely they were chosen yeerely.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contignate(a)"><f type="i">Contignate</f>,</form> <xpln>Close set together, so as they touch 
+one another, as houses adjoining.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contusion(n)"><f type="i">Contusions</f>,</form> <xpln lexeme="bruise(n)" lexeme="dry-beating(n)" lexeme="crush(n)">Bruises, dry-beatings, or crushes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="convulsion(n)"><f type="i">Convulsions</f>,</form> <xpln lexeme="cramp(n)">Plucking or shooting paines:  
+Cramps.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cordax(n)"><f type="i">Cordax</f>,</form> <xpln>A lascivious and unseemly kinde of 
+daunce, used in Com&oelig;dies at the first, but 
+misliked afterwards and rejected.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="critic(n)"><f type="i">Criticks</f>,</form> <xpln>Grammarians, who tooke upon them 
+to censure and judge Poemes and other 
+works of authors; such as <f type="i">Aristarchus</f> was.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="days, critical(n)"><f type="i">Criticall daies</f>,</form> <xpln>In Physicke be observed accor&shy;
+ding to the motion of the humour and the 
+Moone; in which the disease sheweth some 
+notable alteration, to life or death, as if the 
+patient had then his dome.  In which re&shy;
+gard we say, that the seventh day is a king; 
+by the sixth, a tyrant.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cube(n)"><f type="i">Cube</f>,</form> <xpln>A square figure:  as in Geometrie, the 
+Die; have sixe faces foure square and 
+even:  in Arithmeticke, a number multipli&shy;
+ed in it selfe; as nine arising of thrice three, 
+and sixteene of foure times foure.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="curvature(n)"><f type="i">Curvature</f>,</form> <xpln>that is to say, Bending round, as in 
+the felly of a wheele.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corollary(n)"><f type="i">Corollarie</f>,</form> <xpln lexeme="overdeal(n)" lexeme="overmeasure(n)">An overdeale, or overmeasure, gi&shy;
+ven more than is due or was promised.</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Curule chaire</f>,</form> <xpln>A seat of estate among the Ro&shy;
+mans made of Ivorie; whereupon certaine 
+Magistrates were called <f type="i">Curules</f>, who were 
+allowed to sit thereon:  as also Triumphes 
+were named <f type="i">Curules</f>, when those that tri&shy;
+umphed were gloriously beseene in such a 
+chaire, drawen with a chariot, for distincti&shy;
+on of Oration, wherein Captaines rode on 
+horsebacke onely.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cyath(n)"><f type="i">Cyath</f>,</form> <xpln>A small measure of liquid things:  the 
+twelfth part of <f type="i">Sextarius</f>, which was much 
+about our wine quart.  So that a <f type="i">Cyath</f> may 
+go for three good spoonefuls, and answe&shy;
+reth in weight to an ounce and halfe, with 
+the better.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cynic(n)"><f type="i">Cynicke Philosophers</f>,</form> <xpln>Such as <f type="i">Antisthenes, Di&shy;
+ogenes</f> and their followers were:  so named 
+of <f type="i">Cynosarges</f>, a grove or schoole without 
+<f type="i">Athens</f>, where they taught:  or rather of 
+their dogged and currish maner of biting; 
+barking at men, in noting their lives over 
+rudely.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">D
+
+<wordentry type="h"><form lexeme="D. Decius(pn)"><f type="i">D. Decius</f>,</form> <xpln>A forename.  For <f type="i">Decius</f>, al&shy;
+though it were the Gentile name of 
+an house in <f type="i">Rome</f>, yet grew afterwards to be 
+a forename, as <f type="i">Paulus</f>:  and likewise fore&shy;
+names at the first, in processe of time, came 
+to name Families.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="D. Decimus(pn)"><f type="i">D. Decimus</f>,</form> <xpln>A forename to certeine Romans, 
+as namely to <f type="i">Brutus</f> surnamed <f type="i">Albinus</f>, one 
+of the conspiratours that killed <f type="i">Iul. C&aelig;sar</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="decade(n)"><f type="i">Decade</f>,</form> <xpln>That which conteineth tenne:  as the 
+Decades of <f type="i">Livie</f>, which consist every one 
+of tenne books.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="democraty(n)"><f type="i">Democratie</f>,</form> <xpln>A free State, or popular gouern&shy;
+ment; wherein every citizen is capable of 
+soveraigne Magistracy.</xpln></wordentry>
+</page>
+
+<page sig="Zzzzz3r">
+<wordentry type="h"><form lexeme="desiccative(a)"><f type="i">Desiccative</f>,</form> <xpln lexeme="drying(a)">that is to say, Drying, or having 
+the power to drie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diatessaron(n)"><f type="i">Diatessaron</f>,</form> <xpln>A consonance or concord in Mu&shy;
+sick, called a Fourth, whereof there be foure 
+in the Scale which compriseth fifteene 
+strings:  it answereth to the proportion, 
+Epitritos; for it consisteth of three and one 
+third part.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diapent(n)"><f type="i">Diapente</f>,</form> <xpln>A consonance or concord in Mu&shy;
+sicke, called a Five, it answereth to the pro&shy;
+portion Hemiolios, or Sesquialtera:  for 
+three conteineth two and halfe; three and 
+two make five.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diapason(n)"><f type="i">Diapason</f>,</form> <xpln>a perfect consonance conteining 
+two fourths; or made of <f type="i">Diatesseron</f> and 
+<f type="i">Diapente</f>, As if it consisted of all:  an Eight.  
+It answereth to duple proportion, or <f type="i">Di&shy;
+plasion</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="disdia pason(n)"><f type="i">Disdia pason</f>,</form> <xpln lexeme="duple eight(n)" lexeme="quadruple fourth(n)">A duple Eight; or quadruple 
+Fourth; which was counted in old time the 
+greatest Systema in the Musicke scale.</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Diastema</f>,</form> <xpln>The intervall in the scale of Musick.  
+Also the rest or Time, of which and of 
+sounds or notes consisteth Diatonicke 
+Musicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diazeugmenon(n)"><f type="i">Diazeugmenon</f>,</form> <xpln>Of disjuncts in Musicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diaphoretical(a)"><f type="i">Diaphoretical</f> or <f type="i">Diphoretical</f>,</form> <xpln>So is called in 
+Physicke Excessive sweat, whereby the spi&shy;
+rits be spent, and the body much weakened 
+and made faint, as in the disease Cardiaca.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="music, diatonic(n)"><f type="i">Diatonique Musicke</f>,</form> <xpln>Keepeth a meane tempe&shy;
+rature betweene Chromaticke, and En&shy;
+harmoniacke:  and may go for plaine song, 
+or our Musicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diatonos(n)"><f type="i">Diatonos</f>,</form> <xpln>A note in Musicke.  <f type="i">Diatonos Hypa&shy;
+ton</f>, D, SOL RE.  <f type="i">Diatonos Meson</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dictator(n)"><f type="i">Dictatour</f>,</form> <xpln>A soveraigne Magistrate above all 
+others in <f type="i">Rome</f>, from whom no appeale was 
+granted, meere absolute and king-like; but 
+that his time of rule was limited within sixe 
+moneths ordinarily:  so named, because he 
+onely said the word and it was done; or for 
+that he was <f type="i">Dictus</f>, that is to say, nomina&shy;
+ted by one of the Consuls, usually in some 
+time of great danger of the state, and not 
+otherwise elected.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diesis(n)"><f type="i">Diesis</f>,</form> <xpln>The quarter of a note in Musicke; or 
+the least time or accent, G, SOL, RE, UT.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Dionysius in Corinth(n)"><f type="i">Dionysius in Corinth</f>,</form> <xpln>An usuall proverbe in 
+<f type="i">Greece</f>, against such as are upon their pros&shy;
+perous estate, so proud and insolent, as 
+they forget themselves and oppresse their 
+inferiors; putting them in minde that they 
+may have a fall as well as <f type="i">Dionysius</f>, who ha&shy;
+ving beene a mighty and absolutely Mo&shy;
+narch of <f type="i">Sicily</f>, was driven at last to teach 
+a Grammar and Musicke schoole in <f type="i">Co&shy;
+rinth</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dithyramb(n)"><f type="i">Dithyrambs</f>,</form> <xpln>Were songs or hymnes in the 
+honour of <f type="i">Bacchus</f>, who was surnamed <f type="i">Di&shy;
+thyrambus</f>, either because hee was borne 
+twice, and came into this world at two 
+dores; once out of his mother <f type="i">Senerleus</f> 
+wombe, and a second time out of his father 
+<f type="i">Jupiters</f> thigh:  or else of <f type="i">Lythirambus</f>, ac&shy;
+cording as <f type="i">Pindarus</f> writeth.  For when <f type="i">Ju&shy;
+piter</f> had sowed him within his thigh, at 
+what time as he should come forth againe, 
+he cried foorth, [Greek], that is, 
+Undoe the seame, Undoe the seame.  The 
+Poets who composed such Hymnes were 
+called Dithyrambicques, whose verses and 
+words were darke and intricate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="divination(n)"><f type="i">Divination</f>,</form> <xpln lexeme="soothsaying(n)">Soothsaying, or foretelling of 
+future things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dolichus(n)"><f type="i">Dolichus</f>,</form> <xpln>A long carriere or race, containing 
+twelve, or (as some say) 24. Stadia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Dorian(a)"><f type="i">Dorian</f>, or <f type="i">Doricke Musick</f>,</form> <xpln>Was grave and so&shy;
+ber:  so called, for that the Dorians first de&shy;
+vised and most used it.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drachme(n)"><f type="i">Drachme</f> or <f type="i">Dram</f></form> <xpln>The eight part of an 
+ounce.  Also a peece of money valued at se&shy;
+ven pence halfe-penie in silver, and in gold 
+much about a french crowne.  The Romane 
+<f type="i">denarius</f> was &aelig;quivalent unto it.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">E
+
+<wordentry type="h"><form lexeme="echo(n)"><f type="i">ECho</f>,</form> <xpln>A resonance, or resounding of the 
+last part of the voice or words delivered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Echo-pan(n)"><f type="i">Echo-pan</f>,</form> <xpln>A song, of <f type="i">Echo</f> supposed to be a 
+Nymph not visible, but woonderfully be&shy;
+loved of <f type="i">Pan</f>, the Heardmens god.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ecliptic(a)"><f type="i">Eclipticke</f>,</form> <xpln>making or occasioning an eclipse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elegi(n)"><f type="i">Elegi</f>,</form> <xpln>Lamentable and dolefull ditties, com&shy;
+posed of unequall verses, as the Hexame&shy;
+ter and Pentameter; and such be called <f type="i">E&shy;
+ligiake</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elench(n)"><f type="i">Elenchs</f>,</form> <xpln>subtile arguments devised to reproove 
+or confute.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elotae(n)"><f type="i">Elot&aelig;</f>,</form> <xpln>The common slaves that the Laced&aelig;&shy;
+monians used, and emploied in base mini&shy;
+steries, as publicke executions, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elucidary(n)"><f type="i">Elucidaries</f>,</form> <xpln>Expositions or Declarations of 
+things that be obscure and darke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="embrochalion(n)"><f type="i">Embrochalion</f>,</form> <xpln>a devise that Physicians have to 
+foment the head or any other part, with 
+some liquor falling from aloft upon it, in 
+maner of raine, whereupon it tooke the 
+name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emphatical(a)"><f type="i">Emphaticall</f>,</form> <xpln>that is to say, Expresse and verie 
+significative.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="physician, empiric(n)"><f type="i">Empiricke Physicians</f>,</form> <xpln>Who without regard ei&shy;
+</page>
+
+<page sig="Zzzzz3v">
+ther of the cause in a disease, or the consti&shy;
+tution and nature of the patient, goe bold&shy;
+ly to worke with those meanes and medi&shy;
+cines whereof they had experience in 
+others, fall it out as it would.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="empusa(n)"><f type="i">Empusa</f>,</form> <xpln>A certeine vaine and fantasticall illu&shy;
+sion, sent by the divell, or as the Painims 
+say, by <f type="i">Hecate</f>, for to fright infortunate 
+folke.  Appeare it doth in divers formes, 
+and seemeth to go with one legge (where&shy;
+upon it took the name, <f type="i">quasi</f> [Greek]) for 
+one foote or legge it hath of brasse, the o&shy;
+ther of an asse; and therefore it is named al&shy;
+so [Greek] or [Greek].</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="encomiastical(a)"><f type="i">Encomiastical</f>,</form> <xpln>Perteining to the praise of a 
+thing or person.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="endrome(n)"><f type="i">Endrome</f>,</form> <xpln>A kinde of bickering or conflict.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="endymatia(n)"><f type="i">Endymatia</f>,</form> <xpln>A kinde of daunce or Musicall 
+Note.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enharmonion(n)"><f type="i">Enharmonion</f>,</form> <xpln>one of the three generall sorts of 
+Musicke:  song of many parts, or a curious 
+concent of sundry tunes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enthymeme(n)"><f type="i">Enthymemes</f>,</form> <xpln>Unperfect syllogismes, or short 
+reasonings, when one of the premisses is 
+not expressed, yet so understoode, as the 
+conclusion neverthelesse is inferred.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epact(n)"><f type="i">Epact</f>,</form> <xpln>The day put to, or set in, to make the 
+leape yeere.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ephori(n)"><f type="i">Ephori</f>,</form> <xpln>Certeine Magistrates or Superinten&shy;
+dents for the people in <f type="i">Sparta</f>, in oppositi&shy;
+on to the kings, and to take downe their re&shy;
+gall power:  such as were the Tribunes of 
+the Commons at <f type="i">Rome</f>, ordeined for to 
+abridge the Consuls absolute authoritie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epiali(n)"><f type="i">Epiali</f>,</form> <xpln>Be fevers of the Quotidian kind, that is 
+continuall:  that have an unequall distem&shy;
+perature, both of colde and heat at once:  
+but the heat seemeth to be milde and gen&shy;
+tle at first:  whereupon they tooke that 
+name.  These fevers also, for the same reason 
+be called [Greek].</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="disease, epidemial(n)"><f type="i">Epidemial diseases</f>,</form> <xpln>Such as are occasioned by 
+some common cause, and therefore spred, 
+and take hold of all persons indifferently in 
+a tract or city:  as the pestilence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epitomize(v)">To <f type="i">Epitomize</f>,</form> <xpln>To relate or pen a thing brief&shy;
+ly and by way of an abbreviarie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epitritos(n)"><f type="i">Epitritos</f>,</form> <xpln lexeme="sesquitertion(n)">The proportion sesquitertion, 
+whereby eight exceedeth sixe, namely by 
+a third part.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="etymology(n)"><f type="i">Etymologie</f>,</form> <xpln>the knowledge of the <emend err="origniall">originall</emend> of 
+words, and from whence they be derived.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eviration(n)"><f type="i">Eviration</f>,</form> <xpln lexeme="gelding(n)">Gelding, or disabling for the act of 
+generation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exharmonian(n)"><f type="i">Exharmonians</f>,</form> <xpln>Discords or dissonances in 
+Musicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ecstasy(n)"><f type="i">Exstasie</f> or <f type="i">Ecstasie</f>,</form> <xpln>A traunce or transportati&shy;
+on of the minde, occasioned by rage, ad&shy;
+miration, feare, &c. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">F
+
+<wordentry type="h"><form lexeme="flatulent(a)">FLatulent</f>,</form> <xpln lexeme="windy(a)">Windy, or engendring winde:  
+as pease and beanes, be flatulent meat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fomentation(n)"><f type="i">Fomentations</f>,</form> <xpln>in <f type="i">Physicke</f>, be properly devises, 
+for to be applied unto any greeved part:  ei&shy;
+ther to comfort and cherish it; or to allay 
+the paine; or else to open the pores of the 
+skinne, and to make way for plasters and 
+ointments to worke their effects the better.  
+Laid to they are by the meanes of bladders, 
+spunges, wollen clothes, or quilts and such 
+like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fungosity(n)"><f type="i">Fungosity</f>,</form> <xpln>A light and holow substance, such 
+as wee may perceive, in spunges, mush&shy;
+romes, fusse bals, elder pith, &c. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g">G
+
+<wordentry type="h"><form lexeme="galli(n)"><f type="i">GAlli</f>,</form> <xpln>The furious priests of dame <f type="i">Cybele</f>, 
+the great mother of the gods, honored 
+in <f type="i">Phrygia</f>:  It is supposed that they tooke 
+the name of <f type="i">Gallus</f> the river; the water 
+whereof if they dranke liberally, they fell 
+into a furious rage, and cut off their owne 
+genetours.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="graecostasis(n)"><f type="i">Gr&aelig;costasis</f>,</form> <xpln>A withdrawing gallerie or place 
+in <f type="i">Rome</f>, neere unto the Senate house <f type="i">Cu&shy;
+ria Hostilia</f>:  where Greeks and other for&shy;
+reine Embassadors staide and gave atten&shy;
+dance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gymnastical(a)"><f type="i">Gymnastical</f>,</form> <xpln>Belonging the publicke places of 
+exercise, where youth was trained up to 
+wrestling and other feates of activitie:  the 
+which places were called <f type="i">Gymnasia</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="game, gymnic(n)" lexeme="play, gymnic(n)"><f type="i">Gymnick games or plaies</f>,</form> <xpln>performed or practi&shy;
+sed by those who were naked.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gymnopodia(n)" lexeme="gymnop&aelig;dia(n)"><f type="i">Gymnopodia</f> or <f type="i">Gymnop&aelig;dia</f>,</form> <xpln>a certaine daunce, 
+that the Laced&aelig;monian children were trai&shy;
+ned in, barefoot; untill they proceeded to 
+another more warlike, called <f type="i">Pyrrhica</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gymnosophist(n)"><f type="i">Gymnosophists</f>,</form> <xpln>Philosophers of <f type="i">India</f>, who 
+went naked, and led beside a most austere 
+and precise life.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">H
+
+<wordentry type="h"><form lexeme="habit(n)"><f type="i">HAbite</f>,</form> <xpln>In our bodies, is either the sub&shy;
+stantiall constitution thereof; whereby 
+we terme the evill habite (in Greeke) [Greek], 
+whenas the bodie misliketh and thri&shy;
+veth not; and the good habite [Greek] (in 
+Greeke) when it prospereth:  or els the out&shy;
+ward parts; and so we say sweats, pocks, me&shy;
+</page>
+
+<page sig="Zzzzz4r">
+zels, and scabs, are driven foorth to the ha&shy;
+bite of the body by strength of nature.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="music, harmonical(a)"><f type="i">Harmonicall Musicke</f>,</form> <xpln>See <f type="i">Enharmonia</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hemiolios(n)"><f type="i">Hemiolios</f>,</form> <xpln lexeme="sesquialteral proportion(n)">Proportion sesquialterall:  contei&shy;
+ning the whole &amp; halfe; as twelve to eight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hemisphere(n)"><f type="i">Hemisph&aelig;re</f>,</form> <xpln>that is to say, The halfe sph&aelig;re 
+or globe, used commonly for that part of 
+the heaven which is in our sight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hexameter(n)"><f type="i">Hexameter</f>,</form> <xpln lexeme="foot(n)">A verse consisting of six mesures, 
+called feete.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hexatonos(a)"><f type="i">Hexatonos</f>,</form> <xpln>Having six tones or six strings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hieroglyphic(n)"><f type="i">Hieroglyphicks</f>,</form> <xpln>The Aegyptians sacred <emend err="Phi">Phi&shy;</emend>
+losophie, delivered not in characters and 
+letters, but under the forme of living crea&shy;
+tures and other things engraven.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="holocaust(n)"><f type="i">Holocaust</f>,</form> <xpln>A whole burnt sacrifice:  whereas 
+ordinarily they burnt upon the altar, onely 
+the inwards of the beast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="homonymy(n)"><f type="i">Homonymie</f>,</form> <xpln>the double or manifold significa&shy;
+tion of a word or sentence, which is the oc&shy;
+casion of ambiguity and doubts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horizon(n)"><f type="i">Horizon</f>,</form> <xpln>That circle that determineth our 
+sight, and divideth the one halfe of the 
+sph&aelig;re of heaven above, from that which 
+is under, out of our sight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horoscope(n)"><f type="i">Horoscope</f>,</form> <xpln>the obseruation of the houre and 
+time of ones nativitie, together with the fi&shy;
+gure of the heavens at that very instant; and 
+that forsooth in the East.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypate(n)" lexeme="hypaton(n)"><f type="i">Hypate, hypaton</f>,</form> <xpln>Principall of principals.  A 
+base string in a Musicall instrument:  or a 
+note in the skale of Musicke, B, MI.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypate meson(n)"><f type="i">Hypate Meson</f>,</form> <xpln>A meane string or note in Mu&shy;
+sicke:  principall of meanes, E, LA, MI.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypate(n)"><f type="i">Hypate</f>,</form> <xpln>The base string in a lute or other strin&shy;
+ged instrument; so called, because it is sea&shy;
+ted highest & is principall.  And yet it may 
+seeme in vocall Musicke, as <f type="i">Lambinas</f> ta&shy;
+keth it in <f type="i">Horace</f>, to be the small treble, by 
+that which he writeth of <f type="i">Tigellus</f>, who song 
+<f type="i">I&ouml; Bacche, mod&ouml; summa Voce, mod&ouml; h&aelig;c, re&shy;
+sonat chordis qu&aelig; quatuor ima</f>:  where by <f type="i">sum&shy;
+ma</f> he meaneth the treble, and <f type="i">ima</f> the base.  
+Also <f type="i">Boetius</f> (as <f type="i">Erasmus</f> upon the proverb 
+<f type="i">Dis Diapason</f>, observeth) writeth the c<expan type="o_">on</expan>&shy;
+trary, namely, that <f type="i">Hypate</f> is the lowest or 
+base, and <f type="i">Nete</f> the highest or treble.  Nei&shy;
+ther doth <f type="i">Plutarch</f> seeme to agree alwaies 
+with himselfe in these termes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hyperbolyaeum(n)"><f type="i">Hyperboly&aelig;um</f>,</form> <xpln>A terme in Musick, belonging 
+to their skale, & appropriate to the trebles, 
+that is to say, it signifieth Excellent or ex&shy;
+ceeding.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hyporchema(n)"><f type="i">Hyporchema</f>,</form> <xpln>An hymne and dance unto <f type="i">A&shy;
+pollo</f>, performed by children with a noise of 
+pipes before them, in the time of pesti&shy;
+lence, and thereupon it was also called 
+<f type="i">P&aelig;an</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypothetical(a)"><f type="i">Hypotheticall propositions</f>,</form> <xpln>such as are pronoun&shy;
+ced with a supposition.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">I
+
+<wordentry type="h"><form lexeme="iambus(n)">IAmbus,</form> <xpln> A measure or foote in verse, consist&shy;
+ing of two sillables, the former short, the 
+other long: it is put also for the verse made 
+thereof.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="verse, iambic(n)">Iambicke verses,</form> <xpln lexeme="dimetri(n)" lexeme="trimetri(n)" lexeme="tetrametri(n)"> be they which stand upon 
+such feete. If of foure, they be called <f type="i">Qua&shy;
+ternarij:</f> if of six, <f type="i">Senarij:</f> if of eight, <f type="i">Octona&shy;
+rij.</f> Now for that this kinde of foote run&shy;
+neth very quicke, two of them together be 
+reckoned but for one measure: and there&shy;
+fore the said verses, be termed also <f type="i">Dime&shy;
+tri, Trimetri,</f> and <f type="i">Tetrametri,</f> as if they had 
+but two, three, &amp; foure feete or measures.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="icosaedron(n)">Icosaedron,</form> <xpln> A Geometricall solid body, repre&shy;
+senting twenty sides or faces, distinguished 
+by their severall lines and angles.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idea(n)">Idaeae,</form> <xpln> The formes of things setled in the divine 
+intelligence or heavenly minde, according 
+to which as paternes, by <f type="i">Platoes</f> doctrine 
+all things were made.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idaei dactyli(n)">Id&aelig;i Dactyli,</form> <xpln> were certaine servitours unto 
+<f type="i">Cybele,</f> bretheren all, called otherwise <f type="i">Cory&shy;
+bantes</f> and <f type="i">Curetes.</f> But whether they 
+were D&aelig;mons, fanaticall men, or couse&shy;
+ning impostors, it is not agreed upon a&shy;
+mong writers: neither how many they 
+were, or why so called. See <f type="i">Natalis Comes 
+Mytholog.</f>
+
+* But heere I must not forget to note, that in 
+the Page 257 line 50, instead of [Greek]
+[Greek]: some read [Greek], that is to 
+say, of their owne fingers. <f type="i">C&aelig;lius Rhodig. 
+Lect. Antiq. lib.</f> 17. <f type="i">cap.</f> 12.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="identity(n)">Identity,</form> <xpln lexeme="sameness(n)"> that is to say, The samenesse, or being 
+the very same.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idus(n)" lexeme="ides(n)">Idus <f type="i">or</f> Ides,</form> <xpln> Eight daies in every moneth, de&shy;
+rived of an old word <f type="i">Iduo</f> to divide, for that 
+they commonly fall about the midst of 
+the moneth, namely upon the thirteene or 
+fifteene daies, according to <f type="i">Horace: Idus 
+tibi sunt agend&aelig; Qui dies mensem veneris 
+marin&aelig;, findit Aprilem.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incarnate(v)"><f type="i">To</f> Incarnate,</form> <xpln lexeme="incarnative(n)"> that is to say, to make flesh, or 
+helpe that the flesh may grow: and so cer&shy;
+taine salves or medicines be called incar&shy;
+natives.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incrassate(v)"><f type="i">To</f> Incrassate,</form> <xpln> that is to say, to make thicke and 
+grose.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="day, intercular(n)">Intercular daies,</form> <xpln> that is to say, set or put be&shy;
+tweene, as the odde daie in the leape yeare.</xpln></wordentry>
+</page>
+
+<page sig="Zzzzz4v">
+<wordentry type="h"><form lexeme="interstice(n)">Interstice,</form> <xpln lexeme="space between(n)" lexeme="distance between(n)"> that is to say, The space or distance 
+betweene.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inumbration(n)">Inumbration,</form> <xpln lexeme="shadowing(n)"> that is to say, Shadowing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="music, Ionic(n)">Ionicke Musicke,</form> <xpln> Gallant and galliardlike: plea&shy;
+sant or delectable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="isonomy(n)">Isonomie,</form> <xpln> An &aelig;quability of government under 
+the same lawes, indifferently ministred to al 
+persons: As also an &aelig;quality of right which 
+all men doe enjoy in one state: And an &aelig;&shy;
+quall distribution unto all persons, not ac&shy;
+cording to Arithmeticall, but Geometri&shy;
+call proportion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="isthmus(n)">Isthmus,</form> <xpln> A narrow banke of lande lying be&shy;
+tweene two seas, as namely, that of <f type="i">Corinth</f> 
+and <f type="i">Peloponnesus:</f> and by analogie thereto, 
+all such are so called. By a metaphor also, 
+other things that serve as partitions, be so 
+termed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="games, Isthmic(n)">Isthmick games,</form> <xpln> Were those which were per&shy;
+formed neere <f type="i">Corinth</f> upon the saide <f type="i">Isth&shy;
+mus:</f> instituted as some thinke, by <f type="i">Theseus,</f> 
+to the honour of <f type="i">Melicerta,</f> otherwise na&shy;
+med <f type="i">Pal&aelig;mon</f> and <f type="i">Portamnus.</f></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k">K
+
+<wordentry type="h"><form lexeme="calends(n)">KAlends,</form> <xpln> Was among the Romans the 
+first day of the Moneth, or the very day 
+of the new Moone, which commonly did 
+concurre and fall out together: <f type="i">Neomenia</f> 
+in Greeke. But so called [Greek], that 
+is to say, a <f type="i">Calando,</f> because the Priest used
+then to call the people unto the court <f type="i">Ca&shy;
+labra,</f> and there to pronounce unto them 
+how many daies there were to the <f type="i">Nones,</f> 
+&amp;c.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">L
+
+<wordentry type="h"><form lexeme="L. Lucius(pr)">L. LUcius,</form> <xpln> A forename to divers families 
+in <f type="i">Rome.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="laconize(v)"><f type="i">To</f> Laconize,</form> <xpln> that is to say, To imitate the La&shy;
+ced&aelig;monians, either in short and pithy 
+speech, or in hard life.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lassitude(n)">Lassitude,</form> <xpln lexeme="weariness(n)"> that is to say, Wearinesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="motion, lateral(n)">Laterall motions,</form> <xpln> that is to say, Moovings to a 
+side; for distinction of those that be circu&shy;
+lar, mounting upright or descending 
+downward.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="libation(n)" lexeme="libament(n)">Libations, <f type="i">or</f> Libaments,</form> <xpln> Assaies of sacrifices, 
+or offrings to the gods; especially of liquid 
+things, as wine.</xpln></wordentry>
+
+<wordentry type="h"><form>Lichanos,</form> <xpln> A string of an instrument or note in 
+Musicke: Index: In an instrument: the fore&shy;
+finger string or third: in the GAM-UT, or 
+skale, D, SOL, RE, and C, SOL, RE, UT, 
+according to the addition of Hypat&oacute;n or 
+Mes&oacute;n.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="liturgia(n)">Liturgia,</form> <xpln> Any publicke function: but more 
+particularly for the ministerie in the 
+church, about divine service and worship 
+of God.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lydius modus(n)">Lydius Modus,</form> <xpln> <f type="i">Lydian</f> Musicke, dolefull and 
+lamentable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lyceum(pn)">Lyceum, <f type="i">or</f> Lycium,</form> <xpln> A famous place neere to 
+<f type="i">Athens,</f> wherein <f type="i">Aristotle</f> taught Philo&shy;
+sophie. His followers, because they confer&shy;
+red and disputed walking in this <f type="i">Lyceum,</f> 
+were called <f type="i">Peripatetici.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="poet, lyrical(n)">Lyrical poets,</form> <xpln> Such as composed ditties and 
+songs to be sung unto the Lute or such like 
+stringed instruments.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">M
+
+<wordentry type="h"><form lexeme="M. Marcus(pn)" lexeme="M. Manius(pn)"><f type="I">M'. MArcus, M'. Manius,</f> with the note  
+of apostrophus,</form> <xpln> Forenames of 
+sundry houses in <f type="i">Rome.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="medimnus(n)">Medimnus,</form> <xpln> A measure conteining sixe <f type="i">Modij</f> 
+Romane; and may goe with us for a bushel 
+and three pecks of London measure, or 
+thereabout.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="question, Megarian(n)">Megarian questions,</form> <xpln> that is to say, Such as 
+were propounded and debated among the 
+Philosophers <f type="i">Megarenses:</f> for there was a 
+sect of them, taking name of the place; like 
+as the Cyrenaiks: for <f type="i">Euclides</f> and <f type="i">Stilpo</f> 
+were Megarians.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mercenary(n)">Mercenarie,</form> <xpln lexeme="hireling(n)"> that is to say, Hirelings, or such 
+as take wages.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mese(n)">Mese,</form> <xpln lexeme="string, middle(n)" lexeme="mean(n)"> The middle string or meane: it endeth 
+on Eight, and beginneth the other in the 
+skale of Musicke. In the GAM- UT, A, LA, 
+MI, RE.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metamorphosed(a)">Metamorphosed,</form> <xpln> that is to say, Transmuted 
+and changed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metaphysics(n)">Metaphysicks,</form> <xpln> that is to say, Supernaturall. 
+The first and principall part of Philosophy 
+in the intention, although it be last attei&shy;
+ned unto, as unto which all other know&shy;
+ledge serveth, and is to be referred. The 
+Philosophers Theologie or Divinity, trea&shy;
+ting of intelligible and visible things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meteor(n)">Meteors,</form> <xpln> Be impressions gathered in the aire 
+above; as thunder, lightning, blasing stars, 
+and such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mime(n)">Mimi,</form> <xpln> Were actours upon the stage, repre&shy;
+senting ridiculously the speech and gesture 
+of others; jesters and vices in a play: Also 
+certeine Poemes or plaies, more lascivious 
+than Com&oelig;dies, and fuller of obsc&oelig;ne 
+wantonnesse. The authors of such were cal&shy;
+led <f type="i">Minographi,</f> as <f type="i">Laberius.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mina(n)" lexeme="mna(n)">Mina, <f type="i">or</f> Mna,</form> <xpln> A weight, answering to <f type="i">Libra,</f> 
+that is to say, a pound. Also coine valued 
+at so much.</xpln></wordentry>
+</page>
+
+<page sig="Zzzzz5r">
+<wordentry type="h"><form lexeme="minerval(n)">Minervall,</form> <xpln> The stipend or wages paid unto a 
+Schoole-master for the institution and 
+teaching of scholars; derived of <f type="i">Minerva,</f> 
+the president of learning and good arts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tune, Mixoliidian(n)">Mixolidian tune,</form> <xpln> that is to say, Lamentable 
+and pitifull: meet for Trag&oelig;dies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monarchy(n)">Monarchie,</form> <xpln lexeme="royalty(n)"> The absolute governement of a 
+state, by one prince. Roialty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mordicative(a)">Mordicative,</form> <xpln> that is to say, Biting and sting&shy;
+ing: as mustard seed, Pelletary of Spaine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="muscle(n)">Muscles,</form> <xpln> The brawny or fleshy parts of the 
+bodie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mythology(n)">Mythologie,</form> <xpln> A fabulous Narration: or the 
+delivery of matters by way of fables and 
+tales.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">N
+
+<wordentry type="h"><form lexeme="Nemeia(n)">NEmeia,</form> <xpln> Certaine solemne games institu&shy;
+ted in the honour of <f type="i">Hercules</f> for kil&shy;
+ling a lion in the forest <f type="i">Nemea;</f> or as some 
+thinke, in the remembrance of <f type="i">Arche&shy;
+morus</f> a yong babe killed by a serpent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nete(n)">Nete,</form> <xpln> The lowest or last string in an instru&shy;
+ment, answering to the treble, and oppo&shy;
+site to Hypate. Some take it cleane con&shy;
+trary, for the base. See Hypate: and <f type="i">Erasmus</f> 
+upon the Adage, Dis diapason.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nete diezeugmenon(n)">Nete Diezeugmenon,</form> <xpln> A treble string or note 
+of musicke, last of disjuncts. E, LA, MI.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nete hyperbol&aelig;an(n)">Nete Hyperbol&aelig;an,</form> <xpln> the last of trebles: A, LA 
+Mi, RE.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nete synnemmenon(n)" lexeme="nete syzeugmenon(n)">Nete Synnemmenon <f type="i">or</f> Syzeugmenon,</form> <xpln> The last 
+of the conjuncts: a string or note in mu&shy;
+sicke, D, La, SOL.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="niglary(n)">Niglary,</form> <xpln> Are thought to be notes or tunes in 
+musicke, powerfull to encourage. See <f type="i">Scho&shy;
+liast in Aristoph.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nones(n)">Nones,</form> <xpln> Were certaine daies in the moneth: so 
+called, because they began evermore the 
+ninth day before the Ides, honored by 
+the Romans both for the birth day of king 
+<f type="i">Servius,</f> and also for the chasing out of the 
+kings: for otherwise it was not festivall; 
+according as <f type="i">Ovid</f> writeth, <f type="i">Nonarum tute&shy;
+la deo caret.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="number, novenary(n)"><f type="I">Novenary </f>number,</form> <xpln lexeme="nine(n)"> that is to say, Nine.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">O
+
+<wordentry type="h"><form lexeme="obolus(n)">OBolus,</form> <xpln> A certeine weight: halfe a scriptul 
+or scrupul, the sixt part of a drachme 
+or somewhat better in <f type="i">Greece:</f> also a small 
+coine, currant for eight chalci, which in 
+silver is a peny and farthing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="octaedra(n)">Octaedra,</form> <xpln> A Geometricall body of eight ba&shy;
+ses, sides or faces, distinct by their angles.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="economy(n)">Oeconomie,</form> <xpln lexeme="house-government(n)"> House-governement: or the Ad&shy;
+ministration and dispose of houshold af&shy;
+faires.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oligarchy(n)">Oligarchi,</form> <xpln> A state of governement, wherein a 
+few, and those properly of the welthier 
+sort, rule the common wealth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Olympiades(n)">Olympiades,</form> <xpln> were the space of those foure 
+yeeres, according to which the Grecians 
+reckoned the time: as the Romans did by 
+their lustra; and Christians, by the yeere of 
+our lord.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Olympic(a)">Olympicke <f type="i">or</f> Olympian games,</form> <xpln> were instituted 
+first by <f type="i">Hercules</f> in the honour of <f type="i">Jupiter 
+Olympius;</f> or of <f type="i">Pelops,</f> as some thinke: and 
+celebrated with a solemne affluence and 
+concourse from all parts of <f type="i">Greece</f> every 
+foure yeeres complet once, betweene <f type="i">Pi&shy;
+sa</f> and <f type="i">Elis,</f> in a plaine called <f type="i">Olympia:</f> where
+also stood the temple of <f type="i">Jupiter Olympius.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oracle(n)">Oracle,</form> <xpln> An answere or sentence given by the 
+devil, or the supposed gods of the heathen: 
+also the place where such answeres were 
+delivered.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="organ(n)">Organe,</form> <xpln> An Instrument. And our body is 
+said to be Organicall, because the soule 
+performeth her operations by the parts 
+thereof as instruments.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orthios nomos(n)">Orthios Nomos,</form> <xpln> In musicke a tune or song ex&shy;
+ceeding high and incentive; which when 
+<f type="i">Timotheus</f> sung before king <f type="i">Alexander,</f> he 
+was so moved and incited, that presently 
+he leapt foorth and tooke armes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orthography(n)">Orthographi,</form> <xpln> That part of Grammar which 
+teacheth the feat of writing truely: also, 
+true writing it selfe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ostracism(n)">Ostracisme,</form> <xpln> In <f type="i">Athens</f> A condemnation and 
+confining for ten yeeres space of that per&shy;
+son, who was thought to grow greater in 
+wealth, reputation and opinion of ver&shy;
+tue or otherwise, than the democratie 
+or free popular estate would well beare, 
+ordained first by <f type="i">Clisthenes:</f> who for his 
+labour was himselfe first condemned. It 
+tooke the name of <f type="i">Ostratos,</f> a shell or 
+little potsherd, wherein his name was writ&shy;
+ten, whom any of the people was in that 
+behalfe offended with; and meant to expell 
+the city. And if the major part of the peo&shy;
+ple noted one in this maner, he was sent a&shy;
+way. It differed from banishment, because 
+no person lost by Ostracisme goods or 
+lands: againe the time was limited, and the 
+certaine place set downe, where he should 
+abide. In this sort <f type="i">Aristides</f> the just, vali&shy;
+ant <f type="i">Themistocles</f> and other good men were 
+driven out.</xpln></wordentry>
+</page>
+
+<page sig="Zzzzz5v">
+<wordentry type="h"><form lexeme="oxyrynchos(n)">Oxyrynchos,</form> <xpln> A fish, so called, of a long sharpe 
+beake or snout that it hath.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">P
+
+<wordentry type="h"><form lexeme="paean(n)">PAean</form> <xpln> The name of <f type="i">Apollo.</f> An hymne 
+also to <f type="i">Apollo</f> and <f type="i">Diana</f> for to avert 
+plague, warre, or any calamity: [Greek], 
+which signifieth to strike or to heale, or 
+of [Greek], to stay or make to cease.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pederasty(n)">P&aelig;derast&icirc;,</form> <xpln> The loving of yong boies: com&shy;
+monly taken in the ill part, as signifying 
+the abuse of them against kinde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paegnia(n)">P&aelig;gnia,</form> <xpln> Pleasant poems or merry ditties for 
+delight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paeon(n)">P&aelig;on, <f type="i">or</f> P&aelig;on,</form> <xpln> The name of <f type="i">Apollo;</f> and of a 
+metricall foot in verse, of which P&aelig;ans are 
+composed: and it is duple, to wit of foure 
+sillables, either the first long, and the other 
+three short; or the first short and the other 
+three long: it is named also P&aelig;an: also an 
+epithet of <f type="i">Apollo.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="palliate(v)"><f type="i">To</f> Palliat,</form> <xpln> that is to say, To cover or hide: and 
+so such cures be called Palliative, which 
+search not to the roote or cause of the dis&shy;
+ease, but give a shew onely of a perfect 
+cure; as when a sore is healed up aloft, 
+and festereth underneath. And thus sweet 
+pomanders doe palliat a stinking breath, 
+occasioned by a corrupt stomacke or dis&shy;
+eased lungs and such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="P. Publius(pn)">P. Publius,</form> <xpln> A forename to some Romane fa&shy;
+milies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Panathen&aelig;a(n)">Panathen&aelig;a,</form> <xpln> A solemnity held at <f type="i">Athens:</f> 
+wherein the whole city men, women and 
+children were assembled. And such games, 
+dances and plaies as were then exhibited; 
+or what orations were then and there 
+made, they called <f type="i">Panathenaik.</f> Of two 
+sorts these solemnities were: once every 
+yeere; and once every fifth yeere, which 
+were called the greater.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pancratium(n)">Pancratium,</form> <xpln lexeme="pentathlon(n)" lexeme="quinquertium(n)"> <f type="i">Plutarch</f> taketh for an exercise of 
+activity or mixt game of fist-fight and 
+wrestling. Howbeit other writers will have 
+it to be an exercise of wrestling, wherein 
+one indevoureth with hand and foot, and 
+by all parts of his body to foile his adver&shy;
+sary: as also the practise of all the five feats 
+of activity, which is called Pentathlon and 
+Quinquertium: to wit, <a href="#1">*</a> buffetting, wrest&shy;
+ling, running leaping and coiting,</xpln>
+<note type="lm">
+<a name="1">*</a> Or launcing 
+the dart.</note>
+</wordentry>
+
+<wordentry type="h"><form lexeme="pancratiast(n)">Pancratiast,</form> <xpln> One that is skilfull and professed 
+in the said Pancration.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paramese(n)">Paramese,</form> <xpln> Next the meane or middle string. 
+A note in musicke: B, FA, E, MI, in space.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paranete hyperbol&aelig;an(n)">Paranete Hyperbol&aelig;an,</form> <xpln> A treble string or note 
+in musicke: the last save one of trebles: G, 
+SOL, RE, UT.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="panegyric(n)">Panegyricke,</form> <xpln lexeme="panegyrical(a)"> Feasts, games, faires, marts, 
+pompes, shewes, or any such solemnities, 
+performed or exhibited, before the gene&shy;
+rall assembly of a whole nation: such as 
+were the <f type="i">Olympicke, Pythicke, Isthmicke,</f> and 
+<f type="i">Nemian</f> games in <f type="i">Greece.</f> Orations likewise 
+to the praise of any person at such an as&shy;
+sembly, be called <f type="i">Panegyricall.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paradox(n)">Paradox,</form> <xpln> A strange or admirable opinion 
+held against the common conceit of men: 
+such as the Stoicks mainteined.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="period(n)">Periode,</form> <xpln> A cercuit or compasse certeinly kept: 
+as we may observe in the course of Sunne 
+and Moone, and in the revolution of times 
+and seasons: in some agues also and other 
+sicknesses, that keepe a just time of their 
+returne, called therefore Periodicall. Also 
+the traine of a full sentence to the end, and 
+the very end it selfe, is named a Periode.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paranete diezeugnumen&oacute;n(n)">Paranete Diezeugnumen&oacute;n,</form> <xpln> A treble string or 
+note in Musicke: the last save one of dis&shy;
+juncts: D, LA, SOL, RE.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paranete synemmenon(n)" lexeme="paranete syzeugmenon(n)">Paranete Synemmenon <f type="i">or</f> Syzeugmenon:</form> <xpln> C, 
+SOL, FA.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parhypate hypat&oacute;n(n)">Parhypate hypat&oacute;n,</form> <xpln> that is to say, Subprinci&shy;
+pall of principals. A string or note in Mu&shy;
+sicke: C, FA, UT.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parhypate mes&oacute;n(n)">Parhypate Mes&oacute;n,</form> <xpln> that is to say, Subprincipall 
+of meanes: a string or note in Musicke: F, 
+FA, UT.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="peripatetic(n)">Peripateticks,</form> <xpln> A sect of Philosophers, the fol&shy;
+lowers of <f type="i">Aristotle:</f> See <f type="i">Liceum.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phiditia(n)">Phiditia,</form> <xpln> Were publicke hals in Laced&aelig;mon, 
+where all sorts of citizens, rich and poore, 
+one with another met to eat and drinke to&shy;
+gether, at the publicke charges and had &aelig;&shy;
+quall parts allowed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="philippic(n)">Philippicks,</form> <xpln> Were invective orations made 
+by <f type="i">Demosthenes</f> the Oratour, against <f type="i">Philip</f> 
+king of <f type="i">Macedony,</f> for the liberty of <f type="i">Greece.</f> 
+And heereupon all invectives may be cal&shy;
+led <f type="i">Philippicke,</f> as those were of <f type="i">M. Tullius 
+Cicero</f> against <f type="i">Antonie.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="modus, Phrygius(n)">Phrygius Modus,</form> <xpln> Phrygian tune or musicke, 
+otherwise called <f type="i">Barbarian;</f> mooving to 
+devotion, used in sacrifices and religious 
+worship of the gods: for so some interpret 
+<f type="i">Entheon</f> in <f type="i">Lucianus:</f> others take it for in&shy;
+censing and stirring to furie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pinguify(v)"><f type="i">To</f> Pinguifie,</form> <xpln> that is to say, To make fat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plight, plethorical(n)">Plethoricall plight,</form> <xpln> that is to say, That state of 
+the body, which being full of bloud and o&shy;
+ther humours, needeth evacuation: whe&shy;
+ther the said fulnesse be, <f type="i">ad vasa,</f> as the 
+</page>
+
+<page sig="Zzzzz6r">
+Physicians say, when the said bloud and 
+humours be otherwise commendable, but 
+offending onely in quality: or, <f type="i">ad vires,</f> 
+when the same be distempered and offen&shy;
+sive to nature, and therefore would be ridde 
+away; which state is also called <f type="i">Cacochy&shy;
+mie.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Polemarchus(n)">Polemarchus,</form> <xpln> One of the nine Archontes or 
+head magistrates in the popular state of 
+<f type="i">Athens,</f> chosen as the rest yeerely. Who 
+notwithstanding that he reteined the name 
+of <f type="i">Polemarchus,</f> that is to say, a Captaine 
+generall in the field, such as in the Sove&shy;
+raigne government of the kings, were em&shy;
+ploied in warres and martiall service under 
+them: yet it appeareth that they had civill 
+jurisdiction, and ministred justice, between 
+citizens &amp; aliens, of wh&oacute; there were many 
+in <f type="i">Athens;</f> like as the Archon for the time 
+being, was judge for the citizens onely. 
+Assistants he had twaine, named <f type="i">Paredri,</f> 
+who sat in commission with him.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Poliorceles(pn)">Poliorceles,</form> <xpln> A surname of <f type="i">Demetrius,</f> a valiant 
+king of <f type="i">Macedonie,</f> and sonne of king <f type="i">An&shy;
+tigonus:</f> which addition was given unto 
+him for beseeging of so many cities.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polypragmon(n)">Polypragmon,</form> <xpln> A curious busie body, who lo&shy;
+veth to meddle in many matters.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pore(n)">Pores,</form> <xpln> The little holes of the skinne, through 
+which sweat passeth, and fumes breath 
+foorth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="position(n)">Positions,</form> <xpln> Such sentences or opinions as are 
+held in disputation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praetor(n)">Pr&aelig;tour,</form> <xpln> One of the superiour Magistrates 
+of <f type="i">Rome.</f> In the citie he ruled as L. chiefe 
+Justice, and exercised civill jurisdiction: 
+Abroad in the province, he commanded as 
+L. Governour, Deputie, or Lieutenant 
+Generall: In the field, he was L. General, 
+as well as the Consull. At first, the name of 
+Consul, Pr&aelig;tor, and Judge was all one.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="primices(n)">Primices,</form> <xpln lexeme="fruits, first(n)"> First fruits.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="problem(n)">Problemes,</form> <xpln> that is to say, Questions propoun&shy;
+ded for to be discussed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="procatarctic(a)">Procatarcticke causes of sicknesse,</form> <xpln> Be such as are 
+evident and comming from without, which 
+yeeld occasion of disease, but do not main&shy;
+teine the same: as the heat of the Sunne, 
+causing headach or the ague.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prognostic(a)">Prognosticke,</form> <xpln> that is to say, Foreknowing and 
+foreshewing: as the signes in a disease 
+which foresignifie death or recovery.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proscription(n)">Proscription,</form> <xpln> an outlawing of persons in <f type="i">Rome,</f> 
+with confiscation of their goods, and sel&shy;
+ling the same in portsale: and depriving 
+them of publicke protection.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prostambomene(n)">Prostambomene,</form> <xpln> A, RE, a terme in Musicke, 
+signifying (a String or Note) taken in 
+or to: for otherwise of two Heptachords, 
+there would not arise 15. to admit a place 
+in the middle for Mese, that is to say, the 
+Meane, to take part of two Eights, or two 
+Diapasons.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prosodia(n)">Prosodia,</form> <xpln> A certeine hymne or tune thereto, 
+in maner of supplication to the gods, and 
+namely to <f type="i">Apollo</f> and <f type="i">Diana,</f> at what time 
+as a sacrifice was to be brought and presen&shy;
+ted before the altar.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proteleia(n)">Proteleia,</form> <xpln> The sacrifice before mariage: as also 
+the gifts that ceremoniously went before.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Prytaneum(n)">Prytaneum,</form> <xpln> A stately place within the castell 
+of <f type="i">Athens,</f> wherein was a court held for 
+judgement in certeine causes: where also 
+they who had done the Common-wealth 
+singular service, were allowed their diet at 
+the cities charges, which was accounted 
+the greatest honour that could be.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parhypate hypaton(n)">Parhypate Hypaton,</form> <xpln> A base string or note in 
+musicke, Subprincipall of principals: C, 
+FA, UT,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parhypate meson(n)">Parhypate Meson,</form> <xpln> Subprincipall of meanes, 
+a meane string or note, F, FA, UT,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pyladion(n)">Pyladion,</form> <xpln> In musicke a kinde of note bearing 
+the name of Pylades, a Poet comicall and 
+skilfull master in musicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pyramidal(a)">Pyramidal,</form> <xpln> Formed like unto the Pyramis, 
+which is a geometricall body, solid, broad 
+beneath, and rising up one all sides which 
+be flat and plaine, unto a sharpe point like 
+a steeple. It taketh the name of [Greek], that is 
+to say, Fire, which naturally hath that fi&shy;
+gure.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pythia(pn)" lexeme="Phoebas(pn)">Pythia, or <f type="i">Ph&oelig;bas,</f></form> <xpln> The priestresse or prophe&shy;
+tisse, who pronounced the answeres at the 
+oracle of <f type="i">Apollo Pythius</f> at <f type="i">Delphos:</f> who 
+tooke that name of <f type="i">Python</f> there slaine by 
+him and lying putrified: or of [Greek], 
+that is to say, To aske and demand; for the 
+resort of people thither to be resolved by 
+him of their doubts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="games, Pythic(n)" lexeme="games, Pythian(n)">Pythick, or <f type="i">Pythian</f> games,</form> <xpln> were celebrated to 
+the honour of <f type="i">Apollo Pythius,</f> neere the 
+city <f type="i">Delphos,</f> with greate solemnity: in&shy;
+stituted first by <f type="i">Diomedes</f> and yeerely re&shy;
+newed.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q">Q
+
+<wordentry type="h"><form lexeme="Q. Quintus(pn)">Q. QUintus,</form> <xpln> A fore name to divers Ro&shy;
+manes. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quaternary(n)">Quaternary,</form> <xpln> the number of Foure: called like&shy;
+wise [GREEK] and [GREEK], so highly celebrated
+</page>
+
+<page sig="Zzzzz6v">
+by the Pythagoreans, comprising in it the 
+proportion Epitritos, whereof ariseth the 
+musicall harmonie <a href="#2">*</a> Diatessaron; for it con&shy;
+taineth three and the third part of three: 
+also Diplasion, because it comprehendeth 
+two duple, whence ariseth the musicke dia&shy;
+pason: and Disdiapason, being dubled, 
+which is an Eight &amp; the perfect harmony, 
+according to the proverbe [Greek] also 
+in that, it containeth all numbers within it; 
+for, one, two, three and foure arise to Ten, 
+beyond which we cannot ascend but by re&shy;
+petition of former numbers.</xpln>
+<note type="lm">
+<a name="2">*</a> <f type="i">Calius Rho&shy;
+dig.
+</note>
+</wordentry>
+
+<wordentry type="h"><form lexeme="quaestor(n)">Qu&aelig;stors,</form> <xpln> inferior officers in <f type="i">Rome</f> in maner of 
+Treasurers: whose charge was to receive 
+and lay out the cities mony and revenewes 
+of state: of which sort, there were Urbani, 
+for the city it selfe: Provinciales, for the 
+provinces: and Castrenses, for the campe 
+and their warres.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quinquertium(n)" lexeme="pentathlon(n)">Quinquertium, named in Greeke, Pentathlon. </form> <xpln>
+Five exercises or feats of activity among 
+the greeks practised at their solemne 
+games: namely <a href="#3">*</a> launcing the dart, throw&shy;
+ing the coit, running a race, wrestling 
+and leaping. See Pancratium.</xpln>
+<note type="lm">
+<a name="3">*</a> Some put in
+stead hereof
+Fist-fight.
+</note>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">R
+
+<wordentry type="h"><form lexeme="moisture, radical(n)">RAdicall moisture:</form> <xpln> Is the substantiall hu&shy;
+midity in living bodies; which is so u&shy;
+nited with naturall heat, that the one main&shy;
+taineth the other, and both preserve life.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rarify(v)"><f type="i">To</f> Rarifie,</form> <xpln> that is to say, To make more sub&shy;
+tile, light and thin.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="recidivation(n)">Recidivation,</form> <xpln> Is a relapse or falling backe into 
+a sicknesse, which was in the way of recove&shy;
+ry, and commonly is more dangerous than 
+the former: <f type="i">Recidiva pejor radice.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="regent(n)">Regents,</form> <xpln> Professours in the liberall sciences 
+and in Philosophi: a tearme usuall in the 
+Universities.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reverberation(n)">Reverberation,</form> <xpln> that is to say, A smiting or dri&shy;
+ving backe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rhapsody(n)">Rhapsodie,</form> <xpln lexeme="rhapsodi(n)"> A sowing together or conjoining 
+of those Poems and verses especially hero&shy;
+icke or hexametre, which before were loose 
+and scattered: such as were those of <f type="i">Homer,</f> 
+when they were reduced into one entier 
+body of <f type="i">Ilias</f> and <f type="i">Odyssea.</f> Those Poets also, 
+who recite or pronounce such verses, were 
+tearmed <f type="i">Rhapsodi.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rival(n)" lexeme="co-rival(n)">Rivals <f type="i">and</f> Corrivals,</form> <xpln> Counter-suiters: or 
+those who make love together, unto one 
+and the same woman.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ruminate(v)"><f type="i">To</f> Ruminate,</form> <xpln> that is to say, To ponder and 
+consider, or revolve a thing in the minde: 
+a borrowed speech from beasts that chew 
+the cudde.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">S
+
+<wordentry type="h"><form lexeme="satyri(n)">SAtyri,</form> <xpln lexeme="woodwose(n)" lexeme="sileni(n)"> Woodwoses, or monstrous crea&shy;
+tures with tailes, yet resembling in some 
+sort, partly men &amp; women, &amp; in part goats; 
+given much to venery and lasciviousnesse, 
+whereupon they had that name: also to 
+scurrill, frumping and jibing, for which 
+they were also called <f type="i">Sileni,</f> especially 
+when they grew aged; supposed by the ru&shy;
+rall heardmen to be the fairies or gods (I 
+would not else) of the woods.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="satyr&aelig;(n)" lexeme="satyr(n)">Satyr&aelig; <f type="i">or</f> Satyrs</form> <xpln> were certaine Poems recei&shy;
+ved in place of <f type="i">Com&oelig;dia vetus,</f> detesting 
+and reprooving the misdemeanours of 
+people and their vices: at first by way of 
+myrth and jest, not sharpely and after a bi&shy;
+ting maner, to the shame, disgrace or hurt 
+of any person; such were they that <f type="i">Horace</f> 
+composed; howbeit they grew afterward to 
+more diracity and licentiousnesse, noting 
+in broad tearmes without respect all leaud&shy;
+nesse, and sparing no degree; as those were 
+of <f type="i">Juvenales</f> and <f type="i">Persius</f> penning. Latine 
+poets onely, handled this argument, both 
+in the one sort and the other.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scammony(n)">Scammonie,</form> <xpln lexeme="dacrydium(n)" lexeme="diagridium(n)"> A medicinable plant, and the juice 
+thereof issuing out of the roote when it is 
+wounded or cut: it purgeth yellow choler 
+strongly. The same juice or liquor being 
+concrete or thickned and withall corrected 
+is called <f type="i">Dacrydium;</f> as one would say, the 
+teares destilling from the roote: and is the 
+same which the unlearned Apothecaries 
+call <f type="i">Diagridium;</f> as if forsooth it were some 
+compound like their <f type="i">Diaph&aelig;nicon.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scelet(n)">Scelet,</form> <xpln> The dead body of a man artificially dri&shy;
+ed or tanned, for to be kept and seene a 
+long time. It is taken also for a dead car&shy;
+casse of man or woman, represented with 
+the bones onely, and ligaments.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="philosopher, sceptic(n)">Scepticke philosophers,</form> <xpln> Who descended from 
+<f type="i">Pyrrho;</f> so called, for that they would con&shy;
+sider of all matters in question, but deter&shy;
+mine of none: and in this respect they were 
+more precise than the Academicks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scolia(n)">Scolia,</form> <xpln> Were certeine songs and carols sung 
+at feasts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scrutiny(n)">Scrutinie,</form> <xpln> A search, and properly a perusing of 
+suffrages or voices, at elections or judiciall 
+courts, for the triall or passing of any cause.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="secundine(n)">Secundine,</form> <xpln> The skinne that enwrappeth the 
+childe or yoong thing in the wombe: in 
+</page>
+
+<page sig="Zzzzz7r">
+women the after-birth or later-birth; in 
+beasts the heame.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="senary(n)">Senarie,</form> <xpln lexeme="six(n)"> The number of sixe, also a kinde of 
+verse. See <f type="i">Iambus.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="septiman(n)">Septimane,</form> <xpln lexeme="week(n)" lexeme="seven-night(n)"> A weeke or seven-night. Also what 
+soever falleth out upon the seventh daie, 
+moneth, yeere, &amp;c. as <f type="i">Septimanae f&oelig;tur&aelig;,</f> in 
+<f type="i">Arnobius,</f> for children borne at the seventh 
+moneth after conception; and <f type="i">Septiman&aelig; <f type="i">
+febres</f>, Agues returning with their fits every 
+seventh day. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Serg.(pn)" lexeme="Serv.(pn)" lexeme="Sex.(pn)" lexeme="Sergius(pn)" lexeme="Sextus(pn)">Serg. Sergius
+Serv. Servius
+Sex. Sextus.</form>
+<xpln>Forenames to certeine fa&shy;
+milies in <f type="i">Rome</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sesquialteral(n)">Sesquialteral,</form><xpln lexeme="hemiolios(n)"> A proportion, by which is ment 
+that which conteineth the whole and halfe 
+againe, as 6. to 4. 12. to 8. It is also named 
+<f type="i">Hemiolios.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sesquitertian(n)">Sesqui-tertian,</form><xpln lexeme="epitritos(n)"> A proportion, whereby is un&shy;
+derstood as much as comprehendeth the 
+whole, and one third part, as 12. to 9. and 
+the same is called <f type="i">Epitritos.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sesquioctave(n)">Sesqui-octave,</form><xpln lexeme="epogdoos(n)"> That which compriseth the 
+whole and one 8 part; as 9 to 8, 18 to 16: 
+in Greeke <f type="i">Eptogdoos,</f> or <f type="i">Epogdoos.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solecism(n)">Sol&oelig;cisme,</form> <xpln> Incongruity of speech, or defect in 
+the purity thereof. It arose of those who 
+being Athenians borne, and dwelling in 
+<f type="i">Soli,</f> a city in <f type="i">Cilicia,</f> spake not pure Attick, 
+but mixt with the Solians language.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solstice(n)">Solstice,</form> <xpln lexeme="sun-stead(n)"> The Sunne-steed, which is twice in 
+the yeere, in Iune &amp; December, when the 
+Sunne seemeth to stand for a while, at the 
+very point of the Tropicks, either going 
+from us, or comming toward us; as if hee 
+returned from the end of his race, North 
+and South.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sp. Spurius(pn)">Sp. Spurius,</form> <xpln> A forename to some Romanes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spasm(n)">Spasmes,</form> <xpln lexeme="cramp(n)"> that is to say, Crampes, or painfull 
+pluckings of the muskles and sinewes. See 
+<f type="i">Convulsions</f> And Spasmaticke, full of such 
+or given thereto.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sphere(n)">Sph&aelig;res,</form> <xpln> The circles or globs, of the seven pla&shy;
+nets: as also the compasse of the heaven a&shy;
+bove all.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spissitude(n)">Spissitude,</form> <xpln> Thicknesse or dimnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spondaeus(n)">Spond&aelig;us,</form> <xpln> An hymne sung at sacrifices and li&shy;
+bations. Also a metricall foot in verse, con&shy;
+sisting of two long syllables: whereof prin&shy;
+cipally such hymnes or songs were com&shy;
+posed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stadium(n)">Stadium,</form> <xpln> A race or space of ground, contei&shy;
+ning 625. foote, whereof eight make a 
+mile, consisting of a thousand paces, which 
+are five thousand foot, reckoning five foot 
+for a pace; for so much commonly a man 
+taketh at once in his pace, that is to say, in 
+his stepping forward, and remooving one 
+foot before another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stoic(n)">Stoicks,</form> <xpln> Certeine Philosophers, whose first 
+master was <f type="i">Zeno,</f> who taught in a certeine 
+spatious gallery at <f type="i">Athens,</f> called P&oelig;cile, 
+for the varietie of pictures wherewith <f type="i">Po&shy;
+lignotus</f> the excellent painter beautified it:
+And for that a gallery in Greeke is called 
+<f type="i">Stoa,</f> therefore those Philosophers who 
+taught and disputed therein, tooke that 
+name of Stoicks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stroph(n)">Strophes,</form> <xpln> that is to say, Conversions or tur&shy;
+nings. In Com&oelig;dies and trag&oelig;dies, when 
+the <f type="i">Chorus</f> first speaketh unto the actours; 
+and then turneth to the spectators, and 
+pronounceth certeine Jambicks. In the re&shy;
+hearsing of Lyricall verses, when the Poet 
+one while turneth to the right hand, and 
+another while to the left, and so reciteth 
+certeine verses: which thereupon be called 
+<f type="i">Stroph&aelig;,</f> and <f type="i">Antistroph&aelig;.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="styptic(a)">Stypticke,</form> <xpln lexeme="stypticity(n)"> being such things, as by a certeine 
+harsh taste, doe shew that they be astrin&shy;
+gent: as the fruit called Medlars, and A&shy;
+lum especially, which thereupon is called
+<f type="i">Stypteria.</f> And Stypticitie is such a qua&shy;
+litie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subitary(a)">Subitarie,</form> <xpln> that is to say, Of a sudden, without 
+premeditation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subterranean(a)">Subterranean,</form> <xpln> that is to say, Under the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superficies(n)">Superficies,</form> <xpln> The upper face or outside of any 
+thing. In Geometrie it is that, which is 
+made of lines set together, like as a line of 
+prickes united.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superfoetation(n)">Superf&oelig;tation,</form> <xpln> Conception upon concep&shy;
+tion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suppuration(n)">Suppuration,</form> <xpln> A gathering to matter or attir: 
+as in biles, impostumes, inflammations 
+and such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sycophant(n)">Sycophants,</form> <xpln lexeme="fig(n)"> Tale-bearers, false promoters, or 
+slanderous informers, and such as upon 
+small occasions brought men into trouble. 
+The name arose upon this occasion, that 
+whereas in <f type="i">Athens</f> there was an act, That 
+none should transport figges out of the 
+territory <f type="i">Attica;</f> such as gave informati&shy;
+on of those that contrarie to this law con&shy;
+veied figges into other parts, were tearmed 
+Sycophants: for that <f type="i">Sycon</f> in Greeke, is 
+a figge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="syllogism(n)">Syllogismes,</form> <xpln> Be certeine formes of arguing: 
+when upon two propositions graunted, 
+which are called Premisses, there is infer&shy;
+red a third, namely a Conclusion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symbolize(v)"><f type="i">To</f> Symbolize,</form> <xpln> that is, By certeine outward 
+</page>
+
+<page sig="Zzzzz7v">
+signes, to signifie some hidden things: 
+Thus an eie symbolizeth vigilancy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sympathy(n)">Sympathie,</form> <xpln lexeme="fellow feeling(n)"> that is to say, A fellow feeling, as is 
+betweene the head and stomacke in our 
+bodies: also the agreement and naturall a&shy;
+mitie in divers senslesse things, as between 
+iron and the load-stone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symphony(n)">Symphonie,</form> <xpln> Concent and harmony, properly 
+in vocall Musicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symposiarch(n)">Symposiarch,</form> <xpln lexeme="king(n)"> The master of a feast. The Ro&shy;
+manes called him <f type="i">Rex,</f> that is to saie, a 
+king.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="symptom(n)">Symptomes,</form> <xpln> Be accidents accompanying sick&shy;
+nesse; as headach, the ague: stitch, short&shy;
+nesse of winde, spitting blood, cough and 
+ague; the plurisie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="synemmenon(n)" lexeme="synezeugmenon(n)">Synemmenon, <f type="i">or</f> Synezeugmenon, </form> <xpln>A tearme of 
+art in musicke, signifying strings or notes 
+conjunct.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="syntaxis(n)">Syntaxis,</form> <xpln> The construction and coherence of 
+words and parts of speech by concord and 
+regiment.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">T
+
+<wordentry type="h"><form lexeme="T. Titus(pn)">T. TItus,</form> <xpln> A forename to many houses of  
+the Romans.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="talent, Attic(n)">Talent <f type="i">Atticke</f></form> <xpln> (as well ponderall which 
+was weighed, as numerall or nummarie, 
+counted in mony) was of two sortes: The 
+lesse, of sixty pound <f type="i">Attick,</f> and every one 
+of them consisted of one <emend err="hnndred">hundred</emend> <f type="i">Drach&shy;
+m&aelig;.</f> If <f type="i">mina</f> then, be three pound two shil&shy;
+lings six pence starling in silver; this talent 
+amounteth to one hundred eighty seven 
+pound ten shillings of our english mony. 
+The greater, or simply the great talent, is 
+eighty <f type="i">min&aelig;</f> and hath the proportion Epi&shy;
+tritos, or sesquitertian to the lesse: so that 
+it commeth to two hundred and fifty 
+pound starling.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tautology(n)">Tautologies,</form> <xpln> Vaine repetitions of the same 
+things oftentimes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ternary(n)">Ternarie,</form> <xpln lexeme="three(n)"> The number of three.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="terpandrios(n)">Terpandrios,</form> <xpln> A severall tune in musicke, or a 
+song that <f type="i">Terpander devised.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tetrachord(n)">Tetrachord,</form> <xpln> An instrument in old time of 
+foure strings: but now, it is taken for every 
+fourth in the scale of Musicke or GAM, 
+UT. whereof there be foure in fifteene 
+strings: reckoning Mese, to end one octave 
+and begin another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tetrarch(n)">Tetrarch,</form> <xpln> A potentate or ruler over the fourth 
+part of a country.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="theatre(n)">Theatre,</form> <xpln> A shew place built with seates in 
+maner of an halfe circle, for to behold 
+games, plaies and pastimes; which if both 
+ends meet round, is called an <f type="i">Amphitheatre.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="theorum(n)">Theorems,</form> <xpln> Principles or rules in any science.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trochisk, theriacal(n)">Theriacal Trochisks,</form><xpln lexeme="triacle(n)"> Trosches made of vipers 
+flesh, to enter into the composition <f type="i">Theri&shy;
+aca,</f> that is to say, <f type="i">Triacle.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thesmothel&aelig;(n)">Thesmothel&aelig;,</form> <xpln> Were six of the nine Archontes 
+or chiefe rulers in <f type="i">Athens</f> during their free 
+popular estate. They had civill jurisdiction 
+and sat as judges in certeine causes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thesmothesium(n)">Thesmothesium,</form> <xpln> seemeth to be the court or 
+commission of the said <f type="i">Thesmothel&aelig;.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="topics(n)">Topicks,</form> <xpln> That part of logicke which treateth of 
+the invention of arguments, which are cal&shy;
+led <f type="i">Topi,</f> as if they were places, out of which 
+a man might redily have sufficient reasons 
+to argue and dispute with <f type="i">Pro &amp; contra.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tribune of the commons(n)">Tribunes of the Commons,</form> <xpln> Certeine officers 
+or magistrates at <f type="i">Rome,</f> as provosts and 
+protectours of the cominaltie to restraine 
+and keepe downe the excessive power of 
+the consuls and nobility. Chosen they 
+were and confirmed by the generall oth 
+of the people, whereby they were <f type="i">Sacrosan&shy;
+cti,</f> that is to say, Inviolable, &amp; no violence 
+might be done to their persons. A nega&shy;
+tive voice they had and power of inhibiti&shy;
+on called <f type="i">Intercessio;</f> whereby they might 
+crosse and stop all proceedings of the Se&shy;
+nate or any superiour magistrate (save on&shy;
+ly the Dictator) even of the very consuls, 
+whom in some case they might command. 
+They resembled much the Ephory in 
+<f type="i">Sparta.</f></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trite diezeugmenon(n)">Trite Diezeugmenon,</form> <xpln> The third of disjuncts a 
+string or note in the scale of musicke C, 
+SOL, FA, UT.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trite hyperbol&aelig;an(n)">Trite Hyperbol&aelig;an,</form> <xpln> A treble string; the third of 
+Exceeding or treble; F, FA, UT.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trite synnemmenon(n)" lexeme="trite syzeugmenon(n)">Trite Synnemmenon, or <f type="i">Syzeugmenon,</f></form> <xpln> The 
+third of the Disjuncts, a string or note in 
+musicke, B, FA, B, MI in rule.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trivial(a)">Triviall,</form> <xpln> Common and ordinary as is the 
+high way, stale and of no account.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trochaean(n)">Troch&aelig;ans,</form> <xpln> A metricall foot in verse, consist&shy;
+ing of two sillables; the former long, and 
+the other short.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trop&aelig;(n)">Trop&aelig;es <f type="i">or</f> Trophaees,</form> <xpln> Were monuments in 
+memoriall of victory, erected in marble, 
+brasse, or in default thereof with heaps of 
+stone or piles of wood, in the very place 
+where any Generall had vanquished his e&shy;
+nimies and put them to flight; whereupon 
+they tooke that name: for that [Greek] in 
+greeke signifieth, Turning back and flight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trope(n)">Tropes,</form> <xpln> In speech the using of wordes other&shy;
+wise than in their primitive and naturall 
+</page>
+
+<page sig="Zzzzz8r">
+signification; which many times giveth 
+a grace to the sentence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tutelar(n)">Tutelar,</form> <xpln> Protectours and defenders. So were 
+the gods or goddesses among the Painims 
+called, whom they beleeved to have a spe&shy;
+ciall charge of any city or country.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="type(n)">A Type,</form> <xpln> that is to say, A figure under which is 
+signified some other thing.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v">V
+
+<wordentry type="h"><form lexeme="virgin, vestal(n)">VEstall virgins,</form> <xpln> were certeine Nunnes or 
+Votaries, instituted first by <f type="i">Numa Pom&shy;
+pilius</f> king of <f type="i">Rome,</f> in the honour of <f type="i">Vesta</f> 
+the goddesse: whose charge was to keepe 
+the sacred fire that it went not foorth. 
+Chosen they were betweene the yeeres of 
+six and tenne of their age: and were enjoi&shy;
+ned virginitie for thirtie yeeres: after 
+which time it was lawfull for them to be 
+married: But if in the meane while they 
+committed fornication, buried they were 
+quicke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="unction(n)">Vnction,</form><xpln lexeme="anointing(n)"> that is to say, Anointing.
+</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

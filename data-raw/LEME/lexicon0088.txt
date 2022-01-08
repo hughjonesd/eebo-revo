@@ -1,0 +1,435 @@
+<leme no="88">
+<page no="366r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+B r i t i s h L i b r a r y L a n s d o w n e M S 1 7 1 n o 1 7 3
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<heading>
+<term lang="la">Verba obsoleta et alia in hoc libro vsitata
+et exposita per me quantum potui.</term>
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="la">Abroca ent<expan type="">um</expan></form> <xpln lang="en">Buying vp whole wares
+before they be brought to
+the Markett, or out of <expan type="">the</expan>
+Feyre or Markett &#38; selling 
+the same by Retayle. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Agistament<expan type="">um</expan></form> <xpln lang="en">Taking in Cattaile to 
+her&#173;
+bage by weeke moneth
+<expan type="&#38;c'">etcetera</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ancotagi<expan type="">um</expan></form> <xpln lang="en">Is a duty taken of shipps 
+for the Poole of <expan type="">the</expan> haven 
+where they cast Anker.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Annu<expan type="">um</expan> et vastu<expan type="">um</expan> et medi<expan type="">um</expan> tempus.</form> <xpln lang="en">when one is attainted who 
+hath Lands, and the <expan type="">Lord</expan> of 
+the Mannor doth seize the 
+same as Escheate, Yet <expan type="">the</expan>
+king by Prerogatiue hath
+a yeares profitt and <expan type="">the</expan>
+wast of <expan type="">the</expan> groundes <expan type="">with</expan> <expan type="">the</expan>
+meane profitt<expan type="">es</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Argent<expan type="">um</expan> dej.  </form> <xpln lang="en">In English a God his 
+peny <term lang="la">id est</term> Earnest./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Attincta.</form> <xpln lang="en">An Attaint</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Averia </form> <xpln lang="en">most comonly called 
+travelling Cattell as
+horses and Beast<expan type="">es</expan>. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha>
+<wordentry type="h"><form lang="la">Baleuca.</form> <xpln lang="en">A Baylewyk</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Barcaria.</form> <xpln lang="en">A Sheephowse &#38; somtyme
+A Sheepwalke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Batellus</form> <xpln lang="en">A Boate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bisanat<expan type="">um</expan>.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bovata terr&#230;</form> <xpln lang="en">An Oxgang conteyning
+xvteene Acres./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">In Brig<expan type="">am</expan> posint </form> <xpln lang="en"><term lang="la">id est</term>, he put Land
+full of trouble through 
+many tytles./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="la">Carucata terr&#230;.</form> <xpln lang="en">A Plough Land com&#173;
+monly conteyning 60.
+acres.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Capriola</form> <xpln lang="la">Bestia de warenna
+A<emend err="u">n</emend>glice <term lang="en">A Rooe</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cavilla </form> <xpln lang="en">A wince.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Chemin<expan type="">um</expan></form> <xpln lang="en">A way to drive Cattell
+in, Also a Cart or foote
+way.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Chivaler script <expan type="">chr</expan></form> <xpln lang="la">Miles. <term lang="en">A knight.</term></xpln></wordentry>  
+
+<wordentry type="h"><form lang="la">Cimin<expan type="">um</expan> <term lang="la">vel</term> Cumin<expan type="">um</expan>
+</form> <xpln lang="en">Cu<expan type="">mme</expan>n seed paid for a 
+a Tenure of Land.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Coo<expan type="">per</expan>tum </form> <xpln lang="en">Covert woody or
+Brushy grounde fit
+to defend deere in 
+A Forrest or Parke.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page no="366V">
+<wordentry type="h"><form lang="la">Corodium </form> <xpln lang="en">when Abbeys stod was a 
+gift of an Almes place by
+the king in all howses of
+the <expan type="">kinges</expan> foundac<expan type="">ion</expan> to haue 
+mans meate, horsemeate, ly&#173;
+very fier &#38; chamber <expan type="&#38;c'">etcetera</expan>.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page no="366v">
+<wordentry type="h"><form lang="la">Cretina </form> <xpln lang="en">A flowing tyde and som&#173;
+tyme a floud of Fresh
+water.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>
+<wordentry type="h"><form lang="en">Dilapidac<expan type="">ion</expan>es</form> <xpln lang="en">decay of Re<expan type="">per</expan>ac<expan type="">io</expan>ns of
+howses <expan type="&#38;c'">etcetera</expan> of spirituall
+living<expan type="">es</expan></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>
+<wordentry type="h"><form lang="la">Espernarius Sorus</form> <xpln lang="en">A soare Sparhawke</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Expaaltare id est expeditare Canes.</form> <xpln lang="en"><term lang="la">Infra Forrestas Regis 
+vel Chaseas, id est</term>, the two
+foreclawes of the feete 
+of Currs <expan type="">with</expan>in <expan type="">the</expan> forrest<expan type="">es</expan>
+<expan type="&#38;c'">etcetera</expan> are to be cutt of ex&#173;
+cept they haue a charter 
+to the contrary.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha>
+<wordentry type="h"><form lang="la">Falda.</form> <xpln lang="en"><term lang="la">Aliquando</term> a Folde of
+Sheep in the feild, and 
+somtymes taken for a litle 
+Court before a mans dore
+taken out of <expan type="">the</expan> Com<expan type="">me</expan>n.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Forstallament<expan type="">um</expan></form> <xpln lang="en">Buying of victualls cattell
+or wares before they come
+to markett<expan type="">es</expan> or Fayers.
+Also for a rescewe of 
+Cattell arrested or
+distreyned.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Furce</form> <xpln lang="en">The Gailehowse whereon 
+Theeves are hanged.</xpln></wordentry>
+</wordgroup1>
+
+ <wordgroup1 type="a" object="G"><alpha>G.</alpha>
+<wordentry type="h"><form lang="la">Garcio</form> <xpln lang="en">A Footman, a lackey, or
+Servingman./</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gauelkinde.</form> <xpln lang="en">Land divisible betwixt heires
+males or Femals. yt is vsed
+only by the custome of kent,
+and in some other Lordshipps
+in other Countreys./</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gildabile or Geldabile</form> <xpln lang="en">That Lande or Lordship
+that is vnder <expan type="">the</expan> liberty
+of the Sheriff<expan type="">es</expan> hunde&#173;
+red Court<expan type="">es</expan> keeping --
+<term lang="la"><expan type="">Quod</expan> est sub districc<expan type="">ione</expan>
+vi<expan type="">ces</expan>./</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Giliforata.</form> <xpln lang="en">A Gilly flower when
+Land is holden by that
+tenure to geue a Gilly&#173;
+flower./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Genette acra</form> <xpln lang="en">An Acre of Iuniper.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>
+<wordentry type="h"><form lang="la">Hida terre.</form> <xpln lang="en"><expan type="">Containing</expan> Cxx. ac<expan type="">res</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Habelarius</form> <xpln lang="en">A Light horseman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Hutesium et clamor</form> <xpln lang="en">Hewe &#38; crye after
+theeves <expan type="&#38;c'">etcetera</expan>./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha> 
+<wordentry type="h"><form lang="la">Indefensus</form> <xpln lang="en">One that is impleaded
+and refuseth to
+answere./</xpln></wordentry>
+
+<wordentry type="h"><form lang="oe">Infangenthef <term lang="la">vel</term> Infangenethef</form> <xpln lang="en">A Thief of the good<expan type="">es</expan> 
+or Cattailes of a felon
+<expan type="">which</expan> is taken or you
+can seaze <expan type="">with</expan>in yo<expan type="">ur</expan>
+Manno<expan type="">r</expan>./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K.</alpha>
+<wordentry type="h"><form lang="en">Kaia</form> <xpln lang="en">A wharf where to 
+Land wares from
+shipps in an haven.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>
+<wordentry type="h"><form lang="la">Lastagium vel lestagium.</form> <xpln lang="en">Custome for wares
+sold by <expan type="">the</expan> Laste as 
+Herring<expan type="">es</expan> Gunpowder
+<expan type="&#38;c'">etcetera</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lastum.</form> <xpln lang="en">A word onlie vsed
+in Kent &#38; Sussex
+and is called in Eng&#173;
+lish a Lathe <expan type="">which</expan> is 
+a peece of a Shire
+conteyning in yt di<expan type="">uer</expan>s
+hundred<expan type="">es</expan>.</xpln></wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page no="367r">
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="la">Maeremi<expan type="">um</expan>.</form> <xpln lang="en" lexeme="timber(n)">Tymber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Manupastus</form> <xpln lang="en">A houshold servant./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Misa.</form> <xpln lang="en">Th' Issue of a pleading
+wherevpon <expan type="">the</expan> Iury are to 
+geue their verdict.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N.</alpha>
+<wordentry type="h"><form lang="la">Nisus mutatorius</form> <xpln lang="en">A mewed Sparhawke.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O.</alpha>
+<wordentry type="h"><form lang="la">Ordeum palmale </form> <xpln lang="en">Mawlte.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha>
+<wordentry type="h"><form lang="la">Pesagium.</form> <xpln lang="en">Custome paid for weight
+of wares./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pillorium</form> <xpln lang="en">A Pillory.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pinterna.</form> <xpln lang="en">A Butler. <term lang="la">Capitalis
+Pincerna Angli&#230;.</term> chief
+Butler of England./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Purprestura.</form> <xpln lang="en">An Incroch<expan type="">ment</expan> vpon <expan type="">the</expan> <expan type="">kinges</expan> 
+Forrest<expan type="">es</expan>, high wayes or
+streetes in a Towne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Putura.</form> <xpln lang="en">A Custome claymed by kee&#173;
+pers in Forrest<expan type="">es</expan> and some&#173;
+tymes by Bayliff<expan type="">es</expan> of hundred<expan type="">es</expan>
+to take mans meat horse&#173;
+meat and dogg<expan type="">es</expan> meate
+of the tenant<expan type="">es</expan> &#38; inhabitant<expan type="">es</expan>
+<expan type="">with</expan>in the <expan type="">per</expan>ambulation
+of the hundred forreste <expan type="&#38;c'">etcetera</expan>
+when they come to lodge or
+dyne, paying nothing there&#173;
+fore./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q.</alpha>
+<wordentry type="h"><form lang="la">Quarentena.</form> <xpln lang="en">A Furlong Set in
+London poin<expan type="">ter</expan> <term lang="la">pro re&#173;
+spectu <expan type="">habenda</expan> per xl.
+dies post s<expan type="">um</expan>onico<expan type="">me</expan>m <expan type="">per</expan> 
+<expan type="">bre</expan> R<expan type="">es</expan> vt consultant
+<expan type="&#38;c'">etcetera</expan>. si sibi viderint expe<emend err="">&#173;</emend> 
+diri.</term></xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S.</alpha>
+<wordentry type="h"><form lang="la">Salina.</form> <xpln lang="en">A Salt pitt, A salte
+fatte or howse where
+salte is made./</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sulling </form> <xpln lang="en">The lower Ground sill 
+of a wodden bridg.</xpln>
+<lemenote>
+A sense not found for the English headword "suling" in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Scutagi<expan type="">um</expan>.</form> <xpln lang="en">Is a payment made vnto
+the king or other Lord<expan type="">es</expan> by
+tenant<expan type="">es</expan> <expan type="">which</expan> hold their
+Land<expan type="">es</expan> by knight<expan type="">es</expan> service
+somtymes xl.s a knight<expan type="">es</expan> fee
+somtymes more, somtyme lesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Secta Hominum  </form> <xpln lang="en">Sute and service of 
+men.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Secta  Molendini</form> <xpln lang="en">Soken to a Myll.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Selia <expan type="">ter</expan>re</form> <xpln lang="en">Arrable ground lying in 
+divers furlong<expan type="">es</expan> in the 
+co<expan type="">mmo</expan>n feild<expan type="">es</expan> by peeces.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Seneusia </form> <xpln lang="en">The tyme that a widowe
+liveth sole from <expan type="">the</expan> death
+of her husband vntill
+she be married or play <expan type="">the</expan>
+harlott./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sewera</form> <xpln lang="en">Floud gates a ditch or 
+trench to convey awaie
+waters of Floud<expan type="">es</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sock and Sack</form> <xpln lang="en">Sute of Court <expan type="&#38;c'">etcetera</expan>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T.</alpha>
+<wordentry type="h"><form lang="en">Theam et Team.</form> <xpln lang="la">Progenies Villanor<expan type="">es</expan>
+sive Natiuor<expan type="">es</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Theolonen sius Tolnetum.</form> <xpln lang="en">Toll in Fayers &#38; <expan type="">ar</expan>kett<expan type="">es</expan>
+and at passage bridge
+high waies or Ferryes is 
+called Thorough Toll./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Thesaur<expan type="">um</expan> invent<expan type="">um</expan></form> <xpln lang="en">Treasure found in <expan type="">the</expan> ground
+or any where is <expan type="">the</expan> king<expan type="">es</expan> in 
+the Realme except by 
+speciall word<expan type="">es</expan> <expan type="">that</expan> be geven
+awaie./</xpln></wordentry>
+
+
+
+
+</page>
+
+<page no="367v">
+<wordentry type="h"><form lang="la">Tostum </form> <xpln lang="en">A litle peece of ground
+where a howse hath
+bene but is decayed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tronagium</form> <xpln lang="en">Custome paid for 
+weighing wool.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tumbellum</form> <xpln lang="en">A Coocking stoole.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="la">Virgata <expan type="">ter</expan>re</form> <xpln lang="en">A yard Land conteyning
+xxx. ac<expan type="">re</expan>. <term lang="la">Aliquando xxiiij
+Aliquando xv.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Visnetum.</form> <xpln lang="en">In French called <term lang="fr">visenage</term>
+<expan type="">that</expan> is a word pro<expan type="">pre</expan> to
+Iuries to be impanelled 
+by the Sherif of those
+hundred<expan type="">ours</expan> Iurors <expan type="">which</expan> are
+next to the Land in 
+question./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Visus <expan type="">Fran</expan>ciplegij.</form> <xpln lang="en">A Leete called viewe 
+of Frankpledg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vivarium.</form> <xpln lang="en">A Pond Poole or a 
+Stewe to keep fish in.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Vtfangthef <term lang="la">vel</term> vtfangenthef</form> <xpln lang="la">Bona feloun ex Ma<expan type="">nor</expan> in 
+captor<expan type="">es</expan> et infra Ma<expan type="">nor</expan> in 
+existen<expan type="">s</expan>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W.</alpha>
+<wordentry type="h"><form lang="en">Walda</form> <xpln lang="en">A high mountaine And in 
+Glou<expan type="">cestershire</expan> &#38; <expan type="">Leicestershires</expan> cal&#173;
+led the Oldes or woulds
+in Yorks<expan type="">hire</expan> the Waldes, In
+Sussex South<expan type=":+ton">hampton</expan> &#38; Wilt<expan type="">eshire</expan>
+the downes. And in 
+Buck the Chil<expan type="">ter</expan>ne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wapentake(n)">Wapentach</form> <xpln lang="en">A Leet kept by <expan type="">the</expan> Sherif
+called the county Court
+Otherwise it is called 
+a part of the Shire
+wherein are divers hundreds
+as in Yorks<expan type="">hire</expan>. Lin<expan type="">colnshire</expan> No<expan type="">tting</expan><emend err="">&#173;</emend>
+shires <expan type="&#38;c'">etcetera</expan>./</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Warectum </form> <xpln lang="en">Fallow ground.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Wreccum Maris</form> <xpln lang="en">Sea Wrack, As if any
+Shipp or goodes be cast
+from the Sea vpon the
+Shoare of any mans Mann<expan type="">or</expan>
+If so be the shipp haue 
+noe creature Living in yt
+when yt is wreccked yt
+is the Lord<expan type="">es</expan>. Also
+great Fishes as whales
+Sturgions <expan type="&#38;c'">etcetera</expan> of <expan type="">which</expan> the 
+king is to haue not<expan type="">with</expan>
+standing by his preroga&#173;
+tiue the head &#38; tayle./</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="waif(n)">Weif</form> <xpln lang="la">Bona <expan type="">per</expan> fur<expan type="">er</expan> derelicta.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Withernami<expan type="">um</expan></form> <xpln lang="la">Quod quando bona vel ca&#173;
+talla alicnius capta elon<emend err="">&#173;</emend> 
+gata fuerint vi<expan type="">ces</expan> he<expan type="">b</expan>it
+<expan type="">b</expan>re ad tanta bona vel
+Catalla <expan type="">inprimis</expan> qui cepit
+prima Catalla <expan type="">ipius</expan> de&#173;
+li<expan type="">ber</expan>anda de <expan type="">quo</expan> prima
+Catall surrep<expan type="">te</expan> fuer.</xpln></wordentry>
+</wordgroup1>
+
+
+</page>
+</leme> 
+
+
+
+
+
+
+
+

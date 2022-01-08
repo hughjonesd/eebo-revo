@@ -1,0 +1,923 @@
+<leme no="1404">
+<page sig="[*]1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+w i n g  p 1 9 0 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page"> 
+Fodin&#230; Regales.  
+OR THE 
+HISTORY, 
+LAWS 
+AND 
+PLACES 
+OF THE 
+Chief Mines and Mineral 
+Works in England, Wales, and the English Pale 
+in Ireland.  
+
+As also of the MINT and MONY.  
+hh1r
+WITH 
+A CLAVIS Explaining some difficult Words 
+relating to Mines, &#38;c.  
+
+By Sir JOHN PETTUS, Knight.  
+
+LONDON: 
+Printed by H. L. and R. B. for Thomas Basset at the George 
+in Fleetstreet, near Cliffords Inne. 
+M. DC. LXX.  
+</section>
+
+</page>
+
+<page sig="hh1r">  
+<heading>
+An EXPLANATION of several Words used in 
+this History, as an Essay to the larger Dictionary of Metallick and Chymical Words, mentioned 
+in the Preface.
+</heading>
+
+<section type="Glossary">
+<wordgroup1 type="a" object="A"><alpha>A.</alpha> 
+
+<wordentry type="h"><form lang="en" lexeme="adit(n)">ADit,</form><xpln lang="en"> what: see page 2.</xpln>
+<lemenote>
+"Now the Adit is from the Latine word Aditus, 
+that is to say, an entry, passage, or approach to a thing. 
+And this is usually made on the side of the Hill, 
+but towards the bottom, about 4, 5, or 6 feet high, 
+and 8 feet wide, in the nature of an Arch, 
+sometimes cut in the rock, and sometimes supported 
+with timber; so that the sole or bottom of this Adit 
+may answer the bottom of the Shaft, but somewhat lower, 
+so as the water may have a sufficient Current to pass away, 
+which is exactly known by the ordinary ways of Dialing, 
+or the Workmans keeping the water at his foot 
+while there is any: and he is directed toward the Shaft 
+by a Needle touch'd with a Loadstone, 
+the using whereof is called Dialling: and by this and 
+other Arts the water is conveyed away with more 
+ease and less charge then by Pumps" (p. 2).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="adulterate(v)">Adulterate,</form> <xpln lang="en" lexeme="adulterating(a)"> adulterating.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="adulteration(n)">Adulteration,</form><xpln lang="en"> metaphorically 
+used for the undue Mixtures of any thing 
+which is prohibited by Law.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="agriculture(n)">Agriculture,</form><xpln lang="en"> tilling, dressing, or ma&#173;
+nuring Earth, whereby it may be 
+better adorned with varieties.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="alchemist(n)">Alchimist,</form><xpln lang="en"> Alchimy. See Chemistry. 
+p. 4. &#38; 43.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="alien(n)">Alien,</form> <xpln lang="en" lexeme="alien(v)" lexeme="alienate(v)">a stranger or foreiner, to alien, alienate, or fell to another, or stranger, 
+from <term lang="la">Alienus</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="amber(n)" lexeme="electrum(n)" lexeme="metallic(n)">Amber, Metallick or Electrum,</form> <xpln lang="en">com&#173;
+pounded of Gold and Silver, vide
+Preface.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="architecture(n)">Architecture,</form><xpln lang="en"> or the Art of building 
+houses, &#38;c.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="art mechanical(n)">Arts Mechanical,</form> <xpln lang="en">vide p. 30, 31.</xpln>
+<lemenote>
+"the Seven Mechanical Arts, viz. Agriculture, Clothing, Navigation, Hunting, Architecture,
+Medicine and Martial Discipline" (pp. 30-31).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="aspect(n)">Aspect,</form> <xpln lang="en">beholding or viewing; Aspect 
+of Stars, is when certain Planets 
+and Signs in Heaven do behold 
+each other; and there are four 
+such Aspects. 1. Trine. 2. Quar&#173;
+tile. 3. Sextile. 4. Opposite Aspect, 
+viz. in Books of Astronomy.</xpln></wordentry>  
+</wordgroup1>  
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="barmote(n)">Barmote,</form> <xpln lang="en">vide Barr-master.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="barmaster(n)" lexeme="barmer(n)" lexeme="burgomaster(n)" lexeme="barmote(n)">Barr-Master or Barmer, and Burgh-Master, Barrmoote and Burgh&#173;
+moote;</form> <xpln lang="en">Moote here signifies a 
+Court where the Matters in Con&#173;
+troversie are decided, and as Halli&#173;
+moote is called from Guild-Hall, 
+where such Mootes are kept, and 
+Burgh-Moote from such Burgs, Bo&#173;
+roughs or Towns where Courts 
+are kept, so Barrmoote is only u&#173;
+sed for Miners, where they ap&#173;
+pear at a Barre, and he that gives 
+the sentence as Superior is called 
+the Barrmaster or Barmer, or Ru&#173;
+ler of that Barrmoote or Court for 
+the Miners.</xpln>
+<lemenote>
+"Barmer" not found in OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="barmine(n)">Barrmine,</form> <xpln lang="en">such Mine as is adjudged 
+at their Barmoote.</xpln>
+<lemenote>
+"Barrmine" not found in OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bell-metal(n)">Bell-metall,</form> <xpln lang="en">how made. p. 4.</xpln>
+<lemenote>
+"Tin, Lead, Brass and Copper make that tunable metal
+from which our Bells are founded, and the artificial 
+mixture of these Metals may afford as many varieties 
+as those do Changes" (pp. 4-5).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bellows(n)">Bellows,</form> <xpln lang="en">such as blow the fire for 
+melting Metals.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="block(n)">Blocks,</form> <xpln lang="en">what, see p. 4. we give pieces 
+of wood the same name, and they 
+have an Analogie in respect of 
+weight.</xpln>
+<lemenote>
+"when they are smelted and cast into a solid form, 
+if Lead, they call them Pigs; if Tin, Blocks; 
+if Iron, Bars; if Silver or Gold, Cakes; if Copper, 
+Rose-cakes" (p. 4).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bole(n)" lexeme="bolestid(n)">Boles or Bolestids,</form> <xpln lang="en">are places, where 
+in ancient time, (before Smelting-&#173;
+Mills were invented) the Miners 
+did fine their lead.</xpln>
+<lemenote>
+"Bolestids" not found in OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bone-ash(n)">Bone-ashes,</form> <xpln lang="en">or bones burnt, and then 
+beaten small, of which Tests are 
+made, vide Tests.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="botanist(n)">Botannists,</form> <xpln lang="en">such as deal in Plants.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bras(n)">Brass,</form> <xpln lang="en">how made, see p. 4. The Latin 
+is <term lang="la">&#198;s</term>, which is usually ap&#173;
+plied to Copper, but improperly; 
+for <term lang="la">Cuprum</term> is Copper as a simple 
+Metall, and &#198;s brass, a compound 
+Metal of Copper and Lapis Cala&#173;
+minaris, and this word Brass ha&#173;
+ving no affinity with the Latin 
+words <term lang="la">Cuprum</term> or <term lang="la">&#198;s</term>; it is pro&#173;
+bable that Composition was known 
+before the Romans time, and so ne&#173;
+ver altered its name, and so of 
+Gold and Silver. See Copper.</xpln>
+<lemenote>
+"Lapis Calaminaris" antedates the earliest OED citation (1696).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="boule(n)" lexeme="dish(n)">Boule, or dish,</form> <xpln lang="en">which is a certain 
+measure, wherewith the Miner use 
+to measure out the duties to the 
+Church and King, reserved from 
+the Oar as Tythe, containing a&#173;
+bout half a peck.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bullion(n)">Bullion,</form> <xpln lang="en">what: see pag. 40.</xpln>
+<lemenote>
+"And being thus formed in Ingots, Cakes or Dollers, they are usually in gross called Bullion" (p. 41).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="burgomaster(n)">Burghmaster,</form> <xpln lang="en">see Barmaster.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="C"> 
+<wordentry type="h"><form lang="en" lexeme="cake(n)">Cakes,</form> <xpln lang="en">what, see p. 4. call'd so in re&#173;
+lation to their form round and 
+flat, in part convex.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="calefaction(n)">Calefaction,</form> <xpln lang="en">calefying, or making 
+warm.</xpln></wordentry>  
+
+<wordentry type="h"><form lang="en" lexeme="card(n)">Cards,</form> <xpln lang="en">which are certain pieces of 
+board, whereon wire is fixt, so as  
+
+</page>
+
+<page sig="hh1v"> 
+to kemb out wooll, and fit it for 
+making of woollen clothes. And 
+are sure Cards, Cards of labour 
+and profit, not of pleasure and 
+idleness. See Wire.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="carrier(n)">Carriers.</form> <xpln lang="en">See p. 39.</xpln>
+<lemenote>
+"Besides these there are about 50. or 60. Carriers, 
+according to the quantity of Oar; raised with horses, 
+who usually carry two bags of Oar, containing 200. weight, 
+which they deliver to the Clark imployed for that purpose, 
+who is constantly to attend the bringing in thereof, 
+who keeps several Tallies with such Carriers as brings the same, 
+which Tallies (the Carriers being gone for more Oare) 
+are fairly entered by him which keeps the Mill Book, 
+by which the quantities are known, and from which works 
+such Oar comes" (p. 39),
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cast-work(n)">Cast-works:</form> <xpln lang="en">such Metals as are not 
+Malleable, or apt to be beaten, by 
+reason of their fragile or brittle 
+nature, and are therefore cast in&#173;
+to Plates or formes fit to be cut 
+into Wire, or other uses.</xpln>
+<lemenote>
+"Cast-works" not found in OED except in a citation for "cayuse," n. (1857).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cephalic(n)">Cephalicks,</form> <xpln lang="en">Cures of Diseases be&#173;
+longing to the head. p. 5.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="chemistry(n)" lexeme="chemic(n)" lexeme="chemical(a)">Chymistry, Chymick, Chymical, or Che&#173;
+mistry.</form> <xpln lang="en">The Art of separating 
+Metals. See Alchimy.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cinder(n)">Cinders,</form> <xpln lang="en">the scum or refuse of Iron 
+which is burnt.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="circuit(n)" lexeme="circuity(n)">Circuit, Circuity,</form> <xpln lang="en">a compassing, or go&#173;
+ing about.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="coal(n)">Coale,</form> <xpln lang="en">1. Black, such as is burnt or 
+charkt. 2. White, which is only ba&#173;
+ked in an Oven to make it dry for 
+fewell.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="celestial(a)">Coelestial,</form> <xpln lang="en">things belonging to Hea&#173;
+ven, from <term lang="la">C&#339;lum</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="condensation(n)">Condensation,</form> <xpln lang="en">or being more hard or thick.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="conflagration(n)">Conflagration,</form> <xpln lang="en">when all things shall 
+consume together, as at the last 
+day of Judgement.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cope(n)">Cope,</form> <xpln lang="en">from <term lang="la">Copia</term> plenty. See p. 89.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="copper(n)">Copper,</form> <xpln lang="en">consists most of sulphur, this 
+is like to come from the Latin word <term lang="la">Cuprum</term>, and taught us by 
+the Romans. See Brass.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cordial(n)">Cordials,</form> <xpln lang="en">things which comfort the 
+Heart. p. 5.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cow(n)">Cowes,</form> <xpln lang="en">are houses that the Miners 
+build over their Groves, and not 
+such as give milk; I suppose ra&#173;
+ther Coves Coverings.</xpln>
+<lemenote>
+"Cowes" not in OED in this sense, but apparently related to "cowl," n.1, 4.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="coin(a)">Coyn,</form> <xpln lang="en" lexeme="coinage(n)">to coyne, coynage. p. 40. 42. 56.</xpln>
+<lemenote>
+"MEtall being thus Coyned or Minted, it is called Coyn 
+from Cudere to forge, or from Communis, 
+because it is then made common, or from the French word Coigne, 
+which signifies a Corner, because most of the Coynes anciently 
+were made with Angles, and some at this day in Spain and France.
+
+Or it is more probable, Vorstigan makes King and Cuning Synonyma's, 
+so may King, Cuning and Coyning; for his Regality is shewn by his Coyn, 
+and to know the intrinsick value, use and allays fit for Coyn, 
+shews his Cunning; for we use that word to express a subtilty, 
+or exquisite knowledge of any Art or Science.
+
+But the Romans had three names for Coyn; Pecunia 
+from Pecora, Cattel; because men who abounded in Cattel 
+were accounted rich, and call'd Pecuarii; and now those 
+who abound in Coyn are called Pecuniosi; The other name 
+they gave was Nummus from King Numa as 'tis conjectured, 
+who first gave an Impression on them; or from Numero, 
+and therefore when money was paid, they say, and so we in our Law, 
+it was paid Pecuniis numeratis" P. 42).
+</lemenote>
+</wordentry> 
+</wordgroup1>  
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="dialing(n)">Dyalling of Mines,</form> <xpln lang="en">what, see p. 2. 
+which is done with the like Instru&#173;
+ments of Art, by which Sun-dials 
+or surveighing of ground is per&#173;
+formed, p. 2. See G. Agricola.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="discoverer(n)">Discoverer,</form> <xpln lang="en">is any person who doth 
+finde out a Metal or Mineral which 
+was covered, and discovers or re&#173;
+veals it to the Proprietor of the 
+ground, or to the Societies, &#38;c.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="domestic(a)">Domestick,</form> <xpln lang="en">or that which concerns 
+business at home.</xpln></wordentry>
+</wordgroup1> 
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="effluxion(n)">Effluxion,</form> <xpln lang="en">which flows from a thing 
+as sweat from the body.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="elixir(n)">Elixer.</form> <xpln lang="en">See Quintissence.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Ens veneris.</form> <xpln lang="en">p. 5.</xpln>
+<lemenote>
+"From Copper is extracted Ens Veneris, so famous against Ulcers, &#38;c." (p. 5).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="epileptic(n)">Epileptioks</form> <xpln lang="en">(from Epilepsie) Cures for 
+the falling-sickness. p. 5.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="eucharist(n)">Eucharist,</form> <xpln lang="en">or the Sacrament of the 
+Body and Blood of Christ. See 
+Transubstantiation.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ewre(n)">Ewers,</form> <xpln lang="en">vide Ores. p. 57.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="excression(n)">Excression,</form> <xpln lang="en">that which grows natu&#173;
+rally, or by force of Art, out of 
+any thing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="exhaustion(n)">Exhaustion,</form> <xpln lang="en">to exhaust, exhausting or 
+drawing out.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="extraction(n)">Extraction,</form> <xpln lang="en">or drawing by force, also 
+to extract, Extractings.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="extrinsic(a)">Extrinsick,</form> <xpln lang="en">or outward.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="fuel(n)"><emend err="E">F</emend>uell,</form> <xpln lang="en">or Materials wherewith to sup&#173;
+ply or continue fires, whether 
+wood or any other combu&#173;
+stibles.</xpln></wordentry>  
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="genuine(a)">Genuine,</form> <xpln lang="en" lexeme="natural(a)" lexeme="genus(n)">or natural, from Genus, its 
+proper kinde.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)">Gold,</form> <xpln lang="en">the most perfect of all Metals, 
+it comes not from <term lang="la">Aurum</term> the La&#173;
+tin word, which shews the Romans 
+had little use of it here, or it had a 
+name with us before their Lan&#173;
+guage.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="grove(n)">Grove</form> <xpln lang="en">is the Pit that leads down to the Mine.</xpln>
+<lemenote>
+This sense of "grove" does not appear in OED, "grove," n.
+</lemenote>
+</wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="hypocondriac(n)">Hypocondriacks,</form> <xpln lang="en">diseases relating to 
+the spleen. p. 5.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hysteric passion(n)">Hysterick Passions,</form> <xpln lang="en" lexeme="mother(n)">such as the Disea&#173;
+ses called the Mother, Convulsi&#173;
+ons, &#38;c.</xpln></wordentry>  
+</wordgroup1>  
+
+<wordgroup1 type="a" object="I"><alpha>I.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="incorporation(n)" lexeme="corporation(n)" lexeme="incorporating(a)">Incorporation, Corporation, Incorpora&#173;
+ting,</form> <xpln lang="en" lexeme="corporator(n)">are embodying several men 
+into a joynt Company, or Society, 
+for the carrying on some Affair, 
+and the person so incorporated 
+called a Corporators, or Incorpo&#173;
+rators.</xpln>
+<lemenote>
+"Corporator" antedates the earliest OED citation (1787). "Incorporator" antedates the earliest OED citation (1829). 
+</lemenote>
+</wordentry>  
+
+</page>
+
+<page sig="hh2r">  
+<wordentry type="h"><form lang="en" lexeme="ingot(n)">Ingotts,</form> <xpln lang="en">or silver melted into propor&#173;
+portions, fit to be cut into coyn.
+ See p. 40.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="intrinsic(a)">Intrinsick,</form> <xpln lang="en">or inward.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="iron(n)">Iron,</form> <xpln lang="en">seems to be a word which is 
+more ancient then the Roman Lan&#173;
+guage, which terms it <term lang="la">ferrum</term>, un&#173;
+less <term lang="la">ferrum</term> be called Iron by way 
+of Irony.</xpln></wordentry>  
+</wordgroup1>
+  
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="latten(n)">Lattin,</form> <xpln lang="en">is brass coloured over with 
+oare, it is only cast, and is too 
+brittle to endure the hammer: 
+How the word hath relation to the 
+Roman Language is to be enqui&#173;
+red.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lead(n)">Lead</form> <xpln lang="en">seems to be a word also with us 
+more ancient then the Roman 
+Language, which calls it <term lang="la">Plum&#173;
+bum</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lessee(n)">Lessees,</form> <xpln lang="en">such as take Leases from o&#173;
+thers, or of any Mines from the 
+Societies, with Covenants to work 
+the same, and pay the Kings du&#173;
+ties, &#38;c.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="letters patent(n)">Letters Pattents,</form> <xpln lang="en"><term lang="la">Liter&#230; Patentes</term>, or 
+Writing, sealed with the broad Seal 
+of England, whereby men are au&#173;
+thorised to do or enjoy any thing, 
+that otherwise of themselves they 
+could not do; there are four sorts 
+mentioned in this History: First, 
+of the Mines Royal, p. 49. 54. 62 
+Secondly, of the Society of the 
+Mineral and Battry-works, p. 57. 
+60, 65. Thirdly, of the Society of 
+the Royal Company, p. 27. And 
+fourthly, of the Royal Company, 
+p. 17.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ligament(n)">Ligament,</form> <xpln lang="en">a mineral word from <term lang="la">Liga</term>, 
+where the Composition of Metals 
+binde together more firm.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="liquidity(n)">Liquidity, Liquidities,</form> <xpln lang="en">liquid or moist&#173;
+ning.</xpln></wordentry> 
+</wordgroup1>
+  
+<wordgroup1 type="a" object="M"><alpha>M.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="manufacture(n)">Manufactures,</form> <xpln lang="en">such useful Arts as 
+are performed by the labour or 
+action of the hand.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="meditullian(a)">Meditullian,</form> <xpln lang="en">that part of the Earth 
+which is between the Center and 
+the Surface of the Earth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mere(n)">Meere,</form> <xpln lang="en" lexeme="rake(n)" lexeme="skirt(n)">29 yards is a Meer in the low 
+Peak, 31 in the high Peak, and the 
+bredth is from skirt to skirt, in a 
+rake or Pipe-work, and in a flat 
+work.</xpln>
+<lemenote>
+"skirt" antedates the earliest (and only) OED citation in this sense ("skirt," n., 8b [1747]).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="metallist(n)">Metallists,</form> <xpln lang="en">such as deal in Me&#173;
+tals.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="metal(n)">Metals of seven sorts,</form> <xpln lang="en">vide Preface, 
+and p. 3. 6, 7. the distinction of 
+which are referred to the intended 
+Dictionary of Metallicks, or per&#173;
+taining to Metals.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="metal artificial(n)">Metals Artificial.</form> <xpln lang="en">p. 43.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mine(n)">Mines,</form> <xpln lang="en">what. vide p. 1.</xpln>
+<lemenote>
+"A MINE is defined to be a certain Foramen, Hole, Hollow place, 
+or Passage digged in the Earth, from whence Metals or Minerals 
+are by labour raised: for if common Stones onely are found 
+(as Marble, Touchstone, Freestone, &#38;c.) we call them Quarries, 
+and not Mines. And where Clays are digged (as Fullers earth, 
+Potters earth, &#38;c.) we call them Pits. Libavius terms it the Womb; 
+or Natures place of Metals" (p. 1).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mine royal(n)" lexeme="poor mine(n)">Mine Royal, and poor-Mine,</form> <xpln lang="en">vide p 9. 
+&#38; 52.</xpln>
+<lemenote>
+"WHere the Oar which is digged from any Mine doth not yield, 
+according to the Rules of Art, so much Gold or Silver, 
+as that the value thereof doth exceed the charge of Refining, 
+and loss of the baser Metal wherein it is contained, 
+or from whence it is extracted, then it is called 
+poor Oar or a poor Mine.
+
+On the contrary; where the Oar digged from any Mine 
+doth yield according to the Rules of Art so much Gold or Silver, 
+as that the value thereof exceed the charges of Refining, 
+and loss of the baser Metal in which it is contained, 
+and from whence it is extracted, then it is called rich Oar 
+or a Mine Royal; 'tis appertaining to the KING by his Prerogative" (p. 9).
+
+"poor-Mine" not found in OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mineral(n)">Minerals,</form> <xpln lang="en">the several sorts, see p. 5, 6. 
+7 the definitions of which are 
+referred to the intended Dictio&#173;
+nary.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mineralist(n)">Mineralist,</form> <xpln lang="en">such as deal in Mine&#173;
+rals.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)">Mint,</form> <xpln lang="en">see p 40.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="money(n)">Mony,</form> <xpln lang="en">see p. 42, 43.</xpln>
+<lemenote>
+"The third name they gave it after it was Coyned or Minted was Moneta, 
+which we English Money, and St. Austin says it was derived from Monere, 
+to admonish, and as it were to warn us, that all our disposals of it, 
+should be Honest, Just, Honourable, and to Charitable Ends" (p. 43).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="multiplication(n)">Multiplication</form> <xpln lang="en">of Coyn, see p. 43.</xpln>
+<lemenote>
+"Multiplying and Multiplication, is either by counterfeiting Metals, 
+or adding greater Allay then the Standard allows, or by clipping, 
+or otherwise lessening their due weight and proportions" (p. 43).
+</lemenote>
+</wordentry> 
+</wordgroup1>
+  
+<wordgroup1 type="a" object="N"><alpha>N.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="needle(n)">Needle,</form> <xpln lang="en">a piece of Iron fixt on a Cen&#173;
+ter with which Marriners, Survey&#173;
+ors, and Diallers use to shew the 
+North and South-points: The 
+word is also used for an instrument 
+wherewith men and women sew 
+garments.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="ore(n)">Ores,</form> <xpln lang="en" lexeme="oar(n)" lexeme="glance-ore(n)" lexeme="white ore(n)" lexeme="ewre(n)">what, and the sorts of them, 
+vide p. 2, 3. the word is also used 
+for oars which Water men use, on&#173;
+ly differs in Orthography Glance&#173;
+ore, white-ore, which sometimes 
+are called Ewres, see p. 49.</xpln>
+<lemenote>
+"white-ore" not found in OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="osteology(n)">Ostiology,</form> <xpln lang="en">or a discourse of the nature 
+of bones.</xpln></wordentry> 
+</wordgroup1>
+  
+<wordgroup1 type="a" object="P"><alpha>P.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="Pale of Ireland(n)">Pale of Ireland,</form> <xpln lang="en">see p 8.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="Parliament(n)">Parliament or Parlement.</form> <xpln lang="en">ib.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="patent(n)">Patents,</form> <xpln lang="en">vide Letters Pattents.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="petrifying(n)">Petrefying,</form> <xpln lang="en" lexeme="petrifaction(n)">petrefaction, or turning 
+soft or liquid substances into more 
+hard or stonie, from <term lang="la">Petra</term> a Rock.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pewter(n)">Pewter,</form> <xpln lang="en">vide p 4.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="philosopher's stone(n)">Philosophers stone,</form> <xpln lang="en" lexeme="quintessence(n)">see Quintessence.</xpln></wordentry>  
+
+<wordentry type="h"><form lang="en" lexeme="pig(n)" lexeme="sow(n)">Piggs of Lead,</form> <xpln lang="en">see p. 4. some call them 
+Sows, with some Analogy to Ani&#173;
+
+</page>
+
+<page sig="hh2v">  
+mals of that name, in relation to 
+their production.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pit(n)">Pitts, what,</form> <xpln lang="en" lexeme="spade(n)" lexeme="spit(n)">p 1. somtimes taken 
+for places which hold water, which 
+are digged with Spitts or Spades.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pore(n)">Pores,</form> <xpln lang="en">are certain visible 
+or invisible holes in the bodies of all sublunary 
+Creatures through which they 
+send out a certain breath or Liquid 
+matter.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="practical learning(n)">Practical or Practick learning,</form> <xpln lang="en" lexeme="theory(n)">or the 
+Theory, or Theorems of Arts 
+which may be put in practice, vid. 
+Theory.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pre-emption(n)">Pr&#230; Emption,</form> <xpln lang="en">a power given for one 
+to buy any thing before an other.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="prerogative(n)">Pr&#230;rogative,</form> <xpln lang="en">is that especial power, 
+preheminence or priviledge which 
+the King hath in any kind over and 
+above others, and above the ordi&#173;
+nary course of the common law, in 
+right of his Crown, wherein he 
+is only subject to God</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="proprietor(n)">Proprietor,</form> <xpln lang="en">he who hath the property 
+or right of the soil, wherein a Mine 
+lies hid, or discovered.</xpln></wordentry> 
+</wordgroup1>
+  
+<wordgroup1 type="a" object="Q"><alpha>Q.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="quarry(n)">Quarry,</form> <xpln lang="en">what, vid. p 1.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="quicksilver(n)">Quick-Silver,</form> <xpln lang="en" lexeme="mercury(n)">seems to be a word 
+used by us more ancient then the 
+Roman language, which calls it 
+<term lang="la">Argentum Vivum</term>, or Living Silver, 
+which we call quick by reason of 
+its nimble and active power, and 
+therefore by some called Mercury. 
+See Silver.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="quintessence(n)" lexeme="elixir(n)">Quintescence, Elixir,</form> <xpln lang="en" lexeme="philosopher's stone(n)">or the Philoso&#173;
+phers Stone, is a 5th spirit that 
+doth tie the spirits of the four Ele&#173;
+ments together, and as the four 
+Elements are in some proportions 
+in all bodies, so is this spirit, and 
+it is the Art of the Philosopher to 
+extract this spirit out of any body, 
+and that 5th. spirit which they ex&#173;
+tract out of Mettalls is this Quin&#173;
+tescence, or five spirits, by which 
+such Miracles are to be effected, 
+vid. p 44, 45. See Elixir.</xpln></wordentry>  
+</wordgroup1>
+  
+<wordgroup1 type="a" object="R"><alpha>R.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="rake(n)">Rake,</form> <xpln lang="en">is a vein of Oar that lieth be&#173;
+tween two Wought, that is not co&#173;
+vered with a lid stone, and not a 
+Rake made with teeth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="reassume(v)" lexeme="reassuming(a)" lexeme="resumption(n)">Reassume, Reassuming, Resumption</form> <xpln lang="en">not 
+a taking a thing back again, which 
+was formerly given or graunted.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="refiner(n)" lexeme="refine(v)">Refiner or to refine,</form> <xpln lang="en">is he that melts 
+Mettal again, to bring it into a 
+more pure substance.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="resplendant(a)" lexeme="resplendency(n)">Resplendency, Resplendant,</form> <xpln lang="en" lexeme="splendid(a)" lexeme="splendour(n)">splendid 
+or splendour, is that which affoards 
+great brightness, so that Resplen&#173;
+dency is to be understood double 
+that brightness, and so in other 
+words, where the addition of Re, 
+guides the word.</xpln></wordentry> 
+</wordgroup1>
+  
+<wordgroup1 type="a" object="S"><alpha>S.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="sledge(n)">Sledges,</form> <xpln lang="en">such wherewith in many pla&#173;
+ces they draw weights, where 
+Carts, Tumbrells, &#38;c. are not 
+used.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="science(n)">Sciences,</form> <xpln lang="en">the 7 Liberal. vid. p 30. and 
+31.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shade(n)">Shade,</form> <xpln lang="en">or glittering Earth, being as it 
+were the shadow of a greater light.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shaft(n)">Shafts,</form> <xpln lang="en">what, see p 2.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="silver(n)">Silver,</form> <xpln lang="en" lexeme="quicksilver(n)" lexeme="sulphur(n)">begotten of Quicksilver and 
+Sulphur, it comes not from <term lang="la">Ar&#173;
+gentum</term>, the Lattin word, which 
+shews it was not in use before the 
+Romans, or at least had that name 
+before them. See Quick-silver.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="slag(n)">Slaggs,</form> <xpln lang="en">is the dross remaining after 
+melting or refining Lead, &#38;c.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="smelt(v)">Smelt,</form> <xpln lang="en" lexeme="melt(v)" lexeme="smelter(n)" lexeme="melter(n)">or Melt, thence a Smelter or 
+Melter.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="specimen(n)">Specimen,</form> <xpln lang="en">a proof or example.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="speculation(n)">Speculation,</form> <xpln lang="en">speculating or beholding 
+thing as in a glass face to face, 
+and somtimes a meer vision of the 
+Minde.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sophisticate(v)">Sophisticate,</form> <xpln lang="en">to imitate the wisdome of 
+Na<emend err="">t</emend>ure, by some false or counter&#173;
+feit Art.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="sp">Spadiardo,</form> <xpln lang="en">such as dig with Spades 
+p. 81.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stannary(n)">Stannaries,</form> <xpln lang="en">from <term lang="la">Stannum</term> Tin, See Tin,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="standard(n)">Standard,</form> <xpln lang="en">Money according to the 
+Standard, is that which the State 
+doth allow to be the mixture, as if 
+10 parts of Silver and 2 of Copper 
+12 d. or more or less as the State 
+please to decree: The word is also 
+used in martial affairs, as the Kings 
+Standard, which carries his Co&#173;
+
+ 
+
+</page>
+
+<page sig="ii1r"> 
+lours, as money doth, his Super&#173;
+scription.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stamper(n)">Stampers,</form> <xpln lang="en">such as beat the Oar small 
+and fit for the Washers.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="steel(n)">Steel,</form> <xpln lang="en">natural and artificial, see p. 4 
+and hath no affinity with the Latin 
+word <term lang="la">chalybs</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stow(v)">Stow,</form> <xpln lang="en" lexeme="turn-tree(n)">to stow is to set pieces of wood 
+upon the Grove or Pit, or the 
+place where the Miners do intend 
+to make a Pit, so as to lay a turn-&#173;
+tree and rope, whereby to 
+draw Earth or Myne out of the 
+Grove.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="subterranean(a)">Subterranean,</form> <xpln lang="en">that which is in and 
+under the Earth, and under the sur&#173;
+face thereof.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="superficies(n)" lexeme="surface(n)">Superficies or Surface,</form> <xpln lang="en">that which 
+appears first to the eye of a thing 
+represented unto it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sword(n)">Swords,</form> <xpln lang="en" lexeme="sufflation(n)">whereby is here to be under&#173;
+stood somewhat belonging to the 
+Bellows, and not weapons offen&#173;
+sive or defensive, or rather <term lang="la">Soards</term> 
+from <term lang="la">Soare</term>, or the arising and de&#173;
+pression which cause their sufflati&#173;
+on of the fire, and so melts the 
+Oare.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="synonym(n)">Synonima,</form> <xpln lang="en">or of like name.</xpln></wordentry> 
+</wordgroup1>
+  
+<wordgroup1 type="a" object="T"><alpha>T.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="terrestrial(a)">Terrestrial,</form> <xpln lang="en" lexeme="terrene(n)">or things belonging to 
+the Earth, and Terrene.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="test(n)">Tests,</form> <xpln lang="en">are made of bone-ashes 
+mixt with water, of several pro&#173;
+portions great or small, where&#173;
+in Metal is essayed in small 
+parts, or melted and refined at 
+large.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="theory(n)">Theory</form> <xpln lang="en">is the consideration of what 
+may be put into practice, vide Pra&#173;
+ctice.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tin(n)" lexeme="tinner(n)" lexeme="stannary(n)">Tin, Tinners, Stannaries,</form> <xpln lang="en">vide p. 12. 
+&#38; 79.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="touch(n)">Touch,</form> <xpln lang="en" lexeme="touchstone(n)">from Touchstone, upon which 
+if Gold or Silver be rub'd, the 
+true is more easily distinguished 
+from the false.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="transubstantiate(v)" lexeme="transubstantiation(n)" lexeme="transubstantiating(n)">Transubstantiate, or Transubstantia&#173;
+tion, or Transubstantiating,</form> <xpln lang="en">is to 
+alter the substance of a thing, or 
+transfer it from one substance to 
+another, as making Gold of Sil&#173;
+ver, &#38;c. See p. 44. and Eucha&#173;
+rist.</xpln>
+<lemenote>
+"Transubstantiating" antedates the earliest OED citation (1800).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tun(n)">Tun</form> <xpln lang="en">is 20 hundred weight, or four 
+Hogsheads, or 12 score and 12 
+Gallons.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="vein(n)">Veins of Metal,</form> <xpln lang="en">see p. 2.</xpln>
+<lemenote>
+"And when the Miners by these Shafts or Adits do strike 
+or threed a Vein of any Metal (for Metals under the Earth 
+are dispersed like Veins in our bodies, and therefore 
+called Veins) then the Metal which is digged from those Veins 
+is called Oar, as Silver oar, Lead oar, &#38;c." (p. 2)."
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="virgula divina(n)">Virgula Divina,</form> <xpln lang="en">see the Preface.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="vocabulary(n)">Vocabulary,</form> <xpln lang="en">a recital of words.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="utensil(n)">Utensils,</form> <xpln lang="en">properly used for things of 
+use, belonging to house-keeping, 
+but generally used for the tools be&#173;
+longing to any trade.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W.</alpha>   
+<wordentry type="h"><form lang="en" lexeme="wash(v)">Wash,</form> <xpln lang="en">the Metallists usually, when 
+their oar is stampt small, do put it 
+<emend err="it"></emend> into a sieve, and poure water on 
+it, which washes the durt from the 
+Oar.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="windlass(n)">Winlace,</form> <xpln lang="en">or an Engine to winde up 
+weights, or any thing else with&#173;
+al.</xpln></wordentry>  
+
+<wordentry type="h"><form lang="en" lexeme="wire(n)">Wier,</form> <xpln lang="en">there is a Prohibition of forein 
+wire in the fourth of Edw. the 
+fourth, and in the 29. of Eliz. and 
+other Statutes; but I finde not in 
+any of our Dictionaries, English 
+or Latin, the word Wire, but in 
+the Italian, (who use no W. S. it is 
+<term lang="it">virare</term>, to veer, or <term lang="it">vertere</term>, to 
+turn, or draw any thing round, 
+and so is Wire, and the French call 
+the drawing of Wire, <term lang="fr">Tirare</term>, T and 
+V, being the same in their dialect, so 
+that <term lang="fr">Vier</term> or Wire intends the same 
+thing, and Walton in all his Tran&#173;
+slations of the 7 Oriental Tongus, 
+calls Wire only <term lang="la">silum</term>, and Jun. &#38; 
+Tremel. <term lang="la">filamentum</term>, or Metal 
+drawn out like a Thred, from 
+whence we call small wire, 
+thread of Wyer. The reason 
+of prohibiting forein wier, 
+is because it is so weak and 
+flexible, that it doth not kemb  
+
+</page>
+
+<page sig="ii1v">  
+the wool as it ought to be, where&#173;
+as English wire is strong and 
+more fit for that purpose, and 
+these wiers are framed with pie&#173;
+ces of flat boards, which are cal&#173;
+led Cards. See Cards.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="wough(n)">Woughs,</form> <xpln lang="en">or Wall of the Groves.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="yoked(a)">Yoaked,</form> <xpln lang="en">is to set pieces of Wood 
+joyned together within. the 
+Grove, to prevent the Earth 
+falling.</xpln></wordentry> 
+</wordgroup1>
+</section>
+
+</page>
+</leme>
+
+   

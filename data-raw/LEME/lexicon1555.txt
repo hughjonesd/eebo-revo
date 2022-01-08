@@ -1,0 +1,149 @@
+<leme no="1555">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+R o b e r t  D u d l e y ' s  V o y a g e  t o  t h e  W e s t  I n d i e s  1 5 9 4 - 9 5
+B r i t i s h  L i b r a r y  S l o a n e  M S  3 5 8
+v e r . 1 . 0 ( 2 0 21 )
+</term>
+</lemepagenote>
+
+<page no="65">
+<section type="Guinese Glossary">
+<wordgroup1 type="t" object="Aramack Words (Guinese)"><alpha><term lang="la">Aroaca,</term> <term lang="la">Sermo Indianus</term></alpha>
+<wordentry type="h"><form lang="gu">Burgo,</form> <xpln lang="la">comertium.</xpln></wordentry> 
+<wordentry type="h"><form lang="gu">Calcurey,</form> <xpln lang="la">aurum. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Chipperarey,</form> <xpln lang="la">argentum. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dacabo,</form> <xpln lang="la">manus. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dab&aacute;rroh,</form> <xpln lang="la">crines. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dab&aacute;doh,</form> <xpln lang="la">unguis. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">T&aacute;corah,</form> <xpln lang="la">lapis viridis. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Colperey,</form> <xpln lang="la">lapis albus. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Uree,</form> <xpln lang="en" lexeme="tobacco(n)">tobaco. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Arara,</form> <xpln lang="la">aurum vulgare. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Bara,</form> <xpln lang="la">aqua.</xpln></wordentry>
+<wordentry type="h"><form lang="gu">Hadaley,</form> <xpln lang="la">sol. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Basya,</form> <xpln lang="la">ventus. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Casaca,</form> <xpln lang="la">nubes. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Taiourah,</form> <xpln lang="la">corda. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Adda,</form> <xpln lang="la">lignum. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Edu&oacute;lah,</form> <xpln lang="la">cultellum. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Arkekano,</form> <xpln lang="la">forceps. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Weeuah,</form> <xpln lang="la">c&oelig;lum. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dacy,</form> <xpln lang="la">caput. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dacasi,</form> <xpln lang="la">oculus. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dary,</form> <xpln lang="la">dens. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dadica,</form> <xpln lang="la">auris. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Daciboh,</form> <xpln lang="la">facies. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Da la r&oacute;coh,</form> <xpln lang="la">labrum. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Dacirey,</form> <xpln lang="la">nasus.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="66">
+<wordgroup1 type="t" object="Places and People of the Main"><alpha>Places and people of the mayne</alpha>
+<wordentry type="h"><form lang="gu">Capulio,</form> <xpln lang="en" lexeme="eastermost(a)" lexeme="point(n)">the eastermost poynte. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Werin&oacute;ca,</form> <xpln lang="en" lexeme="entering(n)" lexeme="river(n)">the entring in of the ryver. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Moroca,</form> <xpln lang="en" lexeme="man-eater(n)">the men-eaters. </xpln>
+<lemenote>
+"men-eaters" antedates the earliest OED citation (1600).
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="gu">Caribia</form> <xpln lang="en" lexeme="man-eater(n)">be also man-eaters. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Sabiota</form> <xpln lang="en" lexeme="small(a)" lexeme="river(n)" lexeme="people(n)" lexeme="entreat(v)">is a small ryver; the people of the river are called <term lang="gu">Veriotaus</term>, 
+of whom we weare well intreat[ed].</xpln></wordentry>
+<wordentry type="h"><form lang="gu">Mana,</form> <xpln lang="en" lexeme="Carpembres(pn)">the ryver of Carpembres. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Maria,</form> <xpln lang="en" lexeme="mine(n)" lexeme="Calcuery(pn)">the ryver wheare the myne of calcurey is. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Armaio,</form> <xpln lang="en" lexeme="captain(n)">captaine of the sayd myne. </xpln></wordentry>
+<wordentry type="h"><form lang="gu">Bra&aacute;ha</form> <xpln lang="en" lexeme="put(v)" lexeme="leeward(adv)">is a small ryver by the which wee did com back, and yt did 
+putt us too leeward of the ship. </xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+<page no="78">
+<section type="Trinidad Glossary">
+<wordgroup1 type="t" object="Trinidad Words"><alpha>Here follow certaine wordes of the language of Trinidad
+which I obserued at my being there:</alpha>
+<wordentry type="h"><form lang="tr">Gvttemock,</form> <xpln lang="en" lexeme="man(n)">a man.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Tabairo, Dabarah, <term lang="en">or</term> Dabarra,</form> <xpln lang="en" lexeme="hair(n)" lexeme="head(n)">
+the heare of ones head.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Dessie,</form> <xpln lang="en" lexeme="forehead(n)">the forehead.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dasereth, <term lang="en">or</term> Dacosi,</form> <xpln lang="en" lexeme="eye(n)">an eye.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dalacoack,</form> <xpln lang="en" lexeme="mouth(n)">the mouth.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Areheh,</form> <xpln lang="en" lexeme="tooth(n)">the teeth.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Daria,</form> <xpln lang="en" lexeme="gum(n)">the gummes.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Desire,</form> <xpln lang="en" lexeme="lip(n)">the lips.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dill,</form> <xpln lang="en" lexeme="tongue(n)">the tongue.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dudica,</form> <xpln lang="en" lexeme="ear(n)">the eares.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dacan,</form> <xpln lang="en" lexeme="hand(n)">a hand.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dacabbo,</form> <xpln lang="en" lexeme="palm(n)" lexeme="hand(n)">the palme of the hand.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dadena,</form> <xpln lang="en" lexeme="wrist(n)">the wrist.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dacurle,</form> <xpln lang="en" lexeme="knee(n)">a knee.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Daddano,</form> <xpln lang="en" lexeme="calf(n)" lexeme="leg(n)">the calfe of the legge.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Dabodda,</form> <xpln lang="en" lexeme="toe(n)">the toes. </xpln></wordentry>
+<wordentry type="h"><form lang="tr">Dacutti,</form> <xpln lang="en" lexeme="foot(n)">the feete.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Cattie,</form> <xpln lang="en" lexeme="moon(n)">the moone.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Tauraroth,</form> <xpln lang="en" lexeme="rope(n)">a rope.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Arkeano,</form> <xpln lang="en" lexeme="pair(n)" lexeme="scissors(n)">a paire of cizers.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Weeuah,</form> <xpln lang="en" lexeme="heaven(n)">the heauen.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Harowa,</form> <xpln lang="en" lexeme="stone(n)" lexeme="good(a)" lexeme="headache(n)">a stone good for the 
+head ache.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Mointiman,</form> <xpln lang="en" lexeme="iron(n)" lexeme="steel(n)">yron or steele.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Howa,</form> <xpln lang="en" lexeme="monkey(n)" lexeme="general(n)">munkeis in generall.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Carotta,</form> <xpln lang="en" lexeme="thing(n)" lexeme="pap(n)">a thing like pappe.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Sakel,</form> <xpln lang="en" lexeme="well(a)">it is well, or I am well.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Techir,</form> <xpln lang="en" lexeme="bracelet(n)">a bracelet.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Bodad,</form> <xpln lang="en" lexeme="box(n)" lexeme="chest(n)">a boxe or chest.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Mentinie,</form> <xpln lang="en" lexeme="tree(n)">a tree.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Addehegaeno,</form> <xpln lang="en" lexeme="glass(n)">a glasse.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Calcouri,</form> <xpln lang="en" lexeme="gold(n)">gold.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Perota,</form> <xpln lang="en" lexeme="silver(n)">siluer.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Tacorao,</form> <xpln lang="en" lexeme="green(a)" lexeme="stone(n)">a green stone.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Arrara,</form> <xpln lang="en" lexeme="copper(n)">copper.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Caulpiri,</form> <xpln lang="en" lexeme="white(a)" lexeme="stone(n)">a white stone.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Casparo,</form> <xpln lang="en" lexeme="sword(n)">a sword.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Tibetebe,</form> <xpln lang="en" lexeme="cockle(n)">cockles.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Marrahabo,</form> <xpln lang="en" lexeme="bow(n)">a bow.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Semaro,</form> <xpln lang="en" lexeme="arrow(n)">an arrow.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Huculle,</form> <xpln lang="en" lexeme="bowstring(n)">a bow-string.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Halete,</form> <xpln lang="en" lexeme="potato(n)" lexeme="root(n)">a potato roote.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Caerwoda,</form> <xpln lang="en" lexeme="sweet(a)" lexeme="root(n)">a sweete root.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Maunisse,</form> <xpln lang="en" lexeme="wheat(n)">wheat.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Queca,</form> <xpln lang="en" lexeme="basket(n)">a basket.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Yeddola,</form> <xpln lang="en" lexeme="knife(n)">a knife.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Sambolers,</form> <xpln lang="en" lexeme="hat(n)">a hat.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Beyou,</form> <xpln lang="en" lexeme="pipe(n)">a pipe.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Callit,</form> <xpln lang="en" lexeme="bread(n)">bread.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Oronuie,</form> <xpln lang="en" lexeme="water(n)">water.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Arguecona,</form> <xpln lang="en" lexeme="pair(n)" lexeme="scissors(n)">a paire of cizzers.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Heldaro,</form> <xpln lang="en" lexeme="spoon(n)">a spoone.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Hemachugh,</form> <xpln lang="en" lexeme="bread(n)" lexeme="eat(v)">a bread which they 
+eate.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Hicket,</form> <xpln lang="en" lexeme="fire(n)">fire.</xpln></wordentry>
+</page>
+
+<page no="79">
+<wordentry type="h"><form lang="tr">Walrowa,</form> <xpln lang="en" lexeme="parrot(n)">a parrot.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Vreit,</form> <xpln lang="en" lexeme="tobacco(n)">tabacco.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Barudda,</form> <xpln lang="en" lexeme="comb(n)">a combe.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Addoth,</form> <xpln lang="en" lexeme="stick(n)">a sticke.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Barrennaire,</form> <xpln lang="en" lexeme="button(n)" lexeme="bead(n)">a button, or beads.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Curaballa and Sibath,</form> <xpln lang="en" lexeme="sundry(a)" lexeme="stone(n)" lexeme="signify(v)">for 2 sundry 
+stones: but <term lang="gu">Sibath</term> in general 
+signifieth a stone.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Tolletillero,</form> <xpln lang="en" lexeme="bell(n)">bels.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Vllasso,</form> <xpln lang="en" lexeme="tunny(n)">a tuny-fish.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Bohery,</form> <xpln lang="en" lexeme="flying fish(n)">a flying-fish.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Bara,</form> <xpln lang="en" lexeme="water(n)">water.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Haddalle,</form> <xpln lang="en" lexeme="sun(n)">the sunne.</xpln></wordentry>
+<wordentry type="h"><form lang="tr">Babage-Canoaseen,</form> <xpln lang="en" lexeme="manner(n)" lexeme="Indian(n)" lexeme="hailing(n)" lexeme="ship(n)" lexeme="name(n)">the maner of 
+the Indians hailing of a ship, 
+calling it after the name of 
+their <term lang="tr">Canoas</term>.</xpln></wordentry> 
+<wordentry type="h"><form lang="tr">Non vuo, <term lang="en">or</term> Non quapa,</form> <xpln lang="en" lexeme="know(v)" lexeme="tell(v)">I know 
+not, or I cannot tell.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

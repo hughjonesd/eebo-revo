@@ -1,0 +1,270 @@
+
+	
+<leme no="150">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 8 4 8 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+An Arithmeticall Militare Treatise, named
+STRATIOTICOS:
+Compendiously teaching the Science of N<expan type="">um</expan>bers,
+as well in Fractions as Integers, and so much of the Ru&#173;
+les and &#198;quations Algebraicall and Arte of Numbers 
+Cossicall, as are requisite for the Profession of Soldiour.
+
+Together with the Moderne Militare Discipline, Offices, Lawes and
+Dueties in euery wel gouerned Campe and Armie to be obserued:
+Long since att<expan type="">em</expan>pted by LEONARD DIGGES Gentleman,
+Augmented, digested, and lately finished, by 
+THOMAS DIGGES, his Sonne.
+
+Whereto he hath also adioyned certaine Questions of great Ordinaunce,
+resolued in his other Treatize of Pyrotechny and great
+Artillerie, hereafter to bee published.
+
+<term lang="la">VIVET POST FVNERA VIRTVS</term>.
+
+AT LONDON: 
+Printed by Henrie Bynneman.
+<term lang="la">Anno Domini</term> 1579.
+
+</section>
+
+<section type="Definitions">
+
+</page>
+
+<page sig="b1r">
+<wordentry type="d"><form lang="en" lexeme="number(n)">A Number</form> <xpln lang="en">is the multitude of Unites sette
+togither, as 2. 3. 4. &#38;c.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="cipher(n)" lexeme="O(n)">The Cipra o</form> <xpln lang="en">augmenteth places, but of himselfe signi&#173;
+fieth not. To number anye summe nothing else is, but to
+declare the value of euerie Figure placed. So many places 
+are in your worke, as there be Elementes from the righte
+hand to the left. Euery Figure in the first place betokeneth
+himselfe, and so towarde the left side, tenne times so muche
+as he was the place before.</xpln></wordentry>
+
+</page>
+
+<page sig="b1v">
+<wordentry type="d"><form lang="en" lexeme="add(v)">TO adde</form> <xpln lang="en">is to gather and knit in one many numbers or 
+Unites, whereby the whole summe manifestly may ap&#173;
+peare, as 3, 15 and 22 maketh 40 the whole &#38;c.</xpln></wordentry>
+
+</page>
+
+<page sig="B2r">
+<wordentry type="d"><form lang="en" lexeme="subduce(v)" lexeme="subtray(v)">TO subduce or subtray any s<expan type="">um</expan>me,</form> <xpln lang="en">is wittily to pull a lesse
+fr<expan type="">om</expan> a bigger n<expan type="">um</expan>ber, or an equall fr<expan type="">om</expan> a like or equall, so <expan type="">that</expan> 
+<expan type="">that</expan> remaine if it be any thing, do appeare.</xpln></wordentry>
+
+</page>
+
+<page sig="b2v">
+<wordentry type="d"><form lang="en" lexeme="multiply(v)">TO multiplie,</form> <xpln lang="en" lexeme="multiplicator(n)" lexeme="multiplier(n)">is to find of two Numbers a n<expan type="">um</expan>ber product
+the one in the other augmented, the which so often may
+conteyne the number multiplied, as there be of Unites in 
+the Multiplicator. The lesse is named the Multiplicator or 
+
+</page>
+
+<page sig="b3r">
+Multiplyer, the other summe, or number to be multiplyed.</xpln></wordentry>
+
+</page>
+
+<page sig="b4v">
+<wordentry type="d"><form lang="en" lexeme="divide(v)" lexeme="part(v)">TO deuide or parte,</form> <xpln lang="en" lexeme="divisor(n)" lexeme="divident(n)">is ingeniously to find how oftentimes
+the diuisor is conteined in the number to be diuided, or to
+part any number into as manye portions as your diuisor
+appoynted. Then diuision sheweth onely howe often the
+Lesse summe is conteyned in the bigger, as if I woulde di&#173;
+uide 40 by 8, that declareth how oftentimes 8 is conteyned
+in 40, so find I 5, and thus is my diuision perfourmed. The
+lesse summe is the Diuisor or Diuid<expan type="">en</expan>t, the other <expan type="">that</expan> number 
+to be diuided or diuisible, vnder whome, the two lines or 
+paralels must be drawen for your quoti<expan type="">en</expan>t, and the Diuisor 
+vnder them.</xpln></wordentry>
+
+</page>
+
+<page sig="c1v">
+<wordentry type="d"><form lang="en" lexeme="reduce(v)">TO Reduce,</form> <xpln lang="en" lexeme="subtle(a)" lexeme="gross(a)">is to bring a number of grosse denominati&#173;
+on into a smaller or contrarie. Grosse to subtile by Mul&#173;
+
+</page>
+
+<page sig="c2r">
+tiplication, Subtile, to grosse by partition is perfourmed. A
+number of grosse Denomination is that, which conteyneth
+many other subtiler or smaller, as a Pounde in respecte of 
+Shillings. Shillings in comparison to Poundes are a sub&#173;
+tile denomination.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="mile(n)">Our English mile grounded vpon the Statute,</form> <xpln lang="en" lexeme="inch(n)" lexeme="foot(n)" lexeme="yard(n)" lexeme="perch(n)" lexeme="acre(n)" lexeme="quarter(n)" lexeme="score(n)" lexeme="furlong(n)" lexeme="mile(n)" lexeme="pace(n)">hath or&#173;
+deyned three barlie cornes drie and round to make an ynch,
+twelue ynches a foote, three foote a yard, fiue yards a pearch, 
+&#38; fortie pearches in l<expan type="">en</expan>gth, &#38; four of breadth, an acre of land:
+so the acre conteyneth 160 pearches, the halfe 80, and the
+yarde, whiche is the quarter 40. Twentie yards make a
+Score, and fortie pearches a Furl<expan type="">on</expan>g, 8 furlong a Mile. So
+that by Reduction, you may find in the Englishe mile 320
+pearches, 1760 yards, 5280 foote, &#38; 63360 ynches, somewhat
+greater than <expan type="">the</expan> Italian mile of 1000 pace, &#38; 5 foote to a pace.</xpln></wordentry>
+
+<heading>
+Of waight according to the Statute of England.
+</heading>
+
+<wordentry type="d"><form lang="en" lexeme="penny(n)" lexeme="sterling(n)" lexeme="clipping(n)">THe English Pennie which is called the Sterling round
+without clipping,</form> <xpln lang="en" lexeme="grain(n)" lexeme="ounce(n)" lexeme="pound(n)" lexeme="Troy(a)" lexeme="weight(n)" lexeme="avoirdupois(n)" lexeme="scruple(n)" lexeme="dram(n)">shal wey 22 graines of wheat dry, &#38; in 
+<expan type="">the</expan> midst of <expan type="">the</expan> eare. 20. pens maketh 1 ounce, 12 o<expan type="">un</expan>ces maketh 
+
+</page>
+
+<page sig="c2v">
+a pounde, and this weight is called Troy weighte, whiche
+Goldsmithes commonly vse. By this whiche is saide, you
+may gather the ounce to conteine 440 graynes of wheate,
+and the pound 5280. There is another more vsuall weight
+called Haberdepoyse, the Scruple conteyneth 20 Graynes of
+Barlie, as the Pennie of Troy, the Dramme 3 scruples, the
+ounce 8 Drammes, so ye maye perceyue 480 Graynes of 
+Barlie in the ounce, and 7680 in a pound: but these rates
+often alter.</xpln></wordentry>
+
+...
+
+<wordentry type="d"><form lang="en" lexeme="progression(n)">PRogression</form> <xpln lang="en" lexeme="arithmetical(a)" lexeme="geometrical(a)">is a very compendious way to knitte and
+gather in one those numbers which do proceede with an 
+eauen and equal distance. In all Arithmetical Progression, 
+you shall conioyne the extreames, augmenting the number
+of those extreames so added, with the number that sheweth 
+how many places there be in the whole round of your pro&#173;
+gression, the product mediating, as 5. 10. 20. 25. 30. 35. By 
+adding the extreames whiche is 5, and 35 encreaseth 40,
+multiplie it by the places which is 7, riseth 280, diuided by
+2, or mediated, sheweth 140 the whole summe. There is a&#173;
+nother kinde of Progression, named Geometricall, whyche 
+encreaseth by 2, 3, 4, 5, or mofold infinitely, behold <expan type="">the</expan> figure.</xpln></wordentry>
+
+</page>
+
+<page sig="c3r">
+<wordentry type="d"><form lang="en" lexeme="square(a)" lexeme="root(n)" lexeme="radix(n)">TO find the square Radix, or Roote of any number,</form> <xpln lang="en" lexeme="quadrate(a)">is to
+gather a summe that multiplyed in himselfe, if it be 
+quadrate, iustly may make the aforesayde number, or else
+it may engender the bigger squares summe in that contey&#173;
+ned. A square number is that which resulteth of any num&#173;
+ber once multiplyed in himselfe. A quadrate Radix is cal&#173;
+led that number, whiche by himselfe multiplyed, yeeldeth a 
+square summe. </xpln></wordentry>
+
+</page>
+
+<page sig="c4v">
+<wordentry type="d"><form lang="en" lexeme="radix(n)" lexeme="root(n)" lexeme="cubical(a)">To search or pull out the Radix, or roote cubical,</form> <xpln lang="en"> is to get
+a summe multiplyed once by himself, and again in the Pro&#173;
+duct engendring the number proponed if it be Cubicall. A
+number Cubicall is that whiche by multiplication in hym&#173;
+selfe, and agayne in that surmounteth, is ingendred. Radix 
+or Roote Cubicall, is that number so multiplyed, making
+the said summe cubicall. To multiplie anye number cubi&#173;
+callye, is to encrease it once in himselfe, and againe that
+number with the product, as if I woulde multiplie 4, 4 in
+himselfe maketh 16, and foure times 16, is 64.</xpln></wordentry>
+
+</page>
+
+<page sig="d2v">
+<wordentry type="d"><form lang="en" lexeme="fraction(n)">A Fraction</form> <xpln lang="en" lexeme="distribution(n)" lexeme="integer(n)" lexeme="numerator(n)" lexeme="denominator(n)">is a Distribution, appointed of a part or parts 
+of an Integer. As the Integers take their beginning 
+at 1, and continue in number without ende, euen to the 
+said Integers, by imagination from one second part, maye
+be dissolued, or broken in portions or parts infinite. The 
+partes of those simple or principall Fractions, haue also to 
+them parts following. To atteyne the knowledge of them, 
+acquaynte your selfe with these two termes, Numerator, 
+and Denominator. The office and duetie of the firste, is, to 
+
+</page>
+
+<page sig="d3r">
+expresse the number of such parts. The Denominator doth
+giue to those parts their names, as 3/4 which is three porti<expan type="">on</expan>s
+of a thing diuided in 4. The Numerator is called the Ele&#173;
+mentes or Figures that be alway set aboue the short line. 
+The Characters or Elements vnder, beare the name of the 
+Denominator. </xpln></wordentry>
+
+...
+
+<wordentry type="d"><form lang="en" lexeme="reduce(v)">TO reduce,</form> <xpln lang="en">is to bring Integers into Fractions or con&#173;
+trarie, yea a fragment of Fractions of diuers Deno&#173;
+minations into one, or what name you list.</xpln></wordentry>
+
+</page>
+
+<page sig="d4v">
+<wordentry type="d"><form lang="en" lexeme="abbreviate(v)">TO abbreuiate any Fragment,</form> <xpln lang="en">is to bring a Fraction to 
+his lest denomination.</xpln></wordentry>
+
+</page>
+
+<page sig="e1r">
+<wordentry type="d"><form lang="en" lexeme="add(v)">TO ad in common Fracti<expan type="">on</expan>s,</form> <xpln lang="en">is to gather and reduce ma&#173;
+ny Fragmentes to one summe or principal Fraction.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="subduction(n)">SVbduction</form> <xpln lang="en">is the taking of the one Fraction from the 
+other, the lesse from the greater, or equal from the like
+
+</page>
+
+<page sig="e1v">
+or equall.</xpln></wordentry>
+
+</page>
+
+<page sig="e3r">
+<heading>
+Of the Rule of Proportion, com&#173;
+monly called the Golden Rule.
+Chapter 20.
+</heading>
+
+<wordentry type="d"><form lang="en" lexeme="golden rule(n)">THis Rule</form> <xpln lang="en" lexeme="rule of three(n)">is also called the Rule of three, for as muche
+as by three proportionall numbers knownen, it alwaye
+searcheth out the fourth proportionall, as if nine yardes of
+Veluet cost eleuen poundes, what shall 33 of the same cost.
+Heere are three numbers giuen, and a fourth demaunded.
+For the resolution of this and all suche like, worke by the 
+Rule Ensuing.
+
+The Rule.
+
+Multiplie the last number by the seconde, and diuide the 
+Product by the first number, so will your Quotient and re&#173;
+mayne discouer the fourth proportionall desired.</xpln></wordentry>
+
+</page>
+
+<page sig="g2v">
+<wordentry type="d"><form lang="en" lexeme="equation(n)">AEquation</form> <xpln lang="en">is nothing else but a certain conference of two
+numbers being in value Equal, and yet in multitude and 
+Denomination different.</xpln></wordentry>
+
+</section>
+
+</page>
+</leme>
+
+ 

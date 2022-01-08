@@ -1,0 +1,784 @@
+<leme no="100">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 9 9 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+The Fraternitye of 
+Vacabondes.
+As wel of ruflyng Vacabondes, as of beg&#173;
+gerly, of women as of men, of Gyrles as 
+of Boyes, with their proper names and qualities.
+With a description of the crafty com&#173;
+pany of Cousoners and Shifters.
+
+Wherunto also is adioyned the .xxv. Or&#173;
+ders of Knaues, otherwyse called a Quartern of Knaues.
+Confirmed for euer by Cocke Lorell.
+</heading>
+
+(*)
+
+<heading>
+The Vprightman speaketh.
+</heading>
+<lemeformat>
+Our Brotherhood of Vacabondes,
+If you would know where dwell: 
+In graues end Barge which syldome standes,
+The talke wyll shew ryght well. 
+</lemeformat>
+
+<heading>&#182; Cocke Lorell aunswereth.
+</heading>
+<lemeformat>
+&#182; Some orders of my knaues also 
+In that Barge shall ye fynde: 
+For no where shall ye walke I crow, 
+But ye shall see their kynde.
+</lemeformat>
+
+&#182; Imprinted at London by Iohn Aw&#173;
+deley, dwellyng in little Britayne 
+streete without Aldersgate.
+1575.
+
+
+
+
+</page>
+
+<page sig="a1v">
+<heading>&#182; The Printer to the Reader.</heading>
+
+<lemeformat>
+THis brotherhood of Vacabondes,
+To shew that there be such in deede: 
+Both Iustices and men of Landes,
+Wyll testifye it if it neede. 
+For at a Sessions as they sat, 
+By chaunce a Vacabond was got.
+
+&#182; Who promysde if they would him spare, 
+And keepe his name from knowledge then:
+He would as straunge a thing declare,
+As euer they knew synce they were men.
+But if my fellowes do know (sayd he) 
+That thus I dyd, they would kyll me.
+
+&#182; They graunting him this his request, 
+He dyd declare as here is read,
+Both names and states of most and least, 
+Of this their Vacabondes brotherhood. 
+Which at the request of a worshipful m<expan type="">an</expan>
+I haue set it forth as well as I can.
+</lemeformat>
+
+<term lang="la">FINIS.</term>
+
+
+
+
+</page>
+
+<page sig="a2r">
+<heading>&#182; The Fraternitye of Vacabondes both
+rufling and beggerly, Men and women, 
+Boyes and Gyrles, wyth their proper names and
+qualities. Whereunto are adioyned the 
+company of Cousoners and Shifters.</heading>
+
+<wordgroup1 type="t" object="Fraternity of Vagabonds">
+<wordentry type="h"><form lang="en" lexeme="Abraham Man(n)">&#182; An Abraham Man.</form> 
+<xpln lang="en">AN Abraham man is he that walketh bare 
+armed, and bare legged, and fayneth hym 
+selfe mad, and caryeth a packe of wool, or 
+a stycke with baken on it, or such lyke toy, 
+and nameth himselfe poore Tom.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="ruffler(n)">&#182; A Ruffeler.</form> 
+<xpln lang="en"> A Ruffeler goeth wyth a weapon to seeke seruice,
+ saying he hath bene a Seruitor in the wars, and beg&#173;
+geth for his reliefe. But his chiefest trade is to robbe 
+poore wayfaring men and market women.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="prigman(n)">&#182; A Prygman</form> 
+<xpln lang="en"> A Prygman goeth with a stycke in hys hand like an
+ idle person. His propertye is to steale cloathes of the 
+ hedge, which they call storing of the Rogeman: or els 
+ filtch Poultry, carying them to the Alehouse, whych 
+ they call the Bowsyng In, &#38; ther syt playing at cardes 
+ and dice, tyl that is spent which they haue so fylched.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="whipjack(n)">&#182; A Whipiacke</form> 
+<xpln lang="en"> A Whypiacke is one, that by coulor of a counterfaite
+ Lisence (which they call a Gybe, and the seales they cal 
+ Iarckes) doth vse to beg lyke a Maryner, But hys 
+ chiefest trade is to rob Bowthes in a Faire, or to pilfer 
+ ware fr<expan type="">om</expan> staules, which they cal heauing of the Bowth</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="frater(n)">&#182; A Frater.</form> 
+<xpln lang="en">  A Frater goeth wyth a like Lisence to beg for some
+Spittlehouse or Hospital. Their pray is c<expan type="">om</expan>only vp<expan type="">on</expan>
+
+
+
+
+</page>
+
+<page sig="a2v">
+poore women as they go and come to the Markets. </xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="quire bird(n)">&#182; A Quire bird.</form> 
+<xpln lang="en"> A Quire bird is one that came lately out of prison, &#38; 
+goeth to seeke seruice. He is c<expan type="">om</expan>monly a stealer of Hor&#173;
+ses, which they terme a Priggar of Paulfreys.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="upright man(n)">&#182; An Vpright man.</form> 
+<xpln lang="en"> An Vpright man is one that goeth wyth the trun&#173;
+chion of a staffe, which staffe they cal a Filtchm<expan type="">an</expan>. This 
+man is of so much authority, that meeting with any of 
+his profession, he may cal them to accompt, &#38; c<expan type="">om</expan>maund 
+a share or snap vnto him selfe, of al that they haue gai&#173;
+ned by their trade in one moneth. And if he doo them 
+wrong, they haue no remedy agaynst hym, no though 
+he beate them, as he vseth c<expan type="">om</expan>monly to do. He may also 
+c<expan type="">om</expan>maund any of their women, which they cal Doxies, 
+to serue his turne. He hath <expan type="">the</expan> chiefe place at any market 
+walke &#38; other assembles, &#38; is not of any to be c<expan type="">on</expan>troled.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="curtal(n)">&#182; A Curtall.</form> 
+<xpln lang="en"> A Curtall is much like to the Vpright man, but hys 
+authority is not fully so great. He vseth commonly to 
+go with a short cloke, like to grey Friers, &#38; his woman 
+with him in like liuery, which he calleth his Altham if 
+she be hys wyfe, &#38; if she be his harlot, she is called hys 
+Doxy.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="palliard(n)">&#182; A Palliard.</form> 
+<xpln lang="en"> A Palliard is he that goeth in a patched cloke, and 
+hys Doxy goeth in like apparell.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Irish toyle(n)">&#182; An Irishe toyle.</form> 
+<xpln lang="en">  An Irishe toyle is he that carieth his ware in hys 
+wallet, as laces, pins, poyntes, and such like. He vseth 
+to shew no wares vntill he haue his almes. And if the 
+good man and wyfe be not in the way, he procureth of 
+the childr<expan type="">en</expan> or seruants a fleece of wool, or the worth of 
+xij. d. of some other thing, for a peniworth of his wares </xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a3r"> 
+<wordentry type="h"><form lang="en" lexeme="jarkman(n)">&#182; A Iack man.</form> 
+<xpln lang="en"> A Iackeman is he that can write and reade, and 
+somtime speake latin. He vseth to make counterfaite li&#173;
+cences which they call Gybes, and sets to Seales, in 
+their language called Iarkes.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="swigman(n)">&#182; A Swygman.</form> 
+<xpln lang="en"> A Swygman goeth with a Pedlers pack.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="washman(n)">&#182; A washman.</form> 
+<xpln lang="en"> A Washman is called a Palliard, but not of the right 
+making. He vseth to lye in the hye way with lame or 
+sore legs or armes to beg. These m<expan type="">en</expan> <expan type="">the</expan> right Pilliards 
+wil often times spoile, but they dare not c<expan type="">om</expan>playn. They 
+be bitten with Spickworts, &#38; somtime with rats bane</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="tinker(n)">&#182; A Tinkard.</form> 
+<xpln lang="en"> A Tinkard leaueth his bag a sweating at the Ale&#173;
+house, which they terme their Bowling In, and in the 
+meane season goeth abrode a begging.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="wild rogue(n)">&#182; A wylde Roge.</form> 
+<xpln lang="en"> A wilde Roge is he that hath no abiding place but 
+by his coulour of going abrode to beg, is commonly to 
+seeke some kinsman of his, and all that be of hys corpo&#173;
+ration be properly called Roges.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="kitchen co(n)">&#182; A Kitchen Co.</form> 
+<xpln lang="en"> A Kitchin Co is called an ydle runagate Boy.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="kitchen mort(n)">&#182; A Kitchen Mortes.</form>
+ <xpln lang="en"> A Kitchin Mortes is a Gyrle, she is brought at her 
+ full age to the Vpryght man to be broken, and so she is 
+ called a Doxy, vntil she come to <expan type="">the</expan> honor of an Altham.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="doxy(n)">&#182; Doxies.</form> 
+<xpln lang="en"> Note especially all which go abroade working laces 
+and shirt stringes, they name them Doxies.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="patrico(n)">A Patriarke Co.</form> 
+<xpln lang="en">  A Patriarke Co doth make mariages, &#38; that is vntill
+
+
+
+
+</page>
+
+<page sig="a3v">
+death depart the maried folke, which is after this sorte 
+When they come to a dead Horse or any dead Catell, 
+then they shake hands and so depart euery one of them 
+a seuerall way. </xpln></wordentry>
+</wordgroup1>
+
+<heading>&#182; The company of Cousoners and 
+Shifters.</heading> 
+
+<wordgroup1 type="t" object="Company of Cousiners and Shifters">
+<wordentry type="h"><form lang="en" lexeme="courtesy man(n)">&#182; A Curtesy man.</form> 
+<xpln lang="en">  A Curtesy man is one that walketh about the back 
+lanes in London in the day time, and some time in the 
+broade streetes in the night season, and when he mee&#173;
+teth some handsome yong man clenly apareled, or some 
+other honest Citizen, he maketh humble salutati<expan type="">on</expan>s and 
+low curtesy, and sheweth him that he hath a worde or 
+two to speake with his mastership. This child can be&#173;
+haue him selfe manerly, for he wyll desire him that he 
+talketh with all, to take the vpper hand, and shew him 
+much reuerence, and at last like his familier acquain&#173;
+taunce will put on his cap, and walke syde by syde, and 
+talke on this fashion: Oh syr, you seeme to be a man, 
+and one that fauoureth men, and therefore I am the 
+more bolder to breake my mind vnto your good mai&#173;
+stership. Thus it is syr, ther is a certaine of vs (though 
+I say it both taule and handsome men of theyr hands) 
+which haue come lately from the wars, and as God 
+knoweth haue nothing to take to, being both maister&#173;
+les and moniles, &#38; knowing no way wherby to yerne 
+one peny. And further, wher as we haue bene welthely 
+brought vp, and we also haue beene had in good esti&#173;
+matio<expan type="">on</expan>, we are a shamed now to declare our misery, and 
+to fall a crauing as common Beggers, and as for to 
+steale and robbe (God is our record) it striketh vs to
+
+
+
+
+</page>
+
+<page sig="a4r">
+the hart, to thinke of such a mischiefe, that euer any 
+handsome man should fall into such a daunger for thys 
+worldly trash, Which if we had to suffise our want and 
+necessity, we should neuer seeke thus shamefastly to 
+craue on such good pityfull men as you seeme to be, nei&#173;
+ther yet so daungerously to hasarde our liues for so 
+vyle a thing. Therefore good syr, as you seeme to be a 
+handsome man your selfe, and also such a one as pitieth 
+the miserable case of handsome men, as now your eyes 
+and countenaunce sheweth to haue some pity vppon 
+this my miserable complainte: So in Gods cause I 
+require your maistershyp, &#38; in the behalfe of my poore 
+afflicted fellowes, which though here in sight they cry 
+not with me to you, yet wheresoeuer they bee, I am 
+sure they cry vnto God to moue the heartes of some 
+good men to shew forth their liberality in this behalfe. 
+All which &#38; I with them craue now the same request 
+at your good masterships hand. With these or such like 
+words he frameth his talke. Now if the party (which 
+he thus talketh withall) profereth hym a peny or .ii. d. 
+he taketh it, but verye scornfully, and at last speaketh 
+on this sorte: Well syr, your good will is not to be re&#173;
+fused. But yet you shall vnderstand (good syr) that this 
+is nothing for them, for whom I do thus shamefastly 
+entreate. Alas syr, it is not a greate or .xii. d. I speake 
+for, being such a company of Seruiters as wee haue 
+bene: yet neuertheles God forbid I should not receiue 
+your g<expan type="">en</expan>tle offer at this time, hoping hereafter through 
+your good motions to some such lyke good gentleman 
+as you be, that I, or some of my fellowes in my place, 
+shall finde the more liberality. These kind of ydle Va&#173;
+cabondes wyll go commonly well appareled, without  
+
+
+
+
+</page>
+
+<page sig="a4v">
+any weapon, and in place where they meete together, 
+as at their hosteryes or other places they wyll beate 
+the port of ryght good gentlemen, &#38; some are the more 
+trusted, but c<expan type="">om</expan>monly thei pay them <expan type="">with</expan> stealing a paire of 
+sheetes, or Couerlet, &#38; so take their farewell earely in 
+the morning, before the mayster or dame be sturring. </xpln>
+<lemenote>
+"curtesy man" not found in OED.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cheater(n)" lexeme="fingerer(n)">&#182; A Cheatour or Fingerer.</form>
+ <xpln lang="en">  These commonly be such kinde of idle Vacabondes 
+ as scarcely a man shall discerne, they go so gorgeously, 
+ sometime with waiting men, and sometime without. 
+ Their trade is to walke in such places, where as gen&#173;
+tlmen &#38; other worshipfull Citizens do resorte, as at 
+Poules, or at Christes Hospital, &#38; somtime at <expan type="">the</expan> Royal 
+exchaunge. These haue very many acquaintaunces, 
+yea, and for the most part will acquaint them selues 
+with euery man, and fayne a society, in one place or o&#173;
+ther. But chiefly they wil seeke their acquaintaunce of 
+such (which they haue learned by diligent enquiring 
+where they resort) as haue receyued some porcion of 
+money of their friends, as yong Gentlemen which are 
+sent to London to study the lawes, or els some yong 
+Marchant man or other kynde of Occupier, whose 
+friendes hath geuen them a stock of mony to occupy 
+withall. When they haue thus found out such a pray, 
+they will find the meanes by theyr familiarity, as very 
+curteously to bid him to breakefast at one place or other, 
+where they are best acquainted, and closely amonge 
+themselues wil appoint one of their Fraternity, which 
+they call a Fyngerer, an olde beaten childe, not onely in 
+such deceites, but also such a one as by his age is pain&#173;
+ted out with gray heares, wrinkled face, crooked back, 
+and most commonly lame, as it might seeme with age,  
+
+
+
+
+</page>
+
+<page sig="b1r">
+yea and such a one as to shew a simplicity, shal weare a 
+homely cloke and hat scarce worth .vi. d. This nimble 
+fingred knight (being appointed to this place) c<expan type="">om</expan>meth 
+in as one not knowen of these Cheatours, but as vn&#173;
+wares shal sit down at the end of the bord where they 
+syt, &#38; call for his peny pot of wine, or a pinte of Ale, as 
+the place serueth. Thus sifting as it were alone, mum&#173;
+blyng on a crust, or some such thing, these other yonc&#173;
+kers wil finde some kind of mery talke with him, some 
+times questioning wher he dwelleth, &#38; sometimes en&#173;
+quiring what trade he vseth, which c<expan type="">on</expan>monly he telleth 
+them he vseth husbandry: &#38; talking thus merely, at 
+last they aske him, how sayest thou Father, wylt thou 
+play for thy breakfast with one of vs, that we may haue 
+some pastime as we syt? Thys olde Karle makyng it 
+straunge at the first saith: My maysters ich am an old 
+man, and halfe blinde, and can skyl of very few games, 
+yet for that you seeme to be such good Gentelmen, as 
+to profer to play for that of which you had no part, but 
+onely I my selfe, and therefore of right ich am worthy 
+to pay for it, I shal with al my hart fulfyl your request. 
+And so falleth to play, somtime at Cardes, &#38; sometime 
+at dice. Which through his co<expan type="">un</expan>terfait simplicity in the 
+play somtimes ouer counteth himself, or playeth som&#173;
+times against his wyl, so as he would not, &#38; then coun<emend err="">&#173;</emend>
+terfaiteth to be angry, and falleth to swearing, &#38; so lee&#173;
+sing that, profereth to play for a shillyng or two. The 
+other therat hauing good sport, seming to mocke him, 
+falleth againe to play, and so by their lergerdemane, &#38; 
+co<expan type="">un</expan>terfaiting, winneth ech of them a shilling or twain, 
+&#38; atlast whispereth the yong man in the eare to play 
+with hym also, that ech one might haue a fling at him.  
+
+
+
+
+</page>
+
+<page sig="b1v">
+This yong m<expan type="">an</expan> for company falleth againe to play also 
+with the sayd Fyngerer, and winneth as the other did 
+which when he had loste a noble or .vi. s. maketh as 
+though he had lost al his mony, and falleth a intreating 
+for parte thereof againe to bring him home, which the 
+other knowing his mind and intent, stoutely denieth 
+and iesteth &#38; scoffeth at him. This Fingerer seeming 
+then to be in a rage, desireth th<expan type="">em</expan> as they are true gen&#173;
+tlemen, to tarry till he fetcheth more store of money, 
+or els to point some place where they may meete. They 
+seeming greedy hereof, promiseth faithfully and clap&#173;
+peth handes so to meete. They thus ticklyng the young 
+man in the eare, willeth him to make as much money 
+as he can, and they wil make as much as they can, and 
+c<expan type="">on</expan>sent as though they wil play booty against him. But 
+in the ende they so vse the matter, that both the young 
+man leeseth his part and as it seemeth to him, they lee&#173;
+sing theirs also, and so maketh as though they would 
+fal together by the eares with this fingerer, which by 
+one wyle or other at last conueyeth him selfe away, &#38; 
+they as it were raging lyke mad bedlams, one runneth 
+one way, an other an other way leauing the loser in 
+deede all alone. Thus these Cheatours at their accu&#173;
+stomed hosteries meete closely together, and there re&#173;
+ceiue ech one his part of this their vile spoyle. Of this 
+fraternity there be that be called helpers, which com&#173;
+monly haunt tauernes or alehouses, and c<expan type="">om</expan>meth in as 
+men not acquainted with none in the companye, but 
+spying them at any game, wil byd them God spede and 
+God be at their game, and will so place him selfe that 
+he will shew his fellow by sygnes and tokens, with&#173;
+out speech commonly, but sometime with far fetched  
+
+
+
+
+</page>
+
+<page sig="b2r ">
+wordes, what cardes he hath in his hand, and how 
+he may play against him. And those betwene th<expan type="">em</expan> both 
+getteth money out of the others purse. </xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="ring-faller(n)">&#182; A Ring faller.</form> 
+<xpln lang="en">  A Ryng faller is he that getteth fayre copper rings, 
+some made like signets, &#38; some after other fashi<expan type="">on</expan>s, ve&#173;
+ry faire gylded, &#38; walketh vp and down the streetes, til 
+he spieth some man of the country or some other simple 
+body whom he thinketh he may deceaue, and so goeth 
+a lyttle before him or them, and letteth fall one of these 
+ringes, which when the party that commeth after spi&#173;
+eth and taketh it vp, he hauing an eye backward, crieth 
+halfe part, the party that taketh it vp, thinking it to be 
+of great value, profereth him some money for his part, 
+which he not fully denieth but willeth him to come in&#173;
+to some alehouse or tauerne, and there they will com&#173;
+mon vpon the matter. Which when they come in, and 
+are set in some solitary place (as commonly they call for 
+such a place) there he desireth the party that found the 
+ring to shew it him. When he seeth it, he falleth a en&#173;
+treating the party that found it, and desireth him to 
+take money for his part, and telleth him that if euer he 
+may do him any frendship hereafter shal commaund 
+him, for he maketh as though he were very desirous 
+to haue it. The symple man seeing him so importune 
+vpon it, thinketh the ring to bee of great valure, and 
+so is the more lother to part from it. At last this ring 
+faller asketh him what he will geue him for his part, 
+for saith he, seeing you wyl not let me haue the ring, a&#173;
+lowe me my part, and take you the ring. The other as&#173;
+keth what he counteth the ring to be worth, he answe&#173;
+reth .v. or .vi. pound. No saith he it is not so much worth  
+
+
+
+
+</page>
+
+<page sig="b2v">
+Well (saith this Ringfaller) let me haue it, and I wyll 
+alow you .xl. s . for your part. The other party standyng 
+in a doubt, and looking on the ryng, asketh if he wyll 
+geue the money out of hand. The other answereth, he 
+hath not so much ready mony about him, but he wil go 
+fetch so much for him, if he wil go with him. The other 
+that found the ring, thinking he meaneth truly, begin&#173;
+neth to profer him .xx. s . for his part, sometymes more, 
+or les, which he verye scornfullye refuseth at the first, 
+and styl entreateth that he might haue the ring, which 
+maketh the other more fonder of it, and desireth him to 
+take the money for his part, &#38; so profereth him money. 
+This ring faller seing <expan type="">the</expan> mony, maketh it very stra<expan type="">un</expan>ge, 
+and first questioneth with him wher he dwelleth, and 
+asketh him what is his name, &#38; telleth him that he se&#173;
+meth to be an honest man, and therfore he wil do som&#173;
+what for friendships sake, hoping to haue as friendly 
+a pleasure at his hand hereafter, and so profereth hym 
+for .x. s . more he should haue the ryng. At last with en&#173;
+treatye on both partes, he geueth the Ring faller the 
+money, and so departeth, thinkyng he hath gotten a 
+very great Iewell. These kynde of deceyuing Vaca&#173;
+bondes haue other practises with their rings, as som&#173;
+times to come to buy wares of mens Prentesies, and 
+somtimes of their Maisters, and when he hath agreed 
+of the price, he sayth he hath not so much money about 
+him, but pulleth of one of these rings of from his fyn&#173;
+gers, and profereth to leaue it in pawne, tyl hys Mai&#173;
+ster or his friendes hath sent it, so promising to bring 
+the money, the seller thinking he meaneth truly, letteth 
+him go, and neuer seeth him after, tyll perhaps at Ty&#173;
+burne or at such lyke place. Ther is another kinde of  
+
+
+
+
+</page>
+
+<page sig="b3r">
+these Ring choppers, which c<expan type="">om</expan>monly cary about them 
+a faire gold ring in deede, and these haue other coun&#173;
+terfait rings made so lyke this gold ring, as ye shal not 
+perceiue the contrary, tyl it be brought to <expan type="">the</expan> touch stone. 
+This child wyl come to borow mony of the right gold 
+ring, the party mistrusting the Ryng not to be good, 
+goeth to the Goldsmith with the partye that hath the 
+ryng, and tryeth it whether it be good golde, and also 
+wayeth it to know how much it is worth. The Gold&#173;
+smith tryeth it to be good gold, and also to haue hys ful 
+weight like gold, and warenteth the party which shall 
+lend the money that the ring is worth so much money 
+according to the waight, this yoncker comming home 
+with the party which shall lend the money, and hauing 
+the gold ring againe, putteth vp the gold ring, and pul&#173;
+leth out a counterfaite ring very like the same, &#38; so deli&#173;
+uereth it to the party which lendeth the money, they 
+thinking it to be the same which they tryed, and so de&#173;
+liuereth the money or sometimes wares, and thus 
+vily be deceiued. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Orders of Knaves">
+	
+<heading>&#182; The .xxv. Orders of Knaues, otherwise
+called a quarterne of Knaues, confirmed 
+for euer by Cocke Lorell.</heading>
+
+<wordentry type="h"><form lang="en" lexeme="troll and troll by(n)">1 Troll and Troll by.</form> 
+<xpln lang="en"> TRoll and Trol by, is he that setteth naught by no 
+man, nor no man by him. This is he that would 
+beare rule in a place, and hath none authority nor 
+thanke, &#38; at last is thrust out of the doore like a knaue.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="throll with(n)">2 Troll with.</form> 
+<xpln lang="en">  Troll with, is he <expan type="">that</expan> no man shall know the seruaunt 
+from <expan type="">the</expan> Maister. This knaue with his cap on his head  
+
+
+
+
+</page>
+
+<page sig="b3v">
+lyke Capon hardy, wyll syt downe by his Maister, or 
+els go cheeke by cheeke with him in the streete.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="troll hazard of trace(n)">3 Troll hazard of trace.</form> 
+<xpln lang="en"> Troll hazard of trace is he that goeth behynde his 
+Maister as far as he may see hym. Such knaues com&#173;
+monly vse to buy Spicecakes, Apples or other trifles, 
+and doo eate them as they go in the streetes lyke vaca&#173;
+bond Boyes.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="troll hazard of tritrace(n)">4 Troll hazard of tritrace.</form> 
+<xpln lang="en"> Troll hazard of tritrace, is he that goeth gaping af&#173;
+ter his Master, looking to and fro tyl he haue lost him. 
+This knaue goeth gasyng about lyke a foole at euery 
+toy, and then seeketh in euery house lyke a Maisterles 
+dog, and when his Maister nedeth him, he is to seeke.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="chafe litter(n)">5 Chafe Litter.</form> 
+<xpln lang="en"> Chafe Litter is he that wyll plucke vp the Fether&#173;
+bed or Matrice, and pysse in the bedstraw, and wyl ne&#173;
+uer ryse vncalled. This knaue berayeth many tymes 
+in the corners of his Maisters chamber, or other pla&#173;
+ces inconuenient, and maketh cleane hys shooes with 
+the couerlet or curtaines.</xpln>
+<lemenote>
+"chafe litter" not found in OED as a phrase.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="obloquium(n)">6 Obloquium.</form> 
+<xpln lang="en"> Obloquium is hee that wyll take a tale out of his 
+Maisters mouth and tell it him selfe. He of right may 
+be called a malapart knaue.</xpln>
+<lemenote>
+"obloquium" not found in OED as an English word.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en"  lexeme="rinse-pitcher(n)">7 Rince Pytcher.</form> 
+<xpln lang="en"> Rince Pytcher is he that will drinke out his thrift 
+at the ale or wine, and he oft times dronke. This is a 
+licoryce knaue that will swill his Maisters drink, and 
+brybe his meate that is kept for him.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Jeffrey God's foe(n)">8 Ieffrey Gods Fo.</form> 
+<xpln lang="en">  Ieffery Gods Fo is he, that wil sweare &#38; maintaine  
+
+
+
+
+</page>
+
+<page sig="b4r">
+othes. This is such a lying knaue that none wil beleue 
+him, for the more he sweareth, <expan type="">the</expan> les he is to be beleued. </xpln>
+<lemenote>
+"Jeffrey God's foe" not found in OED as a phrase.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Nichol Heartless(n)">9 Nichol Hartles.</form> 
+<xpln lang="en"> Nichol Hartles is he, that when he should do ought 
+for his Maister hys hart faileth him. This is a Tre&#173;
+wand knaue that faineth himselfe sicke when he should 
+woorke.</xpln>
+<lemenote>
+"Nicol Heartless" not found in OED as a phrase.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Simon Soon Again(n)">10 Simon soone agon.</form> 
+<xpln lang="en"> Simon soone agon is he, that when his Mayster 
+hath any thing to do, he wil hide him out of the way. 
+This is a loytring knaue that wil hide him in a corner 
+and sleepe or els run away.</xpln>
+<lemenote>
+"Simon Soon Again" not found in OED as a phrase.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Green Winchard(n)">11 Grene winchard.</form> 
+<xpln lang="en"> Greene Winchard is he, that when his hose is bro&#173;
+ken and hange out at his shoes, he will put them into 
+his shooes againe with a stick, but he wyll not amend 
+them. This is a slouthfull knaue, that had leauer go 
+lyke a begger then cleanly.</xpln>
+<lemenote>
+"winchard" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="proctor(n)">12 Proctour.</form> 
+<xpln lang="en"> Proctour is he, that will tary long, and bring a lye, 
+when his Maister sendeth him on his errand. This is 
+a flibber gibber Knaue, that doth fayne tales.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="committer of tidings(n)">13 Commitour of Tidinges.</form> 
+<xpln lang="en"> Commitour of Tidings is he, that is ready to bring 
+his Maister Nouels and tidinges, whether they be 
+true or false. This is a tale bearer knaue, that wyll re&#173;
+port words spoken in his Maisters presence.</xpln>
+<lemenote>
+"commitour of tidings" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en"  lexeme="Gyle Hather(n)">14 Gyle Hather.</form> 
+<xpln lang="en">  Gyle Hather is he, that wyll stand by his Maister 
+when he is at dinner, and byd him beware that he eate 
+no raw meate, because he would eate it himselfe. This 
+is a pick thanke knaue, that would make his Maister  
+
+
+
+
+</page>
+
+<page sig="b4v">
+beleue that the Cowe is woode. </xpln>
+<lemenote>
+Neither "Gyle Hather" nor "hather" found in OED.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Baud Physic(n)">15 Bawde Phisicke.</form> 
+<xpln lang="en"> Bawde Phisicke, is he that is a Cocke, when his 
+Maysters meate is euyll dressed, and he challenging 
+him therefore, he wyl say he wyll eate the rawest mor&#173;
+sel there of himselfe. This is a sausye knaue, that wyl 
+contrary his Mayster alway.</xpln>
+<lemenote>
+"Baud Physic" not found in OED as a phrase.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Maunche Present(n)">16 Mounch present.</form> 
+<xpln lang="en"> Mounch present is he that is a great gentleman, for 
+when his Mayster sendeth him with a present, he wil 
+take a tast thereof by the waye. This is a bold knaue, 
+that sometyme will eate the best and leaue the worst 
+for his Mayster.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Cole Prophet(n)">17 Cole Prophet.</form> 
+<xpln lang="en"> Cole Prophet is he, that when his Maister sendeth 
+him on his errand, he wyl tel his answer therof to his 
+Maister or he depart from hym. This tittiuell knaue 
+commonly maketh the worst of the best betwene hys 
+Maister and his friende.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Curry Favel(n)">18 Cury fauell.</form> 
+<xpln lang="en"> Cory fauell is he, that wyl lye in his bed, and cory the 
+bed bordes in which hee lyeth in steede of his horse. 
+This slouthfull knaue wyll buskill and scratch when 
+he is called in the morning, for any hast.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Dingthrift(n)">19 Dyng thrift.</form> 
+<xpln lang="en"> Dyng thrift is he, that wil make his Maisters horse 
+eate pies and rybs of beefe, and drinke ale and wyne. 
+Such false knaues oft tymes, will sell their Maisters 
+meate to their owne profit.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Eavesdroppers(n)">20 Esen Droppers.</form> 
+<xpln lang="en">  Esen Droppers bene they, that stand vnder mens 
+wales or windowes, or in any other place, to heare the  
+
+
+
+
+</page>
+
+<page sig="c1r">
+secretes of a mans house. These misdeming knaues 
+wyl stand in corners to heare if they be euill spoken of, 
+or waite a shrewd turne. </xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Chop-logic(n)">21 Coplogyke.</form> 
+<xpln lang="en"> Choplogyke, is he that when his mayster rebuketh 
+him of hys fault he wyll geue hym .xx. wordes for one, 
+els byd the deuils Pater noster in silence. This proude 
+prating knaue wyll maintaine his naughtines when he is rebuked for them.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Unthrift(n)">22 Vnthrifte.</form> 
+<xpln lang="en"> Vnthrift, is he that wil not put his wearing clothes 
+to washing, nor black his owne shoes, nor amend his 
+his own wearing clothes. This rechles knaue wyl al&#173;
+way be lousy: and say that hee hath no more shift of 
+clothes, and slaunder his Maister.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="Ungracious(n)">23 Vngracious.</form> 
+<xpln lang="en"> Vngracious, is he <expan type="">that</expan> by his own will, will heare no 
+maner of seruice, without he be compelled therunto by 
+his rulers. This Knaue wil sit at the alehouse drinking 
+or playing at dice, or at other games at seruice tyme.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la" lexeme="Nunquam(n)">24 Nunquam.</form> 
+<xpln lang="en"> Nunquam, is he that when his Maister sendeth him 
+on his errand he wil not come againe of an hour or two 
+where he might haue done it in halfe an houre or lesse. 
+This knaue will go about his owne errand or pastime 
+and saith he cannot speede at the first.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la" lexeme="Ingratus(n)">25 Ingratus.</form> 
+<xpln lang="en"> Ingratus, is he that when one doth all that he can 
+for him, he will scant geue him a good report for his 
+labour. This knaue is so ingrate or vnkind, <expan type="">that</expan> he consi&#173;
+dreth not his frend fr<expan type="">om</expan> his fo, &#38; wil requit euil for good 
+&#38; being put most in trust, wil sonest deceiue his maister.</xpln></wordentry>
+</wordgroup1>
+
+<term lang="la">FINIS.</term>
+
+
+
+
+</page>
+
+<page sig="c1v">
+
+Imprinted at Lon&#173;
+don by Iohn Awdely dwelling in little
+Britaine streete without Aldersgate. 
+
+(.&#0183;.)
+
+
+</page>
+</leme>
+
+ 

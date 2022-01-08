@@ -2,5 +2,6 @@
 env
 pyvenv.cfg
 data-raw/eebo-zips
+data/
 papers
 __pycache__

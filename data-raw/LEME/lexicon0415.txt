@@ -1,0 +1,304 @@
+<leme no="415">
+
+<page sig="f1r">
+ <heading>A TABLE,
+Explaining the most difficult words, and
+Terms of Art, used in this Book:
+Alphabetically selected, for the help of
+The plain English Souldier.</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="en">ANgle,</form> <xpln lang="en"> Is a Geometricall terms for a Corner, included
+by two lines, of which there are three sorts; to wit,
+<f type="r">A Right, An Acute</f>, and <f type="r">An Obtuse Angel</f>.
+<subform lang="en">1. A Right angle,</subform> <subxpln lang="en">Is when the two lines meeting doe
+frame a just square Angle of 90. Degrees.</subxpln>
+<subform lang="en">2. An Acute,</subform> <subxpln lang="en">Is when the two lines doe enclose lesse then a
+Square, thereby becoming more sharpe, and therefore
+<f type="r">Acute</f>, from the Latine word <term lang="la"><f type="r">Acutus</f></term>, sharpe.</subxpln>
+<subform lang="en">3. An Obtuse Angle,</subform> <subxpln lang="en">Is when the two lines doe include
+more then the Square, making it thereby the more blunt
+and dull, and is therefore called <f type="r">Obtuse</f>, from <term lang="la"><f type="r">Obtusus</f></term>,
+which is Latine for blunt, or dull.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Astragall,</form> <xpln lang="en">Is a term of Architecture, and is (according to
+<f type="r">Vitruvius</f>, an ancient and famous Author thereof) a
+ring to deck or adorn the neck of a Columne; and is there&shy;
+fore transferred to Cannon, agreeing somewhat in
+shape with the Columne, or Pillar.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Avenue,</form> <xpln lang="en" lexeme="barricado(n)">Comes of the French, and is the space that is left
+for passage to and fro, in and out a Camp, Garrison, or
+Quarter: when the place is either fortified with a line of
+Communication, or Barrocada's.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="f1v">
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en">CApriccio,</form> <xpln lang="en">Is an Italian word for the rough draught,
+or first invention of any thing: and is to be pronounced,
+as if it were written <term lang="it"><f type="r">Capritchio</f></term>.</xpln>
+<lemenote>
+This use of "Capriccio" antedates the earliest OED quotation in this sense (3; 1678).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Center,</form> <xpln lang="en">Is an individuall point in the middle of any thing;
+As the Center of the <f type="r">Polygon</f> is the middle of the <f type="r">Po&shy;
+lygon</f>: a terme in Geometry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Counterscarfe or Counterscarpe,</form> <xpln lang="en">Is that side of the
+moate, which is opposite to the Fortresse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Cylinder,</form> <xpln lang="en">Is that part of the bore of a peece which re&shy;
+mains empty when the peece is laden, and takes its appel&shy;
+lation from the latine word <term lang="la">Cylindrus</term>, the roller by 
+which the bore was formed.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="en">DEcagon,</form> <xpln lang="en">Is a Greek compound, and it signifieth a fi&shy;
+gure of tenne Angles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Dodecagon,</form> <xpln lang="en">Is likewise a Greek word, signifying a fi&shy;
+gure of twelve Angles.</xpln>
+<lemenote>
+"Dodecagon" antedates the earliest OED quotation (1658).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Degrees,</form> <xpln lang="en">A degree according to the Mathematicks is 
+the 360. part of the circumference of the world. And
+consequently of any Circle; for <f type="r">Euclide</f> affirms all Cir&shy;
+cles to be equall. So that the Circle so divided, (to wit,
+into 360. parts) being cut at right Angles in the Center,
+each Quadrant thereof shall be of 90. Degrees.
+Note,
+That all Calculations for the Degrees of Angles have re&shy;
+ference to a Circle so divided.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Demi,</form> <xpln lang="en">Is the halfe, as a Demi-Cannon, (that is) halfe
+a Cannon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Diagram,</form> <xpln lang="en">A word used by the Mathematicks for any thing
+that is demonstrated by lines; a Greeke compound.</xpln></wordentry>
+</page>
+
+<page sig="f2r">
+<wordentry type="h"><form lang="en">Diameter,</form> <xpln lang="en">Is a Geometricall terme, derived from the
+Greeke for the extent of a Circle, and is a straight or
+measuring line, that crosseth from border to border, or
+from side to side of any Figure.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="en">ENchiridion,</form> <xpln lang="en">Signifies a handfull of any thing; also a
+manuell, or portable volume or booke: it is originally
+compounded of Greeke words, which doe include so much.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Enneagon,</form> <xpln lang="en">Is also compounded of the Greeke, signifying a
+Figure or superficies consisting of nine sides, and Angles,
+but it chiefly takes its denomination from its Angles.</xpln>
+<lemenote>
+"Enneagon" antedates the earliest OED quotation (1660).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Exteriour,</form> <xpln lang="en">Is the outward part, or side of any thing.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en">GEometry,</form> <xpln lang="en">As <f type="r">Adrianus Metius</f> defines it, is th<emend err="s">e</emend>
+Art of measuring well.
+Now to give you somewhat more satisfaction herein, I
+will a little enlarge this definition, being assured that it can&shy;
+not be lost labour for any who desires to peruse this Booke.
+<subform lang="en">1. To measure well,</subform> <subxpln lang="en">is to interpret, and exercise the measu&shy;
+rable nature, power, propriety, state, and use of any thing.</subxpln>
+<subform lang="en">2. The subject of Geometry</subform> <subxpln lang="en">is Magnitude, and Mag&shy;
+nitude is a continued quantity, whose parts agree to a common
+terme, but a terme is the extreame of magnitude.</subxpln>
+<subform lang="en">3. Magnitude,</subform> <subxpln lang="en">is either a line, or a lined figure.</subxpln>
+<subform lang="en">A line,</subform> <subxpln lang="en">is onely magnitude in length.</subxpln>
+<subform lang="en">A lined figure</subform> <subxpln lang="en">is made out of lines composed; or as <f type="r">Ramus</f>
+defines it,
+A lined Figure, is more then Magnitude in length, and is
+either a Superficies, or a Body.</subxpln>
+<subform lang="en">A <f type="r">Superficies</f>,</subform> <subxpln lang="en">Is onely the surface of a lined figure of length
+and breadth.</subxpln>
+</page>
+
+<page sig="f2v">
+<subform lang="en">A Body,</subform> <subxpln lang="en">Is a Figure consisting of length, breadth, and
+depth.</subxpln>
+The first part therefore of measure, is to be understood of
+lines.
+The second of Superficies.
+But the third, of Bodies.
+  So much shall suffice to explaine what Geometry is,
+but to shew amply its extent and power, requires a
+greater writer and volume.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en">HExagon,</form> <xpln lang="en">Is a Greeke compound, signifying a Figure
+of sixe Angles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Heptagon,</form> <xpln lang="en">Is in the like manner compounded, and derived
+of the Greeke, and doth signifie a Figure consisting of
+seaven Angles.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en">ISoceles,</form> <xpln lang="en">Looke for Triangle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Ichnographie,</form> <xpln lang="en">Is a description of any work, according
+to its tract or tracery on the ground, as it were the foote-&shy;
+steppings of the worke.  It is a Greeke word.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Interiour,</form> <xpln lang="en">Is the inward part or side of any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Irregular,</form> <xpln lang="en">Is a disagreeing of the one side, (or more) to the
+rest of the Figure, which causeth also an incoherence a&shy;
+mongst the Angles: wherefore any Figure whose An&shy;
+gles and sides doth disagree in dimension, is called an
+irregular Figure.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+<wordentry type="h"><form lang="en">OBlong,</form> <xpln lang="en">Is a Geometricall terme for a Quadrangular
+Figure, whose length exceeds its breadth, of which
+the most proper (distinguished by their severall termes)
+</page>
+
+<page sig="f3r">
+are these sixe following.
+<subform lang="en">1. Sesquialter,</subform> <subxpln lang="en">Which is when halfe the height is added to
+its length.</subxpln>
+<subform lang="en">2. Sesquitertia,</subform> <subxpln lang="en">Which is when a third part is added to
+its length.</subxpln>
+<subform lang="en">3. Sesquiquarta,</subform> <subxpln lang="en">That is when a fourth part is added.</subxpln>
+<subform lang="en">4. Diagonea,</subform> <subxpln lang="en">Which is when the Oblong is increased to
+the length of the diagonall of the single square.</subxpln>
+<subform lang="en">The Diagonall,</subform> <subxpln lang="en">Is a line drawn from corner to corner.</subxpln>
+<subform lang="en">5. Superbitiens tertias,</subform> <subxpln lang="en">so called (<term lang="la">quasi super bis tertias</term>)
+because the length thereof is encreased by two thirds.</subxpln>
+<subform lang="en">6. And lastly, <f type="r">Dupla</f>,</subform> <subxpln lang="en">which is a double square.</subxpln>
+The which seaven proportions of squares: to wit, <f type="r">Quadra&shy;
+tus</f>, or perfect square: <f type="r">Sesquialter, Sesquitertia, Ses&shy;
+quiquarta, Diagonea, Superbitiens tertias</f>, and the
+<f type="r">Dupla</f>, or double square, are held to be more pleasing to
+the sight then any mediocrity between either of the said
+proportions.
+</xpln>
+<lemenote>
+"Diagenea" not found in the OED (but cf. "diagony," n., from 1690); "Superbitiens tertias" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Octogon,</form> <xpln lang="en">From the Greeke signifies a Figure which con&shy;
+sisteth of eight Angles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Orthographie,</form> <xpln lang="en">Also a Greek compound, signifies in this
+place chiefly the upright erection of any work. as it doth
+present it selfe to the view being finished. As also it is
+some times taken for true, and exact writing.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en">PArapet,</form> <xpln lang="en">Is a breast worke, taken from the Italian, signi&shy;
+fying equall to the brest, or brest high.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Parallelogram.</form> <xpln lang="en">Is any Figure which hath his lines every
+where a like distant, each side running parallel one unto
+the other.
+Those lines are said by <f type="r">Euclide</f> to be parallel, which being
+drawn forth to an infinite extent, shall run equi-distant,
+</page>
+
+<page sig="f3v">
+and neither crosse, nor touch one the other.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Pentagon,</form> <xpln lang="en">Is a Figure of five Angles, Greek.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Peroration,</form> <xpln lang="en">The conclusion, or last part of a discourse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Polygon,</form> <xpln lang="en">Is any Figure composed of many Angles, and may
+be applied either to the Regular, or Irregular.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Profile,</form> <xpln lang="en">An Italian word for that designe that showes the
+side with the rising and falling of any work, as a face
+drawn side-wayes, is called the Profile.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en">REgular,</form> <xpln lang="en">That is uniforme, or alike in all parts, both
+in forme and dimension.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en">SAp,</form> <xpln lang="en">or trenches of Approach.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en">Scala, <f type="r">or</f> a Scale,</form> <xpln lang="en">Is a measure proportionable to the
+draught: as the just measure must be to the work it self,
+whether it be of Feet, Yards, Perches, or Rods. And
+is the onely compendious, and exact demonstration of the
+proportions of any work, which is to be expressed by de&shy;
+signe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Scenographie,</form> <xpln lang="en">Is the modell or draught of any work present&shy;
+ed with its shadowes, according as the worke it self showes,
+with its dimensions according to the Rules of Pro<emend err="">&shy;</emend>
+spective.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Semi,</form> <xpln lang="en">that is to say, the halfe; As a semidiameter, halfe
+the diameter.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en">TRiangle,</form> <xpln lang="en">A Figure of three Angles, of which there
+are sixe sorts.
+<subform lang="en">1. Equilaterall,</subform> <subxpln lang="en">Which is when the three sides thereof are
+of an equall length, and the Angles all equall among them
+selves.</subxpln>
+</page>
+
+<page sig="f4r">
+<subform lang="en">2. An Isoceles triangle,</subform> <subxpln lang="en">Is that which hath two equall
+sides, and two equall Angles opposite to those sides.</subxpln>
+<subform lang="en">3. All irregular triangles, Having three unequall sides
+and Angles, </subform> <subxpln lang="en">are knowne in Geometry, under the term of
+<f type="r">Scalenum</f>.</subxpln>
+<subform lang="en">4. An Oxugoneum,</subform> <subxpln lang="en">Is a triangle having three acute
+Angles.</subxpln>
+<subform lang="en">5. An Amblugoneum,</subform> <subxpln lang="en">Is a triangle having two acute
+Angles, and one obtuse.</subxpln>
+<subform lang="en">6. And lastly, an Orthogoneum,</subform> <subxpln lang="en">Is a triangle which
+hath one right Angle.</subxpln>
+These distinct Terms are properly to be given to each kind
+in a demonstration, where many triangles come in compe&shy;
+tition for distinction sake, otherwise it is not requisite to
+be too nice therein.</xpln>
+<lemenote>
+"Oxygoneum," "Amblugoneum," and "Orthogoneum" are not found in the OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+There are many other words (perhaps in the very explana&shy;
+tion it self) which to some may chance need explaining.
+But I conceive such are not worthy the taking notice of.
+
+</page>
+</leme>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1100 @@
+<leme no="741">
+
+<page no="265">
+<section type="titlepage">
+Dictionarium Rusticum;
+
+OR, THE
+
+INTERPRETATIONS
+
+AND
+
+SIGNIFICATIONS
+
+OF SEVERAL
+
+RUSTICK TERMS,
+
+Used in several Places of ENGLAND;
+
+AND ALSO
+
+The Names of several <f type="i">Instruments<f type="r"> and <f type="i">Materials<f type="r">, used
+in this Mystery of <f type="i">AGRICULTURE<f type="r">,
+and other intricate Expressions dispersed in our
+
+Rural Authors.
+
+<f type="i">London<f type="r">, Printed in the Year 1668.
+</section>
+</page>
+
+<page no="266">
+<section type="preface">
+<heading>
+TO THE
+
+READER.
+</heading>
+
+<f type="bk">T<f type="i"><f type="i">His<f type="r"> Dictionary, <f type="i">above any other part of this Book, may be
+thought superfluous, because it being intended onely for the use
+of<f type="r"> Husbandmen, <f type="i">they above all other best understand the
+Terms, and their several significations, so that herein we seem to in&shy;
+struct those that are best able to teach us, which might be true if they all
+spoke the same language, but there is such a<f type="r"> Babel <f type="i">of confusion as well
+in their Terms and Names of things, as there is in the practice of the Art
+of<f type="r"> Agriculture <f type="i">it self, that remove a<f type="r"> Husbandman <f type="i">but sixty, or an
+hundred Miles from the place where he hath constantly exercised his<f type="r">
+Husbandry, <f type="i">to another, and he shall not onely admire their Method and
+Order in Tilling the Land, but also at their strange and uncouth Lan&shy;
+guage and Terms, by which they name their several<f type="r"> Utensils, Instru&shy;
+ments, <f type="i">or<f type="r"> Materials <f type="i">they use; Also our several<f type="r"> Authors <f type="i">that have writ&shy;
+ten of this<f type="r"> Subject, <f type="i">very much differ in the Appellation of several things,
+they generally speaking in their Writings, the<f type="r"> Language <f type="i">of the<f type="r"> Place
+<f type="i">and<f type="r"> Age <f type="i">they lived in, that their Books read in another part of the
+Countrey, or in succeeding Times, seem either fabulous or intricate;
+wherefore that our<f type="r"> Authors, <f type="i">and this present<f type="r"> Tract, <f type="i">may be the better
+understood, and also that one<f type="r"> Countrey-man <f type="i">may understand what an&shy;
+other means in a remote place, I have here given you the<f type="r"> Interpretation,
+<f type="i">and<f type="r"> Signification <f type="i">of such<f type="r"> Words <f type="i">and<f type="r"> Terms <f type="i">that I remember I have
+either read or heard, which I hope may satisfie, and supply that defect
+of such a<f type="r"> Dictionary <f type="i">that hath been so long complained of. If any Terms
+are wanting, or not rightly interpreted, I desire you to consider the place
+you live in, where perhaps may be some<f type="r"> Terms <f type="i">used, or so<f type="r"> interpreted,
+<f type="i">that are not so in any other place of<f type="r"> England, <f type="i">which may I hope suffi&shy;
+ciently excuse my ignorance of them; Or else they may be<f type="r"> Terms <f type="i">so uni&shy;
+versally understood that they need no<f type="r"> interpretation, <f type="i">as<f type="r"> Wheat, Rye,
+Cart, Waggon, <f type="i">&amp;c.<f type="r">
+</section>
+</page>
+
+<page no="267">
+<section type="glossary">
+<heading>
+DICTIONARIUM RUSTICUM;
+
+OR,
+
+<f type="i">The Interpretations and Significations of several
+Rustick Terms<f type="r">, &amp;c.
+</heading>
+
+<wordgroup1 type="a" object="a">A
+
+<wordentry type="h"><form lexeme="awn(n)"><f type="bk">A<f type="i"><f type="i">Anes<f type="r">, or <f type="i">Awnes<f type="r">,</form> <xpln>the Spires or Beards of Barley, or other
+Bearded Grain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ablactation(n)"><f type="i">Ablactation<f type="r"></form> <xpln>is one of the ways of Grafting, that is, weaning
+the Cion by degrees from its Mother, being not wholly to be
+cut there-from, till it be firmly united to the Stock, on which
+it is grafted.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ablaqueation(n)"><f type="i">Ablaqueation<f type="r"></form> <xpln>is the taking away the Earth, or uncovering the
+Roots of Trees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acre(n)">An <f type="i">Acre<f type="r"></form> <xpln>is one hundred and sixty square Lug, or Perch of Land, at
+sixteen foot and a half to the Perch; but of Coppice Wood
+eighteen foot to the Perch is the usual Allowance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adze(n)">An <f type="i">Adds<f type="r"></form> <xpln>is a sharp Tool made different from an Ax, and more con&shy;
+venient for the cutting of the hollow side of any Board or
+Timber, such as the Coopers generally make use of.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="agriculture(n)"><f type="i">Agriculture<f type="r">,</form> <xpln>the Tilling or Improving of Land.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alveary(n)"><f type="i">Alveary<f type="r">,</form> <xpln>a Hive of Bees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apiary(n)"><f type="i">Apiary<f type="r">,</form> <xpln>a Place or Court where Bees are kept.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aquaduct(n)">An <f type="i">Aquaduct<f type="r">,</form> <xpln lexeme="water-course(n)">a Water-course, or Carriage for Water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aquatic(n)"><f type="i">Aquaticks<f type="r">,</form> <xpln>Plants delighting in the Water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arder(n)"><f type="i">Arders<f type="r">,</form> <xpln lexeme="fallowing(n)">Fallowings, or Ploughings of Ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aromatic(n)"><f type="i">Aromaticks<f type="r">,</form> <xpln>Plants odoriferous, or having a Spicy smell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="avenue(n)"><f type="i">Avenues<f type="r">,</form> <xpln>Ways or Passages, or Rows or Walks of Trees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aviary(n)"><f type="i">Aviary<f type="r">,</form> <xpln>a place where Birds are kept, or do resort unto.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="axletree(n)" lexeme="axis(n)"><f type="i">Axletree<f type="r">, or <f type="i">Axis<f type="r">,</form> <xpln>that which the Wheel of a Cart, or such like,
+moveth on.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">B
+
+<wordentry type="h"><form lexeme="bag(n)"><f type="bk">B<f type="i"><f type="i">Ag<f type="r">,</form> <xpln lexeme="udder(n)" lexeme="cow's bag(n)">the Udder of a Cow, in some places is called the <f type="i">Cows
+Bag.</xpln>
+<lemenote>
+No OED entry, but two 18th-century citations under other headwords.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="balk(n)">Balks<f type="r">,</form> <xpln lexeme="ridge(n)" lexeme="bank(n)">Ridges, or Banks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barth(n)"><f type="i">Barth<f type="r">,</form> <xpln>a warm Place or Pasture for Calves, or Lambs, <f type="i">&amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barrow(n)">Barrow<f type="r">,</form> <xpln  lexeme="hand-barrow(n)" lexeme="wheel-barrow(n)">is of two sorts, either a <f type="i">Hand-barrow<f type="r">, or a <f type="i">Wheel-barrow<f type="r">.</xpln>
+</wordentry>
+</page>
+
+<page no="268">
+<wordentry type="h"><form><f type="i">Barton<f type="r">,</form> <xpln lexeme="back-side(n)">a Back-side.</xpln>
+<lemenote>
+The headword "barton" predates earliest OED citation of this sense (1674).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="bavin(n)"><f type="i">Baven<f type="r">,</form> <xpln lexeme="brush-faggot(n)">Brush-faggots, made with the Brush at length.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beestings(n)"><f type="i">Beestings<f type="r">,</form> <xpln>the first Milk from the Cow after Calving.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beetle(n)" lexeme="boytle(n)"><f type="i">Beetle<f type="r">, or <f type="i">Boytle<f type="r">,</form> <xpln>a Wooden Instrument wherewith they drive
+Wedges, Piles, Stakes, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beverage(n)"><f type="i">Beverage<f type="r">,</form> <xpln lexeme="drink(n)">Drink, or mingled Drink.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bill(n)">A <f type="i">Bill<f type="r">,</form> <xpln lexeme="hand-bill(n)" lexeme="hedging-bill(n)">is an Edge-tool at the end of a stale or handle; if short,
+then it is called a <f type="i">Hand-bill<f type="r">; if long, then a <f type="i">Hedging-bill<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bin(n)">A <f type="i">Binn<f type="r">,</form> <xpln>a place made of Boards to put Corn in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blast(n)"><f type="i">Blast<f type="r">,</form> <xpln>Corn is said to be blasted when it <emend err="">is</emend> poor and thin in the Ear,
+with little Flower in it.</xpln>
+<lemenote>
+OED does not have "blast" as a separate form for "blasted" in this sense.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="blight(n)"><f type="i">Blight<f type="r">.</form> <xpln lexeme="mildew(n)">See Mildew.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blithe(a)"><f type="i">Blith<f type="r">,</form> <xpln>Yielding Milk.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bole(n)" lexeme="boale(n)"><f type="i">Bole<f type="r">, or <f type="i">Boale<f type="r">,</form> <xpln>the main body of a Tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="boot(n)"><f type="i">Boot<f type="r">,</form> <xpln lexeme="plough-boot(n)" lexeme="house-boot(n)" lexeme="fire-boot(n)">necessary Timber or Wood for necessary uses, as <f type="i">Plough-boot,
+House-boot, Fire-boot<f type="r">, &amp;c.</xpln>
+<lemenote>
+OED has no entry for "house-boot" in this sense. It offers "worn in the house, as house-boot" under "boot, n.1."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Boreas(n)"><f type="i">Boreas<f type="r">,</form> <xpln>the North-east Winde.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bow(n)" lexeme="ox-bow(n)"><f type="i">Bow<f type="r">, and Ox-bow,</form> <xpln lexeme="yoke(n)">or Yoak.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bragget(n)"><f type="i">Bragget<f type="r">,</form> <xpln>a Drink made with Honey and Spice, much used in
+<f type="i">Wales.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brake(n)">Brake<f type="r">,</form> <xpln lexeme="fern(n)">Fern.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brank(n)" lexeme="buck(n)" lexeme="French-wheat(n)"><f type="i">Brank, Buck<f type="r">, or <f type="i">French-wheat<f type="r">,</form> <xpln>a Summer Grain, delighting in warm
+Land.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="breast-plough(n)">A <f type="i">Breast-plough<f type="r">,</form> <xpln>a sort of Plough driven by main force with ones
+breast, commonly used in paring the Turf in burn-baiting.</xpln>
+<lemenote>
+Predates earliest OED citation for "breast-plough" (1725).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="break(n)" lexeme="breck(n)" lexeme="brack(n)">A <f type="i">Breck<f type="r">, or <f type="i">Brack<f type="r">,</form> <xpln>a Gap in a Hedge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brim(v)"><f type="i">Brimme<f type="r">,</form> <xpln>a Sow is said to go to Brimme when she goes to the Boar.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brite(v)">To <f type="i">Brite<f type="r">, or <f type="i">bright<f type="r">,</form> <xpln>Hops are said to Brite when they are over-ripe,
+and shatter.</xpln>
+<lemenote>
+Earliest OED citation.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="browse(n)" lexeme="brouce(n)"><f type="i">Browse<f type="r">, or <f type="i">brouce<f type="r">,</form> <xpln>the Tops of the Branches of Trees that Cattel
+usually feed on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="burn-beat(v)">To <f type="i">Burn-bait<f type="r">, or <f type="i">burn the Bait<f type="r">.</form> <xpln>Vide <f type="i">Denshire.</xpln>
+<lemenote>
+Earliest OED citation.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="bulchin(n)">Bulchin<f type="r">,</form> <xpln lexeme="calf(n)">a Calf.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bullimong(n)"><f type="i">Bullimony<f type="r">,</form> <xpln>a Mixture of several sorts of Grain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bushel(n)"><f type="i">Bushel<f type="r">,</form> <xpln>in some places it is taken for two Strike, or two Bushels.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">C
+
+<wordentry type="h"><form lexeme="cartwright(n)"><f type="bk">A<f type="i"> <f type="i">Cartwright<f type="r">,</form> <xpln>one that makes Carts, Waggon, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cave(v)" lexeme="chave(v)">To <f type="i">Cave<f type="r">, or <f type="i">Chave<f type="r">,</form> <xpln>is with a large Rake, or such like Instru&shy;
+ment, to divide the greater from the lesser, as the larger Chaff
+from the Corn, or smaller Chaff; Also larger Coals from the
+lesser.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ceres(pn)"><f type="i">Ceres<f type="r">,</form> <xpln>the Goddess of Corn, Seeds, and Tillage; Also the Title of
+one of the Books of Mr. <f type="i">Rea<f type="r">, treating of Seeds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chaff(n)"><f type="i">Chaff<f type="r">,</form> <xpln>the Refuse or Dust in winnowing of Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="champian(n)"><f type="i">Champion<f type="r"></form> <xpln>Lands not inclosed, or large Fields, Down, or Places
+without Woods or Hedges.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cheese-lip(n)"><f type="i">Cheese-lip<f type="r">,</form> <xpln>the Bag wherein Housewifes prepare and keep their
+Runnet, or Rennet for their Cheese.</xpln></wordentry>
+</page>
+
+<page no="269">
+<wordentry type="h"><form lexeme="chitting(n)"><f type="i">Chitting<f type="r">,</form> <xpln>the Seed is said to chit when it shoots first its small Root
+in the Earth.</xpln>
+<lemenote>
+The noun predates the earliest OED citation, 1727.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="ciderist(n)">A <f type="i">Ciderist<f type="r">,</form> <xpln>One that deals in Cider, or an affector of Cider.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="clog(n)"><f type="i">Clogs<f type="r">,</form> <xpln>Pieces of Wood, or such like, fastened about the necks, or to
+the legs of Beasts, they they run not away.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cock(n)">A <f type="i">Cock<f type="r">,</form> <xpln>is of Hay or Corn laid on heaps to preserve it against the
+extremities of the weather.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="codware(n)"><f type="i">Codware<f type="r">,</form> <xpln>Such Seed or Grain that is contained in Cods, as Pease,
+Beans, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coal-fire(n)">A <f type="i">Colefire<f type="r">,</form> <xpln>Is a parcel of Fire-wood set up for sale or use, contain&shy;
+ing when it is burnt a Load of Coals.</xpln>
+<lemenote>
+The only instance for this sense in the OED entry.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="collar(n)"><f type="i">Collers<f type="r"></form> <xpln>about the Cattels Necks, by the strength whereof they 
+draw.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="come(n)"><f type="i">Come<f type="r">,</form> <xpln>The small fibres, or tayls of Malt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compass(n)" lexeme="compost(n)"><f type="i">Compas<f type="r">, or <f type="i">Compost<f type="r">,</form> <xpln>Soyl for Land, Trees, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coniferous(a)"><f type="i">Coniferous<f type="r"> Trees,</form> <xpln>are such that bears Cones or Clogs, as the Fir,
+Pine, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conservatory(n)">A <f type="i">Conservatory<f type="r">,</form> <xpln>A place to keep Plants, Fruits, &amp;c. in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coomb(n)">A <f type="i">Coome<f type="r">,</form> <xpln>Four Bushels.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coppice(n)" lexeme="copse(n)"><f type="i">Coppice, Copise<f type="r">, or <f type="i">Copse<f type="r">,</form> <xpln lexeme="underwood(n)">The smaller sort of Wood, or <f type="i">Under-wood<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cord of wood(n)">A <f type="i">Cord<f type="r"> of Wood</form> <xpln>is set out as the Colefire, and contains by measure
+four foot in breadth, four foot in height, and eight foot in
+length.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="covert(n)"><f type="i">Covert<f type="r">,</form> <xpln>A shady place for Beasts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cradle(n)">A <f type="i">Cradle<f type="r">,</form> <xpln lexeme="cradle-scythe(n)">Is a Frame of Wood fixed to a Sythe for the mowing of
+Corn, and causes it to be laid the better in Swarth, and it is
+then called a <f type="i">Cradle-Sythe<f type="r">.</xpln>
+<lemenote>
+First citation for the compound in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="cratch(n)">A <f type="i">Cratch<f type="r">,</form> <xpln>A Rack for Hay or Straw. Vide <f type="i">Rack<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="croft(n)">A <f type="i">Croft<f type="r">,</form> <xpln>A small Enclosure.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crone(n)"><f type="i">Crones<f type="r">,</form> <xpln>Old Eaws.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crotch(n)">A <f type="i">Crotch<f type="r">.</form> <xpln>The forked part of a Tree, useful in many cases of Hus&shy;
+bandry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crow(n) lexeme="crome(n)"">A <f type="i">Crow<f type="r">, or <f type="i">Crome<f type="r"> of Iron,</form> <xpln>An Iron Bar with one end flat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cultivate(v)">To <f type="i">Cultivate<f type="r">,</form> <xpln lexeme="till(v)">To Till.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="culture(n)"><f type="i">Culture<f type="r">,</form> <xpln lexeme="tilling(n)">Tilling.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="curry-comb(n)">A <f type="i">Curry-Comb<f type="r">,</form> <xpln>An Iron Comb wherewith they kemb Horses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scion(n)">A <f type="i">Cyon<f type="r">,</form> <xpln>A young Tree or Slip, springing from an old.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">D
+
+<wordentry type="h"><form lexeme="dollop(n)"><f type="bk">D<f type="i"><f type="i">Allops<f type="r">,</form> <xpln>A Term used in some places for Patches, or Corners
+of Grass or Weeds among the Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="darnel(n)"><f type="i">Darnel<f type="r">,</form> <xpln lexeme="cockleweed(n)">Cockleweed, injurious to Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="denshire(v)">To <f type="i">Denshire<f type="r">,</form> <xpln>is to cut off the Turf of Land, and when it is dry to
+lay it on heaps and burn it.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="delve(v)">To <f type="i">Delve<f type="r">,</form> <xpln lexeme="dig(v)">To Dig.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dibble(n)">A <f type="i">Dibble<f type="r">,</form> <xpln>An Instrument wherewith they make holes for the set&shy;
+ting of Beans, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dike(n)">A <f type="i">Dike<f type="r">,</form> <xpln lexeme="ditch(n)">A Ditch.</xpln></wordentry>
+</page>
+
+<page no="270">
+<wordentry type="h"><form lexeme="dredge(n)"><f type="i">Dredge<f type="r">,</form> <xpln>Oats and Barley mixed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drought(n)"><f type="i">Drought<f type="r">,</form> <xpln>A long time of dry weather.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dug(n)"><f type="i">Dugg<f type="r"> of a Cow,</form> <xpln lexeme="teat(n)">that is, the Cows Tet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dung-fork(n)">A <f type="i">Dung-fork<f type="r"></form> <xpln>is a Tool of three Tines or Pikes, for the better cast&shy;
+ing of Dung.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">E
+
+<wordentry type="h"><form lexeme="ear(v)"><f type="bk">T<f type="i">O <f type="i">Ear<f type="r"> or <f type="i">Are<f type="r">,</form> <xpln lexeme="plough(v)" lexeme="fallow(v)">To Plough or Fallow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="earning(n)"><f type="i">Earning<f type="r">,</form> <xpln lexeme="runnet(n)">Runnet wherewith they convert Milk into Cheese.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eddish(n)" lexeme="eegrass(n)"><f type="i">Eddish, Eadish, Etch<f type="r">, or <f type="i">Eegrass<f type="r">,</form> <xpln>the latter Pasture or Grass that
+comes after Mowing or Reaping.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="edge(v)">To <f type="i">Edge<f type="r">,</form> <xpln lexeme="harrow(v)">To harrow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="edifice(n)"><f type="i">Edifice<f type="r">,</form> <xpln lexeme="building(n)">Building.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="egistment(n)"><f type="i">Egistments<f type="r">,</form> <xpln>Cattel taken in to graze, or be fed by the week or
+moneth.</xpln>
+<lemenote>
+First OED citation for the headword with this spelling.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="espalier(n)"><f type="i">Espaliers<f type="r">,</form> <xpln>Trees planted in a curious order against a Frame for the
+bounding of Walks, Borders, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exotic(n)"><f type="i">Exoticks<f type="r">,</form> <xpln>Foreign Plants, not growing naturally in our English
+Soyl.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">F
+
+<wordentry type="h"><form lexeme="fallow(v)"><f type="bk">T<f type="i">O <f type="i">Fallow<f type="r">,</form> <xpln lexeme="twifallow(v)" lexeme="trifallow(v)">To prepare Land by ploughing, long before it be
+ploughed for Seed. Thus may you fallow, twifallow, and
+trifallow, that is, once, twice, or thrice plough it before
+the Seed-time.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fan(n)">A <f type="i">Fann<f type="r">,</form> <xpln>is an Instrument that by its motion artificially causeth
+Winde, useful in the winnowing of Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="farthing-land(n)" lexeme="farthingdeal(n)">A <f type="i">Farding Land<f type="r">, or <f type="i">Farundale of Land<f type="r">,</form> <xpln>is the fourth part of an
+Acre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fathom(n)">A <f type="i">Fathome<f type="r"> of Wood,</form> <xpln lexeme="coalfire(n)">is a parcel of Wood set out, six whereof
+make a Colefire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="falter(v)">To <f type="i">Faulter<f type="r">,</form> <xpln>Thrashers are said to faulter, when they thrash or beat
+over the Corn again.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ferment(v)">To <f type="i">Ferment<f type="r">,</form> <xpln>that is, to cause Beer, Cider, or other Drinks to
+work, that the Dregs or Impurities may be separated upwards
+or downwards.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fermentation(n)"><f type="i">Fermentation<f type="r">,</form> <xpln>such working.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fertile(a)"><f type="i">Fertile<f type="r">,</form> <xpln lexeme="fruitful(a)">Fruitful.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fertility(n)"><f type="i">Fertility<f type="r">,</form> <xpln lexeme="fruitfulness(n)">Fruitfulness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fetters(n)"><f type="i">Fetters<f type="r"></form> <xpln>are usually made of Iron, and hanged about the legs of Cat&shy;
+tel, that they leap not, or run away.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fuel(n)"><f type="i">Fewel<f type="r">,</form> <xpln>Any combustible matter wherewith a fire is made.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="filly(n)"><f type="i">Filly<f type="r">,</form> <xpln lexeme="she-colt(n)">A She-colt.</xpln>
+<lemenote>
+The term "she-colt" is not in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="fimble hemp(n)"><f type="i">Fimble<f type="r"> Hemp,</form> <xpln>that is the yellow early Hemp.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flail(n)"><f type="i">Flayl<f type="r">,</form> <xpln>A Thrashing Instrument.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="floating(n)"><f type="i">Floating<f type="r">,</form> <xpln lexeme="floting(v)">or drowning, or watering of Meadows;  Also <f type="i">Floating<f type="r"> of
+a Cheese, is the separating the Whey from the Curd.</xpln>
+<lemenote>
+See OED "flote", v.1, for the separating of whey and cheese.
+</lemenote>
+</wordentry>
+</page>
+
+<page no="271">
+<wordentry type="h"><form lexeme="Flora(pn)"><f type="i">Flora<f type="r">,</form> <xpln>The Goddess of Flowers; also the Title of Mr. <f type="i">Rea<f type="r"> his ex&shy;
+cellent Treatise of Flowers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fodder(n)"><f type="i">Fodder<f type="r">,</form> <xpln>Hay, Straw, or such like Food for Cattel.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foison(n)"><f type="i">Foison<f type="r">,</form> <xpln>Plenty of Riches.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foisty(a)"><f type="i">Foisty<f type="r">,</form> <xpln lexeme="musty(a)">Musty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fork(n)"><f type="i">Fork<f type="r">,</form> <xpln>There are several sorts of them, some of Wood, some of
+Iron; some for Hay, others for Corn, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foil(v)">To <f type="i">Foyl<f type="r">,</form> <xpln>That is to Fallow Land in the Summer, or Autumn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fragrant(a)"><f type="i">Fragrant<f type="r">,</form> <xpln>Smelling pleasantly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="frith(n)"><f type="i">Frith<f type="r">,</form> <xpln lexeme="underwood(n)"><emend err="Unerwood">Underwood</emend>, or the shroud of Trees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="froe(n)">A <f type="i">Frower<f type="r">,</form> <xpln>An Edge-tool used in cleaving Lath.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furrow(n)"><f type="i">Furrow<f type="r">,</form> <xpln>The low Fall, or Drain in Land, either left by the Plough,
+or otherwise made.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g">G
+
+<wordentry type="h"><form lexeme="gap(n)"><f type="bk">A<f type="i"> <f type="i">Gap<f type="r">,</form> <xpln>An open place in a Hedge, or such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="garner(n)">A <f type="i">Garner<f type="r">,</form> <xpln lexeme="granary(n)">A Granary to put Corn in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="georgic(n)"><f type="i">Georgicks<f type="r">,</form> <xpln>Belonging to Husbandry, or Tillage, as <f type="i">Virgils Geor&shy;
+gicks<f type="r">, his Books of Husbandry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="germination(n)"><f type="i">Germination<f type="r">,</form> <xpln>A budding forth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="glandiferous(a)"><f type="i">Glandiferous<f type="r">,</form> <xpln>Bearing Mast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="glean(v)">To <f type="i">Glean<f type="r">,</form> <xpln>To pick up or gather the shattered Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="goad(n)">A <f type="i">Goad<f type="r">,</form> <xpln>A small Staff, or Rod with a sharp Iron-pin at the end
+thereof, to quicken Horses or Oxen in their motion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="goaf(n)">A <f type="i">Gooff<f type="r">, or <f type="i">Goffe<f type="r">,</form> <xpln>A Mowe or Reek of Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gore(v)">To <f type="i">Gore<f type="r">,</form> <xpln>To make up such Mowes or Reeks.</xpln>
+<lemenote>
+Cf. OED "gore, v. 3", 3.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="gorse(n)"><f type="i">Goss<f type="r">, or <f type="i">Gorse<f type="r">,</form> <xpln lexeme="furze(n)">Furzes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="groats(n)"><f type="i">Groats<f type="r">,</form> <xpln>Oats after the Hulls are off, or great Oatmeal.</xpln>
+<lemenote>
+The phrase "great oatmeal" appears not to be in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="grubbage(n)" lexeme="grub-axe(n)"><f type="i">Grubbage<f type="r">.</form> <xpln lexeme="mattock(n)">See Mattock.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">H
+
+<wordentry type="h"><form lexeme="hale(v)" lexeme="haul(v)"><f type="bk">T<f type="i">O <f type="i">Hale<f type="r">, or <f type="i">Hawl<f type="r">,</form> <xpln lexeme="draw(v)">To draw.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="harness(n)"><f type="i">Harneys<f type="r">,</form> <xpln>Ropes, Collers, and other Accroutrements fitted to
+Horses or other Beasts, for their drawing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hatch(n)"><f type="i">Hatches<f type="r">,</form> <xpln>Flood-gates placed in the Water to obstruct its Cur&shy;
+rent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="haw(n)"><f type="i">Haws<f type="r">,</form> <xpln>The Fruit of the White-thorn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="haulm(n)"><f type="i">Hawm<f type="r">.</form> <xpln>The stalks of Pease, Beans, or such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="headland(n)"><f type="i">Head-land<f type="r">,</form> <xpln>That which is ploughed overthwart at the ends of the
+other Lands.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="heckle(n)"><f type="i">Heckle<f type="r">,</form> <xpln>An Instrument used in the trimming and perfecting of
+Hemp and Flax for the Spinner, by dividing the Tow or
+Hurds from the Tare.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="helm(n)"><f type="i">Helm<f type="r">,</form> <xpln>is Wheat or Rye straw unbruised by thrashing or otherwise,
+and bound in bundles for thatching.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hip(n)"><f type="i">Hips<f type="r">,</form> <xpln>The Fruit of the Black-thorn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="herbage(n)"><f type="i">Herbage<f type="r">,</form> <xpln>The Feeding, Grazing, or Mowing of Land.</xpln></wordentry>
+</page>
+
+<page no="272">
+<wordentry type="h"><form lexeme="hidebound(n)"><f type="i">Hide-bound<f type="r">,</form> <xpln>A Disease whereunto Trees as well as Cattel are
+subject.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hind(n)">A <f type="i">Hinde<f type="r">,</form> <xpln>A Servant in Husbandry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hillock(n)"><f type="i">Hillock<f type="r">,</form> <xpln>A little Hill, as a Hop-hill, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hog(n)"><f type="i">Hogs<f type="r">,</form> <xpln lexeme="swine(n)">In some places Swine are so called, in some places young
+Weathers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hook(n)"><f type="i">Hook<f type="r">,</form> <xpln>Land tilled and sown every year.</xpln>
+<lemenote>
+Sense not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="hopper(n)"><f type="i">Hopper<f type="r">,</form> <xpln>Wherein they carry their Seed-Corn at the time of sow&shy;
+ing; Also the Vessel that contains the Corn at the top of
+the Mill.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoe(n)"><f type="i">How<f type="r">,</form> <xpln>An Instrument made like a Coopers Adds, for the cutting
+up of Weeds in Garden, Fields, &amp;c. and between Beanes,
+Pease, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hovel(n)"><f type="i">Hovel<f type="r">,</form> <xpln>A mean building or hole for any ordinary use.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoven(a)"><f type="i">Hoven<f type="r">,</form> <xpln>Cheese that is raised or swelled up.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hull(n)"><f type="i">Hull<f type="r">, or <f type="i">Hulls<f type="r">,</form> <xpln>the Chaff of Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hurd(n)"><f type="i">Hurds<f type="r"> of Flax or Hemp,</form> <xpln>are the worser parts separated from the
+Tare in the Heckling of it, whereby may be made Linnen
+Cloath.</xpln>
+<lemenote>
+See OED "flax", 8a ("flax-hurd"), not a headword on its own.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="hutch(n)"><f type="i">Hutch<f type="r">,</form> <xpln>A Vessel or Place to lay Grain, or such like thing in; Also
+a Trap made hollow for the taking of Weasels, or such like
+Vermine alive.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hut(n)"><f type="i">Hut<f type="r">,</form> <xpln lexeme="cottage(n)">A small Hovel, or Cottage.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">I
+
+<wordentry type="h"><form lexeme="jack(n)"><f type="bk">A<f type="i"> <f type="i">Jack<f type="r">,</form> <xpln>A term sometimes used for a Horse whereon they sawe
+Wood.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ile(n)"><f type="i">Iles<f type="r">, or <f type="i">Oiles<f type="r">.</form> <xpln>Vide <f type="i">Aanes<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imp(n)">An <f type="i">Imp<f type="r">,</form> <xpln>a young Tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="infertile(a)"><f type="i">Infertile<f type="r">,</form> <xpln lexeme="barren(a)">Barren.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="innoculation(n)"><f type="i">Inoculation<f type="r">,</form> <xpln>The Grafting or placing of the Bud of one Tree, into
+the Stock or Branch of another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="irrigation(n)"><f type="i">Irrigation<f type="r">,</form> <xpln>Watering of a Meadow, Garden, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="irroration(n)"><f type="i">Irroration<f type="r">,</form> <xpln>A bedewing or besprinkling of a Plant.</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Junames<f type="r">,</form> <xpln>That is Land sown with the same Grain it was sown with
+the precedent year.</xpln>
+<lemenote>
+"Junames" is not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="juter(n)"><f type="i">Juter<f type="r">,</form> <xpln>A term by some used, for the fertile coagulating saltish na&shy;
+ture of the Earth.</xpln>
+<lemenote>
+OED speculates that "nitre" is meant.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k">K
+
+<wordentry type="h"><form lexeme="carl hemp(n)"><f type="bk">K<f type="i"><f type="i">Arle Hemp<f type="r">,</form> <xpln>That is, the latter green Hemp.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kiln(n)"><f type="i">Kell<f type="r">, or <f type="i">Kiln<f type="r">,</form> <xpln>whereon they dry Malt or Hops.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">L
+
+<wordentry type="h"><form lexeme="lactary(n)"><f type="bk">L<f type="i"><f type="i">Actary<f type="r">,</form> <xpln lexeme="dairyhouse(n)">A Dairy-house.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lair(n)"><f type="i">Laire, Layer<f type="r">, or <f type="i">Lieare<f type="r">,</form> <xpln>Places where Cattel usually repose
+</page>
+
+<page no="273">
+themselves under some shelter, the Ground being enriched
+by their Soyl.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lathe(n)">A <f type="i">Lath<f type="r">,</form> <xpln lexeme="barn(n)">A Barn.</xpln>
+<lemenote>
+OED "lathe", n.2
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="laund(n)" lexeme="lawn(n)"><f type="i">Laund<f type="r">, or <f type="i">Lawne<f type="r"> in a Park,</form> <xpln>plain and untilled Ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lease(v)">To <f type="i">Lease<f type="r">, or <f type="i">Leaze<f type="r">.</form> <xpln lexeme="glean(v)">Vide to <f type="i">Glean.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lentil(n)">Lentils<f type="r">,</form> <xpln>A sort of Grain less than Fitches.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="litter(n)"><f type="i">Litter<f type="r">,</form> <xpln>Straw, or such like stuff for Cattel to lodge on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lock(v)">To <f type="i">Lock<f type="r">,</form> <xpln>is a term used by Drivers in moving the Fore-wheels of
+a Waggon to and fro.</xpln>
+<lemenote>
+Predates earliest OED citation at "lock" v.1, 6b (1694).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="log(n)"><f type="i">Log<f type="r">,</form> <xpln>A term used in some places for a Cleft of Wood, in some
+places for a long Piece or Pole, by some for a small Wand or
+Switch.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lop(v)">To <f type="i">Lop<f type="r">,</form> <xpln>To cut off the head branches of a Tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lug(n)">A <f type="i">Lug<f type="r">.</form> <xpln>Vide Perch.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lynchet(n)"><f type="i">Lynchet<f type="r">,</form> <xpln>A certain line of Green-sword or Bounds, dividing Ar&shy;
+rable Land in Common Fields.</xpln>
+<lemenote>
+Predates first citation by OED (Ray; 1674).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">M
+
+<wordentry type="h"><form lexeme="madds(n)"><f type="bk">M<f type="i"><f type="i">Adds<f type="r">,</form> <xpln>A Disease in Sheep.</xpln>
+<lemenote>
+See OED "mad" n. 1, 1
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="manger(n)"><f type="i">Manger<f type="r">,</form> <xpln>The place wherein Beasts eat Corn, or other short
+Meat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mash(n)">A <f type="i">Mash<f type="r">, or <f type="i">Mesh<f type="r">,</form> <xpln>Ground Corn, or such like, boyled in water for
+Cattel to eat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mast(n)"><f type="i">Mast<f type="r">,</form> <xpln>The Fruits of wilde Trees, as of Oaks, Beech, <f type="i">&amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mattock(n)">Mattock<f type="r">,</form> <xpln lexeme="grub-axe(n)" lexeme="rooting-axe(n)">A Tool wherewith they grub Roots of Trees, Weeds, <f type="i">&amp;c.<f type="r">
+by some called a <f type="i">Grub-axe<f type="r">, or <f type="i">Rooting-axe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mature(a)">Mature<f type="r">,</form> <xpln lexeme="ripe(a)">Ripe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mane-comb(n)">A <f type="i">Mayn-Comb<f type="r">,</form> <xpln>wherewith they komb Horses Mayns.</xpln>
+<lemenote>
+Not in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="meak(n)">A <f type="i">Meak<f type="r">,</form> <xpln>wherewith they mow or hack Pease, or Brake, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mere(n)"><f type="i">Mere<f type="r">,</form> <xpln lexeme="lynchet(n)">The same as <f type="i">Lynchet.</xpln>
+<lemenote>
+See OED "mere" n. 2, 1b (1674)
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="mildew(n)">Mildew<f type="r"></form> <xpln>A certain Dew, falling in the moneths of <f type="i">June<f type="r"> and <f type="i">July<f type="r">,
+which being of a viscous nature, much impedes the growth or
+maturation of Wheat, Hops, <f type="i">&amp;c.<f type="r"> unless a shower of Rain wash
+it off; It is also very sweet, as appears by the Bees so mightily
+enriching their stores thereby.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maslin(n)"><f type="i">Mislen<f type="r">, or <f type="i">Maslen<f type="r">,</form> <xpln>Corn mixed, as Wheat with Rye, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mock-shade(n)"><f type="i">Mogshade<f type="r">,</form> <xpln>The shadows of Trees, or such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mould(n)"><f type="i">Mold<f type="r">,</form> <xpln lexeme="earth(n)">Earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mound(n)"><f type="i">Mounds<f type="r">,</form> <xpln lexeme="bank(n)" lexeme="bound(n)">Banks, or Bounds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="muck(n)"><f type="i">Muck<f type="r">,</form> <xpln lexeme="dung(n)" lexeme="soil(n)">Dung, or Soyl.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="must(n)"><f type="i">Must<f type="r">,</form> <xpln>The new Liquor or Pressure of Fruits, before fermentation.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">N
+
+<wordentry type="h"><form lexeme="neat(n)"><f type="bk">N<f type="i"><f type="i">Eat<f type="r">,</form> <xpln lexeme="heifer(n)">A Heifer, or any of the kinde of Beeves.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="neatherd(n)">A <f type="i">Neat-herd<f type="r">,</form> <xpln>A Keeper of Neat, Beeves, or Cows.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nursery(n)">A <f type="i">Nursery<f type="r">,</form> <xpln>A Place set apart for the raising of young Trees, or
+Stocks.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="274">
+<wordgroup1 type="a" object="o">O
+
+<wordentry type="h"><form lexeme="ollet(n)"><f type="bk">O<f type="i"><f type="i">Llet<f type="r">,</form> <xpln lexeme="fuel(n)">Fewel.</xpln>
+<lemenote>
+The term "olet" ("oilet"?) in this sense is not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="olitory(n)"><f type="i">Olitory<f type="r">, An Olitory<f type="r"> Garden</form> <xpln>is a Kitchen Garden, or a Garden
+of Herbs, Roots, &amp;c. for food.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oast(n)"><f type="i">Ost, Oost<f type="r">, or <f type="i">Eest<f type="r">,</form> <xpln lexeme="kiln(n)" lexeme="kell(n)">the same as Kell, or Kiln.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">P
+
+<wordentry type="h"><form lexeme="paddle-staff(n)"><f type="bk">A<f type="i"> <f type="i">Paddle staff<f type="r">,</form> <xpln>A long Staff with an Iron Bit at the end thereof,
+like a small Spade, much used by Mole-catchers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pail(n)">A <f type="i">Payl<f type="r">,</form> <xpln lexeme="bucket(n)">The same as a Bucket.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="palisade(n)"><f type="i">Pallisade<f type="r">,</form> <xpln>A sort of slight open Pale or Fence, set to beautifie a
+Place, or Walk.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="palm(n)"><f type="i">Palms<f type="r">,</form> <xpln>The white Excrescencies of Buds of Sallyes or Withy, co&shy;
+ming before the Leaf.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pannage(n)"><f type="i">Pannage<f type="r">,</form> <xpln>The feeding of Swine or other Cattel on the Mast, or o&shy;
+ther Herbage, in Forrests, Woods, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pannel(n)" lexeme="pad(n)" lexeme="pack-saddle(n)">A <f type="i">Pannel, Pad<f type="r">, or <f type="i">Pack-saddle<f type="r">,</form> <xpln>Kindes of Saddles whereon they carry
+Burthens on horse-back.</xpln>
+<lemenote>
+The term "pad" as used ehre predates OED "pad," n. 2, 2b (1795).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="parterre(n)" lexeme="partir(n)"><f type="i">Parterre<f type="r">, or <f type="i">Partir<f type="r">,</form> <xpln>A name proper to a Garden divided into Beds,
+Walks, and Borders, for curious Flowers, Herbs, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pease-bolt(n)"><f type="i">Pease-bolt<f type="r">,</form> <xpln lexeme="pease-haulm(n)" lexeme="straw(n)">Pease-hawm, or Straw.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pedware(n)"><f type="i">Pedware<f type="r">,</form> <xpln lexeme="pulse(n)">Pulse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pen-stalk(n)"><f type="i">Penstocks<f type="r">.</form> <xpln lexeme="hatch(n)">See <f type="i">Hatches<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perch(n)" lexeme="lug(n)">A <f type="i">Perch<f type="r">, or Lug,</form> <xpln>is sixteen foot and a half Land-measure, but is
+usually eighteen foot to measure Coppice Woods withal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pike(n)">A <f type="i">Pike<f type="r">,</form> <xpln lexeme="fork(n)">A Fork or Prong of Iron.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pile(n)">A <f type="i">Pile<f type="r">,</form> <xpln lexeme="coal-fire(n)">A parcel of Wood, two whereof make one Colefire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="piscary(n)">A <f type="i">Piscary<f type="r">,</form> <xpln>A Liberty of Fishing, or a place where Fishes are con&shy;
+fined.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pitchfork(n)">A <f type="i">Pitch-fork<f type="r">, or <f type="i">Pick-fork<f type="r">,</form> <xpln lexeme="pike(n)">the same with <f type="i">Pike<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plough(n)">A <f type="i">Plough<f type="r">,</form> <xpln>A Term used in the Western parts for a Team of Horse
+or Oxen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plough-wright(n)">A <f type="i">Plough-wright<f type="r">,</form> <xpln>One that makes Ploughs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pod(n)"><f type="i">Podds<f type="r">,</form> <xpln>The Cods or Shells of Cod-ware, or any other Seed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pollard(n)" lexeme="pollenger(n)"><f type="i">Pollard<f type="r">, or <f type="i">Pollinger<f type="r">,</form> <xpln>An old Tree usually lopped.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polt(v)">To <f type="i">Polt<f type="r">,</form> <xpln lexeme="beat(v)" lexeme="thrash(v)">To beat or thrash.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pomona(pn)"><f type="i">Pomona<f type="r">,</form> <xpln>The Goddess of Fruits; Also the Title of several Treati&shy;
+ses of Fruit-trees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pregnant(a)"><f type="i">Pregnant<f type="r">,</form> <xpln>Full as a Bud, or Seed, or Kernal, ready to sprout.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prong(n)">A <f type="i">Prong<f type="r">,</form> <xpln lexeme="pike(n)">The same as <f type="i">Pike<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="propagate(v)">To <f type="i">Propagate<f type="r">,</form> <xpln lexeme="increase(v)" lexeme="multiply(v)">To encrease or multiply any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="propagator(n)">A <f type="i">Propagator<f type="r">,</form> <xpln lexeme="planter(n)">A Planter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prune(v)">To <f type="i">Prune<f type="r">,</form> <xpln lexeme="trim(v)">To trim <f type="i">Trees<f type="r">, by cutting off the superfluous Branches
+or Roots.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pucket(n)"><f type="i">Puckets<f type="r">,</form> <xpln>Nests of Caterpillars, or such like Vermine.</xpln>
+<lemenote>
+First citation in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="paddock(n)" lexeme="parrock(n)">A <f type="i">Puddock<f type="r">, or <f type="i">Purrock<f type="r">,</form> <xpln>A small Enclosure.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="275">
+<wordgroup1 type="a" object="q">Q
+
+<wordentry type="h"><form lexeme="quincunx(n)"><f type="bk">Q<f type="i"><f type="i">Vincunx<f type="r">,</form> <xpln>Is an order of planting Trees or Plants, that may
+be in order every way.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">R
+
+<wordentry type="h"><form lexeme="rack(n)"><f type="bk">A<f type="i"> <f type="i">Rack<f type="r">,</form> <xpln>A place made to contain Hay, or other Fodder, for
+Beasts to feed on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ree(v)">To <f type="i">Ree<f type="r">, or <f type="i">Ray<f type="r">,</form> <xpln>To handle Corn in a Sieve, so as the chaffy, or ligh&shy;
+ter part gather to one place.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reed(n)"><f type="i">Reed<f type="r">,</form> <xpln lexeme="helm(n)">is either the long Grass that grows in Fenns, or watery Pla&shy;
+ces, or Straw bound up for thatching, by some called <f type="i">Helm<f type="r">.
+See <f type="i">Helm<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rick(n)">A <f type="i">Reek<f type="r"> of Corn,</form> <xpln>a Mowe or Heap of Corn, so laid for its preserva&shy;
+tion, out of any Barn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rick-staval(n)">A <f type="i">Reek-staval<f type="r">,</form> <xpln>A Frame of Wood placed on stones, on which such
+Mowe is raised.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resinaceous(a)"><f type="i">Resinaceous<f type="r">,</form> <xpln lexeme="rosiny(a)">Rosenny, or yielding Rosin.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rice(n)"><f type="i">Rice<f type="r">,</form> <xpln>The Shrouds or Tops of Trees, or Fellings of Coppices.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ried of hazel(n)">A <f type="i">Ride<f type="r"> of Hazel, or such like Wood,</form> <xpln>is a whole plump of Sprigs, or
+Frith, growing out of the same Root.</xpln>
+<lemenote>
+See OED "ride", n. 3 (only citation).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="ridge(n)">The <f type="i">Ridge<f type="r">,</form> <xpln>The upper edge of a Bank, or other rising Land.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rock(n)">A <f type="i">Rock<f type="r">,</form> <xpln>An Instrument generally used in some parts for the spin&shy;
+ning of Flax or Hemp.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rod(n)">A <f type="i">Rodd<f type="r">.</form> <xpln lexeme="perch(n)">See <f type="i">Perch<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="roller(n)">A <f type="i">Roller<f type="r">,</form> <xpln>wherewith they roll Barley, or other Grain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rod(n)">A <f type="i">Rood<f type="r">,</form> <xpln>A fourth part of an Acre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rough(n)"><f type="i">Rough<f type="r">,</form> <xpln>The Rough Coppice Wood, or Brushy Wood.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rowne(n)"><f type="i">Rowen<f type="r">,</form> <xpln>Rough Pasture full of Stubble or Weeds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ridder(n)"><f type="i">Rudder<f type="r">, or <f type="i">Ridder<f type="r">,</form> <xpln>The widest sort of Sieves for the separating the
+Corn from the Chaff.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="runnet(n)"><f type="i">Runnet<f type="r">,</form> <xpln>A certain sowre matter, made use of by Country House&shy;
+wives for the coming (or coagulation) of their Cheese.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rural(a)"><f type="i">Rural<f type="r">,</form> <xpln>Of, or belonging to the Countrey.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rusticity(n)"><f type="i">Rusticities<f type="r">,</form> <xpln>Countrey affairs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rustic(a)"><f type="i">Rustick<f type="r">,</form> <xpln>Countrey-like.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">S
+
+<wordentry type="h"><form lexeme="seed-lip(n)"><f type="bk">A<f type="i"> <f type="i">Seed-lop<f type="r">, or <f type="i">Seed-lip<f type="r">,</form> <xpln lexeme="hopper(n)">The Hopper, or Vessel wherein they
+carry their Seed at the time of Sowing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seminary(n)">A <f type="i">Seminary<f type="r">,</form> <xpln>A place where you sow Seeds in for the raising of
+Trees, or Plants.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sew(v)">To <f type="i">Sew<f type="r">,</form> <xpln>To drain Ponds, Ditches, <f type="i">&amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shake-time(n)">Shake-time<f type="r">,</form> <xpln>The season of the year that Mast and such Fruits, fall
+from Trees.</xpln></wordentry>
+</page>
+
+<page no="276">
+<wordentry type="h"><form lexeme="shed(n)">A <f type="i">Shedd<f type="r">,</form> <xpln>A place erected and covered over for shelter for Cattel,
+or any other use, against a Wall, or other Edifice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shear(v)">To <f type="i">Sheer<f type="r">,</form> <xpln lexeme="reap(v)">is used in the Northern parts for to Reap.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shock(n)"><f type="i">Shock<f type="r">,</form> <xpln>Several Sheaves of Corn set together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shrape(n)">A <f type="i">Shrape<f type="r">, or <f type="i">Scrape<f type="r">,</form> <xpln>A place baited with Chaff, or Corn, to entice
+Birds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shroud(v)">To <f type="i">Shroud<f type="r">,</form> <xpln>To cut off the head branches of a Tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sickle(n)">A <f type="i">Sickle<f type="r">,</form> <xpln>A toothed Reap-hook.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="site(n)">A <f type="i">Site<f type="r">,</form> <xpln>A principal Mannor, or Farm-house.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scuttle(n)">A <f type="i">Skepe<f type="r">, or <f type="i">Scuttel<f type="r">,</form> <xpln>A flat and broad Basket, made to carry Corn
+withal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="screen(n)">A <f type="i">Skreyn<f type="r"></form> <xpln>is an Instrument made of <f type="i">Wyer<f type="r"> on a Frame, for the divi&shy;
+ding of Corn from <f type="i">Dust, Cockle, Ray<f type="r">, &amp;c. Also it is usually
+made of <f type="i">Lath<f type="r"> for the skreyning of <f type="i">Earth, Sand, Gravel<f type="r">, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="slab(n)"><f type="i">Slabb<f type="r">,</form> <xpln>The out-side sappy Plank or Board sawn off from the sides
+Timber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sled(n)">A <f type="i">Sledd<f type="r">,</form> <xpln>A thing without Wheels, whereon to lay a Plough, or
+other ponderous thing, to be drawn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sluice(n)">A <f type="i">Sluce<f type="r">,</form> <xpln>A Vent, or Drain for Water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="snead(n)"><f type="i">Sneed<f type="r">, or <f type="i">Snead<f type="r">,</form> <xpln>The handle of a Sythe, or such like Tool.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sourse(n)"><f type="i">Souse<f type="r">,</form> <xpln>The Offal of Swine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="soutage(n)"><f type="i">Soutage<f type="r">,</form> <xpln>Course Cloath, or Bagging for Hops, or such like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spade(n)" lexeme="spitter(n)">A <f type="i">Spade<f type="r">, or <f type="i">Spitter<f type="r">,</form> <xpln lexeme="cutting-spade(n)">wherewith they dig or delve; also a <f type="i">Cutting
+Spade<f type="r"> wherewith they cut <f type="i">Hay<f type="r"> or <f type="i">Corn-Mowes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stack of corn(n)">Stack<f type="r"> of Corn.</form> <xpln lexeme="rick(n)">See <f type="i">Reek.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="staddle(n)" lexeme="standel(n)" lexeme="standard(n)">Staddles, Standils<f type="r">, or <f type="i">Standards<f type="r">,</form> <xpln>Trees reserved at the Felling of
+Woods, for growth for Timber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stale(n)"><f type="i">Stail<f type="r">,</form> <xpln>The Handle of a Tool.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stercoration(n)"><f type="i">Stercoration<f type="r">,</form> <xpln lexeme="dunging(n)">Dunging.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sterile(a)"><f type="i">Sterile<f type="r">,</form> <xpln lexeme="barren(a)">Barren.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stover(n)"><f type="i">Stover<f type="r">,</form> <xpln lexeme="straw(n)">Straw.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="strike(n)">A <f type="i">Strike<f type="r"> of Flax</form> <xpln>so much as is Heckled at one handful; Also it
+signifies an Instrument wherewith they strike Corn in the mea&shy;
+suring. Also it is used in the Northern parts for a Measure
+containing about a Bushel.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="structure(n)"><f type="i">Structures<f type="r">,</form> <xpln lexeme="building(n)">Buildings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stirk(n)">A <f type="i">Sturk<f type="r">,</form> <xpln lexeme="heifer(n)">A young Beeve, or Heifer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sty(n)">A <f type="i">Sty<f type="r">,</form> <xpln>A place for fatting , or keeping Swine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="surculation(n)"><f type="i">Su<emend err="c">r</emend>culation<f type="r">,</form> <xpln>A pruning of Trees.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="succulent(a)"><f type="i">Succulent<f type="r">,</form> <xpln lexeme="juicy(a)">Juicy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sull(n)">A <f type="i">Sull<f type="r">,</form> <xpln lexeme="plough(n)">A term used for a <f type="i">Plough<f type="r"> in the Western parts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sull-paddle(n)">A <f type="i">Sull-paddle<f type="r">,</form> <xpln>A small Spade-staff or Instrument to cleanse the
+Plough from the clogging Earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="summer-stir(v)">To <f type="i">Summer-stir<f type="r">,</form> <xpln>To fallow Land in the Summer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="surcingle(n)">A <f type="i">Sussingle<f type="r">,</form> <xpln>A large Girt that Carriers use to binde or fasten their
+Packs withal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sward(n)"><f type="i">Sward<f type="r">,</form> <xpln>Ground is said to have a <f type="i">Sward<f type="r">, or to be swarded, when
+it is well grown or coated over with Grass, or other Ve&shy;
+getables.</xpln></wordentry>
+</page>
+
+<page no="277">
+<wordentry type="h"><form lexeme="swath(n)" lexeme="swarth(n)"><f type="i">Swath<f type="r">, or <f type="i">Swarth<f type="r">,</form> <xpln>Grass, Corn, or such like, as it is laid by the
+Mower from the Sythe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="swale(n)"><f type="i">Swill<f type="r">,</form> <xpln lexeme="shade(n)" lexeme="shadow(n)">Used in the Northern parts for shade, or shadow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="swingle(n)">To <f type="i">Swingle<f type="r"> Flax,</form> <xpln>a Term used by Flax-dressers,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="swineherd(n)">A <f type="i">Swine-herd<f type="r">,</form> <xpln>A Keeper of Swine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scythe(n)">A <f type="i">Sythe<f type="r">,</form> <xpln>wherewith they mow Grass, or Corn.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">T
+
+<wordentry type="h"><form lexeme="tear(n)"><f type="bk">T<f type="i"><f type="i">Are<f type="r"> of Flax,</form> <xpln>the finest drest part thereof ready for the
+Spinner.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tare(n)"><f type="i">Tares<f type="r">,</form> <xpln>A sort of Grain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ted(v)">To <f type="i">Tedd<f type="r">,</form> <xpln>To turn or spread New mown Grass.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="team(n)">A <f type="i">Teem<f type="r">, or <f type="i">Team<f type="r">,</form> <xpln>A certain number of Horses, or other Beasts,
+for the Draught.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="terrace(n)"><f type="i">Terrasse<f type="r">,</form> <xpln>A Walk on a Bank or Bulwark.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="teat(n)"><f type="i">Tett<f type="r">,</form> <xpln lexeme="dug(n)">The Cows Dug by some is called the <f type="i">Tett<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thrave(n)">A <f type="i">Thrave<f type="r"> of Corn</form> <xpln>contains four Shocks, each Shock consisting of
+six Sheaves.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tike(n)">A <f type="i">Tike<f type="r">,</form> <xpln>A small Bullock, or Heifer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="till(n)"><f type="i">Tills<f type="r">,</form> <xpln lexeme="lentil(n)">Lentils, a sort of Pulse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tilth(n)"><f type="i">Tylth<f type="r">,</form> <xpln lexeme="soil(n)">Soyl, or other Improvement of Land.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tine(n)">The <f type="i">Tine<f type="r">,</form> <xpln>or Grayn of a Fork.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tit(n)"><f type="i">Tits<f type="r">,</form> <xpln>Small Cattel.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trendle(n)">A <f type="i">Trendle<f type="r">,</form> <xpln lexeme="kiver(n)">A flat Vessel, by some called a <f type="i">Kiver<f type="r">.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trough(n)">A <f type="i">Trough<f type="r">,</form> <xpln>A Vessel to hold water, &amp;c. to feed Cattel in, &amp;c. or for
+the beating of Apples for Cider, or the like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trundle(n)">A <f type="i">Trundle<f type="r">,</form> <xpln>A thing made and set on low Wheels to draw heavy
+burdens on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="truncheon(n)">A <f type="i">Trunchion<f type="r">,</form> <xpln>a Piece of Wood cut short like a Quarter-staff.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tumbrel(n)">A <f type="i">Tumbrel<f type="r">,</form> <xpln lexeme="dung-cart(n)">A Dung-cart.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v">V
+
+<wordentry type="h"><form lexeme="vat(n)"><f type="bk">A<f type="i"> <f type="i">Vat<f type="r">,</form> <xpln>A Vessel to contain Beer, Ale, Cider, or any other Li&shy;
+quor in its preparation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vindemiation(n)"><f type="i">Vindemiation<f type="r">,</form> <xpln>The gathering of Grapes, or reaping the Fruit of any
+thing, as of Cherries, Apples, Bees, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vindeminate(v)">To <f type="i">Vindemiate<f type="r">,</form> <xpln>to gather the same Fruits.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vinous(a)"><f type="i">Vinous<f type="r">,</form> <xpln lexeme="winy(a)">Winy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="underwood(n)"><f type="i">Vnderwood<f type="r">,</form> <xpln lexeme="coppice(n)">Coppice, or any other Wood that is not esteemed
+Timber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="urry(n)"><f type="i">Vrry<f type="r">,</form> <xpln>The blew Clay that is digged out of the Coal-mines, and
+lyes next the Coal, being crude and immature, and used for
+soyling of Land.</xpln>
+<lemenote>
+First citation in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="utensil(n)"><f type="i">Vtensils<f type="r">,</form> <xpln>Instruments used in any Art, especially Husbandry.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="278">
+<wordgroup1 type="a" object="w">W
+
+<wordentry type="h"><form lexeme="wanty(n)"><f type="bk">A<f type="i"> <f type="i">Wantey<f type="r">.</form> <xpln lexeme="surcingle(n)">Vide Sussingle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="weanel(n)">A <f type="i">Weanel<f type="r">,</form> <xpln>A young Beast newly weaned.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="whin(n)"><f type="i">Whinnes<f type="r">,</form> <xpln lexeme="furze(n)">Furzes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="windrow(n)">A <f type="i">Wind-row<f type="r">,</form> <xpln>Hay or Grass raked in Rows, in order to be set up in
+Cocks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="winnow(v)">To <f type="i">Winnow<f type="r">,</form> <xpln>To separate by Winde the Corn from the Chaff.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="winter-rig(v)">To <f type="i">Winter-rigg<f type="r">,</form> <xpln>To fallow Land in the Winter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="woodland(n)"><f type="i">Wood-land<f type="r">,</form> <xpln>Places where much Woods are; or its generally taken
+for Countreys enclosed.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="y">Y
+
+<wordentry type="h"><form lexeme="yat(n)"><f type="bk">A<f type="i"> <f type="i">Yate<f type="r">, or <f type="i">Yatt<f type="r">,</form> <xpln lexeme="gate(n)">A Gate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yoke(n)">A <f type="i">Yoak<f type="r">,</form> <xpln>is either an instrument for Oxen to draw by, or to
+put on Swine or other unruly Creatures, to keep them from
+running through Hedges.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="z">Z
+
+<wordentry type="h"><form lexeme="Zephyrus(pn)"><f type="bk">Z<f type="i"><f type="i">Ephyrus<f type="r">,</form> <xpln lexeme="west-wind(n)">The West-winde.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+</leme>

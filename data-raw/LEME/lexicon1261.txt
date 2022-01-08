@@ -1,0 +1,585 @@
+<leme no="1261">
+
+<page>
+<wordgroup1 type="a" object="For a garden"><alpha>Herbys necessary for a gardyn by letter.</alpha>
+
+<wordgroup2 type="t" object="A"><alpha>A.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="alexanders(n)">Alysaundre</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="avens(n)">Avence</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astralogia rotunda(n)">Astralogia rotunda</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astralogia longa(n)">Astralogia longa</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alleluia(n)">Alleluia</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="artichoke(n)">Arcachaff</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="artemesie(n)" lexeme="mogweed(n)">Artemesie mogwede</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anise(n)">anice</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="archangel(n)">Archangel</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="B"><alpha>B.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="borage(n)">Borage</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beet(n)">Betes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="betony(n)">Beteyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basil(n)">Basilican</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bugle(n)">Bugle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burnet(n)">Burnett</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="C"><alpha>C.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cabbage(n)">Cabage</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chervil(n)">Chervell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caraway(n)">Carewey</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chives(n)">Cyves</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="columbine(n)">Columbyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clary(n)">Clarey</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coriander(n)">Colyaundr'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colewort(n)">Colewort</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cartabus(n)">Cartabus</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cress(n)">Cressez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cress of Boleyn(n)">Cressez of Boleyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calamint(n)">Calamyntes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chamomile(n)">Camamyll</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="setterwort(n)">Ceterwort</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="D"><alpha>D.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="daisy(n)">Daysez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dittany(n)">Dyteyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dandelion(n)">Daundelyon</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragons(n)">Dragaunce</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dill(n)">Dylle</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="E"><alpha>E.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="elecampane(n)">Elena campana</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eufras(n)">Eufras</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agrimony(n)">Egremoyn</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="F"><alpha>F.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="fennell(n)">Fenell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foothistell(n)">Foothistell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fenugreek(n)">Fenecreke</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="G"><alpha>G.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="gromwell(n)">Gromell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)">Goldez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gilliflower(n)">Gyllofr'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="germander(n)">Germaundr'</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="H"><alpha>H.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="hartis-tongue(n)">Hertez tonge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horehound(n)">Horehound</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="henbane(n)">Henbane</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="I"><alpha>I.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="hyssop(n)">Isope</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ierlin(n)">Ierlin</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eryngo(n)">Iryngez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb-ivy(n)">herbe Ive</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="K"><alpha>K.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cucumber(n)">Kykombre</form> <xpln lang="en"><expan type="yt.">that</expan> bereth apples</xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="L"><alpha>L.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="languedeboeuf(n)">Longdebeff</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leek(n)">Lekez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lettuce(n)">Letuse</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lovage(n)">Loveache</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lympons(n)">Lympons</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lily(n)">Lyklle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lungwort(n)">Longwortz</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="M"><alpha>M.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="mercury(n)">Mercury</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mallow(n)">Malowes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)">Myntes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marjoram(n)">Mageron</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marjoram gentle(n)">Mageron gentyle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mandrake(n)">Mandrake</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melon(n)">Mylone</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="N"><alpha>N.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="nepp(n)">Nept</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nettle red(n)">Nettell rede</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nardus capiscola(n)">Nardus capiscola</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="O"><alpha>O.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="orache(n)">Orage</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oculus christi(n)">Oculus Christi</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="onion(n)">Oynons</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="P"><alpha>P.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">Persely</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pellitory(n)">Pelytore</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pellitory of Spain(n)">Pelytore of Spayn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="puliall royall(n)">Puliall royall</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piper white(n)">Pyper white</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pacience(n)">Pacyence</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poppy white(n)">Popy whit'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="primrose(n)">Prymerose</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purslane(n)">Purselane</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="philipendula(n)">Philipendula</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="Q"><alpha>Q.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="quince(n)">Qvyncez</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="R"><alpha>R.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="rape(n)">Rapes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="radish(n)">Radyche</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ramsons(n)">Rampsons</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rampion(n)">Rapouncez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rocket(n)">Rokettes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rue(n)">Rewe</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="S"><alpha>S.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)">Sauge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="savory(n)">Savery</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spinach(n)">Spynache</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sedtwall(n)">Sedewale</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scalaceli(n)">Scalaceli</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smallage(n)">Smalache</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sauce alone(n)">Sauce alone</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="selbestryue(n)">Selbestryue</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chives(n)">Syves</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sorrel(n)">Sorell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sow thistle(n)">Sowthistell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="southernwood(n)">Sotherwode</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scabious(n)">Skabiose</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="selian(n)">Selian</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stickadove(n)">Stycadose</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stanmarch(n)">Stanmarch</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="T"><alpha>T.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="thyme(n)">Tyme</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tansy(n)">Tansey</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+
+<wordgroup2 type="t" object="V"><alpha>V.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="violet(n)">Vyolettes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wormwood(n)">Wermode</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wormseed(n)">Wormesede</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vervain(n)">Verveyn</form><xpln lang="en"></xpln></wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="t" object="For pottage"><alpha>Of the same Herbes for Potage</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="borrage(n)">Borage</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="languedeboeuf(n)">Langdebefe</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="violet(n)">Vyolettes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mallow(n)">Malowes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mercury(n)">Marcury</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dandelion(n)">Daundelyon</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="avens(n)">Avence</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)">Myntes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cauge(n)">Cauge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">Percely</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)">Goldes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marjoram(n)">Mageron</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fennel(n)">Fenell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caraway(n)">Carawey</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red nettle(n)">Rednettyll</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oculus christi(n)">Oculus Christi</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daisy(n)">Daysys</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chervil(n)">Chervell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leek(n)">Lekez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colewort(n)">Colewortes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rape(n)">Rapez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thyme(n)">Tyme</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chives(n)">Cyves</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beet(n)">Betes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alexanders(n)">Alysaundr'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lettuce(n)">Letyse</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bettany(n)">Betayn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="columbine(n)">Columbyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alleluia(n)">Alleluia</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astralogia rotunda(n)">Astralogia rotunda</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="astralogia longa(n)">Astralogia longa</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basil(n)">Basillican</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dill(n)">Dylle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dittany(n)">Deteyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agrimony(n)">Egrymon</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hart's-tongue(n)">Hertestonge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="radish(n)">Radiche</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white piper(n)">White pyper</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calagez(n)">Calagez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="setwall(n)">Sedewale</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spinach(n)">Spynache</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coliander(n)">Coliaundr'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foothistyll(n)">Foothistyll</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orage(n)">Orage</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cartabus(n)">Cartabus</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lympons(n)">Lympons</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nepp(n)">Nepte</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clary(n)">Clarey</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="patience(n)">Pacience</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="For sauce"><alpha>Of the same Herbes for Sauce</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="hart's-tongue(n)">Hertes tonge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sorrel(n)">Sorell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pelitory(n)">Pelytory</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pelitory of Spain(n)">Pelytory of Spayn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dittany(n)">Deteyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="violet(n)">Vyolettes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">Percely</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)">Myntes</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="For the cop"><alpha>Also of the same Herbes for the copp</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cost(n)">Cost</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="costmary(n)">Costmary</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)">Sauge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyssop(n)">Isope</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosemary(n)">Rosemary</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cyllofr'(n)">Cyllofr'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)">Goldez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clary(n)">Clarey</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marjoram(n)">Mageron</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rue(n)">Rue</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="For a salad"><alpha>Also of the same Herbes for a Salade</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="buds of stanmarch(n)">Buddus of Stanmarche</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="violet flowers(n)">Vyolette flourez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">Percely</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="redmint(n)">Redmyntes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chives(n)">Syves</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cress of Boleyn(n)">Cresse of Boleyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purslane(n)">Purselan</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ramsons(n)">Ramsons</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calamint(n)">Calamyntes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prime rosebud(n)">Prime Rose buddus</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daisy(n)">Dayses</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rampion(n)">Rapounses</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dandelion(n)">Daundelyon</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rocket(n)">Rokette</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red nettle(n)">Red netyll</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="borrage flower(n)">Borage flourez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crop of red fennel(n)">Croppus of Red Fenell</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="selbestryune(n)">Selbestryune</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chickweed(n)">Chykynwede</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="To still"><alpha>Also Herbez to Stylle</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="endive(n)">Endyve</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red rose(n)">Red Rose</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosemary(n)">Rosemary</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragons(n)">Dragans</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scabious(n)">Skabiose</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ewfrace(n)">Ewfrace</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wormwood(n)">Wermode</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mogweed(n)">Mogwede</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bettany(n)">Beteyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild tansy(n)">Wylde Tansey</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)">Sauge</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyssop(n)">Isope</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ersesmart(n)">Ersesmart</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="For savour and beauty"><alpha>Also herbes for Savour and beaute</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cyllofr' gentle(n)">Cyllofr' gentyle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marjoram gentle(n)">Mageron gentyle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basil(n)">Basyle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palma christi(n)">Palma Christi</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stickadove(n)">Stycadose</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melon(n)">Meloncez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="artichoke(n)">Arcachaffe</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scalacely(n)">Scalacely</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="philyppendula(n)">Philyppendula</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poppyroyal(n)">Popyroyall</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="germander(n)">Germaundr'</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cowslip of Jerusalem(n)">Cowsloppus of Jerusalem</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vervain(n)">Verveyn</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dill(n)">Dyll</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seynt mar' garlic(n)">Seynt Mar' Garlek</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Roots for a garden"><alpha>Also Rotys for a gardyn</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="parsnip(n)">Persenepez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turnip(n)">Turnepez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="radish(n)">Radyche</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carrot(n)">Karettes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="galingale(n)">Galyngale</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eryngo(n)">Iryngez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saffron(n)">Saffron</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="For an herber"><alpha>Also for an Herber</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="vine(n)">Vynes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="roser(n)">Rosers</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lily(n)">Lyles</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thewberry(n)">Thewberies</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="almond(n)">Almondez</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baytree(n)">Baytrees</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gourd(n)">Gourdes</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="date tree(n)">Date trese</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peach tree(n)">Peche trese</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pine apple(n)">Pyne Appull</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paeony roman(n)">Pyany Roman</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rose campion(n)">Rose campy</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cartabus selyan(n)">Cartabus Selyan</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="columbine gentle(n)">Columbyn gentyle</form><xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hellebore(n)">Elabre</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+</page>
+</leme>

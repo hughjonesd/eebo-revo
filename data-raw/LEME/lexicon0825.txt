@@ -1,0 +1,79 @@
+<leme no="825">
+
+<page sig="A1v">
+<section type="glossary">
+<heading>An Explanation of the Cant.</heading>
+
+<wordgroup1 type="u">
+<wordentry type="h"><form lexeme="Alsatia(pn)"><f type="i">ALsatia. </f></form> <xpln lexeme="Whitefriars(pn)">White-fryers. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prig(n)" lexeme="prigster(n)"><f type="i">Prig, Prigster. </f></form> <xpln>Pert Coxcombs. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bubble(n)" lexeme="caravan(n)"><f type="i">Bubble, Caravan. </f></form> <xpln lexeme="cheated(n)">The Cheated. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sealer(n)"><f type="i">Sealer. </f></form> <xpln>One that gives Bonds and Judgments for Goods and Money. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pult(n)"><f type="i">A Pult. </f></form> <xpln>One who is easily wheadled and cheated. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coal(n)" lexeme="ready(n)" lexeme="rhino(n)" lexeme="darby(n)"><f type="i">Coale, Ready, Rhino, Darby. </f></form> <xpln lexeme="money, ready(n)">Ready money. </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Rhinocerical. </f></form> <xpln>Full of money. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meg(n)"><f type="i">Megs. </f></form> <xpln lexeme="guinea(n)">Guineas. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="smelt(n)"><f type="i">Smelts. </f></form> <xpln lexeme="half-guinea(n)">Half-Guineas. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="decus(n)"><f type="i">Decus. </f></form> <xpln lexeme="crown(n)">A Crown piece. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="George(n)"><f type="i">George. </f></form> <xpln lexeme="crown, half-(n)">A Half-Crown. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hog(n)"><f type="i">Hog. </f></form> <xpln lexeme="shilling(n)">A Shilling. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sice(n)"><f type="i">Sice. </f></form> <xpln lexeme="pence, six-(n)">Six-pence. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scout(n)"><f type="i">Scout. </f></form> <xpln lexeme="watch(n)">A Watch. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tattler(n)"><f type="i">Tattler. </f></form> <xpln lexeme="alarm(n)" lexeme="watch, striking(n)">An Alarm, or Striking Watch. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="famble(n)"><f type="i">Famble. </f></form> <xpln lexeme="ring(n)">A Ring. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="porker(n)" lexeme="tilter(n)"><f type="i">Porker, Tilter. </f></form> <xpln lexeme="sword(n)">A Sword. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nab, rum(n)"><f type="i">A Rumm Nab. </f></form> <xpln lexeme="beaver, good(n)">A good Beaver. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rigging(n)"><f type="i">Rigging. </f></form> <xpln lexeme="clothes(n)">Cloathes. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blowing(n)" lexeme="natural(n)" lexeme="convenient(n)" lexeme="tackle(n)" lexeme="buttock(n)" lexeme="pure(n)" lexeme="pure, purest(n)"><f type="i">Blowing, Natural, Convenient, Tackle, Buttock, Pure, Purest pure. </f></form> <xpln lexeme="mistress(n)" lexeme="whore(n)">Seve&shy;
+ral Names for a Mistress, or rather a Whore. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equip(v)"><f type="i">To Equip. </f></form> <xpln lexeme="furnish(v)">To furnish one. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bolter of Whitefriars(n)"><f type="i">A Bolter of White-fryers. </f></form> <xpln>One that does but peep out of White-fryers, and 
+retire again like a Rabbit out of his hole. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lug out(v)"><f type="i">To lugg out. </f></form> <xpln>To draw a Sword. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scamper(v)" lexeme="rub(v)" lexeme="scour(v)"><f type="i">To Scamper, to rubb, to scowre. </f></form> <xpln lexeme="run away(v)">To run away. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bowsy(a)"><f type="i">Bowsy. </f></form> <xpln lexeme="drunk(a)">Drunk. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="clear(a)"><f type="i">Clear. </f></form> <xpln lexeme="drunk, very(a)">Very Drunk. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="smoaky(a)"><f type="i">Smoaky. </f></form> <xpln lexeme="jealous(a)">Jealous. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sharp(a)"><f type="i">Sharp. </f></form> <xpln lexeme="subtile(a)">Subtle. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sharper(n)"><f type="i">A Sharper. </f></form> <xpln lexeme="cheat(n)">A Cheat. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tattmonger(n)"><f type="i">A Tattmonger. </f></form> <xpln lexeme="cheat at dice(n)">A Cheat at Dice. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tatt(n)"><f type="i">Tatts. </f></form> <xpln lexeme="dice, false(n)">False Dice. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="doctor(n)"><f type="i">The Doctor. </f></form> <xpln>A particular false Die, which will run but two or three 
+Chances. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prog(n)"><f type="i">Prog. </f></form> <xpln lexeme="meat(n)">Meat.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

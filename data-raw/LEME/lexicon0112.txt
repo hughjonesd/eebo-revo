@@ -1,0 +1,795 @@
+<leme no="112">
+<page sig="b1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 4 3 6 0
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<wordgroup1 type="t" object="Wine"><alpha></alpha>
+<heading>OF THE NATVRES, 
+properties, profits, hurtes 
+and helps that come 
+of Wyne.</heading>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)">ALTHOVGH 
+the order of learning 
+do require, that eue&#173;
+rye man that shall 
+write of anye thing, 
+should declare &#38; open 
+by definiti<expan type="">on</expan> it that he 
+entendeth to entreate 
+of: yet nede not I (as I iudge) going a&#173;
+bout to write of wine, to take any great 
+paine to make a definition of it, bicause 
+all men, women and childer, that are 
+cummed to any perfite age, know well 
+inough that Wine</form> <xpln lang="en">is the iuice of grapes 
+pressed out, and put vp into vessels, to be 
+drunken afterwards at c<expan type="">on</expan>uenient times 
+of men, for diuerse endes and purposes 
+that the Grape maker hath ordeyned it 
+for.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="b1v">
+<wordentry type="h"><form lang="en">Some Wine is called <term lang="la">Creticum</term> of 
+<term lang="la">Creta</term>,</form> <xpln lang="en" lexeme="Candy(pn)" lexeme="Rhenish(n)" lexeme="French(n)">which is named in English Can&#173;
+die, some is called <term lang="la">Graecum</term> of <term lang="la">Graecia,</term>, 
+some Rhennish, bicause it groweth be&#173;
+side the Rhene, some <term lang="la">Gallicum</term>, that is 
+French Wine, bicause it groweth in 
+France, and some is called <term lang="la">Rheticum</term> 
+bicause it groweth in <term lang="la">Rhetia</term>, and so a 
+greate sorte of other Wines haue their 
+names of the countries, &#38; places wheras 
+they growe.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="b2r">
+<wordentry type="h"><form lang="en" lexeme="new(a)" lexeme="wine(n)">THere are twoo sortes of newe 
+Wine,</form> <xpln lang="en" lexeme="must(n)">one that is called Must, 
+and that is but latelye made or 
+pressed out of the grapes, and is 
+swete in tast, troubled in color, and thick 
+in substaunce, and this sort is properlye 
+called in Latin <term lang="la">Mustum</term>. And another 
+sorte is called newe Wine, which hath 
+left his sweetnes &#38; gotten clearenesse, but 
+yet it is not long since it was made. Ga&#173;
+len in his booke of making of medicines, 
+seemeth to call all Wine that is not fully 
+fiue yeares olde, newe wine, and it that 
+is past fiue yeares vntill it hee ten yeare 
+olde, wine of middle age, and it that is 
+aboue the age of ten yeares, olde wine, 
+and Dioscorides writing of the nature 
+of Wines in his fifte booke, calleth it 
+Wine of middle age, that is more than 
+seauen yeare olde, and Plinie writeth,
+
+
+
+</page>
+
+<page sig="b2v">
+not without an error of the scribe (as I 
+gesse) that <term lang="la">Falerno media aetas incipit 
+ab anno decimo quinto.</term> But Valerio&#173;
+la a man otherwise wel learned, leauing 
+the authoritie of Galen, calleth it newe 
+Wine that keepeth still his Mustish and 
+sweete taste, and as yet hath gotten no 
+sharpenesse, and he calleth that Wine of 
+middle age, that is no more sweete, but 
+is cleare, and sayth that he and his coun&#173;
+trimen take the most notable Wines of 
+Fraunce for olde Wines, before they bee 
+fullye one yeare olde. And this doth he 
+holde <term lang="la">enarrationum medicinalium, 
+lib. sexto, enarratione septima.</term> In the 
+same place he reproueth Aloisius Mun&#173;
+della for saying that wine sixe yeares 
+olde was newe wine after Galen, who 
+although fayled in exceeding one yeare 
+beyond Galens numbring of the yeares 
+of new wine, yet he went a great deale 
+farther from Galens minde than Mun&#173;
+della did. Must when it is made euen of 
+ripe grapes, is but hote in the first de&#173;
+greee. for Galen in his boke of the powers 
+of simple medicines, hath these wordes
+
+
+
+</page>
+
+<page sig="b3r">
+following. <term lang="la">Vinum est ex fecundo or&#173;
+dine excalfacientrum. Sed quod ad&#173;
+modum vetus est ex tertio, sicut quod 
+mustum vocant ex primo, caliditatis 
+eius proportioni respondet siccitas,</term> 
+that is, wine (that is to say of midle age) 
+is hote in the seconde degree, but it that 
+is verie olde is hote in the third degree, 
+as it that is called Must is hote in the 
+first degree. By these words their errour 
+is openly confuted, that holde that euery 
+wine is hote in the second degree.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="c1v">
+<wordentry type="h"><form lang="en">Out of all 
+these places of the authours that I haue 
+alleadged, I gather that <term lang="la">Fuluus color</term></form> <xpln lang="en" lexeme="black(a)" lexeme="reddish(a)" lexeme="yellow(n)" lexeme="claret(n)">is 
+it that a man may call in English, redish 
+yelow, for as Virgill calleth Golde <term lang="la">Ful&#173;
+uum</term>, bicause it is redishe yellow, our 
+countrymen marking in golde both a 
+readnesse and also a yellownesse, some&#173;
+time saye, that a thing is as red as gold,
+
+
+
+</page>
+
+<page sig="c2r">
+and other whiles, that a thing is as yel&#173;
+low as gold, as commonlye they say that 
+his eyes &#38; skin that hath <expan type="">the</expan> disease that is 
+called in Duch, <term lang="du">Die guel sucht</term>, and the North<expan type="">en</expan> English tongue, <expan type="">the</expan> Guelsought, 
+and in Southerne English, the yellowe 
+iaundise, are as yelow as gold. This dis&#173;
+ease is named in Latin <term lang="la">Aurigo</term> of Cor&#173;
+nelius Celsus, of the color of gold. Galen 
+seeming to doubt whether al men vnder&#173;
+stoode what he ment by this word <term lang="gk">&#x03BA;&#x03AF;&#x1FE4;&#x1FE5;&#x03BF;&#x03C2;</term>
+which Hippocrates vseth in this signi&#173;
+fication, taketh the paine to open and 
+shewe by two other Greeke words what 
+he meaneth by <term lang="gk">&#x03BA;&#x03AF;&#x1FE4;&#x1FE5;&#x03BF;&#x03C2;</term>, saying that he 
+thynketh that <term lang="gk">&#x03BA;&#x03AF;&#x1FE4;&#x1FE5;&#x03BF;&#x03C2;</term> maye bee called 
+<term lang="gk">&#x03C0;&#x03BD;&#x03C1;&#x03C1;&#x03BF;&#x03C2; &#x1FF6;&#x03C7;&#x03C1;&#x03BF;&#x03C2;</term>, that is, Wine of a fierye 
+color, hauing mixed therewith the color 
+of yellow Ochar, which Ochar is not of 
+a bright yellowe color as <term lang="gk">&#x03BE;&#x03B1;&#x03BD;&#x03C6;&#x03BF;&#x03C2;</term> is, but 
+more darker, whereby a man may plain&#173;
+ly know that <term lang="la">Fuluum</term> which is called in 
+Greeke <term lang="gk">&#x03BA;&#x03AF;&#x1FE4;&#x1FE5;&#x03BF;&#x03BD;</term> or <term lang="gk">&#x03C0;&#x03AF;&#x1FE4;&#x1FE5;&#x03BF;&#x03BD; &#x1FF6;&#x03C7;&#x03C1;&#x03BF;&#x03BD;</term> is a redish 
+yellow color,  as our Muscadine and Ba&#173;
+stards are, wh<expan type="">en</expan> as they come to vs are of. 
+<term lang="la">Vin<expan type="">um</expan> sanguineum</term>, that is sanguine, or
+
+
+
+</page>
+
+<page sig="c2v">
+bloud coloured Wine, it is that we call 
+commonly in English Clared wine, but 
+not the pale, or pallet (as some call it) 
+Clared wine. <term lang="la">Vinum nigrum</term>, so na&#173;
+med of Plinie, and called <term lang="gk">&#x03BF;&#x03B9;&#x03BD;&#x03B1;&#x03C2; &#x03BC;&#x03B5;&#x03BB;&#x03B1;&#x03C2;</term>, 
+in Greeke, is foolishly, but commonlye 
+called in English red wine, when as it 
+ought to be called blacke Wine, of the 
+blacke color that it hath in comparison of 
+other wines.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="d3v">
+<heading>Of the natures of wynes after their tastes.</heading>
+
+<wordentry type="h"><form lang="en">THe wines that are commonlye 
+brought into England, named 
+by their tastes in Greeke <term lang="gk">&#x03BF;&#x03B9;&#x03BD;&#x03BF;&#x03B9;</term>
+
+
+
+</page>
+
+<page sig="d4r">
+<term lang="gk">&#x03B3;&#x03BB;&#x03BD;&#x03BA;&#x03BF;&#x03B9;&#x03C2; &#x03C2;&#x03C5;&#x03C0;&#x03C4;&#x03B9;&#x03BA;&#x03BF;&#x03B9;, &#x03B1;&#x03C5;&#x03C2;&#x03BA;&#x03C1;&#x03BF;&#x03B9; &#x03BA;&#x03B1;&#x03B9; &#x03C2;&#x03C5;&#x03C6;&#x03BD;&#x03BF;&#x03B9;</term>, that 
+in Latine, <term lang="la">vina dulcia, astringentia, 
+austera &#38; acerba</term>, and such like as are 
+<term lang="la">acria</term> and <term lang="la">acida</term>,</form> <xpln lang="en" lexeme="sweet(a)">for the most part wherof 
+we haue neuer one proper name in En&#173;
+glish, though we can name <term lang="la">dulce vin<expan type="">um</expan></term> 
+well in English sweete wine:</xpln></wordentry> <wordentry type="h"><form lang="en">but what 
+shall we call <term lang="la">acre, austerum</term> and <term lang="la">acer&#173;
+bum</term> in common vsed English?</form> <xpln lang="en">surely 
+I cannot tell, for I cannot giue to euery 
+one of these wordes one seuerall vsed 
+English word, without circumlocution, 
+wherfore seeing that the proper English 
+wordes are so harde to be found: and the 
+meaning of the words are as little kno&#173;
+wen of the most part of all men, I think 
+it shall be necessarye to shewe by the au&#173;
+thoritie of some old learned writer, what 
+these words <term lang="la">adstringens, austerum</term> and 
+<term lang="la">acerbum, acer</term> and <term lang="la">acidus</term> doe signifie 
+and betoken. If any man say that I nede 
+not to take this paine, bicause the great 
+and costlye booke, called <term lang="la">Thesaurus 
+linguae Romanae &#38; Britannicae</term>, that 
+is, the treasure of the Latin and English 
+tongue, hath done that thing alreadie: I
+
+
+
+</page>
+
+<page sig="d4v">
+aunswere that I asked counsell of that 
+great booke, and in dede as I found great 
+plentie both of good Latin wordes, and 
+fine maners of speaking, gathered wyth 
+great paines, and ordered with no small 
+learning and iudgement: but in <expan type="">the</expan> Eng&#173;
+lish, as I found to much plentie of light, 
+and new inckhorne termes: so in some 
+places I founde such scarcenesse, lacke, 
+and want of proper and true Englishe 
+names, that the author is faine to giue 
+one name to diuerse Latin wordes, for 
+when I looked how he englished <term lang="la">Acer</term>, 
+he englisheth it thus. Eger, sharpe, tart, 
+soure or fell. Lo, here is great plentie of 
+wordes, and yet we can not tell what <term lang="la">a&#173;
+cer</term> in taste doth properly signifie, and a 
+litle after he writeth these wordes, <term lang="la">acer, 
+acidus succus, Vitruuius</term>, eger. By this 
+booke we may English <term lang="la">lac acidum</term>, eger 
+milke. And afterwarde where as of pur&#173;
+pose he expo<expan type="">un</expan>deth what <term lang="la">Acidus</term> betoke&#173;
+neth, he englisheth it, eger, soure, sharp, 
+and he englisheth <term lang="la">acidula pira</term>, soure 
+peares, he englisheth <term lang="la">Acerbum</term>, vnripe, 
+soure, displeasant, and <term lang="la">Acerbitas</term>, soure&#173;
+
+
+
+</page>
+
+<page sig="d5r">
+nesse of taste, sharpnesse or grieuousnesse 
+of time. He englisheth <term lang="la">Austerus</term>, soure, 
+sharpe, vnpleasant, and <term lang="la">gustus austerus</term> 
+a rough or soure tast.
+
+Now how shall a man know by this 
+booke what difference is betweene, <term lang="la">acer, 
+acidus, austerus</term> and <term lang="la">acerbus</term>, when as 
+he calleth them all soure, and putteth so 
+small difference betweene one and ano&#173;
+ther. Surely we haue but small helpe of 
+that booke in declaring of these words, &#38; 
+many such other, that are much occupied 
+in phisicke and philosophy, and in other 
+both liberall and mathematical sciences. 
+Wherfore I wishe, to the ende that the 
+booke may be in dede as it is called: that 
+one learned phisition &#38; philosopher like 
+vnto Linaker, one olde and learned gr<expan type="">an</expan>marian like vnto Clemond, and one 
+perfite Englishman like vnto Sir Tho&#173;
+mas Moore, had the amendment and 
+making perfite of this booke commited 
+vnto them. But now as Terence sayeth, 
+<term lang="la">quoniam hac n<expan type="">on</expan> successit, alia aggre&#173;
+diendum est via</term>. Galen in the first of 
+his bookes that he writeth of the powers
+
+
+
+</page>
+
+<page sig="d5v">
+of simple medicines sayth. Cap. 39. If any 
+man doe taste quinces or apples, or med&#173;
+lers, or mirtels, doubtlesse he shall know 
+that there is an other feeling that is mo&#173;
+ued vnto vs of these things in <expan type="">the</expan>  tongue, 
+and another of bodies <term lang="la">astringentibus</term>, 
+that is, that are onely binding, for those 
+things that are binding, appeare to driue 
+inwarde that part of vs that they touche 
+in al places equally or in like, as pulling, 
+stopping, as drawing togither. But <term lang="la">au&#173;
+stera</term> seeme to goe downe euen vnto the 
+bottome, and to moue a rough and vn&#173;
+equal feeling and drying vp and wasting 
+all the moisture of feeling bodies. Fur&#173;
+thermore when as that bodie which is 
+moued vnto our tongue doth mightilye 
+drie and draw togither, and maketh it 
+rough euen to the bottome, as choke 
+peares that are not ripe, and cornelles, 
+euerye such is called <term lang="la">acerbum</term>, differing 
+from <term lang="la">austero</term> in the excesse of these qua&#173;
+lities. That is to say, <term lang="la">austerum</term> in many 
+things is like vnto <term lang="la">acerbo</term>, but <term lang="la">acerbum</term> 
+is in all those things wherein they are 
+something like, much stronger and migh&#173;
+
+
+
+</page>
+
+<page sig="d6r">
+tier than <term lang="la">austerum</term> is: and Galen in an&#173;
+other place writeth, that astringent is 
+weaker than <term lang="la">acerbum</term> and <term lang="la">austerum</term>, in 
+all those properties that they haue anye 
+likenesse in. And Galen in <expan type="">the</expan> .ix. booke <term lang="la">de 
+simplicium medicamentorum facul&#173;
+tatibus</term>, sayeth that <term lang="la">adstringentia</term> draw 
+togither, bind togither, and do make thick 
+our substance, and therfore vpon what&#173;
+soeuer part of our bodie they be layde 
+without, by and by they make it full of 
+wrinkles, and draw togither. Further&#173;
+more after <expan type="">the</expan> doctrine of Galen, we may 
+perceiue in some kindes of peares, mar&#173;
+ked at diuerse times, <term lang="la">gustum acerbum, 
+austerum &#38; astringentem</term>. When the 
+peares are newly growen, if ye taste of 
+them at the first, ye shall perceyue that 
+they are harde and drie, and are verye 
+rough in taste, and then they are called 
+<term lang="la">acerba</term>, but after that they are more than 
+halfe ripe, when that hardnesse and dri&#173;
+nesse is gone, then become they moyster 
+and softer, and are in taste <term lang="la">austera</term>. And 
+when they are full ripe, they are <term lang="la">astrin&#173;
+gentia</term>, with a sweete taste ioyned ther&#173;
+
+
+
+</page>
+
+<page sig="d6v">
+with. By this discription, I trust wise 
+and learned men by taking of some paine 
+in reading of olde English writers shall 
+come by the knowledge of right and pro&#173;
+per English wordes for these .iij. Latin, 
+or els at the least I iudge that men shall 
+vnderstande what difference is betweene 
+<term lang="la">astringens, austerum</term> and <term lang="la">acerbum</term>. In 
+the meane time vntill that we may spede 
+better, we may english <term lang="la">astringens</term>, binding, <term lang="la">austerum</term>, soure bin&#173;
+ding, and <term lang="la">a&#173;
+cerbum</term>, rough and binding like choke 
+peares. And Galen <term lang="la">lib. 1. simpl. medic. 
+facultatibus. cap. 39.</term> and in diuerse o&#173;
+ther places maketh an open and plaine 
+difference betweene <term lang="la">acre</term> and <term lang="la">acidum</term>, 
+contrarie to it that is alleaged of Vitru&#173;
+uius, who maketh them both one. For 
+Galen sayeth, that <term lang="la">acria</term> are <term lang="la">calida</term>, and 
+that <term lang="la">acida</term> are cold.
+
+<term lang="la">Acer</term> may be Englished biting sharp, 
+and <term lang="la">acidum</term> may be named soure as sor&#173;
+rell, and soure milke, and diuers other 
+things. Aetius writeth, that wine that 
+is soure with an harrish binding, so that 
+it be well smelling withall, hurteth the
+
+
+
+</page>
+
+<page sig="d7r">
+head, but it which is waterishe, neither 
+breedeth the headach, neither hurteth the 
+sinewes. Galen also sayth that soure bin&#173;
+ding wines stoppe flowings, and streng&#173;
+then the stomach, and hurt not the head, 
+but that they helpe not them that are 
+fallen into a swounde.
+
+Wines that are rough and binding in 
+taste like vnto choke peares, stop vomi&#173;
+tings and flowings of the belly, and they 
+coole and drie. Moreouer they goe hardlye 
+downe, when as those things that are 
+only of a soure taste, go easily downe.
+
+I haue learned by experience (sayeth 
+Galen) that all those things that binde, 
+and are also soure, are manifestly cold.
+
+Simeon Sethi sayeth, wines that are 
+a little and gently binding, &#38; are in color
+red, and in substance thin, are good for 
+them that are of a good and a meane com&#173;
+plexion and temperature. But they are 
+of a good complexion and of a mean tem&#173;
+perature that are neither to hote nor to 
+colde, neither to moyst nor to drie, of the 
+which sort I weene we shall finde as few 
+at this time almost, as we shalbe able to
+
+
+
+</page>
+
+<page sig="d7v">
+finde citizens of Platoes common welth 
+in euery parish of England. And Galen 
+a man of more authoritie than Simeon 
+Sethi is of, writeth in the booke of good 
+and euill iuices, that as fierie red wines, 
+for asmuch as they are hote in working, 
+by and by fill the heade, euen so those 
+wines that are thin and waterishe, and 
+doe lightly bind, not only are not vnnoy&#173;
+some vnto the head, but also take awaye 
+small headaches, and he saith afterward, 
+all wines that are binding, are comfort&#173;
+able for the stomache, and that such as 
+are soure and colde, be of subtill partes, 
+but they that are binding, are of grosse 
+parts <term lang="la">de simplie. med. facultatib. lib. 
+4. cap. 2.</term>
+
+Whatsoeuer things are sweete, cannot 
+be colde, therfore sweete wines are of an 
+hote complexion: and Dioscorides sayth, 
+sweete wines hath grosse partes in it, 
+and doth breath out of the bodie more 
+hardlye, it filleth the stomache full of 
+winde, it troubleth the bellye, and the 
+guttes as Must doth, but it maketh not 
+a man so sone drunken, but it is most fit
+
+
+
+</page>
+
+<page sig="d8r">
+of all other for the kidneys &#38; the bladder.</xpln></wordentry>
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="f2v">
+<wordgroup1 type="t" object="Triacle"><alpha></alpha>
+<heading>Of the Triacle Salt.</heading>
+
+<wordentry type="h"><form lang="en" lexeme="treacle(n)" lexeme="salt(a)">THe Triacle Salt</form> <xpln lang="en">is a medicinall 
+Salt, made of diuers excellent 
+herbes, and of burnt Salt and 
+burnt Vipers, or else of the tro&#173;
+chiskes of Vipers being burnt. And the 
+composition of this Salt, is found both 
+in Galen and also in A&#235;tius. </xpln></wordentry>
+
+
+
+</page>
+
+<page sig="f5v">
+<wordentry type="h"><form lang="en" lexeme="suffusion(n)">Suffusion</form> <xpln lang="en">is 
+the running 
+of a noisome 
+humor in 
+the eye 
+which if it 
+be not stop&#173;
+ped, engen&#173;
+dreth haw
+and pearle
+in the eye,
+and some 
+names his
+disease <term lang="la">Ca&#173;
+taracta.</term>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">And I haue driuen away 
+the disease of vnsatiable hunger,</form> <xpln lang="en" lexeme="salt(n)">which 
+is called in greke <term lang="gkt">Bulimos</term>, <expan type="">with</expan> this salt:</xpln></wordentry>
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="g1v">
+
+<wordgroup1 type="t" object="Diseases Healed by Theriaca Andromachi"><alpha></alpha>
+<heading>THE NAMES OF DIS&#173;
+eases and griefes that maye be healed
+by the great Triacle, called <term lang="la">Theria&#173;
+ca Andromachi</term>, as Galen wri&#173;
+teth in his booke vn&#173;
+to Piso.</heading>
+
+<wordentry type="h"><form lang="en" lexeme="biting(n)">THE biting of all venemous
+beasts and serpents.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poison(n)">All kinde of poysons and poyse&#173;
+ned drinkes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stomach(n)">The diseases of the stomach.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shortness(n)" lexeme="wind(n)">Shortnesse of winde.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colic(n)">The Colicke.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jaundice(n)" lexeme="gulesought(n)">The Iaundise or Guelesought.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dropsy(n)">The Dropsey.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consumption(n)" lexeme="phthisic(n)">The consumption of <expan type="">the</expan> Lungs or ptisick.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cramp(n)" lexeme="sinew(n)" lexeme="shrinking(n)" lexeme="drawing(n)" lexeme="together(adv)">All kinde of Cramps, or drawings togi&#173;
+ther, or shrinking of sinewes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pleurisy(n)" lexeme="ague(n)" lexeme="side(n)" lexeme="stitch(n)" lexeme="spitting(n)" lexeme="blood(n)" lexeme="ulceration(n)">The pleuresey or side ague with a stitch,
+and spitting of bloud, and vlcerations.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sore(n)" lexeme="bladder(n)">Sores of the bladder.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="water(n)" lexeme="urine(n)">Stopping of water or vrine.</form> <xpln lang="en"></xpln></wordentry>
+
+
+
+</page>
+
+<page sig="g2r">
+<wordentry type="h"><form lang="en" lexeme="pain(n)" lexeme="kidney(n)">Paines of the Kidneyes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pestilence(n)" lexeme="pestilent(a)">Pestilence, and pestilent diseases.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="biting(n)" lexeme="mad(a)" lexeme="dog(n)">The biting of a mad dog.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="old(a)" lexeme="headache(n)">Olde headakes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dizziness(n)" lexeme="head(n)">Disinesse of the head.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hardness(n)" lexeme="hearing(n)">Hardnesse of hearing.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dullness(n)" lexeme="eyesight(n)">The dulnesse of the eye sight.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="falling(a)" lexeme="sickness(n)">The falling sicknesse.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vomiting(n)" lexeme="blood(n)">Vomiting of bloud.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="worm(n)" lexeme="gut(n)">Wormes in the guttes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liver(n)">The diseases of the Liuer.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milt(n)">The diseases of the Milt.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bloody(a)" lexeme="flux(n)">The bloudie flix.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(a)" lexeme="flux(n)">The common flix.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turning(a)" lexeme="torment(n)" lexeme="gut(n)">The turning tormentes of the guttes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wasting(n)" lexeme="sweating(n)">Wasting away with to much sweating.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="woman(n)" lexeme="monthly(a)" lexeme="sickness(n)">The stopping of womens monthly sick&#173;
+nesse.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="mother(n)">The stopping of the mother.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="emerods(n)">The stopping of the Emrodes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="superfluous(a)" lexeme="flowing(n)" lexeme="body(n)">All superfluous flowings of the body.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="joint(n)">All diseases of the ioyntes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poisoning(n)" lexeme="falling(n)" lexeme="perilous(a)">Poysoning, and falling to perillous dis&#173;
+eases.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leper(n)">The common Lepre called <term lang="la">Elephantia&#173;
+sis</term>.</form> <xpln lang="en"></xpln></wordentry>
+
+
+
+</page>
+
+<page sig="g2v">
+<wordentry type="h"><form lang="en" lexeme="melancholy(n)">The disease of the minde that came of
+melancholye.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melancholic(a)">All melancholicke diseases.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plenty(n)" lexeme="choler(n)">Plentie of choler: </form> <xpln lang="en">called melancholy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quartain(a)" lexeme="ague(n)">The quartaine ague.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fear(n)" lexeme="biting(n)" lexeme="water(n)" lexeme="mad(a)" lexeme="dog(n)">The feare of water after the biting of a 
+mad dog.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="weakness(n)" lexeme="wit(n)" lexeme="sense(n)">The weakenesse of the wittes or senses.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Diseases Healed by Triacle Salt"><alpha></alpha>
+<heading>THE NAMES OF THE
+diseases and griefes that maye be hea&#173;
+led by the Triacle Salt: according 
+vnto the learning of Ga&#173;
+len and A&#235;tius.</heading>
+
+<wordentry type="h"><form lang="en" lexeme="skin(n)">All the diseases of the skin, but
+chiefly those that follow.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white(a)" lexeme="morphew(n)">THe white Morphew.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leper(n)">The Lepre of the Grecians and 
+scripture.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild(a)" lexeme="scurf(n)">The wilde scurfe.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(a)" lexeme="leper(n)">The common Lepre,</form> <xpln lang="en">called in Latin <term lang="la">E&#173;
+lephantiasis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black(a)" lexeme="morphew(n)">The blacke morphew.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild(a)" lexeme="scab(n)">Wilde scabbes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="falling(n)" lexeme="hair(n)">The falling of the heare.</form> <xpln lang="en"></xpln></wordentry>
+
+
+
+</page>
+
+<page sig="g3r">
+<wordentry type="h"><form lang="en" lexeme="thinness(n)" lexeme="hair(n)">Thinnesse of the heares.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="sweat(n)">Stopping of sweate.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="overmuch(a)" lexeme="plenty(n)" lexeme="phlegmatic(a)" lexeme="excrement(n)">Ouermuch plentie of flegmaticke excre&#173;
+ments.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lack(n)" lexeme="digestion(n)">Lacke of digestion.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lack(n)" lexeme="appetite(n)">Lacke of appetite.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dullness(n)" lexeme="sense(n)" lexeme="wit(n)">Dulnesse of senses or wittes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suffusion(n)" lexeme="breed(v)" lexeme="haw(n)" lexeme="pearl(n)" lexeme="eye(n)">Suffusions that breede the hawe, and
+pearle in the eye,</form> <xpln lang="en">called of some <term lang="la">Cata&#173;
+racta</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="venomous(a)">Stopping of venemous diseases.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="outrageous(a)" lexeme="flowing(n)">The outragious flowing of venemous
+diseases.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="biting(n)" lexeme="venomous(n)">The biting of venemous beasts and ser&#173;
+pentes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pestilence(n)" lexeme="contagious(a)" lexeme="air(n)">The pestilence and contagious aire.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kidney(n)">The disease of the kidneyes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="debility(n)" lexeme="weakness(n)" lexeme="kidney(n)">The debilitie and weakenesse of the kid&#173;
+neys.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="headache(n)">Olde headaches.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="falling(a)" lexeme="sickness(n)">The falling sicknesse.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jaundice(n)">Olde Iaundise.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milt(n)">The diseases of the Milt.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colic(n)">The Colicke.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dropsy(n)">The dropsey.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="unsatiable(a)" lexeme="hunger(n)">The vnsatiable hunger</form> <xpln lang="en">called <term lang="la">Bulimos</term>.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="g3v">
+<wordentry type="h"><form lang="en" lexeme="cold(n)" lexeme="weather(n)">The cold <expan type="">that</expan> a m<expan type="">an</expan> taketh in cold weather.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shaking(n)" lexeme="trembling(n)" lexeme="ague(n)">Shakings and tremblings, that come
+before agues.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consumption(n)" lexeme="phthisic(n)" lexeme="wasting(n)" lexeme="body(n)">Consumptions, Ptisicks, and wastings
+of the bodye.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palsy(n)" lexeme="weakness(n)" lexeme="joint(n)" lexeme="member(n)">The Palsie and weaknesse of the ioints,
+and other members.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gout(n)">The Goute.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="joint(n)">All diseases of the ioyntes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quartain(n)">Olde quartaines.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="doting(n)" lexeme="madness(n)" lexeme="melancholy(n)">Dotings, and madnesse that come of me&#173;
+lancholie.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="worm(n)" lexeme="breed(n)">All kinde of wormes that breede within
+a man.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rotting(a)" lexeme="tooth(n)">The rotting &#38; other diseases of the teeth.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rheumatic(a)" lexeme="humour(n)" lexeme="head(n)">Rheumaticke humors in the head.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)">Certaine diseases of the eyes.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="g4r">
+<heading>THE NAMES OF THE
+diseases that may be healed by the no&#173;
+ble preseruatiue medicine called <term lang="la">Mi&#173;
+thridatium</term>, as Galen and A&#235;tius and all
+other learned Phisitions, that wrote
+after them of such matter, do
+beare witnesse in their
+writings.</heading>
+
+<wordgroup1 type="t" object="Diseases Healed by Mithridatium"><alpha></alpha>
+<wordentry type="h"><form lang="en" lexeme="stopping(n)" lexeme="liver(n)">THe stopping of the Liuer.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rheum(n)" lexeme="flowing(n)" lexeme="stomach(n)" lexeme="breast(n)">Olde reumes flowing downe
+into the stomacke and brest.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="impostume(n)">Impostumes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deep(a)" lexeme="ulceration(n)" lexeme="scraping(n)" lexeme="skin(n)">Deepe Vlcerations, and of scraping of the 
+skin that are farre in the body.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consumption(n)" lexeme="phthisic(n)">Consumptions and Ptisicks.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="windiness(n)">Windynesse in the body.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(a)" lexeme="flux(n)">The common flixe.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dull(a)" lexeme="appetite(n)">The dull appetite.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evil(a)" lexeme="favoured(a)" lexeme="colour(n)" lexeme="face(n)">Euill fauored color of the face and other
+places of the body.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone(n)">The stone.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hardness(n)" lexeme="painfulness(n)" lexeme="making(n)" lexeme="water(n)">Hardnesse and painefulnesse in making
+of water.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gathering(n)" lexeme="melancholy(n)">Gathering togither of melancholy.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dullness(n)" lexeme="eyesight(n)">Dulnesse of the eye sight.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deadly(a)" lexeme="poison(n)">All deadly poyson.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<term lang="la">FINIS.</term>
+
+</page>
+</leme>

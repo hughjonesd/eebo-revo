@@ -1,0 +1,3558 @@
+<leme no="58">
+<page no="&#x271a;1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 4 7 2 0
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="titlepage">
+The most excel&#173;
+lent workes of Chirurgerye,
+made and set forth by maister 
+Iohn Vigon, heed Chirur&#173;
+gi<expan type="">en</expan> of our tyme in Italie, 
+translated into english. 
+Whereunto is added 
+an exposition of 
+straunge ter&#173;
+mes and 
+vn&#173;
+knowen symples, be&#173;
+longyng to the 
+arte.
+
+&#182; Imprynted by Edware Whyt&#173;
+church, wyth the Kynges moste
+gratious priuelege for
+seuen yeares.
+
+CVM PRIVILEGIO.
+Ad imprimendum
+solum.
+
+1543.
+</section>
+
+
+
+
+
+</page>
+
+<page sig="zz1r">
+
+<section type="dictionary">
+<heading>
+The interpreta<emend err="">&#173;</emend>
+tion of straunge wordes, 
+vsed in the <emend err="traslation">translation</emend>
+of Vigon.
+</heading>
+
+<wordgroup1 type="a" object="A">
+<wordentry type="h"><form lang="la" lexeme="abietis(n)">ABietis. </form> <xpln lang="en" lexeme="fir(n)" lexeme="resin(n)" lexeme="sapin(n)" lexeme="tree(n)" lexeme="date(n)" lexeme="fir-tree(n)">Vigo 
+in one of .ii. re&#173;
+ceytes, c<expan type="">om</expan>ma<expan type="">un</expan>
+deth to take of
+abietis. z.ii. &#38; s 
+where he mea<emend err="">&#173;</emend>
+neth the rasyn 
+of the fyrre, or 
+sapyne tree.
+I haue red also, that the apotecaries
+call <term lang="la">palmam Elat<expan type="">en</expan></term>, wherof, the oyle
+called <term lang="la">ole<expan type="">um</expan> elatin<expan type="">um</expan></term> is made, <term lang="la">palm<expan type="">am</expan> a&#173;
+biet<expan type="">em</expan>. Palma</term> is a date tree, &#38; <term lang="la">abies</term> a
+fyr tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aborcement(n)">Aborcement</form> <xpln lang="en" lexeme="aborcement(n)">
+Aborcement, is when a chylde is
+borne out of season. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="abstersive(a)">Abstersiue</form> <xpln lang="en" lexeme="scour(v)">
+Abstersiue is that, which hath po&#173;
+wer to scoure. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="acacia(n)">Acacia. </form> <xpln lang="en" lexeme="gum arabic(n)" lexeme="sloe(n)">
+Acacia is a thornie tree growyng 
+in Egipt, which hathe a whyte seede
+cloosed in coddes, whereout a medi&#173;
+cenal iuce is pressed. And there issueth
+also a g<expan type="">um</expan>me out of this tree, c<expan type="">om</expan>menly
+called g<expan type="">um</expan>me arabike: howebeit in the
+stede of true acacia, they commenlye
+vse the iuce of sloes. And therfore we
+haue so translated it sometymes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accident(n)">Accidentes. </form> <xpln lang="en" lexeme="vehement(a)" lexeme="aposteme(n)">
+An accident is that, that maye be in
+a thyng, and away fr<expan type="">om</expan> the sayd thing
+the selfe same thing remaynyng styll
+vndistroyed. As vehem<expan type="">en</expan>t payne may
+be an aposteme, or from it, withoute
+remouynge of the aposteme. It soun&#173;
+deth worde for word, chaunsyng to. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="acetositas citri(n)">Acetositas citri. </form> <xpln lang="en" lexeme="orange(n)" lexeme="citron(n)" lexeme="juice(n)" lexeme="pome(n)">
+I dyd translate it ones or twyse,
+the soure iuce of an orenge: howebeit
+the apothecaries make this syrupe <expan type="">with</expan>
+the iuce of a citron (as they haue she&#173;
+wed me) Natheles Fuchsius techeth
+that they ben both of lyke vertue and
+effect. And Io. Agricola sayth <expan type="">that</expan> citr<expan type="">on</expan>
+signifyeth an orenge, and also a lim<expan type="">on</expan>.
+And bycause this name is doutfull, I
+leue it to thy iudgem<expan type="">en</expan>t, good reader,
+whether thou wylt (when thou fyn&#173;
+dest the ryndes of a cytron, or <expan type="">the</expan> iuce)
+vnderstand an or<expan type="">en</expan>ge or a pome citr<expan type="">on</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="acorus(n)">Acorus. </form> <xpln lang="en" lexeme="wild(a)" lexeme="floure-de-lyce(n)" lexeme="galingale(n)">
+Br<expan type="">un</expan>felsus calleth acor<expan type="">um</expan> wild flour
+delyse.  Mainarde sayth, that he was
+wont to vse <term lang="la">calamus aromaticus</term> in
+the stede of acorus. Some take it for 
+galingale. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adjutory(n)">Adiutorie. </form> <xpln lang="en">
+They call the two bones which ex&#173;
+tende from the shulders vnto the el&#173;
+bowes, <term lang="la">ossa adiutoria</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aematites. </form> <xpln lang="en" lexeme="haematite(n)">
+Hematites is a precious stone, and
+hath his name of bloody colour. For
+<term lang="gk">Hema</term> in Greke signifyeth bloode. It
+hath strength to heate, to thynne, and
+to scoure, and it is vsyd in medicines
+for the eyes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="agaric(n)">Agarike. </form> <xpln lang="en" lexeme="agaric(n)">
+Some say, that Agaric<expan type="">um</expan> is a rote,
+and some affirme, that it <emend err="growtth">groweth</emend> to
+trees lyke todestooles. It is founde
+in wylde places of Sarmatia, and al
+so in Galatia, and Cilitia, and it dry&#173;
+ueth out fleame and cholere, but not
+spedely. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="agrippa(n)">Agrippa. </form> <xpln lang="en" lexeme="ointment(n)">
+<term lang="la">Agrippa</term> is an oyntment descrybed
+in <term lang="la">Galenes antidotari</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="albugineus(n)">Albugineus. </form> <xpln lang="en" lexeme="pertain(v)">
+<term lang="la">Albugineus</term> is that, that pertay&#173;
+<emend err="heth">neth</emend> to the whyte of the eye. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alcohol(n)">Alchohol. </form> <xpln lang="en" lexeme="alcofol(n)">
+The barbarous auctours vse al&#173;
+chohol, or (as I fynde it sometymes
+wryten) alcofoll, for moost fyne pou&#173;
+dre. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="alchachinga(n)">Alchachinga. </form> <xpln lang="en" lexeme="nightshade(n)">
+<term lang="la">Alchachinga</term> is taken for the sec<expan type="">on</expan>d
+kynde of nyghtshade. Plinnie calleth
+it <term lang="la">halicacabum</term>. </xpln></wordentry>
+
+
+</page>
+
+<page sig="zz1v">
+<wordentry type="h"><form lang="en" lexeme="alleluia(n)">Alleluya. </form> <xpln lang="en" lexeme="three leafed(a)">
+They vse thys worde, Allelu&#173;
+ya, for a kynde of thre leaued grasse,
+which is soure in taste. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="almocatim(n)">Almocatim. </form> <xpln lang="en" lexeme="barbarous(a)" lexeme="nether(a)">
+The barbarous wryters calle the
+nether bones of the heed <term lang="la">Almocatim</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aloe(n)">Aloes. </form> <xpln lang="en" lexeme="succotrine(a)" lexeme="succocitrine(n)" lexeme="caballine(n)">
+Aloe is the liquour of an herbe,
+brought vnto vs out of India. Som
+affirme, that the maner of makyng it
+is this. They st<expan type="">am</expan>pe the herbe, &#38; draw
+out the slymye iuyce, and lay it to the
+fyre, tyll it boyle, and than they set it
+a sunnynge, tyll it be drye. And that,
+that is purest, they call succotrine, or
+succocitrine, that which is in the mid<emend err="">&#173;</emend>
+dell, beinge lesse pure, hepaticke, and
+fynally that which synketh to the bo&#173;
+tome, and is as it were the dregges,
+they call Cabaline. Aloe is bytter in
+taste, and of an hote and drye comple<emend err="">&#173;</emend>
+xion. It purgeth choler, and comfor&#173;
+teth the stomacke, and is moreouer
+of greate effect in woundes. </xpln>
+<lemenote>
+"succocitrine" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="althea(n)">Althea. </form> <xpln lang="en" lexeme="wild(a)" lexeme="mallow(n)" lexeme="marshmallow(n)" lexeme="hollyhock(n)">
+Dioscorides wrytteth, that Al&#173;
+thea is a kynde of wylde mallowes,
+hauynge rounde leaues, and floures
+lyke roses, it is commenlye taken for
+holyhocke, and so I haue euer tran&#173;
+slated it. Howbeit the chirurgyens be<emend err="">&#173;</emend>
+yonde the see, vse marche mallowes
+for Althea. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="alumen zuccarinum(n)">Alumen zuccarin<expan type="">um</expan>.</form> <xpln lang="en" lexeme="alum(n)" lexeme="roche alum(n)">
+There bene manye kyndes of Alu&#173;
+mes: But thre bene mooste knowen,
+which they c<expan type="">om</expan>munely call, <term lang="la">Iamen<expan type="">um</expan>,
+zuccharinum</term>, or <term lang="la">rotundum</term>, and roch
+alume. Alume hath vertue to bynde,
+and therfore it is called <term lang="gkt">Stipteria</term> in
+Greke, and it is moreouer abstersyue,
+or scourynge. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ambrosine(n)">Ambrosine. </form> <xpln lang="en" lexeme="wild(a)" lexeme="sage(n)" lexeme="ambrosia(n)">
+Ambrosia is communelye taken
+for wylde sage. </xpln>
+<lemenote>
+"ambrosia" antedates the earliest OED citation of the herb associated with sage (1597).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ameos(n)">Ameos. </form> <xpln lang="en" lexeme="chervil(n)">Ameos. Ammi, in the genetiue case,
+Ammeos is a whyte seede, hote, and
+drye in the thyrde degre. It groweth
+by the cytie of Egypte called Alexan<emend err="">&#173;</emend>
+dria. In stede of this herbe, some vse
+the seed of cheruel. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="amygdal(n)">Amygdale. </form> <xpln lang="en" lexeme="almond(n)">
+At the roote of the tonge, there
+bene (as it were) two flesshye kernel&#173;
+les, lyke sponges, called in Greke <term lang="gkt">pa&#173;
+risthmia</term>, in latyne <term lang="la">tonsille</term>, and of the
+later doctours amygdale, that is al&#173;
+mondes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="amydum(n)">Amydum. </form> <xpln lang="en">
+They corruptly vse this worde <term lang="la">A&#173;
+myd<expan type="">um</expan></term>, for that, that is called in greke
+<term lang="gkt">Amylon</term>, and it is the iuyce or mylke
+of wheate steeped in water certayne
+dayes, and afterwarde pressed. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anthera(n)">Anthera. </form> <xpln lang="en" lexeme="rose(n)" lexeme="composition(n)" lexeme="disease(n)">
+Though Vigon thynketh <term lang="la">An&#173;
+theram</term> to be the yollowe in the myd&#173;
+dest of a rose, yet Cornelius Celsus,
+sayeth that it is a composition for the
+diseases of the mouthe, wherein ro&#173;
+ses entre. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Anotamie. </form> <xpln lang="en"  lexeme="anatomy(n)">
+<term lang="gkt">Anotamie</term> is a Greke worde, and
+sygnifyeth the cuttynge vp of a mans
+bodye, or of some other thing. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="anacardinum mel(n)">Anacardinum mel. </form> <xpln lang="en"  lexeme="anacardine(n)" lexeme="honey(n)">
+They call the iuyce of <term lang="la">anacardus</term>
+honye anacardine. And whan they
+saye, that <term lang="la">anacardus</term> is the frute of
+a tree called <term lang="la">Pediculus Eliphantis</term>,
+whych groweth in Sicilia, and Apu<emend err="">&#173;</emend>
+lia. The honye or <emend err="inyce">iuyce</emend> of this frute,
+burneth bloode, and rooteth vp war&#173;
+tes. </xpln>
+<lemenote>
+"anacardine" antedates the earliest OED citation (1585).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="animal spirit(n)">Animall spirites. </form> <xpln lang="en" lexeme="vital(a)">
+Resorte to vitall spirites. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="anodyne(n)">Anodine. </form> <xpln lang="en" lexeme="anodina(n)">
+Thynges whiche are wythout
+grefe, are caled in Greke, <term lang="gkt">anodina</term>.
+Howbeit, Vigon vseth the word for
+thynges that remoue payne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antecedent(a)">Antecedent. </form> <xpln lang="en" lexeme="going(n)" lexeme="before(adv)">
+
+
+</page>
+
+<page sig="zz2r">
+Antecedent. Goynge before. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antidote(n)">Antidota. </form> <xpln lang="en" lexeme="antidotary(n)">
+Antidota are medicines to be recey&#173;
+ued within the bodye. whereof there
+bene thre dyfferences. For some are
+gyuen agaynst poyson, some agaynst
+the styngyng of venemous beastes,
+or serpentes: and some heale diseases
+gathered of corrupt meates, and drin<emend err="">&#173;</emend>
+kes. They call a boke wherein suche
+medicynes are descrybed an antido&#173;
+tarie. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anthos(n)">Anthos. </form> <xpln lang="en" lexeme="rosemary(n)">
+<term lang="gkt">Anthos</term> in Greke, sygnifyeth a
+floure, howbeit, it is c<expan type="">om</expan>munely vsed,
+for the floures of rosemarye. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="antimonium(n)">Antimonium</form> <xpln lang="en" lexeme="collyrie(n)">
+<term lang="la">Antimoni<expan type="">um</expan></term> is a veyne of the earth
+lyke leade, howbeit, it hath this diffe&#173;
+rence from a metal. A metal melteth,
+<term lang="la">Antimonium</term> is brayed, and wyll be
+burnt rather than molten, it is colde,
+and drye in the thyrde degree. And it
+is put in colliries for the eyes. &#38;c. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anthrax(n)">Anthrax. </form> <xpln lang="en" lexeme="coal(n)">
+Anthrax is engendred when grosse
+and boylyng blood, leanyng to some
+part of the body, burneth the skynne.
+For <term lang="gkt">Anthrax</term> in Greke, sygnifyeth a
+coole: and for the same cause it is cal&#173;
+led <term lang="la">carbunculus</term> in latyne, which is a
+diminitiue of <term lang="la">carbo</term>, a coole. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="apium risus(n)">Apium risus. </form> <xpln lang="en" lexeme="crowfoot(n)" lexeme="betrachion(n)" lexeme="ranunculus(n)" lexeme="apium raninum(n)">
+<term lang="la">Apium risus</term> is taken from Batro&#173;
+chion, whiche is thought to be crow&#173;
+fote, &#38; it is called <term lang="la">Betrachi<expan type="">on</expan></term>, or ran<expan type="">un</expan>
+culus, bicause frogges delite therin.
+And therfore the later auctours cal
+it <term lang="la">api<expan type="">um</expan> ranin<expan type="">um</expan></term>. And they say that it is
+called <term lang="la">apium risus</term>, bycause the man
+that eateth therof, dyeth laughynge.
+For <term lang="la">risus</term> signifieth laughing. which
+auctours assigne to that, that grow&#173;
+eth in Sardinia. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aphorism(n)">Aphorisme. </form> <xpln lang="en" lexeme="distinction(n)">
+<term lang="la">Aphorismus</term> signifieth a distincti<expan type="">on</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aposteme(n)">Aposteme. </form> <xpln lang="en" lexeme="passion(n)">
+Aposteme is a passion wherein the
+thynges are sondred, whiche before
+were ioyned togyther. wherfore ther
+remayneth an emptye space, whyche
+receyueth a wyndye or moyste sub&#173;
+staunce, or bothe. And the sayde sub&#173;
+staunce fretteth the partes about, ma<emend err="">&#173;</emend>
+kynde roume for hym selfe. In latyne
+it is called <term lang="la">abcessus</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="aqua gariofilata(n)">Aqua gariofilata. </form> <xpln lang="en" lexeme="clove(n)" lexeme="water(n)" lexeme="gillyflower(n)" lexeme="avens(n)">
+<term lang="la">Aqua gariofilata</term> is the water of
+cloues: as it appeareth in the fourthe
+boke of abridgementes. Howbeit, by
+cause gariofilata is commenly taken
+for ieloflours, for that, that they haue
+the odour of cloues called gariophili
+I thynke I dyd translate it ones, the
+water of iellyflours. Here ye shal note
+that though gariofillata be commen&#173;
+lye taken for iellofloures, yet other
+well lerned men thinke it to be Au<expan type="">en</expan>s,
+and so perchaunce I haue translated
+it sometymes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="armoniac(n)">Armoniake. </form> <xpln lang="en" lexeme="ammoniacum(n)" lexeme="ammos(n)" lexeme="sand(n)" lexeme="agafillis(n)" lexeme="salt(n)">
+Dioscorides, calleth that, that
+Vigon calleth armoniake, <term lang="la">ammonia&#173;
+cum</term>, of ammos, whyche sygnifyeth
+sande. For it is the lyquour of a shrub
+in Aphrica, called <term lang="la">agafyllis</term>, whyche
+falleth vpon sande, and so is found in
+clottes. <term lang="la">Ammoniacum</term> also is a kinde
+of salte founde vnder sande. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="arcula puerorum(n)">Arcula puerorum. </form> <xpln lang="en" lexeme="blistering(n)">
+<term lang="la">Arcula pueror<expan type="">um</expan></term>. The later wryters
+of chirurgeri, vsing an arabike terme
+call the blysterynges, which through
+corrupt mylke, happen in the roofe of
+chylderens mouthes, <term lang="la">Alcol<expan type="">am</expan></term>. Yf this
+be not the disease whiche Vigon cal&#173;
+leth <term lang="la">arcul<expan type="">am</expan></term>. I <emend err="canlerne ">can lerne</emend> of nom<expan type="">an</expan> what
+it shulde be. </xpln>
+<lemenote>
+"blystertynges" antedates the earliest OED citation (1563).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aristolochia(n)">Aristologia. </form> <xpln lang="en" lexeme="second(n)" lexeme="labour(n)" lexeme="expulsion(n)" lexeme="rape(n)">
+Aristolochia hathe his name of <expan type="">that</expan>, <expan type="">that</expan> 
+it helpeth greatly women in labour,
+for the expulsyon of the secondes.
+There bene two kyndes hereof, the
+male, and the female. The male is
+called longe, the female, rounde.
+
+
+
+</page>
+
+<page sig="zz2v">
+The roote of the Female is rounde,
+lyke a rape, but the male is an ynche
+thycke, and a span longe. Wyllyam
+Turner a man (besydes his other ler<emend err="">&#173;</emend>
+ning, of excell<expan type="">en</expan>t knowlege in herbes)
+shewed me that he founde this herbe
+in Italye with a frute fassyoned lyke
+a pere: And he gaue me seedes to set,
+howbeit, they prospered not. </xpln>
+<lemenote>
+The term "seconds" in this sense appears not to be in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aromatic(a)">Aromatike. </form> <xpln lang="en">
+<term lang="la">Aromata</term> be spyces of good odour.
+Aromatike is that, that hath the na&#173;
+ture and qualitie of good spyces. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="arsenic(n)">Arsenyke. </form> <xpln lang="en">
+<term lang="gkt">Arsenicon</term> is a greke worde, and is called in latyne <term lang="la">auripigm<expan type="">en</expan>t<expan type="">um</expan></term>, bicause
+it hath the colour of golde. And it is
+digged oute of mynes, and hath ver&#173;
+tue to gnawe, to bynde, to represse.
+It rayseth bladders lyke fyre, and fy&#173;
+nally it roteth vp heeres, and causeth
+baldnesse. Vigon vseth arsenike, and
+<term lang="la">auripigment<expan type="">um</expan></term> for .ii. thinges: whiche
+difference I fynde not in lerned aun&#173;
+cient auctours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="aromaticum rosatum(n)">Aromaticum rosat<expan type="">um</expan>.</form> <xpln lang="en" lexeme="confection(n)" lexeme="saunder(n)" lexeme="cinnamon(n)" lexeme="rose(n)">
+<term lang="la">Aro. ro.</term> is a confection made of red
+roses, saunders, cinamone. &#38;c. to com<emend err="">&#173;</emend>
+forte the herte and the stomacke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Arthetica. </form> <xpln lang="en" lexeme="arthritis(n)" lexeme="podagra(n)" lexeme="sciatica(n)" lexeme="huckle-bone(n)">
+Arthritis is when there is weake&#173;
+nesse in all the ioyntes of the body, a
+noughty humour flowing to <expan type="">the</expan> same.
+It is caled podagra, whan the hu&#173;
+mour is in the feete, &#38; <term lang="la">chiragra</term> when
+it is in the handes, <term lang="la">Ischia dica</term> (or as
+they call it) sciatica, wh<expan type="">en</expan> it is about <expan type="">the</expan>
+huclebone, whiche is called <term lang="gkt">ischion</term> in
+Greke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="artery(n)">Arterie. </form> <xpln lang="en" lexeme="vein(n)">
+An arterie is the waye, passage, or
+conduyct of the natural spirites, as a
+veyne is the waye of bloode.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Asa. </form> <xpln lang="en" lexeme="gum(n)" lexeme="stinking(a)">
+<term lang="la">Asa fetida</term> is a stynkynge gumme,
+which heateth vehementlye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asparagus(n)">Asparage. </form> <xpln lang="en" lexeme="fennel(n)">
+Asparagus is an herbe ful of bra<expan type="">un</expan><emend err="">&#173;</emend>
+ches and longe leaues lyke fenell, his
+roote is greate, long, hauing a b<expan type="">un</expan>che.
+There bene two kyndes hereof. The
+garden asparage is a good meate for
+the stomake, and looseth the bellye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Assignatio. </form> <xpln lang="en" lexeme="assignation(n)" lexeme="appointing(n)">
+Assignati<expan type="">on</expan>: appoyntynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Assarum bacchar. </form> <xpln lang="en" lexeme="wild(a)" lexeme="spikenard(n)" lexeme="Our Lady(pn)" lexeme="glove(n)" lexeme="ivy(n)">
+Some cal <term lang="la">assar<expan type="">um</expan></term> wylde spikenarde.
+Some <term lang="la">Asar<expan type="">um</expan> bacchar</term>. It is an herbe
+of good odour, hauynge leaues lyke
+yuye, sauynge that they ben lesse, and
+rounder. The floure of this herbe is
+of purple colour, wherin there are see<emend err="">&#173;</emend>
+des lyke the stones of grapes. Thys
+herbe healeth and prouoketh vryne.
+Hermolaus Barbarus teacheth that
+there is a difference betwene <term lang="la">Asarum
+&#38; Bacchar</term>, though theyr vertues are
+lyke. Ruellius sayth that <term lang="la">Bacchar</term> is
+called in the countrie, our ladyes glo&#173;
+ues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="aspis(n)">Aspis. </form> <xpln lang="en" lexeme="serpent(n)">
+<term lang="la">Aspis</term> is a venemous serpente,
+whose styngyng bryngeth heuynesse
+of the heed, and slepynesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attractive(a)">Attractiue. </form> <xpln lang="en" lexeme="strength(n)" lexeme="draw(v)">
+That is called attractiue that hath
+strength to drawe to a place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attrition(n)">Attrition. </form> <xpln lang="en" lexeme="wearing(a)" lexeme="asunder(adv)">
+Attrition: wearynge asondre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="augmentation(n)">Augmentation. </form> <xpln lang="en" lexeme="increase(n)">
+<term lang="la">Augmentatio</term>. Encrease.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="atramentum minerale(n)">Atramentum minerale. </form> <xpln lang="en" lexeme="Roman(a)" lexeme="vitriol(n)">
+<term lang="la">Atrament<expan type="">um</expan> minerale</term>, or <term lang="la">metallic<expan type="">um</expan></term>
+groweth togyther in mynes of brasse
+and semeth to be of <expan type="">the</expan> nature of brasse
+It hath the same strength to burne,
+that vitriolle Romayne hath.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<wordentry type="h"><form lang="la" lexeme="borax(n)">Baurach. </form> <xpln lang="en" lexeme="nitrium(n)" lexeme="salt(n)">
+BAurach, is the fome of
+the salte, called nitrium.
+And therefore, it is cal&#173;
+led in Greke, <term lang="gkt">Aphroni&#173;
+trum</term>.</xpln></wordentry>
+
+
+</page>
+
+<page sig="zz3r">
+<wordentry type="h"><form lang="la">Baucia. </form> <xpln lang="en" lexeme="parsnip(n)">
+The later wryters cal <term lang="la">pastinac<expan type="">um</expan></term>,
+(that is, persnepes) <term lang="la">Bauciam</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bedeguar(n)">Bedeguar. </form> <xpln lang="en">
+Serapion teacheth, that bedeguar
+is that, that Dioscorides calleth <term lang="la">spi&#173;
+nam albam</term> which groweth in mo<expan type="">un</expan>&#173;
+taynes, and wooddye places, wyth
+rough, and pryckynge leaues, purple
+leaues, and an hollowe stalke, and
+whytysh in the toppe, wherof it hath
+a pryckye heed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bechichie(n)">Bechichie. </form> <xpln lang="en" lexeme="bechie(n)" lexeme="cough(n)">
+Bechichie, I thynke they wolde
+saye Bechie, that is agaynst <expan type="">the</expan> cough.
+For <term lang="gkt">Bechion</term> sygnifyeth the cough in
+Greke.</xpln>
+<lemenote>
+Neither "bechichie" nor "bechie" are in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ben(n)">Ben. </form> <xpln lang="en">
+Ben. Dioscorides calleth ben <term lang="gkt">bala&#173;
+non myrepsicam</term>, and the latynes <term lang="la">gl<expan type="">an</expan><emend err="">&#173;</emend>
+d<expan type="">em</expan> vnguentariam</term>. And the sayde au&#173;
+tour teacheth, that it is the frute of a 
+tree growynge in Ethiopia, Egypt,
+and Aphrica, about the bignesse of an
+hasel nutte, which frute being pressed
+sendeth out a liquour, which they vse
+in precyous oyntmentes.</xpln>
+<lemenote>
+"Ben" antedates the earliest OED citation (1559).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Biarbor. </form> <xpln lang="en" lexeme="viarbor(n)">
+Loke in <term lang="la">vitis alba</term>: for the Itali<expan type="">an</expan>s
+call <term lang="la">vitis alba</term>, <term lang="it">viarbor</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bdellium(n)">Bdelium. </form> <xpln lang="en" lexeme="liquor(n)">
+Bdelium is a lyquoure of a tree of
+Arabie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bisantia. </form> <xpln lang="en" lexeme="pandect(n)" lexeme="provoke(v)" lexeme="urine(n)">
+The pandectarie, sayth that <term lang="la">bizan<emend err="">&#173;</emend>
+tia</term> is the iuce of herbes <expan type="">that</expan> prouoke v&#173;
+ryne. </xpln>
+<lemenote>
+"pandectarie" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Blacce bisantie. </form> <xpln lang="en" lexeme="shell-fish(n)" lexeme="second(n)" lexeme="falling(a)" lexeme="sickness(n)">
+<term lang="la">Blattebis<expan type="">an</expan>tie</term> ben shel fyshes found
+in India in waters, by whiche spike<emend err="">&#173;</emend>
+narde groweth, &#38; they eate the spyke<emend err="">&#173;</emend>
+narde, and therfore haue a pleasaunt
+and aromaticke odoure. The smoke
+hereof draweth downe the secondes 
+of women, and the same rayseth th<expan type="">em</expan>
+vp, that haue the fallynge sycknesse.
+The latynes call then <term lang="la">vngues odo&#173;
+</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bole armoniac(n)">Bolearmenie. </form> <xpln lang="en" lexeme="red(a)" lexeme="earth(n)">
+Bolearmenie is a veyne of red erth
+founde in armenie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="borax(n)">Boras. </form> <xpln lang="en" lexeme="chrysocolla(n)" lexeme="glue(n)" lexeme="gold(n)">
+Boras, other wryte it borax, and
+Plinie sayth, that it is a lyquoure in
+pyttes, runnyng by a veyne of golde,
+and by the colde of wynter, it is har&#173;
+dened. It is called in greke <term lang="gkt">chrysocol&#173;
+la</term>, as if you wold saye, <expan type="">the</expan> glue of gold</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bozomus. </form> <xpln lang="en" lexeme="oat(n)">
+This worde Bozomus is found in
+no good auctour, that euer I chaun&#173;
+ced to see. <term lang="gkt">Bromus</term> in greke signifieth
+the corne which we call Otes, let the
+reader iudge, whether Vigon vse <term lang="la">bo&#173;
+zomus</term>, for <term lang="gkt">bromus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bruscus. </form> <xpln lang="en" lexeme="wild(a)" lexeme="myrt(n)" lexeme="litholme(n)" lexeme="gueholme(n)">
+Some thynke, that <term lang="la">Bruscus</term> is a
+wilde myrt. It hath leaues prycking
+in the ende, and a frute lyke cheryes.
+The latynes call it <term lang="la">ruscum</term>. In some
+places they make besommes of it, to
+swepe pauementes. I founde it En&#173;
+glysshed in an olde wrytten boke, li&#173;
+tholme. Some call it gueholme.</xpln>
+<lemenote>
+Neither  "litholme" nor "gueholme" appear to be in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bubon(n)">Bubon. </form> <xpln lang="en" lexeme="swelling(n)" lexeme="kernel(n)" lexeme="pestilence(n)" lexeme="flank(n)" lexeme="armhole(n)">
+Bubon is a swellynge in the ker<emend err="">&#173;</emend>
+nelles. In the pestilence it is wonte
+to appeare in the necke, in the flankes
+and vnder the armehooles.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="la" lexeme="gancrena(n)">GAncrena. </form> <xpln lang="en" lexeme="gangrene(n)">
+Gangrena is whan some parte of
+the body through gret
+infl<expan type="">am</expan>mation dieth, but
+is not yet perfitly deed
+when it is perfytelye
+deed, and without felynge: it is called
+<term lang="gkt">sphacelos</term> in Greke, whiche they haue
+turned to <term lang="gkt">ascachillos</term>, <term lang="la">sideratio</term> in la&#173;
+tyne. Some saye, that <term lang="la">gangrena</term>, is
+whan a membre is apte to putrefye.
+<term lang="gkt">Ascachillos</term>, when it is putrifyed, but
+hathe not al partes of putrefaction.
+<term lang="gkt">Esthiomenos</term>, when a membre hath
+all degrees of putrefaction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="camphor(n)">Camphore</form> <xpln lang="en" lexeme="camphora(n)" lexeme="caphura(n)">
+
+
+
+</page>
+
+<page sig="zz3v">
+Camphora (or as some wryte it)
+caphura, is a gumme of red coloure,
+spottie. And it is cold, and drye in the
+thyrd degree. It stoppeth blood with
+vynegre, and defendeth hote aposte&#173;
+mes. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cantharides(n)">Cantharides. </form> <xpln lang="en" lexeme="fly(n)" lexeme="sundry(a)" lexeme="strake(n)" lexeme="blister(v)">
+Cantharides are certayne (as it
+were) flyes of sondry colour, of longe
+bodyes, hauynge yolowe, and croked
+strakes on theyr wynges. They haue
+strength to drawe heate to the ouer&#173;
+most part of the bodye, and to blystre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Capsula cordis. </form> <xpln lang="en">
+<term lang="la">Capsula cordis</term>, called <term lang="gkt">pericardion</term>
+in Greke, is the skynne that couereth
+the herte, the skaberde or sheth of the
+herte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Caput monachi. </form> <xpln lang="en" lexeme="ox-eye(n)" lexeme="mayweed(n)">
+<term lang="la">Caput monachi</term> soundeth a mon&#173;
+kes heed, and it is thought to be the
+herbe which the Grecians call <term lang="gkt">buph&#173;
+thalmon</term>, that is oxe eye, and whyche
+we call mayweede.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Carduus benedictus. </form> <xpln lang="en" lexeme="ground-swell(n)" lexeme="houseleek(n)" lexeme="carduus(n)" lexeme="wolf(n)" lexeme="thistle(n)">
+<term lang="la">Carduus benedictus</term>: Hieromye
+Tragus sayeth, that they are discey&#173;
+ued, whiche thynke that <term lang="la">car. bene.</term> is
+groundeswel, or housleke, and he iud<emend err="">&#173;</emend>
+geth it to be carduus, which is a thi&#173;
+stell bearynge floures somwhat red&#173;
+der, than purple: Some cal it wolfe&#173;
+thystell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cassia(n)">Cassia. </form> <xpln lang="en">
+<term lang="la">Cassia fistularis</term>, or <term lang="la">nigra</term>, is a frute
+longe, rounde, hollowe, conteynynge
+in it a liquour congeled, which is de&#173;
+uyded by certayne spaces, as it were
+with thyn peces of wood, it purgeth
+boylyng colere. There groweth an o&#173;
+ther cassia in Arabie, of colour lyke co<emend err="">&#173;</emend>
+ral, of a pleasaunt odour, &#38; it is called
+c<expan type="">om</expan>menly <term lang="la">cassialignia</term>. It healeth, dry&#173;
+eth, and byndeth. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="castoreum(n)">Castoreum. </form> <xpln lang="en" lexeme="stone(n)" lexeme="castor(n)" lexeme="beaver(n)">
+<term lang="la">Casto.</term> is the stone of castor, which
+is a beest that lyueth partly in the wa<emend err="">&#173;</emend>
+ter, and partly in the earth, called of
+some a beuer. Castore<expan type="">um</expan> hath vertue a&#173;
+gaynst serpentes, it prouoketh nee&#173;
+synge, the floures. &#38;c.</xpln>
+<lemenote>
+"castor" antedates earliest OED citation (a1549).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="cataplasma(n)">Cataplasma. </form> <xpln lang="en">
+Many put no dyfference betwene
+<term lang="la">cataplasma</term> and <term lang="la">emplastr<expan type="">um</expan></term>. Howbeit
+proprelye <term lang="la">Cataplasma</term> is made of
+grene herbes stamped, and sodden in
+water, tyll they be softe: and differeth
+from a playster, for they put oyle to a
+plaister, after the decoction of herbes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="catarrhous(a)">Catarrhus</form> <xpln lang="en" lexeme="catarrheo(n)" lexeme="flow(v)" lexeme="run(v)" lexeme="catarrh(n)" lexeme="rheum(n)">
+Catarrhus commeth of <term lang="la">catarrheo</term>,
+whiche signifyeth to flowe downe,
+to runne downe. For wh<expan type="">en</expan> an humour
+descendeth from the brayne, they call
+it a catarrhe, or reume.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cataract(n)">Cataracte. </form> <xpln lang="en" lexeme="cornea(n)" lexeme="conjunctiva(n)">
+They call it a cataract, wh<expan type="">en</expan> a slymy
+humour, growen togyther lyke yse,
+betwene the skynnes of the eyes, cor&#173;
+nea and coni<expan type="">un</expan>tiua, commeth aboute
+the apple of the eye. In latyne, it is
+called <term lang="la">suffusio</term>, in greke <term lang="gkt">hypochyma</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cautery(n)">Cauterie. </form> <xpln lang="en" lexeme="iron(n)" lexeme="burn(v)">
+<term lang="la">Cauterion</term> is an hote yron, and it
+commeth of <term lang="la">caio, causo</term>, which sygni&#173;
+fyeth to burne. They call an actuall
+cauterie, a burnte yron: a potentiall,
+that, that is wythoute fyre and yron,
+but hath partely lyke strength, as <term lang="la">vn<emend err="">&#173;</emend>
+guentum egiptiacum</term>. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="celidony(n)">Celidonie. </form> <xpln lang="en" lexeme="celandine(n)" lexeme="swallow(n)">
+Salendine is called <term lang="la">chelidonta</term>,
+bycause that the swallowes restore
+syghte to theyr younge byrdes ther&#173;
+with. For <term lang="gkt">chelid<expan type="">on</expan></term> in greke signifyeth
+a swallowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="centaury(n)" lexeme="greater(n)">Centorie the greater. </form> <xpln lang="en" lexeme="less(n)" lexeme="gall(n)" lexeme="earth(n)">
+Leonardus fuchsius thynketh
+that, to be c<expan type="">en</expan>taurie the greter, which
+the Apothecaries call <term lang="la">rhaponticum</term>.
+Centaurie the lesse, is called <term lang="fr">fel terre</term>,
+that is the gall of the erth, by reason
+of his greate bytternesse.</xpln></wordentry>
+
+
+</page>
+
+<page sig="zz4r">
+<wordentry type="h"><form lang="en" lexeme="cerote(n)">Cerote. </form> <xpln lang="en" lexeme="wax(n)" lexeme="oil(n)" lexeme="turpentine(n)">
+<term lang="la">Ceratum</term> hathe his name of <term lang="la">cera</term>, <expan type="">that</expan>
+is waxe, for it is compounde of oiles, terebentyne and waxe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ceruce(n)">Cerusse, </form> <xpln lang="en">
+<term lang="la">Cerussa</term> is made wyth stronge vin&#173;
+aygre and leade. It hath vertue to m<expan type="">un</expan><emend err="">&#173;</emend>
+difie, and to scoure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="karabe(n)">Charabe. </form> <xpln lang="en" lexeme="succinum(n)" lexeme="black(a)" lexeme="poplar(n)" lexeme="gum(n)">
+Karabe is vsed for succin<expan type="">um</expan> whyche
+is the gumme of a blacke poppler tre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="chalcantum(n)">Chalcantum. </form> <xpln lang="en" lexeme="brass(n)">
+<term lang="la">Chalcantum</term> is a congeled lyquore
+founde in the mynes of brasse. The Ro<emend err="">&#173;</emend>
+maines bycause of the blacke coloure,
+called it <term lang="la">atrament<expan type="">um</expan></term>, and bicause that
+skynners vsed it in theyr shoppes cal&#173;
+led <term lang="la">sutrine</term>, they added <term lang="la">sutori<expan type="">um</expan></term>. <term lang="gkt">Chal&#173;
+cos</term> in greke soundeth brasse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Chamepiteos. </form> <xpln lang="en" lexeme="chamepitys(n)" lexeme="St John(pn)" lexeme="wort(n)" lexeme="champites(n)">
+Chamepitys is c<expan type="">om</expan>munelye &#38; fals&#173;
+lye taken for an herbe that groweth in
+corne, of no odoure hauynge greyishe
+or blewishe floures. Harm<expan type="">an</expan> of Nue&#173;
+nar councelleth to vse saynte Iohns
+worre, in stede therof. The word so<expan type="">un</expan>&#173;
+deth, as you wolde saye a lowe pyne
+tre, and it is an herbe hauynge the lea<emend err="">&#173;</emend>
+ues, and sent of a pyne tre, whych Ro&#173;
+berte Recorde a man for hys singuler
+lernynge, and greate trauayle in ser&#173;
+chynge of herbes ryght worthie to be
+remembred, shewed vnto me, and (as
+he said) he found it in an hylle in kent.
+It is aboute halfe an handful hyghe, &#38;
+(as is aforsayd) it hath the sembla<expan type="">un</expan>ce
+of a pyne tre leafe, and the sauour of <expan type="">the</expan>
+same. So that by the description it ap<emend err="">&#173;</emend>
+peareth to be true chamepitys.</xpln>
+<lemenote>
+"chamepites" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheiri(n)">Cheiri. </form> <xpln lang="en" lexeme="yellow(a)" lexeme="violet(n)">
+Some take cheiri for yelow uiolets.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chilli(n)">Chilis. </form> <xpln lang="en" lexeme="chile(n)" lexeme="nourishment(n)">
+<term lang="gkt">Chile</term> in greke signifieth nourysh&#173;
+ment.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Chrysomela.</form> <xpln lang="en" lexeme="golden(a)" lexeme="apple(n)" lexeme="quince(n)">
+Chrysomela so<expan type="">un</expan>deth worde for word
+golden apples. The beste of thys frute
+are brought oute of <term lang="la">strinenia</term>. They
+ben good for an hote stomacke. <emend err="Otho">Other</emend>
+sayeth that quinces are called chryso&#173;
+mela.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Centrum galli. </form> <xpln lang="en" lexeme="clary(n)" lexeme="maidenhair(n)" lexeme="vervain(n)" lexeme="St John(pn)" lexeme="herb(n)" lexeme="schawort(n)" lexeme="oculus Christi(n)">
+The auctour of the pandectes sayth
+that <term lang="la">centrum galli</term> is <term lang="la">gallitric<expan type="">um</expan></term> which
+is clarie, a kynde of maydenheere but
+is falselye thought to be. And he sayth
+also that it is <term lang="la">hierabotamum</term>, that is
+veruenne. Simon genuensis sayeth
+that it is a greate herbe hauynge pur&#173;
+ple floures bendinge to whytnes, and
+that it is called in ferraria S. Iohns
+herbe. In an olde boke I founde it en&#173;
+glyshed schawort. Some thynke it to
+be oculus christi.</xpln>
+<lemenote>
+"schawort" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cicatrice(n)">Cicatrice. </form> <xpln lang="en" lexeme="wound(n)" lexeme="scar(n)">
+A cicatrice is the scarre of a wo<expan type="">un</expan>de.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cicer(n)">Cicers. </form> <xpln lang="en" lexeme="pulse(n)" lexeme="peasen(n)">
+A cicer is a kynde of pulse lyke pe&#173;
+sen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cimolia(n)">Cimolia. </form> <xpln lang="en" lexeme="chimolia(n)">
+Chimolia is a kynde of erth brought
+out of Sardinia, Creta, and also
+Spayne, It is good agaynst the bur&#173;
+nynge of fyre, &#38; it hath vertue to bind,
+and to drye.</xpln>
+<lemenote>
+"Cimolia" antedates earliest OED citation (1658).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Clyman<expan type="">um</expan>.</form> <xpln lang="en" lexeme="plantain(n)">
+<term lang="la">Clymen<expan type="">on</expan></term> is an herbe whyche hath
+a square stalke lyke a beane stalke, and
+leaues lyke plantayn. A iuyce is stray<emend err="">&#173;</emend>
+ned out of <expan type="">the</expan> roote of it, whych is good
+for them that spitte bloode.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clyster(n)">Clyster. </form> <xpln lang="en" lexeme="wash(v)" lexeme="enema(n)" lexeme="cast(v)">
+Clyster cometh of <term lang="la">clyzeia</term>, whyche
+signifieth to washe. It is called also
+enema of <term lang="la">eniemi</term> to cast in.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="collyrie(n)">Collyrie. </form> <xpln lang="en" lexeme="collyrium(n)" lexeme="sief(n)">
+<term lang="la">Collyria</term> are medicines to be appli&#173;
+ed to the eyes. And there bene two
+kyndes therof. One is liquide, &#38; cleare
+and that nowe is comunely called col&#173;
+lyrion. The other is drye, and that
+they cal barbarously a Sief. In greke
+the fyrst is <term lang="gkt">hydrocollourion</term>, <expan type="">the</expan> second,
+<term lang="gkt">perocollourion</term>.</xpln></wordentry>
+
+
+</page>
+
+<page sig="zz4v">
+<wordentry type="h"><form lang="la">Colofonia. </form> <xpln lang="en" lexeme="Greek(a)" lexeme="pitch(n)">
+<term lang="la">Colofonia</term> is called <term lang="la">pix greca</term>, <expan type="">that</expan> is
+greke pytch, bicause that ther is great
+abundaunce therof in greke lande. It
+is hote in the seconde, and drye in the
+fyrste degre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coloquintida(n)">Coloquintida. </form> <xpln lang="en" lexeme="colocynth(n)" lexeme="colocynthida(n)">
+Colocynthis is a wylde, and bytter
+gourde. It hath vertue to purge. The
+apothecaries call it colliquintida, for
+colocynthida, in the accusatyue case.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conjoint(a)">Conioyncte. </form> <xpln lang="en" lexeme="join(v)">
+Conioyncte is ioyned together</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Coniunctiua. </form> <xpln lang="en" lexeme="eye(n)" lexeme="skin(n)" lexeme="tunicle(n)">
+The seuenthe skynne of the eye cal&#173;
+led in latine <term lang="la">coniunctiua</term>, is called in
+greke <term lang="gkt">epipephycoes</term>, bycause it gro&#173;
+weth to the other tunicles, that make
+vp the eye, in the outwarde parte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">C<expan type="">om</expan>missure. </form> <xpln lang="la" lexeme="commissura(n)" lexeme="seam(n)">
+<term lang="la">Commissura</term> is when two thinges
+are sette ioyned, or souldred together,
+a seame.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(a)" lexeme="seed(n)">Comune seedes. </form> <xpln lang="en" lexeme="anise(n)" lexeme="parsley(n)" lexeme="fennell(n)" lexeme="smallage(n)" lexeme="asparage(n)" lexeme="bruscas(n)" lexeme="cucumber(n)" lexeme="gourd(n)" lexeme="melon(n)" lexeme="citron(n)" lexeme="endive(n)" lexeme="purselane(n)" lexeme="lettuce(n)" lexeme="scariole(n)" lexeme="white(a)">
+The hote comune seedes are these,
+anise seede, perseley seede, fenell seede,
+smallage seede the seede of asparage,
+and bruscus. The comune colde sedes
+called the greater are these, cocomber,
+gourde, melon, and citron seedes. The
+comune colde sedes called the lesse, are
+the sedes of endiue, purselane, lactuce, 
+scariole or whyte endyue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conglutinative(a)">Conglutinatiue. </form> <xpln lang="en" lexeme="glue(v)">
+Conglutinatiue, is that, that hath
+strength to glue together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consolidation(n)">Consolidation. </form> <xpln lang="en" lexeme="joining(n)" lexeme="soldering(n)">
+Consolidation is ioynynge or soul&#173;
+drynge together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contraction(n)">Contraction. </form> <xpln lang="en">
+Contracti<expan type="">on</expan> is wh<expan type="">en</expan> a thyng is dra&#173;
+wen together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="constrictive(a)">Constrictiue. </form> <xpln lang="en" lexeme="strain(v)" lexeme="bind(v)">
+Constrictiue is that, that hath ver&#173;
+tue to strayne, or bynde together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consolida(n)" lexeme="great(a)">Consolida the greater.</form> <xpln lang="en" lexeme="confrey(n)" lexeme="organy(n)" lexeme="less(n)" lexeme="thyme(n)" lexeme="daisy(n)" lexeme="dog fennell(n)" lexeme="camomile(n)" lexeme="ritter sporen(n)" lexeme="knight(n)" lexeme="spur(n)" lexeme="consolyde(n)">
+C<expan type="">on</expan>solida <expan type="">the</expan> greater is c<expan type="">on</expan>ferie after <expan type="">the</expan>
+opinion of all chirurgiens. C<expan type="">on</expan>solida <expan type="">the</expan>
+lesse (as Dioscorides sayeth) groweth
+in stones, and hath braunches lyke or&#173;
+ganye, and toppes lyke thyme. It is
+a plante all woddye, of swete tast pro&#173;
+uokynge spettell. <term lang="la">Consolida media</term> is
+comunelye taken for dayses. Howebe&#173;
+it the chirurgiens in Flaunders take it
+for dogge fenell, whyche is a weede
+growynge amonge corne lyke camo&#173;
+mylle. <term lang="la">Consolida regalis</term> is called in
+dutche <term lang="du">Ritter sporen</term>, that is knygh&#173;
+tes spurre, bycause it hathe a pleasa<expan type="">un</expan>t
+blewe floure, fashioned lyke a spurre.
+All these ben called consolid<expan type="">&#230;</expan>, bicause
+they haue vertue to confounde, and to
+glue woundes together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coralline(n)">Coraliine. </form> <xpln lang="en" lexeme="bryon(n)">
+<term lang="la">Corolina</term> is thoughte to be bryon
+whyche is mosse growynge to stones in the sea, and kylleth the wormes of
+chyldren.</xpln>
+<lemenote>
+"bryon" antedates the earliest OED citation (1597).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cordial(n)">Cordiall. </form> <xpln lang="en" lexeme="comfort(v)" lexeme="heart(n)">
+They call that cordial, that confor&#173;
+teth the harte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corrosive(n)">Corrosiue. </form> <xpln lang="en" lexeme="gnaw(v)" lexeme="eat(v)">
+Corrosiue is that, whyche hath po&#173;
+wer to gnawe, and eate awaye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crisis(n)">Crisis. </form> <xpln lang="en" lexeme="judgment(n)">
+Crisis signifieth iudgement. Loke
+in <term lang="la">terminatio ad crisim</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crassula(n)">Crassula. </form> <xpln lang="en" lexeme="houseleek(n)" lexeme="orpine(n)" lexeme="stonecrop(n)">
+They make thre kyndes of crassu&#173;
+la, the greater, the lesse, and <expan type="">the</expan> meane.
+The greater hathe thycke leaues lyke
+houseleke. The lesse is <term lang="la">vermicularis</term>,
+the meane <term lang="la">carduus benedictus</term> after
+the comune opinion. Some call <term lang="la">cras&#173;
+sula maior</term> orpin, and <term lang="la">crassula minor</term>
+stone croppe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cubeb(n)">Cubebes. </form> <xpln lang="en">
+Cubebe are the sedes of a tree gro&#173;
+wynge in India. Whereof some bene
+hote lyke pepper. Some bytter. &#38;c.
+they prouoke vrine, and breake the
+stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="cuscuta(n)">Cuscuta. </form> <xpln lang="en" lexeme="dodder(n)" lexeme="flax(n)" lexeme="gout(n)">
+
+
+</page>
+
+<page sig="zz5r">
+<term lang="la">Cuscuta</term> dodder. It wrappeth it
+selfe about flaxe, and therfore it is cal&#173;
+led <term lang="la">podagra lini</term> that is flaxes goute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cyperus(n)">Cyperus. </form> <xpln lang="en" lexeme="ginger(n)" lexeme="provoke(v)" lexeme="urine(n)">
+Cyperus is a rushe of swete odour
+growynge in Syria, and in the Isles
+called Cyclades, the rootes whereof
+are vsed in medicines to heate, and to
+prouoke vrine. There is another kynd
+of cyperus in India and the roote of it
+is lyke gynger. It remoueth heere be&#173;
+ynge annoynted vpon one place. &#38;c.</xpln>
+<lemenote>
+"Cyperus" antedates the earliest OED citation (1597).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cyath(n)">Cyathe. </form> <xpln lang="en" lexeme="siliqua(n)" lexeme="obolus(n)" lexeme="scruple(n)">
+<term lang="la">Cyathus</term> is a measure conteyning
+in weight of wyne one ounce, thre dr<expan type="">am</expan><emend err="">&#173;</emend>
+mes, &#38; foure siliquas. Siliqua is the
+thyrde part of obolus. Obolus is half
+a scruple.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cyclaminus. </form> <xpln lang="en" lexeme="ivy(n)" lexeme="changeable(a)" lexeme="rose(n)">
+<term lang="la">Cyclaminus</term> is an herbe, hauynge 
+leaues lyke iuye, purple, cha<expan type="">un</expan>geable,
+wyth whytysh spottes aboue, and be&#173;
+neth. The floure of it is lyke a rose, of
+coloure enclinyng to purple. The iuce
+of the stalke of thys herbe is poured
+into the nose wyth honye to purge the 
+heade.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">
+<wordentry type="h"><form lang="la">Dianucum. </form> <xpln lang="en" lexeme="walnut(n)" lexeme="weasand(n)">
+<term lang="la">DIanucum</term> is made of
+the iuyce of the ryndes
+of walnuttes, and ho&#173;
+nye. They vse this me&#173;
+dicine, when humours
+descende fr<expan type="">om</expan> the heade
+to the brest and wesaunde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="digestive(n)">Digestiue. </form> <xpln lang="en" lexeme="mundification(n)" lexeme="digestion(n)">
+In chirurgerie a digestiue is taken
+for that, that prepareth the matter to
+mundification or clensynge. Howbeit
+properly digestion is, when good iuce
+is distributed into al the partes of the
+bodye, by the veynes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="desiccative(n)">Desiccatiue. </form> <xpln lang="en" lexeme="dry(v)">
+Desiccatiue is that, <expan type="">that</expan> hathe vertue
+to drye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dialthea. </form> <xpln lang="en" lexeme="confection(n)" lexeme="hollyhock(n)">
+Dial. is a confection made of holi&#173;
+hockes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diagrydium(n)">Daigredium. </form> <xpln lang="en" lexeme="scammony(n)">
+Diacrydi<expan type="">um</expan> is the iuyce of scamonie
+howebeit it is counterfaite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Diacymin<expan type="">um</expan>.</form> <xpln lang="en" lexeme="cumin(n)">
+A confection of cumine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dia-(px)">Diaphinicon</form> <xpln lang="en" lexeme="phoenix(n)" lexeme="date tree(n)">
+Diaphoenic<expan type="">on</expan> is a c<expan type="">on</expan>fecti<expan type="">on</expan> made of
+dates. <term lang="gkt">Phoenix</term> in greke signifieth a
+date tree.</xpln>
+<lemenote>
+"Diaphinicon" antedates the first OED citation (1625). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Diophoretica vis. </form> <xpln lang="en" lexeme="diaphoretic(n)">
+<term lang="la">Vis diaphoret.</term> is str<expan type="">en</expan>gth to discusse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dianthus(n)">Dianthos. </form> <xpln lang="en" lexeme="pensive(a)" lexeme="troubled(a)" lexeme="mirth(n)">
+Dianthos is a c<expan type="">on</expan>fecti<expan type="">on</expan> made wyth
+floures whyche is geuen to pensiue, &#38;
+troubled personnes to cause myrth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diamoron(n)">Diamor<expan type="">on</expan>.</form> <xpln lang="en" lexeme="mulberry(n)">
+A confection made of mulberies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="diapomfilicos(n)">Diap<expan type="">om</expan>filicos. </form> <xpln lang="en" lexeme="diapompholix(n)" lexeme="tutty(n)">
+<term lang="la">Diapompholix</term> is the oyntmente
+made of tutia. Resort to tutia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="diacrodon(n)">Diacrod<expan type="">on</expan>.</form> <xpln lang="en" lexeme="rose(n)">
+A confection made of roses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="diacartamus(n)">Diacartamus. </form> <xpln lang="en" lexeme="garden(n)" lexeme="saffron(n)"><term lang="la">Diacartamus</term> is a confection made
+of garden saffr<expan type="">an</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diameter(n)">Diametre. </form> <xpln lang="en">
+<term lang="la">Diametros</term> is a right line equallye
+cuttynge a figure, where it is longest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="didymis(n)">Didimi. </form> <xpln lang="en" lexeme="stone(n)" lexeme="skin(n)">
+Didimi ben <expan type="">the</expan> two stones. Howbe&#173;
+it M<expan type="">un</expan>dyne, &#38; vig<expan type="">on</expan> vse this worde for
+<expan type="">the</expan> two skinnes, which couer <expan type="">the</expan> stones.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dictamnus(n)">Dictamnus. </form> <xpln lang="en" lexeme="dittany(n)">
+The true dictamnus groweth on&#173;
+lye in Candie. Howbeit practisians
+haue founde profite in our ditany and
+therfore it is to be vsed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dilatation(n)">Dilatation. </form> <xpln lang="en" lexeme="enlarging(n)">
+Dilatation is enlargynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diuretic(n)">Diuretike. </form> <xpln lang="en" lexeme="urine(n)" lexeme="provoke(v)">
+Diuretike prouokynge vrine, or <expan type="">that</expan>
+hath vertue to prouoke vrine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Doronici. </form> <xpln lang="en" lexeme="relish(n)">
+<term lang="la">Doronici</term> are litle rootes of sweete
+rellise, like vnto <term lang="la">calamus aromaticus</term>
+&#38; they are brought fr<expan type="">om</expan> the east partes.</xpln></wordentry>
+
+
+</page>
+
+<page sig="zz5v">
+<wordentry type="h"><form lang="la">Dragagant<expan type="">um</expan>.</form> <xpln lang="en" lexeme="tragacanth(n)" lexeme="cleave(v)" lexeme="liquor(n)" lexeme="gummy(a)">
+Tragac<expan type="">an</expan>tha is a brode, &#38; a woddie
+rote appearing aboue <expan type="">the</expan> erth, wherout
+many low bra<expan type="">un</expan>ches spring, spreading
+th<expan type="">em</expan>selues al about. There cleaueth to
+this rote, a g<expan type="">um</expan>mie liquour of a bryght
+colour, &#38; s<expan type="">om</expan>what swete in tast, whych
+they cal comunely <term lang="la">dragagant<expan type="">um</expan></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dreg(n)">Dregge. </form> <xpln lang="en" lexeme="junket(n)">
+Leonardus Fuchsius thynketh <expan type="">that</expan>
+<term lang="la">tragea</term> cometh of <term lang="la">tragemata</term>, whyche
+signifieth ionkets, or dilicate meates
+vsed in the ende of dinner, or supper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dysury(n)">Dysuria. </form> <xpln lang="en" lexeme="pissing(n)">
+Dysuria is difficultie of pyssynge.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E">
+<wordentry type="h"><form lang="en" lexeme="embroche(n)">Embroke. </form> <xpln lang="en" lexeme="rain(v)" lexeme="embrocation(n)">
+EMbroche cometh of <term lang="la">embro&#173;
+cho</term>, whyche signifieth to
+rayne. And it is an embroca<emend err="">&#173;</emend>
+ti<expan type="">on</expan> when we droppe downe liquor from an higher place, vp<expan type="">on</expan> some
+parte of the body, as vpon the heade.</xpln>
+<lemenote>
+"Embroche" antedates the earliest OED citation (1585).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elaterium(n)">Elaterium. </form> <xpln lang="en" lexeme="wild(a)" lexeme="cucumber(n)">
+Elateri<expan type="">um</expan> is <expan type="">the</expan> iuce of a wild coc<expan type="">om</expan>ber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hellebore(n)">Elebore. </form> <xpln lang="en" lexeme="elleborus(n)">
+There ben two kindes of elleborus,
+namely whyte, and blacke. The white
+hath leaues like pl<expan type="">an</expan>tayn, but shorter, &#38;
+blacker. The blacke hath leues lyke <expan type="">the</expan>
+leaues of <expan type="">the</expan> plane tre s<expan type="">om</expan>what lesse iag&#173;
+ged about. The rotes therof ben smal
+thyn, &#38; blacke, which are vsed in medi&#173;
+cines to purge melancholye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Electuari<expan type="">um</expan> de daclilis </form> <xpln lang="en" lexeme="dates(n)" lexeme="electuary(n)">is an electu&#173;
+arie of dates.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elevation(n)">Eliuation. </form> <xpln lang="en" lexeme="lift(v)">
+<term lang="la">Eleuare</term> signifieth to lyft vp, eleua&#173;
+tion when a thinge is raysed vp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eminence(n)">Eminences. </form> <xpln lang="en" lexeme="stand(v)">
+<term lang="la">Emin<expan type="">en</expan>tia</term> is wh<expan type="">en</expan> a thing st<expan type="">an</expan>deth out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Em<expan type="">un</expan>ctoria </form> <xpln lang="en" lexeme="cleansing(a)" lexeme="place(n)" lexeme="flank(n)" lexeme="armhole(n)">ben the clensyng places,
+as the flanckes, the armeholes. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Emborisma. </form> <xpln lang="en" lexeme="swelling(n)" lexeme="cicatrice(n)">
+<term lang="la">Emborisma</term> is a swelling, whyche
+cometh of a wo<expan type="">un</expan>de of an arterie, wh<expan type="">en</expan>
+<expan type="">the</expan> flesh leanynge vp<expan type="">on</expan> <expan type="">the</expan> arterie, cometh
+to a cicatrice, but <expan type="">the</expan> vlcer of <expan type="">the</expan> arterie is
+nether grow<expan type="">en</expan> together, nether hath re<emend err="">&#173;</emend>
+ceyued a cicatrice, nor is stopped wyth
+fleshe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epiglottis(n)">Epiglottis, </form> <xpln lang="en" lexeme="tongue(n)" lexeme="pipe(n)" lexeme="weasand(n)">
+Epiglottis is a lytle peece of flesh,
+which cometh fr<expan type="">om</expan> <expan type="">the</expan> rote of <expan type="">the</expan> tong, &#38; co<emend err="">&#173;</emend>
+uereth <expan type="">the</expan> toppe of <expan type="">the</expan> pipe, or wesaunde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epilepsia(n)">Epilepsia. </form> <xpln lang="en" lexeme="falling sickness(n)">
+Epilepsia is the disease comunelye
+called the fallynge sycknes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Epithema. </form> <xpln lang="en" lexeme="lay(v)">
+Epithema cometh of <term lang="la">epitheo</term>, which
+signifieth to lay on. And it is made of
+stilled liquours, &#38; other simples lay&#173;
+ed vpon a place wyth wete cloutes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Epithymum. </form> <xpln lang="en" lexeme="red(a)" lexeme="hair(n)">
+Some say <expan type="">that</expan> <term lang="la">epithym<expan type="">um</expan></term> groweth <expan type="">with</expan>
+out a rote, and hath as it were thinne
+heeres wonde together like a botome.
+The floures therof bene verye small
+whyte, &#38; lyke <expan type="">the</expan> floures of thyme. Mu<emend err="">&#173;</emend>
+fa sayth <expan type="">that</expan>, <term lang="la">epithymum</term> is as it were
+redde heeres growyng about <emend err="cetayne">certayne</emend> 
+herbes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eradicative(a)">Eradicatiue. </form> <xpln lang="en" lexeme="root(v)">
+That is eradicatiue that hathe po&#173;
+wer to rote out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Erectum </form> <xpln lang="en" lexeme="raise(v)">is raysed vp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eryngium(n)">Eryngium. </form> <xpln lang="en" lexeme="sea-holm(n)">
+They comunelye take eryngium
+for Seholme, whyche is an herbe ha&#173;
+uynge pryckes lyke a thystel, and roo&#173;
+tes swetyshe in taste, and groweth by
+the sea syde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eschar(n)">Eschare. </form> <xpln lang="en" lexeme="crust(n)" lexeme="hardness(n)">
+<term lang="la">Eschara</term> is the hardnes, or cruste <expan type="">that</expan>
+remayneth after the burnynge of a
+wounde, or vlcer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="essara(n)">Essare. </form> <xpln lang="en" lexeme="push(n)">
+Essere, or essare ben called of Pau&#173;
+lus <term lang="la">Aegineta epenyctides</term>, bycause
+these lytle redde pushes breake out in
+the nyghte season.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="estiomenos(n)">Estiomenos. </form> <xpln lang="en" lexeme="eating(n)" lexeme="sore(n)">
+<term lang="la">Estiomenos</term> is an eatyng sore. For
+<term lang="gkt">esthiomai</term> in greke signifieth to eate Vigon
+
+
+</page>
+
+<page sig="zz6r">
+is deceyued in serching the originall of
+this worde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="ermoline(n)">Ermoline. </form> <xpln lang="en" lexeme="apothecary(n)">
+<term lang="la">Ermolinus</term> is an herbe, wherof I
+haue founde nothynge wrytt<expan type="">en</expan>. How&#173;
+be it apothecaries affirme that they
+haue it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expulsive(a)">Expulsiue. </form> <xpln lang="en" lexeme="dry(v)">
+Expulsiue is hauyng vertue to dry out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eufrage(n)">Eufrage. </form> <xpln lang="en">
+<term lang="la">Eufragia</term> hath a lytle leafe iagged
+about, and a yelow floure, and bicause
+it is a singuler remedie for the eyes, it
+is called in greke <term lang="gkt">ophthalmica</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="euforbium(n)">Euforbi<expan type="">um</expan>.</form> <xpln lang="en" lexeme="liquor(n)" lexeme="vehement(a)">
+Euphorbium is a liquoure of a tree
+growing in Aphrica of vehem<expan type="">en</expan>t heat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="excoriation(n)">Excoriation. </form> <xpln lang="en" lexeme="chafe(v)">
+Excoriation is when the skynne is
+chafed awaye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="excresence(n)">Excresences, </form> <xpln lang="en" lexeme="outgrowing(n)">outgrowynges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exiture(n)">Exitur<expan type="">&#230;</expan>,</form> <xpln lang="en" lexeme="outbreaking(n)" lexeme="outgoing(n)">outbreakynges, outgo&#173;
+ynges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exsiccation(n)">Exciccation, </form> <xpln lang="en" lexeme="drying(n)">dryenge.</xpln>
+<lemenote>
+"exsiccation" antedates the earliest OED citation (1599).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extirpation(n)">Extirpation. </form> <xpln lang="en" lexeme="pluck(v)" lexeme="root(n)">
+Extirpation is when a thynge is
+plucked vp by the roote.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eupatorium(n)">Eupatorium. </form> <xpln lang="en" lexeme="agrimony(n)" lexeme="cinquefoil(n)" lexeme="hemp">
+Leonicenus thynketh eupatori<expan type="">um</expan> to
+be agrimonie. It hath one onely stalke
+woodye blackyshe, streyght, thynne,
+roughe. The leaues bene lyke sincke&#173;
+foile, or hempe leaues, and it hath his
+name of kyng Eupator.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">
+<wordentry type="h"><form lang="en" lexeme="favus(n)">Fauus. </form> <xpln lang="en" lexeme="honeycomb(n)" lexeme="swelling(n)" lexeme="cerion(n)">
+FAuus signifieth an ho&#173;
+nye combe, and some
+tymes it is vsed for a
+swellynge, whych hath 
+holes in <expan type="">the</expan> skyn, wher&#173;
+out there is strayned a
+grosse humoure lyke honye. In greke
+it is called <term lang="gkt">cerion</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="filius ante patrem(n)">Filius ante patrem. </form> <xpln lang="en" lexeme="son before father(n)" lexeme="wicked(a)" lexeme="squince(n)">
+<term lang="la">Filius ante patrem</term> is an herbe ha&#173;
+uynge tuftes, or heades from whyche 
+other braunches sprynge, bearynge
+tuftes also. And therfore it is called <term lang="la">fi&#173;
+lius ante patrem</term>, that is, the s<expan type="">on</expan>ne be&#173;
+fore the father, or <term lang="la">impia</term> that is wyc&#173;
+ked. Thys herbe is good for <expan type="">the</expan> <emend err="qnynce">quynce</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fistula(n)">Fistula. </form> <xpln lang="en" lexeme="sore(n)" lexeme="hollow(a)" lexeme="syringe(n)">
+Fistula is an hollowe sore, and it is
+so called bycause it hath an holownes
+lyke a pype. For the same cause the gre<emend err="">&#173;</emend>
+cians haue named it Syrynges</xpln>
+<lemenote>
+"Syrynges" in this sense appears not to be in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="phlebotomy(n)">fflebotomye. </form> <xpln lang="en" lexeme="cutting(n)" lexeme="vein(n)" lexeme="cut(v)">
+Phlebotomie signifieth the cutting 
+of a veyne, or <term lang="gkt">phleps</term> is a veyne, &#38; <term lang="gkt">tho&#173;
+mos</term> signifieth cutting, or a cut of <term lang="gkt">tem<emend err="">&#173;</emend>
+no</term> to cut.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="flammula(n)">Flammula. </form> <xpln lang="en" lexeme="spearwort(n)">
+<term lang="la">Flammula</term> is spereworte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Focilia. </form> <xpln lang="en">
+<term lang="la">Focilia</term> the two bones from the el&#173;
+bowe to the hande, and also the two
+bones of the legges are called <term lang="la">focilia</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fomentation(n)">Fomentation. </form> <xpln lang="en" lexeme="cherish(v)">
+Fomentum cometh a <term lang="la">foueo</term> to che&#173;
+ryshe bycause it cherysheth wyth hys
+heate the partes of the bodye, where&#173;
+unto it is applyed. For it is called a fo<emend err="">&#173;</emend>
+mentation, when liquor is laied vpon
+a membre wyth a sponge, or cloutes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="formica(n)">Formica. </form> <xpln lang="en" lexeme="excresence(n)" lexeme="pismire(n)" lexeme="outgrowing(n)" lexeme="ant(n)">
+Formica is a litle excrescence, or out
+growynge in the skynne, somewhat
+brode aboute the botome, whych wh<expan type="">en</expan>
+it is scratched causeth as it were the 
+styngynge of an aunt, or pismare, and
+therfore it is also called in greke <term lang="gkt">myr&#173;
+mecia</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fragment(n)">Fragmentes. </form> <xpln lang="en" lexeme="piece(n)">
+Fragmentes are lytle peeces.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fracture(n)">Fractures. </form> <xpln lang="en" lexeme="breaking(n)">
+Fractures are breakynges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="froncle(n)">Froncles. </form> <xpln lang="en" lexeme="swelling(n)">
+<term lang="la">Forunculus</term> is a swellyng eng<expan type="">en</expan>de&#173;
+red of grosse humours, &#38; for the moost
+parte it appeareth in fleshye places.
+Whan it is gathered in the skin only,
+it is gentle, but when it cometh from
+
+
+</page>
+
+<page sig="zz6v">
+a deepe place, it is maligne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fume(n)">Fumes. </form> <xpln lang="en" lexeme="smoke(n)" lexeme="vapour(n)">
+Fumes, is smokes, or vapours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="furcula(n)">Furcula. </form> <xpln lang="en" lexeme="clavicula(n)" lexeme="thorax(n)" lexeme="canell-bone(n)">
+Furcula is called of better latine <term lang="la">m<expan type="">en</expan><emend err="">&#173;</emend>
+iugulus</term>, or <term lang="la">clauicula</term>, &#38; it is <expan type="">the</expan> higher
+part of thorax. I cal thorax that space 
+whyche is compassed on bothe the sy&#173;
+des wyth rybbes. And the nether part
+of thorax is called <term lang="la">septum transuers<expan type="">um</expan></term>.
+In englyshe <term lang="la">ingulus</term> is called the ca&#173;
+nel bone.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">
+<wordentry type="h"><form lang="en" lexeme="galbane(n)">Galbane. </form> <xpln lang="en" lexeme="metopium(n)">
+<term lang="la">GAlbanum</term> is the liquore of
+a tre in Syria, whiche they
+call <term lang="la">Metopium</term>. It is coun<emend err="">&#173;</emend>
+terfayted with rasine, and
+ammoniake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gallitricum. </form> <xpln lang="en" lexeme="maidenhair(n)" lexeme="polytrichon(n)" lexeme="saxifrage(n)" lexeme="callitriche(n)" lexeme="clarie(n)" lexeme="fair-haired(a)" lexeme="much-haired(a)">
+Herm<expan type="">an</expan> erle of Nuenar wryteth thus
+of <term lang="la">Callitrichon</term>. Dioscorides (saieth
+he) vnder <expan type="">the</expan> name of Adianth<expan type="">on</expan>, descri&#173;
+beth an herbe, whych is called of some
+<term lang="la">capillus Veneris</term>, of some callitrich<expan type="">on</expan>
+(in englyshe we call it maydenheere)
+There is another kynde, which is cal&#173;
+led polytrichon, and they growe both
+in weete stones, and in pyttes. Some
+call polytrichon Saxifrage, &#38; it hathe
+rounde leaues, and broder then calli&#173;
+trichon. wherfore the later wryters
+erre shamefully, thynkyng <term lang="gkt">callitrich<expan type="">on</expan>
+or</term> ( as they corruptly prono<expan type="">un</expan>ce it) <term lang="gkt">gal&#173;
+litrich<expan type="">un</expan></term> to be an herbe of <expan type="">the</expan> gard<expan type="">en</expan> with
+greate leaues called clarie, but trew
+callitrich<expan type="">on</expan> is <term lang="la">capillus veneris</term>, or mai<emend err="">&#173;</emend>
+denheere. <term lang="gkt">Callitrichon</term> signifieth in
+greke fayreheered, polytrichon muche
+heered.</xpln>
+<lemenote>
+"polytrichon" anedates the earliest OED citation (1550).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="gallia muscata(n)">Gallia muscata. </form> <xpln lang="en" lexeme="musk(n)" lexeme="mastic(n)" lexeme="camphor(n)" lexeme="cinnamon(n)" lexeme="nutmeg(n)" lexeme="clove(n)" lexeme="rose water(n)">
+<term lang="la">Gallia muscata</term> is a c<expan type="">on</expan>fection made
+of vnrype dates, or the ryndes of pom<emend err="">&#173;</emend>
+granades and muske. It c<expan type="">om</expan>forteth the
+stomake, and the lyuer, and restray&#173;
+neth vomitynge, when it cometh of a
+moyste cause, Nicolas sayth that it is
+made of mastike, c<expan type="">am</expan>phore, cynomome, 
+cloues, nutmigges, rose water, and
+muske.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gargarism(n)">Gargarisme. </form> <xpln lang="en" lexeme="bubble(v)">
+A gargarisme is wh<expan type="">en</expan> we cause wa&#173;
+ter to bubble in our throtes, not suffe&#173;
+rynge it to go downe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="gariofilata(n)">Gariofilata. </form> <xpln lang="en" lexeme="avens(n)" lexeme="gillyflower(n)">
+Some take <term lang="la">gariofilata</term> for Auens,
+some for gyllofers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glandule(n)">Glandules. </form> <xpln lang="en" lexeme="kernel(n)">
+Glandul<expan type="">&#230;</expan> ben kernels.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gentian(n)">Gentiane. </form> <xpln lang="en" lexeme="gentiana(n)">
+<term lang="la">Gentiana</term> hath his name of G<expan type="">en</expan>tis
+the kynge of Illyrie, whyche founde
+thys herbe fyrst, as some thinke. Ihon
+Agricola sayeth, that a certayne olde
+phisiti<expan type="">on</expan>, affirmed vnto hym, <expan type="">that</expan> if a <emend err="ma&#173;">man</emend>
+did eate fastinge euery day a lytle of <expan type="">the</expan>
+rote of thys herbe, it wolde preserue
+helth, and kepe the senses vnhurte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gramen. </form> <xpln lang="en" lexeme="agrostis(n)">
+<term lang="la">Gramen</term> called in greke <term lang="gkt">agrostis</term> is
+an herbe hauynge braunches full of
+knottes, or ioynctes, which crepe by <expan type="">the</expan>
+ground, &#38; rote th<expan type="">em</expan>selues. The leaues
+of it ben sharpe, harde, and brode.</xpln>
+<lemenote>
+See OED, "Agrositis," n. (first cited 1578).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gum(n)" lexeme="elemi(n)">Gumme elemi. </form> <xpln lang="en" lexeme="olive tree(n)">
+<term lang="pt">Gummi elemi</term> is the gumme or li&#173;
+quore of the olyue tre of Aethiopia for
+<term lang="ar">Elea</term> in Arabik signifieth an oliue tre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gypsum(n)">Gyps<expan type="">um</expan>.</form> <xpln lang="en" lexeme="chalk(n)">
+Gyps<expan type="">um</expan> is of the nature of chaulke &#38;
+there ben many kindes of it, as Plinie
+saith, which it wold be to l<expan type="">on</expan>ge to recit.</xpln>
+<lemenote>
+"gypsum" antedates the earliest OED citation (1646).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="gyrus solis(n)">Gyrus solis. </form> <xpln lang="en" lexeme="sun(n)" lexeme="compassing(n)" lexeme="heliotropion(n)"><term lang="la">Gyrus solis</term> signifieth <expan type="">the</expan> c<expan type="">om</expan>passyng of
+<expan type="">the</expan> s<expan type="">un</expan>ne, &#38; they so cal <expan type="">the</expan> herbe heliotropi&#173;
+on, bicause his leaues turne <expan type="">with</expan> <expan type="">the</expan> decli&#173;
+nation of <expan type="">the</expan> s<expan type="">un</expan>ne. Reade <expan type="">the</expan> next worde.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">
+<wordentry type="h"><form lang="en" lexeme="heliotropion(n)">Heliotropion. </form> <xpln lang="en" lexeme="basil(n)" lexeme="marish(a)">
+HEliotropion is so called bi&#173;
+cause it turneth about <expan type="">with</expan> <expan type="">the</expan>
+s<expan type="">un</expan>ne. And though ther ben
+many herbes that turne a&#173;
+about <expan type="">with</expan> the s<expan type="">un</expan>ne, yet Dioscorides ma&#173;
+keth two kyndes therof. The fyrste he
+calleth <expan type="">the</expan> greater, &#38; it hath leaues lyke
+basille, but <expan type="">that</expan> they bene whyter &#38; grea&#173;
+
+
+
+
+
+</page>
+
+<page sig="&#38;1r">
+ter, &#38; a white flour, s<expan type="">om</expan>what bendynge
+to purple &#38; bowed in, lyke the tayle of
+a scorpi<expan type="">on</expan>, &#38; it groweth in roughe pla&#173;
+ces. The seconde, or lesse groweth in
+maryshe places, and hath rounder lea<emend err="">&#173;</emend>
+ues then the other.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb saint Marie(n)">Herbe saynt marie. </form> <xpln lang="en" lexeme="persicaria(n)" lexeme="arsesmart(n)">
+Vigon vseth Herbe saynt marie for
+persicaria, which is thought to be ars&#173;
+smerte.</xpln>
+<lemenote>
+"Herbe saynt marie" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="erisipelas(n)">Herisipelas</form> <xpln lang="en">
+Herisipelas is a swellyng of hote
+boylynge, and thynne bloode. Or it is
+a fluxe mengled wyth bloode, and ye&#173;
+lowe cholere, beynge hoter than they
+shulde be. It is called in latine <term lang="la">ignis
+persicus</term>, thoughe Vigon make a dif&#173;
+ference of them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herpes(n)">Herpes. </form> <xpln lang="en" lexeme="creep(v)" lexeme="eating(n)" lexeme="grawing(n)" lexeme="milium(n)" lexeme="miliaris herpes(n)">
+Herpes cometh of <term lang="gkt">herpein</term> whyche
+signifieth to crepe, and it is <emend err="apassion">a passion</emend>
+engendred of pure yelowe cholere, <expan type="">with</expan>
+out <expan type="">the</expan> admixtion of any other humour.
+If the substa<expan type="">un</expan>ce be grosse, and aygre,
+it vlcereth the skynne vnto the fleshe,
+&#38; is called <term lang="gkt">herpes esthiomenos</term>, that
+is eatynge or gnawynge herpes. But
+yf it be thynne, and lesse aygre, it ray&#173;
+seth vp lytle pustles lyke the grayne
+called milium, and therfore it is called
+<term lang="gkt">miliaris herpes</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hermodactyl(n)">Hermodactyle. </form> <xpln lang="en" lexeme="hermodactylus(n)" lexeme="lily(n)" lexeme="wild(a)">
+<term lang="la">Hermodactylus</term> is called of some a
+wilde lillie. It hath a whyte flour fa&#173;
+shioned lyke the floure of saffran, and
+a round rote, lyke an oynyon. And the
+sayd roote purgeth fleume, and ther&#173;
+fore is good for goutes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="humectative(a)">Humectatiue. </form> <xpln lang="en" lexeme="moisting(a)">
+Humectatiue, moystynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="humidity(n)">Humiditie. </form> <xpln lang="en" lexeme="moisture(n)">
+Humiditie, moysture.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hydromel(n)">Hydromel. </form> <xpln lang="en" lexeme="methe(n)">
+Hydromel is methe made of water,
+and honye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hiemal(a)">Hyemal. </form> <xpln lang="en" lexeme="hymen(n)">
+Hyemal is that, that pertayneth
+to winter, hymen is a thinne skynne,
+in maydens, and a token of their vir&#173;
+nitie. For it is broken in a woman de&#173;
+floured.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hypericum(n)">Hypericon. </form> <xpln lang="en" lexeme="St John's-wort(n)">
+Hypericon, saynt Iohns worte.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">
+<wordentry type="h"><form lang="en" lexeme="impetigo(n)">Impetigo. </form> <xpln lang="en" lexeme="lepry(n)" lexeme="vitiligo(n)" lexeme="leuce(n)" lexeme="morphew(n)">
+IMpetigo is a deformitie
+of the skinne, whych may lyghtly grow to a leprie.
+There is another defor&#173;
+mitie of the skinne called
+vitiligo, wherof ther ben
+two kyndes. One is called leuce, that
+is whyte, and it is nothing els, but the
+chaungyng of the skynne to whytenes
+beyng engendred of slymie fleame.
+
+This disease somtymes perceth, and
+rooteth it selfe so depe in <expan type="">the</expan> bodye that
+hore heares growe out of it. Some
+calle it <term lang="me">Albaras</term>. The other is engen&#173;
+dred as the former, but it perceth not
+occupiyng onely the ouer parte of the
+skynne, lyke skales whyte and blacke.
+Aui. calleth this euel the morpheu.</xpln>
+<lemenote>
+"vitiligo" antedates the earliest OED citation (1657). "leuce" not found in OED in this sense. For "albaras," see MED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="iamenum(n)">Iamenum. </form> <xpln lang="en" lexeme="alum(n)">
+Resorte to Alume.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="impregnatio(n)">Impregnatio. </form> <xpln lang="en">
+<term lang="la">Impregnatio</term> is whan a woman is
+gotten with chylde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="ignis persicus(n)">Ignis persicus. </form> <xpln lang="en" lexeme="erisipelas(n)">
+Ignis persicus resorte to Herisipe<emend err="">&#173;</emend>
+las.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inanition(n)">Inanition. </form> <xpln lang="en" lexeme="emptying(n)">
+Inanition, emptiyng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incision(n)">Incision. </form> <xpln lang="en" lexeme="cutting(n)">
+Incision, cuttyng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="induration(n)">Induration. </form> <xpln lang="en" lexeme="hardening(n)">
+Induration, hardenyng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hiera picra(n)">Iera. </form> <xpln lang="en" lexeme="hiera(n)" lexeme="holly(n)" lexeme="bitter(a)">
+Hiera picra<term lang="la">Galeni</term>is a verye good
+medicine to purge grosse, and shinyng
+mattier. It is made of cynamome, ma<emend err="">&#173;</emend>
+styke, aloes, casia. &#38;c. <term lang="gkt">hiera</term> in greke si&#173;
+gnifieth hollye, and picra bytter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incarn(v)">Incarne. </form> <xpln lang="en">
+
+
+</page>
+
+<page sig="&#38;1v">
+They vse <term lang="la">incarnare</term>, for to bryng on&#173; 
+fleshe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inflatus(a)">Inflatus. </form> <xpln lang="en" lexeme="puffed(a)" lexeme="swelling(a)">
+Puffed vp, swellyng.</xpln>
+<lemenote>
+"Inflatus" antedates first OED occurrence (a1861).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infusion(n)">Infusion. </form> <xpln lang="en" lexeme="dilutum(n)">
+Infusion, liquoure wherein some
+thynge a certayne tie is steped, with
+out seethynge, is called of the Apothe<emend err="">&#173;</emend>
+caries, infusi<expan type="">on</expan>, other cal it dilutum.</xpln>
+<lemenote>
+"dilutum" antedates the first OED citation (1706). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="insensible(a)">Insensible. </form> <xpln lang="en" lexeme="feel(v)">
+Insensible, that feeleth not, or that
+is not felte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inspiration(n)">Inspiration. </form> <xpln lang="en" lexeme="respiration(n)">
+Inspiration is whan a m<expan type="">an</expan> breatheth
+in, or draweth in hys wynde. Respira&#173;
+tion, when he sendeth it out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="isopus humida(n)">Isopus humida. </form> <xpln lang="en" lexeme="isope(n)" lexeme="fat(n)" lexeme="cerate(n)">
+<term lang="la">Isopus humida</term> shulde be thus wry&#173;
+ten, <term lang="la">oesypus</term>, &#38; it is fatte gathered out
+of vnwashed woulle. Here I admo&#173;
+nyshe the, good reader, that where as
+thou shalt fynde in a receit these wor&#173;
+des (of the fatte of Galenes cerote cal&#173;
+led Isope) it oughte to be thus redde,
+of Galenes cerote of fat called Isope,
+or of Galenes cerote of Isope.</xpln>
+<lemenote>
+"Isope" here appears to have a different sense from that of OED "hyssop," n., or of MED, "isope," n. (1).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ireos(n)">Ireos. </form> <xpln lang="en" lexeme="iris(n)" lexeme="fleur-de-lis(n)">
+The Apothecaries vse the genitiue
+case for the nominatiue. Iris is the
+roote of the flouredeluyce, <emend err="whenit">when</emend> it is
+put in receites.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="iva(n)">Iua. </form> <xpln lang="en"  lexeme="champepitys(n)" lexeme="forget-me-not(n)">
+<term lang="la">Iua muscata</term> is thought to be a kinde
+of champ<expan type="">&#230;</expan>pitys. Loke for chamepitys.
+The Germaines calle <term lang="la">Iua</term> or <term lang="la">Ibiga</term>
+<term lang="gr">vergessemeinit,</term> <expan type="">that</expan> is forgette me not.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="julep(n)">Iuleb. </form> <xpln lang="en" lexeme="stilled(a)">
+Iuleb is made of stilled waters, or
+of iuyces and suger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jujube(n)">Iuiub<expan type="">&#230;</expan>. </form> <xpln lang="en" lexeme="fruit(n)" lexeme="zizipha(n)" lexeme="berry(n)">
+Iuiub<expan type="">&#230;</expan> are frutes, whiche the lati&#173;
+nes called <term lang="la">zizipha</term>. Howbeit Brasauol<expan type="">us</expan>
+saieth that they bene beries rather th<expan type="">an</expan>
+frutes. The phisicions vse them in de&#173;
+coctions for the breste.</xpln>
+<lemenote>
+"zizipha" antedates the earliest OED citation (1546).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">
+<wordentry type="h"><form lang="en" lexeme="lac(n)">Lacca. </form> <xpln lang="en">
+LAcha is a gumme or li&#173;
+quor of a tree in Arabie,
+hauing a pleasaunt odour
+some calle it <term lang="la">cancamum</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lacentes. </form> <xpln lang="en" lexeme="brawny(a)" lexeme="sinew(n)">
+Braunie synnowes.</xpln>
+<lemenote>
+"Braunie" in this sense antedates the earliest OED citation (1598). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Lanciola. </form> <xpln lang="en" lexeme="spearwort(n)" lexeme="less(a)" lexeme="plantain(n)">
+Vigo sayeth that <term lang="la">Lanciola</term> is hote
+and drye in the fourth degre, &#38; therfore
+I thinke he meaneth speareworte <term lang="la">L<expan type="">an</expan>&#173;
+ciolata</term> signifieth the lesse plantaine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lapis lazuli(n)">Lapis lazuli. </form> <xpln lang="en" lexeme="pierre dazur(n)" lexeme="azur(n)">
+Is a stone of blewe colour, whiche
+as Dioscorides sayeth, is digged out
+of brasse mynes in Cypres. The french
+men calle it <term lang="fr">pierre dazur</term>, that is the
+stone of azure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laudanum(n)">Laudanum. </form> <xpln lang="en"> Resorte to <term lang="la">Hypoquystidos</term>.</xpln>
+<lemenote>
+"Laudanum" antedates the earliest OED citation (c1602).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Lethargus. </form> <xpln lang="en" lexeme="lethe(n)" lexeme="forgetfulness(n)" lexeme="idleness(n)" lexeme="slouthfulness(n)">
+Letharg<expan type="">us</expan> is a disease which bring&#173;
+eth a merueilouse necessitye of sleeping
+and forgetfulnes of al thynges, <term lang="gkt">Lethe</term>
+in Greke signifieth forgetfulnes, <term lang="la">ar&#173;
+gia</term>, ydlenes, slouthfulnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lenitive(a)">Lenitiue. </form> <xpln lang="en" lexeme="souple(v)">
+That, that soupleth is called lenitiue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ligament(n)">Ligamentes. </form> <xpln lang="en" lexeme="bind(v)">
+<term lang="la">Ligamenta</term> come of <term lang="la">ligando</term>, whiche
+signifieth to bynde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lingua passerina. </form> <xpln lang="en" lexeme="wild(a)" lexeme="tasell(n)" lexeme="peruse(v)">
+<term lang="la">Lingua passerina</term> is the female of 
+wylde tasell. Peruse Vigon in <term lang="la">virga
+pastoris</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lign-aloes(n)">Lignum aloes. </form> <xpln lang="en" lexeme="agal lochon(n)">
+Lignum aloes otherwise called agal
+lochon is a wood brought out of In&#173;
+dia, and Arabia, spottie, of stronge sa<emend err="">&#173;</emend>
+uoure, and somewhat bytter in taste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liniment(n)">Liniment. </form> <xpln lang="en" lexeme="ointment(n)" lexeme="smear(v)" lexeme="annoint(v)">
+Liniment is an oyntm<expan type="">en</expan>t, <term lang="la">linire</term> sig<emend err="">&#173;</emend>
+nifieth to smere, to annoynte.</xpln></wordentry>
+
+
+</page>
+
+<page sig="&#38;2r">
+<wordentry type="h"><form lang="en" lexeme="litarge(n)">Litarge. </form> <xpln lang="en"  lexeme="silver foam(n)" lexeme="litargyrion auri(n)" lexeme="litarge of gold(n)">
+<term lang="la">Litargyrion, spuma argenti</term>, that
+is to saye the fome of syluer, is made
+partlye of burnte syluer, and partly of
+burnt leade. That whych is of yelow
+coloure is called <term lang="la">litargyrion auri</term>, li&#173;
+targe of golde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="local(a)">Local. </form> <xpln lang="en" lexeme="pertain(v)" lexeme="apply(v)" lexeme="outward(a)" lexeme="body(n)">
+They cal that local, that perteyneth
+to a place, that muste be applyed vpon
+some outwarde parte of the bodye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loch(n)">Loch. </form> <xpln lang="en" lexeme="electuary(n)" lexeme="sliminess(n)">
+Loch is vsed for an electuarie in a 
+liquide fourme wyth some slymines,
+that it may tarie some whyle, before it
+synke in to the stomake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lotion(n)">Lotions. </form> <xpln lang="en" lexeme="washing(n)">
+Lotions, washynges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="lunaria(n)">Lunaria. </form> <xpln lang="en" lexeme="moonwort(n)" lexeme="nightshade(n)">
+The dutch men cal <term lang="la">lunaria</term> <term lang="du">moone&#173;
+kraute</term>, that is moone worte, bycause
+the leafe therof resembleth the halfe
+moone. Some thynke it to be a kynde
+of nyghtshade, as we haue shewed in
+Manicon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lupine(n)">Lupines. </form> <xpln lang="en" lexeme="pulse(n)" lexeme="dry(v)">
+Lupines is a kynde of pulse, s<expan type="">om</expan>what
+bytter excepte it be steeped in water.
+The floure of lupines hathe vertue to
+discusse, to drye, to open. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="lutum sapientie(n)">Lutum sapienti<expan type="">&#230;</expan>. </form> <xpln lang="en" lexeme="wheat(n)" lexeme="flour(n)" lexeme="moist(a)" lexeme="paper" lexeme="toss(v)">
+<term lang="la">Lut<expan type="">um</expan> sapienti<expan type="">&#230;</expan></term> is made of wheate
+floure, and moyste paper small toosed,
+and wyth the whytes of egges bea&#173;
+ten.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="licium(n)">Licium. </form> <xpln lang="en" lexeme="prick(n)" lexeme="confection(n)">
+<term lang="la">Licium</term> is a tree ful of pryckes, and
+it beareth frute, lyke pepper, of blacke
+coloure, and bytter in taste. A iuyce is
+gathered out of the rootes stamped
+wyth <expan type="">the</expan> other partes of the tre, which
+is much vsed in confections.</xpln></wordentry>
+</wordgroup1>
+
+******************************
+
+<wordgroup1 type="a" object="M">
+<wordentry type="h"><form lang="en" lexeme="macule(n)">Macul<expan type="">&#230;</expan>. </form> <xpln lang="en">
+<emend err="MMacul&#230;">Macul<expan type="">&#230;</expan></emend> ben, wh<expan type="">en</expan> throughe
+a strype bloode is gathered
+betwene the skynnes of the
+eye, litle spottes appearing
+in the outwarde parte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malaxe(n)">Malaxe. </form> <xpln lang="en" lexeme="malasso(v)" lexeme="soften(v)" lexeme="mollify(v)">
+Malasso in greke signifieth to sof&#173;
+ten, to mollifie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malabathrum(n)">Malabathr<expan type="">um</expan>.</form> <xpln lang="en" lexeme="foloium Indie(n)">
+There bene two kindes of malaba&#173;
+thrum. One is the leafe of a tree, in
+Siria, whereout an oyle is strayned.
+The other swymmethe vppon marys&#173; shes in India, without a roote. The
+apothecaries calle malabathrum, fo&#173;
+lium Indie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malum mule(n)">Malum mule. </form> <xpln lang="en" lexeme="kibe(n)" lexeme="cheimallon(n)">
+I thynke that malum mule, is the
+kybe, called in greke cheimallon, by
+cause it commeth in the wynter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="manicon(n)">Manicon. </form> <xpln lang="en" lexeme="nightshade(n)" lexeme="morrell(n)" lexeme="alkakengi(n)" lexeme="lunaria(n)" lexeme="mania(n)" lexeme="madness(n)">
+There bene foure kyndes of nyght&#173;
+shade. The fyrst groweth in gardens,
+and is called morrell. The seconde is
+that, that is called Alkakengi. The
+thyrde is called lunaria. The fourthe
+manicon, bycause it bryngeth madde&#173;
+nes. For mania in greke, is madnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malignity(n)">Malignitie. </form> <xpln lang="en" lexeme="malignus(a)" lexeme="illiberal(a)" lexeme="wicked(a)" lexeme="mischevous(a)">
+Though malignus be properlye il&#173;
+liberall, yet they take it comunelye for
+wycked, mischeuous, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="manna(n)">Manna. </form> <xpln lang="en" lexeme="dew(n)" lexeme="mel aerium(n)" lexeme="honey of the air(n)">
+Manna is a dewe thicked, and fal&#173;
+lynge in certayne places vpon trees, &#38;
+so gathered, and vsed for purgations.
+It is brought from the mount libane.
+Some cal it mel aerium that is honye
+of the ayre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maturative(a)">Maturatiue. </form> <xpln lang="en" lexeme="ripe(v)" lexeme="maturatiuum(n)">
+That, that hathe strength to rype is
+called in latine maturatiuum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maturation(n)">Maturation. </form> <xpln lang="en" lexeme="riping(n)">
+Maturation, rypynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mesenterion(n)">Mesenterion. </form> <xpln lang="en" lexeme="mesareon(n)">
+That parte, whych is sette in the
+myddeste of the entrayles, and is tied
+to the backe, is called Mesenterion, or
+Mesar<expan type="">&#230;</expan>on. To whych mesareon, ther
+descende veynes from the gate of the
+lyuer, whyche veynes the lyuer vseth 
+
+
+
+
+
+</page>
+
+<page sig="&#38;2v">
+as handes to brynge hym iuyce from
+the stomake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mediastine(n)">Mediastine. </form> <xpln lang="en" lexeme="mediastinum(n)">
+From the skynne that gyrdeth, and enuironeth <expan type="">the</expan> ribbes, there growe out
+two thinne skinnes, one fr<expan type="">om</expan> the right,
+and the other fr<expan type="">om</expan> the lyfte syde, which
+as it were make an hedge and deuide
+the middle of the bodye. And thys is
+it, that they cal Mediastinum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marchasita(n)">Marchasita. </form> <xpln lang="en" lexeme="pyrites(n)" lexeme="pyr(n)" lexeme="fire(n)">
+Marchasita is a stone wherwyth
+brasse is tryed out. It is lyke brasse, &#38;
+wh<expan type="">en</expan> it is trycken, sparkes of fyre flye
+out, &#38; therfore it is called, pyrites in
+greke. For pyr signifieth fyre. Thys
+stone hath vertue to scour awaye such
+thinges, as darken the syght.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="merdasengi(n)">Merdasengi. </form> <xpln lang="en" lexeme="litarge(n)" lexeme="burnt lead(n)" lexeme="lithargyrion(n)">
+Merdasengi is vsed for litarge, or
+burnte leade, resorte to lithargyrion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="minerals(n)"><editoraddition>Minerals.</editoraddition></form> <xpln lang="en" lexeme="dig(n)" lexeme="mine(n)">
+Minerals are thynges digged out
+of mynes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="memithe(n)">Memithe. </form> <xpln lang="en" lexeme="great salendine(n)" lexeme="celidony(n)" lexeme="glaucium(n)">
+Some thynketh <expan type="">that</expan> memithe is the
+<emend err="inyce">iuyce</emend> of <expan type="">the</expan> great salendine, or celidony.
+But Leo. Fuchsius, &#38; other lerned m<expan type="">en</expan>
+affirme, <expan type="">that</expan> they are deceiued, &#38; say that
+it is rather glauci<expan type="">um</expan>, which (as Diosco<emend err="">&#173;</emend>
+rides) sayeth is the iuyce of an herbe
+growynge about the citie hierapolis
+in Syria, hauynge leaues lyke vnto
+poppie, and a iuyce of yelowe coloure,
+which cooleth, and is ministred in me,
+dicines for the eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melissa(n)">Melissa. </form> <xpln lang="en" lexeme="bee(n)" lexeme="baum(n)">
+Melissa in greke signifieth a bee.
+It is taken for an herbe, wherein the
+bees delite. Some call it baume.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mercury(n)">Mercurie. </form> <xpln lang="en" lexeme="quicksilver(n)">
+Mercurie is vsed somtyme for an
+herbe of that name, and somtimes for
+quyckesyluer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milium solis(n)">Mili<expan type="">um</expan> solis. </form> <xpln lang="en" lexeme="lithospermon(n)"> Lithospermon (for it is iudged to
+be milium solis) hath leaues like oliue
+leaues, but they bene longer and bro&#173;
+der. The bra<expan type="">un</expan>ches ben streyght, smal,
+and woody. The seedes are smal, and
+stonie, and beynge dronken <expan type="">with</expan> whyte
+wyne, they breake the stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milium(n)">Milium. </form> <xpln lang="en" lexeme="corn(n)">
+Milium is a kind of corne. It hath
+vertue to coole, and to drye, &#38; to <emend err="make thynne">make thynne</emend>, as some thynke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="minium(n)">Minium. </form> <xpln lang="en" lexeme="vermillion(n)" lexeme="quicksilver minium(n)" lexeme="cenabrium(n)" lexeme="cinober(n)">
+Dioscorides sayth that minium is
+made in Spayne of a certayne stone
+mengled wyth syluersande. The payn<emend err="">&#173;</emend>
+ters call vermillion, whych is made of
+brimstone, and quyckesyluer minium,
+whiche is in dede cenabri<expan type="">um</expan>, or cinober.
+Vigon sayth that it is made of cerusse
+through burnynge. Antonius Musa
+sayeth that in the veynes of quycksyl&#173;
+uer there is dygged out a clotte of red
+coloure, whych hath redde dust about
+it, &#38; <expan type="">that</expan> duste is minium, after the sayde
+auctours opinion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="minorative(a)">Minoratiue. </form> <xpln lang="en" lexeme="diminish(v)" lexeme="make less(v)" lexeme="minoratiuum(n)">
+That <expan type="">that</expan> diminisheth or maketh lesse
+they call minoratiu<expan type="">um</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="myrtles(n)">Mirtilles. </form> <xpln lang="en" lexeme="myrtilli(n)" lexeme="myrte seeds(n)">
+The seedes of myrte are comunelye
+called myrtilli. Howebeit Iohn Vig<expan type="">on</expan>
+often tymes byddeth to take the lea&#173;
+ues, and graynes of myrtilles, vsyng
+myrtilles, for myrte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mirach(n)">Mirach. </form> <xpln lang="en" lexeme="myrach(n)" lexeme="abdomen(n)" lexeme="sumen(n)" lexeme="epigastrion(n)" lexeme="siphac(n)" lexeme="peritoneon(n)" lexeme="zirbus(n)" lexeme="omentum(n)" lexeme="epiploon(n)">
+Vnder the vpper skynne of the bel&#173;
+lie there is another skynne, whych the
+Arabians call Myrach, the latine ab&#173;
+domen, and sumen, the grecians epi&#173;
+gastrion. After the muscles of My&#173;
+rach whyche are eyght in n<expan type="">um</expan>ber, there
+appeareth a thynne skynne, much like
+the webbes of spyders, and it is called
+in Arabike Siphac, in greke peritone&#173;
+on. And when Siphac is remoued,
+the caule appeareth comunelye called
+zirbus in latine omentum, in Greke
+epiploon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mitigation(n)">Mitigation. </form> <xpln lang="en" lexeme="suaging(n)">
+Mitigation, swagynge.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="&#38;3r">
+<wordentry type="h"><form lang="en" lexeme="miuam(n)">Miuam. </form> <xpln lang="en" lexeme="apothecary(n)" lexeme="confection(n)">
+The Apothecaries saye that Miua
+is a confection made wyth the iuyce
+of peares, quynces, &#38;c. to conforte the 
+stomake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mollificative(a)">Mollificatiue. </form> <xpln lang="en" lexeme="soften(v)">
+Hauynge vertue to soften.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mordication(n)">Mordication. </form> <xpln lang="en" lexeme="biting(n)">
+Bytynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="muscilage(n)">Muscilage. </form> <xpln lang="en" lexeme="musilagine(n)">
+They calle Muscilagin<expan type="">em</expan> the flymie
+sappe of the rootes of Holyhock of the
+seedes of quynces. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mundificatiue(a)">Mundificatiue. </form> <xpln lang="en" lexeme="cleanse(v)">
+Hauynge vertue to clense.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mumia(n)">Mumia. </form> <xpln lang="en" lexeme="pisasphalton(n)">
+Iohan Vigo in hys symples recy&#173;
+teth the comune opinion of Mumia.
+Howebeit other lerned men thynke it
+to be Pisasphalton. Whyche name
+sygnifiethe a thynge compounde of
+pytche, and the Iues lyme. Dioscori&#173;
+des saythe, that by the violence of
+streames it is brought frome the
+mountaynes Cerauntes, and is caste
+out about Apolonia, in Epeiro (whi&#173;
+che is a countre ouer agaynst Italie)
+beyng congeled together lyke clottes,
+hauynge the odour of pytche, m<expan type="">en</expan>gled
+wyth bitumen, whyche is a kynde of
+lyme fo<expan type="">un</expan>de about those places, where
+Gomorra, and Sodome stode.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="myrobalanes(n)">Myrobalanes. </form> <xpln lang="en" lexeme="citrinum(n)" lexeme="yellow(n)" lexeme="indum(n)" lexeme="cepulum(n)" lexeme="embeliticum(n)" lexeme="emblicum(n)" lexeme="beletzicum(n)" lexeme="belliricum(n)">
+Myrobalani, are excellent frutes
+whyche are brought vnto vs, oute of
+Egypte and Syria. There ben fyue
+kyndes of them. One is called Citri&#173;
+num or yelowe, bycause of hys yelow
+colour, whyche hath a thycke skynne
+and a lytle kernel. Another is called
+Indum bycause of hys blacke colour,
+and it is lyke an olyue wythout ker&#173;
+nelles. The thyrd kynde is called Ce&#173;
+pulum, and it is greater, and heuier
+than the other, of a duskysche redde
+colour. The fourthe is Embeliticum,
+or Emblicum lyke a lytle stone of the
+coloure of asches. The fyfthe is Be&#173;
+letzicum, or Belliricum, whyche is
+rounde lyke a pere. The yelowe pur&#173;
+geth yelowe cholere, the blacke Me&#173;
+lancholie, Cepul<expan type="">um</expan> purgeth fleame. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nenufar(n)">Nenufar. </form> <xpln lang="en" lexeme="nymphe(n)" lexeme="seehbloume(n)" lexeme="flower of the lake(n)">
+NEnufar otherwyse
+called Nymph<expan type="">&#230;</expan>a gro<emend err="">&#173;</emend>
+weth in pondes, and
+lyeth vpon the wa&#173;
+ter wyth brode and
+thycke leaues, and a 
+whyte or yelowe
+floure of a pleasa<expan type="">un</expan>te odour. The flou&#173;
+res are vsed in medicynes chyefelye,
+and they haue great vertue to koole.
+The Germayne call thys herbe seeh&#173;
+bloume, that is the floure of the
+lake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nigella(n)">Nigella. </form> <xpln lang="en" lexeme="mecona agrion(n)" lexeme="wild poppy(n)">
+Nigella groweth in hedges, and
+medowes, hauynge leaues lyke gro<expan type="">un</expan>d
+swell, sauynge that they ben thynner.
+In the toppe it hathe an heade lyke
+Poppie, wherin there is a blacke
+seede enclosed, whiche they dydde put
+in breade in olde tyme. The Grecians
+calle it Mecona agrion, that is wylde
+poppie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nitrum(n)">Nitrum. </form> <xpln lang="en" lexeme="salpetre(n)">
+Salte petre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nodus mellinus(n)">Nodus mellinus. </form> <xpln lang="en" lexeme="favus(n)">
+Resorte to fauus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nuke(n)">Nuke. </form> <xpln lang="en" lexeme="nucham(n)" lexeme="marrow of the backbone(n)" lexeme="nape of the neck(n)">
+Sometymes they calle the marye
+of the backe bone Nucham, and some
+tymes they vse it for the nape of the 
+necke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nutritive(a)">Nutritiue. </form> <xpln lang="en" lexeme="nourish(v)">
+Hauynge power to nourysche.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="odoriferous(a)">ODoriferous. </form> <xpln lang="en" lexeme="pleasant scent(n)" lexeme="odoriferum(n)">That, that 
+hathe a pleasaunte sente is
+called in latine Odorifer<expan type="">um</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="olibanum(n)">Olibanum. </form> <xpln lang="en" lexeme="frankincense(n)">
+A kynde of frankencense.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="&#38;3v">
+<wordentry type="h"><form lang="en" lexeme="omphacine(n)">Omphacine. </form> <xpln lang="en" lexeme="omphax(n)" lexeme="unripe grape(n)" lexeme="olive oil(n)">
+Omphax in Greke is an vnrype
+grape, Vigo calleth oyle omphacyne,
+that oyle that is made of vnrype oly&#173;
+ues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oppilation(n)">Oppilation. </form> <xpln lang="en" lexeme="stopping(n)">
+Stoppynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="opoponax(n)">Opoponax. </form> <xpln lang="en" lexeme="panaces(n)">
+Opoponax is a bytter iuyce of an
+herbe called Panaces, and it cometh
+out of Syria, and Arcadia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="optic(n)">Optyke. </form> <xpln lang="en" lexeme="optici(n)" lexeme="optomay(v)" lexeme="see(v)">
+The two synnowes whych bryng
+the vertue of seynge to the eyes ben
+called Optici, of Optomay whyche
+sygnifieth to see.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orobus(n)">Orobus. </form> <xpln lang="en" lexeme="codde(n)" lexeme="medicinal(n)">
+Orobus hath a lytle stalke, &#38; nar&#173;
+rowe leaues, and lytle seedes, whyche
+are enclosed in coddes, and of those
+seedes, there is made a medicinall
+floure, or meale.</xpln><lemenote>There was an emend tag here for 'those seedes' which I removed -- didn't seem to do anything. MP</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="os pectinis(n)">Os pectinis. </form> <xpln lang="en" lexeme="pecten(n)">
+Resorte to pecten.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="obthalmia(n)">Obthalmia. </form> <xpln lang="en" lexeme="conjunctiva(n)" lexeme="ophthalmos(n)" lexeme="eye(n)">
+Ophthalmia is an inflammati<expan type="">on</expan> of
+the skynne of the eye called coniuncti&#173;
+ua. Ophthalmos in greke, sygnifyeth
+an eye. The barborouse writters leue
+out the aspiration or lettres h h, and 
+turne P, into B.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="opium(n)">Opium. </form> <xpln lang="en" lexeme="black poppy(n)">
+Opium is the iuyce or lyquor of
+blacke poppie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oppositum(n)">Oppositum. </form> <xpln lang="en" lexeme="set overgainst(v)">
+Sette ouergaynst.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ordeolum(n)">Ordeolum. </form> <xpln lang="en" lexeme="aposteme(n)" lexeme="brickle(n)" lexeme="barley-corn(n)">
+Ordeolum is a lytle Aposteme a&#173;
+boute the bryncle of the eye lyddes,
+and it is so called, bycause it is lyke a
+barley corne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="osseum(n)">Osseum. </form> <xpln lang="en" lexeme="purse of the stones(n)" lexeme="oscheon(n)">
+The purse of the stones is called
+Oscheon in Greke, whereof the bar&#173;
+barous wrytters haue made Osseum,
+leauynge out the aspiration that is to
+saye H. and turnynge the lettre C, in
+to S.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ossa sisamina(n)">Ossa Sisamina. </form> <xpln lang="en" lexeme="sisamina(n)">
+Looke in Sisamina.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="os laude(n)">Os laud<expan type="">&#230;</expan>. </form> <xpln lang="en" lexeme="barba rousty(n)">
+They calle the bone of the hyndre
+part of the heade, whyche resembleth 
+this greke lettre &#923; Os laude, or barba
+rousty, laude, for so the lettre is called
+in greke. Looke in Pericranium.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oximell(n)">Oximell. </form> <xpln lang="en" lexeme="vinegar(n)" lexeme="honey(n)">
+Oxymel is made of vinaygre, and
+honye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxirundinum(n)">Oxirundinum. </form> <xpln lang="en" lexeme="oxyrodinon(n)">
+I thynke that they wolde saye oxi&#173;
+rodion, or Oxyrodinon, whyche is
+made of vynaygre, and rooses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxicroceum(n)">Oxicroceum. </form> <xpln lang="en" lexeme="vinegar(n)" lexeme="saffron(n)">
+Oxicroceum is made of vynaygre,
+and Saffran.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxisacharum(n)">Oxisacharum. </form> <xpln lang="en" lexeme="oxisachar(n)">
+Oxisachar is made of suggre, and
+vynaygre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palea marina(n)">Palea marina. </form> <xpln lang="en" lexeme="chaff of the sea(n)" lexeme="spuma maris(n)" lexeme="foam of the sea(n)" lexeme="balls of the sea(n)">
+PAlea marina sygni&#173;
+fieth the chaffe of the
+sea, whereof I haue
+found nothyng in any
+auctour. Musa saythe
+that some Apotheca&#173;
+ries in steede of a sponge vse a thynge
+that is woullie wythin, whyche they
+thynke to be spuma maris, that is <expan type="">the</expan>
+fome of the saye.  The Apothecaries
+haue also certayne thynges, whyche
+they call balles of <expan type="">the</expan> sea, &#38; are made of
+the fome of the sea beaten agaynst the 
+rockes, and banckes, &#38; are verye small
+as it were strawes. One of these two
+Vigo meaneth by chaffe of the sea, as
+I suppose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palliative(a)">Palliatiue. </form> <xpln lang="en" lexeme="disease(n)" lexeme="cloak(v)">
+A cure palliatiue is, when a disease
+is cloked for a ceason, not perfytlye
+healed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="panaritium(n)">Panaritium. </form> <xpln lang="en" lexeme="paronicha(n)" lexeme="redvia(n)">
+
+
+
+
+
+</page>
+
+<page sig="&#38;4r">
+Panaritium is an aposteme about
+the rootes of the nayles, and it is <emend err="al-">cal&#173;</emend>
+led in Greke Paronichia, in latyn re&#173;
+duuia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pani(n)">Pani. </form> <xpln lang="en" lexeme="cicatrices(n)" lexeme="tenuis albugo(n)" lexeme="nephelion(n)" lexeme="little cloud(n)" lexeme="crassa albugo(n)" lexeme="web(n)">
+Vigo vseth these two wordes Pa&#173;
+ni, and cicatrices for one thynge. Cica&#173;
+trices in the eyes are of two kyndes,
+that whych is in the ouermoste parte
+of the eye is called in Latyne Tenuis
+albugo, in Greke Nephelion a lytle
+cloude. That whych rooteth more de&#173;
+pely is called, crassa albugo. Thys e&#173;
+uyl is called (as I suppose) in englysh
+a webbe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="panum(n)">Panum. </form> <xpln lang="en" lexeme="bread(n)">
+Panum (as Celsus sayeth) is the
+swellynge of a kernell, not hyghe, but
+brode, where in there is a thynge lyke
+a pushe, hauynge the semblaunce of
+breade, wherof it hath thys name.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pannicle(n)">Pannicle. </form> <xpln lang="en" lexeme="skin(n)" lexeme="ryme(n)">
+Pannicle, a skynne, or ryme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="panis porcinus(n)">Panis porcinus. </form> <xpln lang="en" lexeme="swin's bread(n)" lexeme="ciclaminus(n)">
+Panis prcinus so<expan type="">un</expan>deth worde for
+worde swynes breade, and it is so cal&#173;
+led bycause swyne delite in this herbe
+Loke in Ciclaminus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="papirus(n)">Papirus. </form> <xpln lang="en" lexeme="rush(n)">
+Papirus is a kynde of a rushe gro&#173;
+wynge in maryshe places of Egipte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parietaria(n)">Parietaria. </form> <xpln lang="en" lexeme="paries(n)" lexeme="wall(n)" lexeme="Saint Peter's crute(n)" lexeme="Saint Peter's wort(n)">
+Parietaria, hath hys name of that,
+that it groweth about walles. For pa<emend err="">&#173;</emend>
+ries sygnifyeth a wal. The dutche m<expan type="">en</expan>
+call it saynt Peters crute, <expan type="">that</expan> is saynt
+Peters worte, &#38; dach and nacht that
+is daye, and nyght.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paroxismus(n)">Paroxismus. </form> <xpln lang="en" lexeme="paroxyno(n)" lexeme="sharpen(v)" lexeme="stir up(v)">
+Paroxismos is the accesse, inuasi&#173;
+on, and fyrst c<expan type="">om</expan>mynge of a fieuer. It is
+deryued of paroxyno whych in Greke
+sygnifieth to sharpen, to styrre vp. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parotides(n)">Parotides. </form> <xpln lang="en" lexeme="para(n)" lexeme="nigh(adv)" lexeme="ous(n)" lexeme="otos(n)" lexeme="ear(n)">
+Parotides, ben apostemes aboute
+the eares. Para in Greke sygnifyeth 
+nygh, and ous, otos an eare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penidie(n)">Penidie. </form> <xpln lang="en" lexeme="apothecary(n)" lexeme="sugar(n)" lexeme="wreath(v)">
+Penidie are made of the Apotheca&#173;
+ries wyth suggre wrethen lyke ropes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paucedinis(n)">Paucedinis. </form> <xpln lang="en" lexeme="peucedanum(n)" lexeme="feniculum porcinum(n)" lexeme="swine's fenell(n)" lexeme="meon(n)" lexeme="men(n)" lexeme="pauce(n)">
+I thynke that they haue corrupte <expan type="">the</expan>
+worde and shulde saye Peucedanum,
+whych hath a stalke lyke fenell, a ye&#173;
+lowe floure, and a blacke roote full of
+liquor. Some call it feniculum porci&#173;
+num that is swynes fenell. There is a
+iuyce gathered out of the t<expan type="">en</expan>der rootes
+thereof, beynge cutte wyth a knyfe,
+whych is good for paynes of <expan type="">the</expan> heade,
+and for the fallynge sycknesse. &#38;c. The
+whytyshe roote called of them Meon,
+or men, for that, that Vigon calleth
+pauce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pecten(n)">Pecten. </form> <xpln lang="en" lexeme="privy member(n)">
+Pecten is vsed of Vigon, for <expan type="">the</expan> bone
+ouer the priuie membres.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pectoral(a)">Pectorall. </form> <xpln lang="en" lexeme="breast(n)">
+Pectorall, Pertaynyng to the brest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pericranium(n)">Pericranium. </form> <xpln lang="en" lexeme="peri(adv)" lexeme="about(adv)" lexeme="cranion(n)" lexeme="skull(n)" lexeme="stephanea(n)" lexeme="coronalis(n)" lexeme="lambdoides(n)" lexeme="lambda(n)" lexeme="obeliaea(n)" lexeme="sagittallis(n)" lexeme="petrosa(n)" lexeme="lithoeide(n)" lexeme="lepidoeides(n)" lexeme="meninges(n)" lexeme="dura mater(n)" lexeme="ethmoeide(n)" lexeme="basilaria(n)" lexeme="choroeide(n)" lexeme="tenuis membrana(n)" lexeme="pia mater(n)" lexeme="paregcephalida(n)" lexeme="cerebellum(n)" lexeme="passage(n)" lexeme="common sense(n)" lexeme="third ventricle(n)" lexeme="conarion(n)" lexeme="pine apple(n)" lexeme="conos(n)" lexeme="gloytia(n)" lexeme="exrescentium vermicularem(n)" lexeme="chamber(n)" lexeme="infundibulum(n)" lexeme="tunnel(n)" lexeme="rhete mirabile(n)" lexeme="marvellous net(n)" lexeme="carotides(n)" lexeme="head arteries(n)">
+Bycause that Vigon speaketh ob&#173;
+scurelye aboute the Anatomie of the
+heade we thought good here to adde
+somewhat. The skynne that lyeth vn&#173;
+der the fyrste skynne of the heade, and
+compasseth aboute the sculle, is called
+pericranium. For peri in greke sygni&#173;
+fyeth aboute, &#38; cranion a scull. There
+ben thre seames, or c<expan type="">om</expan>myssures in the
+heade. Wherof two ben ouerthwart,
+of whych one is in the foreparte of the
+heade called Stephanea, or corona&#173;
+lis, the other is in the hynder parte of
+the heade, and is called lambdoides,
+bycause it is lyke thys lettre, &#923; called
+lambda in greke. The thyrde is stret&#173;
+ched fr<expan type="">om</expan> <expan type="">the</expan> myddel of the hynder, vnto
+the myddell of the former, and is cal&#173;
+led in greke Obeliaea, in latyne sagit&#173;
+tallis. The fygure of these seames re&#173;
+presenteth thys letter H. The bones,
+whyche ben sette at the eares on both
+sydes, bene called Petrosa, in Greke
+
+
+
+
+
+</page>
+
+<page sig="&#38;4v">
+lithoeide, bycause they bene lyke stoo&#173;
+nes. About the temples there are two
+seames called in greke lepidoeides, <expan type="">that</expan>
+is lyke scales. Whan the brayne pan
+is remoued, there appere two rymes,
+or thynne skynnes, called in greke me<emend err="">&#173;</emend>
+ninges. The more outwarde of these
+two is grosser, &#38; defendeth the brayn
+that it be not hurte agaynst the sculle.
+&#38; it is called dura mater. This rime
+is bored thorough aboute the bones,
+called in greke Ethmoeide, for that,
+that they ben perced lyke a strayner,
+or syffe, and spongreide, bycause they
+ben ful of bones lyke a sponge, Vigo
+calleth them Basilaria. The inner
+ryme ioyned euen vnto the brayne is
+thynner, and weaker than the other,
+and it is lyke the skynne wherwith a
+chylde is wrapped, in the moothers
+woumbe, and therefore the grecians
+calle it Choroeide, In latine it is cal&#173;
+led tenuis membrana, and pia mater.
+The brayne it selfe is deuided into .ii.
+partes, the former and the hynder.
+The former is greater, &#38; softer than
+the hinder, and is deuided of dura ma<emend err="">&#173;</emend>
+ter. The hinder brayne lyeth to the
+other, and therfore the egiptians call
+it Paregcephalida, the latynes, by&#173;
+cause it is lesse than the other, haue na<emend err="">&#173;</emend>
+med it cerebellum. The two ventri&#173;
+cles of the former brayne labour out,
+and finisshe the animalle spirite, and
+sende it in to the hindre brain to cause
+remembrance. Wherfore it was nede
+full that a passage shulde be from th<expan type="">em</expan>
+vnto the hynder brayne, some cal this
+passage, the common sense, some the
+third ventricle. There leneth one this
+passage of the brayne, a lytle particle
+or piece after the manner of a vaulte,
+bounchy without, and hollowe with
+in, that there may be free space to mo<emend err="">&#173;</emend>
+tion and mouynge. The bodye or sub<emend err="">&#173;</emend>
+stance that adioyneth to this passage,
+where the sayde passage hath his be&#173;
+gynnyng, is called conarion in greke,
+bycause it resembleth a pyne apple na<emend err="">&#173;</emend>
+med conos. There lye aboute in the
+sydes of the sayde myddle passage,
+rounde bodies or substaunces, called
+in greke, Gloutia, bycause they bene
+lyke the buttockes of a man, some ly&#173;
+ken them to the stones.
+
+But ther lieth ouer the passage of the
+brayne a particle, which obteyneth a
+circumscription lyke vnto a woorme
+engendred in wood. And therfore the
+Anatomistes call that bodye or sub&#173;
+stance, that couereth the hole passage,
+Excrescentiam vermicularem, that is
+the worme oute growyng. There pro<emend err="">&#173;</emend>
+cede oute of the myddle ventricle, or
+chamber, two as it were condute py&#173;
+pes, deriuyng superfluyties vnto the
+roofe of the mouth, and cummyng to
+an hole, called infundibulum that is a
+tunnelle, bycause it is large aboue, &#38;
+strayt beneth. There ben seuen payre
+of synnowes, whiche growe from the
+brayne. The fyrste .ii. pertayne to the
+eyes, and gyue them facultie of seyng,
+these are holowe, and softer than o&#173;
+ther synnowes, and they ioyne them
+selues togyther, &#38; agayne before they
+enter into the eyes, they are deuyded,
+representynge this greke letter .&#935;.
+
+The other payres are declared in Vi&#173;
+go. Finally rhete mirabile, or the mer<emend err="">&#173;</emend>
+ueylouse nette, is made of these arte&#173;
+ries, which come into the head wher&#173;
+as they, passyng ouer the scul, meete
+at the fundation of the brayne . For
+there, nature hathe prepared for this
+nette, as it were a chambre, beyng en<emend err="">&#173;</emend>
+uyroned with the hard ryme dura ma<emend err="">&#173;</emend>
+ter. Into whiche place not a lytle por<emend err="">&#173;</emend>
+tion c<expan type="">om</expan>meth of the arteries called ca&#173;
+rotides, or head arteries, whiche ar&#173;
+teries afterwarde ben dyuided in to a
+pl<expan type="">en</expan>tuous generation, and so by those
+goyng as it were lattese wyse, a form
+of a nette is fasshoned.
+
+
+
+
+
+</page>
+
+<page sig="&#38;5r">
+Nowe that we haue spoken suffycy&#173;
+ently of the anatomie of the heed, we
+wyll also speake somewhat of the o&#173;
+ther principall membres, and fyrste
+of the herte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heart(n)">The herte. </form> <xpln lang="en" lexeme="venosa arteria(n)" lexeme="venticle(n)" lexeme="chamber(n)" lexeme="arteriosa vena(n)" lexeme="tunicle(n)" lexeme="skin(n)" lexeme="artery(n)" lexeme="aorta(n)"> The hert on both sydes, aboute
+the fundament of it, hath (as it were)
+eares. The ryght eare with a notable
+braunche is ioyned vnto the hollowe
+veyne, and vnto the ryght v<expan type="">en</expan>tricle of
+the herte. The left eare is ioyned to <expan type="">the</expan>
+mouth of the veynie arterie (called ve<emend err="">&#173;</emend>
+nosa arteria) and to the left ventricle
+of the hert. For the hert hath two ven<emend err="">&#173;</emend>
+tricles, or ch<expan type="">am</expan>bres aryght, and a lefte
+chambre, and they bene deuyded, and
+parted atweine, through which perti<emend err="">&#173;</emend>
+tion there ben holes, by which, blood
+is conueyed into the left ventricle. In
+eche of the ventricles, there are two
+vessels. For a noble veyne entreth in&#173;
+to the ryght ventricle, which bringeth
+blood from the lyuer, and distributeth
+it to all the veynes within, &#38; without
+the hert. And there c<expan type="">om</expan>meth out of the
+same venticle, an arterious veyne,
+which caryeth blood to the longes.
+It is called arteriosa vena, bycause
+that in respect of his vse, it is a veine,
+but in respecte of his two tunicles, or
+skynnes, it is an arterie. A veynye
+arterie is planted in the left venticle,
+which bringeth ayre from the l<expan type="">on</expan>ges
+to the herte. And it is called venosa
+arteria, bycause that yf ye regard his
+vse, it is an arterie, but yf ye regarde
+his tunicle or skynne which is syngle,
+and one onely, it is a veyne. The grea<emend err="">&#173;</emend>
+test arterie of all, called aorta, <expan type="">the</expan> heed
+spryng of all other, issueth out of this
+ventricle, whereof one parte goeth to
+the canell bone, and the other is wry&#173;
+thed to the backe bone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liver(n)">The liuer. </form> <xpln lang="en" lexeme="laps(n)" lexeme="lobi(n)" lexeme="bladder(n)" lexeme="cistis cholidochos(n)" lexeme="hollow vein(n)">
+The liuer for the moste parte, is 
+deuyded into fyue lappes, called lobi.
+Howebeit in some it hath but two, in
+some foure, in some none, but is al to&#173;
+gyther round. From the hollow parte
+of the greater lappe, a lytle pype deri&#173;
+ueth cholere, to a bladder, called cistis
+cholidochos, whiche hangeth by the
+sayde lappes. From the bunchie part
+of the liuer, there issueth the greatest
+veyne of all the body, and it is called
+the hollowe veyne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stomach(n)">The stomake. </form> <xpln lang="en" lexeme="meseraice(n)" lexeme="veins(n)">
+The inner skynne of the stomak
+being thynne, hath str<expan type="">en</expan>ygth filmes, <expan type="">the</expan>
+outwarde whiche is grosser, hathe o&#173;
+uerthwart filmes. Fyrst, than the sto&#173;
+make draweth meate, stretchyng out
+the streyght fylmes. Secondlye it re&#173;
+tayneth, and embraceth the meate be&#173;
+<emend err="being">ing</emend> draw<expan type="">en</expan> in with the <emend err="ouertwhart">ouerthwart</emend>
+fylmes. And it retayneth the meate
+so longe, tyll by the alteratiue power
+it is turned into good iuyce. Th<expan type="">an</expan> the
+stomake reserueth the beste for hys
+owne noryshment, &#38; dryueth downe
+the rest vnto the guttes, and fr<expan type="">om</expan> th<expan type="">en</expan>ce
+that, that is best is returned to the li&#173;
+uer, by the veynes called meseraic<expan type="">&#230;</expan>.
+Howbeit that the lyuer shulde not ta<emend err="">&#173;</emend>
+rye to longe for hys meate, the sto&#173;
+make sendeth vnto hym in the meane
+season, by lytle short veynes whyche
+growe to the lyuer, and to the sto&#173;
+make the fyneste, and purest parte of
+his prepared iuce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pessary(n)">Pessarie. </form> <xpln lang="en" lexeme="pessus(a)" lexeme="toss(v)">
+Pessus is woll toosed, and made
+rounde after the fassyon of a fynger,
+wherewith medicines are receyued,
+and conueyed into the matrice.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="phlegmon(n)">Phlegmon. </form> <xpln lang="en" lexeme="swelling(n)">
+Phlegmone besyde boylyng heate,
+sygnifyeth a paynefull, redde, &#38; harde
+swellynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petrolium(n)">Petrolium. </form> <xpln lang="en" lexeme="naphtha(n)">
+Petroli<expan type="">um</expan> is vsed for naphtha, which
+droppeth out, of a babilonyke lyme, &#38;
+hath power to drawe fyre vnto hym,
+
+
+
+
+
+</page>
+
+<page sig="&#38;5v">
+though it be somewhat remoued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pilosella(n)">Pilosella. </form> <xpln lang="en" lexeme="pilus(n)" lexeme="hair(n)" lexeme="mouseear(n)" lexeme="hertwort(n)">
+Pilosella is founde in no lerned au&#173;
+ctour. Howbeit the later wryters de&#173;
+scrybe it to be an herbe, that groweth
+in stonie and drye places, with a red
+floure, and with leaues spredde vpon
+the grounde, in which leaues ther b<expan type="">en</expan>
+as it were heeres, and therfore they
+haue barbarously called it pilosella,
+of pilus an heere. The description a&#173;
+greeth <expan type="">with</expan> mouseeare, sau<expan type="">in</expan>g in <expan type="">the</expan> flour
+It is Englysshed in an olde wrytten
+boke, hertwort. Where this herbe is
+not found, some thinke it good to vse
+mouseeare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="philomum(n)">Philom<expan type="">um</expan>.</form> <xpln lang="en" lexeme="philos(n)" lexeme="friend(n)">
+Philom<expan type="">um</expan> is a confection so cal&#173;
+led of Philon the inuentoure of it, or
+as some saye, of philos, which sygni&#173;
+fyeth a frende, bycause it is frendlye
+to hym that receyueth it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="policariam(n)">Policariam. </form> <xpln lang="en" lexeme="policaria(n)" lexeme="conyza(n)" lexeme="pulicaris(n)" lexeme="fleawort(n)" lexeme="pulex(n)" lexeme="flea(n)" lexeme="arsinerte(n)">
+The auctour of the p<expan type="">an</expan>dectes sayth
+that they vse policaria for conyza,
+which is that, that the latines cal pu<emend err="">&#173;</emend>
+licaris, which may be called fleiwort
+For pulex signifieth a fley. Ieronim<expan type="">us</expan>
+Trag<expan type="">us</expan> thynketh that one kynde of pu<emend err="">&#173;</emend>
+licaris is arsinerte. This herbe dry&#173;
+ueth awaye fleys.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polium montanum(n)">Polium montan<expan type="">um</expan></form> <xpln lang="en" lexeme="hoar(a)">
+Poli<expan type="">um</expan> montan<expan type="">um</expan> is a lytle shrubbe,
+of whyte colour an handfull hyghe,
+full of seede. In the top it hath a lytle
+heed lyke the hoore heeres of a man,
+smellynge strongly wyth some plea&#173;
+sauntnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polypodie(n)">Polypodie. </form> <xpln lang="en" lexeme="oak fern(n)">
+Some <emend err="">call</emend> polipodi<expan type="">um</expan> oke ferne.
+It draweth out fleame, and cholere,
+but chefely melancholye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pori uritides(n)">Pori vritides. </form> <xpln lang="en" lexeme="ureters(n)">
+Vreteres ben passages, by whyche
+vrine sondred from blood, is c<expan type="">on</expan>ueyed
+to the bladder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="psidia(n)">Psidia. </form> <xpln lang="en" lexeme="sidia(n)" lexeme="pomegranade rinds(n)">
+They vse psidia for sidia, whiche
+signifyeth the ryndes of a pomegra&#173;
+nade.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="psillium(n)">Psillium. </form> <xpln lang="en" lexeme="psille(n)" lexeme="flea(n)" lexeme="pulicaris(n)">
+Psillium hath his name of psille,
+which signifyeth a fley. For the seede
+of this herbe is like a fley, and is vsed
+in medicines to coole. The latines al&#173;
+so call this herbe pulicaris of fleys.
+It groweth nygh the see, and also in
+other vntylled, and baren places.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pthisis(n)">Pthisis. </form> <xpln lang="en" lexeme="wasting(n)" lexeme="consumption(n)">
+Phthisis in Greke signifyeth wa&#173;
+styng, a consumynge sycknesse, a con&#173;
+sumption as we call it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pulsative(a)">Pulsatiue. </form> <xpln lang="en" lexeme="beating(n)">
+Pulsatiue. Beatynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pruna(n)">Pruna. </form> <xpln lang="en" lexeme="coal(n)" lexeme="anthrax(n)">
+Pruna: a fyrye coole. Resort to an&#173;
+thrax.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pustles(n)">Pustles. </form> <xpln lang="en" lexeme="pusches(n)" lexeme="variole(n)">
+There ben two kyndes of pustles,
+or pusches. For some pusches are
+hygh, some brode. The hygher are en<emend err="">&#173;</emend>
+gendred of hote, and subtyle humou&#173;
+res, and cause ytchyng, and are called
+of some morbilli. The brode ar lower
+and come of grosse, and cold humou&#173;
+res, neither cause ytchynge, and bene
+called variol<expan type="">&#230;</expan> of barbarous wryters.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="putrifactive(n)">Putrefactiue. </form> <xpln lang="en" lexeme="putrefactium(n)"> That, that hath power to rotte is
+called putrefactiuum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pyretrum(n)">Pyretrum. </form> <xpln lang="en" lexeme="pyrethron(n)" lexeme="herba sauliaris(n)" lexeme="firy heat(n)" lexeme="pyr(n)" lexeme="fire(n)">
+Pyrethron is called in latyn herba
+sauliaris, bycause it prouoketh spet&#173;
+tel merueilously, it groweth in <expan type="">the</expan> mo<expan type="">un</expan><emend err="">&#173;</emend>
+taynes of Italye called Alpes. How&#173;
+beit, that, <expan type="">that</expan> commeth out of grecel<expan type="">an</expan>de
+is hoote. It hath his name of fyrye
+heate. For pyr in greke signifyeth fyre
+And our worde fyre is borowed of <expan type="">the</expan>
+grecians, by addition of this lettre H,
+as the custome of the hyghe Allmay&#173;
+nes is, whose speache we vse, &#38; make
+of pyr, phyr. whereunto we haue put
+of our owne, letter E, and pronounce
+
+
+
+
+
+</page>
+
+<page sig="&#38;6r">
+it phyre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rasceta(n)">Rasceta. </form> <xpln lang="en" lexeme="wrist(n)" lexeme="rascetam(n)">
+RAsceta: the barbarous
+doctours call <expan type="">the</expan> wrest
+of the hande, vnto the 
+knoccles, Rascetam.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="radical(a)">Radicall. </form> <xpln lang="en" lexeme="root(n)">
+Radical, belongyng
+to the roote.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="realgar(n)">Realgar. </form> <xpln lang="en" lexeme="brimstone(n)" lexeme="sleeked(a)" lexeme="lime(n)" lexeme="orpiment(n)">
+Realgar is made of brymstone, vn<emend err="">&#173;</emend>
+sleked lyme, and orpigment. It kyl&#173;
+leth rattes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="refrigeration(n)">Refrigeration. </form> <xpln lang="en" lexeme="cooling(n)">
+Refrigeration: coollynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="repletion(n)">Repletion. </form> <xpln lang="en" lexeme="filling(n)">
+Repletion: fyllyng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="restoration(n)">Restauration. </form> <xpln lang="en" lexeme="renewing(n)" lexeme="repairing(n)" lexeme="restoring(n)">
+Restauration: renuynge, repay&#173;
+ryng, restorynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="repercussive(a)">Repercussiue. </form> <xpln lang="en" lexeme="drive back(v)">
+Repercussiue: that, that hath po<emend err="">&#173;</emend>
+wer to dryue backe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resolutive(a)">Resolutiue. </form> <xpln lang="en" lexeme="loosing(n)">
+Resolutiue: loosynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="retentive(n)">Retentiue. </form> <xpln lang="en" lexeme="retaining(n)" lexeme="holding back(n)">
+Retentiue: retaynyng, holdynge
+backe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ribes(n)">Ribes. </form> <xpln lang="en" lexeme="sorrel(n)">
+Serapion sayeth, that ribes is a 
+plante, hauyng great, and grene lea&#173;
+ues, redde clusters of swete taste. Io.
+Agricola sayeth, that for Ribes, we
+maye vse the iuyce of an orenge, or of
+sorell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rob(n)">Rob. </form> <xpln lang="en" lexeme="robub(n)" lexeme="succum medicatum(n)">
+Rob or robub, is vsed for a puri&#173;
+fyed iuce, thycked by the heate or fyre,
+or of the sunne, vnto the forme of ho&#173;
+nye: Fuchsius calleth it Succum me&#173;
+dicatum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ruptory(a)">Ruptorie. </form> <xpln lang="en" lexeme="break(v)">
+Ruptorie: that, that hath strength
+to breake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salis gem(n)">Salis gemme. </form> <xpln lang="en" lexeme="sal gem(n)">
+SAl gemme. In
+the Mountaynes
+of Germanie, and
+Pannonie, ther is
+a salt dygged out,
+whereof the whi&#173;
+test is called Sal
+gemme, bycause it shyneth lyke a pre&#173;
+cyous stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanamunda(n)">Sanamunda. </form> <xpln lang="en" lexeme="avens(n)">
+Sanamunda, Auens.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanious(a)">Sanious. </form> <xpln lang="en" lexeme="matter(n)" lexeme="filth(n)" lexeme="corruption(n)">
+Sanious: full of matture, fylthe,
+corruption.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sandarache(n)">Sandarache. </form> <xpln lang="en" lexeme="counterfeit(a)" lexeme="ceruse(n)" lexeme="furnace(n)">
+There ben two kyndes of Sanda&#173;
+rach, one is of the nature, of metalles
+dygged out of the grounde, about hy&#173;
+panis, a ryuer of Schythia, the other
+is counterfayte, made of ceruse boy&#173;
+led in a fornace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanguis draconis(n)">Sanguis draconis. </form> <xpln lang="en" lexeme="dragon's blood(n)">
+Sanguis dra. soundeth dragons
+blood: for Plinie thought it to be a c<expan type="">on</expan><emend err="">&#173;</emend>
+mixtion of dragons, and Elephantes
+bloode, when they fyght togyther, the
+dragon being oppressed, by the fall of
+the elephant. Other think that, which
+we c<expan type="">om</expan>menly vse in medicines to be the
+lyquoure of a tree. And Cadamustus
+sayeth, that he sawe the tree in one of
+the newe found ylandes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sarcocoll(n)">Sarcocoll. </form> <xpln lang="en" lexeme="liquor(n)(">
+Sarcocoll is the lyquour of a tree
+growynge in Persia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sarcoeides(n)">Sarcoeides</form> <xpln lang="en" lexeme="resemblance(n)" lexeme="flesh(n)">
+The Grecians call that Sarco&#173;
+eides, that hath the resemblaunce of
+flesshe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sapa(n)">Sapa. </form> <xpln lang="en" lexeme="wine(n)">
+Sapa is newe wyne sodden vn<emend err="">&#173;</emend>
+to the thyrde parte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saphatum(n)">Saphatum. </form> <xpln lang="en" lexeme="running sores(n)" lexeme="saphata(n)" lexeme="achores(n)">
+Runnynge sores, whiche perce the
+skynne of chyldrens heedes with son&#173;
+
+
+
+
+
+</page>
+
+<page sig="&#38;6v">
+dry lytle holes, wherout there c<expan type="">om</expan>meth
+a gluysh matture, and filth, ben called
+of the later barbarous wryters, Sa&#173;
+phata, in Greke achores.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sebesten(n)">Sebesten. </form> <xpln lang="en" lexeme="myxas(n)">
+Sebest<expan type="">&#230;</expan> bene frutes lyke prunes,
+which in Siria they strayne, and ga&#173;
+ther out a slymye liquour, wherwith
+they make lyme. And for this cause
+the later wryters call them myxas.
+For myxa signifyeth grosse, and sly&#173;
+mye liquoure. These frutes are vsed
+to quenche thyrste, and represse cho&#173;
+lere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scarification(n)">Scarification. </form> <xpln lang="en" lexeme="scorching(n)">
+Scarification: scorchynge, ray&#173;
+synge of the skynne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sclirotike(a)">Sclirotike. </form> <xpln lang="en" lexeme="skin of the eye(n)" lexeme="scleros(n)" lexeme="hard(a)">
+Sclirotike. The fyrst skynne of the
+eye, which conteyneth vnder hym all
+the other skinnes, &#38; couereth, in <expan type="">the</expan> hin<emend err="">&#173;</emend>
+der parte the glassye, and cristalline
+humour, is called in Greke Scleros,
+and barbarouslye sclirotike, that is to
+saye, harde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sclirosis(n)">Sclirosis. </form> <xpln lang="en" lexeme="hardness(n)">
+Sclerosis: hardnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scamony(n)">Sc<expan type="">am</expan>monie. </form> <xpln lang="en" lexeme="diagredium(n)" lexeme="discrydion(n)">
+Sc<expan type="">am</expan>monia is an vnknowen herbe,
+the iuce of it, is vsed to purge choler,
+and they call it diagredium, or <emend err="diacry">discry&#173;</emend>
+dion. It is of a stronge sauour, vnple<emend err="">&#173;</emend>
+saunt in taste, and payneth the herte.
+And therfore some wish, that it were
+vsed nomore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scotomia(n)">Scotomia. </form> <xpln lang="en" lexeme="scotoma(n)" lexeme="scotos(n)" lexeme="darkness(n)" lexeme="vertigo(n)" lexeme="turning about(n)">
+They shoulde saye, Scoto&#173;
+ma, and it is a disease, when darke&#173;
+nesse ryseth before the eyes, and wh<expan type="">en</expan>
+all thynges seme to go round about.
+Scotos in greke signifyeth darknes.
+This disease is called vertigo, in la&#173;
+tyne, of turnyng about, though some
+go about, to make a foolysh difference
+of scotoma, and vertigo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="semen macedonicum(n)">Semen macedonicum. </form> <xpln lang="en" lexeme="parsley seed(n)" lexeme="hipposelinon(n)" lexeme="seed of Alexander(n)">
+Semen macedonicum is the seede
+of the percelye, which some call mace<emend err="">&#173;</emend>
+donicum, bycause it groweth in Ma&#173;
+cedonia, some Hipposelinon, that is
+horsepercelye, by reason of his great&#173;
+nesse, which some thynke to be aliza<expan type="">un</expan><emend err="">&#173;</emend>
+ders. At the leest in stede of it they c<expan type="">on</expan>&#173;
+menly vse the seede of alexanders.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sene(n)">Sene. </form> <xpln lang="en" lexeme="sena(n)">
+Sena hath lytle braunches, and
+the leafe of fenugreke, a thynne codde
+swellynge as it were full of wynde,
+wherin there is enclosed a brode, and
+blacke seede lyke a pese in taste. It
+purgeth fleame, and cholere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sephiros(n)">Sephiros. </form> <xpln lang="en" lexeme="scirros(n)" lexeme="durities(n)" lexeme="hardness(n)">
+Sephiros is an arabike worde,
+and it is called in Greke scirros, in la&#173;
+tyne, durities, that is hardnesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serapine(n)">Serapine. </form> <xpln lang="en" lexeme="sagapenum(n)" lexeme="serapinum(n)"> Sagapenum commenly called
+Serapin<expan type="">um</expan> droppeth out of the stalke
+of ferula, whiche ferula groweth be&#173;
+yonde the see in hoote places, and is 
+lyke fenell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sief(n)">Sief. </form> <xpln lang="en" lexeme="collirie(n)">
+Sief. Resort to collirie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sigillative(a)">Sigillatiue. </form> <xpln lang="en" lexeme="seal up(v)">
+Sigillatiue: hauyng strengthe 
+to seale vp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="siler montanum(n)">Siler montan<expan type="">um</expan>.</form> <xpln lang="en" lexeme="seseli(n)">
+Siler montanum, is thoughte
+to be Seseli of Massylia, which Di&#173;
+oscorides thus descrybeth Seseli.
+Massyliense (sayeth he) hathe leaues
+lyke fenelle, but his stalke is thycker,
+the toppe or tuft of it is lyke the heed
+of dyll, in which there is a longe seed,
+sharpe in tast. Both the roote and the
+seede do heate: and they are dronken 
+agaynst the strangurie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sisamina ossa(n)">Sisamina ossa. </form> <xpln lang="en" lexeme="sisamus(n)" lexeme="little grain(n)">
+
+
+
+
+
+</page>
+
+<page sig="@@1r">
+Sisamina ossa (as the auctoure
+of the Pandectes teacheth) are those
+boones, whiche bene betwene the boo&#173;
+nes of the fyngers, &#38; haue that name
+of Sisamus (for so they wryte Sesa<emend err="">&#173;</emend>
+num) which is alytle grayne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sisamus(n)">Sisamus. </form> <xpln lang="en" lexeme="corn(n)" lexeme="sesamum(n)" lexeme="oil(n)" lexeme="oleum sesaminum(n)">
+Sesamum is a kynde of corne.
+A playstre made thereof, mollifyeth
+hardenesse of synnowes, and discus&#173;
+seth grosse thynges retayned in them
+Of the seede of Sesamum, there is
+an oyle made, called, Oleum sesami&#173;
+num.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serpillum(n)">Serpillum. </form> <xpln lang="en" lexeme="serpere(n)" lexeme="creeping(n)" lexeme="onser urowen betscroo(n)" lexeme="Our Lady's bedstraw(n)">
+There ben two kyndes of Ser<emend err="">&#173;</emend>
+pillum: the one is garden Serpill<expan type="">um</expan>,
+and the other wylde Serpillum.
+The garden Serpillum, smellethe 
+lyke Maioram, and it is so called of
+crepynge, for serpere sygnifyeth to
+crepe. The wylde Serpillum cre&#173;
+peth not, but groweth on hyghe, and
+it hathe lytle stalkes fulle of slyppes,
+wyth leaues longer, and harder th<expan type="">an</expan>
+Rue, the floures thereof smelle plea&#173;
+sauntlye. The Dutche men call Ser&#173;
+pillum Onser vrowen betscroo, that
+is our ladyes bedstrawe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sirsen(n)">Sirsen. </form> <xpln lang="en" lexeme="phransye(n)">
+Sirsen is a barbarouse terme,
+and as the barborous wryters saye,
+it signifyeth the phransye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="septum transversum(n)">Septum transuersum. </form> <xpln lang="en" lexeme="diaphragma(n)" lexeme="precordia(n)">
+Where the false rybbes ende in a
+greate grystell, there groweth a gret
+and rounde muscle, whyche the Gre&#173;
+cyans calle diaphragma, the latynes
+Septum transuersum: And Plinie,
+Precordia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scrophules(n)">Scrophules. </form> <xpln lang="en" lexeme="kernel(n)" lexeme="engender(v)" lexeme="armhole(n)" lexeme="flank(n)">
+Scrophul<expan type="">&#230;</expan> bene hardened ker&#173;
+nelles engendred in the necke, arme&#173;
+holes, and in the flankes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="squillitic vinager(n)">Squylliticke vinaygre. </form> <xpln lang="en" lexeme="squilla(n)" lexeme="onion(n)">
+Squilliticke vyneaygre is made
+with the rootes of the greate oynion
+called squylla, or Scylla dryed, and
+with vynaygre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smaralde(n)">Smaralde. </form> <xpln lang="en" lexeme="smaragde(n)">
+The auctour of the Pandectes
+sayeth, that Smaraldus is a stoone
+of greene coloure, perchaunce they
+meane the precyous stoone, called a
+smaragde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soldanella(n)">Soldanella. </form> <xpln lang="en" lexeme="brassica marina(n)" lexeme="sea-coal worts(n)">
+Musa sayeth, that Soldanel&#173;
+la is Brassica marina, as yf you
+wolde saye, sea cole wortes. It hathe
+leaues lyke Aristolochia the rounde,
+and groweth by the sea syde. The pou<emend err="">&#173;</emend>
+der thereof (as Musa sayeth, he hath
+proued) is merueylous good for the
+hydropsye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spasm(n)">Spasme. </form> <xpln lang="en" lexeme="spao(n)" lexeme="draw together(v)" lexeme="contract(v)" lexeme="cramp(n)">
+Spasmus commeth of Spao,
+whyche signifyeth to drawe. For it
+is the contraction or drawynge togy<emend err="">&#173;</emend>
+ther of the synnowes, whyche payne
+we call the crampe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spelta(n)">Spelta. </form> <xpln lang="en" lexeme="barley(n)" lexeme="filminess(n)">
+Spelta is a grayne lyke barlye.
+It is good for flymynesse of the lon&#173;
+ges, and of the brest, and it easeth the
+cough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spodium(n)">Spodium. </form> <xpln lang="en" lexeme="tutia(n)">
+Spodium: Resorte to Tutia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="solution of continuity(n)">Solution of continuitie. </form> <xpln lang="en" lexeme="sunder(v)" lexeme="join together(v)">
+
+
+
+
+
+</page>
+
+<page sig="@@1v">
+Solution of continuitie is wh<expan type="">an</expan>
+those partes ben sondred, whiche be&#173;
+fore were ioyned togyther.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="staphisagria(n)">Staphisagria. </form> <xpln lang="en" lexeme="wild grape(n)">
+Staphis agria soundeth a wylde
+grape, and it hath that name bycause 
+the leafe of it is lyke a vyne. The seed
+is vsed in medicines, to drawe oute
+fleame.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spondylia(n)">Spondylia. </form> <xpln lang="en" lexeme="knot(n)" lexeme="joint(n)" lexeme="backbone(n)">
+Spondylia are the knottes, or
+ioyntes in the backe bone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="squinantum(n)">Squinantum. </form> <xpln lang="en" lexeme="schoenanthos(n)" lexeme="schoenos(n)" lexeme="rush(n)" lexeme="anthos(n)" lexeme="flower(n)">
+It shulde be wrytten, schoenan&#173;
+thos. For schoenos signifyeth a rush,
+and Anthos a floure. Howebeit the
+strawe onelye is brought vnto vs.
+Schoenanthos in Arabie is <expan type="">the</expan> meate
+of camelles, it prouoketh vryne, and
+raseth the strangurie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Squinantia. </form> <xpln lang="en" lexeme="squinancy(n)" lexeme="squince(n)" lexeme="choke(v)" lexeme="sinangchein(n)">
+They haue turned cynanche, or
+synanche into <term lang="la">squinantia</term>. Synanche
+is an inflammation of the throote,
+whyche we call the quynce, and it c<expan type="">om</expan>&#173;
+meth of sin<expan type="">an</expan>gchein. which signifieth 
+to choke. For in this disease there is
+greate daunger of chokyng.</xpln>
+<lemenote>
+"sinangchein" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sticados(n)">Sticados. </form> <xpln lang="en" lexeme="sticas(n)" lexeme="stoecas(n)">
+Sticas, or stoecas, boroweth
+hys name of the Islees, whiche lye
+ouer agaynste Massilia in Fraunce,
+and are called stoecades, bicause that
+in those places, it groweth plenteou&#173;
+sly. This herbe is smal, and schrubby,
+and hathe leues lyke thyme, sauynge,
+that they bene lesse: The taste of it is
+sharpe, with some bytternesse. A deco<emend err="">&#173;</emend>
+ction of this herbe is good for the dis<emend err="">&#173;</emend>
+ease of the brest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="storax(n)">Storax. </form> <xpln lang="en" lexeme="storax liquida(n)" lexeme="stacte of Stazein(n)" lexeme="drop(v)" lexeme="styrax(n)">
+Storax liquida is that, that o&#173;
+ther call stacte of Stazein, which sy&#173;
+gnifyeth to droppe, and it is the fatte
+of newe myrrhe stamped in a lytle
+water, and pressed out with an instru<emend err="">&#173;</emend>
+ment. Howbeit, Plinie sayeth that it
+sweateth out of myrrhe by his owne
+accorde. There is an other kynde of
+storax, or styrax, which is the liquour
+of a tre lyke a quynce tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sublimate(n)">Sublimate. </form> <xpln lang="en" lexeme="argentum sublimatum(n)">
+Argentum sublimatum is made
+of Chalcantum, quycksyluer, vyne&#173;
+gre, and sal armoniake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stoupes(n)">Stoupes. </form> <xpln lang="en" lexeme="stupe(n)" lexeme="hurdes(n)" lexeme="linnen clouts(n)">
+Stup<expan type="">&#230;</expan> be the stalkes of flax being
+pylled. The chiurgyens vse <expan type="">the</expan> name
+sometymes for hurdes, and somety&#173;
+mes for lynnen cloutes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugar candy of a syrup(n)">Sugre candie of a syrupe. </form> <xpln lang="en" lexeme="syrup(n)" lexeme="sugar-candy(n)">
+That, that groweth togyther,
+and bec<expan type="">om</expan>meth harde in a syrupe, they
+call sugre candie. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugre taberzet(n)">Sugre taberzet. </form> <xpln lang="en" lexeme="white sugar(n)">
+Sugre taberzet is fyne whyte su&#173;
+gre, and it is so called, bycause it is
+made in a countrie named Taberzet,
+as the pandectarie sayth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sumach(n)">Sumach. </form> <xpln lang="en" lexeme="sumach rhos(n)" lexeme="biscuit(n)" lexeme="ship bread(n)">
+The olde wryters, called Su&#173;
+mach Rhos, and it was vsed moche
+of skynners, and now it is vsed in
+medycynes. The Egiptians and Sy<emend err="">&#173;</emend>
+ryans vse the seed of this tree in their
+byscatte, or shyppe breed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="superficial(a)">Superficiall. </form> <xpln lang="en" lexeme="superficies(n)">
+The vppermoost parte of a thyng
+is called superficies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppositorium(n)">Suppositorium. </form> <xpln lang="en" lexeme="supponere(v)" lexeme="put under(v)" lexeme="glans(n)">
+Suppositori<expan type="">um</expan> commeth of sup&#173;
+ponere, which signifieth to put vnder
+It is called more elegantly, glans.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="@@2r">
+<wordentry type="h"><form lang="en" lexeme="suppuration(n)">Suppuration. </form> <xpln lang="en" lexeme="matter(n)" lexeme="rottenness(n)">
+Suppuration: when a thynge
+commeth to matture and rottennesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stiptic(n)">Stiptike. </form> <xpln lang="en" lexeme="binding(n)">
+Stiptike: byndynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stupefactive(a)">Stupefactiue. </form> <xpln lang="en" lexeme="astonish(n)">
+Stupefactiue: That, that hathe
+strength to astoynie, and take awaye
+felynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syrup de duabus radicibus(n)">Syrupe de duabus radicibus. </form> <xpln lang="en" lexeme="syrup(n)" lexeme="parsley(n)" lexeme="fennel(n)">
+A syrupe of two rootes, that is
+of percelye and fenell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syringes(n)">Syrynges. </form> <xpln lang="en" lexeme="pipe(n)" lexeme="spout(n)">
+Syryngx signifyeth a pype or
+spoute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tamarindi(n)" lexeme="oxyphoenica(n)" lexeme="oxys(a)">Tamarindi.</form> <xpln lang="en">
+TAmarindi, or Oxy&#173;
+phoenica, bene the
+fruytes of a wylde
+date tree, and bene
+called of the Greci&#173;
+ans Oxyphoenica,
+bycause of their ay&#173;
+gre taste. For oxys signifyeth tarte &#38;
+aygre, and phoenix a date tree. They
+grow plenteously in India, and they
+purge yellowe cholere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tartar(n)">Tartar. </form> <xpln lang="en" lexeme="leies(n)">
+Tartar: the lyes of wyne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tapsus barbatus(n)">Tapsus barbatus. </form> <xpln lang="en" lexeme="tassus barbassus(n)" lexeme="verbascum(n)" lexeme="moleyne(n)" lexeme="unulkraut(n)" lexeme="wollwort(n)" lexeme="lychinitis(n)" lexeme="lychnos(n)" lexeme="light(n)" lexeme="candle(n)">
+Tapsus barbatus, or (as some
+wryte it) Tassus barbassus, in latine
+Verbascum, is the herbe that we call
+Moleyne in Englysshe. The Germai<emend err="">&#173;</emend>
+nes call it vnulkraute, that is wolle&#173;
+worte, for candelles in some places
+bene made therwith. For which cause
+it is also called in Greke Lychinitis,
+for lychnos, (where of perchaunce
+oure worde lyght commeth) signify&#173;
+eth a candell in Greke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tendons(n)">Tendons. </form> <xpln lang="en" lexeme="tenontes(n)" lexeme="tendines(n)" lexeme="sinnows(n)">
+Pollux sayeth that tenontes, or
+tendines, are brode synnowes, exten&#173;
+ded from the hamme, to the heele.
+They are also two synowes passyng
+by the necke, wythout the which, the
+necke coulde not be turned ne sustay&#173;
+ned.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tenasmos(n)">Tenasmos. </form> <xpln lang="en" lexeme="teinein(v)" lexeme="stretch(v)">
+Tenesmos is whan a man hath
+greate prouocation to the seege, but
+can do nothynge. It commeth of tei&#173;
+nein, which signifyeth to stretche.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tension(n)">Tension. </form> <xpln lang="en" lexeme="stretching(n)">
+Tension: stretchynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="terra sigillata(n)">Terra sigillata. </form> <xpln lang="en">
+Terra sigillata is an earth dyg&#173;
+ged out of certayne caues in the Is&#173;
+le Lemnos. And bycause it was sent
+from thence beinge sealed, it was cal&#173;
+led Sigillata. Some thynke, that
+we haue not the thynge, thoughe we
+retayne the name.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="terebentine(n)">Terebentine. </form> <xpln lang="en" lexeme="terebinthina(n)">
+Mainarde sayeth, that the true
+Terebinthina was broughte oute of
+the Isle called Chios, and out of Li&#173;
+bia, and Pontus: But nowe in the
+stede of it, we vse Rhasyne of the fyr,
+or sapyne tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="terminatio ad crisim(n)">Terminatio ad crisim. </form> <xpln lang="en" lexeme="crisis(n)" lexeme="judgment(n)" lexeme="elleipes(n)" lexeme="cace(n)" lexeme="ateles(n)" lexeme="lises(n)" lexeme="solutions(n)" lexeme="loosings(n)">
+Crisis sygnifyeth iudgemente,
+and in thys case, it is vsed for a so&#173;
+dayne chaunge in a disease. Thys
+chaunge is wonte to happen foure
+maner of wayes. For eyther the pa&#173;
+tient is immedyatly delyuered of hys
+disease, or is moche better at ease, or
+dyeth incontynentlye, or becommeth
+moche worse.
+
+
+
+
+
+</page>
+
+<page sig="@@2v">
+The fyrst of these chaunges is called
+Crisis, the seconde Elleipes that is
+wantynge, the thyrde cace, that is e&#173;
+uyll, the fourth ateles, that vnper&#173;
+fyte. Hereafter it appeareth, <expan type="">that</expan> those
+chaunges which happen by litle and 
+lytle, are not properly called Crises,
+but lises, that is solutions, or loosin&#173;
+ges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trachea arteria(n)">Trachea arteria. </form> <xpln lang="en" lexeme="wesand pipe(n)" lexeme="trachea(n)">
+The wesaunde pype is called,
+Trachea, bycause it is rough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transversalis(n)">Transuersalis. </form> <xpln lang="en" lexeme="crossover(n)">
+Transuersalis: crosseouer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trifera(n)">Trifera. </form> <xpln lang="en" lexeme="electuary(n)" lexeme="myrobalan(n)" lexeme="ginger(n)" lexeme="clove(n)" lexeme="windiness(n)" lexeme="raw(a)" lexeme="humour(n)">
+Trifera is an electuarie, made
+of myrobalanes, gynger, cloues. &#38;c.
+for wyndynesse, rawe humours. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trociskes(n)">Trociskes. </form> <xpln lang="en" lexeme="trochiscos(n)" lexeme="little wheel(n)" lexeme="pastillum(n)">
+Trochiscos in Greke, is a lytle
+whele. Amonge the apothecaries, it
+is a confection made of sondrye pou&#173;
+ders and spyces, by the mene of some
+lyquoure. In latyne they call it Pa&#173;
+stillum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tunecis(n)">Tunecis. </form> <xpln lang="en" lexeme="tunici(n)" lexeme="polemonium(n)" lexeme="gilyflowers(n)">
+Some thynke that Tunici, is
+the herbe, that dioscorides calleth po<emend err="">&#173;</emend>
+lemonium, and some take it for the
+floures of gillofloures. Polemoni&#173;
+um, after Dioscorides descryption,
+hath leaues lytle bygger than Rue,
+but longer. In the toppe of hys
+braunches it hath (as it were) Iuye
+berryes, in whyche there is a blacke
+seede. The roote is dronken <expan type="">with</expan> wyne
+agaynst venyme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tutia(n)">Tutia. </form> <xpln lang="en" lexeme="pompholix(n)" lexeme="bubble(n)" lexeme="spodium(n)" lexeme="spodos(n)" lexeme="dust(n)" lexeme="ashes(n)" lexeme="spodion(n)">
+Tutia is called in Greke, Pom&#173;
+pholix, that is to saye, a bubble. For
+it is that, that bubbleth vp in brasse,
+whan it is boyled, and cleueth to the
+sydes, or couer of the fornace. And
+that, that synketh, and is (as it were)
+the asshes of boyled brasse, is called
+Spodium. For spodos in Greke sy&#173;
+gnifyeth the dust and asshes, wherof
+spodion is a diminuatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turbith(n)">Turbith. </form> <xpln lang="en" lexeme="spurge(n)">
+Musa sayeth, that Turbith is
+the seconde kynde of spurge. Some
+thynke, that Turbith is taken out of
+a plant, whyche hath leaues lyke the
+leaues of the myrte tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="varice(n)">Varices. </form> <xpln lang="en" lexeme="varix(n)">
+VArix is the swel&#173;
+lynge of a veyne,
+somtymes in the
+temples, some&#173;
+tyme in the base
+parte of the belly,
+somtymes about
+the stones, but chefelye about the leg&#173;
+ges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ventose(n)">Ventoses. </form> <xpln lang="en" lexeme="cucurbicula(n)" lexeme="cupping glass(n)" lexeme="boxing glass(n)">
+They vse this worde Ventosa
+for Cucurbicula, that is a cuppynge
+or boxynge glasse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ventricle(n)">Ventricles. </form> <xpln lang="en" lexeme="ventricle(n)" lexeme="little maw(n)" lexeme="chamber(n)" lexeme="hole(n)">
+Ventricles: Lytle (as it were)
+mawes, chambres, holes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vermicularis(n)">Vermicularis. </form> <xpln lang="en" lexeme="lesser houseleek(n)">
+Vermicularis: the lesse housleke
+it groweth vpon houses. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vesicatory(n)">Vesicatorie. </form> <xpln lang="en" lexeme="bladdering(n)" lexeme="blistering(n)">
+Vesicatorie: Bladderynge, bly&#173;
+sterynge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="viscum(n)">Viscum. </form> <xpln lang="en" lexeme="bird-lime(n)" lexeme="damascene(n)" lexeme="mistletoe(n)">
+One kynde of Viscum is byrde&#173;
+lyme, made of honye, and oyle. An o&#173;
+ther kynde is called Damascene, and
+commeth from Damasco. Mystel&#173;
+towe also is called Viscum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ulcer(n)">Vlcers. </form> <xpln lang="en" lexeme="sores(n)">
+Vlcers. Sores.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="@@3r">
+<wordentry type="h"><form lang="en" lexeme="volubilis(n)">Volubilis. </form> <xpln lang="en" lexeme="winde(n)" lexeme="hyehone(n)">
+There ben many kyndes of volubi&#173;
+lis, one hathe whyte floures lyke bel&#173;
+les, and wrappeth it self in hedges. A&#173;
+nother crepeth on the grounde, &#38; wyn&#173;
+deth it self aboute herbes. The ger&#173;
+maines call volubilos winde, bycause
+(I thynke) it wyndeth, and wrappeth
+it selfe aboute bushes or herbes. I
+founde it englished in an olde wrytten
+boke hyehone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vitis alba(n)">Vitis alba. </form> <xpln lang="en" lexeme="white vine(n)" lexeme="brionia(n)" lexeme="nigra vitis(n)" lexeme="black vine(n)" lexeme="brionia nigra(n)" lexeme="vua tamina(n)">
+Vitis alba hath leaues, and braun<emend err="">&#173;</emend>
+ches like a set vine, and twyneth it self
+aboute brambles, wyth hys tendrel&#173;
+les, as a vine byndeth it selfe to trees,
+and it hathe clusters of redde coloure
+lyke grapes, wherwyth men were
+wonte to courie skynnes. The name
+soundeth a white vine, and it is called
+moreouer brionia. There is another
+called nigra vitis, or a blacke vine, &#38; it
+hath leaues like yuie, &#38; catcheth trees,
+which grow nigh vnto him, with his
+tendrelles, it beareth clusters, fyrste
+grene, and afterwarde blacke, when
+they ben rype, and it is called in latine
+bryonia nigra, and vua tamina.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ungula(n)">Vngula. </form> <xpln lang="en" lexeme="conjunctiva(n)">
+Vngula is a sinnowye eminence of
+the skynne of the eye called coniuncti&#173;
+ua, beginning at the greater corner of
+the eye, and procedyng vnto the apple
+of the eye, and when it is increased, it
+couereth the apple also.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="undimia(n)">Vndimia. </form> <xpln lang="en" lexeme="oedema(n)" lexeme="tumor(n)">
+Vndimia is abarbarouse terme, in
+greke it is called oedema, in latine tu&#173;
+mor. For it is a softe swellynge wyth&#173;
+out payne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vital spirits(n)">Vital spirites. </form> <xpln lang="en" lexeme="animal spirit(n)" lexeme="animam(n)" lexeme="natural spirit(n)" lexeme="faculty(n)" lexeme="animal faculty(n)" lexeme="vital faculty(n)" lexeme="natural faculty(n)" lexeme="logistice(n)" lexeme="thymoeides(n)" lexeme="epithymetrice(n)" lexeme="coveting(n)" lexeme="appeting(n)" lexeme="threptice(n)" lexeme="nourishing(n)" lexeme="attractive virtue(n)" lexeme="retentive virtue(n)" lexeme="alternative virtue(n)" lexeme="expulsive virtue(n)">
+A spirite is a subtile, fyne, aerye,
+and cleare substaunce, produced of the
+thynnest, and fynest parte of bloode,
+that vertue, and strength maye be ca&#173;
+ried from the principal parte to <expan type="">the</expan> rest.
+The physitions teache that there ben
+thre kindes of spirites, animal, vital, &#38;
+naturall. The animal spirite hath his
+seate in the brayne, and is spredde in
+to all the bodye by synnowes, gyuyng
+facultie of mouynge, and felynge. It
+is called animal, bycause it is the first
+instrument of the soule, whych the la&#173;
+tines call animam. And it is ing<expan type="">en</expan>dred
+of the vital spirite caried vp thither by
+arteries, and there more parfectly di&#173;
+gested, and elaboured. For whyche pur<emend err="">&#173;</emend>
+pose nature made <expan type="">the</expan> merueylouse nette
+in the brayne, as it were a chaungea&#173;
+ble, and manifolde mase. The vital spi<emend err="">&#173;</emend>
+rite is conteyned in the harte, and is
+caried to the partes of the bodye, to
+cause naturall heate. It is engendred
+of inspiration, and of exhalation, or
+outbreathinge of bloode. The natural
+spirite dwelleth in the lyuer, and in <expan type="">the</expan>
+veynes. Howbeit some alowe not the
+addition of this spirite, beyng conten&#173;
+ted wyth the other two. Nowe that
+we haue declared the spirites, we wil
+speake somewhat of the natural facul<emend err="">&#173;</emend>
+ties. There ben thre faculties (I call a
+facultie the cause wherof action or do
+ynge procedeth) whych gouerne man,
+and are distributed to the hole bodye,
+as it were from an hedspringe, name&#173;
+ly animal, vital, and natural. The ani<emend err="">&#173;</emend>
+mal facultie is <expan type="">that</expan>, whyche sendeth fe&#173;
+lynge, and mouynge vnto al the bodie
+from the brayne by sinnowes, as it
+were by lytle pypes, or conduytes, &#38;
+moreouer it nourisheth vnderst<expan type="">an</expan>ding,
+&#38; therfore the Greci<expan type="">an</expan>s cal it logistice.
+The vital facultie gyueth lyfe from <expan type="">the</expan>
+harte by arteries vnto all the bodye, <expan type="">the</expan>
+Grecians call it thymoeides, that is
+fitte to be angry, or couragious. wher&#173;
+by it appeareth <expan type="">that</expan> the hart is the head&#173;
+sprynge of natural heate. The natural
+facultie gyueth nouryshment to al the
+partes of the bodye from the lyuer by
+veynes, and is called of the grecians
+epithymetrice, that is couetynge, or ap<emend err="">&#173;</emend>
+
+
+
+
+
+</page>
+
+<page sig="@@3v">
+petyng, and also threptice, that is nou<emend err="">&#173;</emend>
+ryshynge. And it hath foure vertues
+attractiue, retentiue, alteratiue, and
+expulsiue. The attractiue vertue is <expan type="">that</expan>,
+whyche c<expan type="">an</expan> drawe such iuyce, as is a&#173;
+greable to the part, &#38; <expan type="">the</expan> iuce is agrea&#173;
+ble, and fryndlye to the parte, whyche
+is apte, and fit to be made lyke to the
+sayd parte, and to fede the same. This
+facultie ministreth matter wherby e&#173;
+uerye parte is nouryshed, and is as it
+were an handmaide to <expan type="">the</expan> retentiue ver<emend err="">&#173;</emend>
+tue. The retentiue vertue is <expan type="">that</expan> whyche
+retayneth the drawen iuyce, vntyll the
+alteratiue vertue hathe chaunged it in
+to the nature of the parte, that is nou&#173;
+ryshed, and so it serueth the alteratiue
+vertue. The alteratiue vertue is that,
+whyche altereth, chaungeth, and boy&#173;
+leth that, that is drawen, and retay&#173;
+ned a certayne space, and finallye ma&#173;
+keth it like, and ioyneth it to the parte,
+that is nouryshed. The expulsiue ver&#173;
+tue sondreth straunge, and vnprofita&#173;
+ble thynges from concoction, and dry&#173;
+ueth superfluities out of euery part of
+the bodye, leste they taryenge to longe
+in the bodye, shulde rotte and putrifie.
+
+And thys also, is a seruaunte to the
+alteratiue vertue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vitriolum romanum(n)">Vitriol<expan type="">um</expan> roman<expan type="">um</expan></form> <xpln lang="en" lexeme="misy(n)" lexeme="chalcantum(n)">
+Musa sayeth that vitriolum roma<emend err="">&#173;</emend>
+num is that, that Dioscorides calleth
+Misy. whyche is founde in mynes, &#38;
+hath the colour of golde, and is harde,
+and when it is broken it sendeth out <expan type="">the</expan>
+golden sparcles shinynge lyke sterres.
+It hathe vertue to purge, to heate, to
+scoure awaye euyll corruption lyenge
+in the corners of the eyes. when vitri&#173;
+olum is put wythout the addition of
+thys worde romanum. Some vnder-
+stande therby chalcantum whyche ye
+shall seke in the lettre C.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="uvea(n)">Vuea. </form> <xpln lang="en" lexeme="stone(n)" lexeme="grape(n)">
+One of the skynnes of the eye is cal&#173;
+led vuea bycause it is lyke the stone of
+a grape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="uvula(n)">Vuula. </form> <xpln lang="en" lexeme="columellam(n)" lexeme="uvulum(n)" lexeme="little grape(n)">
+In the extreme parte of the rouffe
+of the mouthe, there appeareth han&#173;
+gynge a lytle peece of fleshe, whyche
+some call columellam, some vuulum, <expan type="">that</expan>
+is a lytle grape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="xylobalsamum(n)">Xylobalsam<expan type="">um</expan>.</form> <xpln lang="en" lexeme="baum wood(n)" lexeme="carpobalsamum(n)" lexeme="opobalsamum(n)">
+The woode of bawme is called xy<emend err="">&#173;</emend>
+lobalsamum, the frute carpobalsam<expan type="">um</expan>,
+the iuyce or liquor opobalsamum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="zeduary(n)">zeduarie. </form> <xpln lang="en" lexeme="temperament(n)">
+zeduaria is thought to be a roote of
+hote, and drye temperamente, whyche
+they seeth in wyne for the cough, for
+paynes of the stomake. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="weight(n)">Of wieght. </form>
+<xpln lang="en" lexeme="libra(n)" lexeme="pound(n)" lexeme="merchant's pound(n)" lexeme="quadrans(n)" lexeme="triens(n)" lexeme="sextans(n)" lexeme="quartern(n)" lexeme="ounce(n)" lexeme="dram(n)" lexeme="scruple(n)" lexeme="barley corn(n)" lexeme="granum(n)" lexeme="manipulus(n)" lexeme="grain(n)" lexeme="gr.(abr)" lexeme="&scruple;(abr)" lexeme="&dram;(abr)" lexeme="&ounce;(abr)" lexeme="Qr.(abr)" lexeme="li.(abr)" lexeme="half(n)" lexeme="&#189;(abr)" lexeme="handful(n)" lexeme="&mtilde;(abr)" lexeme="ana(n)" lexeme="number(n)" lexeme="&#241;(abr)">Libra or a pounde is deuided in to
+twelue ounces. Here ye shal note, that
+those apothecaries erre, whyche for a
+pounde put sixtene ounces into theyr
+medicines. For that is the marchaun&#173;
+tes pounde. The fourthe parte of a
+pounde, is called quadrans in latine,
+the thyrde triens, the sixte, sextans.
+wherfore quadrans, or a quarterne is
+the weyght of thre ounces. Triens of
+four. Sext<expan type="">an</expan>s of two. An o<expan type="">un</expan>ce maketh
+viii.. dr<expan type="">am</expan>mes, a dram .iii. scruples. And
+as <expan type="">the</expan> comune practicioners say .lx. bar&#173;
+ley cornes make a dramme. Granum
+is the weyght of a grayne. Manipu&#173;
+lus signifieth an handfull. Here folow
+the notes of these weyghtes.
+
+A graine.  gr.
+A scruple.  &scruple;.
+A dramme.  &dram;
+An ounce. &ounce;
+A quarterne. Qr.
+A pounde.  <expan type="">liber</expan>
+Halfe.  &#189;.
+An handful.  &mtilde;.
+Ana. is vsed for euerye one
+In number.  &#241;
+</xpln></wordentry>
+
+<term lang="la">FINIS.</term>
+</wordgroup1>
+</section>
+
+
+
+</page>
+</leme>

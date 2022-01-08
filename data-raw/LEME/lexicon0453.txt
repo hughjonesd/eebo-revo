@@ -1,0 +1,261 @@
+<leme no="453">
+
+<page sig="a10r">
+<heading>
+<f type="r">An Alphabeticall table for the 
+explaining of the hard and 
+strange words contai&shy;
+ned in this Book.
+</heading>
+
+<wordgroup1 type="a" object="a"><alpha>A.</alpha>
+
+<wordentry type="h"><form>Abbaris, or Abaris.</form>
+<f type="i"><xpln lexeme="purtenance(n)">They are the purtenances of any beast. <f type="r">viz.<f type="i"> the 
+feet, the eares, the tongue, &amp;c. They are also the 
+gibblets of any foule. <f type="r">viz.<f type="I"> the neck, wings, feet, 
+gisard, liver, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="andouille(n)">Andovilles,</form>
+<f type="i"><xpln lexeme="chittering(n)">They are the great guts of porke, or beef, filled 
+up with thinne slices of tender meat, or small 
+guts of porke, well seasoned with peper, salt, fine 
+hearbs, &amp;c. some doe call the Chitterlings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="andouillet(n)">Andovillets.</form>
+<f type="i"><xpln>They are balls, or roundish small peeces of minced
+flesh well seasoned.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="haricot(n)">Aricot, or Haricot.</form>
+<f type="i"><xpln>It is mutton sod, with a few turnips, some wine
+</page>
+
+<page sig="a10v">
+and tostes crumbled among; It is also made of small
+peeces of mutton, first a little sodden, then fried in
+seame with sliced onions; and lastly boiled in 
+broath with pursley, Isop, and sage; And in another 
+fashion, of livers boiled in a pipkin with sliced oni&shy;
+ons and lard, verjuice, red wine, and vinegar, and 
+served up with tosts, small spices, and sometimes 
+chopped hearbs.</xpln></wordentry>
+
+<wordentry type="h"><form>Arbolade.</form>
+<f type="i"><xpln lexeme="tansy(n)">It is a kind of French Tansie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="allice(n)">Allose.</form>
+<f type="i"><xpln lexeme="shad(n)">Some doe call it a shad fish.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B.</alpha>
+
+<wordentry type="h"><form lexeme="battalia pie(n)">Beatilles.</form>
+<f type="i"><xpln>They are all kinds of ingredients, that may be
+fancied, for to be put together into a pie, or other&shy;
+wise. <f type="r">viz.<f type="I"> Cock's combes, stones or kidnies, sweet 
+breads of veale, mushrums, bottoms of hartichocks, 
+&amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form>Beatilles of pullets.</form>
+<f type="i"><xpln lexeme="giblet(n)">They are the gibblets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bard(n)">Barde.</form>
+<f type="i"><xpln>It is a sheet of lard or bacon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bard(v)">To Bard.</form>
+<f type="i"><xpln>It is to lay a sheet of lard about, or upon any
+meat.</xpln></wordentry>
+
+<wordentry type="h"><form>Barbillons.</form>
+<f type="i"><xpln>They are the second skin of the pallats of beef.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brignole(n)">Brignols.</form>
+<f type="i"><xpln>They are a kind of plummes which grow beyond
+Sea.</xpln><lemenote>Predates earliest OED citation (1721)</lemenote></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="a11r">
+<wordgroup1 type="a" object="c"><alpha>C.</alpha>
+
+<wordentry type="h"><form lexeme="cervelat(n)">Cervelats.</form>
+<f type="i"><xpln>They are a kinde of great saucidges made beyond sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chibol(n)">Chibols.</form>
+<f type="i"><xpln lexeme="sive(n)">They are sives, or young small greene onions.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="card(n)" lexeme="cardoon(n)">Cardes.
+Cardons.              
+Cardeaux. </form> <f type="i"><xpln>They are the ribs of beets, of harti&shy;
+chocks, and such like.</xpln><lemenote>earliest OED citation for "card, 3" (1658) predated </lemenote></wordentry>
+
+<wordentry type="h"><form>Chapiteau.</form>
+<f type="i"><xpln>It is any worke set over the lid of a pie.</xpln></wordentry>
+
+<wordentry type="h"><form>Coquemare.</form>
+<f type="i"><xpln>It is a long brasen pot.</xpln></wordentry>
+
+<wordentry type="h"><form>Cornet.</form>
+<f type="i"><xpln>It is a Coffin of paper, such as the grossers doe 
+put and wrap fruit, or spices in.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E.</alpha>
+
+<wordentry type="h"><form lexeme="endore(v)">To endore.</form>
+<f type="i"><xpln>It is to wet, or daube with some liquor, as one 
+doth a pie or cake before it be put in the oven.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F.</alpha>
+
+<wordentry type="h"><form lexeme="fleuron(n)">Fleurons.</form>
+<f type="i"><xpln>They are small peeces of puft paste fried.</xpln>
+<lemenote>Predates earliest OED citation (1724-1800 Bailey)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="fricassee(n)">Fricassee.</form>
+<f type="i"><xpln>It is a frying with a sauce.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="farce(n)">Farce.</form>
+<f type="i"><xpln>It is any thing made up for to stuffe any meat
+with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="farce(v)">To farce.</form>
+<f type="i"><xpln>It is to stuffe, or fill up any meat.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="a11v">
+<wordgroup1 type="a" object="g"><alpha>G.</alpha>
+
+<wordentry type="h"><form>Gaudiveaux.</form>
+<f type="i"><xpln>They are forced meat of veale, that is, meat of
+veale minced, seasoned, and wrought into small 
+long peeces like chitterlings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gratin(n)">Grattin.</form>
+<f type="i"><xpln>It is that which doth sticke to the bacon or pip&shy;
+kin, when pappe is made; or else a kind of skin
+which gathereth about, or at the top of the pappe,
+when it is sodden enough.</xpln>
+<lemenote>Predates earliest OED citation (1806)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H.</alpha>
+
+<wordentry type="h"><form lexeme="hash(n)">Hash.</form>
+<f type="i"><xpln>It is minced meat.</xpln>
+<lemenote>Predates earliest OED citation (1662-63)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L.</alpha>
+
+<wordentry type="h"><form lexeme="lard(n)">Lard.</form>
+<f type="i"><xpln>It is fat bacon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lardon(n)">Lardons.</form>
+<f type="i"><xpln>They are small long slices of Lard.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lard(v)">To lard.</form>
+<f type="i"><xpln>It is to sticke any meat with slices of lard.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lard, mean(n)">Meane Lard.</form>
+<f type="i"><xpln>They are slices of lard, of a middle sise.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lard, great(n)">Great Lard,</form>
+<f type="i"><xpln>They are big slices of lard.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="litron(n)">Litron.</form>
+<f type="i"><xpln>It is a measure of one pinte, or a little more.</xpln>
+<lemenote>Predates earliest OED citation (1725)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="legume(n)">Legumes.</form>
+<f type="i"><xpln>They are all kinds of pot hearbs, as also any fruit
+</page>
+
+<page sig="a12r">
+growing in a garden, as cowcombers, artichocks, 
+cabbidge, meloons,  pompkins, &amp;c.</xpln>
+<lemenote>Predates earliest OED citation (1676)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M.</alpha>
+
+<wordentry type="h"><form lexeme="morel(n)">Morilles.</form>
+<f type="i"><xpln>They are a kind of excellent Mushrums.</xpln>
+<lemenote>earliest OED citation</lemenote></wordentry>
+
+<wordentry type="h"><form>Marrons, or Marons.</form>
+<f type="i"><xpln>They are the biggest kind of chestnuts.</xpln>
+<lemenote>Predates earliest OED citation (1877)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p"><alpha>P.</alpha>
+
+<wordentry type="h"><form lexeme="pignon(n)">Pignons.</form>
+<f type="i"><xpln>They are pine-apple kernels.</xpln></wordentry>
+
+<wordentry type="h"><form>To Passe in the panne.</form>
+<f type="i"><xpln>It is to frie a little, or to parboile in the frying
+panne.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R.</alpha>
+
+<wordentry type="h"><form lexeme="ragout(n)">Ragoust.</form>
+<f type="i"><xpln>It is any sauce, or meat prepared with a haut 
+goust, or quicke or sharp taste.</xpln>
+<lemenote>Predates earliest OED citation (1656-57)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="ramekin(n)">Ramequin.</form>
+<f type="i"><xpln>It is a kind of toste.</xpln>
+<lemenote>Predates earliest OED citation (1706)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S.</alpha>
+
+<wordentry type="h"><form lexeme="stove(v)" lexeme="soak(v)">To stove or soak.</form>
+<f type="i"><xpln>It is to cause to boile very softly before, or over
+the fire, that so the juice or liquor may be imbibed,
+or drunk in by degrees, to the end that the potage,
+or sauce, may be well allayed, of a good consistence,
+or well thickned.</xpln>
+<lemenote>Predates earliest OED citation, "stove" v.1, 5 (1738)</lemenote></wordentry>
+</page>
+
+<page sig="a12v">
+
+<wordentry type="h"><form lexeme="pan, straining(n)">A straining panne.</form>
+<f type="i"><xpln>It is a panne made much after the forme of a
+warming pan, but that it is without a lid or cover,
+and that it is round at the bottome, and full of
+small holes cullender-like.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T.</alpha>
+
+<wordentry type="h"><form lexeme="truffle(n)">Trouffles, or Truffles.</form>
+<f type="i"><xpln>They are a kind of Mushrum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tourte(n)">Tourte.</form>
+<f type="i"><xpln>It is a kind of a great cake.</xpln>
+<lemenote>Predates earliest OED citation (1706)</lemenote></wordentry>
+
+<wordentry type="h"><form>A Tourte-panne.</form>
+<f type="i"><xpln>It is a panne made of purpose for to bake a tourte 
+in.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w"><alpha>W.</alpha>
+
+<wordentry type="h"><form lexeme="whiten(v)">To Whiten.</form>
+<f type="i"><xpln>It is to steep in water, either cold or hot, for to
+make plump, or white, or both.</xpln></wordentry>
+</wordgroup1>
+
+There are some other strange words, but the se&shy;
+verall articles doe sufficiently explaine what they
+doe signifie, so that it had been needlesse to put
+them in this table.
+</page>
+</leme>

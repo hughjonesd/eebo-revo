@@ -1,0 +1,271 @@
+<leme no="833">
+<page no="391r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+B r i t i s h L i b r a r y L a n s d o w n e M S 1 7 1 n o 1 7 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<heading>
+<term lang="la">
+Verba Anglica obscura
+et glosata excerpta de legi&#173;
+bus Regum Angli&#230; vi<expan type="">delicet</expan>
+Knuti, Aluredi, Ine
+Ethelstani, Aluredi et Go&#173;
+drini Edwardi, Edmundi,
+et Ethelredi.
+</term>
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A. </alpha>
+<wordentry type="h"><form lang="oe">Aebere morder</form> <xpln lang="la">.i. apertum murdrum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Angild orzilde</form> <xpln lang="la">.i. insolutus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Agon friga</form> <xpln lang="la">.i. liber in cuius ac<expan type="">re</expan> : invenitur.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Aldermannus</form> <xpln lang="la">.i. Comes vel senior.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Aesne</form> <xpln lang="la">.i. Inops.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ahteswan</form> <xpln lang="la">.i. porcarius seruus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Anfeald tihtle</form> <xpln lang="la">.i. simplex accusatio.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha>
+<wordentry type="h"><form lang="oe">Bernyrd</form> <xpln lang="la">.i. aratur&#230; pretium.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Benripe</form> <xpln lang="la">.i. ad preces meter.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Brerebreans</form> <xpln lang="la">.i. Horrearius.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Belflis</form> <xpln lang="la">.i.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bernet</form> <xpln lang="la">.i. incendium.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bishopsland</form> <xpln lang="la">.i. terra Episcopalis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bisyipe</form> <xpln lang="la">.i. seductio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bisyke</form> <xpln lang="la">.i. seductio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bonda</form> <xpln lang="la">.i. Paterfamilias.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bockland</form> <xpln lang="la">.i. testamentalis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Brede</form> <xpln lang="la">.i. figmentum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Bredguma</form> <xpln lang="la">.i. sponsus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Briggebota</form> <xpln lang="la">.i. Pontium emendatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Burchbota</form> <xpln lang="la">.i. Ciuitatum emendatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Butan cyk</form> <xpln lang="la">.i. sine electione.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C,</alpha>
+<wordentry type="h"><form lang="oe">Ceorli eder brech</form> <xpln lang="la">.i. rusticj sepis fractio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ceapgild<expan type="">um</expan></form> <xpln lang="la">.i. solutio capitalis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ceapgildus</form> <xpln lang="la">.i. precium petoris.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ceapscip</form> <xpln lang="la">.i. navis institoris.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Cleriebot</form> <xpln lang="la">.i. munda caro.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Cleoleswerdig</form> <xpln lang="la">.i. rustici curtellum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Cotsede</form> <xpln lang="la">.i. cotarius.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Corsued</form> <xpln lang="la">.i. Panis coniuratus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ciricsede</form> <xpln lang="la">.i. Ecc<expan type="">lesi</expan>&#230; census.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Cueoy</form> <xpln lang="la">.i. genu.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ciues domus</form> <xpln lang="la">.i. Regie census.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>
+<wordentry type="h"><form lang="oe">Descire ay</form> <xpln lang="la">.i. Iusiurandum electum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Druicelan</form> <xpln lang="la">.i. retributio potus.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>
+<wordentry type="h"><form lang="oe">Eale ganel</form> <xpln lang="la">.i. servitio gabl<expan type="">um</expan>.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Eder</form> <xpln lang="la">.i. sepis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Elmes feah</form> <xpln lang="la">.i. elemosin&#230;, pecunia.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ewbrich &#230;pbriche</form> <xpln lang="la">.i. adulterium.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Erod<expan type="">em</expan></form> <xpln lang="la">.i. conculcatum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Eale hius</form> <xpln lang="la">.i. serviti&#230; Domus.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha>
+<wordentry type="h"><form lang="oe">Fightwite</form> <xpln lang="la">.i. forisfactura pugn&#230;.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Firderinga</form> <xpln lang="la">.i. apparatus expedi<expan type="">cionis</expan>.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">firdwite</form> <xpln lang="la">.i. forisfactum expeditionis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">fis pol</form> <xpln lang="la">.i. stagnum in quo sunt pisces.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">feygild<expan type="">um</expan></form> <xpln lang="la">.i. Ilhale.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">fryman</form> <xpln lang="la">.i. fugitiuus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">foread</form> <xpln lang="la">.i. periuratio.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page no="391v">
+<wordentry type="h"><form lang="oe">frumgild<expan type="">um</expan></form> <xpln lang="la">.i. prima redditio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">fridgistas</form> <xpln lang="la">.i. pacis obses.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">fridmanus</form> <xpln lang="la">.i. pacis homo.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">forfang</form> <xpln lang="la">.i. preventio vel anticipatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">fol gemote</form> <xpln lang="la">.i. placitum populi.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">forsper<expan type="">um</expan></form> <xpln lang="la">.i. cassatum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">forestale</form> <xpln lang="la">.i. prohibitio itineris.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha>
+<wordentry type="h"><form lang="oe">Ganelsyan</form> <xpln lang="la">.i. porcarius ad censum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gayhund</form> <xpln lang="la">.i. canis qui nondum cepit Le&#173;
+porem vel aliam bestiam</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gersym</form> <xpln lang="la">.i. herbagij Porcus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Galnelheord</form> <xpln lang="la">.i. grex ad censum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gridbrech</form> <xpln lang="la">.i. infractio pacis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gemot<expan type="">um</expan></form> <xpln lang="la">.i. placitum vel conuentus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gerneat</form> <xpln lang="la">.i. colonus fiscalna vel villanus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gauelland</form> <xpln lang="la">.i. terra censaria.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Gauelgilda</form> <xpln lang="la">.i. gabli redditio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Guglote</form> <xpln lang="la">.i. sors.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Geyitnesse</form> <xpln lang="la">.i. testis.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>
+<wordentry type="h"><form lang="oe">Hamsocna</form> <xpln lang="la">.i. invasio mansionis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Heor&#240;fast</form> <xpln lang="la">.i. domui astrictus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Husbruce</form> <xpln lang="la">.i. infractura domus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Heregate</form> <xpln lang="la">.i. relenatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Horden</form> <xpln lang="la">.i. dispensa.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">H<expan type="">ominis</expan> cherliscus</form> <xpln lang="la">.i. rusticus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Here</form> <xpln lang="la">.i. exercitus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Her te<expan type="">am</expan>n</form> <xpln lang="la">.i. conductio exercitus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Hulsgonges</form> <xpln lang="la">.i. Twelfhin vel husbonda.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Hirnesse</form> <xpln lang="la">.i. subauditio Regis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Holdes</form> <xpln lang="la">.i. summj prepositi.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Heofdward</form> <xpln lang="la">.i. capitis custodia.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Horsward</form> <xpln lang="la">.i. equor<expan type="es">es</expan> custodia.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Hunyganel</form> <xpln lang="la">.i. gablum mellis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Histingum</form> <xpln lang="la">.i. biest vel hiest.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Hereac cropp<expan type="">um</expan></form> <xpln lang="la">.i. mantoli su<expan type="">mm</expan>itas.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>
+<wordentry type="h"><form lang="oe">Lahslite</form> <xpln lang="la">.i. fractio Legis pro qua sols
+vebat duodecim oras.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Lauerdsyk</form> <xpln lang="la">.i. infidelitas erga Dominum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Lylothe</form> <xpln lang="la">.i. cohors.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Lowbote</form> <xpln lang="la">.i. emenda pro morte hominis oc&#173;
+cisi per cohortem.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Leger stowa</form> <xpln lang="la">.i. potionis domus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Landes ricus</form> <xpln lang="la">.i. terre Dominus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Lada</form> <xpln lang="la">.i. purgatorio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Lahmen</form> <xpln lang="la">.i. legis ho<expan type="">mines</expan>.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Landman</form> <xpln lang="la">.i. homo patri&#230;.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Leap fulne</form> <xpln lang="la">.i. seriale plenum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Lunlegeran</form> <xpln lang="la">.i. canis bralter</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Locherus</form> <xpln lang="la">.i. Apum custos.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M.</alpha>
+<wordentry type="h"><form lang="oe">Munbrech</form> <xpln lang="la">.i. Regis pacis fractio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Megbote</form> <xpln lang="la">.i. emenda <expan type="">pro</expan> morte cognati.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Manbote</form> <xpln lang="la">.i. emenda pro morte hominis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Manca auri</form> <xpln lang="la">.i. triginta denarij.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Morgangive</form> <xpln lang="la">.i. dos.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Medefeoh</form> <xpln lang="la">.i. merces Indicac<expan type="">oini</expan>s.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Mecnam ad</form> <xpln lang="la">.i. peciurium dupliciter.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">M&#230;nan ad</form> <xpln lang="la"><editoraddition>.i. peciurium dupliciter.</editoraddition></xpln></wordentry>
+<wordentry type="h"><form lang="oe">Messe pegen</form> <xpln lang="la">.i. presbiter.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Melda</form> <xpln lang="la">.i. manifestatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Munde</form> <xpln lang="la">.i. pax.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Mircenelanda</form> <xpln lang="la">.i. terra mercenor<expan type="es">um</expan>.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Meteganel</form> <xpln lang="la">.i. cibi gablum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Mete cu</form> <xpln lang="la">.i. victus su&#230; vacc&#230;.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Masser</form> <xpln lang="la">.i. sacerdos.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O.</alpha>
+<wordentry type="h"><form lang="oe">Onersennessa</form> <xpln lang="la">.i. despectus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Open peft</form> <xpln lang="la">.i. apertum furtum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Ordali<expan type="">um</expan></form> <xpln lang="la">.i. Iuditi<expan type="">um</expan> vel examen ignis vel aqu&#230;.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Overhirnesse</form> <xpln lang="la">.i. transgressio.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha>
+<wordentry type="h"><form lang="oe">Pecoris Canis hoppa Blanhor<expan type="">um</expan></form> <xpln lang="la">  hor<expan type="es">es</expan> trium singulum est
+valens vnum solidum.</xpln></wordentry>
+
+
+
+
+</page>
+
+<page no="392r">
+<wordentry type="h"><form lang="oe">Pealh</form> <xpln lang="la">.i. qui gallum reddit.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R.</alpha>
+<wordentry type="h"><form lang="oe">Ran</form> <xpln lang="la">.i. a<expan type="">per</expan>ta Rapina qu&#230; negari non potest.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Romfeth</form> <xpln lang="la">.i. Rom&#230; census.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Refare</form> <xpln lang="la">.i. opus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Renhund</form> <xpln lang="la">.i. canis qui vigilat foris et extra.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S.</alpha>
+<wordentry type="h"><form lang="oe">Sage</form> <xpln lang="la">.i. mulieres mage.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Scipfordunda vel Scipfirdunga</form> <xpln lang="la"> .i. apparatus navigij.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Shyremotus</form> <xpln lang="la">.i. conventus totius com:</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Strecman</form> <xpln lang="la">.i. potens vel fortis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Socna</form> <xpln lang="la">.i. secta.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Sild wricta</form> <xpln lang="la">.i. centum faciens.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Sagemanus</form> <xpln lang="la">.i. ille <expan type="">pro</expan> quem scitur.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Shire ad</form> <xpln lang="la">.i. uisiurandum electum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Seward</form> <xpln lang="la">.i. custodia maris.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Seiparh</form> <xpln lang="la">.i. porcellus de sue.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Scepe cerras</form> <xpln lang="la">.i. ouium corpus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Seder</form> <xpln lang="la">.i. seminator.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Suth acre</form> <xpln lang="la">.i. caruce acra.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Scire</form> <xpln lang="la">.i. comitatus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Si quis in Ceorlisses maneus fleote ge feoht</form> <xpln lang="la">.i. si quis in rustici
+h<expan type="">ominis</expan> area vel dom<expan type="9">us</expan> 
+ pugnet.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T.</alpha>
+<wordentry type="h"><form lang="oe">Tanius</form> <xpln lang="la">.i. nobilis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Triplex Lada</form> <xpln lang="la">.i. purgatio potens.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Teaghe</form> <xpln lang="la">.i. cista vel scrinium.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">To wiue and to riht liue</form> <xpln lang="la">.i. in vxorem et
+rectam vitam.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Tihtbysy</form> <xpln lang="la">.i. accusationibus infamatus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Tihtle</form> <xpln lang="la">.i. compellatio .i. accusatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Twigild</form> <xpln lang="la">.i. duplex gildum .i. duplex redditio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Tihla</form> <xpln lang="la">.i. accusatio.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V.</alpha>
+<wordentry type="h"><form lang="oe">Vtlaga</form> <xpln lang="la">.i. sine lege.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vnlaga</form> <xpln lang="la">.i. non lex.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vncheasesa</form> <xpln lang="la">.i. sacrum sine electione.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vnabedendo</form> <xpln lang="la">.i. non rogatus ad hoc.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vngeld<expan type="">um</expan></form> <xpln lang="la">.i. non solutus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vnfri&#240;mannus</form> <xpln lang="la">.i. non habens pacem.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vngecorena</form> <xpln lang="la">.i. non electi.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vngesegen</form> <xpln lang="la">.i. non visus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vntrum</form> <xpln lang="la">.i. Invalidus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Vnfi&#240;land</form> <xpln lang="la">.i. terra hostilis.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W.</alpha>
+<wordentry type="h"><form lang="oe">Wythersake</form> <xpln lang="la">.i. apostata.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wita</form> <xpln lang="la">.i. forisfactura .i. <expan type="">mia</expan>.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wiccen crest</form> <xpln lang="la">.i. ars incantationis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wera</form> <xpln lang="la">.i. precium natiui hominis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Weregildus</form> <xpln lang="la">.i. precium natalis h<expan type="">ominis</expan>.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wyertithla</form> <xpln lang="la">.i. iniusta accusatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Warfehe</form> <xpln lang="la">.i. homicidium.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wite we<expan type="">mm</expan>mene</form> <xpln lang="la">.i. forisfacti seruus.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y.</alpha>
+<wordentry type="h"><form lang="oe">Yrimsa</form> <xpln lang="la">.i. trium et est solidus denarior<expan type="es">es</expan></xpln></wordentry>
+<wordentry type="h"><form lang="oe">Yoruld .Yegen</form> <xpln lang="la">.i. secularis taynus.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wiper tihtle</form> <xpln lang="la">.i. iniusta accusatio.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Werhades</form> <xpln lang="la">.i. ordo coniugalis.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wifhades</form> <xpln lang="la"><editoraddition>.i. ordo coniugalis.</editoraddition></xpln></wordentry>
+<wordentry type="h"><form lang="oe">Yrune tuelf</form> <xpln lang="la">.i. ter duodecim.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Wealrease</form> <xpln lang="la">.i. mortuum.</xpln></wordentry>
+<wordentry type="h"><form lang="oe">Yndeyeald</form> <xpln lang="la">.i. nemoris custos./</xpln></wordentry>
+</wordgroup1>
+
+
+</page>
+</leme>
+

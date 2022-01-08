@@ -1,0 +1,92 @@
+<leme no="200">
+
+<page sig="b1r">
+
+<heading>
+<f type="r">A Table of the Lawes contay&shy;
+<f type="i">ned in this second part.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="black art(n)"><f type="r">1 Blacke arte. </form><xpln>Picking of lockes.</xpln></wordentry>
+<wordentry type="h"><form lexeme="curbing law(n)">2 Courbing Law. </form><xpln>Hooking at windowes.</xpln></wordentry>
+<wordentry type="h"><form lexeme="Vincent's law(n)">3 Vincents Law. </form><xpln>Coosenage at Bowls.</xpln></wordentry>
+<wordentry type="h"><form lexeme="prigging law(n)">4 Prigging Law. </form><xpln>Horse stealing.</xpln></wordentry>
+<wordentry type="h"><form lexeme="lifting law(n)">5 Lifting Law. </form><xpln>Stealing of any parcels.</xpln></wordentry>
+</wordgroup1>
+
+<heading>
+<f type="i">The discouery of the wordes of Art vsed in these Lawes.
+</heading>
+
+<wordgroup1 type="t">
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="black art(n)"><f type="r">In blacke 
+Art.</form><xpln></xpln></wordentry>
+<wordgroup3 type="t">
+<wordentry type="h"><form lexeme="picklock(n)">The Pickelocke, </form><xpln lexeme="charm(n)">is called a Charme.</xpln></wordentry>
+<wordentry type="h"><form>He that watcheth, </form><xpln lexeme="stand(n)">a Stond.</xpln></wordentry>
+<wordentry type="h"><form>There engins, </form><xpln lexeme="wrestler(n)">Wresters.</xpln></wordentry>
+<wordentry type="h"><form>Picking the lock, </form><xpln lexeme="farsing(n)">Farsing.</xpln></wordentry>
+<wordentry type="h"><form>The gaines gotten, </form><xpln lexeme="pelfry(n)">Pelfrey.</xpln></wordentry>
+</wordgroup3>
+</wordgroup2>
+
+<wordgroup2 type="t">
+<wordgroup3 type="t">
+<wordentry type="h"><form lexeme="curbing law(n)">In Cour&shy;
+bing Law.</form><xpln></xpln></wordentry>
+<wordentry type="h"><form>He that hooks, </form><xpln lexeme="curber(n)">the Courber.</xpln></wordentry>
+<wordentry type="h"><form>He that watcheth, </form><xpln lexeme="warp(n)">the Warpe.</xpln></wordentry>
+<wordentry type="h"><form lexeme="hook(n)")>The hooke, </form><xpln lexeme="curb(n)">the Courbe</xpln></wordentry>
+<wordentry type="h"><form lexeme="good(n)">The good, </form><xpln lexeme="snappings(n)">Snappings.</xpln></wordentry>
+<wordentry type="h"><form>The gin to open the windowe, </form><xpln lexeme="tricker(n)">the Trickar.</xpln></wordentry>
+</wordgroup3>
+</wordgroup2>
+</page>
+
+<page sig="b1v">
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="lifting law(n)">In Lifting 
+Law.</form><xpln></xpln></wordentry>
+<wordgroup3 type="t">
+<wordentry type="h"><form>He that first stealeth, </form><xpln lexeme="lift(n)">the Lift.</xpln></wordentry>
+<wordentry type="h"><form>He that receiues it, </form><xpln lexeme="marker(n)">the Markar.</xpln></wordentry>
+<wordentry type="h"><form>He that standeth without and carries it away, </form><xpln lexeme="saunter(n)">the Santar.</xpln></wordentry>
+<wordentry type="h"><form>The goods gotten, </form><xpln lexeme="garbage(n)">Garbage.</xpln></wordentry>
+</wordgroup3>
+</wordgroup2>
+
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="Vincent's law(n)">In Vincents 
+Law.</form><xpln></xpln></wordentry>
+<wordgroup3 type="t">
+<wordentry type="h"><form>They which play booty, </form><xpln lexeme="banker(n)">the Bankars.</xpln></wordentry>
+<wordentry type="h"><form>He that betteth, </form><xpln lexeme="gripe(n)">the Gripe.</xpln></wordentry>
+<wordentry type="h"><form>He that is coosend, </form><xpln lexeme="vincent(n)">the Vin&shy;
+cent.</xpln></wordentry>
+<wordentry type="h"><form>Gaines gotten, </form><xpln lexeme="termage(n)">Termage.</xpln></wordentry>
+</wordgroup3>
+</wordgroup2>
+
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="prigging law(n)">In Prigging 
+Law.</form><xpln></xpln></wordentry>
+<wordgroup3 type="t">
+<wordentry type="h"><form>The horse stealer, </form><xpln lexeme="prigger(n)">the Priggar.</xpln></wordentry>
+<wordentry type="h"><form lexeme="horse(n)">The horse, </form><xpln lexeme="prancer(n)">the Prancar.</xpln></wordentry>
+<wordentry type="h"><form>The towling place, </form><xpln lexeme="All-Hallows(n)">All-hallo&shy;
+wes.</xpln></wordentry>
+<wordentry type="h"><form>The towler, </form><xpln lexeme="rifler(n)">the Rifler.</xpln></wordentry>
+<wordentry type="h"><form lexeme="suerteis(n)">The suerteis, </form><xpln lexeme="querris(n)">Querris.</xpln></wordentry>
+</wordgroup3>
+</wordgroup2>
+
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="foist(n)" lexeme="nip(n)">For the Foist and the Nip, </form><xpln><xref type="external">as in the 
+first Booke.</xref></xpln></wordentry>
+</wordgroup2>
+</wordgroup1>
+
+</page>
+</leme>

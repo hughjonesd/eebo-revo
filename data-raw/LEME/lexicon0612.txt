@@ -1,0 +1,1753 @@
+<leme no="612">
+<page sig="a1r">
+<section type="Title-page">
+THE 
+Mariners Jewel; 
+OR, 
+A Pocket Companion
+FOR THE 
+INGENIOUS. 
+
+Being of more General Use for Offi&shy;
+cers, Seamen, Carpenters, Boatswains, 
+Pursers and Stewards, then any thing 
+yet Published. 
+
+CONTAINING 
+An Alphabetical Dictionary of all 
+the Naval Terms; A General Pay Ta&shy;
+ble; with a Table of Boatswain Stores 
+for each Rank of Ship; the proportion 
+of Prizes, with many other useful things 
+both Decimal and Vulgarly demonstra&shy;
+ted from a Manuscript of Sir John 
+Narbrough's, and methodiz'd by 
+
+James Lightbody, P. M. 
+
+LONDON Printed for Robert Whitledge, and 
+sold by Alexander Sims at the Bible in 
+Beet-street in Ratcliff-High-Way, 1695.  
+</section>
+</page>
+
+<page sig="a1v">
+</page>
+
+<page sig="a2r">
+<section type="Dedication">
+To the HONOURABLE. 
+Sir Cloudsley Shouel, <expan type="K+nt.">Knight.</expan> 
+Vice-Admiral of the RED 
+SQADRON 
+Of the Royal Navy of England. 
+
+Renowned SIR,  
+
+MY chief aim in Publish&shy;
+ing this small Piece, is 
+for the benefit of Sea&shy;
+men, who is known to be the 
+chief Bulwark of our Kingdoms,  
+</page>
+
+<page sig="a2v">
+and upon whose undaunted Cou&shy;
+rage, Resolution and Conduct, our 
+Liberties and Properties wholly 
+depend; who vindicate our 
+Rights with the expence of 
+their dearest Blood. The un&shy;
+deserved Disappointments they 
+have received, unknown to 
+your Honour, for some Years past; 
+and the many Losses they have 
+sustain'd for want of good Instructi&shy;
+ons, has induced me to the great&shy;
+est part of this work, which I 
+hope will be of good use to them 
+if duly applyed. 
+
+I don't mean there is any un&shy;
+just thing put upon them by 
+their Superior Officers, who has 
+a paternal care over them, but  
+</page>
+
+<page sig="a3r">
+that they have not consulted a due 
+Information for their own Interest. 
+
+This I can safely say, the in&shy;
+forming of Sea-men was my only 
+aim in this small Piece, when I 
+first set my Resolutions upon it; 
+but having a Manuscript by me, 
+writ by the famous Sir John 
+Narbrough,I was advis'd by 
+some Friends to put some material 
+and useful things therein menti&shy;
+oned, in this, which I have done 
+exactly from the Original. 
+
+ When I resolved to make this 
+Piece publick, the Epistle Dedi&shy;
+catory was mainly in the choice 
+of a Patron, to testify my esteem 
+of those extraordinary Qualifica&shy;
+</page>
+
+<page sig="a3v">
+tions in you, that have gained 
+the Affections of even the 
+best and worst of Sea-men, for 
+whose sakes I have dedicated it 
+to you, who sit at the Helm of 
+their Government, to guide and 
+direct them in their true Course, 
+not doubting but you will accept 
+of the weak Labours of 
+
+SIR,
+
+Your Honours 
+most humble Servant,
+James Lightbody.
+</section>
+</page>
+
+<page sig="a4r">
+<section type="Table of Contents">
+<heading>
+The Contents.
+</heading>
+
+OF Decimal Arithmetick p. 3
+To know the Burthen, and how 
+to Rig a Ship. p. 17
+A Table of the length of Masts and 
+Yards of a Ship. p. 19
+A Table of the Names and Sizes of 
+each Rope belonging to a ship. p. 21
+A Table of the Proportion of Boat&shy;
+swain Sea-stores for each Rank 
+of ships. p. 32
+To find the length and thickness of 
+Masts and Yards by the Pen. p. 40
+How to Rig any ship by Proportion p. 44
+An Alphabetical Dictionary of all the 
+Names of every thing belonging to 
+a ship, with the use and explanati&shy;
+on of the same, together with the 
+Terms used at sea. p. 53
+An exact List of the Royal Navy p. 89
+Rules to be observed in the payment 
+of the Navy. p. 75
+A Table of Officers Pay by month 
+in each Rank of ships. p. 76
+A Table of Masters, Gunners, Car&shy;
+penters, Boatswain, Purser and 
+Chyrurgions Pay, from one day 
+to six months. p. 100
+</page>
+
+<page sig="a4v">
+A Table of Pay from 3 <f type="i">l.</f> a month 
+to 19 <f type="i">s.</f> from 1 day to 6 months. p. 108
+An Abstract of the Act of Par&shy;
+liament for the Incouragement 
+of Privateers, wherein is the 
+Proportions belonging to the 
+ships Crew for any Prize taken. p. 112
+A Copy of the Act of Council, for 
+the Incouragement of sea-men, 
+and the Proportions belonging to 
+each Man in taking of a Prize, 
+with the King's Approbation. p. 120
+The Proportions of Prizes accord&shy;
+ing to the Custom of the Navy. p. 123
+A Guide to Pursers and Stewards p. 124
+A Table of Coins, and their value p. 133
+</section>
+
+<section type="Errata">
+<heading>
+ERRATA.
+</heading>
+
+I beg of the Reader to excuse the Omissions 
+of the Press, and help them with his Pen, as in
+
+pag. 19. line 20. for Inches read Foot.
+pag. 32. line 1. for proposition r. proportion.
+pag. 38. line 12. for Mop-Gallant r. Top-Gall.
+</section>
+</page>
+
+<page no="53">
+<section type="Dictionary">
+<heading>
+An Alphabetical DICTIO&shy;
+NARY of all the Names of 
+the Members or Parts of a Ship, 
+with an Explanation of the 
+same, and how they are disposed 
+of; together with the Sea Terms 
+used in any Ship.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="anchor(n)">ANchors,</form> <xpln lang="en" lexeme="sheet-anchor(n)" lexeme="kedge-anchor(n)" lexeme="stream-anchor(n)">There are several sorts;
+the greatest is the Sheet Anchor, never used but in extraordinary neces&shy;
+sity; the smallest is the Kedge Anchor,
+which is used in calm Weather and a
+flow Stream; the Stream Anchor is
+somewhat bigger than the Kedge An&shy;
+chor.</xpln>
+<lemenote>
+"Kedge Anchor" antedates the earliest OED citation (1704).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="anchor(n)">Then there is the First, Second and
+Third Anchors,</form> <xpln lang="en" lexeme="bow-anchor(n)" lexeme="shank(n)" lexeme="fluke(n)" lexeme="beam(n)" lexeme="eye(n)" lexeme="ring(n)" lexeme="stock(n)">and are called Bow An&shy;
+chors. The parts of an Anchor are
+called the Shank, the Flook, the Shoul&shy;
+der, the Beam, the Eye, the Ring, the
+Stock.</xpln>
+<lemenote>
+"Shoulder(n)" in the sense of "a part of an anchor" is not found in the OED.
+</lemenote>
+</wordentry>  
+</page>
+
+<page no="54">
+<wordentry type="h"><form lang="en" lexeme="anchor(n)" lexeme="a-peak(a)">The Anchor is a Peek,</form> <xpln lang="en" lexeme="hawse(n)" lexeme="hole(n)" lexeme="hawse-hole(n)">that is, the An&shy;
+chor is right under the Hawse or Hole,
+through which the Cable runs out.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="anchor(n)" lexeme="a-cock-bill(a)">The Anchor is a Cock-Bell,</form> <xpln lang="en">that is,
+hangs up and down by the Ships side.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="anchor(n)">The Anchor</form> <xpln lang="en" lexeme="foul(n)" lexeme="fluke(n)">is Fowle, that is, the Cable
+is got about the Flook.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="abaft(adv)">Abaft,</form> <xpln lang="en" lexeme="stern(n)">is the Stern part of the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="aft(adv)">Aft,</form> <xpln lang="en" lexeme="stern(n)">The Stern part also.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mast(n)" lexeme="aft(n)">The Mast hangs Aft,</form> <xpln lang="en" lexeme="stern(n)">that is, towards
+the Stern.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cheer(v)" lexeme="fore and aft(adv)">How chear ye Fore and Aft?</form> <xpln lang="en">How fairs
+all the Ships Crew.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="amain(v)">Amain,</form> <xpln lang="en" lexeme="yield(v)">signifies yield, and is used in
+a Fight.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="awning(n)">An Awning,</form> <xpln lang="en">An Old Sail or such like,
+supported with Oars like a Canopy over
+the Deck, to shade from the Sun.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha> 
+
+<wordentry type="h"><form lang="en" lexeme="billage(n)">BIllage,</form> <xpln lang="en">is the breadth of the Floor,
+when she lyes aground.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bilge-water(n)">Billage Water,</form> <xpln lang="en" lexeme="pump(n)">is that which can't come
+to the Pump.</xpln>
+<lemenote>
+"Billage water" antedates the earliest OED citation (1706).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bilge(v)">Bilged,</form> <xpln lang="en">is when a Ship strikes upon a
+Rock, or any thing that breaks her Planks.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="buttock(n)">Buttocks,</form> <xpln lang="en" lexeme="after(a)" lexeme="rudder(n)">is the breadth of her After
+part by the Rudder.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)">Beds,</form> <xpln lang="en" lexeme="platform(n)" lexeme="carriage(n)">is a Plat-form to raise the Car&shy;
+</page>
+
+<page no="55">
+riage of a Gun, so as she may be level'd
+out at the Port. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bluff(a)">Bluff,</form> <xpln lang="en" lexeme="bluff-headed(a)" lexeme="stern(n)">or Bluff-headed, is when a Ship
+has an upright Stern.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="beam(n)">Beams,</form> <xpln lang="en" lexeme="orlop(n)">is the Supporters of the Orlop
+or Deck.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="butt-end(n)">Butt-ends,</form> <xpln lang="en">is the Fore-end of the Planks
+where they join under-water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bend(n)" lexeme="wale(n)">Bend or Wail,</form> <xpln lang="en">is the out-most Tim&shy;
+bers on the Ships-sides.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bolt(n)">Bolts,</form> <xpln lang="en">are long pieces of Iron, sharp at
+one end for driving into the Planks upon
+several occasions, such as fixing the Tackle
+of your Ordnance to, or for driving out
+of Wood-nails, or bringing the Planks
+to the Ships side, and several other uses.</xpln>
+<lemenote>
+The compound "wood-nail" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bow(n)">Bow,</form> <xpln lang="en" lexeme="stern(n)">the Bow is the broadest part
+of the Ship, before which compasseth
+the Stern.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="beak(n)">Beak,</form> <xpln lang="en" lexeme="beak-head(n)" lexeme="forecastle(n)" lexeme="knee(n)" lexeme="collar(n)" lexeme="mainstay(n)">the Beak-head is without the
+Ship before the Fore-Castle, supported
+by the Main Knee, a place for men to
+ease themselves. The Coller of the Main-&shy;
+Stay is fastned to it.</xpln>
+<lemenote>
+The phrase "main knee" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bitt(n)">Bits,</form> <xpln lang="en" lexeme="abaft(adv)" lexeme="manger(n)" lexeme="luff(n)" lexeme="belay(v)">are two great pieces of Timber,
+through which a cross piece goeth; they are placed Abaft the Manger in the
+Ships Loof, to belay the Cable thereto
+when they ride at Anchor.</xpln></wordentry>  
+</page>
+
+<page no="56">
+<wordentry type="h"><form lang="en" lexeme="block(n)" lexeme="pulley(n)">Blocks or Pullies,</form> <xpln lang="en">are pieces of Wood
+with Wheels in them, through which
+all the running Ropes do run.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="block and block(a)">Block and Block,</form> <xpln lang="en" lexeme="hale(v)">is when they hale any
+Tackle that the two Blocks do meet.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fish-block(n)">Fish-Block,</form> <xpln lang="en" lexeme="hale(v)" lexeme="fluke(n)">is a Block by which they
+Hale up the Flook of the Anchor to the
+Ships Bow.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bulkhead(n)">Bulk-head,</form> <xpln lang="en" lexeme="bread-room(n)">is any partition made up
+with sealing, such as the Bread-room.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bracket(n)">Bracketts,</form> <xpln lang="en" lexeme="knee(n)" lexeme="gallery(n)">are little carv'd Knees to
+support the Gallerys.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="binnacle(n)">Bittacles,</form> <xpln lang="en">are little Wooden Pins for
+nailing the Compass-box withal.</xpln>
+<lemenote>
+"compass box" antedates the earliest OED citation (1797).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="barnacle(n)">Barnacles,</form> <xpln lang="en" lexeme="sheath(v)">are little Fishes like Red
+Worms, which will eat through the
+Planks of a Ship if she be not sheathed.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bream(v)">Breaming,</form> <xpln lang="en" lexeme="reed(n)" lexeme="broom(n)">is washing or burning off
+all the filth with Reads or Broom.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="breast-rope(n)">Breast-Ropes,</form> <xpln lang="en" lexeme="yard(n)">doth keep the Yards close
+to the Masts.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="brail(n)">Brales,</form> <xpln lang="en" lexeme="furl(v)" lexeme="course(n)" lexeme="mizzen(n)">are small Ropes, which come
+down before the Sail, with which we
+Furle our Sails a Cross; they belong on&shy;
+ly to the two Courses and the Missen.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bolt-rope(n)">Bolt-Rope,</form> <xpln lang="en">is that Rope which is
+sewed about every Sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="buntline(n)">Buntlines,</form> <xpln lang="en" lexeme="bolt-rope(n)" lexeme="bunt(n)" lexeme="fardel(v)" lexeme="trice(v)">is but a small Rope made
+fast to the midst of the Boltrope, to trice
+or draw up the Bunt of the Sail when
+you farthel it.</xpln></wordentry>  
+</page>
+
+<page no="57">
+<wordentry type="h"><form lang="en" lexeme="brace(n)">Braces,</form> <xpln lang="en" lexeme="mizzen(n)" lexeme="reeve(v)" lexeme="square(v)">are Ropes, two whereof be&shy;
+long to all Yards but the Missen, and
+are reeved to their ends, by which they
+square, or traverse the Yards.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bowline(n)">Bowling,</form> <xpln lang="en" lexeme="leech(n)">is made fast to the Leech of
+the Sail, about the midst to make it
+stand the sharper or closer by a Wind.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sharp(v)" lexeme="bowline(n)">Sharp the main Bowling,</form> <xpln lang="en" lexeme="hale(n)" lexeme="bowline(n)" lexeme="check a bowline(v)">is to hale it
+taut. Hale up the Bowling, is to pull it
+hard or forward on: Check the Bouling
+is to let it be more slack.</xpln>
+<lemenote>
+"Sharp(v)" in the sense of "haul(v)" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bouse(v)">Bouse,</form> <xpln lang="en" lexeme="tack(n)" lexeme="bonnet(n)">is to pull down the Sail or
+ease the Tacks in a stiff Gale, or take
+off the Bonnet.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bonnet(n)">Bonnet</form> <xpln lang="en" lexeme="drabbler(n)" lexeme="forecourse(n)" lexeme="main course(n)">or Drabler, is a short Sail to
+take off or put on to the fore-course,
+or the main-Course.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bowline-knot(n)">Boling knott,</form> <xpln lang="en" lexeme="cringle(n)">is a knot so firmly fast&shy;
+ned to the Creengles of the Sails, that
+they can't slip or be unty'd.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bail(n)">Bails,</form> <xpln lang="en" lexeme="tilt(n)">is a piece of Tar'd Canvas for a
+Tilt to the Boat.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bucket-rope(n)">Bucket-Rope,</form> <xpln lang="en">is ty'd to the Bucket to
+draw Water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="buoy-rope(n)">Boy-Rope,</form> <xpln lang="en" lexeme="buoy(n)">is that which is tyed to
+the Anchor and Boy.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="boat rope(n)">Boat-rope,</form> <xpln lang="en">is that by which the Ship
+doth tow her Boat.</xpln></wordentry>  
+</page>
+
+<page no="58">
+<wordentry type="h"><form lang="en" lexeme="bight(n)">A Bight;</form> <xpln lang="en" lexeme="coil(n)">is to hold by any part of
+a Coile.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bitter(n)">A Bitter,</form> <xpln lang="en" lexeme="bitt(n)">is the Turn of a Cable a&shy;
+bout the Bitts, and veer it out by little,
+and little.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bitter(n)">Bitters-end,</form> <xpln lang="en">is that part of a Cable
+doth stay within Board.</xpln>
+<lemenote>
+See OED, "bitter," n.3.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bend(v)">Bending,</form> <xpln lang="en">is to tye two Ropes or
+Cables together.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="breast-fast(n)">Breast-fast,</form> <xpln lang="en" lexeme="hale(v)">is a Rope by which you
+hale a Ships Head to a Wharf or the like.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="buoy(n)">Buoys,</form> <xpln lang="en">are close hoop'd Barrels like
+Tankards, to shew you the Anchor.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="can-buoy(n)">Can Buoys,</form> <xpln lang="en">are much larger for shew&shy;
+ing of Danger.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ballast(n)">Ballast,</form> <xpln lang="en">is Gravel, Stones, or Lead,
+so disposed as the Ship may lye neither
+to one side or other, but even upon the
+Water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bear up(v)">Bear up,</form> <xpln lang="en">is to make the Ship go large
+before the Wind,</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bear off(v)">Bear off,</form> <xpln lang="en">is to thrust from you,</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bear in(v)">Bear in,</form> <xpln lang="en">is to go nigh the Land or
+Harbour.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="breeze(n)">Breeze,</form> <xpln lang="en">is a Wind which blows out of
+the Sea in Fair Weather.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="board(v)">Boarding,</form> <xpln lang="en">is to enter a Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bale(v)">To Bale,</form> <xpln lang="en">is to lade Water out of the
+Hold.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="trench the ballast(v)">Trench the Ballast,</form> <xpln lang="en">is to separate it.</xpln></wordentry>  
+</page>
+
+<page no="59">
+<wordentry type="h"><form lang="en" lexeme="ballast(n)">The Ballast</form> <xpln lang="en" lexeme="shoot(v)">shoots, or runs to one side.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="piece of ordnance(n)">The Piece of Ordnance doth bear,</form> <xpln lang="en">or lies
+right with the Mark.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bear up(v)">Bear up round,</form> <xpln lang="en">that is, put her right
+before the Wind.</xpln>
+<lemenote>
+The phrase "bear up round(v)" is not found in the OED but see "bear up" there at "bear," v. 1, 37.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="belage(v)">Bellage,</form> <xpln lang="en">to make fast any running
+Rope.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="berth(n)">A Birth,</form> <xpln lang="en" lexeme="moor(v)">a place to Moore a Ship
+in.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="bight(n)">A Bight,</form> <xpln lang="en">any part of a Rope between
+the ends.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="boom(n)">A Boom,</form> <xpln lang="en" lexeme="clew(n)" lexeme="studdingsail(n)">a long Pole to spread out
+the Clew of the studding Sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="board and board(a)">Board and board,</form> <xpln lang="en">is when two ships
+touch each other.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="make boards(v)">To make a Board,</form> <xpln lang="en">is to turn to the
+Windward.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="break bulk(v)">To Break Bulk,</form> <xpln lang="en">is to open the Hold
+and take out Goods.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="cradle(n)">Cradle,</form> <xpln lang="en">is a frame of Timber made a&shy;
+long the sides of a Ship, for safety in
+Launching.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="crab(n)">A Crab</form> <xpln lang="en">is an Engine of Wood, of three
+Claws, placed on the Ground, for the
+Launching of ships, or heaving them
+into the Docks.</xpln></wordentry>  
+</page>
+
+<page no="60">
+<wordentry type="h"><form lang="en" lexeme="clamp(n)">Clamps,</form> <xpln lang="en" lexeme="orlop(n)">are long thick Planks, which lye
+under the ends of the Beams, and Timbers
+of the second Deck, or third Deck, or Orlop.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="camber(v)">Cambering,</form> <xpln lang="en">is when a Deck lyes com&shy;
+passing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="chain-wale(n)">Chain-wail,</form> <xpln lang="en" lexeme="shroud(n)">is a broad Timber; a little
+above which the Chains and Shrouds are
+fastned, to spread the Shrouds the wider.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="culvertailed(a)">Culver-tail'd,</form> <xpln lang="en">is to let one Timber into
+another.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="carling(n)">Carlings,</form> <xpln lang="en">are Timbers lying along the
+Ship from Beam to Beam, whereon the
+Ledges do rest, whereunto the Planks of
+the Decks are fastned.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="carling-knee(n)">Carling knees,</form> <xpln lang="en">are Timber coming
+thwart the Ship, and bears up the Deck
+on both sides.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="coaming(n)">Comings,</form> <xpln lang="en">are Timbers and Planks which
+bears the Deck so up, that the Water
+can't enter the Hatches.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="capstan(n)">Capstain,</form> <xpln lang="en" lexeme="windlass(n)" lexeme="topmast(n)">is in the nature of a Windis,
+to wind, or weigh up the Anchors, Sails,
+Top-masts, Ordnance, or the like, be&shy;
+ing a great piece of Wood standing up&shy;
+right on the Deck.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="comb(n)">Comb,</form> <xpln lang="en" lexeme="fore-tack(n)">is a little piece of Wood with
+two holes in it, to bring the the Fore-&shy;
+Tacks aboard.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cat(n)">The Catt,</form> <xpln lang="en" lexeme="hawse(n)" lexeme="shiver(n)" lexeme="trice(v)" lexeme="forecastle(n)">is a short piece of Timber
+aloft, right over the Hause, in the end  
+</page>
+
+<page no="61">
+whereof is a Hook and two Shivers, for
+tricing up the Anchor to the top of the
+Fore-Castle. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cubbridge head(n)">Cubbrige-heads,</form> <xpln lang="en">wherein are placed, some
+things to clear the Deck.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="counter(n)">The Counter,</form> <xpln lang="en" lexeme="transom(n)">is a hollow Arching be&shy;
+twixt the lower part of the Gallery and
+the Transome.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="compass(n)">The Compass,</form> <xpln lang="en">is so well known to every
+Sea-man that I need not describe it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cat-hole(n)">Catt-holes,</form> <xpln lang="en" lexeme="capstan(n)" lexeme="hawser(n)">are over the Ports right
+with the Capstain, to heave the Ship a
+stern by a Cable or Hawser.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="caulk(v)">Calking,</form> <xpln lang="en" lexeme="oakum(n)">is beating Okum into every
+Seam or betwixt Plank and Plank.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="caulking-iron(n)">Calking,</form> <xpln lang="en">Iron is made in the form of
+a Chissel.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="careen(v)">Careene,</form> <xpln lang="en">is to make a Ship so light as
+she may lye upon one side in calm wa&shy;
+ter, so as you may see her Keel.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cap(n)">Cap,</form> <xpln lang="en" lexeme="topmast(n)" lexeme="flag-staff(n)">is a piece of square Timber with
+a round hole in it to receive the Top-&shy;
+mast or Flag-staff, to keep them sted&shy;
+dy or strong.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cross-tree(n)">Crosse-Trees,</form> <xpln lang="en" lexeme="trestle-tree(n)" lexeme="topmast(n)">are at the head of the
+masts, the one set into the other, strong&shy;
+ly boulted with the tressel-Trees to
+keep up the Top-mast, which are fast&shy;
+ned in them.</xpln></wordentry>  
+</page>
+
+<page no="62">
+<wordentry type="h"><form lang="en" lexeme="collar(n)">Coller,</form> <xpln lang="en" lexeme="bowsprit(n)" lexeme="mainmast(n)">is a great Rope which comes
+about the Head and Boulsprit, the other
+end to the head of the Main-mast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cock(n)">A Cock,</form> <xpln lang="en">is the Pin which goes through
+the Block and Center of the Wheel, or
+Pully.</xpln>
+<lemenote>
+"Cock(n)" in the sense of "a pin that goes through the centre of a wheel or pulley" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="chain(n)">Chains,</form> <xpln lang="en" lexeme="chain-wale(n)">are strong Plates of Iron, fast
+boulted into the Ships side, by the Chain
+wail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="catharpin(n)">Catharpings,</form> <xpln lang="en" lexeme="shroud(n)">are small Ropes run in
+little blocks from one side of the Ship
+to the other, near the upper Deck, to
+keep the shrowds right.</xpln>
+<lemenote>
+Neither "catharpings" nor "catharpin(n)" is found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="can-hook(n)">Can-hooks</form> <xpln lang="en" lexeme="hogshead(n)">are two hooks fastned to
+the one end of a Rope with a noose,
+and serve to take in or out Hogsheads
+or other goods.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cringle(n)">Creengles,</form> <xpln lang="en" lexeme="bolt-rope(n)" lexeme="bowline(n)" lexeme="foremast(n)">are little Ropes spliced in&shy;
+to the Boult Ropes of all sails of Main
+and Fore-mast, to which the bowling
+Bridles are made fast,</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="clew-garnet(n)">Clew-garnet,</form> <xpln lang="en" lexeme="clew(n)" lexeme="topsail(n)" lexeme="topgallant(n)" lexeme="spritsail(n)" lexeme="hale(n)" lexeme="clew-line(n)">is a Rope made fast to
+the Clew of the Sail, and from thence
+runs in a Block to the middle of
+the Yard, which serves to hale up the
+Clew of the sail, and the Clew-line is the
+same to the Top-sail, Top-gallant, and
+Sprit-sails.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="clew(n)">The Clews</form> <xpln lang="en" lexeme="sheet(n)" lexeme="tack(n)">of a Sail in the lower corner
+next the Sheet and Tacks.</xpln></wordentry>  
+</page>
+
+<page no="63">
+<wordentry type="h"><form lang="en" lexeme="course(n)">Courses,</form> <xpln lang="en">are the fore, or Main sails.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="caburn(n)">Caburn,</form> <xpln lang="en" lexeme="seize(v)">is a small line to make a bend
+of two Cables, or to sease the Tackles.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gasket(n)">Caskets,</form> <xpln lang="en" lexeme="grummet(n)">are small Ropes made fast to
+the Gromits.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cat-rope(n)">Cat-rope,</form> <xpln lang="en" lexeme="cat(n)" lexeme="hale(v)">is to hale up the Cat.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="guest-rope(n)">Chest-rope,</form> <xpln lang="en" lexeme="boat rope(n)" lexeme="shear(v)">is added to the Boat rope
+to keep her from shearing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="canting quoins(n)">Canting-coins,</form> <xpln lang="en">are little pieces of wood
+made with a sharp edge to lye betwixt
+the Casks.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="standing quoin(n)">Standing-coins,</form> <xpln lang="en" lexeme="pipe-stave(n)" lexeme="cantic quoin(n)">are pipe staves to
+make the Canting-coins fast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="chase(v)">To Chase,</form> <xpln lang="en">is to pursue a Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cond(v)">To Cond, or Cun,</form> <xpln lang="en">is to guide a Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="course(n)">The Course,</form> <xpln lang="en">is that point of the Com&shy;
+pass, on which the Ship sails.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cut sail(v)">Cut the Sail,</form> <xpln lang="en" lexeme="unfurl(v)">that is to unfurl it, and
+let it fall down.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="drive-bolt(n)">DRive Bolts,</form> <xpln lang="en" lexeme="treenail(n)">is a long piece of Iron
+to drive out a Tree-nail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="deck(n)">Decks,</form> <xpln lang="en">are the Floors of a Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="deck(n)">A Flush Deck,</form> <xpln lang="en">is when it lyes upon
+a streight Line fore and aft from stem
+to stern.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="dale(n)">The Daile,</form> <xpln lang="en">is a Trough wherein the
+water that comes from the Pump is con&shy;
+vey'd out of the Ship.</xpln></wordentry>  
+</page>
+
+<page no="64">
+<wordentry type="h"><form lang="en" lexeme="davit(n)">The David,</form> <xpln lang="en">is a short piece of Tim&shy;
+ber, with a notch in it for a block to
+lye for haling up the Anchor.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="drabbler(n)">A Drabler,</form> <xpln lang="en" lexeme="fore-sail(n)" lexeme="mainsail(n)">is a short sail, to take off
+or put to the Fore-sail or Main-sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="drift-sail(n)">Drift-sail,</form> <xpln lang="en" lexeme="sheet(n)">is only used in a Storm,
+veered out right a head by sheets, to keep
+her head right upon the Sea.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="dead water(n)">Dead Water,</form> <xpln lang="en" lexeme="stern(n)" lexeme="eddy(n)">is the Eddy water at the
+stern of the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="disembogue(v)">Disembogue,</form> <xpln lang="en">is to go out of the Mouth
+of a Gulph.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="dispart(v)">Dispart,</form> <xpln lang="en" lexeme="metal(n)">is to find the difference of
+Diameters of Metles, betwixt the breach
+and Mouth of a Cannon.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="earing(n)">EArings,</form> <xpln lang="en" lexeme="bunt(n)">is that part of the Bunt&shy;
+rope, which at all the four Cor&shy;
+ners of the Sail is left open as it were
+a Ring.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="entering-rope(n)">Entring-rope,</form> <xpln lang="en">it is ty'd by the Ships
+side to hold by as you go up the entring
+Ladder.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="end for end(a)">End for End,</form> <xpln lang="en" lexeme="hawse(n)">is when the Cable run&shy;
+neth clear out of the Hawse.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ease(v)">Ease the Helm,</form> <xpln lang="en" lexeme="leeward(adv)">is to let her sail to the
+<emend err="eewar d">leeward</emend>.</xpln></wordentry> 
+</wordgroup1>
+</page>
+
+<page no="65">
+<wordgroup1 type="a" object="F"><alpha>F.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="fashion piece(n)">FAshion-pieces,</form> <xpln lang="en" lexeme="stern-post(n)">are two Timbers which
+rises from the stern-post, to which are fastned all the Planks
+that reach to the after part of the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="forelock-bolt(n)">Fore-lock-bolts,</form> <xpln lang="en" lexeme="cotterel(n)">hath an Eye at the end,
+wherein a cotril of Iron is driven to
+hinder it from starting back.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="furling-line(n)">Furling Lines,</form> <xpln lang="en" lexeme="topsail(n)" lexeme="topgallant(n)" lexeme="mizzen yard(n)">are small Lines made
+fast to the Top-sail, Top-gallant and
+Mizon Yard Arms.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="free(v)" lexeme="boat(n)">Free the Boat,</form> <xpln lang="en">is to cast out the water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fluke(n)">Flook,</form> <xpln lang="en">is that part of an Anchor that
+doth stick into the Ground.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fake(n)">Fake,</form> <xpln lang="en">is one circle of any Cable when
+Coil'd.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fore-topsail(n)">Fore-Top-Sail,</form> <xpln lang="en" lexeme="foremast(n)">is the uppermost Sail
+belonging to the Fore-Mast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fender(n)">Fenders,</form> <xpln lang="en" lexeme="hawswer(n)" lexeme="quay(n)">are pieces of old Hawsers or
+Blocks hung about the Ship to defend
+her from the Key.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fore-course(n)">Fore Course,</form> <xpln lang="en" lexeme="fore-sail(n)">is the Fore sail.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fathom(n)">A Fathom</form> <xpln lang="en">is six Foot.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fardel(v)" lexeme="furl(v)">To Farthel or Furl a Sail,</form> <xpln lang="en">is to wrap
+it up close together, and tye it with
+little strings fast to the Yard.</xpln></wordentry>  
+</page>
+
+<page no="66">
+<wordentry type="h"><form lang="en" lexeme="fish(v)">To Fish a Mast or Yard,</form> <xpln lang="en" lexeme="fish(n)">is to fasten a
+piece of Timber or Plank to it to streng&shy;
+then it, which Plank is called a Fish.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lower(v)" lexeme="strike(v)">To lower or strike the Flag,</form> <xpln lang="en" lexeme="cap(n)" lexeme="yield(v)">is to put
+it down upon the Cap, which signifies
+to Yield.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="heave out(v)">To heave out the Flag</form> <xpln lang="en">is to wrap it
+about the Staff.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="garboard(n)">THE Garbord,</form> <xpln lang="en" lexeme="keel(n)">is the first Plank
+next to the Keel on the outside.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="garboard-strake(n)">The Garbord-stroke,</form> <xpln lang="en" lexeme="keel(n)">is the first seam
+next the Keel.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gunwale(n)">Gun-wail,</form> <xpln lang="en" lexeme="wale(n)" lexeme="waist(n)">is the upmost wail,
+which goeth about the Ships waste at the up&shy;
+most Deck.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gudgeon(n)">Gudgions,</form> <xpln lang="en" lexeme="tiller(n)" lexeme="rudder(n)">is an Iron work whereby
+the Tiller is hung to the Rudder.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="graving stuff(n)">Graving,</form> <xpln lang="en" lexeme="caulking(n)" lexeme="glib(a)">is under water, and is a
+white mixture of Tallow, Sope and Brim&shy;
+stone, to preserve the ships Calking,
+and make her Glib, to pass the quicker
+through the water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="guy(n)">A Guy,</form> <xpln lang="en" lexeme="winding tackle(n)">is a Rope brought from the
+Fore-mast to the winding Tackle, used
+for the haling in or out the Ordnance.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="goring(a)">Goaring,</form> <xpln lang="en">is a sloaping part of a sail.</xpln></wordentry>  
+</page>
+
+<page no="67">
+<wordentry type="h"><form lang="en" lexeme="gang(n)">A Gang,</form> <xpln lang="en" lexeme="boatswain(n)">is a select Company of Men
+appointed for the Boatswain to Man
+the Boat.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="grapnel(n)">Graples or Graplings,</form> <xpln lang="en" lexeme="fluke(n)">is a small An&shy;
+chor with four Flooks which commonly
+serves for a Boats Anchor.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gird(v)">Gert,</form> <xpln lang="en">is when the Cable is so taut,
+that upon the turning of a Tide the
+Ship can't go over it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gauge(n)">The Ships Gauge,</form> <xpln lang="en">is so many Foot as
+she draws or sinks in the Water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="weather-gauge(n)">The weather Gauge,</form> <xpln lang="en">is when one Ship has
+the wind of another, or to weather of her.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="loom gale(n)">A Loom Gale,</form> <xpln lang="en">is a little wind.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gale(v)">One Ship Gale,</form> <xpln lang="en">away from another; in
+fair weather when there is but little
+wind, that Ship that Sails fastest and
+hath most wind, is said to gale away.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="grave(v)">To Greave a Ship,</form> <xpln lang="en">is to bring her to
+lye dry a ground, so that you may burn
+off her old Filth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gripe(n)">The Ship Gripes,</form> <xpln lang="en">that is turns her
+head more to the wind then she should.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="hull(n)">A Ships Hull,</form> <xpln lang="en" lexeme="rigging(n)">is the whole body of
+the Ship without the Rigging.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hold(n)">The Howld,</form> <xpln lang="en" lexeme="hull(n)">is the Inner-part of the
+Hull.</xpln></wordentry>  
+</page>
+
+<page no="68">
+<wordentry type="h"><form lang="en" lexeme="hatch(n)">Hatches,</form> <xpln lang="en" lexeme="hold(n)">are the entrances into the
+Howld.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hawse(n)">The Hawses,</form> <xpln lang="en" lexeme="beak-head(n)">are the great round Holes
+where the Cables go out at, under the
+Beak head.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)">A Horse,</form> <xpln lang="en" lexeme="spritsail(n)" lexeme="foremast(n)" lexeme="shroud(n)" lexeme="fluke(n)">is a rope made fast to the
+Fore-mast Shroudes and the Sprit-sail
+sheets, to keep them clear of the Anchor
+Flooks.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="headline(n)">Head-lines,</form> <xpln lang="en">are the Ropes that makes
+all the sails fast to the Yard.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hold water(v)">Hold water,</form> <xpln lang="en" lexeme+"stay(v)">is to stay the Boat.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hale(v)">Hale,</form> <xpln lang="en">is to pull.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="overhale(v)">To over Hale,</form> <xpln lang="en" lexeme="slacken(v)">is when a rope is ha&shy;
+led too stiff, to hale it the contrary
+way to slacken it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hail(v)">To Hale a Ship,</form> <xpln lang="en" lexeme="hailing(n)">is to call to her com&shy;
+pany to know whither they are bound,
+and to salute a Ship with Trumpets is
+Hailing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ho(ex)">H&ocirc;a,</form> <xpln lang="en">is whither are you bound?</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hi(ex)">H&acirc;e,</form> <xpln lang="en">is what do you say, or what
+would you say?</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fresh the hawse(v)">Fresh the Hawse,</form> <xpln lang="en" lexeme="veer(v)" lexeme="fretted(a)" lexeme="chafed(a)">is to veere, or let
+more Cable out at the Hawse, if so be
+that the Cable which lyes therein is
+fretted, or chaffed.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="clear the hawse(v)">Clear the Hawse,</form> <xpln lang="en">is to untwist two
+Cables that are twisted by accident.</xpln></wordentry>  
+</page>
+
+<page no="69">
+<wordentry type="h"><form lang="en" lexeme="thwart the hawse(v)">Thwart the Hawse,</form> <xpln lang="en" lexeme="stern(n)" lexeme="hawse(n)">is when a Ship
+lyes cross the Hawse, or with her stern
+just before another Ships Hawse.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="heel(v)">The Ship Heels,</form> <xpln lang="en">that is when a Ship
+inclines more to one side then the other.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hitch(v)">To Hitch,</form> <xpln lang="en">is to catch hold.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rummage(v)">Rumige the Howld,</form> <xpln lang="en">is to remove any
+thing therein, or to clear the goods.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stow(v)">Stow the Howld,</form> <xpln lang="en">is to take goods in&shy;
+to the Howld.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hoise(v)" lexeme="yard(n)">Hoise up the Yards,</form> <xpln lang="en" lexeme="hale(v)">is to hale up the
+Yards.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hull(v)">Hulling,</form> <xpln lang="en">is when a Ship at Sea takes
+in all her sails.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="junk(n)">JUnks,</form> <xpln lang="en">are pieces of wood hung about
+the Ships sides to keep them from
+bruising.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="keel(n)">THE Keel,</form> <xpln lang="en">is the lowest Timber
+in the Ship, being a great Tree
+hewn according to her burthen, to
+which all other Timber of the Ship is
+fastned.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="keelson(n)">The Keelson,</form> <xpln lang="en" lexeme="keel(v)">is another long Timber,
+like the Keel, which lyes in the inside,
+fixed with strong Iron Bolts to the Keel
+through the floor Timber.</xpln></wordentry>  
+</page>
+
+<page no="70">
+<wordentry type="h"><form lang="en" lexeme="knee(n)">Knees,</form> <xpln lang="en">are crooked Timbers which
+are bolted to the Beams, in every part
+of the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="knight(n)">Knights,</form> <xpln lang="en" lexeme="shiver(n)">are two great pieces of wood
+carved with the Head of a Man upon
+them, wherein is four shivers a piece,
+three for the Hall-yards and one for the
+top Rope to run in.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="kevel(n)">Knevells,</form> <xpln lang="en" lexeme="rack(n)">are small pieces of wood
+nailed to the inside of the Ship, to belay
+the sheets and Racks unto.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="knittle(n)">Knettles,</form> <xpln lang="en">are two Rope yarns twisted to&shy;
+gether, and a knot on each end where&shy;
+unto to sease a block, a rope, or the
+like.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="keel-rope(n)">Keel-rope,</form> <xpln lang="en" lexeme="limber-hole(n)" lexeme="stern(n)" lexeme="stem(n)">is of hair to scower the
+Limber-holes, which they pull from
+stern to stem to keep them clean.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="limber-hole(n)">THE Limber-holes,</form> <xpln lang="en" lexeme="keel(n)" lexeme="pump(n)">are through the
+Floor, Timber or Rings, thwart the
+Keel, to bring the water to the Well for
+the Pump.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="locker(n)">Lockers,</form> <xpln lang="en" lexeme="quarterdeck(n)" lexeme="roundhouse(n)">are seats in the Cabin, Quar&shy;
+ter Deck, or round House, to put any
+thing in.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lanyard(n)">Lannier,</form> <xpln lang="en" lexeme="collar(n)">is that which makes the Main&shy;
+mast-stay fast to a Coller.</xpln></wordentry>  
+</page>
+
+<page no="71">
+<wordentry type="h"><form lang="en" lexeme="leefang(n)">Leefanngs,</form> <xpln lang="en" lexeme="reeve(v)" lexeme="cringle(n)" lexeme="bonnet(n)">is a rope reeved into the
+Creengles of the Courses, when we
+would hale in the bottom of a sail to
+lash on a Bonnet, or take in the sail.</xpln>
+<lemenote>
+See OED, "fang," n. 1, 7a; and "lee," n. C1a.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="leech-line(n)">Leech-lines,</form> <xpln lang="en" lexeme="leech(n)" lexeme="topsail(n)">are small ropes made fast
+to the Leech of the Top-sails.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="leech(n)">The Leech</form> <xpln lang="en" lexeme="earing(n)" lexeme="clew(n)">of a sail, is the outward
+part of the skirt of a sail, from the ear&shy;
+ing to the Clew.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lift(n)">The Lifts,</form> <xpln lang="en" lexeme="top(v)">are two ropes which be&shy;
+long to all yards, arms, to make them
+hang higher or lower, or top the yards, as
+they call it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)">Legs,</form> <xpln lang="en" lexeme="bolt-rope(n)" lexeme="leech(n)" lexeme="marthet(n)">are small Ropes put through
+the bolt-ropes of the Main or Fore-sail,
+near a foot long, spliced each end into
+the other in the Leech of the sail, with
+a little eye whereunto the Martnets are
+fastned.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="latchet(n)">Latchets,</form> <xpln lang="en" lexeme="bonnet(n)" lexeme="drabbler(n)">are small lines sewed in the
+Bonnets and Drablers, to lash or make
+them fast to the Course.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="luff hook(n)">Loof-hook,</form> <xpln lang="en" lexeme="shingle(n)" lexeme="bolt-rope(n)" lexeme="leech(n)" lexeme="clew(n)" lexeme="chester(n)">is a Tackle with two hooks,
+one to hitch into a Chingle of the Main,
+or Fore-sail in the Bolt-rope in the
+Leech of the sail by the Clew, and the
+other to the strap spliced to the Chesters,
+to put down the sail to ease the Tacks
+in a swift Gale.</xpln>
+<lemenote>
+"Chester(n)" in any nautical sense is not found in the OED.
+</lemenote>
+</wordentry>  
+</page>
+
+<page no="72">
+<wordentry type="h"><form lang="en" lexeme="labour(v)">The Ship Labours,</form> <xpln lang="en">that is Rowls and
+tumbles much.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="landfall(n)">Land-fall,</form> <xpln lang="en">is a term used when we
+expect to see Land.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="landlocked(a)">Land-locked,</form> <xpln lang="en">is when the land lies round
+about us so that no point is open to the
+Sea.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="land to(a)">Land-to,</form> <xpln lang="en">a Ship is said to lye Land-to
+when she is at so great a distance that
+you can only discern the Land.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lash(v)">To Lash,</form> <xpln lang="en">is to bind.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="launch(v)">Launch a Ship,</form> <xpln lang="en">is to put her forth of
+the Dock into the Water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lanuch-ho(ex)">Launch-h&ocirc;e,</form> <xpln lang="en">is when a yard is hoist&shy;
+ed high enough, and is meant hoist
+no more.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lay the land(v)">Lay the Land,</form> <xpln lang="en">is to loose sight of it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="lee shore(n)">The Lee-shore,</form> <xpln lang="en">is that shore against
+which the wind blows.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="care(v)" lexeme="lee-latch(n)">Have a care of the Lee-latch,</form> <xpln lang="en" lexeme="leeward(n)">that is,
+take heed the Ship go not too much to
+the Leeward.</xpln>
+<lemenote>
+"Lee-latch(n)" antedates the earliest OED citation (1721).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" "lie upon the lee(v)">A Ship lyes by the Lee,</form> <xpln lang="en" lexeme="shroud(n)">that it has all
+her sails, lying, flat against the masts
+and shrouds.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="manger(n)">MAnger,</form> <xpln lang="en" lexeme="mainmast(n)" lexeme="abaft(adv)" lexeme="hawse(n)">is a Circle of Plank they
+build either before the Main&shy;
+</page>
+
+<page no="73">
+<emend err="">mast</emend> or Abaft, to keep out the water, which
+sometimes comes in at the Hawses in a 
+rough Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="made mast(n)">A Made mast,</form> <xpln lang="en">a Mast greater then of
+one Tree.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="marline(n)">Marting,</form> <xpln lang="en">is a small untwisted line
+Well tarr'd, to sease the ends of Ropes,
+so that they may not untwist.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="marlinspike(n)">Marting Spike,</form> <xpln lang="en" lexeme="bolt-rope(n)">is a small piece of Iron
+to splice Ropes withal, or to open the
+Bolt-rope when you sew the Sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mainsail(n)">The Main-sail,</form> <xpln lang="en" lexeme="course(n)" lexeme="mainmast(n)">is the Great Sail or
+Course belonging to the Main-mast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="maintopsail(n)">The Main-top-sail,</form> <xpln lang="en">is the Sail immedi&shy;
+ately above that.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mizzen sail(n)">The Mizen-sail,</form> <xpln lang="en" lexeme="mizzen-mast(n)">is the great sail of the Mizen-mast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mizzen topsail(n)">The Mizen Top-sail,</form> <xpln lang="en">is next above that.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="monk seam(n)">A Monk-seam,</form> <xpln lang="en">is a flat seam in the
+sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="set(v)" lexeme="mizzen(n)">Set the Mizon,</form> <xpln lang="en" lexeme="mizzen-sail(n)">that is, fit the Mizon-&shy;
+sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="change(v)" lexeme="mizzen(n)">Change the Mizon,</form> <xpln lang="en">that is, bring the
+Yard to the other side of the Mast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="speek(v)" lexeme="mizzen(n)">Speek the Mizon,</form> <xpln lang="en">is to bring the
+Yard right up and down by the Mast</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spell(v)" lexeme="mizzen(n)">Spell the Mizon,</form> <xpln lang="en" lexeme="peak(v)" lexeme="sheet(n)">that is, let go the
+Sheet and Peek it up.</xpln></wordentry>  
+</page>
+
+<page no="74">
+<wordentry type="h"><form lang="en" lexeme="moor(v)">To moor a Ship,</form> <xpln lang="en">is to lay out her An&shy;
+chors in such manner, as she may ride
+most conveniently and safe.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="no near(ex)">No near,</form> <xpln lang="en" lexeme="helm(n)" lexeme="leeward(a)">is to ease the Helm, and let
+the ship fall to the Leeward.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="nealed(a)">Nealed to,</form> <xpln lang="en">that is, deep Water close
+aboard the shore.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="neap(a)">Neap Tides,</form> <xpln lang="en">are Tides when the Moon
+is in the second or last Quarter, and are
+neither so high nor low as the spring
+Tides.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="beneaped(a)">A Ship is Beneaped,</form> <xpln lang="en">is when the Wa&shy;
+ter is not high enough to bring a ship
+out of a Dock, or make her float.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="orlop(n)">Orlop,</form> <xpln lang="en">is a Deck.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="oakum(n)">Okum,</form> <xpln lang="en" lexeme="tow(n)" lexeme="furd(n)">is Old Ropes torn in pieces,
+like Tow or Furds, the which is beat
+into every seam of the ship to make
+her tight.</xpln>
+<lemenote>
+"Furd(n)" in the sense of "a type of rope" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="over-rigged(a)">Over-rigg'd,</form> <xpln lang="en">is when the Ropes of
+a ship are not sizable to her Burthen.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="offing(n)">Offing,</form> <xpln lang="en">is the open sea from the shore,
+or the midst of any great stream.</xpln></wordentry>  
+</page>
+
+<page no="75">
+<wordentry type="h"><form lang="en" lexeme="overblow(n)">It Overblows,</form> <xpln lang="en" lexeme="topsail(n)">is when we can bear no
+Top-sail.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="overgrown(a)">An Over-grown Sea,</form> <xpln lang="en" lexeme="billow(n)">is a great Wave
+or Billow.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stand(v)" lexeme="offing(n)">The Ship stands for the Offing,</form> <xpln lang="en" lexeme="seaward(n)">that is, she
+stands to the Sea-ward.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="overset(v)">Over-set,</form> <xpln lang="en">is turning over.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="port(n)">Ports,</form> <xpln lang="en" lexeme="ordnance(n)">are square Holes in the sides of
+the Ship for the Ordnance to lye out at,
+offensive or defensive.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pump(n)">A Pump,</form> <xpln lang="en">is a boared Tree with a
+Sucker belonging to it, to suck the Wa&shy;
+ter out of the Well of the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="suck(v)">The Pump sucks,</form> <xpln lang="en">is when the Water
+being out, the Pump sucks nothing but
+Froth and Wind.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="beer-pump(n)">A bare Pump,</form> <xpln lang="en" lexeme="latten(n)">is a little piece of Latten
+or Reed, to pump the Beer or Water
+out of the Cask.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="prow(n)">The Prow,</form> <xpln lang="en" lexeme="abaft(adv)" lexeme="forecastle(n)">is the Deck abaft the Fore-&shy;
+Castle.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pintle(n)">Pintels,</form> <xpln lang="en">is Hooks or Bolts that goes into
+Iron Sockets, whereby the Rudder hangs.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="parcelling(n)">Parsling,</form> <xpln lang="en">is a List of Canvas, which
+being well smear'd with hot Pitch, poured
+upon, is laid all along the seams of the
+Decks.</xpln></wordentry>  
+</page>
+
+<page no="76">
+<wordentry type="h"><form lang="en" lexeme="partner(n)">Partners,</form> <xpln lang="en">are strong Timbers bolted to
+the Beams incircling the Masts to keep
+them steady.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pillow(n)">The Pillow,</form> <xpln lang="en" lexeme="bowsprit(n)">is that Timber whereon the
+Boultspreat resteth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="puttock(n)">The Puttocks,</form> <xpln lang="en" lexeme="shroud(n)">go from the Shrouds of
+the Masts to the Top, Cap, or Bowl, which
+is a round Timber on the head of every
+Mast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="parrel(n)">Parrels,</form> <xpln lang="en">are round Balls of Wood which
+go round the mast, and are fixed to the
+Yards, which make them slip up and
+down easy.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="parbuckle(n)">A Parbunckle,</form> <xpln lang="en">is two Ropes that have
+at each end a Noose or Lump, that being
+crossed, you may set any Vessel that hath
+but one head upon them, bringing the
+Loops over the upper end, to fix the
+Tackle to them; and you may heave
+them out or in as you please.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pudding(n)">Puddings,</form> <xpln lang="en" lexeme="robbin(n)" lexeme="gall(v)" lexeme="clinch(v)">are Ropes nailed round the
+Yards Arms close to the end, to save the
+Robins from galling upon the Yards, or
+to put about the Anchors Ring to save
+the Clinch of the Cable from Galling.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="preventer rope(n)">Preventer Rope,</form> <xpln lang="en" lexeme="tie(n)" lexeme="ram's head(n)">is a little rope ceased
+cross over the Ties, that if one pair of
+them should break, the other should not
+run through the Rams head to endanger
+the Yard.</xpln></wordentry>  
+</page>
+
+<page no="76">
+<wordentry type="h"><form lang="en" lexeme="port-rope(n)">Port Ropes,</form> <xpln lang="en" lexeme="gun-port(n)">Are these which hale up
+the Gun-ports.</xpln>
+<lemenote>
+"Gun-port(n)" antedates the earliest OED citation (1769).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pay(v)" lexeme="cable(n)">Pay more Cable,</form> <xpln lang="en">is when you are going
+out with your Anchor, you would have
+them to throw over more Cable.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pay(v)" lexeme="seam(n)">To pay a Seam,</form> <xpln lang="en" lexeme="caulked(a)">is to lay hot Pitch and
+Tar over a Caulked Seam.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)" lexeme="a-peak(adv)">To ride a Peek,</form> <xpln lang="en">is when the Yards are
+so, that they make the Figure of St. An&shy;
+drews Cross.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="capstan(n)" lexeme="purchase(v)" lexeme="apace(adv)">The Capstain purchases apace,</form> <xpln lang="en">that is,
+draws in much Cable in a short time.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="ship's quarter(n)">A Ships Quarter,</form> <xpln lang="en" lexeme="mainmast(n)" lexeme="aftward(adv)">is from the Main&shy;
+mast aftward.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="slanting(a)" lexeme="quoin(n)">Quoynes,</form> <xpln lang="en" lexeme="breach(n)" lexeme="slenting(a)">are slenting pieces of Timber
+or Wedges to heighten the breach of a
+Cannon.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="quarter wind(n)">Quarter-Winds,</form> <xpln lang="en" lexeme="abaft(adv)" lexeme="shrouded(a)" lexeme="quarter(n)">are when the Wind
+comes in abaft the main Shrouds even
+with the Quarter.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="coil(n)">A Quoil,</form> <xpln lang="en" lexeme="fake(n)">is a Rope or Cable laid up
+round, one fack over another.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="rung(n)">Rungs,</form> <xpln lang="en" lexeme="floor timber(n)" lexeme="ground-timber(n)" lexeme="keel(n)">are the Floor Timbers, or
+ground Timbers thwart the Keel.</xpln></wordentry>  
+</page>
+
+<page no="78">
+<wordentry type="h"><form lang="en" lexeme="runghead(n)">Rungheads,</form> <xpln lang="en">is the bending place at the
+end of the Rungs.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rib(n)">Ribs,</form> <xpln lang="en" lexeme="hold(n)" lexeme="hull(n)">are Arching Timbers which lye
+in the inside of the Ship whereunto the
+Planks are boulted, which make the Hould
+and Hull.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rising timber(n)">Rising Timbers,</form> <xpln lang="en" lexeme="ground-timber (n)" lexeme="futtock(n)" lexeme="hook(n)" lexeme="keel(n)">are the Hooks, or
+ground Timbers, or Foot-Hooks, placed
+on the Keel.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="run(n)">The Run,</form> <xpln lang="en" lexeme="floor timber(n)" lexeme="stern-post(n)">is that part of the Ship un&shy;
+der-water, which grows narrower by
+degrees from the Floor Timbers along
+the stern Post.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rake(n)">The Rake,</form> <xpln lang="en" lexeme="hull(n)" lexeme="keel(n)">is so much of a Ships Hull as
+hangs over both ends of the Keel.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rider(n)">Riders,</form> <xpln lang="en" lexeme="orlop(n)" lexeme="keel(n)">are great binders, which go
+from the Beams under the Orlop to the
+Keel in great Ships, to strengthen all.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ringbolt(n)">Ring-bolts,</form> <xpln lang="en" lexeme="ordnance(n)">are used for the Tackle of
+the Ordnance.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="raise(v)" lexeme="deck(n)">To raise a Deck,</form> <xpln lang="en">is to put it higher.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ram's head(n)">Ramshead,</form> <xpln lang="en" lexeme="shiver(n)" lexeme="halyard(n)">is a great Block with three
+Shivers, through which are passed the
+Hallyards, and in a hole at the end of it,
+is reeved the Tyes, belonging to the
+Fore-end Main-Hallyard.</xpln>
+<lemenote>
+The compound "main-halyard(n)" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="roll(n)">The Roul,</form> <xpln lang="en" lexeme="whipstaff(n)" lexeme="steersman(n)">is that through which the
+Whipstaff goeth, which is a piece of wood
+the Steers-man holdeth in his hand to
+steer withal.</xpln></wordentry>  
+</page>
+
+<page no="79">
+<wordentry type="h"><form lang="en" lexeme="rudder(n)">The Rudder,</form> <xpln lang="en">is a great piece of Tim&shy;
+ber like unto a Plank, made lesser or
+greater according to the Ships Burthen
+hung at the stern of the Ship upon
+Hooks and Hinges, to guide the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rigging(n)">Rigging,</form> <xpln lang="en" lexeme="cordage(n)">is all the Ropes or Cordage
+belonging to the Masts and Yards of a
+Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="running-rope(n)">Running-Ropes,</form> <xpln lang="en">are such Ropes as run
+through Blocks or Pullies.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ratline(n)">Ratlings,</form> <xpln lang="en" lexeme="shroud(n)">are the small Ropes which
+go cross the Shrouds, for steps to go up
+the Shrouds upon.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="robbin(n)">Robbins,</form> <xpln lang="en" lexeme="reeve(n)" lexeme="eyelet hole(n)">are little lines reeved into the
+Eyelot-holes of the Sail, to make fast
+the Sail to the Yard.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rope yarn(n)">Rope-Yarns,</form> <xpln lang="en">are the Yarns of any Rope
+untwisted.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rudder-rope(n)" lexeme="rudder(n)" lexeme="rope(n)">Rudder-Rope,</form> <xpln lang="en">is reeved through the
+stern Post, and goeth through the head
+of the Rudder; the ends whereof are
+spliced together, to save the Rudder, if
+it should be unhinged, or struck off the
+Irons.</xpln>
+<lemenote>
+"Rudder-rope(n)" is not found in the OED.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rouse(v)">Rousing,</form> <xpln lang="en">is to pull the Slackness of
+any Rope into the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rough-tree(n)">Rouse-Trees,</form> <xpln lang="en" lexeme="goring(n)" lexeme="forecastle(n)">are small Timbers to bear
+up the Goarings from the half Deck to
+the Fore-Castle.</xpln></wordentry>  
+</page>
+
+<page no="80">
+<wordentry type="h"><form lang="en" lexeme="reach(n)">A Reach,</form> <xpln lang="en">is the Distance between any
+two Points of Land that lye opposite to
+one another.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="reeve(v)">To Reeve,</form> <xpln lang="en">is to put a Rope through a
+Block.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="unreeve(v)">Un-reeve,</form> <xpln lang="en">is to pull a Rope out of a
+Block.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)">Ride,</form> <xpln lang="en">is when a Ship is held fast by
+an Anchor, so that she doth not drive.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)" lexeme="athwart(adv)">To ride athwart,</form> <xpln lang="en">is to ride with the
+Ships-side to the Tide.</xpln>
+<lemenote>
+The phrase "ride athwart(v)" is not found in the OED but see "athwart," adv. and prep. 3.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)" lexeme="wind(n)" lexeme="tide(n)">To ride between Wind and Tide,</form> <xpln lang="en">is when
+the Wind and Tide are contrary, and
+are in strength equal.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="road(n)">A Road,</form> <xpln lang="en">is any place near the Land,
+where Ships may ride at Anchor.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)" lexeme="hawse-full(a)">To Ride Hawse-fall,</form> <xpln lang="en" lexeme="hawse(n)">is in a Rough Sea,
+when the Water breaks into the Hawses.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="rouse in(v)">Rouse in,</form> <xpln lang="en" lexeme="hawser(n)" lexeme="hale(v)">that is, hale in the Cable or
+Hawser.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="stem(n)">The Stem,</form> <xpln lang="en" lexeme="keel(n)" lexeme="butt-end(n)">is a great piece of Timber
+compassing and fixed into the Keel, where&shy;
+unto all the Butt ends of the Planks
+foreward are fixed.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stern-post(n)">The Stern Post,</form> <xpln lang="en" lexeme="keel(n)">is another great Tim&shy;
+er, which is let into the Keel at the o&shy;
+ther end.</xpln></wordentry>  
+</page>
+
+<page no="81">
+<wordentry type="h"><form lang="en" lexeme="sweep(n)" lexeme="mould(n)">Sweep or Mould,</form> <xpln lang="en" lexeme="ground-timber(n)" lexeme="futtock(n)">is the Timber which
+compasseth at the ground Timber, on
+the foot Hooks.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="scarfing(n)">Skarfing,</form> <xpln lang="en">is one piece of Wood let
+into another.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sleeper(n)">Sleepers,</form> <xpln lang="en" lexeme="futtock(n)" lexeme="keelson(n)">are Timbers which are boulted
+strongly to the Foot-Hooks on each side
+the Keelsom.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spurket(n)">Spurkits,</form> <xpln lang="en" lexeme="sleeper(n)">are the spaces betwixt the
+Timbers along the ship sides in all parts
+but them in the Howle below the sleep&shy;
+ers.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="scuttle-hatch(n)">A Scuttle Hatch,</form> <xpln lang="en" lexeme="scuttle(n)">is a little square Hole
+we call the scuttle, where but one Man
+can go down into the ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="scupper-leather(n)">Skupper-Leathers,</form> <xpln lang="en" lexeme="scupper-hole(n)">are pieces of Lea&shy;
+ther nailed upon the out-sides of the
+Skupper-holes, to keep the sea out,
+and these Holes are round the Deck, to
+let the Pump Water out.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="steerage(n)">The Stearage,</form> <xpln lang="en">is a Room before the
+Great Cabin, where he that steareth the
+Ship stands.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stern(n)">The Stern,</form> <xpln lang="en">is the Hind part of the
+ship where the Rudder is.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stay(n)">Stays,</form> <xpln lang="en" lexeme="lanyard(n)" lexeme="collar(n)" lexeme="bowsprit(n)">are great Ropes, for staying
+the Masts, the Main stay is made fast
+by a Lannier to a Coller which comes
+round the Head and Boltsprit.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shiver(n)">A Shiver,</form> <xpln lang="en">is a little Wheel fixed with  
+</page>
+
+<page no="82">
+an Iron Pin into a Block or Pulley. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shroud(n)">Shrowds,</form> <xpln lang="en" lexeme="dead-eye(n)">are great Ropes which go up
+either sides of all Masts, and go
+through Blocks with several Holes, cal&shy;
+led Dead Eyes.</xpln>
+<lemenote>
+"Dead eyes" antedates the earliest OED citation (1748).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="standing-rope(n)">Standing-Ropes,</form> <xpln lang="en" lexeme="shroud(n)" lexeme="stay(n)">are the shrouds and
+stays, because they are not removed, un&shy;
+less it be upon extraordinary occasion.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shap block(n)">The Snap-Block,</form> <xpln lang="en">is that Block which is
+used in hoisting the Goods in or out.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sling(n)">A Sling,</form> <xpln lang="en" lexeme="eye(n)">is to make fast any Cask,
+Yard or Gun in a pair of Slings, which
+are made of a Rope spliced at either end
+into it self, with one Eye at either end
+so long as to be sufficient to receive the
+Cask.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sheet(n)">Sheats,</form> <xpln lang="en" lexeme="clew(n)" lexeme="topsail(n)">are bent to the Clews of all
+Sails; in low Sails they hale aft the Clew
+of the Sail, but in Top Sails, they hale
+them home, or close to the Yards Arm.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sinnet(n)">Sinnet,</form> <xpln lang="en" lexeme="rope yarn(n)">is a string made of Rope-Yarn,
+platted in three parts, which being beat
+flat, it is used to sarve Ropes or Mats.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="serve(v)">Sarve,</form> <xpln lang="en" lexeme="sinnet(n)">is when a Rope is ty'd round
+with a piece of Mat, Sinnet or Canvas,
+to save it from fretting.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="seize(v)">Seasing,</form> <xpln lang="en">is to bind fast any rope to&shy;
+gether.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="seasen(n)">A seasen,</form> <xpln lang="en">is the Rope by which the
+Boat doth Ride by the Ships side.</xpln>
+<lemenote>
+"Seasen(n)" in the sense of "a type of rope" is not found in the OED. John Smith uses the word in his <i>General History of Virginia</i>.
+</lemenote>
+</wordentry>  
+</page>
+
+<page no="83">
+<wordentry type="h"><form lang="en" lexeme="spun-yarn(n)">Spun-yarn,</form> <xpln lang="en" lexeme="rope-yarn(n)">is Rope-Yarn made small
+at the end, and so spun to each other.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="splicing(n)">Splicing,</form> <xpln lang="en">is to let one Ropes End into
+another, so as they may be as firm as
+the other part of the Rope.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sheepshank(n)">Sheep-shank,</form> <xpln lang="en" lexeme="runner(n)">is a kind of a Knot, they
+cast upon the runner of Tacle when it
+is too long to take in the goods, so
+they can shorten a rope without cut&shy;
+ting.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shallop(n)">A shallop,</form> <xpln lang="en">are small Boats belong&shy;
+ing to Great Ships.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spell(n)">A spell,</form> <xpln lang="en">is a relief of a new gang for
+the Boat to relieve the Rowers.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sheering(n)">Shearing,</form> <xpln lang="en">is when the Boat swings to
+and again.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="splice(v)" lexeme="cable(n)">Splice a Cable,</form> <xpln lang="en">is to fasten two ends
+together to add to the length of it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shank-painter(n)">Shank-panter,</form> <xpln lang="en" lexeme="shroud(n)">is a short Chain fastned
+under the foremast shrowds, to the Ships
+side, and at the other end a Rope to
+make fast the Anchor to the Bowe.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="stop(v)">To stop,</form> <xpln lang="en">is when you come to an An&shy;
+chor and veers out your Cable.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="studdingsail(n)">Studding sails,</form> <xpln lang="en" lexeme="mainsail(n)" lexeme="boom out(v)">are bolts of Canvas
+which are extended along the side of
+the Main-Sail, the which we boom out
+with a Boom or long Pole.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spritsail(n)">Sprit-sail,</form> <xpln lang="en" lexeme="bowsprit(n)">are the Sails of the Boult-sprit.</xpln></wordentry>  
+</page>
+
+<page no="84">
+<wordentry type="h"><form lang="en" lexeme="stow(v)">To stow,</form> <xpln lang="en" lexeme="hold(n)">is to put the Goods in or&shy;
+der into the Hould.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="shoot(v)" lexeme="ballast(n)">The Ballast shoots,</form> <xpln lang="en">is to run to one
+side or shift.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="strike(v)">Strike,</form> <xpln lang="en" lexeme="hold(n)">That is when the Goods are
+down into the Hould, so as the Tackle
+may be made loose, they say strike.</xpln></wordentry>  
+
+<wordentry type="h"><form lang="en" lexeme="seize(v)">To sease,</form> <xpln lang="en">Is to make fast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="seel(v)">The ship seals,</form> <xpln lang="en">That is when on a
+sudden she lies down on one side, and
+tumbles from one side to the other.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="send(n)">The ship sends,</form><xpln lang="en" lexeme="stern(n)">that is, her Head or Stern falls deep in the Trough or Hol&shy;
+low of the Sea.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sew(v)">The ship is sewed,</form> <xpln lang="en">or the Water is gone
+from her.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="steer(v)">The ship stears,</form> <xpln lang="en">or goes not strieght
+forward.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sound(v)">To sound,</form> <xpln lang="en">is to try with a Lead and
+Line the depth of Water.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spend(v)">The ship hath spent her Masts,</form> <xpln lang="en">that is,
+she hath lost them all by fowl Weather.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="by the board(adv)">Their Masts are shot by the Board,</form> <xpln lang="en">that
+is, when they are lost in a Fight.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="split(a)">The sail is split,</form> <xpln lang="en">or blown in pieces.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spoom(v)">The ship spooms,</form> <xpln lang="en">that is, goes right
+before the Wind without Sails.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="spring tide(n)">Spring Tides,</form> <xpln lang="en">are the Tides at New
+and Full Moon.</xpln></wordentry>  
+</page>
+
+<page no="85">
+<wordentry type="h"><form lang="en" lexeme="steeve(v)">The Bowsprit steeves,</form> <xpln lang="en">or stands too
+Upright.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="trunnion(n)" lexeme="treenail(n)">Trunions, or Tree-nails,</form> <xpln lang="en">is Wooden
+Pins about a foot long, which go through
+the Planks and Ribs of the Ship, to keep
+them strongly together.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="transom(n)">Transome,</form> <xpln lang="en" lexeme="thwart(adv)" lexeme="stern(n)" lexeme="buttock(n)">is a Timber lyes thwart the
+Stern, and doth lay out the bredth of
+the Ship at the Buttocks.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tiller(n)">The Tiller,</form> <xpln lang="en">is a strong piece of Wood
+made fast to the Rudder.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="taunt-masted(a)">Tauntmasted,</form> <xpln lang="en" lexeme="ahull(adv)">is when a Ship is over
+masted, so that she laboureth too much
+a Hull.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="trestle-tree(n)">The Trestel-trees,</form> <xpln lang="en" lexeme="cross-tree(n)">are bolted into the
+Cross Trees at the Head of the Mast,
+to keep in the Top Mast which are fast&shy;
+ned in them.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="taut(v)">Tawt the shrowds or stay,</form> <xpln lang="en">is when
+they are over slack to make them
+stiffer.</xpln>
+<lemenote>
+The verb "Tawt", presumably derived from the adjective, is not found in the OED, which has the usual verb form "tauten."
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tie(n)">The Tyes,</form> <xpln lang="en">are the Ropes by which the
+Yards do hang.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tackle(n)">The Tackles,</form> <xpln lang="en">are ropes run in three
+parts with two blocks, one whereof has
+a Hook to heave any thing in or out of
+the Ship.</xpln></wordentry>  
+</page>
+
+<page no="86"> 
+<wordentry type="h"><form lang="en" lexeme="tack(n)">Tacks,</form> <xpln lang="en" lexeme="clew(n)">are great Ropes which bring
+forward the Clew of the Sail to make
+it stand fast by a Wind.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tarpaulin(n)">Tarpawling,</form> <xpln lang="en">is a piece of Tarr'd Can&shy;
+vass, to cover the Hoops in the stern of
+a Boat in Wet Weather.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="thwart(n)">Thoughts,</form> <xpln lang="en">are the Seats whereon the
+Rowers sit.</xpln>
+<lemenote>
+"thwart" antedates the earliest citation in the OED (1721).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="thole(n)">Thowls,</form> <xpln lang="en">are small Pins put into the
+side of the Boat, to bear the Oars when
+they Row.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="trim(v)">Trim the Boat,</form> <xpln lang="en">is to keep her streight.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="topgallantsail(n)">Top-Gallant-sail,</form> <xpln lang="en">is the sail of the Mast
+next the ship stern.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="trench the ballast(v)">Trench the Ballast,</form> <xpln lang="en" lexeme="leak(n)">that is to Divide
+it to find the Lake.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tack about(v)">Tack about,</form> <xpln lang="en">that is to bring the ships
+Head about to lye the other way.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tail off(v)">Talle off the sheets,</form> <xpln lang="en">that is, hale off the
+sheats of the main Sail.</xpln>
+<lemenote>
+"Talle off" antedates the earliest OED citation ("tail," v.1, Phrasal verbs, 1; 1827) and is not found in this nautical sense.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="windward(a)">A Windward Tide,</form> <xpln lang="en">is when the Wind
+and Tide is contrary.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tide-gate(n)">A Tide-Gate,</form> <xpln lang="en">is when the Tide runs
+strong.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tide(v)">To Tide it up,</form> <xpln lang="en">is to go with Tide a&shy;
+gainst the Wind.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tow(v)">To Tow,</form> <xpln lang="en">is to drag any thing after
+the Ship.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="traverse(v)">To Traverse,</form> <xpln lang="en">is the Ships way.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="87">
+<wordgroup1 type="a" object="V"><alpha>V.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="veer(v)">To Veer,</form> <xpln lang="en">is to let out more Rope.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="vea(ex)">Vea, Vea, Vea,</form> <xpln lang="en">is a term when they
+pull all strongly together.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="hooding(n)">Whoodings,</form> <xpln lang="en" lexeme="stern(n)">are Planks fastned into the
+Ships stern.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="whelp(n)">Whelps,</form> <xpln lang="en" lexeme="capstan(n)">are short pieces of Wood made
+fast to the Capstain, to keep the Cable
+from coming too high in turning a&shy;
+bout.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="windlass(n)">The Windes,</form> <xpln lang="en" lexeme="handspike(n)" lexeme="capstan(n)">is a piece of Timber
+like a Role, which is forced about
+with Hand-spakes in small Ships, and
+performs the same as Capstain.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="waist(n)">The Wast,</form> <xpln lang="en" lexeme="mainmast(n)" lexeme="forecastle(n)">is that part of the Ship be&shy;
+twixt the Main-mast and the Fore-&shy;
+Castle.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="whipstaff(n)">The Whip-staff,</form> <xpln lang="en" lexeme="steersman(n)">is that which the steers-man holds in his hand to steer
+by.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="wind(v)">Wind the Boat,</form> <xpln lang="en">is to bring her Head
+the other way.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="waist-cloth(n)">The Wast-Cloaths,</form> <xpln lang="en" lexeme="calico(n)">is a long red Cloath
+edged on each side with Calico, that go&shy;
+eth round about the Ship, when she is
+ingaged in a Fight.</xpln></wordentry>  
+</page>
+
+<page no="88">
+<wordentry type="h"><form lang="en" lexeme="walt(a)">The ship is Walt,</form> <xpln lang="en" lexeme="ballast(n)">that is wants Ballast.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="weather(v)">To Weather a ship,</form> <xpln lang="en">is to go to Wind&shy;
+ward of her.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="wind(v)">To Wind a ship,</form> <xpln lang="en">is to bring her Head
+about.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="wind(v)">How Winds the ship,</form> <xpln lang="en">is what point of
+the Compass doth she lye with her Head.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="woold(v)">To Would,</form> <xpln lang="en">is to bind Ropes about a
+Mast.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y.</alpha> 
+<wordentry type="h"><form lang="en" lexeme="yaw(v)">The ship yaws,</form> <xpln lang="en">that is, goes in and out
+and does not stear steady.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="younker(n)">Yonkers,</form> <xpln lang="en" lexeme="foremast man(n)">are the young Foremast Men.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="yare(adv)" lexeme="helm(n)">Beyare at the Helm,</form> <xpln lang="en">that is, be care&shy;
+ful at the Helm.</xpln></wordentry> 
+</wordgroup1>
+</section>
+</page>
+</leme>

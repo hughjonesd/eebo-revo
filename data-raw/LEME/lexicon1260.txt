@@ -1,0 +1,254 @@
+<leme no="1260">
+<page sig="+1r">
+
+<section type="Title-page" lang="en">
+This boke
+sheweth the maner
+of measurynge of all ma&shy;
+ner of lande, as well of
+woodlande, as of lande in
+the felde, and comptynge
+the true nombre of
+acres of the&shy;
+same.
+
+Newlye inuented and
+compyled by Syr Ry&shy;
+charde Benese Cha&shy;
+non of Marton
+Abbay besyde 
+<emend err="Lond on">London</emend>.
+
+&para; Prynted in Southwarke in Saynt
+Thomas hospitall, by me Iames
+Nicolson.
+</section>
+
+</page><page sig="+2r">
+
+<section type="Preface" lang="en"> 
+&para; The preface of Thomas paynell
+Chanon of Marton to the
+gentle reader.
+ 
+</page><page sig="+3v">
+
+<wordgroup1 type="t"><alpha object="Kinds of Measuring"></alpha>
+
+And these thynges also that lye 
+playne, depe, rounde, cornerwyse, in lengthe, or in bredth, 
+belonge vnto Geometry: the whych co<f type="i">n</f>teyneth thre diuerse 
+kyndes of measurynge. 
+
+<wordentry type="d" lang="en"><form lexeme="altimetria(n)">The fyrst is named <f type="i">Altimetria</f>,</form> <xpln>that is, to measure a 
+qu<expan type="a+_">an</expan>tite after hys length only.</xpln></wordentry>
+
+<wordentry type="d" lang="en"><form lexeme="planimetria(n)">The seconde is named <f type="i">Planimetria</f>,</form> <xpln>that is, to measure 
+a quantite after hys length and bredth.</xpln></wordentry>
+
+<wordentry type="d" lang="en"><form lexeme="stereometica(n)">The thyrde is called <f type="i">Stereometria</f>,</form> <xpln>that is, to mea&shy;
+sure a quantyte after hys lengthe, bredthe, and depe&shy;
+nesse.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+</page><page sig="a1r">
+
+<section type="Measuring of Land" lang="en">
+
+<wordgroup1 type="t"><alpha object="Quantities of Measure"></alpha>
+
+<heading>
+&para; Of diuearse quantityes of mesures, 
+and of diuerse names of thesame.
+</heading>
+
+But fyrste for the playner and redyer know&shy;
+ledge of these rules folowynge, ye shall dilig<expan type="e+_">en</expan>tly 
+note, that ther be diuerse quantityes, diuerselye 
+named in measurynge of lande, that is to saye: 
+an ynche, a foote, a perch, a dayworke, a quarter 
+of an acre, (moost communelye called a roode,) 
+an halfe acre, and an acre.
+
+<heading>&para; To make a true ynche.</heading>
+
+<wordentry type="d" lang="en"><form lexeme="inch(n)">The lengthe of an ynche after some mens 
+
+</page><page sig="a1v">
+
+opinion,</form> <xpln>is made by the length of thry barlye 
+cornes, the which rule is not at all tymes true. 
+For the lengthe of a barlye corne of some tyl&shy;
+lage is lenger, and of some tyllage is shorter, af<emend err="">&shy;</emend>
+ter the fatnes and and leanesse of the l<expan type="a+_">an</expan>de, where it 
+was sowen vpon. Therfore in makynge of an 
+ynche after thys rule, it shulde be sometymes 
+lenger, and sometymes shorter, after the len&shy;
+gthe and shortenes of the barlye cornes: the 
+whiche shulde make greate difference in mea&shy;
+surynge. Therfore ye shall take the lengthe of 
+an ynche moost trulye vpon an artificers rule, 
+made of two foote in length, after the st<expan type="a+_">an</expan>darde 
+of London, the which rule doth conteyne. xxiiii
+ynches in lengthe.</xpln></wordentry>
+
+<heading>&para; To make a true foote in length and 
+in square.</heading>
+
+<wordentry type="d" lang="en"><form lexeme="foot(n)">A foote</form> <xpln>conteyneth. xii. ynches in lengthe, a 
+foote square in measurynge of lande or ony o&shy;
+ther thynge by the lengthe and bredth onely c<expan type="o+_">on</expan>&shy;
+teyneth in it. c.xliiii, ynches. di. A foote square c<expan type="o+_">on</expan><emend err="">&shy;</emend>
+teyneth in it. lxxii. ynches. A quarter of a foote 
+square conteyneth in it. xxxvi. ynches. But in 
+measurynge of tymber or stone, or ony other 
+thynge by the length bredth and depth, a foote 
+square conteyneth in it. xvii<sup>C</sup>.xxviii. ynches.</xpln></wordentry>
+
+</page><page sig="a2r">
+
+<heading>&para; Of two maner of perches, the wood
+lande perche, and the fyldeland perche.</heading>
+
+<wordentry type="d" lang="en"><form lexeme="perch(n)">Because woodlande and fyldelande be not 
+measured with perches of lyke &amp; equale length, 
+therfore ye shall vnderstande, that lande in the 
+fylde</form> <xpln> is measured most c<expan type="o+_">om</expan>munely with a perch 
+or a pole of .xvi. foote &amp; di. in l<expan type="e+_">en</expan>gth. But in some 
+places the lande perche is lenger, and in some 
+places shorter, after the costume there vsed.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="woodland perch(n)">The 
+woodlande perche</form> <xpln> is communely. xviii. foote 
+in length. But in some places it is longer, after 
+the costume there vsed. The woodlande perche 
+of .xviii. foote in length square conteyneth in it
+CCC.xxiiii. foote, halfe of thys perch <emend err="sqaure">square</emend> c<expan type="o+_">on</expan>&shy;
+teyneth in it. C.lxii. foote, a quarter of this perch
+square conteyneth in it. lxxxi. foote.</xpln></wordentry>
+
+<heading>&para; Of an acre bothe of woodlande, and 
+of fyldelande.</heading>
+
+<wordentry type="d" lang="en"><form lexeme="acre(n)">An acre</form> <xpln>bothe of woodlande, and also of fylde 
+lande is alwayes. xl. perches in length, and iiii. 
+perches in bredth, although an acre of wood&shy;
+lande be more in quantite, than is an acre of 
+fyldelande. Because the perche of wood&shy;
+lande is longer than is the perche of fylde&shy;
+lande, as it is before <emend err="expressedde">expressed</emend>. An acre 
+
+</page><page sig="a2v">
+
+can not lyghtlye be reduced and brought in to a 
+true square, excepte ye shulde adde to some part 
+aboue the true quantyte of an acre, or els 
+take awaye some parte from the true quantyte 
+of an acre. Neuerthelesse, after myne accomp&shy;
+tynge (as nyghe as I can serche, the truthe in 
+thys behalfe) an acre of wo<emend err="">o</emend>dlande square, is 
+on euerye syde, xii. perches and di. ii. fote. viii.
+ynches, and a quarter of an ynche. An acre con&shy;
+teyneth in it. viii<sup>xx</sup> perches.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="half-acre(n)">An halfe acre</form> <xpln>con&shy;
+teyneth in it. iiii<sup>xx</sup>. perches.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="quarter-acre(n)">The quarter of an 
+acre</form> <xpln> (other wayes called a roode) conteyneth
+in it. xl. perches. An acre conteyneth in it. xl.
+dayworkes.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="daywork(n)">A dayworke</form> <xpln lexeme="mark of money(n)" lexeme="acre(n)" lexeme="groat(n)">conteyneth in it. iiii. 
+perches. For lykewyse as a marke of mony c<expan type="o+_">on</expan><emend err="">&shy;</emend>
+teyneth in it. viii<sup>xx</sup>. pence, so dothe an acre con&shy;
+teyne in it. viii<sup>xx</sup>. perches. And lykewyse as a 
+marke of money doth conteyne in it. xl. grotes, 
+so doth an acre conteyne in it. xl. dayeworkes. 
+And as a grote dothe conteyne in it. iiii. p<expan type="e+_">en</expan>ce, so 
+doth a dayeworke conteyne in it. iiii. perches.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t"><alpha object="Instruments to Measure"></alpha>
+
+<heading>&para; Of two maner of instrumentes to 
+measure lande wyth all.</heading>
+
+<wordentry type="d" lang="en"><form lexeme="perch(n)">Meters of lande for the moost parte do vse 
+to mete lande wyth a pole made of woode, con&shy;
+teynynge in it the length onely of one perche.</form> <xpln>
+The whych is a verye true and a perfecte waye 
+
+</page><page sig="a3r">
+
+of metynge. But it is much laboriouse, and not 
+spedefull to mete therewyth a greate quantite 
+of lande in shorte tyme. And also it is very te<emend err="">&shy;</emend>
+dious, to marke truely a greate nombre of per&shy;
+ches in meatynge of them one after another.</xpln></wordentry> 
+<wordentry type="d" lang="en"><form lexeme="perch(n)">Therfore sum men do vse (and beste) for <expan type="y+e">the</expan> more 
+expedicion and spede to mete wyth a corde, or a 
+lyne conteynynge in it fyue perches in lengthe,</form> <xpln>
+the which lyne .iiii. tymes layd in lengthe, doth 
+make. xx. perches. Thys maner of metynge 
+with a lyne hathe ben vsed longe tyme before. 
+For the prophete Zacharye sayethe in <expan type="y+e">the</expan> seconde
+chapter, that when he lyfted vp his yes, he saye 
+a man bearynge a metynge lyne in hys hande. 
+And when the prophete asked the question of 
+hym, whether he wente, thys man answered <expan type="y+e">the</expan> 
+prophet, <expan type="y+t">that</expan> he went to mete Ierusalem, to know 
+how much the length &amp; bredth of it was. But 
+because a corde or a lyne by drawyng it vpon <expan type="y+e">the</expan>
+gro<expan type="u+_">un</expan>d wyl somtyme shrynke &amp; waxe shorter, yf 
+it take wette, and somtyme streche l<expan type="o+_">on</expan>ger by l<expan type="o+_">on</expan>g 
+dryeth, therfore it shalbe necessary, to seare it
+in whote waxe and rosyne, that it may kepe at
+all tymes hys true leyngth.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t"><alpha object="Lines and Angles"></alpha>
+
+</page><page sig="a3v">
+<heading>&para; Of the diuersite of lynes and angles.</heading>
+
+Because al maner of figures be made of lynes 
+
+</page><page sig="a4r">
+
+and angles, therfore it shalbe expedient first to 
+know the diuersyte of th<expan type="e+_">em</expan>. For they make great 
+differences in the makynge of measures. Ther<emend err="">&shy;</emend>
+fore ye shall dili|gently note that ther be thre 
+maner of lynes, and thre maner of angles. <wordentry type="d" lang="en"><form lexeme="line(n)">Of 
+lynes</form> <xpln> one is a straygth lyne hangyng,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="line(n)"><expan type="y+e">the</expan> seconde 
+</form> <xpln> is a straygth lyne ouerthwarte,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="line(n)">the thyrde and 
+laste</form> <xpln>is a croked lyne h<expan type="a+_">an</expan>gyng or els ouerthwart</xpln></wordentry> 
+<wordentry type="d" lang="en"><form lexeme="plain angle(n)">Of angles one is a playne angle,</form> <xpln> like to one of 
+the angles of a. iiii. square,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="flat angle(n)">the seconde is a flat 
+angle,</form> <xpln>lyke to one of <expan type="y+e">the</expan> angles of. v. or. vi. square 
+or mo.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="sharp angle(n)">The last is a sharpe angle,</form> <xpln>lyke to one 
+of the angles of a tryangle, or. iii. square.</xpln></wordentry> The 
+which lynes and angles be these that here after 
+followe.
+</wordgroup1>
+
+<wordgroup1 type="t"><alpha object="Counting Acres"></alpha>
+
+</page><page sig="f4v">
+<heading>&para; Of one maner waye to compte and 
+summe the nombre of acres contey<emend err="">&shy;</emend>
+ned wythin ony measure.</heading>
+
+</page><page sig="g1v">
+
+Therfore in all other lyke maner of 
+comptyng the summe of acres by money, ye shal
+vnderstande alwayes, that <wordentry type="d" lang="en"><form lexeme="mark of money(n)">a marke of moneye</form> <xpln lexeme="acre(n)">
+doth signifye an acre,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="royal(n)">a royale</form> <xpln>doth signifye thre 
+quarters of an acre, or thre roodes,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="noble(n)">a noble</form> <xpln lexeme="half-acre(n)">dothe 
+signify an halfe acre,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="crown(n)">a crowne</form> <xpln>doth signifye one 
+roode and. v. dayeworkes.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="xl. d.(n)">xl. d.</form> <xpln lexeme="rood(n)">doth signifye a 
+quarter of an acre, or a roode.</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="xii. d.(n)">xii. d.</form> <xpln>doth signifye
+iii. dayeworkes,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="groot(n)">a groote</form> <xpln lexeme="day-work(n)">dothe signifye a daye<emend err="">&shy;</emend>
+worke,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="penny(n)">a penye</form> <xpln lexeme="perch(n)">dothe signifye a perche,</xpln></wordentry> <wordentry type="d" lang="en"><form lexeme="half-penny(n)">an halfe 
+penye</form> <xpln lexeme="half-perch(n)">dothe signifye an half perche,</xpln></wordentry> and <wordentry type="d" lang="en"><form lexeme="farthing(n)">a far&shy;
+thynge</form> <xpln>dothe signifye a quarter of a perche.</xpln></wordentry>
+
+</wordgroup1>
+</section>
+</page>
+</leme>

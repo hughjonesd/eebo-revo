@@ -1,0 +1,166 @@
+
+
+<leme no="46">
+<page fol="85r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 9 5 1 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<heading>
+Exposicion of old wordis
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="soke(n)" lexeme="sac(n)">&#182; Sok / </form><xpln>that is suyt of men in your court after 
+the costome of the realme Sak that is plee and 
+amendis of trespas of men in your court</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="toll(n)">&#182; Toll </form><xpln><emend err="thatis">that is</emend> that you and your men of your 
+homage shalbe quit of all maner toll in all mer&#173;
+cettis of thyngis to be bought or sold.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thom(n)">&#182; Thom </form><xpln>that is that he shall haue the hole ge&#173;
+neracion of your villeyns with theyr suyt<expan type="">es</expan> and 
+catellis wherso euer they be found in englond 
+except that if any bondman haue dwellyd in a 
+
+</page>
+
+<page fol="85v">
+priuilegyd town by a yere and a day quietely 
+so that he be fo<expan type="">un</expan>d as one of them in theyr com<emend err="">&#173;</emend>
+mynalte or gyld ther<expan type="">in</expan> he is delyueryd of his vil<emend err="">&#173;</emend>
+ynage.</xpln><lemenote>Unidentified in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="infangthief(n)">&#182; Infang theff </form><xpln>that is that theff<expan type="">es</expan> take in your 
+lordship or fee of thefft conuict in your court 
+shalbe iuggyd.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hangwite(n)">&#182; Hanghwyte </form><xpln>that is to be quit of the han<emend err="">&#173;</emend>
+gyng of a theff without iugement or of skap<emend err="skapig">skap<expan type="">in</expan>g</emend>g
+owt of ward.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="outfangthief(n)">&#182; Owt fang theff </form><xpln>that is that theffys of your 
+land or of your see takyn <emend err="wihtout">without</emend> your land or 
+with out your fee wyth theft shalbe retornyd a<emend err="">&#173;</emend>
+gayn and there iuggyd.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hamesucken(n)">&#182; Home sokyn </form><xpln>that is to be quyt of amercem<expan type="">en</expan>&#173;
+tis of violent entre in to housys without lycen<emend err="">&#173;</emend>
+ce and agayns the kyngys peace and that ye 
+shall hold plees of the same trespassis don in 
+your court and in your land.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="grithbreach(n)">&#182; Grythbreche </form><xpln>that is the kingis peas brokin</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bloodwite(n)">&#182; Blodwyte </form><xpln>that is to be quite of amercemen<emend err="">&#173;</emend>
+
+</page>
+
+<page fol="86r">
+tis of blode shed and that plees shalbe hold in 
+your court and that ye shall haue the mercem<expan type="">en</expan>&#173;
+tis therof commyng for wyte englyssh is merce<emend err="">&#173;</emend>
+ment in laten.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flitwite(n)">&#182; Flytwyte </form><xpln>that is to be quite of couencions 
+and dispytes / and that he haue the plee therof 
+in your court and the amercymentis.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fledwite(n)">&#182; Fledwyte </form><xpln>that is to be quid of amerciamen&#173;
+tis when any man vtlawid fleyth and commith 
+to the kyngis peace frely or by lycence.</xpln><lemenote>Predates earliest OED citation (1579). OED conjectures this form as a mistake for "ferdwite."</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="flemens wite(n)">&#182; Flemynes wyte </form><xpln>that is that ye shall haue the 
+catell and amercyamentis of your m<expan type="">en</expan> that flee.</xpln><lemenote>Not found in OED but cf. "flemensfirth".</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="letherwite(n)">&#182; Letherwyte </form><xpln>that is that ye shall take amen&#173;
+dis of him that coruptith your nature without 
+your lycence.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="childwite(n)">&#182; Chydwit </form><xpln>that is that ye shall take am<expan type="">en</expan>d<expan type="">es</expan> of 
+your nature corupt &#38; got with chyld without 
+your lycence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="forestall(n)">&#182; Forstall </form><xpln>that is to be quit of amercymentis &#38; 
+cattellys a restyd within your land and amer&#173;
+cyamentis therof commyng.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scot(n)">&#182; Scot </form><xpln>that is to be quit of a certeyn costome 
+as of comyn tallage made to the vse of the shy<emend err="">&#173;</emend>
+ryf or his baylyffis.</xpln></wordentry>
+
+</page>
+
+<page fol="86v">
+<wordentry type="h"><form lexeme="geld(n)">&#182; Gelte </form><xpln>that is to be quit of bound custome 
+whych sometyme where wont to be giffin as 
+Hornegeld and such other</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hidage(n)">&#182; Hidage </form><xpln>that is to be quit yf the kyng tax all 
+his land by hidys.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caruage(n)">Caruage </form><xpln>that is to be quit yf the kyng tax his 
+land by acres.</xpln><lemenote>Antedates first OED citation (1610).</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="Danegeld(n)">&#182; Dangelt </form><xpln>that is to be quit of a certeyn custo&#173;
+me that rennyth some tyme whych the danys 
+dyd leuey in englond.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horngeld(n)">&#182; Hornegelt </form><xpln>that is to be quyt of a certeyn co&#173;
+stome exact by tallage by the hole l<expan type="">an</expan>d as of eue<emend err="">&#173;</emend>
+ry best that is hornyd.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lastage(n)">&#182; Lastage </form><xpln>that is to be quit of a certeyn costo<emend err="">&#173;</emend>
+me exact in feyris and merkettis for thyngis to&#173;
+be caryed whether a man wyll.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stallage(n)">&#182; Stalage </form><xpln>that is to be quit of a certeyn costo<emend err="">&#173;</emend>
+me exact for a place takyn or assignyd in feyr<expan type="">es</expan> &#38; 
+mercettis.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="showing(n)">&#182; Shewing </form><xpln>that is to be quid of attachment <expan type="">in</expan>
+
+</page>
+
+<page fol="87r">
+ani court or before who soeuer of quarrell<expan type="">es</expan> she<emend err="">&#173;</emend>
+wd &#38; not aduowyd /</xpln><lemenote>OED "showing" vbl. n. 3.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="mishersing(n)">&#182; Misharsyng </form><xpln>that is to be quit of amercyme&#173;
+tis prouid in the transompt before who so euer</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="burgh(n)" lexeme="breach(n)">&#182; Burghbrech </form><xpln>to be quyd of trespassis don in
+cyte or borough agains the peace.</xpln><lemenote>Antedates citation in OED "borough" 7 (1647).</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="wardwite(n)">&#182; wardwyte </form><xpln>that is to be quit of gyff<expan type="">in</expan>g of mo<emend err="">&#173;</emend>
+ney for wardis to be made.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hundred(n)">&#182; Hundred </form><xpln>that is to be quyt of gyffing of mo<emend err="">&#173;</emend>
+ney or customis to be don to prouostis and hun<emend err="">&#173;</emend>
+dredars</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="burghal-penny(n)">&#182; Brodehalpeni </form><xpln>that is to be quit of a certein 
+co<emend err="f">s</emend>tome exact for tabuls leueyd.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="burgh(n)" lexeme="boot(n)">&#182; Burghbote </form><xpln>that is to be quit of gyffyn ayde 
+&#38; makyng a borogh castell Cyte or throyng 
+town of wallis.</xpln><lemenote>See OED "boot" n.1, 5a.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="aver-(n)">&#182; Auerpeny </form><xpln>that is to be quit of dyuers mo&#173;
+ney for the auerage of the kyng</xpln><lemenote>See "averpenny".</lemenote></wordentry>
+</wordgroup1>
+
+<term lang="la">
+Tracta<expan type="">tus</expan> de <emend err="exoposition bus">expositionibus</emend> vocabulorum.
+</term>
+
+</page>
+</leme>
+

@@ -1,0 +1,217 @@
+<leme no="1394">
+<page sig="a1r">
+<section type="Title-page">
+&para; The Breuiary of 
+Britayne.
+
+As this most noble and renow&shy;
+med Iland, was of auncient 
+time deuided into three King&shy;
+domes, England, Scotland and 
+Wales.
+
+Contaynyng a learned discourse 
+of the variable state, &amp; altera&shy;
+tion therof, vnder diuers, as 
+wel natural: as forren prin&shy;
+ces, &amp; Conquerours. 
+
+Together with the Geographicall de&shy;
+scription of the same, such as neither 
+by elder, nor later writers, the 
+like hath been set foorth 
+before.
+
+Writen in Latin by Humfrey 
+Lhuyd of Denbigh, a Cambre 
+Britayne, and lately Englished 
+by Thomas Twyne, 
+Gentleman.
+
+1573.
+</section>
+</page>
+
+<page no="95r">
+<section type="Welsh-English Glossary">
+<heading>
+Certayne Welsh, or rather 
+true British woordes, 
+conuerted into Latin by 
+the Authour, &amp; now 
+translated into 
+English.
+</heading>
+
+<wordgroup1 type="a" object="A">
+<wordentry type="h"><form lang="we">A.</form> <xpln lang="en" lexeme="with(pp)">with.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Aber,</form> <xpln lang="en" lexeme="force(n)" lexeme="rage(n)" lexeme="water(n)">force, or rage of water.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Armorica,</form> <xpln lang="en" lexeme="sea(n)">vpon the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Arglwydhi.</form> <xpln lang="en" lexeme="lord(n)">Lordes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Auanc,</form> <xpln lang="en" lexeme="otter(n)">an Otter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Auon,</form> <xpln lang="en" lexeme="river(n)">a Riuer.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<wordentry type="h"><form lang="we">Bara,</form> <xpln lang="en" lexeme="bread(n)">Bread.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Bath,</form> <xpln lang="en" lexeme="beauty(n)" lexeme="form(n)" lexeme="comeliness(n)">beuty, form, or c<expan type="u+_">um</expan>lines </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Britunn,</form> <xpln lang="en" lexeme="Britain(n)">a Britayne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Brynn,</form> <xpln lang="en" lexeme="mountain(n)" lexeme="hill(n)">a Mountayne or Hill. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="we">Ca&euml;r,</form> <xpln lang="en" lexeme="city(n)">a Citie. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Cain,</form> <xpln lang="en" lexeme="white(n)">White. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Cariad,</form> <xpln lang="en" lexeme="love(n)">Loue. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Clauddh,</form> <xpln lang="en" lexeme="ditch(n)">a Ditch. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">
+<wordentry type="h"><form lang="we">Dha,</form> <xpln lang="en" lexeme="good(n)">Good. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Dinas,</form> <xpln lang="en" lexeme="court(n)" lexeme="palace(n)">a Court, or Palace. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Deheubarth.</form> <xpln lang="en" lexeme="right(a)" lexeme="side(n)">the right side. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Duw.</form> <xpln lang="en" lexeme="God(n)">God. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Duuer, Dewr, and Dwr,</form> <xpln lang="en" lexeme="water(n)">Water. </xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Dyphryn,</form> <xpln lang="en" lexeme="valley(n)">a Vally. </xpln></wordentry>
+</page>
+
+<page no="95v">
+<wordentry type="h"><form lang="we">Dynfynnaint.</form> <xpln lang="en" lexeme="deep(a)" lexeme="narrow(a)" lexeme="valley(n)">deepe, &amp; narow vallies</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">
+<wordentry type="h"><form lang="we">Fa,</form> <xpln lang="en" lexeme="place(n)">a Place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Fy,</form> <xpln lang="en" lexeme="mine(n)">Myne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Flynt.</form> <xpln lang="en" lexeme="flintstone(n)">a Flint stone.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">
+<wordentry type="h"><form lang="we">Gelli,</form> <xpln lang="en" lexeme="hazel tree(n)">Hasell trees.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Gl&aacute;ls,</form> <xpln lang="en" lexeme="blue(a)" lexeme="woad(n)">blew coulour or woad.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Glaw,</form> <xpln lang="en" lexeme="rain(n)">Rayne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Grwc.</form> <xpln lang="en" lexeme="heap(n)">an heape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Gwr.</form> <xpln lang="en" lexeme="man(n)">a Man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Gwadh,</form> <xpln lang="en" lexeme="country(n)">a Countrie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Gual,</form> <xpln lang="en" lexeme="valley(n)">a Vally.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Guent,</form> <xpln lang="en" lexeme="white(n)">Whyte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Gwydh,</form> <xpln lang="en" lexeme="perspicuous(a)">Perspicuous.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">
+<wordentry type="h"><form lang="we">Helig,</form> <xpln lang="en" lexeme="willow-tree(n)">Wyllow trees.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">
+<wordentry type="h"><form lang="we">I,</form> <xpln lang="en" lexeme="his(pr)">His.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">
+<wordentry type="h"><form lang="we">Lhan,</form> <xpln lang="en" lexeme="church(n)">a Churche.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Lhradron,</form> <xpln lang="en" lexeme="thief(n)">Theeues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Lhydaw.</form> <xpln lang="en" lexeme="shore(n)">the Shoare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Lhyfyr.</form> <xpln lang="en" lexeme="book(n)">a Booke.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">
+<wordentry type="h"><form lang="we">Mam,</form> <xpln lang="en" lexeme="mother(n)">a Mother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">March,</form> <xpln lang="en" lexeme="horse(n)">An horse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Maur,</form> <xpln lang="en" lexeme="great(a)">Great.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Mur,</form> <xpln lang="en" lexeme="wall(n)">a Wall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Mynyd.</form> <xpln lang="en" lexeme="hill(n)">an Hyll.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O">
+<wordentry type="h"><form lang="we">O,</form> <xpln lang="en" lexeme="forth(adv)" lexeme="of(pp)">foorth of.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">
+<wordentry type="h"><form lang="we">Pen</form> <xpln lang="en" lexeme="head(n)">an Head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Phrainc.</form> <xpln lang="en" lexeme="France(pn)">Fraunce.</xpln></wordentry>
+</page>
+
+<page no="96r">
+<wordentry type="h"><form lang="we">Phrydain,</form> <xpln lang="en" lexeme="Britain(pn)">Britayne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Porth,</form> <xpln lang="en" lexeme="haven(n)">an Hauen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Pryd,</form> <xpln lang="en" lexeme="beauty(n)" lexeme="comeliness(n)">beauty, or cumlinesse.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">
+<wordentry type="h"><form lang="we">Rhyd.</form> <xpln lang="en" lexeme="ford(n)">a Foord.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Rhufain,</form> <xpln lang="en" lexeme="Rome(pn)">Rome.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S">
+<wordentry type="h"><form lang="we">Saison,</form> <xpln lang="en" lexeme="Englishman(n)">an Englishman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Saissona&euml;g.</form> <xpln lang="en" lexeme="English(n)">English.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Strat.</form> <xpln lang="en" lexeme="soil(n)">a soyle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Sychnant,</form> <xpln lang="en" lexeme="dry(a)" lexeme="valley(n)">a dry Vally.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">
+<wordentry type="h"><form lang="we">Tair,</form> <xpln lang="en" lexeme="three(n)">Three, fem. gendre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Tan,</form> <xpln lang="en" lexeme="fire(n)">Fier.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Taria,</form> <xpln lang="en" lexeme="shield(n)">a Sheild.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Tre,</form> <xpln lang="en" lexeme="town(n)">a Towne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Tri,</form> <xpln lang="en" lexeme="three(n)">Three, masc. gendre,</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y">
+<wordentry type="h"><form lang="we">Ynis,</form> <xpln lang="en" lexeme="island(n)">an Iland.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Ynad.</form> <xpln lang="en" lexeme="judge(n)" lexeme="next(pp)" lexeme="king(n)">a Iudge, next <expan type="y+e">the</expan> Kynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Yscar,</form> <xpln lang="en" lexeme="separate(v)">to seperate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="we">Yscaradic.</form> <xpln lang="en" lexeme="separated(a)">Seperated.</xpln></wordentry>
+</wordgroup1>
+<closing>
+<term lang="la">FINIS.</term>
+</closing>
+</section>
+</page>
+</leme>
+

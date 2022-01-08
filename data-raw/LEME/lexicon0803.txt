@@ -1,0 +1,85 @@
+<leme no="803">
+
+<page sig="l1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 1 9 6 9
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+&para; Here beginneth a goodly bryefe trea<emend err="">&shy;</emend>
+tyse of the Pestyl<expan type="">en</expan>ce, with the causes, 
+signes, and cures of the same: c<expan type="">om</expan>posed, 
+and newly recognised by Thomas 
+Phayer studious in Philosophie 
+and Phisicke, to the ayde, c<expan type="">om</expan>&shy;
+fort, and vtilitie of 
+the poore.
+</page>
+
+<page sig="l5v">
+<heading>
+&para; What is mente or signified by 
+this woorde pestilence.
+</heading>
+
+<wordentry type="h"><form lang="en">PEstylence</form> <xpln lang="en">is none o&shy;
+ther thyng but a ve&shy;
+nemous infecti<expan type="">on</expan> of 
+<expan type="">the</expan>ayer, enemye to <expan type="">the</expan>
+vitall spirites, by a 
+certayne malicyouse 
+and euell propertye 
+(&amp; not of any qu<expan type="">an</expan>ti&shy;
+ty elemental) that is wythin it selfe. 
+
+For euen as pure triacle is a c<expan type="">om</expan>forter 
+of lyfe not bicause of heat, cold, moyst&shy;
+nes or drynes, but for as moch as oute
+of al his c<expan type="">om</expan>posici<expan type="">on</expan> there redo<expan type="">un</expan>deth a cer<emend err="">&shy;</emend>
+tayne fourme agreynge to the forme of 
+the vital spirites of our body, so is the 
+foresaid vapour enemy to our natures
+not for any qualitie as is sayde before, 
+but for <expan type="">that</expan>, <expan type="">that</expan> his proporti<expan type="">on</expan> is directe eu<expan type="">en</expan> 
+c<expan type="">on</expan>trarye to our vital spiritees, c<expan type="">on</expan>sisting 
+in <expan type="">the</expan> harte, which vital spirites, yf by <expan type="">the</expan> 
+will of God, &amp; ordynary dyet, be str<expan type="">on</expan>ger 
+in the paci<expan type="">en</expan>t than <expan type="">the</expan> foresayd vapour is
+they dryue it fr<expan type="">om</expan> the bodye &amp; wil not be
+</page>
+
+<page sig="l6r">
+infected. And yf it happ<expan type="">en</expan> that <expan type="">the</expan> forsaid
+spirites be weaker th<expan type="">qn</expan> the venym or the 
+bodye ful of humours apte to putrefa&shy;
+ction, than it doth incontinent assaute 
+the lyuelye membres, and excepte re&shy;
+medye, brynge the body quycklye to de<emend err="">&shy;</emend>
+struction. But when we do saye the va<emend err="">&shy;</emend>
+poure to be venemouse, we meane not 
+that it is a poys<expan type="">on</expan> of it selfe in deede, for 
+th<emend err="">en</emend> shulde euerye creature be indiffer<expan type="">en</expan>t<emend err="">&shy;</emend>
+lye infected, &amp; none shulde escape that 
+draweth it in breath, but I cal it veny&shy;
+mouse, for that it is of such a naughty 
+qualitie that it may be lightlye conuer&shy;
+ted into venyme, that is to say apte to 
+burnynge and corosion, as do mercury 
+sublymed, quicke lyme or ratten bane, &amp;
+other suche lyke kyndes of venyms.
+
+Thus ye maye perceyue that all the 
+great daunger <expan type="">that</expan> is in this disease com&shy;
+meth of the noughtynesse of humours, 
+which are made apte to receyue the said 
+vapours, and not by violence of 
+the infected ayre 
+<emend err="">o</emend>nelye.</xpln></wordentry>
+
+</page>
+</leme>

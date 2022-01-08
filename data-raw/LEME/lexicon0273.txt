@@ -1,0 +1,98 @@
+<leme no="273">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 8 0 4 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+THE
+ESSAYES
+Or
+Morall, Politike and Millitarie
+Discourses:
+of
+Lo: Michaell de Montaigne,
+Knight
+Of the noble Order of St. Michaell, and one of the
+Gentlemen in Ordinary of the French king, Henry
+the third his Chamber.
+
+The first Booke.
+*   *
+  *
+
+First written by him in French.
+And
+now done into English
+
+
+</page>
+
+<page sig="a1v">
+By him that hath inviolably vowed his labors to the &#198;ternitie of their Honors,
+whose names he hath severally inscribed on these his consecrated Altares.
+
+The first Booke.
+
+TO THE RIGHT HONORABLE
+LVCIE CO: OF BEDFORD:
+AND
+LADIE ANNE HARRINGTON
+HER HO: MOTHER.
+
+The second Booke.
+
+TO THE RIGHT HONORABLE
+ELIZABETH CO: OF RUTLAND,
+AND
+LADIE PENELOPE RICHE.
+
+The third Booke.
+
+TO THE RIGHT HONORABLE
+LADIE ELIZABETH GREY,
+AND
+LADIE MARIE NEVILL.
+
+IOHN FLORIO.
+
+&#182;Printed at London by Val. Sims for Edward Blount dwelling
+in Paules churchyard. 1603.
+</section>
+
+
+</page>
+
+<page sig="a5v">
+<section type="To the Courteous Reader">
+<wordgroup1 type="u">
+.... But some errors are 
+mine, and mine by more then translation. Are they in Grammer, or Ortographie? as easie for you 
+to right, as me to be wrong; or in construction, as mis-attributing him, her, or it, to things alive, or 
+dead, or newter; you may soone know my meaning, and eftsoones vse your mending: or are they in 
+some <wordentry type="g"><form lang="en">vncouth termes;</form> <xpln lang="en" lexeme="entrain(v)" lexeme="conscientious(a)" lexeme="endear(v)" lexeme="tarnish(v)" lexeme="comport(v)" lexeme="efface(v)" lexeme="facilitate(v)" lexeme="amusing(a)" lexeme="debauching(a)" lexeme="regret(n)" lexeme="effort(n)" lexeme="emotion(n)">as entraine, conscientious, endeare, tarnish, comporte, efface, facilitate, am&#173;
+musing, debauching, regret, effort, emotion, and such like; if you like them not, take other most com&#173;
+monly set by them to expound them, since there they were set to make such likely French words fami&#173;
+liar with our English, which well may beare them. If any be capitall in sense mistaking, be I admo&#173;
+
+
+</page>
+
+<page sig="a6r">
+nished, and they shall be recanted ...</xpln>
+<lemenote>
+Florio in his translator's introduction brands all these terms as barbarous.
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+
+
+</page>
+</leme>
+

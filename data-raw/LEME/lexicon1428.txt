@@ -1,0 +1,130 @@
+<leme no="1428">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 3 6 2 4 . 7
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Title-page">
+THE 
+HVNTING
+OF THE 
+POX:
+A PLEASANT DIS&#124;
+course betweene the Authour,
+and Pild-Garlicke.
+
+Wherein is declared the nature of the
+Dissease, how it came, and how 
+it may bee cured.
+
+By J. T. Westminster.
+
+LONDON,
+Printed by I. W. for I. T. and are to be sold by Philip Birch at 
+the signe of the Bible neere Guildhall-gate. 1619.
+</section>
+</page>
+      
+<page sig="c3v">
+<section type="Glossary">
+<heading>
+THE MEANING OF CER&shy;
+TAINE WORDS OR NAMES, 
+which seemeth to some hard to vnder&shy;
+stand in this Booke.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en">CVrtezan,</form> <xpln lang="en">a Whore by licence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Veneris,</form> <xpln lang="en">Lechery.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Superbus Publicus,</form> <xpln lang="en">a common noted proud man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Morbus Gallicus,</form> <xpln lang="en">the French-Disease.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Acteon,</form> <xpln lang="en">a fable in Ouids <term lang="la">Metamorphosis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gonorea gallica,</form> <xpln lang="en">the running of the Reynes in that Disease.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Caruncula,</form> <xpln lang="en"><damage></damage> Excrecense growing in the Yard of a man, by lying with 
+vncleane women.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bubo venerius,</form> <xpln lang="en">is a botch in the Groyn, which commeth by a sudden stopping 
+the flux of the Reynes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Amorons,</form> <xpln lang="en">are certaine fleshie excrecenses, at the beginning like Mulberries, 
+and as they drie like Warts, and grow on the head of a mans Yard</xpln>
+<lemenote>
+"Amorons" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Glans,</form> <xpln lang="en">is the Acorne or head of a mans Yard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aloperia gallica,</form> <xpln lang="en">is meant the falling of the haire in this Disease.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Spanish-Buttons, Pustills, and Spanish Fleas,</form> <xpln lang="en">are drie Scabbes appearing 
+in the head and forhead, and when they fall away, they leaue red stooles behinde, 
+like Flea-bitings.</xpln>
+<lemenote>
+"Spanish-buttons" and "Spanish Fleas" not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Talpa,</form> <xpln lang="en">is a virulent Disease, and fouleth the vpper table of the Cranium or 
+Scull, and raiseth vp the bone, as a Mole heaueth vp the earth before  him.</xpln>
+<lemenote>
+"Talpa" in this sense antedates the earliest OED citation (1684).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Tophi,</form> <xpln lang="en">are grosse humors and viscons lying vpon Cranium vnder <term lang="la">Periosti&shy;
+on</term>, and maketh one part of the head or forhead seeme bigger than the other part.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Periostion,</form> <xpln lang="en">is a skinne that couereth all the bones of the body of man, and
+groweth to the same, and on that the flesh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fissur&aelig;,</form> <xpln lang="en">are chappes or clifes sometime happening behinde the eares, the toes, 
+the fundements.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scorbutum,</form> <xpln lang="en">the Scuruie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Canker,</form> <xpln lang="en">is a venemous eating vlcer, and may be sister to Noli me tangere, differing onely in the cure.</xpln></wordentry>
+</page>
+
+<page sig="c4r">
+<wordentry type="h"><form lang="la">Nodus,</form> <xpln lang="en">are bunches on the brow or shin-bones, they differ from <term lang="la">Tophi</term> in this, 
+that <term lang="la">Tophi</term> lyeth vnder the <term lang="la">Periostion</term>, and this lyeth vpon it, and therefore 
+most painfullest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Crust,</form> <xpln lang="en">is a Scabbe, which in this Disease runneth all the body ouer, like a le&shy;
+perous Scall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Herpes and  Serpigoes,</form> <xpln lang="en">are Tetters and Ring-wormes, ingendred of salt 
+flegme or tumor Erisipelas.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Formica,</form> <xpln lang="en">is a pricking or stinging in the skinne, as if a man were bitten with Ants.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Furfur,</form> <xpln lang="en">is a dust like vnto Branne, ingendred of vapoures breathing out of 
+the body, and drying on the skinne, and after falleth off in scales.</xpln>
+<lemenote>
+"Furfur" antedates the earliest OED citation (1621).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Hemrods,</form> <xpln lang="en">are a painfull Disease, breaking out about the Fundement from 
+the Hemrode veines.</xpln></wordentry>
+</wordgroup1>
+
+</section>
+</page>
+</leme>
+
+

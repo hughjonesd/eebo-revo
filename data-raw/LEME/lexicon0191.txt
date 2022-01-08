@@ -1,0 +1,515 @@
+<leme no="191">
+
+<page sig="e2v">
+<heading>Here foloweth the langage of
+Moreske &amp; of other countrees
+also.</heading>
+
+<wordgroup1 type="t" object="Arabic">
+
+<wordentry type="h"><form lang="en" lexeme="one(n)">I</form> <xpln lang="ar">whada / </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two(n)">ij</form> <xpln lang="ar">ettenin / </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)">iij</form> <xpln lang="ar">telate / </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)">iiij.</form> <xpln lang="ar">arba / </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)">v</form> <xpln lang="ar">camate /</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)">vi</form> <xpln lang="ar">sette.  </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)">vij</form> <xpln lang="ar">saba. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)">viij</form> <xpln lang="ar">temane. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)">ix</form> <xpln lang="ar">tessa. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)">x</form> <xpln lang="ar">asshera. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleven(n)">xi</form> <xpln lang="ar">
+hadasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelve(n)">xij</form> <xpln lang="ar">attanasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteen(n)">xiij</form> <xpln lang="ar">telatasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourteen(n)">xiiij</form> <xpln lang="ar">abata&shy;
+sshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifteen(n)">xv</form> <xpln lang="ar">camatasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteen(n)">xvi</form> <xpln lang="ar">settatasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeen(n)">xvij</form> <xpln lang="ar">sabatasshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteen(n)">xviij</form> <xpln lang="ar">tematasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteen(n)">xix</form> <xpln lang="ar">tellatasshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty(n)">xx.</form> <xpln lang="ar">esshere. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-one(n)">xxi</form> <xpln lang="ar">wat&shy;
+hadaesshere. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-two(n)">xxij</form> <xpln lang="ar">tellatyne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-three(n)">xxiij</form> <xpln lang="ar">wahadatellatyne.</xpln></wordentry>
+
+(&amp;<expan type="c+_">cetera</expan> vs<expan type="yogh">que</expan> ad. xl.
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">&para; Brede</form> <xpln lang="ar">ghabbis. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)">wyne</form> <xpln lang="ar">nebete. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">water</form> <xpln lang="ar">moy. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">flesshe</form> <xpln lang="ar">
+laghe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fish(n)">fysshe</form> <xpln lang="ar">semeh. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="come(v)">Come</form> <xpln lang="ar">tale. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)">goo</form> <xpln lang="ar">roa. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good morning(n)">Good mo<emend err="">&shy;</emend>
+row</form> <xpln lang="ar">sabalkit. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good evening(n)">Good euyn</form> <xpln lang="ar">mesallrir. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="content(a)">Content</form> <xpln lang="ar">bes&shy;
+melle. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)">Geue me</form> <xpln lang="ar">attyne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fresh(a)">Fressh</form> <xpln lang="ar">terie. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salt(a)">salte</form> <xpln lang="ar">mala.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)">ly<emend err="">&shy;</emend>
+tyll</form> <xpln lang="ar">swyre. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="potage(n)">Potage</form> <xpln lang="ar">tabahaghe. </xpln>
+<lemenote>Predates earliest OED citation (1567).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rain(v)">It reyneth</form> <xpln lang="ar">mataha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="much(a)">. Moche</form> <xpln lang="ar">hytir. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wind(n)">Wynde</form> <xpln lang="ar">awa. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="now(adv)">Now</form> <xpln lang="ar">dilawaght. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="how much(adv)">how
+moche</form> <xpln lang="ar">behem. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="will(v)">Wyll you</form> <xpln lang="ar">detryght. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="will(v)">I wyll</form> <xpln lang="ar">anastare</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)">. Geue me</form> <xpln lang="ar">hate. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gramercy(ex)">Gramercy</form> <xpln lang="ar">ectharlak herak. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="much good do it you(v)">Mo&shy;
+che gode do it you</form> <xpln lang="ar">sahagh. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="welcome, ye be(a)">Ye be welcom</form> <xpln lang="ar">marre ha<emend err="">&shy;</emend>
+habak. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sit down(v)">Sytte downe</form> <xpln lang="ar">hocoyte. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rise up(v)">Ryse vp</form> <xpln lang="ar">coome. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)">Wyl<emend err="">&shy;</emend>
+te thou goo</form> <xpln lang="ar">hetrightrea. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yea(adv)">ye</form> <xpln lang="ar">ee. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paid tomorrow, thou shalt be(v)">Thou shalt be payed
+to morow</form> <xpln lang="ar">&Yogh;ee fook bocuia. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nay(adv)">Nay</form> <xpln lang="ar">legh. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good(a)">Good</form> <xpln lang="ar">taybo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evil(a)">. Euyll</form> <xpln lang="ar">maletaybo. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nought(adv)">Noughte</form> <xpln lang="ar">fusshare. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tonight(adv)">To nyghte</form> <xpln lang="ar">
+delile. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="morning, in the(n)">In the mornynge</form> <xpln lang="ar">agade </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anon(adv)">Anone</form> <xpln lang="ar">fissa. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sudden(a)">sode<expan type="n+_">n</expan></form> <xpln lang="ar">
+stawa. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">Fyre</form> <xpln lang="ar">nare. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tidings, what(n)">what tidynges</form> <xpln lang="ar">aschabare. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="there(adv)">The&shy;
+re</form> <xpln lang="ar">howne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="here(adv)">Here</form> <xpln lang="ar">mennahowne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sleep(v)">Slepe</form> <xpln lang="ar">neyme. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)">I wyl
+</page>
+
+<page sig="e3r">
+not goo</form> <xpln lang="ar">maberet roo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)">I goo</form> <xpln lang="ar">hanna roo. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milk(n)">Mylke</form> <xpln lang="ar">le&shy;
+ben. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hen(n)">A henne</form> <xpln lang="ar">digiage. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese(n)">Chese</form> <xpln lang="ar">inben. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ass(n)">An asse</form> <xpln lang="ar">homa&shy;
+ghe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)">An horse</form> <xpln lang="ar">pharasse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mule(n)">A mule</form> <xpln lang="ar">begel. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="egg(n)">Eggis</form> <xpln lang="ar">beyet</xpln></wordentry>
+</wordgroup1>
+
+
+<wordgroup1 type="t" object="Greek">
+<heading>Greke</heading>
+
+<wordentry type="h"><form lang="en" lexeme="one(n)">I</form> <xpln lang="gkt">ena.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two(n)">ij</form> <xpln lang="gkt">dua.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)">iij</form> <xpln lang="gkt">trea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)">iiij.</form> <xpln lang="gkt">tessera.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)">v</form> <xpln lang="gkt">pende.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)">vi</form> <xpln lang="gkt">hexe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)">vij</form> <xpln lang="gkt">
+esta.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)">viij</form> <xpln lang="gkt">octo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)">ix</form> <xpln lang="gkt">ennea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)">x</form> <xpln lang="gkt">deca.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleven(n)">xi</form> <xpln lang="gkt">endecaena.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelve(n)">xij</form> <xpln lang="gkt">ende<emend err="">&shy;</emend>
+cadoa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteen(n)">xiij</form> <xpln lang="gkt">decatrea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourteen(n)">xiiij</form> <xpln lang="gkt">decatessera.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifteen(n)">xv</form> <xpln lang="gkt">decapente.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteen(n)">xvi</form> <xpln lang="gkt">decahexe..</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeen(n)">xvij</form> <xpln lang="gkt">decaesta.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteen(n)">xviij</form> <xpln lang="gkt">decaocto.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteen(n)">xix</form> <xpln lang="gkt">deca&shy;
+ennea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty(n)">xx</form> <xpln lang="gkt">choshi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirty(n)">xxx</form> <xpln lang="gkt">tienda,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forty(n)">xl</form> <xpln lang="gkt">serenda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifty(n)">l</form> <xpln lang="gkt">penynda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixty(n)">lx</form> <xpln lang="gkt">exinda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventy(n)">lxx</form> <xpln lang="gkt">esteminda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighty(n)">lxxx</form> <xpln lang="gkt">octoinda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ninety(n)">lxxxx</form> <xpln lang="gkt">emnin<emend err="">&shy;</emend>
+da.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one hundred(n)">C</form> <xpln lang="gkt">chato.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one hundred and twenty(n)">Cxx</form> <xpln lang="gkt">enacho.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two hundred(n)">CC</form> <xpln lang="gkt">duacessia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)">Geue me</form> <xpln lang="gkt">doiso mo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">Brede</form> <xpln lang="gkt">ypsome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salt(n)">Salt</form> <xpln lang="gkt">alas.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple(n)">Ap<emend err="">&shy;</emend>
+pill</form> <xpln lang="gkt">mela.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butter(n)">Butter</form> <xpln lang="gkt">foter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">Flesshe</form> <xpln lang="gkt">creas.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mutton(n)">Moton</form> <xpln lang="gkt">proui<emend err="">&shy;</emend>
+do.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="price(n)">Preis</form> <xpln lang="gkt">pidea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">Fyre</form> <xpln lang="gkt">focia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)">Wyne</form> <xpln lang="gkt">crasse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">Water</form> <xpln lang="gkt">ne<emend err="">&shy;</emend>
+ro.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese(n)">Chese</form> <xpln lang="gkt">galatiry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="egg(n)">Eggys</form> <xpln lang="gkt">ouago.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pork(n)">Porke</form> <xpln lang="gkt">grony.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fish(n)">Fyssh</form> <xpln lang="gkt">opsaria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hen(n)">H<expan type="e+_">en</expan>nes</form> <xpln lang="gkt">oringha.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose(n)">Gose</form> <xpln lang="gkt">pappia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mussel(n)">Mus<emend err="">&shy;</emend>
+cles</form> <xpln lang="gkt">mydea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oyster(n)">Oystres</form> <xpln lang="gkt">ostridia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vinegar(n)">vinegre</form> <xpln lang="gkt">accide</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cherry(n)">Che&shy;
+ryes</form> <xpln lang="gkt">charasse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="candle(n)">Candyll</form> <xpln lang="gkt">kiry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cup(n)">Cuppe</form> <xpln lang="gkt">cuppa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">Percely</form> <xpln lang="gkt">
+colomyndo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garlic(n)">Garlyk</form> <xpln lang="gkt">scorda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="onion(n)">Oyneons</form> <xpln lang="gkt">croundea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grapes(n)">Grapis</form> <xpln lang="gkt">stephile</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoe(n)">Shone</form> <xpln lang="gkt">pappoche.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hose(n)">Hosen</form> <xpln lang="gkt">calsshe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shirt(n)">Sherte</form> <xpln lang="gkt">camisa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cap(n)">Cappe</form> <xpln lang="gkt">takkia..</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fig(n)">Figge</form> <xpln lang="gkt">sica.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nay(adv)">Nay</form> <xpln lang="gkt">o<emend err="">&shy;</emend>
+che.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yes(adv)">Yes</form> <xpln lang="gkt">nesshe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="see(v)">See</form> <xpln lang="gkt">ne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="God save(ex)">God saue</form> <xpln lang="gkt">&yogh;ull Gramer<emend err="">&shy;</emend>
+cy spolate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penny(n)">A peny</form> <xpln lang="gkt">cartsa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good night(v)">Good nighte</form> <xpln lang="gkt">calamit<expan type="c'">cer</expan>a</xpln></wordentry>
+</page>
+
+<page sig="e3v">
+<wordentry type="h"><form lang="en" lexeme="good morn(v)">. Good morne</form> <xpln lang="gkt">calemera.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good even(v)">Good euen</form> <xpln lang="gkt">calaspera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good day(v)">. Good day</form> <xpln lang="gkt">calapor<expan type="u+_">un</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="have(v)">Haue ye</form> <xpln lang="gkt">exe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="how much(adv)">How moche</form> <xpln lang="gkt">po&shy;
+sso.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dame(n)">Dame</form> <xpln lang="gkt">kyra.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mine(pr)">Myn</form> <xpln lang="gkt">mo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bring hither(v)">Brynge hither</form> <xpln lang="gkt">ferto do</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="draw(v)">Drawe</form> <xpln lang="gkt">onogale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="take drink(v)">Take drynke</form> <xpln lang="gkt">na pume.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eat(v)">To ete</form> <xpln lang="gkt">
+na fao.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="enough(adv)">Ynough</form> <xpln lang="gkt">sone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="no more(adv)">No more</form> <xpln lang="gkt">detholoplne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sire(n)">Syre</form> <xpln lang="gkt">
+offende.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tell the way(v)">Tell me the waye</form> <xpln lang="gkt">diximo strata.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="welcome(n)">welco<expan type="m+_">me</expan>
+</form> <xpln lang="gkt">calasartis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="that(pr)">That</form> <xpln lang="gkt">tut.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good will, with(n)">Wyth good wyll</form> <xpln lang="gkt">mitteka</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wilt(v)">Wylt thou</form> <xpln lang="gkt">telysale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tavern, where is the(n)">Where is the tauerne</form> <xpln lang="gkt">ecke ca&shy;
+nowte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go, whither(v)">Whyther gost</form> <xpln lang="gkt">popays.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="come hither(v)">Come hyther</form> <xpln lang="gkt">ela do</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sit(v)">. Sytte</form> <xpln lang="gkt">cattese.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)">Go</form> <xpln lang="gkt">ame.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anon(adv)">Anone</form> <xpln lang="gkt">ligora.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bring(v)">Brynge
+me</form> <xpln lang="gkt">ferme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="potage(n)">Potage</form> <xpln lang="gkt">fayte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dish(n)">Dysshe</form> <xpln lang="gkt">mecrutea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="God(pn)">God
+</form> <xpln lang="gkt">othes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="be with you(v)">Be wyth you</form> <xpln lang="gkt">meta&oelig;na.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lady, my(n)">My lady</form> <xpln lang="gkt">kyramo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="say(v)">What sayest</form> <xpln lang="gkt">cheleys.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="understand(v)">I vnderstonde ye not</form> <xpln lang="gkt">den so
+gre to.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="come(v)">Whens comest</form> <xpln lang="gkt">apopoarkistis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wilt(v)">whyther wolt thou</form> <xpln lang="gkt">pothelles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)">Goo</form> <xpln lang="gkt">naye passe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="town, to the(n)">To the towne</form> <xpln lang="gkt">sta<emend err="">&shy;</emend>
+choreo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="land, to(n)">To londe</form> <xpln lang="gkt">geys.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drink(n)">Drynke</form> <xpln lang="gkt">pisse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea(n)">The see</form> <xpln lang="gkt">tha<emend err="">&shy;</emend>
+las.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="house(n)">Hous</form> <xpln lang="gkt">spite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="in(pp)">In</form> <xpln lang="gkt">to</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="break fast(v)">breke thy faste
+</form> <xpln lang="gkt">pame na is&shy;
+tone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eat bread(v)">Ete brede</form> <xpln lang="gkt">fae ipsome.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Turkish">
+<heading>The nombres of the langage
+of Turky.</heading>
+
+<wordentry type="h"><form lang="en" lexeme="one(n)">&para; I</form> <xpln lang="tu">bir.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two(n)">ij</form> <xpln lang="tu">equi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)">iij</form> <xpln lang="tu">vg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)">iiij</form> <xpln lang="tu">doit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)">v</form> <xpln lang="tu">bex.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)">vi</form> <xpln lang="tu">alti.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)">vij</form> <xpln lang="tu">yedi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)">. viij</form> <xpln lang="tu">&yogh;aqui&yogh;.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)">ix</form> <xpln lang="tu">dogue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)">x</form> <xpln lang="tu">on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleven(n)">xi.</form> <xpln lang="tu">oubir.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelve(n)">xij</form> <xpln lang="tu">on equi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteen(n)">xiij</form> <xpln lang="tu">
+on vg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourteen(n)">xiiij</form> <xpln lang="tu">on doit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifteen(n)">xv</form> <xpln lang="tu">on bex.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteen(n)">xvi</form> <xpln lang="tu">on alti.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeen(n)">xvij</form> <xpln lang="tu">on ye<emend err="">&shy;</emend>
+di ,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteen(n)">xviij</form> <xpln lang="tu">on &yogh;aqui&yogh;</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteen(n)">xix</form> <xpln lang="tu">on dogne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty(n)">xx</form> <xpln lang="tu">on ygrimi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-one(n)">xxi
+</form> <xpln lang="tu">ygrimi vit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-two(n)">xxij</form> <xpln lang="tu">ygri equi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-three(n)">xxiij</form> <xpln lang="tu">ygri vg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-four(n)">xxiiij.</form> <xpln lang="tu">ygri
+</page>
+
+<page sig="e4r">
+doit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-five(n)">xxv</form> <xpln lang="tu">ygri bex.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-six(n)">xxvi.</form> <xpln lang="tu">ygri alti.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-seven(n)">xxvij</form> <xpln lang="tu">ygri yedi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-eight(n)">xxviij</form> <xpln lang="tu">ygri &yogh;aqui&yogh;.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-nine(n)">xxix</form> <xpln lang="tu">ygrimi dogue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirty(n)">xxx</form> <xpln lang="tu">tut.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+</leme>

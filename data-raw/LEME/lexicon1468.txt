@@ -1,0 +1,141 @@
+<leme no="1468">
+
+<page sig="[?]1r">
+<section type="Title-page">
+The Mariners Mirrourr Wherin may playnly be seen the courses, heights, dis&shy;
+tances, depths, soundings, flouds and ebs, risings of 
+lands, rocks, sands and shoalds, with the marks for th'en&shy;
+trings of the Harbouroughs, Havens and Ports of the 
+greatest part of Europe: their seueral traficks and 
+commodities: together w<expan type="">ith</expan> the rules and instrum<expan type="">en</expan>ts 
+of Navigation. 
+First made & set fourth in diuers exact Sea-Charts, by that famous 
+Nauigator Luke Wagenar of Enchuisen and now fitted with necessarie 
+additions for the use of Englishmen by 
+Anthony Ashley. 
+
+Heerin also may be understood the exploits lately atchiued by the right 
+Honorable the L. Admiral of Engl<expan type="">an</expan>d with her Ma<expan type="">iesties</expan> Nauie and some 
+former seruices don by that worthy Knight 
+S<expan type="">ir</expan> Fr<expan type="">ancis</expan> Drake. 
+</section>
+</page>
+
+<page sig="a6v">
+<section type="Fixed Stars">
+<heading>
+A CATALOGVE OF THE MORE FA&shy;
+MOVS FIXED STARRES, WITH THEIR 
+LONGITVDE, DECLINATION, RIGHT ASCEN&shy;
+SION CONVERTED INTO HOWERS, AND MAGNITVDE, 
+RECTIFIED TO THE BEGINNING OF THE YEERE. 1588.
+</heading>
+
+<wordentry type="h"><form lang="la">Cornu Arietis praecedens.</form> <xpln lang="en">The Rams horne.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Dexter humerus Cephei.</form> <xpln lang="en">Cepheus right shoulder.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The vtmost of Eridanus.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Scheder.</form> <xpln lang="en">Andromedas shoulder blade.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="mirach(n)">Mirach.</form> <xpln lang="en">Andromedas girdle.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">Pegasus wing or shoulder.</xpln></wordentry> 
+<wordentry type="h"><form lang="en">Pegasus legge.</form> <xpln lang="la">Caput Andromedae.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The Whales belly.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The Whales necke.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The Whales brest.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Menkar.</form> <xpln lang="en">The Whales snowt.</xpln></wordentry> 
+<wordentry type="h"><form lang="la">Schedar.</form> <xpln lang="en">Cassiopeas brest.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">Cassiopeas chayre.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Algenib.</form> <xpln lang="en">Perseus right side.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Rasalgol.</form> <xpln lang="en">Medusaes head.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The first and Northermost of the Pleiades.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The hinder Southermost of the Pleiades.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The vtmost of the Pleiades.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Trapezium.</form> <xpln lang="en">The least of the Pleiades.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Succule.</form> <xpln lang="en">The first of the Hyades.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Aldebaran.</form> <xpln lang="en">Palilicium. The Buls eye.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bedelgeuse.</form> <xpln lang="en">Orions right shoulder.</xpln>
+<lemenote>
+"Bedelgeuse" antedates the earliest OED citation (1796).
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="la">Elgeuse. <term lang="la">Bellatrix</term>.</form> <xpln lang="en">Orions left shoulder.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Rigel.</form> <xpln lang="en">Orions left foote.</xpln>
+<lemenote>
+"Rigel" antedates the earliest OED citation (1594).
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The first of Orions girdle.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The middlemost of the belt.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The last of Orions girdle.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en" lexeme="wainman(n)">The Wainmans right shoulder.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Alhaiot.</form> <xpln lang="en">His left shoulder. The goate.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Alrucaba.</form> <xpln lang="en">The North Pole starre.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Canopus.</form> <xpln lang="en">The South starre.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Alhabor. <term lang="en">Syrius</term>.</form> <xpln lang="en">The great Dogge.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Algomeisa. <term lang="en">Procyon</term>.</form> <xpln lang="en">The lesser Dogge.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Rasalgeuse.</form> <xpln lang="en">Geminies head.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hercules.</form> <xpln lang="en">The other Twins head.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The Souther guarde.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The Norther guarde.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Alphard.</form> <xpln lang="en">The cleerest of the Snake.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Pectus Cancri.</form> <xpln lang="en">The Maunger.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Dubhe.</form> <xpln lang="en">The great Beares shoulder.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The great Beares nauill. </xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The great Beares tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The great Beares left hinder legge.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Calb eleced. <term lang="la">Basiliscus</term>.</form> <xpln lang="en">The Lyons heart. </xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">he Lyons necke.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The Lyons loynes.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Alioth.</form> <xpln lang="en">The first of the great Beares tayle. </xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The middlemost of his tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Elkerd bennenaz.</form> <xpln lang="en">The last of the Beares taile.</xpln></wordentry>
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">The vtmost of the Virgins winge.</xpln></wordentry>
+<wordentry type="h"><form lang="ar">Deneb eleced.</form> <xpln lang="en">The Lyons tayle, </xpln></wordentry>
+</page>
+
+<page sig="a7r">
+<wordentry type="h"><form lang="la">Fundus Crateris. Crater.</form> <xpln lang="en">The Cupps bottome.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Praeuindemiatrix.</form> <xpln lang="en">The Vintager.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Spica virginis: <term lang="en">Azimech</term>.</form> <xpln lang="en">The Virgins Spike.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Humerus sinister Bootis: Ceginus.</form> <xpln lang="en">Bootes left shoulder.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Arcturus: <term lang="ar">Alramech</term>. </form> <xpln lang="en">The storme starre.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Rostrum Corui.</form> <xpln lang="en">The Rauens bill.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Ala dextra Corui.</form> <xpln lang="en">The Rauens right winge.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Pes dexter prior Centauri.</form> <xpln lang="en">Centaurus right foote afore.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Lucida Coronae: Alpheta.</form> <xpln lang="en">Ariadnes crowne.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Laux Australis.</form> <xpln lang="en" lexeme="scale(n)">The Souther Scole of the ballance. </xpln></wordentry>
+<wordentry type="h"><form lang="la">Laux Borcalis.</form> <xpln lang="en">The Norther Scole.</xpln></wordentry>
+<wordentry type="h"><form lang="la">In fr<expan type="">on</expan>te scorpij Borealior.</form> <xpln lang="en">The Northermost in Scorp. front.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Media.</form> <xpln lang="en">The midst in his front.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Australior in fronte scorpij.</form> <xpln lang="en">The Southermost in his front.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Palma sinistra Ophiuchi siue serpentarij. Yed. Oph.</form> <xpln lang="en">left hand.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Cor scorpij: <term lang="en">Antares</term>.</form> <xpln lang="en">Scorpions heart. <term lang="ar">Calb alatrab</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Caput Herculis: <term lang="ar">Ras-algeti</term>.</form> <xpln lang="en">Hercules his head.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Caput Ophiuchi.</form> <xpln lang="en">Ophiuchus his head.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Caput Draconis: <term lang="ar">Ras-Aben</term>.</form> <xpln lang="en">The Dragons head.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Lucyda Lyrae: <term lang="ar">Vuega</term>: Vultur cadens.</form> <xpln lang="en">The Lyrae.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Aquila: Vultur volans: <term lang="ar">Alkair</term>.</form> <xpln lang="en">The Eagle.</xpln></wordentry>
+<wordentry type="h"><form lang="la">In suffragine sinistra priori sagittarij.</form> <xpln lang="en">Sagittaries forebolds.</xpln></wordentry>
+<wordentry type="h"><form lang="la">In genu eiusdem cruris.</form> <xpln lang="en">Sagittaries knee.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Rostrum Cygni, Oloris, siue Gallinae.</form> <xpln lang="en">The Swans bill.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Pectus Cygni, siue Oloris.</form> <xpln lang="en">The Swannes brest.</xpln></wordentry>
+<wordentry type="h"><form lang="la">In ancone dexterae Alae.</form> <xpln lang="en">The Swannes right winge.</xpln></wordentry>
+<wordentry type="h"><form lang="la">In ancone sinistrae Alae.</form> <xpln lang="en">The Swannes left winge.</xpln></wordentry>
+<wordentry type="h"><form lang="la">In extremo eiusdem Alae.</form> <xpln lang="en">The Swannes left Pinion.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Lucens in Cauda Delphini.</form> <xpln lang="en">The Dolphins tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Rhomboidis Delphini Australior.</form> <xpln lang="en">The south Dolph. star.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Eiusdem Borealior.</form> <xpln lang="en">The North Dolphin starre.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Caudae Capricorni:</form> <xpln lang="en">The former of Capricorns tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Sequens in Cauda.</form> <xpln lang="en">The next in Capricorns tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Cuspis Sagittae.</form> <xpln lang="en">The Arrow head.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Muscida Pegasi: <term lang="ar">Alpheratz</term>.</form> <xpln lang="en">Pegasus nostrils.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Vitima fusionis aquae: Formahand.</form> <xpln lang="en">ye end of Aquarius streme.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Cauda Cygni: <term lang="ar">Denebadige</term>.</form> <xpln lang="en">The Swannes tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Crus Pegasi: <term lang="ar">scheat Alpheratz</term>.</form> <xpln lang="en" lexeme="hough(n)">Pegasus houghe.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Humerus, siue <term lang="ar">Ala Pegasi. Markab Alpheratz</term>.</form> <xpln lang="en">Pegasus wing.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Lucens in capite Pegasi.</form> <xpln lang="en">Pegasus head.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Cauda Ceti: <term lang="ar">Denebkaytos</term>.</form> <xpln lang="en">The Whales tayle.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Crus Aquarij: <term lang="ar">Scheat</term>.</form> <xpln lang="en">Aquarius thigh.</xpln></wordentry>
+</page>
+</section>
+</leme>
+

@@ -1,0 +1,548 @@
+ <leme no="1469">
+
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+C O N R A D  G E S N E R ' S  H I S T O R I E  O F  F O V R E - F O O T E D  B E A S T E S  ( 1 6 0 7 )
+s t c  2 4 1 2 3 
+v e r . 1 . 0  ( 2 0 2 1 )
+</term>
+</lemepagenote>
+
+
+<page sig="a1r">
+<section type="Title-page">
+<heading>
+THE 
+HISTORIE 
+OF 
+FOVRE-FOOTED 
+BEASTES.
+</heading>
+
+Describing the true and liuely figure of euery Beast, with a discourse 
+of their seuerall Names, Conditions, Kindes, Vertues (both naturall and 
+medicinall) Countries of their breed, their loue and hate to Mankinde, and the 
+wonderfull worke of God in their Creation, Preseruation, 
+and Destruction.
+
+Necessary for all Diuines and Students, because the story of euery Beast is amplified with Narrations out of Scrip&#173;
+tures, Fathers, Phylosophers, Physitians, and Poets: wherein are declared diuers Hyerogliphicks, Emblems, 
+Epigrams, and other good Histories, Collected out of all the Volumes of CONRADVS GESNER, and all 
+other Writers to this present day. By EDWARD TOPSELL.
+
+LONDON, 
+Printed by William Iaggard,
+1607.
+</section>
+</page>
+
+<page sig="&#xb6;&#xb6;9r">
+<section type="Beast Index">
+<heading>
+An English Table expressing the name of euery Beast in such 
+sort as it is recited in this History, referring euery Beast to his 
+proper head and kind by the 
+Page.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A.</alpha>
+<wordentry type="h"><form lang="en">ANtalope.</form> <xpln lang="en">1</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape vulgar.</form> <xpln lang="en">2</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Munkey.</form> <xpln lang="en">6</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Martine.</form> <xpln lang="en">7</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Callitriche.</form> <xpln lang="en">8</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Prasian.</form> <xpln lang="en">9</xpln>
+<lemenote>
+Possibly Prasiae or Prasia, an ancient Greek town.
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="en">Ape Baboun.</form> <xpln lang="en">10</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Tartarine.</form> <xpln lang="en">12</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Ape Satyre.</form> <xpln lang="en">13</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Monster.</form> <xpln lang="en">15</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Noruegian</form> <xpln lang="en">16</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Pan.</form> <xpln lang="en">16</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Sphinx.</form> <xpln lang="en">17</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape Sagoni.</form> <xpln lang="en">18</xpln>
+<lemenote>
+Possibly named after the town in India.
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="en">Ape called Beare ape.</form> <xpln lang="en">19</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape called Foxe-ape.</form> <xpln lang="en">19</xpln></wordentry>
+<wordentry type="h"><form lang="en">Asse.</form> <xpln lang="en">20</xpln></wordentry>
+<wordentry type="h"><form lang="la">Hinnus.</form> <xpln lang="en">ibid.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ginnus.</form> <xpln lang="en">ibid.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Mannus.</form> <xpln lang="en">ibid.</xpln></wordentry>
+<wordentry type="h"><form lang="la">Mannulus.</form> <xpln lang="en">ibid.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Befi.</form> <xpln lang="en">ibid.</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Burdones.</form> <xpln lang="en">ibid.</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wilde Asse.</form> <xpln lang="en">30</xpln></wordentry>
+<wordentry type="h"><form lang="en">Scythian Asses.</form> <xpln lang="en">31</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian Asses.</form> <xpln lang="en">32</xpln></wordentry>
+<wordentry type="h"><form lang="en">Axis and Alborach.</form> <xpln lang="en">32</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha>
+<wordentry type="h"><form lang="en">Badger, Brocke, or Gray.</form> <xpln lang="en">33</xpln></wordentry>
+<wordentry type="h"><form lang="en">Beare.</form> <xpln lang="en">35</xpln></wordentry>
+<wordentry type="h"><form lang="en">Beauer.</form> <xpln lang="en">44</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bison.</form> <xpln lang="en">50</xpln></wordentry>
+<wordentry type="h"><form lang="en">Scotian Bison.</form> <xpln lang="en">52</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bonassus.</form> <xpln lang="en">53</xpln></wordentry>
+<wordentry type="h"><form lang="en">Buffe.</form> <xpln lang="en">56</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bugle.</form> <xpln lang="en">57</xpln></wordentry>
+<wordentry type="h"><form lang="en">Affrican Bugill.</form> <xpln lang="en">59</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bull.</form> <xpln lang="en">61</xpln></wordentry>
+<wordentry type="h"><form lang="en">Oxe.</form> <xpln lang="en">67</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cow.</form> <xpln lang="en">71</xpln></wordentry>
+<wordentry type="h"><form lang="en">Calfe.</form> <xpln lang="en">88</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C.</alpha>
+<wordentry type="h"><form>Cacus.</form> <xpln lang="en">91</xpln></wordentry>
+<wordentry type="h"><form lang="en">Camels.</form> <xpln lang="en">93</xpln></wordentry>
+<wordentry type="h"><form lang="en">Camell Dromedary</form> <xpln lang="en">97</xpln></wordentry>
+<wordentry type="h"><form lang="en">Camelopardall.</form> <xpln lang="en">100</xpln></wordentry>
+<wordentry type="h"><form lang="la">Allocamell.</form> <xpln lang="en">101</xpln></wordentry>
+<wordentry type="h"><form lang="en">Campe.</form> <xpln lang="en">102</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cat.</form> <xpln lang="en">102</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wilde cat.</form> <xpln lang="en">107</xpln></wordentry>
+<wordentry type="h"><form lang="la">Colus.</form> <xpln lang="en">108</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cony.</form> <xpln lang="en">109</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian Pig-cony.</form> <xpln lang="en">112</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>
+<wordentry type="h"><form lang="en">Deare.</form> <xpln lang="en">
+<subform lang="en">Fallow Deere.</subform> <subxpln lang="en">113</subxpln>
+<subform lang="en">Roe Bucke.</subform> <subxpln lang="en">114</subxpln>
+<subform lang="en">Tragelaphus.</subform> <subxpln lang="en">118</subxpln>
+<subform lang="en">Hart and Hinde.</subform> <subxpln lang="en">121</subxpln></xpln></wordentry>
+<wordentry type="h"><form lang="en">Dictyes.</form> <xpln lang="en">37</xpln></wordentry>
+<wordentry type="h"><form lang="en">Dogges.</form> <xpln lang="en">
+<subform lang="en">Dogges. </subform> <subxpln lang="en">137</subxpln>
+<subform lang="en">Greyhound.</subform> <subxpln lang="en">144</subxpln>
+<subform lang="en">Hound.</subform> <subxpln lang="en">149</subxpln>
+<subform lang="en">Bloud-Hound.</subform> <subxpln lang="en">150</subxpln>
+<subform lang="en">Spanniel.</subform> <subxpln lang="en">153</subxpln>
+<subform lang="en">Mungrels.</subform> <subxpln lang="en">154</subxpln>
+<subform lang="en">Mimicke or Island Dog.</subform> <subxpln lang="en">161</subxpln>
+<subform lang="en">Little Maelitaean Dogs.</subform> <subxpln lang="en">161</subxpln>
+<subform lang="en">The Harier.</subform> <subxpln lang="en">165</subxpln>
+<subform lang="en">The Terriar.</subform> <subxpln lang="en">165</subxpln>
+<subform lang="en">The Gasehound.</subform> <subxpln lang="en">167</subxpln>
+<subform lang="en">The Leymmer.</subform> <subxpln lang="en">168</subxpln>
+<subform lang="en">The Tumbler.</subform> <subxpln lang="en">168</subxpln>
+<subform lang="en">The Theeuish Dog.</subform> <subxpln lang="en">169</subxpln>
+<subform lang="en">The Setter.</subform> <subxpln lang="en">169</subxpln>
+<subform lang="en">The Water spanniel.</subform> <subxpln lang="en">170</subxpln>
+<subform lang="en">The Fisher.</subform> <subxpln lang="en">171</subxpln>
+<subform lang="en">The Sheapheards Dog.</subform> <subxpln lang="en">172</subxpln>
+<subform lang="en">The Mastiue or Bandog.</subform> <subxpln lang="en">173</subxpln>
+<subform lang="en">The Butchers Dog.</subform> <subxpln lang="en">174</subxpln>
+<subform lang="en">Curs of all sorts.</subform> <subxpln lang="en">177</subxpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>
+<wordentry type="h"><form lang="en">Eale.</form> <xpln lang="en">190</xpln></wordentry>
+<wordentry type="h"><form lang="en">Elephant.</form> <xpln lang="en">190</xpln></wordentry>
+<wordentry type="h"><form lang="en">Elke.</form> <xpln lang="en">211</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha>
+<wordentry type="h"><form lang="en">Ferret.</form> <xpln lang="en">217</xpln></wordentry>
+<wordentry type="h"><form lang="en">Fitch or Pool-cat.</form> <xpln lang="en">219</xpln></wordentry>
+<wordentry type="h"><form lang="en">Foxe.</form> <xpln lang="en">220</xpln></wordentry>
+<wordentry type="h"><form lang="en">Crucigeran Foxe.</form> <xpln lang="en">222</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha>
+<wordentry type="h"><form lang="en">Gennet Kat.</form> <xpln lang="en">228</xpln></wordentry>
+<wordentry type="h"><form lang="en">Goates.</form> <xpln lang="en">
+<subform lang="en">Goates vulgar.</subform> <subxpln lang="en">230</subxpln>
+<subform lang="en">Mambrine Goats.</subform> <subxpln lang="en">235</subxpln>
+<subform lang="en">Deere-Goates.</subform> <subxpln lang="en">143</subxpln>
+<subform lang="en">Wilde Goat.</subform> <subxpln lang="en">144</subxpln>
+<subform lang="en">Kyd.</subform> <subxpln lang="en">147</subxpln></xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Gulon.</form> <xpln lang="en">161</xpln></wordentry>
+<wordentry type="h"><form lang="en">Gorgon.</form> <xpln lang="en">162</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>
+<wordentry type="h"><form lang="en">Hare.</form> <xpln lang="en">164</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hedghog.</form> <xpln lang="en">177</xpln></wordentry>
+<wordentry type="h"><form lang="en">Horse.</form> <xpln lang="en">
+<subform lang="en">Horse vulgar.</subform> <subxpln lang="en">281</subxpln>
+<subform lang="en">Stallions and Mares.</subform> <subxpln lang="en">295</subxpln>
+<subform lang="en">Hunting</subform> <subxpln lang="en">Horses. 321</subxpln>
+<subform lang="en">Running or race Horses.</subform> <subxpln lang="en">322</subxpln>
+<subform lang="en">Geldings.</subform> <subxpln lang="en">324</subxpln>
+<subform lang="en">Carreering Horses.</subform> <subxpln lang="en">324</subxpln>
+<subform lang="en">Packe Horses.</subform> <subxpln lang="en">325</subxpln>
+<subform lang="en">Wilde Horses.</subform> <subxpln lang="en">325</subxpln>
+<subform lang="en">Hippelaphus,</subform> <subxpln lang="en">236</subxpln>
+<subform lang="en">Sea Horse.</subform> <subxpln lang="en">328</subxpln></xpln></wordentry>
+<wordentry type="h"><form lang="en">Hyaena.</form> <xpln lang="en"></xpln></wordentry>
+<wordentry type="h"><form lang="en">Hyaena vulgar.</form><xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I.</alpha>
+<wordentry type="h"><form lang="en">Ibex.</form> <xpln lang="en">445</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ichneumon or Pharoes Mouse.</form> <xpln lang="en">449</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>
+<wordentry type="h"><form lang="en">Lamia or Phayrye.</form> <xpln lang="en">452</xpln></wordentry>
+<wordentry type="h"><form lang="en">Lyon.</form> <xpln lang="en">455</xpln></wordentry>
+<wordentry type="h"><form lang="en">Linx.</form> <xpln lang="en">488</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M.</alpha>
+<wordentry type="h"><form lang="en">Marten or Marder.</form> <xpln lang="en">495</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mole.</form> <xpln lang="en">498</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mice.</form> <xpln lang="en">
+<subform lang="en">Vulgar Mouse.</subform> <subxpln lang="en">503</subxpln>
+</page>
+
+<page sig="&#xb6;&#xb6;9v">
+<subform lang="en">Rat.</subform> <subxpln lang="en">519</subxpln>
+<subform lang="en">Water Rat.</subform> <subxpln lang="en">520</subxpln>
+<subform lang="en">Alpine Mouse.</subform> <subxpln lang="en">521</subxpln>
+<subform lang="en">Dormouse.</subform> <subxpln lang="en">526</subxpln>
+<subform lang="en">Hamster Mouse.</subform> <subxpln lang="en">529</subxpln>
+<subform lang="en">Norician Mouse.</subform> <subxpln lang="en">532</subxpln>
+<subform lang="en">Pontique Mouse.</subform> <subxpln lang="en">532</subxpln>
+<subform lang="en">Flying Mouse.</subform> <subxpln lang="en">533</subxpln>
+<subform lang="en">Shrew or Erd Shrew</subform> <subxpln lang="en">534</subxpln>
+<subform lang="en">Wilde field Mouse.</subform> <subxpln lang="en">542</subxpln>
+<subform lang="en">Wood Mouse.</subform> <subxpln lang="en">544</subxpln>
+<subform lang="en">Hasell Mouse.</subform> <subxpln lang="en">545</subxpln>
+<subform lang="en">Lascett Mouse.</subform> <subxpln lang="en">546</subxpln>
+<subform lang="en">Sorex.</subform> <subxpln lang="en">546</subxpln>
+<subform lang="en">Indian Mouse.</subform> <subxpln lang="en">548</subxpln></xpln></wordentry>
+<wordentry type="h"><form lang="en">Muske cat.</form> <xpln lang="en">551</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mule.</form> <xpln lang="en">556</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N.</alpha>
+<wordentry type="h"><form lang="en">Neades.</form> <xpln lang="en">567</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Ounce.</form> <xpln lang="en">568</xpln></wordentry>
+<wordentry type="h"><form lang="en">Orynx.</form> <xpln lang="en">570</xpln></wordentry>
+<wordentry type="h"><form lang="en">The Otter.</form> <xpln lang="en">571</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha>
+<wordentry type="h"><form lang="en">Panther.</form> <xpln lang="en">575</xpln></wordentry>
+<wordentry type="h"><form lang="en">Poephages.</form> <xpln lang="en">587</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Porcupine.</form> <xpln lang="en">588</xpln></wordentry>
+<wordentry type="h"><form lang="en">Reiner or Ranger</form> <xpln lang="en"></xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Rhinocerot</form> <xpln lang="en">595</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S.</alpha>
+<wordentry type="h"><form lang="en">Su, and Subus.</form> <xpln lang="en">660</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Arabian Sheepe</form> <xpln lang="en">600</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ramme</form> <xpln lang="en">631</xpln></wordentry>
+<wordentry type="h"><form lang="en">Weather Sheepe</form> <xpln lang="en">638</xpln></wordentry>
+<wordentry type="h"><form lang="en">Lambe</form> <xpln lang="en">640</xpln></wordentry>
+<wordentry type="h"><form lang="en">Musmon</form> <xpln lang="en">642</xpln></wordentry>
+<wordentry type="h"><form lang="en">Strepsiceros</form> <xpln lang="en">655</xpln>
+<lemenote>
+"Strepsiceros" is not a headword in the OED but see under "addax," "gazelle," etc.".	
+</lemenote>	
+</wordentry>
+<wordentry type="h"><form lang="en">Squirrell</form> <xpln lang="en">657</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cetulian Squirrell</form> <xpln lang="en">659</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Vulgar Swyne</form> <xpln lang="en">562</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wilde Boare</form> <xpln lang="en">694</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en">Tatus</form> <xpln lang="en">705</xpln></wordentry>
+<wordentry type="h"><form lang="en">Tiger</form> <xpln lang="en">707</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en">Vnicorne</form> <xpln lang="en">711</xpln></wordentry>
+<wordentry type="h"><form lang="en">Vre-Oxe</form> <xpln lang="en">721</xpln></wordentry>
+<wordentry type="h"><form lang="en">Libian Vre-Oxe</form> <xpln lang="en">724</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian Vre-Oxe</form> <xpln lang="en">744</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="en">Weasell</form> <xpln lang="en">725</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><alpha>Z</alpha>
+<wordentry type="h"><form lang="en">Zebell or Saball</form> <xpln lang="en">755</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Zibet or Ciuet cat</form> <xpln lang="en">756</xpln></wordentry>
+</wordgroup1>
+</section>
+
+<section type="Beast Stories">
+<heading>
+Another Alphabeticall Table directing the Reader to the story of euery Beast.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A.</alpha>
+<wordentry type="h"><form lang="en">AFfrican Bugill.</form> <xpln lang="en">59</xpln></wordentry>
+<wordentry type="h"><form lang="en">Alborach.</form> <xpln lang="en">32</xpln></wordentry>
+<wordentry type="h"><form lang="en">Alpine Mouse.</form> <xpln lang="en">521</xpln></wordentry>
+<wordentry type="h"><form lang="en">Antalope.</form> <xpln lang="en">1</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ape vulgar.</form> <xpln lang="en">2</xpln></wordentry>
+<wordentry type="h"><form lang="en">Arabyan Sheepe</form> <xpln lang="en">600</xpln></wordentry>
+<wordentry type="h"><form lang="en">Asse.</form> <xpln lang="en">20</xpln></wordentry>
+<wordentry type="h"><form lang="en">Axis</form> <xpln lang="en">32</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="en">Baboun.</form> <xpln lang="en">10</xpln></wordentry>
+<wordentry type="h"><form lang="en">Badger, Brocke, or Gray.</form> <xpln lang="en">33</xpln></wordentry>
+<wordentry type="h"><form lang="en">Beare</form> <xpln lang="en">55</xpln></wordentry>
+<wordentry type="h"><form lang="en">Beare ape.</form> <xpln lang="en">19</xpln></wordentry>
+<wordentry type="h"><form lang="en">Beauer.</form> <xpln lang="en">44</xpln></wordentry>
+<wordentry type="h"><form lang="en">Befi.</form> <xpln lang="en">29</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bison.</form> <xpln lang="en">50</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bloud-Hound.</form> <xpln lang="en">150</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bonassus.</form> <xpln lang="en">53</xpln></wordentry>
+<wordentry type="h"><form lang="en">Buffe.</form> <xpln lang="en">56</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bugle.</form> <xpln lang="en">57</xpln></wordentry>
+<wordentry type="h"><form lang="en">Bull.</form> <xpln lang="en">61</xpln></wordentry>
+<wordentry type="h"><form lang="en">Burdones.</form> <xpln lang="en">29</xpln></wordentry>
+<wordentry type="h"><form lang="en">Butchers Dog.</form> <xpln lang="en">174</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C.</alpha>
+<wordentry type="h"><form lang="en">Cacus.</form> <xpln lang="en">91</xpln></wordentry>
+<wordentry type="h"><form lang="en">Calse.</form> <xpln lang="en">88</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Callitriche.</form> <xpln lang="en">8</xpln></wordentry>
+<wordentry type="h"><form lang="en">Camels.</form> <xpln lang="en">93</xpln></wordentry>
+<wordentry type="h"><form lang="en">Camelopardall.</form> <xpln lang="en">100</xpln></wordentry>
+<wordentry type="h"><form lang="en">Campe.</form> <xpln lang="en">102</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Carreering Horses.</form> <xpln lang="en">324</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cat.</form> <xpln lang="en">102</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cow.</form> <xpln lang="en">71</xpln></wordentry>
+<wordentry type="h"><form lang="en">Colus.</form> <xpln lang="en">108</xpln></wordentry>
+<wordentry type="h"><form lang="en">Cony.</form> <xpln lang="en">109</xpln></wordentry>
+<wordentry type="h"><form lang="en">Crucigeran Foxe.</form> <xpln lang="en">222</xpln></wordentry>
+<wordentry type="h"><form lang="en">Crocuta.</form> <xpln lang="en">440</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">Curs of all sorts.</form> <xpln lang="en">177</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>
+<wordentry type="h"><form lang="en">Dabuh or Papio.</form> <xpln lang="en">439</xpln></wordentry>
+<wordentry type="h"><form lang="en">Deere-Goates.</form> <xpln lang="en">143</xpln></wordentry>
+<wordentry type="h"><form lang="en">Dictyes.</form> <xpln lang="en">136</xpln>
+<
+</wordentry>
+<wordentry type="h"><form lang="en">Dogges.</form> <xpln lang="en">137</xpln></wordentry>
+<wordentry type="h"><form lang="en">Dormouse</form> <xpln lang="en">526</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>
+<wordentry type="h"><form lang="en">Eale.</form> <xpln lang="en">190</xpln></wordentry>
+<wordentry type="h"><form lang="en">Elephant.</form> <xpln lang="en">190</xpln></wordentry>
+<wordentry type="h"><form lang="en">Elke.</form> <xpln lang="en">211</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha>
+<wordentry type="h"><form lang="en">Fallow Deere</form> <xpln lang="en">113</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ferret.</form> <xpln lang="en">217</xpln></wordentry>
+<wordentry type="h"><form lang="en">Fieldmouse</form> <xpln lang="en">542</xpln></wordentry>
+<wordentry type="h"><form lang="en">Fisher dog.</form> <xpln lang="en">171</xpln></wordentry>
+<wordentry type="h"><form lang="en">Fitch or Pool-cat.</form> <xpln lang="en">219</xpln></wordentry>
+<wordentry type="h"><form lang="en">Flyeng Mouse</form> <xpln lang="en">533</xpln></wordentry>
+<wordentry type="h"><form lang="en">Foxe.</form> <xpln lang="en">220</xpln></wordentry>
+<wordentry type="h"><form lang="en">Foxe-ape.</form> <xpln lang="en">19</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha>
+<wordentry type="h"><form lang="en">Gasehound.</form> <xpln lang="en">167</xpln></wordentry>
+<wordentry type="h"><form lang="en">Gennet Kat.</form> <xpln lang="en">228</xpln></wordentry>
+<wordentry type="h"><form lang="en">Geldings.</form> <xpln lang="en">324</xpln></wordentry>
+<wordentry type="h"><form lang="en">Greyhound.</form> <xpln lang="en">144</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ginnus.</form> <xpln lang="en">29</xpln></wordentry>
+<wordentry type="h"><form lang="en">Goates vulgar.</form> <xpln lang="en">230</xpln></wordentry>
+<wordentry type="h"><form lang="en">Gorgon.</form> <xpln lang="en">162</xpln></wordentry>
+<wordentry type="h"><form lang="en">Gulon.</form> <xpln lang="en">161</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>
+<wordentry type="h"><form lang="en">Hare.</form> <xpln lang="en">164</xpln></wordentry>
+<wordentry type="h"><form lang="en">Harier.</form> <xpln lang="en">165</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hart and Hinde.</form> <xpln lang="en">121</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hamster mouse</form> <xpln lang="en">529</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hasell mouse.</form> <xpln lang="en">547</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hedghog.</form> <xpln lang="en">177</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hinnus.</form> <xpln lang="en">29</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hippelaphus,</form> <xpln lang="en">236</xpln></wordentry>
+<wordentry type="h"><form lang="en">Horse vulgar.</form> <xpln lang="en">281</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hound.</form> <xpln lang="en">149</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hunting Horses.</form> <xpln lang="en">321</xpln></wordentry>
+<wordentry type="h"><form lang="en">Hyaena vulgar.</form> <xpln lang="en">436</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I.</alpha>
+<wordentry type="h"><form lang="en">Ibex.</form> <xpln lang="en">447</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ichneumon</form> <xpln lang="en">449</xpln></wordentry>
+<wordentry type="h"><form lang="en">Innus.</form> <xpln lang="en">29</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian Asse.</form> <xpln lang="en">32</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian Pig cony.</form> <xpln lang="en">112</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian mouse.</form> <xpln lang="en">548</xpln></wordentry>
+<wordentry type="h"><form lang="en">Indian Vre-Oxe</form> <xpln lang="en">724</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+<wordentry type="h"><form lang="en">Kidde</form> <xpln lang="en">147</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>
+<wordentry type="h"><form lang="en">Lambe</form> <xpln lang="en">641</xpln></wordentry>
+<wordentry type="h"><form lang="en">Lamia or Phayrye.</form> <xpln lang="en">452</xpln></wordentry>
+<wordentry type="h"><form lang="en">Lascet Mouse</form> <xpln lang="en">546</xpln>
+
+</wordentry>
+<wordentry type="h"><form lang="en">The Leymmer.</form> <xpln lang="en">168</xpln></wordentry>
+<wordentry type="h"><form lang="en">Lyon.</form> <xpln lang="en">454</xpln></wordentry>
+</page>
+
+<page sig="">
+<wordentry type="h"><form lang="en">Linx.</form> <xpln lang="en">488</xpln></wordentry>
+<wordentry type="h"><form lang="en">Libyan Vre-Oxe.</form> <xpln lang="en">724</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M.</alpha>
+<wordentry type="h"><form lang="en">Mungrels.</form> <xpln lang="en">154</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mambrine Goats.</form> <xpln lang="en">235</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mantichora.</form> <xpln lang="en">441</xpln></wordentry>
+<wordentry type="h"><form lang="en">Martenor Marder.</form> <xpln lang="en">495</xpln></wordentry>
+<wordentry type="h"><form lang="en">Martine Ape.</form> <xpln lang="en">7</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mares</form> <xpln lang="en">see Stallions</xpln></wordentry>
+<wordentry type="h"><form lang="la">Mannus &#38; Mannulus.</form> <xpln lang="en">29</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mastiue dog.</form> <xpln lang="en">173</xpln></wordentry>
+<wordentry type="h"><form lang="en">Maelitaean Dogs.</form> <xpln lang="en">161</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mimick or Getulian Dog.</form> <xpln lang="en">161</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mole.</form> <xpln lang="en">498</xpln></wordentry>
+<wordentry type="h"><form lang="en">Monster.</form> <xpln lang="en">15</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mouse Vulgar.</form> <xpln lang="en">503</xpln></wordentry>
+<wordentry type="h"><form lang="en">Mule</form> <xpln lang="en">556</xpln></wordentry>
+<wordentry type="h"><form lang="en">Munkey.</form> <xpln lang="en">6</xpln></wordentry>
+<wordentry type="h"><form lang="en">Musk-cat.</form> <xpln lang="en">551</xpln></wordentry>
+<wordentry type="h"><form lang="en">Musmon</form> <xpln lang="en">642</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>N</alpha>
+<wordentry type="h"><form lang="en">Neades.</form> <xpln lang="en">567</xpln></wordentry>
+<wordentry type="h"><form lang="en">Noruegian mouse</form> <xpln lang="en">532</xpln></wordentry>
+<wordentry type="h"><form lang="en">Noruegian Ape</form> <xpln lang="en">16</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha></alpha>O
+<wordentry type="h"><form lang="en">Oryx.</form> <xpln lang="en">570</xpln></wordentry>
+<wordentry type="h"><form lang="en">Otter</form> <xpln lang="en">571</xpln></wordentry>
+<wordentry type="h"><form lang="en">Ounce</form> <xpln lang="en">568</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en">Packe Horses.</form> <xpln lang="en">325</xpln></wordentry>
+<wordentry type="h"><form lang="en">Pan Ape.</form> <xpln lang="en">16</xpln></wordentry>
+<wordentry type="h"><form lang="en">Panther</form> <xpln lang="en">575</xpln></wordentry>
+<wordentry type="h"><form lang="en">Poephagus</form> <xpln lang="en">587</xpln></wordentry>
+<wordentry type="h"><form lang="en">Pontique Mouse.</form> <xpln lang="en">532</xpln></wordentry>
+<wordentry type="h"><form lang="en">Pocuspine</form> <xpln lang="en">885</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en">Ramme.</form> <xpln lang="en">631</xpln></wordentry>
+<wordentry type="h"><form lang="en">Rat.</form> <xpln lang="en">519</xpln></wordentry>
+<wordentry type="h"><form lang="en">Reyner or Ranger</form> <xpln lang="en">612</xpln></wordentry>
+<wordentry type="h"><form lang="en">Rhinoceros</form> <xpln lang="en">595</xpln></wordentry>
+<wordentry type="h"><form lang="en">Roe Bucke.</form> <xpln lang="en">114</xpln></wordentry>
+<wordentry type="h"><form lang="en">Running or race Horses.</form> <xpln lang="en">322</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en">Ape Sagoin.</form> <xpln lang="en">18</xpln></wordentry>
+<wordentry type="h"><form lang="en">Satyre Ape.</form> <xpln lang="en">13</xpln></wordentry>
+<wordentry type="h"><form lang="en">Sphinx.</form> <xpln lang="en">17</xpln></wordentry>
+<wordentry type="h"><form lang="en">Scythian Asses.</form> <xpln lang="en">31</xpln></wordentry>
+<wordentry type="h"><form lang="en">Scotian Bugle.</form> <xpln lang="en">52</xpln></wordentry>
+<wordentry type="h"><form lang="en">Sea Horse.</form> <xpln lang="en">328</xpln></wordentry>
+<wordentry type="h"><form lang="en">Sea Wolfe</form> <xpln lang="en">759</xpln></wordentry>
+<wordentry type="h"><form lang="en">Setter Dog.</form> <xpln lang="en">169</xpln></wordentry>
+<wordentry type="h"><form lang="en">Sheapheards Dog.</form> <xpln lang="en">172</xpln></wordentry>
+<wordentry type="h"><form lang="en">Shrew mouse</form> <xpln lang="en">534</xpln></wordentry>
+<wordentry type="h"><form lang="en">Sheepe</form> <xpln lang="en">598</xpln></wordentry>
+<wordentry type="h"><form lang="en">Sorex</form> <xpln lang="en">546</xpln></wordentry>
+<wordentry type="h"><form lang="en">Spanniel.</form> <xpln lang="en">153</xpln></wordentry>
+<wordentry type="h"><form lang="en">Squirrels</form> <xpln lang="en">657</xpln></wordentry>
+<wordentry type="h"><form lang="en">Stallions and Mares.</form> <xpln lang="en">295</xpln></wordentry>
+<wordentry type="h"><form lang="en">Strepsiceros.</form> <xpln lang="en">655</xpln></wordentry>
+<wordentry type="h"><form lang="en">Swyne.</form> <xpln lang="en">562</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha><emend err="">T.</emend></alpha>
+<wordentry type="h"><form lang="en">Tartarine.</form> <xpln lang="en">12</xpln></wordentry>
+<wordentry type="h"><form lang="en">Tatus.</form> <xpln lang="en">705</xpln></wordentry>
+<wordentry type="h"><form lang="en">Terriar.</form> <xpln lang="en">165</xpln></wordentry>
+<wordentry type="h"><form lang="en">Tyger.</form> <xpln lang="en">707</xpln></wordentry>
+<wordentry type="h"><form lang="en">Theeuish Dog.</form> <xpln lang="en">169</xpln></wordentry>
+<wordentry type="h"><form lang="en">Tumbler.</form> <xpln lang="en">168</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V.</alpha>
+<wordentry type="h"><form lang="en">Vnicorne</form> <xpln lang="en">711</xpln></wordentry>
+<wordentry type="h"><form lang="en">Vre Oxe.</form> <xpln lang="en">721</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W.</alpha>
+<wordentry type="h"><form lang="en">Water spanniel.</form> <xpln lang="en">170</xpln></wordentry>
+<wordentry type="h"><form lang="en">Water rat</form> <xpln lang="en"></xpln></wordentry>
+<wordentry type="h"><form lang="en">Weasell</form> <xpln lang="en">725</xpln></wordentry>
+<wordentry type="h"><form lang="en">wilde Bore</form> <xpln lang="en">694</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wilde cat.</form> <xpln lang="en">107</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wilde Goat.</form> <xpln lang="en">144</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wilde Horse.</form> <xpln lang="en">325</xpln></wordentry>
+<wordentry type="h"><form lang="en">wilde mice</form> <xpln lang="en">544</xpln></wordentry>
+<wordentry type="h"><form lang="en">wilde field-mice</form> <xpln lang="en">542</xpln></wordentry>
+<wordentry type="h"><form lang="en">Woodmouse</form> <xpln lang="en">545</xpln></wordentry>
+<wordentry type="h"><form lang="en">Wolfe</form> <xpln lang="en">734</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><alpha>Z.</alpha>
+<wordentry type="h"><form lang="en">Zebell or Sable</form> <xpln lang="en">755</xpln></wordentry>
+<wordentry type="h"><form lang="en">Zibet or Ciuet Kat.</form> <xpln lang="en">756</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</section>
+</page>
+</leme>

@@ -1,0 +1,59 @@
+<leme no="454">
+
+<page>
+<wordgroup1 type="u">
+<f type="r">Most of the Customes of the Lead-mines, here
+I have describ'd ,  as they are used there ;
+But many words of art you still may seek,
+The Miners Tearms are like to Heathen Greek,
+Both strange and uncoth, if you some would see,
+Read these rough verses here Compos'd by me.
+
+<wordentry type="g"><form lexeme="bunding(n)" lexeme="polling(n)" lexeme="stemple(n)" lexeme="fork(n)" lexeme="slider(n)"
+lexeme="stop-rice(n)" lexeme="yoking(n)" lexeme="sole-tree(n)" lexeme="roach(n)" lexeme="rider(n)"
+lexeme="water hole(n)" lexeme="wind hole(n)" lexeme="vein(n)" lexeme="coe-shaft(n)" lexeme="wough(n)"
+lexeme="rake, main(n)" lexeme="rake, cross(n)" lexeme="brown-hen(n)" lexeme="buddle(n)" lexeme="sough(n)"
+lexeme="break-off(n)" lexeme="bucker(n)" lexeme="random(n)" lexeme="rake(n)" 
+lexeme="freeing(n)" lexeme="stool(n)" 
+lexeme="ore(n)" lexeme="smilting(n)" lexeme="drift(n)" 
+lexeme="prim-gap(n)" lexeme="flare(n)" lexeme="pipe-work(n)" lexeme="shift(n)"
+lexeme="cauk(n)" lexeme="spar(n)" lexeme="lid-stone(n)" lexeme="twitch(n)" lexeme="dalling(n)" lexeme="pee(n)"
+lexeme="fell(n)" lexeme="bouse(n)" lexeme="knock-bark(n)" lexeme="forstid(a)" lexeme="tee(n)"
+lexeme="bing-place(n)" lexeme="barmote bench(n)" lexeme="barmaster(n)" lexeme="stow(n)" 
+lexeme="cross(n)" lexeme="hole(n)" lexeme="hang-bench(n)" lexeme="turn-tree(n)" lexeme="coe(n)"
+lexeme="founder-meer(n)" lexeme="taker-meer(n)" lexeme="lot(n)" lexeme="cope(n)" lexeme="sump(n)"
+lexeme="sticking(n)" lexeme="string(n)" lexeme="wash(v)" lexeme="pump(n)" 
+lexeme="corf(n)" lexeme="clevis(n)" lexeme="dead(n)" lexeme="mere(n)" lexeme="grove(n)" lexeme="rake-soil(n)" lexeme="gang(n)"
+lexeme="bing-ore(n)" lexeme="spindle(n)" lexeme="lamp-turn(n)" lexeme="fang(n)" 
+lexeme="flake(n)" lexeme="knocking(n)" lexeme="coe-stead(n)" lexeme="trunk(n)"
+lexeme="sole(n)" lexeme="smitham(n)">BUnning's, Polings, Stemples, Forks, and Slyder,
+Stoprice, Yokings, Soletrees, Roach, and Ryder,
+Water holes, Wind holes, Veyns, Coe-shafts and Woughs,
+Main Rakes, Cross Rakes, Brown-henns, Budles and Soughs,
+Break-offs, and Buckers, Randum of the Rake,
+Freeing, and Chasing of the Stole to th'Stake,
+Starting of oar, Smilting, and driving drifts,
+Primgaps, Roof works, Flar-works, Pipe-works, Shifts,
+Cauke, Sparr, Lid-stones, Twitches, Daulings, and Pees,
+Fell, Bous, and Knock-barke, Forstid-oar, and Tees,
+Bing-place, Barmoot Court, Barghmaster, and Stowes,
+Crosses, Holes, Hange-benches, Turntree, and Coes,
+Founder-meers, Taker-meers, Lot, Cope, and Sumps,
+Stickings, and Stringes of oar, Wash-oar and Pumps,
+Corfes, Clivies, Deads, Meers, Groves, Rake-soil, the Gange,
+Binge-oar, a Spindle, a Lampturn, a Fange,
+Fleaks, Knockings, Coestid, Trunks and Sparks of oar,
+Sole of the Rake, Smytham, and many more.</form><xpln></xpln></wordentry>
+
+This have I written for the miners sake,
+That Miners are in <f type="i">Wirksworth<f type="r"> Wapentake;
+Perchance if these few lines accepted be,
+An exposition may be made by me,
+Of Mineral Tearms, to most men now abstruse,
+Which by expounding may be of more use;
+But for the present, I commit to view
+This little book, the Mineral Law to shew;
+</wordgroup1>
+</page>
+
+</leme>

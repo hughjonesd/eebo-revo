@@ -1,0 +1,2503 @@
+<leme no="1443">
+<page sig="A1r">
+
+<section type="Title-page">
+
+AN INTRO&#173;
+DVCTION OF
+THE
+EYGHT
+PARTES
+OF
+speche, and the Construction of
+the same, complied and sette
+forthe by the comma<expan type="">un</expan>de&#173;
+ment of our most gra<emend err="">&#173;</emend>
+cious souerayne
+lorde the
+king.
+&#10087;
+ANNO. MDXLII.
+
+</section>
+
+
+
+
+
+</page>
+
+<page sig="A1v">
+
+<section type="Dedication">
+HENRY THE. VIII. BY
+THE GRACE OF GOD KYNG
+of Engl<expan type="a+_">an</expan>, Fraunce, and Ireland, de&#173;
+fendour of the feithe, and of the church
+of England, and also of Ireland, in
+erth the supreme hed, to all schoolemai&#173;
+sters and teachers of grammer within this his realm
+greetynge. Emong the manyfolde busines and moste
+weyghty affayres, appertaynyng to our regall aucto&#173;
+ritee and offyce, we forgette not the tendre babes, and
+the youth of our realme, whose good education and
+godly bryngyng vp, is a greate furniture to the same
+and cause of moche goodnesse. and to the intent that
+hereafter they may the more readily and easily attein
+the rudymentes of the latyne toung, without <expan type="">the</expan> greate
+hynderaunce, which heretofore hath been, through the
+diuersitie of grammers and teachynges: we will and
+commaunde, and streightly charge al you schoolemaic&#173;
+sters and teachers of gr<expan type="">am</expan>mer within this our realme,
+and other our dominions, as ye intend to auoyde our
+displeasure, and haue our fauour to teache and learne
+your scholars this englysshe introduction here ensu&#173;
+ing, and the latyne grammer annered to the same,
+and none other, which we haue caused for your
+ease, and your scholars spedy preferment
+bryefely and playnely to be com&#173;
+pyled and set forth. Fayle
+not to apply your scho
+lars in lernynge
+and dodly e&#173;
+ducation.
+
+</section>
+
+
+
+
+
+</page>
+
+<page sig="A2r">
+
+<section type="To the Reader">
+&#10087;TO THE REDER&#x025b8; 
+ALBEIT THIS Realme of
+Englande hath iuste cause to thynke it
+selfe moste bounden to the goodnes of
+God, for manifolde and sundry bene&#173;
+fittes receyued of his inestimable bo<expan type="">un</expan>
+tifulnesse,yet if we wyl wey the iust va&#173;
+lu of thynges in an equall balance, as a  certayn wyse
+Phylosopher dyd, whiche affirmed that realme to be
+most happy, where as eyther a wise and a lerned man
+had the rule, or the ruler a;;lyed hym selfe to wyse&#173;
+dom, and lernynge: we may perceyue vs englishmen,
+in nothyng so fortunate, as in that we haue a kyng &#38;
+gouernour, both of excellente wysedome, lernyng and
+vertu, and also of great study &#38; diligence to encreace
+the same, whose kyngly qualities, whan they shal here
+after by such godly monumentes, as his maiesty shal
+leaue behynd hym, appere so playnly to his posteritie,
+as we now presently see thynges,many of them alredy
+done, some indoing, and mo shal see, which his maiestie
+by the grace of god, entendeth hereafter to do: out of
+questyon al <expan type="">the</expan> haue gone before hym, may wel appere
+but shadowes. And to leaue the large fieldes of his
+pryncely actes, wherein the wysest &#38; best lerned myght
+walke tyll wyt and eloquence were both wery, what
+constant iudgement, &#38; what profound knowlege hasth
+his maiesty shewed &#38; declared to all the world, in th<damage>iy</damage>
+varietie of iugementes and lerninges; and what pey&#173;
+nes study and trauayle doth he take, to bryng thyn<emend err="">&#173;</emend>
+ges farre out of square to a conformitie, and to take
+good heede of Christis churche to lead his flock into
+
+
+
+
+
+
+</page>
+
+<page sig="A2v">
+
+
+the folde of tru doctrine, <expan type="">the</expan> hurdels of <expan type="">the</expan> same so wel vn<emend err="">&#173;</emend>
+der<damage>py</damage>ght<expan type="">the</expan> the wolves shal not be able to ouerthrowe
+them and as his maiesty purpseth to establyshe his people in one consent and harmony of pure <expan type="">and</expan>tru rely<emend err="">&#173;</emend>
+: so his tender goodnes toward the youthe <expan type="">and</expan> chyld
+hode of his realme, ent<expan type="">en</expan>deth to haue it brought vp vn<emend err="">&#173;</emend>
+der one absolute and univorme sorte of lernynge. (For here
+tofore euery maister had his gr<expan type="">am</expan>mer, and euery schole
+dyuers teachynges, and chaungyng of maisters and
+scholes dyd many tymes vtterly dull and vndo good wyttes) hath appoynted certein lerned men mete for su<emend err="">&#173;</emend>
+che a purpose, to compilae onbryef, plaine, <expan type="">and</expan> vniforme
+gr<expan type="">am</expan>mer, which onely (al other set a part) for the more
+spedynesse. and lesse trouble of yong wittes, his hygh
+ues hath commanded all sholemaysters and teachers
+of gr<expan type="">am</expan>mer within this hs realme, and other his do&#173;
+minions, to teache their scholers. Nowe consider you
+fathers inthis realme, howe moche ye be bo<expan type="">un</expan>d to suc
+a gracious kyng, whose dare is not onely for you, but
+for your posterity also, and your t<expan type="">en</expan>der babes. And you
+scholemaisters of England, to whome the cure and e&#173;
+ducation of tender youthe is commytted. with what
+great study and dylygence ought you to folowe the ex<emend err="">&#173;</emend>
+ample of our most grations souerayne which among
+the infinite busynes apperteinyng to his regall office,
+to ernestly mindeth the wel bryngyng vp of youthe, in
+lernying and vertue. Howe glad howe desirous ought
+you to be, not only to do this his gracis c<expan type="">om</expan>ma<expan type="">un</expan>dment
+
+
+
+
+
+</page>
+
+<page sig="A3r">
+
+
+but also busylye to applye your selues, to trade and
+bryng vp your scholers in good maners, in knowlege
+of t<expan type="">on</expan>ges and sciences. And somewhat to declare vnto
+you the condition <expan type="">and</expan> qualitie of this grammer, ye shall
+vnderstand, that the viii partes of speech and the Con&#173;
+struction of the same, be not here set forth in englysshe
+at large, but compendyously and briefelyfor the weake
+capacitie of yong and tender wyttes. And therefore if a<emend err="">&#173;</emend>
+ny thyng semeth here to want in this englishe Intro&#173;
+ductions, ye shall vnerstande, it was left out of pur<emend err="">&#173;</emend>
+pose, and shall be supplied in the latyn rules made for
+the same inten, whiche chyldren shal be apte to lerne,
+what tyme they shall haue competent vnderstandying
+by these former rudimentes. You tender babes of En<emend err="">&#173;</emend>
+glande, shake of slouthfulnes, set wantonnes a parte,
+apply your wyttes holy to lernyng and vertue, where&#173;
+by you maye doo youre duetye to god and your kyng,
+make gladde your parentes, profytte your selues, and
+moche auaunce the common weale of your countrey.
+Let noble prynce Edwarde encourage your t<expan type="">en</expan>der har&#173;
+tes, a prynce of greate towardnes, an prynce in whome
+god hath powred his graces abundantly, a prince fra&#173;
+med of suche perfectnes of nature, that he is lyke by
+the grace of god, to ensue the steppes of his fathers
+wysedome, lerniyng, and vertue, and is nowe almost
+in a redynesse, to rounne in the same rase of lernyng
+with you. For whome ye hae great rause to praye that
+he may be the soonne of a longe lyuyng father.
+Lerne dylygently.
+Loue God entierely.
+
+</section>
+
+
+
+
+
+</page>
+
+<page sig="A3v">
+
+<section type="Latin Poem">
+
+<heading><term lang="la">AD PVBEMANGLICAM
+HEXASTICON.</term></heading>
+<term lang="la">OTVA parue puer non parua est gloria, Rex est
+Commoda qui studiis prospicit ampla tuis.
+Rex magnus tibi parue puer, Rex porrigit ultro
+Dulcia nectare&#230; pocula grammatic&#230;.
+Accippe munifici dulcissima pocula regis,
+H&#230;c hauri, h&#230;c auidis faucibus ebibiro</term>.
+
+&#10087;&#10087;&#10087;&#10087;&#10087;
+
+&#10087;GOD SAVE THE
+KYNG&#x025b8;
+
+</section>
+
+
+
+
+
+</page>
+
+<page sig="A4r">
+
+<section type="An Introduction of the Eight Parts of Speech">
+<heading>
+&#10087;AN INTRODVCTION
+of the eighte partes of speche.</heading>
+
+IN speche be these, viii partes folovvyng.
+
+Nowne declyned.
+Pronowne <editoraddition>declyned</editoraddition>
+Verbe <editoraddition>declyned</editoraddition>
+Participle <editoraddition>declyned</editoraddition>
+
+Aduerbe <editoraddition>undeclyned</editoraddition>
+Coniunction <editoraddition>undeclyned</editoraddition>
+Preposition <editoraddition>undeclyned</editoraddition>
+Interecition <editoraddition>undeclyned</editoraddition>
+
+<wordgroup1 type="t" object="The Noun"><alpha>&#10087; Of the novvne.</alpha>
+
+<wordentry type="h"><form lang="en">A NOVVNE</form> <xpln lang="en">IS the name
+of a thyng that maye bee seen, felt,
+heard or vnderstand. As the name
+of my hand in latine is <term lang="la">Manus</term>.
+The name of an howse, is <term lang="la">Do&#173;
+mus</term>. The name of goodnesse is
+<term lang="la">Bonitas</term>.
+Of nownes some be substantiues some be adiectiues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; A now<emend err="">n</emend>e substantiue</form> <xpln lang="en">is, that standeth by hym self,
+and requireth not an other woorde to be ioyned with
+hym, as <term lang="la">homo</term> a manne, and it is declyned with one
+article, as <term lang="la">hic Magister</term>, a maister, or with twoo, as <term lang="la">hic &#38; hec parens</term>, a father or mother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; A nowne adiectiue</form> <xpln lang="en">is, that can not stand by hym
+selfe, but requireth to be ioyned with an other worde,
+as <term lang="la">Bonus</term> good, <term lang="la">Pulcher</term> fayre. And it is declyned, ei&#173;
+ther with three termynations, as <term lang="la">Bonus, bona, bonum,</term>
+<damage> </damage>rels with three articles, as <term lang="la">Hic h&#230;c &#38; hoc felix</term>, happy,
+<term lang="la">hic &#38; h&#230; leuis</term>, &#230; <term lang="la">hoc leue</term>, lyght.</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en">&#182; A nowne substantiue</form> <xpln lang="en">either is proper to the thyng,
+that it betokeneth, as Edo<damage>ardus</damage> is my proper name,
+
+
+
+
+
+</page>
+
+<page sig="A4v">
+
+
+Or it is common to mo, as <term lang="la">Homo</term> is a common name
+to all menne.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Numbers of Nouns"><alpha>Noumbers of novvnes.</alpha>
+
+<wordentry type="h"><form lang="en">&#182; In nownes</form> <xpln lang="en">be two numbers, The syngular and
+the plurall. The syngular numbre speketh of one as
+<term lang="la">lapis</term>, a stone. The plurall noumber speaketh of moo
+than one, as <term lang="la">lapides</term>, stones.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Cases of Nouns"><alpha>Cases of novvnes.</alpha>
+
+<wordentry type="h"><form lang="en">&#182; Nownes</form> <xpln lang="en">be declyned with syxe cases syngularly
+&#38; plurally. The nominatyue, The Genityue, the Da&#173;
+tiue, the Accusatyue, the Vocatyue, and the Ablatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The nominatyue case</form> <xpln lang="en">commeth before the verbe,
+and answereth to this question who or what, as <term lang="la">Ma&#173;
+gister docer</term>, the m<damage>aiste</damage>r teacheth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The genitiue case</form> <xpln lang="en">is knowen by this token of, and
+answereth to this question, whose or whereof, as <term lang="la">Do&#173;
+ctrina magistri</term>, the learnyng of the maister.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The datyue case</form> <xpln lang="en">is knowen by this token to, and
+answereth to tihs question, to whom, or to what, as
+<term lang="la">Do librum magistro</term>. I gyke a boke to the maister.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The accusatyue case</form> <xpln lang="en">foloweth the verbe, and aun&#173;
+swereth th this question, whom, or what, as <term lang="la">Amo ma&#173;
+gistrum</term>, I loue the mayster.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The vocatyue case</form> <xpln lang="en">is knowen by callynge or spea&#173;
+kyng to, as <term lang="la">O magister</term>, O maister.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The ablatyue case</form> <xpln lang="en">is commonly knowen by these
+sygnes, in, with, through, for, from, by, and than, as
+<term lang="la">Cum magistro</term>, with the mayster.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Articles"><alpha>Artycles.</alpha>
+
+<wordentry type="h"><form lang="en">&#182;Articles</form> <xpln lang="en">be borowed of the pronowne, and be thus
+declyned.
+
+
+
+
+
+</page>
+
+<page sig="B1r">
+
+<term lang="la">Sin. N<expan type="">ominatiuo</expan> hic, hec, hoc,
+<editoraddition>Sin.</editoraddition> Genitiuo huius,
+<editoraddition>Sin.</editoraddition> Datiuo huic,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo</expan> huc, hanc, hoc,
+<editoraddition>Sin.</editoraddition> Vocatiuo ,
+<editoraddition>Sin.</editoraddition> Abl<expan type="">atiuo</expan>,
+
+Pl. Nominatiuo hi h&#230; hec,
+<editoraddition>Pl.</editoraddition> G<expan type="">enitiuo</expan> horum har<expan type="">um</expan> horam,
+<editoraddition>Pl.</editoraddition> Datiuo his,
+<editoraddition>Pl.</editoraddition> A<expan type="">ccusatiuo</expan> hos has h&#230;,
+<editoraddition>Pl.</editoraddition> Vocatiuo caret.
+<editoraddition>Pl.</editoraddition> Ablatiuo his</term>.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Genders of Nouns"><alpha>Genders of novvnes.</alpha>
+
+<wordentry type="h"><form lang="en">&#182; Genders of nownes</form> <xpln lang="en">be. vii. the Masculine, the fe&#173;
+minine, the neuter, the common of two, the common
+of thre, the doubtfull, and the Epicene.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The masculine gender,</form> <xpln lang="en">is declyned with this arty&#173;
+cle <term lang="la">hic</term>, as <term lang="la">hic uir</term>, a manne.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The feminine gender</form> <xpln lang="en">is declyned with this artycle
+<term lang="la">h&#230;</term>, as <term lang="la">h&#230; mulier</term>, a woman.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The neuter</form> <xpln lang="en">is declyned with this article <term lang="la">hoc</term>, as
+<term lang="la">hocfaxum</term>, as stone.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The common of two</form> <xpln lang="en">is declyned with <term lang="la">hic &#38; hec</term>, as
+<term lang="la">hic &#38; hec parens</term>.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The common of three</form> <xpln lang="en">is declyned with <term lang="la">hic h&#230;c &#38;
+hoc</term>, as <term lang="la">hic hec &#38; hoc felix</term>.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The doubtfull gender</form> <xpln lang="en">is declyned with <term lang="la">hic</term> or
+<term lang="la">h&#230;c</term>, as <term lang="la">hic uel hec dies</term>, a daye.</xpln></wordentry>
+	<wordentry type="h"><form lang="en">The Epicene gendre</form> <xpln lang="en">is declyned with one artycle,
+&#38; vnder that one artycle, both kindes be signified, as
+<term lang="la">hic passer</term>, a sparowe,  <term lang="la">h&#230;c aquila</term>, an egle, both he &#38; she.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Declensions of Nouns"><alpha>The declensons of novvnes,</alpha>
+
+<wordentry type="h"><form lang="en">&#182; There be fyue</form> <xpln lang="en">declensons of nownes.</xpln></wordentry>
+
+	<wordentry type="h"><form lang="en">The first <editoraddition>declension</editoraddition></form> <xpln lang="en">is, whan the genitiue and the datyue case
+syngular ende in <term lang="la">&#230;</term> diphthong, the accusatyue in <term lang="la">am</term>,
+the vocatiue lyke the nominatyue, the ablatyue in <term lang="la"><damage>a</damage></term>,
+
+
+
+
+
+</page>
+
+<page sig="B1v">
+
+The nominatiue plural in <term lang="la">&#230;</term> diphthong, the genitiue
+in <term lang="la">arum</term>, the datiue in <term lang="la">is</term>,the accusatyue in <term lang="la">as</term>, the vo&#173;
+catiue like the nominatyue, the ablatyue in <term lang="la">is</term>, as
+in example
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan> hec musa,
+<editoraddition>Sing.</editoraddition> G<expan type="">enetiuo</expan> huius s&#230;,
+<editoraddition>Sing.</editoraddition> Datiuo huic s&#230;,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> hanc sam,
+<editoraddition>Sing.</editoraddition> Vocatiuo o musa,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> ab hac musa,
+
+Pl. N<expan type="">ominatiuo</expan> h&#230; mus&#230;,
+<editoraddition>Pl.</editoraddition> G<expan type="">enetiuo</expan> harum musarum,
+<editoraddition>Pl.</editoraddition> Datiuo his musis,
+<editoraddition>Pl.</editoraddition> Accusatiuo has musas,
+<editoraddition>Pl.</editoraddition> Vocatiuo o mus&#230;,
+<editoraddition>Pl.</editoraddition> Ablatiuo ab his musis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The seconde <editoraddition>declension</editoraddition></form> <xpln lang="en">is, whan the genitiue case syngular
+endeth in i, the datiue in <term lang="la">o</term>, the accusatyue in <term lang="la">um</term>, the
+vocatiue for the most parte like the nomynatyue, the
+ablatyue in o. The nominatiue plurall in <term lang="la">i</term>, the geni&#173;
+tive in <term lang="la">orum</term>, the dative in <term lang="la">is</term>, the accusatyue in <term lang="la">os</term>, the
+vocatiue like the nominatiue, the ablatyue in <term lang="la">is</term>, as
+in example.
+
+<term lang="la">Sin. N<expan type="">ominatiuo</expan> hic magister,
+<editoraddition>Sin.</editoraddition> G<expan type="">enetiuo</expan> huius gistri,
+<editoraddition>Sin.</editoraddition> Datiuo huic stro,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo</expan> hunc strum,
+<editoraddition>Sin.</editoraddition> V<expan type="">ocatiuo</expan> o magister,
+<editoraddition>Sin.</editoraddition> Abl<expan type="">atiuo </expan> ab hoc stro,
+
+Pl. N<expan type="">ominatiuo</expan> hi magistri,
+<editoraddition>Pl.</editoraddition> G<expan type="">enetiuo</expan> horum strorum,
+<editoraddition>Pl.</editoraddition> Datiuo his magistris,
+<editoraddition>Pl.</editoraddition> Accusatiuo hos gistros,
+<editoraddition>Pl.</editoraddition> Vocatiuo o magistri,
+<editoraddition>Pl.</editoraddition> Ablatiuo ab his gistris</term>.
+
+&#182; Here is to be noted, that whan the nomi&#173;
+natiue endethe in <term lang="la">us</term>, the vocatyue shall end in <term lang="la">e</term>, as
+<term lang="la">Nominatiuo hic dominus, uocatiuo o domine</term>. Except <term lang="la">Fi&#173;</term>
+lius, that maketh <term lang="la">o fili</term>, and <term lang="la">deus</term>, that maketh <term lang="la">o deus</term>.
+Whan the monimatiue endeth in <term lang="la">ius</term>, if it be a propre
+name of a manne, the vocayue shall ende in i, as <term lang="la">no&#173;
+minatiuo hic Georgius, uocatiuo o Georgi</term>.
+
+
+
+
+
+</page>
+
+<page sig="B2r">
+
+&#182; NOTE ALSO that all nownes of the neuter gen<emend err="">&#173;</emend>
+der, of what <damage>de</damage>clenson so euer they be, haue the nomi&#173;
+natyue, the accusatyue, and the vocatiue lyke in bothe
+numbres. And in the plurall noumbre they ende all
+in <term lang="la">A</term>, as in example.
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan> hoc regnum,
+<editoraddition>Sing.</editoraddition> G<expan type="">enitiuo</expan>huius regni,
+<editoraddition>Sing.</editoraddition> Datiuo huic gno,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> hoc regnum,
+<editoraddition>Sing.</editoraddition> Vocatiuo o reg<expan type="">um</expan>,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> ab hoc regno,
+
+Plur. N<expan type="">ominatiuo</expan> h&#230;c regna,
+<editoraddition>Plur.</editoraddition> G<expan type="">enitiuo</expan> hor<expan type="">um</expan>regnorum,
+<editoraddition>Plur.</editoraddition> Datiuo his regnis,
+<editoraddition>Plur.</editoraddition> A<expan type="">ccusatiuo</expan> h&#230;c regna,
+<editoraddition>Plur.</editoraddition> V<expan type="">ocatiuo</expan> o regna,
+<editoraddition>Plur.</editoraddition> Abl<expan type="">atiuo</expan> ab his regnis</term>,
+
+&#182; Except <term lang="la">ambo &#38; duo</term>, which make the neuter gen&#173;
+der in <term lang="la">o</term>, and be thus declyned.
+
+<term lang="la">Pluraliter. Nominatiuo ambo, amb&#38;aelig, ambo,
+<editoraddition>Pluraliter</editoraddition> Genitiuo orum, arum, orum,
+<editoraddition>Pluraliter</editoraddition> Datiuo obus, abus, obus,
+<editoraddition>Pluraliter</editoraddition> Accusatiuo bos, bas, bo,
+<editoraddition>Pluraliter</editoraddition> Vocatiuo bo, be, bo,
+<editoraddition>Pluraliter</editoraddition> Abl<expan type="">atiuo</expan> obus, abus, obus</term> Lykewyse <term lang="la">duo</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The thyrde <editoraddition>declension</editoraddition></form> <xpln lang="en">is, whan the genitiue case singular en&#173;
+deth in <term lang="la">is</term>, the datyue in <term lang="la">i</term>, the accusatyue moste c<expan type="">om</expan>mon<emend err="">&#173;</emend>
+ly in <term lang="la">em</term>, and sometyme in <term lang="la">im</term>, and somtyme in bothe
+the vocatyue lyke the nominatiue, the ablatiue in <term lang="la">i</term>,
+sometyme in <term lang="la">e</term>, sometyme in bothe. The nomynatiue
+case pluralle in <term lang="la">es</term>, the genityue sometyme in <term lang="la">um</term>, and
+sometyme in <term lang="la">ium</term>, the datiue in <term lang="la">bus</term>, the accusatyue in
+<term lang="la">es</term>, the vocatiue like the nominatyue, the ablatyue in
+<term lang="la">bus</term>, as in example,
+
+
+
+
+
+</page>
+
+<page sig="B2v">
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan>hic lapis,
+<editoraddition>Sing.</editoraddition> G<expan type="">enitiuo</expan>huius dis,
+<editoraddition>Sing.</editoraddition> Datiuo huic di,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> hunc dem,
+<editoraddition>Sing.</editoraddition> V<expan type="">ocatiuo</expan> o lapis,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> ab hoc de,
+
+Pl. Nominatiuo hi lapides,
+<editoraddition>Pl.</editoraddition> G<expan type="">enitiuo horum lapidum</expan>,
+<editoraddition>Pl.</editoraddition> Datiuo his lapidibus,
+<editoraddition>Pl.</editoraddition> Accusatiuo hos lapides,
+<editoraddition>Pl.</editoraddition> Vocatiuo o lapides,
+<editoraddition>Pl.</editoraddition> Abl<expan type="">latiuo</expan> ab his lapidibus.
+
+Sin. N. <expan type="">ominatiuo</expan>hic &#38; h&#230;c par<expan type="">en</expan>s,
+<editoraddition>Sin.</editoraddition> Genetiuo huius r<expan type="">en</expan>tis,
+<editoraddition>Sin.</editoraddition> Datiuo huic parenti,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo h<expan type="">un</expan>c &#38; h<expan type=""></expan>an</expan>c tem,
+<editoraddition>Sin.</editoraddition> Vocatiuo o parens,
+<editoraddition>Sin.</editoraddition> Ablatiuo ab hoc &#38;
+hac parente,
+
+Pl. N<expan type="">ominatiuo</expan> hi &#38; h&#230; parentes,
+<editoraddition>Pl.</editoraddition> G<expan type="">enitiuo</expan> hor<expan type="">um</expan> &#38; har<expan type="">um</expan>, tum,
+<editoraddition>Pl.</editoraddition> D<expan type="">atiuo</expan> his parentibus,
+<editoraddition>Pl.</editoraddition> A<expan type="">ccusatiuo hos &#38; has rentes</expan>
+<editoraddition>Pl.</editoraddition> Vocatiuo o parentes
+<editoraddition>Pl.</editoraddition> Ablatiuo ab his pa&#173;
+rentibus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The fowerth<editoraddition>declension</editoraddition></form> <xpln lang="en">is, whan the genitiue case syngular
+endeth in <term lang="la">us</term>, the datiue in <term lang="la">ui</term>, the accusatiue in <term lang="la">um</term>, the
+vocatiue lyke the nominatiue,the ablatiue in <term lang="la">u</term>. The
+nominatiue plurall in <term lang="la">us</term>, the genitiue in <term lang="la">uum</term>, the da&#173;
+tyue in <term lang="la">ibus</term>, the accusatiue in <term lang="la">us</term>, the vocatiue lyke the
+nominatiue, the ablatiue in <term lang="la">ibus</term>, as in example,
+
+<term lang="la">Sin. N<expan type="">ominatiuo</expan> hec manus,
+<editoraddition>Sin.</editoraddition> G<expan type="">enitiuo</expan> huius, nus,
+<editoraddition>Sin.</editoraddition> Datiuo huic ui,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo</expan> hanc num,
+<editoraddition>Sin.</editoraddition> Vocatiuo o nus,
+<editoraddition>Sin.</editoraddition> Abl<expan type="">atiuo</expan>ab hac nu,
+
+Plu. N<expan type="">ominatiuo</expan> h&#230; manus,
+<editoraddition>Plu.</editoraddition> G<expan type="">enitiuo</expan> harum manuum,
+<editoraddition>Plu.</editoraddition> Datiuo his manibus,
+<editoraddition>Plu.</editoraddition> Accusatiuo has manus,
+<editoraddition>Plu.</editoraddition> Vocatiuo o manus,
+<editoraddition>Plu.</editoraddition> Abl<expan type="">atiuo</expan> ab his manibus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The fifth<editoraddition>declension</editoraddition></form> <xpln lang="en">is whan the genitiue &#38; the datyue case
+syngular ende in <term lang="la">ei</term>, the accusatiue in <term lang="la">em</term>, the vocatiue
+lyke the nominatiue, the ablatyue in <term lang="la">e</term>. The nomy&#173;
+natyue plurall in <term lang="la">es</term>, the genitiue in <term lang="la">erum</term>, the datyue
+in <term lang="la">ibus</term>, the accusatiue in <term lang="la">es</term>, the vocatyue lyke the no<emend err="">&#173;</emend>
+
+
+
+
+
+</page>
+
+<page sig="B3r">
+
+minatiue the ablatiue in <term lang="la">ebus</term>, as in example.
+
+<term lang="la">Sin. N<expan type="">ominatiuo</expan> hic meridies,
+<editoraddition>Sin.</editoraddition> Genitiuo huius ei,
+<editoraddition>Sin.</editoraddition> datiuo huic ei,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo</expan> hunc em,
+<editoraddition>Sin.</editoraddition> Vocatiuo o dies,
+<editoraddition>Sin.</editoraddition> Abl<expan type="">atiuo</expan> ab hoc die,
+
+Plur. Nominatiuo hi meridies,
+<editoraddition>Plur.</editoraddition> G<expan type="">enitiuo</expan> horum meridierum,
+<editoraddition>Plur.</editoraddition> Dativo his meridiebus,
+<editoraddition>Plur.</editoraddition> A<expan type="">ccusatiuo</expan> hos meridies,
+<editoraddition>Plur.</editoraddition> Vocatiuo o meridies,
+<editoraddition>Plur.</editoraddition> Abl<expan type="">atiuo</expan> ab his meridiebus</term>.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Declension of Adjectives"><alpha>The declinyng of adiectiues.</alpha>
+
+<wordentry type="h"><form lang="en">&#182;A nowne adiectiue of iii. terminatyons</form> <xpln lang="en">is thus declyned.
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan> bonus, nan n<expan type="">um</expan>,
+<editoraddition>Sing.</editoraddition> G<expan type="">enetiuo</expan> boni, n&#230;, ni.
+<editoraddition>Sing.</editoraddition> Datiuo bono, &#281;, o,,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> bon<expan type="">um</expan>, <expan type="">nam</expan>, <expan type="">num</expan>,
+<editoraddition>Sing.</editoraddition> V<expan type="">ocatiuo</expan>bone, na, n<expan type="">um</expan>,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> bono, na, no,
+
+Pl. N<expan type="">ominatiuo</expan> boni, non&#230;, bona,
+<editoraddition>Pl.</editoraddition> G<expan type="">enetiuo</expan> bonorum, ar<expan type="">um</expan>, orum,
+<editoraddition>Pl.</editoraddition> Datiuo bonis,
+<editoraddition>Pl.</editoraddition> A<expan type="">ccusatiuo</expan> bonos, bonas, bona,
+<editoraddition>Pl.</editoraddition> Vocatiuo boni, non&#230;, na,
+<editoraddition>Pl.</editoraddition> Ablatiuo bonis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;There be besides these certayn nownes adiectiues
+of an other maner of declynyng, whiche make the ge&#173;
+nitiue case syngular in <term lang="la">&#239;us</term> or <term lang="la">ius</term>, and the datyue in <term lang="la">i</term></form> <xpln lang="en">
+which be these that folowe with theyr compoundes.
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan> unus, a um,
+<editoraddition>Sing.</editoraddition> Genetiuo unius,
+<editoraddition>Sing.</editoraddition> Datiuo uni,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> un<expan type="">um</expan>, n<expan type="">am</expan>, n<expan type="">um</expan>
+<editoraddition>Sing.</editoraddition> V<expan type="">ocatiuo</expan> une, na, n<expan type="">um</expan>,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> uno, na, no,
+
+Pl. Nominatiuo uni, un#281;, una,
+<editoraddition>Pl.</editoraddition> G<expan type="">enetiuo</expan> unorum, arum, orum,
+<editoraddition>Pl.</editoraddition> Datiuo unis,
+<editoraddition>Pl.</editoraddition> Accusatiuo unos, nas, na,
+<editoraddition>Pl.</editoraddition> Vocatiuo uni, un&#230;, una,
+<editoraddition>Pl.</editoraddition> Ablatiuo unis</term>.</xpln></wordentry>
+
+&#182;In lyke maner be declyned <term lang="la">totus, solus </term>, and also
+<term lang="la">ullus, alias, alter, uter, &#38; neuter</term>, Excepte that these fyue
+laste rehersed lacke the vocatiue case.
+
+
+
+
+
+</page>
+
+<page sig="B3v">
+
+<wordentry type="h"><form lang="en">&#182;A nowne adiectiue of .iii. articles</form> <xpln lang="en">is thus declined.
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan> hic h&#230;&#38; hoc
+ felix,
+<editoraddition>Sing.</editoraddition> Genitiuo huis
+ felicis,
+<editoraddition>Sing.</editoraddition> Datiiuo huic lici,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> un hunc hanc
+ cem &#38; hoc felix,
+<editoraddition>Sing.</editoraddition> Vocatiuo o felix,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> ab hoc hac
+ hoc ce uel ci,
+
+
+Pl. Nominatiuo hi &#38; h#281; ces,
+ &#38; h&#281; cia,
+<editoraddition>Pl.</editoraddition> Genitiuo horum harum
+ &#38; horum cium.
+<editoraddition>Pl.</editoraddition> Datiuo his felicibus,
+<editoraddition>Pl.</editoraddition> A<expan type="">ccusatiuo</expan> hos &#38; has ces
+ &#38; hec cia,
+<editoraddition>Pl.</editoraddition>Vocatiuo o ces &#38; cia
+<editoraddition>Pl.</editoraddition> Ablatiuo aab his felici&#173;
+ bus
+
+Sing. N<expan type="">ominatiuo</expan> hic h#281;c tristis
+ &#38; hoc te,
+<editoraddition>Sing.</editoraddition> Genitiuo huius tri
+ stis,
+<editoraddition>Sing.</editoraddition> Datiuo huic sti
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> h<expan type="">un</expan>c h<expan type="">an</expan>c t<expan type="">em</expan>,
+ &#38; hoc te,
+<editoraddition>Sing.</editoraddition> V<expan type="">ocatiuo</expan> o stis &#38; o ste,
+<editoraddition>Sing.</editoraddition> Abl<expan type="">atiuo</expan> ab hoc hac &#38;
+ hoc tristi,
+
+
+Pl. N<expan type="">ominatiuo</expan> hi &#38; h&#230; tristes &#38;
+ hec tristia
+<editoraddition>Pl.</editoraddition> G<expan type="">enetiuo</expan> horum har<expan type="">um</expan> &#38; ho&#173;
+ rum tristium,
+<editoraddition>Pl.</editoraddition>Datiuo his tristibus,
+<editoraddition>Pl.</editoraddition>A<expan type="">ccusatiuo</expan> hos &#38; has
+ stes &#38; h.&#230;c tia,
+<editoraddition>Pl.</editoraddition> V<expan type="">ocatiuo</expan> o es &#38; o tristia,
+<editoraddition>Pl.</editoraddition> Ablatiuo ab his tristi&#173;
+ bus.</term></xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Comparisons of Nouns"><alpha>Comparisons of novvnes.</alpha>
+
+<wordentry type="h"><form lang="en">&#182;Adiectiues,</form> <xpln lang="en">whose sygnification maye encrease, or
+be diminished, receyue comparison.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;There be three degrees of comparisons.</form>
+<xpln lang="en">The positiue
+The comparatyue,
+And the Superlatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The Posityue</form> <xpln lang="en">betokeneth the thynge absolutely
+without excess as <term lang="la">duras</term>, harde.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="B4r">
+
+<wordentry type="h"><form lang="en">&#182;The comparatiue</form> <xpln lang="en">excedeth somewhat his positiue
+in signification, as <term lang="la">durior</term>, harder: And it is fourmed,
+of the firste case of his positiue, that endeth in <term lang="la">i</term>, by put<emend err="">&#173;</emend>
+tyng thereto <term lang="la">or</term>, and <term lang="la">us</term>, as of <term lang="la">duri, hic &#38; h&#230;c durior &#38;
+hoc durius</term>, of <term lang="la">Tristi, hic &#38; h&#230;c tristior, &#38; hoc tristius</term>, of
+<term lang="la">Dulci, hic &#38; h&#230;c dulcior &#38; hoc dulcius</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The superlatyue</form> <xpln lang="en">excedeth his positiue in the high&#173;
+est degree, as <term lang="la">durissimus</term>, hardest: And it is fourmed
+of the fyrst case of his positiue that endeth in <term lang="la">i</term>, by put&#173;
+tyng therto<term lang="la">s</term>, and <term lang="la">simus</term>, as <term lang="la">duri durissimus, tristi tristissi&#173;
+mus, dulci dulcissimus</term>.</xpln></wordentry>
+
+&#182;From these general rules be excepted these that fo&#173;
+lowe.
+
+<term lang="la">Bonus
+Melior
+Optimus.
+
+Malus
+Peior
+Pessimus
+
+Magnus
+Maior
+Maximus.
+
+Paruus
+Minor
+Minimus
+
+Multus plurimus
+Multa plurima
+Mult<expan type="">um</expan> plus plurim<expan type="">um</expan>um</term>
+
+&#182;And if the positiue ende in <term lang="la">r</term>, the superlatiue is for&#173;
+med of the nominatiue case, by puttynge to <term lang="la">rimus</term>, as
+<term lang="la">pulcher pulcherrimus</term>.
+
+&#182;Also these nownes endyng in <term lang="la">lis</term>, , make the superla&#173;
+tyue by chaungyng <term lang="la">is</term>, into <term lang="la">limus</term>, as <term lang="la">humilis humilli&#173;
+mus, similis simillimus, facilis facillimus, gracilis gracil&#173;
+limus, agilis agillimus, docilis docillimus</term>,
+
+&#182;All other nownes endyng in <term lang="la">lis</term>, do folwe the ge&#173;
+nerall rule afore goyng.
+
+
+
+
+
+</page>
+
+<page sig="B4v">
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Pronoun"><alpha>&#10087;Of the Pronovvne.</alpha>
+
+<wordentry type="h"><form lang="en">A Pronowne</form> <xpln lang="en">is a parte of speche, muche
+lyke a nowne, whiche is vsed in shewyng
+or rehersyng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;There be .xv.</form> <xpln lang="en">Pronownes, <term lang="la">Ego, tu, sui,
+ille, ipse, iste, hic, is meus, tuus, suus, noster,
+uester, nostras, uestras</term>.
+
+&#182;To these may be added their compoundes, as <term lang="la">ego&#173;
+met, tute, idem</term> and also <term lang="la">Qui qu&#281; quod</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;These .viii. pronownes, <term lang="la">Ego, tu, sui, ille, ipse, iste,
+hic</term>, and <term lang="la">is</term>,</form> <xpln lang="en">be primitiues, so called for bycause they be
+not deriued of other. And they be also called Demon&#173;
+stratiues, bycause they shewe a thyng not spoken of
+before.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;And these. vi. <editoraddition>pronouns</editoraddition> <term lang="la">Hic, ille, iste, is, idem,</term> and <term lang="la">qui</term></form> <xpln lang="en">be rela&#173;
+tiues, because they reherse a thyng that was spoken of
+before.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;These. vii. <editoraddition>pronouns</editoraddition><term lang="la">Meus, tuus, suus, noster, uester, nostras</term>,
+and <term lang="la">uestras</term>,</form> <xpln lang="en">be deriuatiues, for they be deriued of their
+primitiues, <term lang="la">Mei, tui, sui, nostri</term>, and <term lang="la">uestri</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;There belongeth to a pronowne,</form> <xpln lang="en">these. v. thynges,
+Number, Case, and Gender, as are in a Nowne, De&#173;
+clenson, and Person, as here foloweth.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Declension of Pronouns"><alpha>The declensons of pronovvnes.</alpha>
+
+
+<wordentry type="h"><form lang="en">&#182;There be foure declensons of pronownes.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;These. iii. <editoraddition>pronouns</editoraddition> <term lang="la">Ego, Tu, Sui,</term></form> <xpln lang="en">be of the fyrste declenson,
+and be this declyned.
+
+
+
+
+
+</page>
+
+<page sig="C1r">
+
+<term lang="la">Sin. Nominatiuo Ego,
+<editoraddition>Sin.</editoraddition> Genitiuo mei,
+<editoraddition>Sin.</editoraddition> Datiuo mihi,
+<editoraddition>Sin.</editoraddition> Accusatiuo me,
+<editoraddition>Sin.</editoraddition> Vocatiuo caret,
+<editoraddition>Sin.</editoraddition> Ablatiuo a me
+
+Plur. Nominatiuo nos,
+<editoraddition>Plur.</editoraddition> G<expan type="">enitiuo</expan> nostr<expan type="">um</expan> uel nostri,
+<editoraddition>Plur.</editoraddition> Datiuo nobis,
+<editoraddition>Plur.</editoraddition> Accusatiuo nos,
+<editoraddition>Plur.</editoraddition> Vocatiuo caret,
+<editoraddition>Plur.</editoraddition> Ablatiuo a nobis.
+
+Sing. Nominatiuo Tu,
+<editoraddition>Sing.</editoraddition> Genitiuo tui,
+<editoraddition>Sing.</editoraddition> Datiuo tibi,
+<editoraddition>Sing.</editoraddition> Accusatiuo te
+<editoraddition>Sing.</editoraddition> Vocatiuo o tu,
+<editoraddition>Sing.</editoraddition> Ablativo a te,
+
+Plu. Nominatiuo uos,
+<editoraddition>Plu.</editoraddition> G<expan type="">enitiuo</expan> uestr<expan type="">um</expan> uel uestri,
+<editoraddition>Plu.</editoraddition> Datiuo uobis,
+<editoraddition>Plu.</editoraddition> Accusatiuo uos,
+<editoraddition>Plu.</editoraddition> Vocatiuo o uos,
+<editoraddition>Plu.</editoraddition> Ablatiuo a uobis.
+
+Sing. Nominatiuo Caret,
+<editoraddition>Sing.</editoraddition> Genetiuo sui,
+<editoraddition>Sing.</editoraddition> Datiuo tibi,
+<editoraddition>Sing.</editoraddition> Accusatiuo se,
+<editoraddition>Sing.</editoraddition> Vocatiuo caret,
+<editoraddition>Sing.</editoraddition> Ablatiuo a se,
+
+Plur. Nominatiuo caret,
+<editoraddition>Plur.</editoraddition> Genitiuo sui,
+<editoraddition>Plur.</editoraddition> Datiuo sibi,
+<editoraddition>Plur.</editoraddition> Accusatiuo se,
+<editoraddition>Plur.</editoraddition> Vocatiuo caret,
+<editoraddition>Plur.</editoraddition> Ablatiuo a se</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;These, vi. <editoraddition>pronouns</editoraddition><term lang="la">Ille, ipse, iste, hic, is</term>, and <term lang="la">qui</term>,</form> <xpln lang="en">be of the .ii.
+declenson, and be thus declyned.
+
+<term lang="la">Sing. N<expan type="">ominatiuo</expan> iste ista istud,
+<editoraddition>Sing.</editoraddition> Genitiuo istius,
+<editoraddition>Sing.</editoraddition> Datiuo isti,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> ist<expan type="">um</expan> ist<expan type="">am</expan> istud,
+<editoraddition>Sing.</editoraddition> Vocatiuo caret,
+<editoraddition>Sing.</editoraddition> A<expan type="">blativo</expan> isto ista isto,
+
+Plu. N<expan type="">ominatiuo</expan> isti ist&#281; ista,
+<editoraddition>Plu.</editoraddition> G<expan type="">enitiuo</expan> istor<expan type="">um</expan> istar<expan type="">um</expan> istor<expan type="">um</expan>,
+<editoraddition>Plu.</editoraddition> Datiuo istis,
+<editoraddition>Plu.</editoraddition> A<expan type="">ccusatiuo</expan> istos istas ista,
+<editoraddition>Plu.</editoraddition> Vocatiuo caret,
+<editoraddition>Plu.</editoraddition> Ablatiuo istis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#182;Ille</form> <xpln lang="en"> is declyned lyke <term lang="la">iste</term>, and also <term lang="la">ipse</term>, excepte that
+the neuter gendre in the nomymatyue case, and in the
+accusatyue case syngular, maketh <term lang="la">ipsum</term>.
+
+&#182;<term lang="la">N<expan type="">ominatiuo</expan> hic, h&#281;, hoc, G<expan type="">enitiuo huius</expan>, as afore in the nowne</term>.
+
+
+
+
+
+</page>
+
+<page sig="C1v">
+
+<term lang="la">Sing. Nominatiuo is ea id,
+<editoraddition>Sing.</editoraddition> Genitiuo eius,
+<editoraddition>Sing.</editoraddition> Datiuo ei,
+<editoraddition>Sing.</editoraddition> A<expan type="">ccusatiuo</expan> eum eam id,
+<editoraddition>Sing.</editoraddition> Vocatiuo caret,
+<editoraddition>Sing.</editoraddition> Ablativo eo ea eo,
+
+Pl. N<expan type="">ominatiuo</expan> ii e&#281; ea,
+<editoraddition>Plu.</editoraddition> G<expan type="">enitiuo</expan> eor&#363;ear&#363; eor&#363;,
+<editoraddition>Plu.</editoraddition> Datiuo iis uel eis,
+<editoraddition>Plu.</editoraddition> A<expan type="">ccusatiuo</expan> eos eas ea,
+<editoraddition>Plu.</editoraddition> Vocatiuo caret,
+<editoraddition>Plu.</editoraddition> Ablatiuo iis uel eis.
+
+Sing N<expan type="">ominatiuo</expan> qui qu&#230; quod,
+<editoraddition>Sing</editoraddition> G<expan type="">enitiuo</expan> cuius,
+<editoraddition>Sing</editoraddition> Datiuo cui,
+<editoraddition>Sing</editoraddition> A<expan type="">ccusatiuo</expan> quem quam quod,
+<editoraddition>Sing</editoraddition> Vocatiuo caret,
+<editoraddition>Sing</editoraddition> A<expan type="">blativo</expan> quo uel qui
+	qua <editoraddition>uel qui</editoraddition>
+	quo <editoraddition>uel qui</editoraddition>,
+
+Plur. N<expan type="">ominatiuo</expan> qui qu&#281; qu&#281;,
+<editoraddition>Plur.</editoraddition> G<expan type="">enitiuo</expan> quorum quarum quorum
+<editoraddition>Plur.</editoraddition> D<expan type=""></expan>atiuo quibus uel q<damage>ueis</damage>,
+<editoraddition>Plur.</editoraddition> A<expan type="">ccusatiuo</expan> quos quas qu&#230;,
+<editoraddition>Plur.</editoraddition> Vocatiuo caret,
+<editoraddition>Plur.</editoraddition> Ablatiuo quibus uel queis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Lykewyse <term lang="la">quis</term> and <term lang="la">quid</term>,</form> <xpln lang="en">be declyned, whether they
+be interrogatiues or indefinites.
+
+&#182;Where note that <term lang="la">quid</term>, is alwayes a substantiue of
+the neuter gender.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;These .v. <editoraddition>pronouns</editoraddition><term lang="la">Meus, tuus, suus, noster</term>, and <term lang="la">uester</term>,</form> <xpln lang="en">be of
+the .iii.declenson, and be declyned as nownes adiec&#173;
+tiues of .iii. terminations, in this wyse.
+
+<term lang="la">Sin. N<expan type="">ominatiuo</expan> meus mea um,
+<editoraddition>Sin.</editoraddition> G<expan type="">enitiuo</expan> mei me&#230; mei,
+<editoraddition>Sin.</editoraddition> D<expan type="">atiuo</expan> meo me&#230; o,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo</expan> me<expan type="">um</expan> me<expan type="">am</expan> <expan type="">um</expan>,
+<editoraddition>Sin.</editoraddition> V<expan type="">ocatiuo</expan> mei m<damage></damage>ea; ummea,
+<editoraddition>Sin.</editoraddition> A<expan type="">blativo</expan> <damage>meo a u</damage>,
+
+Pl. N<expan type="">ominatiuo</expan> mei me&#230; mea,
+<editoraddition>Pl.</editoraddition> G<expan type="">enitiuo</expan> meor<expan type="">um</expan> mear<expan type="">um</expan> or<expan type="">um</expan>,
+<editoraddition>Pl.</editoraddition> Datiuo meis,
+<editoraddition>Pl.</editoraddition> A<expan type="">ccusatiuo</expan> meos meas mea,
+<editoraddition>Pl.</editoraddition> V<expan type=""></expan>ocatiuo mei me&#230; mea,
+<editoraddition>Pl.</editoraddition> Ablatiuo meis</term>.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="C2r">
+
+&#182;So is <term lang="la">noster</term>, declyned, and <term lang="la">tuus, suus, uester</term>, except
+that these thre laste, do lacke the vocatyue case.
+
+<wordentry type="h"><form lang="en">&#182;<term lang="la">Nostras uestras</term> and this nown <term lang="la">cuias</term>,</form> <xpln lang="en">be of the fourth
+declenson, and be thus declyned.
+
+<term lang="la">Sin. N<expan type="">ominatiuo</expan> hic &#38; ha&#230; no&#173;
+	stras &#38; hoc te,
+<editoraddition>Sin.</editoraddition> G<expan type="">enitiuo</expan> huius tis,
+<editoraddition>Sin.</editoraddition> Datiuo huic ti,
+<editoraddition>Sin.</editoraddition> A<expan type="">ccusatiuo</expan> h<expan type="">un</expan>c h<expan type="">an</expan>c
+	tem &#38; hoc te,
+<editoraddition>Sin.</editoraddition> V<expan type="">ocatiuo</expan> o n<expan type=""></expan>ostros &#38; o te,
+<editoraddition>Sin.</editoraddition> A<expan type="">blativo</expan> ab hoc hac &#38;
+	hoc te uel ti,
+
+Pl. N<expan type="">ominatiuo</expan> hi &#38; h&#230; nostrates,
+	&#38; h&#230;c nostratia,
+<editoraddition>Pl.</editoraddition> G<expan type="">enitiuo</expan> hor<expan type="">um</expan> ha<expan type="">um</expan> hor<expan type="">um</expan> ti<expan type="">um</expan>,
+<editoraddition>Pl.</editoraddition> Datiuo his nostratibus,
+<editoraddition>Pl.</editoraddition> A<expan type="">ccusatiuo</expan> nos &#38; has strates,
+	&#38; h&#230;c nostratia,
+<editoraddition>Pl.</editoraddition> V<expan type=""></expan>ocatiuo o tes &#38; o tia,
+<editoraddition>Pl.</editoraddition> A<expan type="">blatiuo</expan> ab his nostra&#173;
+tibus</term>,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Here is to be noted, that <term lang="la">nostras, uestras</term>, and this
+nowne <term lang="la">cuias</term>, be called <term lang="la">Gentiles</term>,</form> <xpln lang="en"> bycause they properly
+betoken perteinyng to countreys or nations, to sectes
+or factions.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A pronowne</form> <xpln lang="en">hath thre persons.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The fyrste<editoraddition>person</editoraddition></form> <xpln lang="en">speaketh of hym selffe, as <term lang="la">Ego</term>, I, <term lang="la">nos</term>, we.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The seconde person</form> <xpln lang="en">is spoken to, as <term lang="la">Tu</term>, thou, <term lang="la">uos</term>, ye.
+	And of this person is also euery vocatyue case.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The thyrd persone</form> <xpln lang="en">is spoken of, as <term lang="la">Ille</term>, he, <term lang="la">illi</term>, they.
+	And therfore all nownes, pronownes, and partici&#173;
+	ples be of the thyrde person.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Verb"><alpha>Of a Verbe.</alpha>
+
+<wordentry type="h"><form lang="en">A VERBE</form> <xpln lang="en">is a parte of speche, declyned
+with mode and tense, betokenyng to do,
+as <term lang="la">Amor</term>, I loue: to suffer, as <term lang="la">Amor</term>, I
+am loued: or to be, as <term lang="la">Sum</term>, I am.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Of verbes such as haue persons</form> <xpln lang="en">be cal&#173;
+&#38;amp
+
+
+
+
+
+</page>
+
+<page sig="C2v">
+
+led personalles, as <term lang="la">Ego amo, Tu amas</term>.</xpln></wordentry> <wordentry type="h"><form lang="en">And suche as
+haue no persons,</form> <xpln lang="en">be called impersonalles, as <term lang="la">T&#230;det</term>,
+it yrketh, <term lang="la">oporter</term>, it behoueth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Of verbes personalles</form> <xpln lang="en">there be .v. kyndes, Actyue
+Passyue, Neuter, Deponent, and Common.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A verbe actyue</form> <xpln lang="en">endeth in <term lang="la">o</term>, as <term lang="la">Amo</term>, and by put&#173;
+tyng to <term lang="la">r</term>, may be a passiue as <term lang="la">Amor</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A verbe passiue</form> <xpln lang="en">endeth in <term lang="la">or</term>, as <term lang="la">Amor</term>, and by put&#173;
+tyng away <term lang="la">r</term>, may be an actyue, as <term lang="la">Amo</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A verbe neuter</form> <xpln lang="en">endeth in <term lang="la">o</term>, or <term lang="la">m</term>, and can not take <term lang="la">r</term>
+to make hym a passiue, as <term lang="la">Curo</term> I renne, <term lang="la">Sum</term> I am.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A verbe deponent</form> <xpln lang="en">endeth in <term lang="la">r</term>, and yet in sygnifica&#173;
+tion is actyue, as <term lang="la">Loquor uerbum</term>, I speake a woorde,
+or neuter, as <term lang="la">Glorior</term>, I boste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A verbe common</form> <xpln lang="en">endeth in <term lang="la">r</term>, and in sygnification
+is bothe actiue and passiue, as <term lang="la">Osculor te</term>, I kysse the,
+<term lang="la">Osculor a te</term>, I am kyssed of the.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Modes"><alpha>Modes</alpha>
+
+
+		<wordentry type="h"><form lang="en">&#182;There be .vi. Modes.</form> <xpln lang="en">The Indicatyue,
+		the Imperatyue, the Optatyue, the Potencial, the
+		Subiunctyue, and the Infinityue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The Indycatyue mode</form> <xpln lang="en">sheweth a reason true or
+false, as <term lang="la">Ego amo</term>, I love: orels asketh a question, as
+<term lang="la">Amas tu</term>: Dooest thou loue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The Imperatyue</form> <xpln lang="en">byddeth, or commaundeth, as
+<term lang="la">Ama</term>, love thou.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The Optatyue</form> <xpln lang="en">wyssheth or desyreth, with these si&#173;
+gnes, would God, I praye God, or God graunt, as
+<term lang="la">Vtinam Amem</term>, I praye God I loue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The potencyall mode</form> <xpln lang="en">is knowen by these sygnes
+may, can, myght, would, should, or ought, as <term lang="la">amem</term>,
+I can or may loue.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="C3r">
+
+<wordentry type="h"><form lang="en">&#182;the Subiuncytue</form> <xpln lang="en">ioyneth sentences togyther, as
+<term lang="la">Cum amarem er<expan type="">am</expan>miser</term>, wh<expan type="">an</expan>I loued I was a wretch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The Infinityue</form> <xpln lang="en">signifieth dooyng, sufferyng, or
+beyng, and hath neyther numbre, nor person,  nor no&#173;
+minatiue case before hym, and is knowen commonly
+by this sygne to, as <term lang="la">Amare</term>, to loue. Also whan twoo
+verbes, come togyther without any nomynatyue case
+betwene theym, then the later shall be the Infinitiue
+mode, as <term lang="la">Cupio discere</term>, I desyre to lerne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;There be moreouer belongynge to the infinityue
+mode of verbes certayne voyces, called gerundes</form> <xpln lang="en">en&#173;
+dyng in <term lang="la">di, do</term>, and <term lang="la">dum</term>, and haue bothe the actiue and
+passiue signification, as <term lang="la">amandi</term>, of louing, or of being
+loued, <term lang="la">amando</term>, in louyng or in being loued, <term lang="la">amandum</term>,
+to loue or to be loued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;There be also perteynyng vnto verbes two Supi<emend err="">&#173;</emend>
+nes, the one endyng in <term lang="la">tum</term>, whiche is called the firste
+Supine</form> <xpln lang="en">because it hath the signification of the verbe
+actyue, as <term lang="la">Eo amatum</term>, I goo to loue.</xpln></wordentry> <wordentry type="h"><form lang="en">And the other in
+<term lang="la">tu</term>, whiche is called the later supine</form> <xpln lang="en">because it hath for
+the moste parte the sygnification passiue, as <term lang="la">Difficilis
+amatu</term>, Harde to be loued.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Tense"><alpha>Tenses.</alpha>
+
+
+		<wordentry type="h"><form lang="en">&#182;There be. v. Tenses or tymes.</form> <xpln lang="en"> The presente
+		tense, the preterpluperfect tense, the preterperfect,
+		the preterplusperfect, and the future tense.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The present tense</form> <xpln lang="en">speaketh of the tyme that now is
+as <term lang="la">Amo</term>, I loue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The preterimperfecte tense</form> <xpln lang="en">speaketh of the tyme
+not perfectly paste, as <term lang="la">Amabam</term>, I loued or dyd loue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The preterperfect tense</form> <xpln lang="en">speketh of the time perfect
+
+
+
+
+
+</page>
+
+<page sig="C3v">
+
+ly past, with this signe haue, as <term lang="la">Amaui</term>, I haue loued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The preterplusperfecte tense</form> <xpln lang="en">speketh of the tyme
+more than perfectly past, with this sygne hadde, as
+<term lang="la">Amaueram</term>, I had loued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The future tense</form> <xpln lang="en">speketh of the tyme to come with
+this signe, shall or wyll, as <term lang="la">Amabo</term>, I shall or wyl loue.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Persons"><alpha>Persons</alpha>
+
+<wordentry type="h"><form lang="en">&#182;There be also in verbes .iii. persons,</form> <xpln lang="en">in bothe num&#173;
+bres, as <term lang="la">Sing. Ego amo</term> I loue, <term lang="la">tu amas</term> thou louest, <term lang="la">ille
+amat</term> he loueth. <term lang="la">Plur. Nos amamus</term> we loue, <term lang="la"> uos amatis</term>
+ye loue, <term lang="la">illi amant</term>they loue.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="Conjugations"><alpha>Coniugations.</alpha>
+
+<wordentry type="h"><form lang="en">&#182;Verbes</form> <xpln lang="en">haue .iiii. Coniugations, whiche be kno&#173;
+wen after this maner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The fyrste coniugation</form> <xpln lang="en">hath <term lang="la">a</term>, long before <term lang="la">re</term>, and
+<term lang="la">ris</term>, as <term lang="la">Amare, amaris</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The seconde coniugation</form> <xpln lang="en">hath <term lang="la">e</term>, longe before <term lang="la">re</term>,
+and <term lang="la">ris</term>, as <term lang="la">Docere, Doceris</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The third coniugation</form> <xpln lang="en">hath <term lang="la">e</term>, shorte before <term lang="la">re</term>, and
+<term lang="la">ris</term>, as <term lang="la">Legere, legeris</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;The fourth coniugation</form> <xpln lang="en">hath <term lang="la">i</term>, long before <term lang="la">re</term>, and
+<term lang="la">ris</term>, as <term lang="la">Audire, audiris</term>.</xpln></wordentry>
+
+		<wordentry type="h"><form lang="en">&#182;Verbes in <term lang="la">o</term>, of the fower Coniugations,</form> <xpln lang="en">be
+		declyned after these exaumples.
+
+<subform lang="la">&#182;Amo, as, amaui, amare, amandi, do, dum, amatum, tu,
+amans,amaturus,</subform> <subxpln lang="en">to loue.</subxpln>
+
+<subform lang="la">&#182;<term lang="la">Doceo, doces, docui, cere, docendi, do, dum, doctum,
+doctu, docens, docturus</term></subform> <subxpln lang="en">, to teache.</subxpln>
+
+<subform lang="la">&#182;<term lang="la">Lego, legis, legi, gere, legendi, do, dum, lectum, lectu,
+legens, lecturus</term></subform> <subxpln lang="en">, to reade.</subxpln>
+
+<subform lang="la">&#182;<term lang="la">Audio, audis, audiui, audire, audiendi, do, dum, audi&#173;
+tum, auditu, audiens, auditurus</term></subform> <subxpln lang="en">, to here.</subxpln></xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="C4r">
+
+<wordentry type="h"><form lang="en">Indicatiue mode the present t<expan type="">ense</expan> singular.</form> <xpln lang="en">
+
+		<subform lang="en">I love,</subform> <subxpln lang="la">Amo Doceo Lego Audio</subxpln>
+
+		<subform lang="en">thou louest.</subform> <subxpln lang="la">as, es, is, is,</subxpln>
+
+		<subform lang="en">he loueth.</subform> <subxpln lang="la">at, et, it, it,</subxpln>
+
+		Pl.<subform lang="en">we loue,</subform> <subxpln lang="la">amam<expan type="">us</expan>	docem<expan type="">us</expan> legimus audimus</subxpln>
+
+		<editoraddition>Pl.</editoraddition><subform lang="en">ye loue,</subform> <subxpln lang="la">atis, etis, itis,	itis,</subxpln>
+
+		<editoraddition>Pl.</editoraddition><subform lang="en">they loue,</subform> <subxpln lang="la">itis, cent, gunt, diunt,</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterimperfecte tense singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amabam 	bas, bat. Plur. bamus, batis, bant.</subform> <subxpln lang="en">I loued or dyd loue.</subxpln>
+		<subform lang="la">Docebam <editoraddition>bas, bat. Plur. bamus, batis, bant.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legebam <editoraddition>bas, bat. Plur. bamus, batis, bant.</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiebam <editoraddition>bas, bat. Plur. bamus, batis, bant.</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterperfectetense sing.</form> <xpln lang="en">
+
+		<subform lang="la">Amaui isti,it. Plu. imus, istis, erunt uel ere.</subform> <subxpln lang="en">I haue loued.</subxpln>
+		<subform lang="la">Docui <editoraddition>isti,	it. Plu. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legi <editoraddition>isti,	it. Plu. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiui <editoraddition>isti, it. Plu. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterpluperfecte tense. Syngular.</form> <xpln lang="en">
+
+		<subform lang="la">Amaueram ras, rat. Plu. ramus, ratis, rant.</subform> <subxpln lang="en">I had loued.</subxpln>
+		<subform lang="la">Docueram <editoraddition>ras, rat. Plu. ramus, ratis, rant.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legeram <editoraddition>ras, rat. Plu. ramus, ratis, rant.</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Adiueram <editoraddition>ras, rat. Plu. ramus, ratis, rant.</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The future tense syng.</form> <xpln lang="en">
+
+		<subform lang="la">Amabo bis, bit. Plur. bimus, bitis, bunt.</subform> <subxpln lang="en">I shall or wyll loue.</subxpln>
+		<subform lang="la">Docebo <editoraddition>bis, bit. Plur. bimus, bitis, bunt.</editoraddition></subform> <subxpln lang="en">teache.</subxpln>
+		<subform lang="la">Legam es, et. Plur. emus, etis, ent.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Adiam <editoraddition>es, et. Plu. emus, etis, ent.</editoraddition></subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Imperatiue mode the presente tense sing.</form> <xpln lang="en">
+
+		<subform lang="en">Love thou.</subform> <subxpln lang="la">Ama Amato</subxpln>
+
+		<subform lang="en">Loue he, or	let hym loue,</subform> <subxpln lang="la">amet amato</subxpln>
+
+		<subform lang="en">Love we, or let vs loue.</subform> <subxpln lang="la">amemus <editoraddition>amemus</editoraddition></subxpln>
+
+		<subform lang="en">Loue ye</subform> <subxpln lang="la">amate amatote</subxpln>
+
+		<subform lang="en">Love they or let them loue.</subform> <subxpln lang="la">ament amanto</subxpln>
+
+		<subform lang="en">Love thou.</subform> <subxpln lang="la">Doce Doceto</subxpln>
+
+		<subform lang="en">Teache he or let hym teach,</subform> <subxpln lang="la">doceat doceto</subxpln>
+
+		<subform lang="en">Teache we, or let vs teache</subform> <subxpln lang="la">doceamus <editoraddition>doceamus</editoraddition></subxpln>
+
+		<subform lang="en">Teache ye	</subform> <subxpln lang="la">docete docetote</subxpln>
+
+		<subform lang="en">Teache they, or let them teache.</subform> <subxpln lang="la"> </subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">Lege Legito</subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">legat, legito</subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">Plura. legamus <editoraddition>legamus</editoraddition></subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">legite, legitote,</subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">legant legunto</subxpln>
+
+
+
+
+</page>
+
+<page sig="C4v">
+
+		<subform lang="en"></subform> <subxpln lang="la">Audi Audito</subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">audiat audito</subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">Plura. audiamus <editoraddition>audiamus</editoraddition></subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">audite auditote</subxpln>
+
+		<subform lang="en"></subform> <subxpln lang="la">audiant audiunto</subxpln></xpln>
+  																	
+<lemenote>
+
+Page C.iv. verso to D.i. recto are missing from this document. Therefore, what is entered below is taken from the verson EEBO STC 59:06, image 13 / 38.
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+						
+</wordentry>
+
+<wordentry type="h"><form lang="en">Optatyue mode the present tens singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amem, es, et. Plur, utinam, amemus, ametis, ament.</subform> <subxpln lang="en">God graunt I loue.</subxpln>
+
+		<subform lang="la">Doceam as, at.	Plur. utinam, amus, atis, ant.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legam <editoraddition>as, at.	Plur. utinam, amus, atis, ant.</editoraddition></subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiam <editoraddition>as, at.	Plur. utinam, amus, atis, ant.</editoraddition></subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimperfectens sing. <term lang="la">vtin</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amarem res, ret. Plur. utinam remus, retis, rent.</subform> <subxpln lang="en">would god I loued.</subxpln>
+		<subform lang="la">Docerem	<editoraddition>res, ret. Plur. utinam remus, retis, rent.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legerem	<editoraddition>res, ret. Plur. utinam remus, retis, rent.</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audirem	<editoraddition>res, ret. Plur. utinam remus, retis, rent.</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterper<damage>fecte</damage> tense. singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amauerim ris, rit. Plu. utinam rimus, ritis, rint.</subform> <subxpln lang="en">I praye god I haue loued.</subxpln>
+		<subform lang="la">Docuerim<editoraddition>ris, rit. Plu. utinam rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legerim<editoraddition>ris, rit. Plu. utinam rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiuerem<editoraddition>ris, rit. Plu. utinam rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en">h<emend err="">e</emend>arde.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><damage>Prete</damage>rplu<damage>perfect</damage> tense. singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amauissem	ses, set. Pluraliter utinam semus, setis, sent.</subform> <subxpln lang="en">would god I had loued.</subxpln>
+		<subform lang="la">Docuissem	<editoraddition>ses, set. Pluraliter utinam semus, setis, sent.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legi<damage>ss</damage>em	<editoraddition>ses, set. Pluraliter utinam semus, setis, sent.</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiuissem <editoraddition>ses, set. Pluraliter utinam semus, setis, sent.</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><damage>Future</damage> t<expan type="">en</expan>s Singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amauero ris, rit. Plur. utin, rimus, ritis, rin<damage></damage>t.</subform> <subxpln lang="en">God graunt I loue hereafter.</subxpln>
+		<subform lang="la">Docuero <editoraddition>ris, rit. Plur. utin, rimus, ritis, rin<damage></damage>t.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legero <editoraddition>ris, rit. Plur. utin, rimus, ritis, rin<damage></damage>t.</editoraddition></subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiuero <editoraddition>ris, rit. Plur. utin, rimus, ritis, rin<damage></damage>t.</editoraddition></subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><damage>Potential</damage> mode present t<expan type="">en</expan>s. Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amem ames, amet. Plur. amemus, ametis, ament.</subform> <subxpln lang="en">I may or can loue.</subxpln>
+		<subform lang="la">Doceam as at. Plu. amus, atis, ant.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legam <editoraddition>as at. Plu. amus, atis, ant</editoraddition>.</subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiam <editoraddition>as at. Plu. amus, atis, ant</editoraddition>.</subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="D1r">
+
+<wordentry type="h"><form lang="en">Preterimperfect t<expan type="">en</expan>s Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amarem res, ret. Plur. remus, retis rent.</subform> <subxpln lang="en">I myght or coulde loue.</subxpln>
+		<subform lang="la">Docerem <editoraddition>res, ret. Plur. remus, retis rent.</editoraddition>.</subform> <subxpln lang="en">teache.</subxpln>
+		<subform lang="la">Legerem <editoraddition>res, ret. Plur. remus, retis rent.</editoraddition>.</subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audirem <editoraddition>res, ret. Plur. remus, retis rent.</editoraddition>.</subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amauerim ris, rit. Plur. rimus, ritis, rint.</subform> <subxpln lang="en">I myght, should or ought to haue loued.</subxpln>
+		<subform lang="la">Docuerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition>.</subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiuerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfecttens Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amauissem ses, set. Plur. semus, setis, sent.</subform> <subxpln lang="en">I myght, should or ought to had loued.</subxpln>
+		<subform lang="la">Docuissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">audiuissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s singu.</form> <xpln lang="en">
+
+		<subform lang="la">Amauero ris, rit. Plu rimus, ritis, rint.</subform> <subxpln lang="en">I may or can loue hereafter.</subxpln>
+		<subform lang="la">Docuero <editoraddition>ris, rit. Plu rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en">teache.</subxpln>
+		<subform lang="la">Legero <editoraddition>ris, rit. Plu rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiuero <editoraddition>ris, rit. Plu rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">C<expan type="">on</expan>i<expan type="">un</expan>ctyue mode pres. singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amem, es et. Plur. amemus, ametis, ament.</subform> <subxpln lang="en">When I loue.</subxpln>
+		<subform lang="la">Doceam as at. Plur, amus, atis, ant.</subform> <subxpln lang="en">teache.</subxpln>
+		<subform lang="la">Legam <editoraddition>as at. Plur, amus, atis, ant.</editoraddition></subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiam <editoraddition>as at. Plur, amus, atis, ant.</editoraddition></subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimperfecte t<expan type="">en</expan>s singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amarem res, ret. Plur. remus, retis, rent.</subform> <subxpln lang="en">Whan I loued or dyd loue.</subxpln>
+		<subform lang="la">Docerem <editoraddition>res, ret. Plur. remus, retis, rent.</editoraddition></subform> <subxpln lang="en">taught or dyd teache.</subxpln>
+		<subform lang="la">Legerem <editoraddition>res, ret. Plur. remus, retis, rent.</editoraddition></subform> <subxpln lang="en">reade or dyd reade.</subxpln>
+		<subform lang="la">Audirem <editoraddition>res, ret. Plur. remus, retis, rent.</editoraddition></subform> <subxpln lang="en">heard or dyd heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amauerim ris, rit. Plur. rimus, ritis, rint.</subform> <subxpln lang="en">Whan I haue loued.</subxpln>
+		<subform lang="la">Docuerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiuerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfect t<expan type="">en</expan>s singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amauissem ses, set. Plur. semus, setis, sent</subform> <subxpln lang="en">Whan I had loued.</subxpln>
+		<subform lang="la">Docuissem <editoraddition>ses, set. Plur. semus, setis, sent</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legissem <editoraddition>ses, set. Plur. semus, setis, sent</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiuissem <editoraddition>ses, set. Plur. semus, setis, sent</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+
+
+<lemepagenote>
+
+From here continues from version EEBO STC 1845.1a.
+
+</lemepagenote>
+
+
+
+</page>
+
+<page sig="D1v">
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amauero ris, rit.	Plur 	rimus, ritis, rint.</subform> <subxpln lang="en">Whan I shall or wyll loue.</subxpln>
+		<subform lang="la">Docuero <editoraddition>ris, rit.	Plur 	rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en">teache.</subxpln>
+		<subform lang="la">Legero <editoraddition>ris, rit.	Plur 	rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audiuero <editoraddition>ris, rit.	Plur 	rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en">heare. </subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Infinitiue mode pres. &#38; perterimperfect t<expan type="">ens</expan></form> <xpln lang="en">
+
+		<subform lang="la">Amare</subform> <subxpln lang="en">to loue.</subxpln>
+		<subform lang="la">Docere</subform> <subxpln lang="en">teache.</subxpln>
+		<subform lang="la">Legere</subform> <subxpln lang="en">reade.</subxpln>
+		<subform lang="la">Audire</subform> <subxpln lang="en">heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte &#38; preterpluperfecte tense.</form> <xpln lang="en">
+
+		<subform lang="la">Amauisse</subform> <subxpln lang="en">To haue or had loued.</subxpln>
+		<subform lang="la">Docuisse</subform> <subxpln lang="en">to hav or had taught.</subxpln>
+		<subform lang="la">Legisse</subform> <subxpln lang="en">to have or had read.</subxpln>
+		<subform lang="la">Audiuisse</subform> <subxpln lang="en">to have or had heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">future t<expan type="">en</expan>s</form> <xpln lang="en">
+
+		<subform lang="la">Amaturum esse</subform> <subxpln lang="en">To loue hereafter.</subxpln>
+		<subform lang="la">Docturum esse</subform> <subxpln lang="en">to teache hereafter.</subxpln>
+		<subform lang="la">Lecturum esse</subform> <subxpln lang="en">to reade hereafter.</subxpln>
+		<subform lang="la">Auditurum esse</subform> <subxpln lang="en">to heare in tyme to come.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gerundes.</form> <xpln lang="en">
+
+		<subform lang="la">Amandi</subform> <subxpln lang="en">of louyng. <term lang="la"><expan type="">Amando</expan></term> in louyng	<term lang="la"><expan type="">Amandum</expan></term> to loue.</subxpln>
+		<subform lang="la">Docendi</subform> <subxpln lang="en">of teaching <term lang="la"><expan type="">Docendo</expan></term> in teachyng <term lang="la"><expan type="">Docendum</expan></term> to teache.</subxpln>
+		<subform lang="la">Legendi</subform> <subxpln lang="en">of readyng <term lang="la"><expan type="">Legendo</expan></term> in readyng <term lang="la"><expan type="">Legendum</expan></term> to reade.</subxpln>
+		<subform lang="la">Audiendi</subform> <subxpln lang="en">of hearyng <term lang="la"><expan type="">Audiendo</expan></term> in hearyng <term lang="la"><expan type="">Auiendum</expan></term> to heare.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Supines.</form> <xpln lang="en">
+
+		<subform lang="la"></subform> <subxpln lang="en">To loue.</subxpln>							<subform lang="la">Amatu</subform> <subxpln lang="en">To be loued.</subxpln>
+		<subform lang="la">Doctum</subform> <subxpln lang="en">to teache.</subxpln>			<subform lang="la">Doctu</subform> <subxpln lang="en">to be taught.</subxpln>
+		<subform lang="la">Lectum</subform> <subxpln lang="en">to reade.</subxpln>				<subform lang="la">Lectu</subform> <subxpln lang="en">to be read.</subxpln>
+		<subform lang="la">Amatum</subform> <subxpln lang="en">to heare.</subxpln>				<subform lang="la">Auditu</subform> <subxpln lang="en">to be heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Participle present.</form> <xpln lang="en">
+
+		<subform lang="la">Amans</subform> <subxpln lang="en">Louyng.</subxpln>
+		<subform lang="la">Docens</subform> <subxpln lang="en">Teachyng.</subxpln>
+		<subform lang="la">Legens</subform> <subxpln lang="en">Readyng.</subxpln>
+		<subform lang="la">Audiens</subform> <subxpln lang="en">Hearyng.</subxpln></xpln></wordentry>
+
+		
+
+		
+
+</page>
+
+<page sig="D2r">
+
+<wordentry type="h"><form lang="en">Participle future.</form> <xpln lang="en">
+
+		<subform lang="la">Amaturus</subform> <subxpln lang="en">To loue or about to loue.</subxpln>
+		<subform lang="la">Docturus</subform> <subxpln lang="en">to teache or about to teache.</subxpln>
+		<subform lang="la">Lecturus</subform> <subxpln lang="en">to reade or about to reade.</subxpln>
+		<subform lang="la">Auditurus</subform> <subxpln lang="en">to heare or about to heard.</subxpln></xpln></wordentry>
+
+<heading>&#182;Here before we declyne any verbes in <term lang="la">or</term>, for sup&#173;
+plyeing of many tenses, lackynge in all suche
+verbes, we muste lerne to declyne this
+verbe <term lang="la">Sum</term>, in this wyse.</heading>
+
+<heading><term lang="la">SVM, es, fui, esse, futurus.</term></heading>
+
+<wordentry type="h"><form lang="en">Indicatiue mode present tense. Singular.</form> <xpln lang="en">
+
+			<term lang="la">Sum</term> I am, <term lang="la">es, est. Plur. sumus, estis, sunt,</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimpf. sin.</form> <xpln lang="en">
+
+			<term lang="la">Eram</term>, I was, <term lang="la">eras, erat. Plur. eramus, eratis, erant</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense</form> <xpln lang="en">
+
+			<term lang="la">Fui</term>, I have been, <term lang="la">fuisti, fuit. Plur. fuimus, fuistis, fue&#173;
+			runt uel fuere.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfecttens Singular</form> <xpln lang="en">
+
+			<term lang="la">Fueram</term>, I had ben, <term lang="la">fueras, fuerat. Plur. fueramus,
+			fueratis, fuerant</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Futurete<expan type="">n</expan>s singu.</form> <xpln lang="en">
+
+			<term lang="la">Ero</term>. I shall or wyll be, <term lang="la">eris, erit. Plural. erimus, er&#173;
+			tis, erunt</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Imperatiue mode present t<expan type="">en</expan>s Singular.</form> <xpln lang="en">
+
+  					 				<term lang="la">Sis</term>		be thou							<term lang="la">Plur. Simus					sitis					sint
+  																	Es						sit																											este					sunto.
+  																	Esto					esto																										estote</term></xpln>
+  																	
+<lemenote>
+
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+						
+</wordentry>
+
+<wordentry type="h"><form lang="en">Optatyue mode pres. singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+			<term lang="la">Sim</term>, I pray god I be, <term lang="la">sis, sit. Plur, simus, sitis, sint</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimpf. sin. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+			<term lang="la">Essem</term>, I would god I were, <term lang="la">esses, esset. Plur. essemus,
+			essetis, essent</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense sing. <term lang="la">vtin</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuerim</term>, I pray god I haue ben, <term lang="la">ris, rit. Plur. fuerimus,
+			fueritis, fuerint</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfecte t<expan type="">en</expan>s Sing. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuissem</term>, Wolde god I had bene, <term lang="la">fuisses, ses, set. Plur. fuis<emend err="">&#173;</emend>semus, fuissetis, fuissent</term>.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="D2v">
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s sing. <term lang="la">vtin</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuero</term>, God graunt I be hereafter, <term lang="la">fueris, fuerit. Plur
+			fuerimus, fueritis, fuerint</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Potential mode present t<expan type="">en</expan>s sin</form> <xpln lang="en">
+
+			<term lang="la">Sim</term>, I may or can be, <term lang="la">sis sit. Plu. simus, sitis sint</term>,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimperfectt<expan type="">en</expan>s. Singular.</form> <xpln lang="en">
+
+			<term lang="la">Essem</term>, I myght or coulde be, <term lang="la"> esses, esset. Plur. essemus,
+			essitis, essent.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense. singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuerim</term>, I myght shulde or ought to haue ben, <term lang="la">fueris,
+			fuerit. Plur. fuerimus, fueritis, fuerint.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterplu<expan type="">per</expan>fect tense. sing. <term lang="la">vtin</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuissem</term>, I myght shude or ought to had bene, <term lang="la">fuisses,
+			fuisset. Plu. fuissemus, fuissetis, fuissent</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Future t<expan type="">en</expan>s sing. <term lang="la">vtin</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuero</term>, I maye be hereafter, <term lang="la">fueris, fuerit. Plura. fueri&#173;
+			mus, fueritis, fuerint.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Coni<expan type="">un</expan>ctiuemode pres. sing. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+			<term lang="la">Sim</term>, Whan I am, <term lang="la"> sis sit, Plural, simus, sitis, sint.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimpf. sin. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+			<term lang="la">Essem</term>, Whan I was, <term lang="la">ses, set.  Plur. semus, setis, sent.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense. singu. <term lang="la">cum</term></form> <xpln lang="en">
+
+			<term lang="la">Fuerim</term>, Whan I haue ben, <term lang="la"> fueris, fuerit. Plur. fuerimus. fueritis, fuerint</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterplu<expan type="">per</expan>fecte tense singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+		
+			<term lang="la">Fuissem</term>, Whan I had bene, <term lang="la">fuisses, fuisset. Plura. fuisse&#173;
+			mus, fuissetis, fuissent</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Future t<expan type="">en</expan>s singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+			<term lang="la">Fuero</term>, Whan I shall or wyll be, <term lang="la">fueris, fuerit, Plurali.
+			fuerimus, fueritis, fuerint.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Infinitiue mode pres<expan type="">en</expan>t &#38; imperfect tense.</form> <xpln lang="en">
+
+			<term lang="la">Esse</term>, to be.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preter<expan type="">per</expan>fect &#38; <expan type="">pre</expan>terpluperfect.</form> <xpln lang="en">
+
+			<term lang="la">Fuisse</term>. to haue or had ben.</xpln>
+																				
+<lemenote>
+
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+
+</wordentry>
+
+<wordentry type="h"><form lang="en">future tense,</form> <xpln lang="en">
+
+		 <term lang="la">Fore uel futurum esse</term>, to be hereafter</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="D3r">
+
+		<wordentry type="h"><form lang="en">&#10087;Verbes in <term lang="la">or</term> of the foure coniugations</form> <xpln lang="en">be
+		declyned after these examples.
+
+<subform lang="la">Amor, aris uel are, amatus sum uel fui, amari, amatus, am<expan type="">an</expan>dus.</subform> <subxpln lang="en"></subxpln>
+<subform lang="la">Doceor, ris uel cere, doctus s<expan type="">um</expan> uel fui, doceri, doctus, doc<expan type="">en</expan>dus.</subform> <subxpln lang="en"></subxpln>
+<subform lang="la">Legor, geris uel gere, lectus sum uel fui, legi, lectus, legendus.</subform> <subxpln lang="en"></subxpln>
+<subform lang="la">Audior, ditis uel ire, auditus s<expan type="">um</expan> uel fui, audiri, ditus, audi<expan type="">en</expan>dus.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Indicatiue mode present tense. singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amor aris, uel are, atur, Plu. mur, mini, tur.</subform> <subxpln lang="en">I am loued.</subxpln>
+		<subform lang="la">Doceor, eris, uel ere, etur. <editoraddition>Plu. mur, mini, tur</editoraddition>.</subform> <subxpln lang="en">I am taught.</subxpln>
+		<subform lang="la">Legor, eris, uel ere, itur, <editoraddition>Plu. mur, mini, tur</editoraddition>.</subform> <subxpln lang="en">I am read.</subxpln>
+		<subform lang="la">Audior, iris, uel ire, itur. <editoraddition>Plu. mur, mini, tur</editoraddition>.</subform> <subxpln lang="en">I am heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterimperfecte tense. singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amabar baris, uel bare, batur. Plu. bamur, mini, tur.</subform> <subxpln lang="en">I was loued.</subxpln>
+		<subform lang="la">Docebar <editoraddition>baris, uel bare, batur. Plu. bamur, mini, tur</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legebar <editoraddition>baris, uel bare, batur. Plu. bamur, mini, tur</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audibar <editoraddition>baris, uel bare, batur. Plu. bamur, mini, tur</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterperfecte tense sing.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus sum uel rui, tus es uel fuisti, tus est uel fuit. Plur. ti sumus uel imus, ti estis uel istis, ti s<expan type="">un</expan>t fuerunt uel fuere.</subform> <subxpln lang="en">I have ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>sum uel rui, tus es uel fuisti, tus est uel fuit. Plur. ti sumus uel imus, ti estis uel istis, ti s<expan type="">un</expan>t fuerunt uel fuere</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Lectus <editoraddition>sum uel rui, tus es uel fuisti, tus est uel fuit. Plur. ti sumus uel imus, ti estis uel istis, ti s<expan type="">un</expan>t fuerunt uel fuere</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Auditus <editoraddition>sum uel rui, tus es uel fuisti, tus est uel fuit. Plur. ti sumus uel imus, ti estis uel istis, ti s<expan type="">un</expan>t fuerunt uel fuere</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterpluperfecte tense. Syngular.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus	eram uel fueram, tus eras <expan type="">uel</expan>fueras, t<expan type="">us</expan>erat uel fuerat. Plu. ti eramus uel fueramus, ti eratis <expan type="">uel</expan>fueratis, ti er<expan type="">an</expan>t <expan type="">uel</expan> fuerant</subform> <subxpln lang="en">I had ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>eram uel fueram, tus eras <expan type="">uel</expan>fueras, <expan type="">tus</expan>erat uel fuerat. Plu. ti eramus uel fueramus, ti eratis <expan type="">uel</expan>fueratis, ti er<expan type="">an</expan>t <expan type="">uel</expan> fuerant</editoraddition></subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Lectus <editoraddition>eram uel fueram, tus eras <expan type="">uel</expan>fueras, <expan type="">tus</expan>erat uel fuerat. Plu. ti eramus uel fueramus, ti eratis <expan type="">uel</expan>fueratis, ti er<expan type="">an</expan>t <expan type="">uel</expan> fuerant</editoraddition></subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">>Auditus <editoraddition>eram uel fueram, tus eras <expan type="">uel</expan>fueras, <expan type="">tus</expan>erat uel fuerat. Plu. ti eramus uel fueramus, ti eratis <expan type="">uel</expan>fueratis, ti er<expan type="">an</expan>t <expan type="">uel</expan> fuerant</editoraddition></subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The future tense. syng.</form> <xpln lang="en">
+
+		<subform lang="la">Amabor	beris uel ere, bitur, bimur, bimini, buntur.</subform> <subxpln lang="en">I shall or wyll be loued.</subxpln>
+		<subform lang="la">Docebor	<editoraddition>beris uel ere, bitur, bimur, bimini, buntur</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Legar	eris uel ere, etur. Plur. emur, emini, entur.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiar <editoraddition>eris uel ere, etur. Plur. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="D3v">
+
+<wordentry type="h"><form lang="en">Imperatyue mode present t<expan type="">en</expan>s Singular.</form> <xpln lang="en">
+
+		<subform lang="en">Be thou loued.</subform> <subxpln lang="la">Amare Amator Docere	Docetor	Legere	Legitor	Audire	Auditor</subxpln>
+
+		<subform lang="en">let hym be loued.</subform> <subxpln lang="la">ametur	amator Doceatur Docetor	legatur	legitor	audiatur auditor</subxpln>
+
+		<subform lang="en">let vs be loued.</subform> <subxpln lang="la">Plu. emur <editoraddition>Plu. emur</editoraddition> amur, <editoraddition>Plur. amur</editoraddition> amur, <editoraddition>Plur. amur</editoraddition> iamur, <editoraddition>Plur. iamur</editoraddition></subxpln>
+
+		<subform lang="en">be ye loued.</subform> <subxpln lang="la">amini	aminor	cemini	minor	gemini	minor	imini	iminor</subxpln>
+
+		<subform lang="en">let them be loued.</subform> <subxpln lang="la">entur	antor	ceantur	centor gantur guntor antur untor</subxpln></xpln>
+		 																	
+<lemenote>
+
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+
+</wordentry>
+
+<wordentry type="h"><form lang="en">Optatyue mode the present t<expan type="">en</expan>s singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amer, eris uel ere, etur. Plur. emur, emini, entur</subform> <subxpln lang="en">.God graunt I be loued.</subxpln>
+		<subform lang="la">Docear aris, are, atur. Plu amur, amini, antur</subform> <subxpln lang="en">.taught.</subxpln>
+		<subform lang="la">Legar <editoraddition>aris, are, atur. Plu amur, amini, antur</editoraddition></subform> <subxpln lang="en">.read.</subxpln>
+		<subform lang="la">Audiar <editoraddition>aris, are, atur. Plu amur, amini, antur</editoraddition></subform> <subxpln lang="en">.heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Perterimperfectens Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amarer	eris uel ere, etur. Plu. remur, remini, rentur</subform> <subxpln lang="en">.Wolde god I were loued.</subxpln>
+		<subform lang="la">Docerer <editoraddition>eris uel ere, etur. Plu. remur, remini, rentur</editoraddition></subform> <subxpln lang="en">.taught.</subxpln>
+		<subform lang="la">Legerer <editoraddition>eris uel ere, etur. Plu. remur, remini, rentur</editoraddition></subform> <subxpln lang="en">.read.</subxpln>
+		<subform lang="la">Audirer <editoraddition>eris uel ere, etur. Plu. remur, remini, rentur</editoraddition></subform> <subxpln lang="en">.heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense. Singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus sim uel fuerim, sis uel fueris, tus sit uel fuerit. Plurali. ti simus uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</subform> <subxpln lang="en">.wolde god I haue ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>sim uel fuerim, sis uel fueris, tus sit uel fuerit. Plurali. ti simus uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition></subform> <subxpln lang="en">.</subxpln>
+		<subform lang="la">Lectus <editoraddition>sim uel fuerim, sis uel fueris, tus sit uel fuerit. Plurali. ti simus uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition></subform> <subxpln lang="en">.</subxpln>
+		<subform lang="la">Auditus <editoraddition>sim uel fuerim, sis uel fueris, tus sit uel fuerit. Plurali. ti simus uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition></subform> <subxpln lang="en">.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterplu<expan type="">per</expan>fect tense. sing. <term lang="la">vtin</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus essem uel fuissem, tus esses <expan type="">uel</expan> fuisses, tus esset uel fuisset. Pl. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</subform> <subxpln lang="en">.wolde god I had ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition></editoraddition>essem uel fuissem, tus esses <expan type="">uel</expan> fuisses, tus esset uel fuisset. Pl. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</subform> <subxpln lang="en">.</subxpln>
+		<subform lang="la">Lectus <editoraddition></editoraddition>essem uel fuissem, tus esses <expan type="">uel</expan> fuisses, tus esset uel fuisset. Pl. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</subform> <subxpln lang="en">.</subxpln>
+		<subform lang="la">Auditus <editoraddition></editoraddition>essem uel fuissem, tus esses <expan type="">uel</expan> fuisses, tus esset uel fuisset. Pl. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</subform> <subxpln lang="en">.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Future t<expan type="">en</expan>s singu. <term lang="la">vti</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</subform> <subxpln lang="en">God graunt I be loued hereafter.</subxpln>
+		<subform lang="la">Doctus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+		
+
+		
+
+</page>
+
+<page sig="D4r">
+
+<wordentry type="h"><form lang="en">Potentiall mode present f<expan type="">en</expan>s sin</form> <xpln lang="en">
+
+		<subform lang="la">Amer, eris uel ere, etur. Plu. emur, emini, entur.	</subform> <subxpln lang="en">I may or can be <emend err="">l</emend>o<emend err=" "></emend>ued.</subxpln>
+		<subform lang="la">Docear	aris, uel are, atur. Pl. amur, amini, anttur.	</subform> <subxpln lang="en">taught</subxpln>
+		<subform lang="la">Legar <editoraddition>aris, uel are, atur. Pl. amur, amini, anttur</editoraddition>.	</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Audiar <editoraddition>aris, uel are, atur. Pl. amur, amini, anttur</editoraddition>.	</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimperfect t<expan type="">en</expan>s singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amarer	reris uel rere, retur. Pl. emur, emini, entur.</subform> <subxpln lang="en">I wolde should or ought to be loued.</subxpln>
+		<subform lang="la">Docerer <editoraddition>reris uel rere, retur. Pl. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legerer <editoraddition>reris uel rere, retur. Pl. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audirer <editoraddition>reris uel rere, retur. Pl. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense Syngular.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint.	</subform> <subxpln lang="en">I wolde should or ought to haue ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfecte tense Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus nel fuissemus, ti essetis uel fuissetis, ti esent uel fuissent.</subform> <subxpln lang="en">I wolde should or ought to had ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus nel fuissemus, ti essetis uel fuissetis, ti esent uel fuissent</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus nel fuissemus, ti essetis uel fuissetis, ti esent uel fuissent</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus nel fuissemus, ti essetis uel fuissetis, ti esent uel fuissent</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</subform> <subxpln lang="en">I may or can be loued hereafter.</subxpln>
+		<subform lang="la">Doctus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Coni<expan type="">un</expan>ctiue mode pres. sing. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amer, eris uel ere, etur. Plur. emur, emini, entur.</subform> <subxpln lang="en">whan I am loued.</subxpln>
+		<subform lang="la">Docear  <editoraddition>eris uel ere, etur. Plur. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legar  <editoraddition>eris uel ere, etur. Plur. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiar  <editoraddition>eris uel ere, etur. Plur. emur, emini, entur</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimperfect t<expan type="">en</expan>s singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amarer reris uel rere, etur. Pl. emur, emini rentur.</subform> <subxpln lang="en">Whan I was loued.</subxpln>
+		<subform lang="la">Docerer <editoraddition>reris uel rere, etur. Pl. emur, emini rentur</editoraddition>.</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legerer <editoraddition>reris uel rere, etur. Pl. emur, emini rentur</editoraddition>.</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audirer <editoraddition>reris uel rere, etur. Pl. emur, emini rentur</editoraddition>.</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+
+
+<lemepagenote>
+
+This copy of Lily is missing pages D4v and E1r.	These pages are taken from EEBO STC 59:06, image 17 / 38.
+
+</lemepagenote>
+
+
+
+</page>
+
+<page sig="D4v">
+
+<wordentry type="h"><form lang="en">Preterperfecte tense. singu.<term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint.</subform> <subxpln lang="en">whan I haue ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plurali. ti sin us uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfect t<expan type="">en</expan>s singu. <term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent.</subform> <subxpln lang="en">whan I had ben loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>essem uel fuissem, tus esses uel fuisses, tus esset uel fuisset. Plu. ti essemus uel fuissemus, ti essetis uel fuissetis, ti essent uel fuissent</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Future t<expan type="">en</expan>s singu.<term lang="la">cum</term>.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</subform> <subxpln lang="en">whan I shall or wyll be loued.</subxpln>
+		<subform lang="la">Doctus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Lectus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Auditus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plur. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><damage>Infinitive</damage> mode pres. <damage>&#38; preterimperfect</damage> t<term lang="la">en</term>s</form> <xpln lang="en">
+
+		<subform lang="la">Amari</subform> <subxpln lang="en">to be loued.</subxpln>
+		<subform lang="la">Doceri</subform> <subxpln lang="en">to be taught.</subxpln>
+		<subform lang="la">Legi</subform> <subxpln lang="en">to be read.</subxpln>
+		<subform lang="la">Audiri</subform> <subxpln lang="en">to be heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte <damage>&#38; preterpluperfecte tense.</damage></form> <xpln lang="en">
+
+		<subform lang="la">Amatum <damage>esse</damage> uel fuis<damage>s</damage>e</subform> <subxpln lang="en">To haue or had ben loued.</subxpln>
+		<subform lang="la">Doctum <editoraddition><damage>esse</damage> uel fuis<damage>s</damage>e</editoraddition></subform> <subxpln lang="en">to haue or had ben taught.</subxpln>
+		<subform lang="la">Lectum <editoraddition><damage>esse</damage> uel fuis<damage>s</damage>e</editoraddition></subform> <subxpln lang="en">to haue or had ben read.</subxpln>
+		<subform lang="la">Auditum <editoraddition><damage>esse</damage> uel fuis<damage>s</damage>e</editoraddition></subform> <subxpln lang="en">to haue or had ben heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Futuret<term lang="la">en</term>s</form> <xpln lang="en">
+
+		<subform lang="la">Amatum <damage>iri</damage> uel amandum esse</subform> <subxpln lang="en">to be loued hereafter.</subxpln>
+		<subform lang="la">Doctum  <damage>iri</damage> uel docendum esse</subform> <subxpln lang="en">taught hereafter.</subxpln>
+		<subform lang="la">Lectum  <damage>iri uel</damage> legendum esse</subform> <subxpln lang="en">read hereafter.</subxpln>
+		<subform lang="la">Auditum  <damage>iri</damage> uel audiendum</subform> <subxpln lang="en">heard hereafter.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Participle preterit.</form> <xpln lang="en">
+
+		<subform lang="la">Amatus</subform> <subxpln lang="en">Loued.</subxpln>
+		<subform lang="la">Doctus</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Lectus</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Auditus</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Participle fut.</form> <xpln lang="en">
+
+		<subform lang="la">Amandus</subform> <subxpln lang="en">To be loued hereafter</subxpln>
+		<subform lang="la">Docendus</subform> <subxpln lang="en">taught.</subxpln>
+		<subform lang="la">Legendus</subform> <subxpln lang="en">read.</subxpln>
+		<subform lang="la">Audiendus</subform> <subxpln lang="en">heard.</subxpln></xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="E1r">
+
+<wordentry type="h"><form lang="en"></form> <xpln lang="en">
+
+		<subform lang="la">Possum, potes, potui, potens</subform> <subxpln lang="en">to may or can</subxpln>
+		<subform lang="la">Volo, uis, uolui, uelle, uolendi, do, dum, supinis caret, uolens</subform> <subxpln lang="en">to wyll.</subxpln>
+		<subform lang="la">Nolo, nonuis, nolui, nolle, nolendi, do, dum, sup. caret, nolens</subform> <subxpln lang="en">to nyll.</subxpln>
+		<subform lang="la">Malo, mauis, malui, malle, malendi, do, dum sup. caret, malens</subform> <subxpln lang="en">to haue lyeffer.</subxpln>
+		<subform lang="la">Edo, es uel edis, edi, edere uel esse, edendi, do, d<expan type="">um</expan> esum, esu, edens, esurus</subform> <subxpln lang="en">to eate.</subxpln>
+		<subform lang="la">Fio, fis, factus s<expan type="">um</expan> fieri, factus, faciend<expan type="">us</expan></subform> <subxpln lang="en">to be made.</subxpln>
+		<subform lang="la">Fero, fers tuli, ferre, ferendi, ferendo, ferendum, latum, latu, ferens laturus</subform> <subxpln lang="en">to beare or to suffer.</subxpln>
+		<subform lang="la">Feror, ferris, latus sum <expan type="">uel</expan> fui, ferri, latus, ferendus</subform> <subxpln lang="en">to be borne or suffered.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Indicatiue mode present tens. Singular</form> <xpln lang="en">
+
+		<subform lang="la">Poss<expan type="">um</expan> potes potest,</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volo. uis, uult,</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">nolo N<expan type="">on</expan>uis, n<expan type="">on</expan>uult</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malo mauis mauult</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edo, edis <expan type="">uel</expan>es, edit</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fio, fis, fit,  	<expan type="">uel</expan>est,</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fero, fers, fert,</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Feror, ferris, fertur</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">uel re <editoraddition>fertur</editoraddition></subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><editoraddition>Indicatiue mode present tens.</editoraddition>Plur.</form> <xpln lang="en">
+
+		<subform lang="la">possum<expan type="">us</expan> potestis poss<expan type="">un</expan>t,</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volumus, uultis, uolunt.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolum<expan type="">us</expan> n<expan type="">on</expan>uultis nol<expan type="">un</expan>t.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malum<expan type="">us</expan> mauultis mal<expan type="">un</expan>t.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edim<expan type="">us</expan>, editis <expan type="">uel</expan>estis, ed<expan type="">un</expan>t.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fimus, fitis, fiunt.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferius, fertis, ferunt.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferimur ferimini fer<expan type="">un</expan>tur.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterimperfect t<expan type="">en</expan>s Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Poteram as, at. Plur. amus, atis, ant.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volebam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolebam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malebam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edebam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fiebam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferebam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferebar aris uel bare batur. Pl. bamur, mini, tur.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+
+
+
+<lemepagenote>
+
+From here continues from version EEBO STC 1845.1a.
+
+</lemepagenote>
+
+
+
+</page>
+
+<page sig="E1v">
+
+<wordentry type="h"><form lang="en">Preterperfecte tense. Singular.</form> <xpln lang="en">
+
+		<subform lang="la">Potui isti, it. Plur. imus, istis, erunt uel ere.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volui <editoraddition>isti, it. Plur. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolui <editoraddition>isti, it. Plur. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malui <editoraddition>isti, it. Plur. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edi <editoraddition>isti, it. Plur. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Tuli <editoraddition>isti, it. Plur. imus, istis, erunt uel ere.</editoraddition></subform> <subxpln lang="en"></subxpln>
+
+		<subform lang="la">Factus sum uel fui, tus es uel fuisti, tus est uel fuit. Plural. ti sumus uel fuimus, ti estis, uel fuistis, ti sunt fruerunt uel fuere.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latus <editoraddition>sum uel fui, tus es uel fuisti, tus est uel fuit. Plural. ti sumus uel fuimus, ti estis, uel fuistis, ti sunt fruerunt uel fuere.</editoraddition></subform> <subxpln lang="en">.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterpluperfect e<expan type="">en</expan>s singu.</form> <xpln lang="en">
+
+		<subform lang="la">Potueram ras, rat. Plur. ramus, ratis rant.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volueram <editoraddition>ras, rat. Plur. ramus, ratis rant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolueram <editoraddition>ras, rat. Plur. ramus, ratis rant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malueram <editoraddition>ras, rat. Plur. ramus, ratis rant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ederam <editoraddition>ras, rat. Plur. ramus, ratis rant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Tuleram <editoraddition>ras, rat. Plur. ramus, ratis rant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+
+		<subform lang="la">Factus eram uel fuer<expan type="">am</expan>, tus eras uel fueras, tus erat uel fuerat Plur. ti eramus uel fueramus, ti eratis uel fueratis, ti erant uel fuerant.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latus<editoraddition>eram uel fuer<expan type="">am</expan>, tus eras uel fueras, tus erat uel fuerat Plur. ti eramus uel fueramus, ti eratis uel fueratis, ti erant uel fuerant.</editoraddition></subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s sing.</form> <xpln lang="en">
+
+		<subform lang="la">Potero, ris, rit. Plur. rimus, ritis, runt.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volam es. et. Plur. emus, etis, ent.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolam <editoraddition>es. et. Plur. emus, etis, ent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malam <editoraddition>es. et. Plur. emus, etis, ent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edam <editoraddition>es. et. Plur. emus, etis, ent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fiam <editoraddition>es. et. Plur. emus, etis, ent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Feram <editoraddition>es. et. Plur. emus, etis, ent</editoraddition></subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Imperatyue mode</form> <xpln lang="en">
+
+		<subform lang="la">Poss<expan type="">um</expan></subform> <subxpln lang="en">haue none imperatiue mode.</subxpln>
+		<subform lang="la">Volo </subform> <subxpln lang="en">haue none imperatiue mode.</subxpln>
+		<subform lang="la">Malo </subform> <subxpln lang="en">haue none imperatiue mode.</subxpln></xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="E2r">
+
+<wordentry type="h"><form lang="en"><editoraddition>Imperatyue mode</editoraddition>Singular</form> <xpln lang="en">
+
+		<term lang="la">Noli
+		nolito
+		Es esto 	edat
+							esto
+							edito
+		ede edito	<editoraddition>edat</editoraddition>
+							<editoraddition>esto</editoraddition>
+							<editoraddition>edito</editoraddition>
+		Fitotu, fiat
+		Fito
+		Fer 			Ferat
+							ferto
+		Ferto 		<editoraddition>Ferat</editoraddition>
+							<editoraddition>ferto</editoraddition>
+		Ferre 		Feratur
+				 			fertor
+		fertor		<editoraddition>Feratur</editoraddition>
+							<editoraddition>fertor</editoraddition></term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><editoraddition>Imperatyue mode</editoraddition>Pl.</form> <xpln lang="en">
+
+		<term lang="la">edite este 				edant
+											edunto
+		edamus	estote		<editoraddition>edant</editoraddition>
+											<editoraddition>edunto</editoraddition>
+		editote						<editoraddition>edant</editoraddition>
+											<editoraddition>edunto</editoraddition>
+		fiamus Fite 			Fiant
+											Fiunto
+		Fitote						<editoraddition>Fiant</editoraddition>
+											<editoraddition>Fiunto</editoraddition>
+		fera<expan type="">mus</expan> Ferte 	Ferant
+																					Fer<expan type="">un</expan>to
+		fertote																<editoraddition>Ferant</editoraddition>
+																					<editoraddition>Fer<expan type="">un</expan>to</editoraddition>
+		feramur Ferimini 	Fer<expan type="">an</expan>tor
+											Fer<expan type="">un</expan>tor
+		feriminor 				<editoraddition>Fer<expan type="">an</expan>tor</editoraddition>
+											<editoraddition>Fer<expan type="">un</expan>tor</editoraddition></term></xpln>
+ 																	
+<lemenote>
+
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+						
+</wordentry>
+
+
+<wordentry type="h"><form lang="en">Optatyue mode the present t<expan type="">en</expan>s sing. <term lang="la">vtin.</term></form> <xpln lang="en">
+
+		<subform lang="la">Possim is, it. Plur. imus, itis. int.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Volim <editoraddition>is, it. Plur. imus, itis. int.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolim <editoraddition>is, it. Plur. imus, itis. int.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malim <editoraddition>is, it. Plur. imus, itis. int.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edam as, at. Plur. amus, atis, ant.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fiam <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Feram <editoraddition>as, at. Plur. amus, atis, ant.</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferar, feraris, <expan type="">uel</expan> ferare feratur. Pl. faramur, amini, &#257;ntur.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterim<expan type="">per</expan>fecte tense. sin. <term lang="la">vtin.</term></form> <xpln lang="en">
+
+		<subform lang="la">Possem er, et. Plur. emus, etis, ent,</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Vellem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nollem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Mallem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ederem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la"><expan type="">uel</expan> Essem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Fierem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferrem <editoraddition>Possem er, et. Plur. emus, etis, ent,</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferrer reris <expan type="">uel</expan> rere retur. Plur. remur, remini, rentur.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfecte tense. singu.</form> <xpln lang="en">
+
+		<subform lang="la">Potuerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Voluerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Noluerim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Maluerm <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ederim <editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Tulerim <editoraddition>ris, rit. Plur. rimus, ritis, rint</editoraddition>.</subform> <subxpln lang="en"></subxpln>
+
+		
+
+		
+
+</page>
+
+<page sig="E2v">
+
+		<subform lang="la">Factus sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plura. ti simus uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latus <editoraddition>sim uel fuerim, tus sis uel fueris, tus sit uel fuerit. Plura. ti simus uel fuerimus, ti sitis uel fueritis, ti sint uel fuerint</editoraddition>.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en">Preterplu<expan type="">per</expan>fect tense singu. <term lang="la">vti.</term></form> <xpln lang="en">
+
+		<subform lang="la">Potuissem ses, set. Plur. semus, setis, sent.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Voluissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Noluissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Maluisssem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Tulissem <editoraddition>ses, set. Plur. semus, setis, sent.</editoraddition></subform> <subxpln lang="en"></subxpln>
+
+		<subform lang="la">Factus ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plura. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plura. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</editoraddition></subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s Sing. <term lang="la">vtin.</term></form> <xpln lang="en">
+
+		<subform lang="la">Potuero ris, rit. Plur. rimus, ritis, rint.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Voluero<editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Noluero<editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Maluero<editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edero<editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Tulero<editoraddition>ris, rit. Plur. rimus, ritis, rint.</editoraddition></subform> <subxpln lang="en"></subxpln>
+
+
+		<subform lang="la">Factus ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plura. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latus <editoraddition>ero uel fuero, tus eris uel fueris, tus erit uel fuerit. Plura. ti erimus uel fuerimus, ti eritis uel fueritis, ti erunt uel fuerint.</editoraddition></subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; The Potencial and the subiunctiue mode</form> <xpln lang="en">be for&#173;
+med and coniugated or varied lyke the Optatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Infinitiue mode pres. &#38; preterimperfect t<expan type="">en</expan>s</form> <xpln lang="en">
+
+		<subform lang="la">Posse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Velle</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Nolle</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Malle</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edere uel esse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferre</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Preterperfect and preterpluperfect.</form> <xpln lang="en">
+
+		<subform lang="la">Potuisse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Voluisse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Noluisse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Maluisse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Edisse</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Tulisse</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Future.</form> <xpln lang="en">
+
+		<subform lang="la">Esurum</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Laturum esse</subform> <subxpln lang="en"></subxpln></xpln>
+ 																	
+<lemenote>
+
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+
+</wordentry>
+
+
+
+
+
+</page>
+
+<page sig="E3r">
+
+<wordentry type="h"><form lang="en">Preterperfecte &#38; preterpluperfect.</form> <xpln lang="en">
+
+		<subform lang="la">Fieri</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Ferri</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Presente &#38; preterim<expan type="">per</expan>fecte tense.</form> <xpln lang="en">
+
+		<subform lang="la">Factum esse uel fuisse.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latum esse uel fuisse.</subform> <subxpln lang="en"></subxpln></xpln> 
+																			
+<lemenote>
+
+The multiple curly brackets in this entry use display to communicate syntactic information. We cannot interpret relationships based on multiple curly brackets because our encoding system is incapable of representing complex visual maps.
+  									
+</lemenote>		
+						
+</wordentry>
+
+<wordentry type="h"><form lang="en">Futuret<expan type="">en</expan>s</form> <xpln lang="en">
+
+		<subform lang="la">Factum iri uel faciendum isse.</subform> <subxpln lang="en"></subxpln>
+		<subform lang="la">Latum iri uel ferendum esse.</subform> <subxpln lang="en"></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">&#182;Eo <term lang="en">and</term> queo</form> <xpln lang="en">make <term lang="la">ibam</term> and <term lang="la">quibam</term> in the preterim&#173;
+perfect tense of the indicatiue mode: and <term lang="la">ibo</term> &#38; <term lang="la">quibo</term> in the future tense, and in all other modes and tenses
+are varied lyke verbes in <term lang="la">o</term>, of the fowerth coniuga&#173;
+tion, sauynge that they make the gerundes: <term lang="la">Eundi, do , dum. Quendi, do, dum</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; Of the preterperfect tense of the Indicatyue mode</form> <xpln lang="en">
+be fourmed the preterplu<expan type="">per</expan>fect tens of the same mode.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The preterperfecte tense, the preterpluperfect tense,
+and the future tense of the optatyue mode, the poten&#173;
+cial mode, and the Subiunctiue mode. The preter<expan type="">per</expan><emend err="">&#173;</emend>
+fecte and pluperfect tense of the infinitiue mode, as of
+<term lang="la">Amaui</term>, </form> <xpln lang="en">are fourmed <term lang="la">amauer<expan type="">am</expan>, amauerim, amauiss<expan type="">em</expan>, ama&#173;
+uero, amauisse, ram, rim &#38; ro</term>, by chaugnynge <term lang="la">i</term> in to <term lang="la">e,
+sem, &#38; se</term>, kepyng <term lang="la">i</term> styll.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; Impersonals</form> <xpln lang="en">be declyned in the voyce of the third
+person through out all modes and tenses. as <term lang="la">Delectat,
+delectabat. Decet, decebat</term>, and haue commonly before
+their englyshe this sygne it, as It deliteth me to rede,
+<term lang="la">Delectat me legere.</term></xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="E3v">
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Participle"><alpha>&#10087;OF A PARTICIPLE&#x025b8;</alpha>
+
+
+<wordentry type="h"><form lang="en">A PARTICIPLE</form> <xpln lang="en">is a parte of speche, de&#173;
+riued of a verbe, &#38; taketh part of a nowne
+as gendre &#38; case, parte of a verbe, as tense
+and signification: and parte of bothe, as
+number and figure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182; A participle</form> <xpln lang="en">hath .iiii. tenses, the present, the pre&#173;
+ter, the future in <term lang="la">rus</term>, and the future in <term lang="la">dus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A participle of the present tense</form> <xpln lang="en">hath his englysshe
+endyng in yng. as louyng, &#38; his latine in <term lang="la">ans</term>, or <term lang="la">ens</term>,
+as <term lang="la">Amans, docens</term>: And it is fourmed of the preterim&#173;
+perfect tense, by chaungyng <term lang="la">bam</term>, into <term lang="la">ens</term>, as <term lang="la">Amab<expan type="">am</expan>,
+amans, Audiebam audiens</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A pariciple of the future in <term lang="la">rus</term></form>, <xpln lang="en">betokeneth to do
+lyke the infinitiue mode of the actyue voyce, as <term lang="la">Ama&#173;
+turus</term> to loue or about to loue. And is fourmd of the
+later supyne, by puttyng to <term lang="la">rus</term>, as <term lang="la">Doctu, docturus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A participle of the preter tense,</form> <xpln lang="en">hath his englysshe
+endyng in d, t, or n, as loued, taught, slayne, and his
+latyn endeth in <term lang="la">tus, sus, xus</term>,  as <term lang="la">Amatus, uisus, nexus</term>,
+and one in <term lang="la">uus</term>, as <term lang="la">mortuus</term>. And is fourmed of the la&#173;
+ter supyne, by puttynge to <term lang="la">s</term> as <term lang="la">Lectu lectus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;A participle of the future in <term lang="la">dus</term></form>, <xpln lang="en"> betokeneth to suf&#173;
+fer lyke the infinitiue mode of the passyue voyce, as
+<term lang="la">Amandus</term> to be loued. And it is fourmed of the geny&#173;
+tyue case of the participle of the present tense, by chan&#173;
+gyng <term lang="la">tis</term>, into <term lang="la">dus</term> as <term lang="la">Legentis legendus</term>. And it is al&#173;
+so found to haue the signification of the present tense,
+as <term lang="la">Legendis ueteribus proficis</term>,  In readyng olde auc&#173;
+thours thou dooest profit.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="E4r">
+
+<wordentry type="h"><form lang="en">&#182;Of a verbe actiue, and of a verbe neuter, whiche
+hath the supines</form>, <xpln lang="en"> come .ii. participles, one of the pre&#173;
+sent tense, and an other of the future in <term lang="la">rus</term>, as of <term lang="la">Amo</term>
+c<expan type="">om</expan>meth <term lang="la">amans, amaturus</term>, of <term lang="la">Curro, currens, cursurus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Of a verbe passiue whose actiue hath the supines</form>, <xpln lang="en">
+come .ii. participles, one of the preter tense, &#38; an other
+of the future in <term lang="la">dus</term>,as of <term lang="la">amor</term>, c<expan type="">om</expan>meth <term lang="la">amatus, aman&#173;
+dus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Of a verbe deponent</form> <xpln lang="en">c<expan type="">om</expan>meth .iii. participles, one
+of the present tense, one of the preter tense, &#38; an o&#173;
+ther of the future in <term lang="la">rus</term>, as of <term lang="la">Auxilior, auxilians, aux&#173;
+iliatus, auxiliaturus</term>. And if the verbe deponent gouern
+an<emend err=""> </emend>accusatiue case after him, it may fourme also a par<emend err="">&#173;</emend>
+ticiple in <term lang="la">dus</term>, as of <term lang="la">Loquor, loquendus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Of a verbe c<expan type="">om</expan>mon</form> <xpln lang="en">commeth .iiii. participles, as of
+<term lang="la">Largior</term>, c<expan type="">om</expan>meth <term lang="la">largiens, largiturus, largitus, largi<expan type="">en</expan>dus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Participles of the present tense,</form> <xpln lang="en">be declyned lyke
+nownes adiectiues with .iii. articles, as <term lang="la">hic h&#281;c &#38; hoc
+Amans</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Participles of other tenses</form> <xpln lang="en">be declyned lyke now&#173;
+nes adiectiues of .iii. dyuers endynges, as <term lang="la">Amaturus,
+Amas, Amandus, a, um.</term></xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Adverb"><alpha>&#10087;OF AN ADVERBE&#x025b8;</alpha>
+
+<wordentry type="h"><form lang="en">AN ADVERBE</form> <xpln lang="en">is a parte of speche,
+ioyned to the verbes to declare his syg&#173;
+nification.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Aduerbes some</form> <xpln lang="en">be of tyme, as <term lang="la">Hodie,
+cras, olim, aliquando</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of place, as <term lang="la">Vbi, <damage>ibi, hic, istic, illic, intus, foris</damage></term>.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="E4v">
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of number, as <term lang="la">Semel, bis, ter, quater</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of order, as <term lang="la">Inde, deinde, deni<expan type="">que</expan>, postremo</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of askynge or doubtyng, as <term lang="la">Cur, quare, unde,
+quorsum, num numquid</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of callyng, as <term lang="la">Heus, o, ehodum</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of affirmyng, as <term lang="la">Certe, n&#230; profecto, sane, scili&#173;
+cet, licet, esto</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of denying, as <term lang="la">Non, haud, minime, nequa<expan type="">quam</expan></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of sweryng, as <term lang="la">Pol, &#230;depol, hercle, medius fidius</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of exhortyng, as <term lang="la">Eia, age agedum</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of flateryng, as <term lang="la">Sodes, am&#225;bo</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of forbyddyng, as <term lang="la">Ne</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of wysshyng, as <term lang="la">Vtinam, si, osi, o</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of gatheryng togither, as <term lang="la">Simul, una, pariter,
+non modo, non solum</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of partyng, as <term lang="la">Seorsim, sigillatim, uicatim</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of choosyng, as <term lang="la">Potius, imo</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of a thyng not fynisshed, as <term lang="la">Pene, fer&#232;, uix, mo
+do non</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of shewyng, as <term lang="la">En, ecce</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of doubtyng, as <term lang="la">Forsan, forsitan, fortassis, for&#173;
+tasse</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of chaunce, as <term lang="la">Forte, fortuito</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of lykenesse, as <term lang="la">Sic, sicut, quasi, ceu, tan<expan type="">quam</expan>, uelut</term>,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of quality, as <term lang="la">Bene, mal&#232;, doct&#232;, fortiter</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of quantity, as <term lang="la">Multum, parum, minimum, pau&#173;
+lulum</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>adverbs</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> of comparison, as <term lang="la">Tam, <expan type="">quam</expan>, magis, minus, max&#173;
+im&#233;</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Certayne aduerbes</form> <xpln lang="en">be compared,as <term lang="la">Docte, docti&#173;
+us, doctissime. fortiter, fortius, fortissime. Prope, pro&#173;
+pius, proxime</term>.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="F1r">
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Conjunction"><alpha>&#10087;OF A CONIVNCTION&#x025b8;</alpha>
+
+
+<wordentry type="h"><form lang="en">A CONIVNCTION</form> <xpln lang="en">is a parte
+of speche, that ioynethe woordes, and
+sentences together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Of coniunctions, some</form> <xpln lang="en">be copula&#173;
+tiues, as <term lang="la">Et, <expan type="">que</expan>,quo<expan type="">que</expan>,at<expan type="">que</expan>, nec, <expan type="">ne</expan>que</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition>disiunctiues, as <term lang="la">Aut, ue, uel,
+seu, siue,</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> discretiues, as <term lang="la">Sed, quidem, aut<expan type="">em</expan>, uero, at, ast</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> causales, as <term lang="la">Nam, nan<expan type="">que</expan>,enim, etenim, quia,
+ut, quod, quando, quum.</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> conditionalles, as <term lang="la">Si, sin, modo, dum dum&#173;
+modo</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> exceptiues, as <term lang="la">Ni, nisi, quin, alioquin, <expan type="">pre</expan>ter<expan type="">quam</expan></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> interrogatyues, as <term lang="la">Ne, an, uerum, necne,
+anne, nonne</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> illatiues, as <term lang="la">Ergo ideo, igitur, quare, ita<expan type="">que</expan>, proin</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> aduersatiues, as <term lang="la">Etsi, quanquam, <expan type="">quan</expan>uis, licet</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> redditiues to the same, as <term lang="la">Tamen, attam<expan type="">en</expan></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> electiues, as <term lang="la">Quam, ac, at<expan type="">que</expan></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>conjunctions</editoraddition></form> <xpln lang="en"><editoraddition>be</editoraddition> diminutiues, as <term lang="la">Saltem, uel</term>.</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Preposition"><alpha>&#10087;OF A PREPOSITION&#x025b8;</alpha>
+
+
+<wordentry type="h"><form lang="en">A PREPOSITION</form> <xpln lang="en">is a parte of speche
+moste c<expan type="">om</expan>monly sette before other  partes
+in apposition, as <term lang="la">Ad patrem</term>, or in compo&#173;
+sition, as <term lang="la">Indoctus</term>.</xpln></wordentry>
+
+		<wordentry type="h"><form lang="en">These prepostions folowyng</form> <xpln lang="en">serue to
+the accusatiue case.
+
+
+
+
+
+</page>
+
+<page sig="F1v">
+
+		<subform lang="la">Ad</subform> <subxpln lang="en">to,</subxpln>
+		<subform lang="la">Apud</subform> <subxpln lang="en">at,</subxpln>
+		<subform lang="la">Ante</subform> <subxpln lang="en">before</subxpln>
+		<subform lang="la">Aduersus</subform> <subxpln lang="en">agaynst</subxpln>
+		<subform lang="la">Aduersum</subform> <subxpln lang="en"><editoraddition>agaynst</editoraddition></subxpln>
+		<subform lang="la">Cis</subform> <subxpln lang="en">on this side</subxpln>
+		<subform lang="la">Citra</subform> <subxpln lang="en"><editoraddition>on this side</editoraddition></subxpln>
+		<subform lang="la">Circum</subform> <subxpln lang="en">about</subxpln>
+		<subform lang="la">Circa</subform> <subxpln lang="en"><editoraddition>about</editoraddition></subxpln>
+		<subform lang="la">Contra</subform> <subxpln lang="en">agaynst</subxpln>
+		<subform lang="la">Erga</subform> <subxpln lang="en">toward</subxpln>
+
+		<subform lang="la">Extra</subform> <subxpln lang="en">without,</subxpln>
+		<subform lang="la">Intra</subform> <subxpln lang="en">within</subxpln>,
+		<subform lang="la">Inter</subform> <subxpln lang="en">betwene,</subxpln>
+		<subform lang="la">Infra</subform> <subxpln lang="en">beneth</subxpln>
+		<subform lang="la">Iuxta</subform> <subxpln lang="en">besyde or nygh to,</subxpln>
+		<subform lang="la">Ob</subform> <subxpln lang="en">for</subxpln>
+		<subform lang="la">Pone</subform> <subxpln lang="en">behynd</subxpln>
+		<subform lang="la">Per</subform> <subxpln lang="en">by or through</subxpln>
+		<subform lang="la">Prope</subform> <subxpln lang="en">nigh</subxpln>
+		<subform lang="la">Propter</subform> <subxpln lang="en">for</subxpln>
+		<subform lang="la">Secundum</subform> <subxpln lang="en">after</subxpln>
+
+		<subform lang="la">Post</subform> <subxpln lang="en">after</subxpln>
+		<subform lang="la">Trans</subform> <subxpln lang="en">on the ferther syde.</subxpln>
+		<subform lang="la">Vltra</subform> <subxpln lang="en">beyond,</subxpln>
+		<subform lang="la">Pr#281;ter</subform> <subxpln lang="en">besyde</subxpln>
+		<subform lang="la">Supra</subform> <subxpln lang="en">aboue</subxpln>
+		<subform lang="la">Circiter</subform> <subxpln lang="en">about</subxpln>
+		<subform lang="la">Vs<expan type="">que</expan></subform> <subxpln lang="en">untyl</subxpln>
+		<subform lang="la">Secus</subform> <subxpln lang="en">by</subxpln>
+		<subform lang="la">Versus</subform> <subxpln lang="en">toward</subxpln>
+		<subform lang="la">Penes</subform> <subxpln lang="en">in the power.</subxpln></xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en">&#182;Where note that <term lang="la">uersus</term>,</form> <xpln lang="en">is sette after his casuall
+word, as <term lang="la">Londinum uersus</term>, Towarde London. And
+lykewyse may <term lang="la">penes</term> be set also.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;These prepositions folowynge,</form> <xpln lang="en">serue to the abla&#173;
+tiue case.
+
+		<subform lang="la">A</subform> <subxpln lang="en">From or fro</subxpln>
+		<subform lang="la">Ab</subform> <subxpln lang="en"><editoraddition>From or fro</editoraddition></subxpln>
+		<subform lang="la">Abs</subform> <subxpln lang="en"><editoraddition>From or fro</editoraddition></subxpln>
+		<subform lang="la">Cum</subform> <subxpln lang="en">with</subxpln>
+		<subform lang="la">Coram</subform> <subxpln lang="en">before or in presence</subxpln>
+		<subform lang="la">Clam</subform> <subxpln lang="en">priuily</subxpln>
+		<subform lang="la">De</subform> <subxpln lang="en">of or fro</subxpln>
+		<subform lang="la">E</subform> <subxpln lang="en"><editoraddition>of or fro</editoraddition></subxpln>
+		<subform lang="la">Ex</subform> <subxpln lang="en"><editoraddition>of or fro</editoraddition></subxpln>
+
+		<subform lang="la">Pro</subform> <subxpln lang="en">for</subxpln>
+		<subform lang="la">Pr&#281;</subform> <subxpln lang="en">before or in comparison</subxpln>
+		<subform lang="la">Palam</subform> <subxpln lang="en">openly</subxpln>
+		<subform lang="la">Sine</subform> <subxpln lang="en">without</subxpln>
+		<subform lang="la">Abs<expan type="">que</expan></subform> <subxpln lang="en"><editoraddition>without</editoraddition></subxpln>
+		<subform lang="la">Tenus</subform> <subxpln lang="en">vntyll or vnto</subxpln></xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en">&#182;Where note that if the casuall woorde ioyned with
+<term lang="la">tenus</term>,</form> <xpln lang="en">be the plurall number, it shal be putte in the ge&#173;
+nitiue case and be sette before <term lang="la">tenus</term> as <term lang="la">Aurium tenus</term>,
+Up to the eares.</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="F2r">
+
+<wordentry type="h"><form lang="en">&#182;These prepositions folowyng</form> <xpln lang="en">serue to bothe cases,
+as <term lang="la">In</term>, with this signe to, to the ablatyve case, as
+
+		<subform lang="la">In urbem,</subform> <subxpln lang="en">into the city.</subxpln>
+		<subform lang="la">In</subform> <subxpln lang="en">, without this sygne to, to the ablatuyem as</subxpln>
+		<subform lang="la">in tespes est,</subform> <subxpln lang="en">my hope is in the.</subxpln>
+		<subform lang="la">Sub noctem,</subform> <subxpln lang="en">a lyttell before nyght.</subxpln>
+		<subform lang="la">Sub iudice lis est</subform> <subxpln lang="en">the matter is before the iudge.</subxpln>
+		<subform lang="la">Super lapidem</subform> <subxpln lang="en">vpon a stone.</subxpln>
+		<subform lang="la">Super uiridi fronde</subform> <subxpln lang="en">vpon grene leaues</subxpln>
+		<subform lang="la">Subter terram</subform> <subxpln lang="en">vnder the earthe.</subxpln>
+		<subform lang="la">Subter aqua</subform> <subxpln lang="en">vnder the water.</subxpln></xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="t" object="The Interjection"><alpha>&#10087;OF AN INTERIECTION&#x025b8;</alpha>
+
+
+<wordentry type="h"><form lang="en">AN INTERIECTION</form> <xpln lang="en">is a parte of
+speche, which betokeneth a passion of the
+mynde, vnder an vnperfect voyce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en">are of myrth, as <term lang="la">Euax, uah.</term></xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of of sorowe: as <term lang="la">Jeu, hei.</term></xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of drede, as <term lang="la">Atat</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of maruailyng, as <term lang="la">Pape</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> ofdisdeinyng, as <term lang="la">Hem, uah</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of shunnyng, as <term lang="la">Apage</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of praysyng, as <term lang="la">Euge</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of scornyng, as <term lang="la">Hui</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of exclamation, as <term lang="la">Proh deum atque homin<expan type="">um</expan>
+fidem. O.</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of cursyng, as <term lang="la">V&#281;, malum</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of layghyng, as <term lang="la">Hah, ha, he</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of callyng, as <term lang="la">Eho, oh, io</term>.</xpln></wordentry>
+<wordentry type="h"><form lang="en">&#182;Some <editoraddition>interjections</editoraddition></form> <xpln lang="en"><editoraddition>are</editoraddition> of silence, as <term lang="la">Au</term>. And suche other.</xpln></wordentry>
+
+
+</wordgroup1>
+</section>
+
+
+
+
+</page>
+</leme>
+

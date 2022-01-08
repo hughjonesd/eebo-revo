@@ -1,0 +1,1274 @@
+<leme no="1513">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+A n g e l  D a y ' s  E n g l i s h  S e c r e t a r y  ( 1 5 9 9 )
+S T C  6 4 0 4 
+v e r . 1 . 0 ( 2 0 2 1 )
+</term>
+</lemepagenote>
+
+
+<page sig="a1r">
+<section type="Title-page">
+<term lang="en">
+THE
+ENGLISH
+SECRETARY,
+OR
+Methode of writing of
+Epistles and Letters:
+
+WITH
+A declaration of such Tropes, Figures,
+and Schemes, as either vsually or for
+ornament sake are therin required.
+
+Also the parts and office of a
+Secretarie,
+
+Deuided into two bookes.
+
+Now newly reuised and in many parts cor&#173;
+rected and amended:
+
+By Angel Day.
+
+AT LONDON
+Printed by P. S. For C. Burbie and are
+to be sold at his shop, at the Royall
+Exchange. 1599.
+</term>
+</section>
+
+
+</page>
+
+<page no="75">
+<section type="Title-page">
+<term lang="en">
+A
+DECLARATION
+of al Such Tropes, figures or Schemes,
+as for excellencie and ornament in wri&#173;
+ting, are speciallie vsed in this
+Methode:
+
+Collected and explaned togithers,
+according to their applications,
+vsages, and properties.
+
+By Angell Day.
+
+Imprinted at London by P. S. for
+Cuthbert Burbie. 1599.
+</term>
+</section>
+
+
+</page>
+
+<page no="76">
+<section type="To the Reader">
+<heading>
+<term lang="en">
+To the courteous Reader.
+</term>
+</heading>
+
+<term lang="en">
+AS in the two bookes before going (gentle Reader) my
+mind and purpose was to set foorth vnto the learner,
+how much the phrase of our daylie speech by well
+ordering and deliuerie is graced with Figures and
+other ornaments of Art, and to such end and pur&#173;
+pose, haue I in the margent of euerie Epistle, di&#173;
+rectlie against the places where they are vsed, quoted them to be seen.
+I haue now for better supplement of the learners knowledge, determi&#173;
+ned in this place to make a collection of them all, remembring with
+my selfe, that vnto such as are vnexperienced in their particular appli&#173;
+cations, they shall be but of verie slender moment in their quotations,
+without also they may be instructed by example, how, where, and in
+what tearmes, wordes or cariage, they are vsed, and wherein, and by
+what conueyance their efficacies are explaned. For which cause, these
+briefe instructions following, conteining, as in the title before going, a
+demonstration of their true &#38; seueral qualities, properties and natures,
+are to such ende deliuered: wherein my purpose is to omit nothing,
+which in my poore opinion may seeme vnto this deuised Methode a&#173;
+nie wayes furthering. And howbeit my selfe in the writing of these
+collections, doe well consider the want I haue of other perfections,
+whereby to ornifie the matter hereof, with examples correspondent,
+yet shall it by such meanes appeare vnto all fauourers of science, what
+will and desire I haue to deserue with the best, confessing (as by due
+proofe I haue found) no speech to be accounted valuable or of weight,
+that is not graced with these parts. Thus hauing at large expostulated
+my true meaning herein, I commit the rest to your curteous censures,
+and my selfe to your good opinions.
+
+Yours, A. D.
+</term>
+</section>
+
+
+</page>
+
+<page no="77">
+<section type="Of Figures, Tropes, and Schemes">
+<heading>
+<term lang="en">
+OF FIGVRES, TROPES,
+and Schemes.
+</term>
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="figure(n)">A Figure</form> <xpln lang="en" lexeme="mean(n)" lexeme="whereby(adv)" lexeme="delivery(n)" lexeme="trope(n)" lexeme="scheme(n)">is a certaine meane whereby from a simple and
+ordinarie kinde of speaking, we growe into a more cun&#173;
+ning and excellent deliuerie.
+
+A Figure is diuided into Trope and Scheme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trope(n)">A Trope</form> <xpln lang="en" lexeme="variation(n)" lexeme="otherwhile(adv)" lexeme="ornament(n)">is as much to say, as a variation of a worde or sen&#173;
+tence from the proper &#38; apt signification, vnto another neere
+vnto the same, sometimes for pleasure, and otherwhile for orna&#173;
+ment sake, and there are tropes of words, and tropes of sentences.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scheme(n)">A Scheme</form> <xpln lang="en" lexeme="rhetorical(a)" lexeme="generation(n)" lexeme="viper(n)" lexeme="homicide(n)" lexeme="antecessor(n)">is a certaine new kinde of forme of writing &#38; spea&#173;
+king, and for the excellencie thereof is called the ornament, light
+and colours of Rhetoricall speech.
+
+Betweene a Trope and a Scheme the difference is, that the
+Trope changeth the signification, as in these wordes Generation
+of Vipers, meaning thereby homicides of their owne issue or an&#173;
+tecessors, as the Viper deuoureth her owne broode. The Scheme
+hath no change of signification, but retaineth the expresse mea&#38;
+ning, as, Can so great anger be in heauenlie mindes? written of
+Iuno in the <term lang="la">Aeneidos</term> of Virgill, whereas anger is indeede onelie
+a humaine passion, yet without alteration is there allotted vnto
+the heauenlie Gods. And of some there is helde in them small dif&#173;
+ference, in so much as often times they runne into one anothers
+meaning.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t">
+<heading>
+The Tropes of wordes, are
+</heading>
+
+<wordentry type="h"><form lang="la">MEtaphora,</form> <xpln lang="en" lexeme="homely(a)" lexeme="affinity(n)">which is, when a worde from the proper or right
+signification is <emend err="tanas">trans</emend>ferred to another neere vnto the mea&#173;
+ning, as to saie: We see well, when wee meane wee vnderstande
+well, or to call them eaters or deuourers of men and houses,
+
+
+</page>
+
+<page no="78">
+who vndo the poore, or extort from them their goods or liuings: or to
+saie, a homelie or rude speaker doth braie, which to do belongeth to
+an Asse, or to attribute vnto thinges the properties they haue not,
+as if we should say, the ground wanting wet, doth thirst for raine,
+or fruits in their growth do labour, or come by the statelie length
+and weightie eare it carrieth, to bee proude, or by Emphasis, that
+by desire, men are enflamed, by anger kindled, fallen by errour:
+And lastlie, in prayse of mans ofspring, as to saie, the beautie of his
+stocke, or to call the place of renowne, the well or seate of glorie,
+also to say, the showers of speech, flouds of eloquence, onelie for
+ornament in writing, without anie other proper affinitie, attribut&#173;
+ion or likelihoode.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="synechoche(n)">Synecdoche,</form> <xpln lang="en" lexeme="amain(adv)" lexeme="slashing(a)"> when by one particular we vnderstand a number,
+as to saie, the braue English was conquerour, as much to saie, as
+Englishmen were victours, or when by a part wee vnderstande the
+whole, as to say, a blade for a sworde, a Hall for a house, or when
+by one thing we vnderstand another, as to say, the highest fall for
+the deepest fall, the toppe for the bottome, Neptunes reigne for the
+Sea: or when we put the matter whereof a thing is made, for the
+thing it selfe: as to saie, the loftie Pine did scowre the Seas, for the
+ship made of the Pine tree, or thus: With slashing Iron furious
+on his foes, hee rusht amaine,  &#38;c. for with slashing sworde: Like&#173;
+wise hee put spurres to his horse, for hee ranne his horse. They haue
+liued, that is, they are dead, they flourish, for they are rich, braue or
+happie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Metonymia, <term lang="la">or</term> transnominatio,</form> <xpln lang="en" lexeme="headlong(a)" lexeme="unshamefast(a)" lexeme="magistracy(n)"> the putting of one name for an
+other, as the inuenter, for the thing inuented, so do we call corne by
+the name of Ceres, we put Bacchus for wine, Venus for lust, Vul&#173;
+cane for fire, Neptune for the sea, Mars for warre: likewise the con&#173;
+tinent, for that which is contained, as if we should say, acceptable
+to the heauens, meaning to him that dwelleth in the heauens, a
+happie soyle, meaning happie people in the soile, hee drunke vp the
+whole cup before him, for the wine in the cup before him. In like
+maner when the cause efficient is vnderstood by the effect, as when
+we say, Pale death, sorrowfull dread, headlong rage, carelesse wine,
+vnshamefast night: wherein is shewed, that dread causeth sorowe,
+death palenes, wine carelesnes, and so of the rest. Further, when
+by her that holdes the Scepter, wee signifie the Queenes Maiestie,
+
+
+</page>
+
+<page no="79">
+and likewise by mentioning the Sword, Magistracy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antonomasia(n)">Antonomasia,</form> <xpln lang="en" lexeme="appropriation(n)">where to the person of anie one, wee giue an o&#173;
+ther name, then his owne proper, as in stead of Christ, to saie the
+Holie one of God, or The worlds Sauiour. Or of the Queenes Ma&#173;
+iestie, to saie The Virgin Queene, The Royall Maide, with other
+like appropriations fitting so great an excellencie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Onomatopoeia(n)">Onomatop&#339;ia,</form> <xpln lang="en" lexeme="clashing(n)">where to a thing not hauing a proper terme, wee
+faine or deuise a name, as to saie, the murmure of the waters, the
+roring of the cannon, clashing of armour, &#38; such like: where neither
+murmur, roring nor clashing is by nature to these belonging.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="catachresis(n)">Catachresis,</form> <xpln lang="en">where wee accommodate a name to a thing that is
+not proper, as to saie, lend me your hand, or your aid, which tearme
+of lending is more proper to money, or things that are borrowed,
+and to say, mens powers are short, or their counsels long, when in
+neither of both there is anie such measure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metalepsis(n)">Metalepsis, or Transumpti<expan type="o+_">on</expan>,</form> <xpln lang="en" lexeme="rape(n)">when by a certaine number of de&#173;
+grees we go beyond that wee intend in troth, and haue meaning
+to speake of, as to saie: Accursed soile that bred my cause of woe,
+when we might as well crie out on the parties selfe that hath don
+the wo, &#38; not to go so far off as to the soile that bred him, or as Pe&#173;
+nelope bewaling her husbandes ouerlong absence from her, ex&#173;
+claimed in her Epistle to Vlysses, on Paris that had raped Helena,
+wishing that he and all his fleet had perished, ere the rape had bin
+committed, intending that by that rape, the Grecians were drawn
+to the warres, and so the siege for tenne yeares space continued,
+and ten yeeres after that, her husband forced by many landes and
+seas to haue wandered. Of the originall cause whereof her iust
+complaint was deriued.</xpln></wordentry>
+
+<heading>
+<term lang="en">
+Tropes of sentences, are
+</term>
+</heading>
+
+<wordentry type="h"><form lang="la">ALlegoria,</form> <xpln lang="en" lexeme="inverting(n)" lexeme="with(n)" lexeme="smell(v)" lexeme="rat(n)" lexeme="margent(n)">a kinde of inuerting or change of sence, as when
+we shew one thing in wordes &#38; signifie another in meaning,
+a Trope most vsuall amongst vs euen in our common speaking,
+as when we saie, Bow the With while it is greene, meaning to cor&#173;
+rect children whilest they bee yong: or, There is no fire without
+smoake: meaning that there is no ill conceipt without occasion:
+
+
+</page>
+
+<page no="80">
+or, I smell a Rat, that is, I know your meaning, for other applica&#173;
+tions you haue the same diuerslie quoted in our Epistles to bee
+seene in their margents.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="enigma(n)">&#198;nigma,</form> <xpln lang="en" lexeme="riddle(n)">a darke sentence, or as we ordinarilie say, a riddle, ra&#173;
+ther vsed in high and deepe mysteries, otherwise conueied some&#173;
+time in pleasant fancies, then accustomed in other writings.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paroemia(n)">Par&#339;mia,</form> <xpln lang="en" lexeme="adage(n)" lexeme="saying(n)" lexeme="pitch(n)" lexeme="light(a)">called amongst vs an Adage or common saying, as
+thus: Who so toucheth pitch shall bee defiled therewith: It earlie
+pricketh that wil be a thorn: many hands make light worke, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ironia(n)">Ironia,</form> <xpln lang="en" lexeme="scoff(n)" lexeme="flout(n)" lexeme="molehill(n)">a scoffe or flout, as when wee saie, Alas good man, or to
+one that hath set debate or contention, you haue spun a faire thred:
+or to him that hath made a long speach to no purpose, you haue
+brought forth a mighty mole-hil, or to a lewd person, you are an ho&#173;
+nest man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sarcasmus(n)">Sarcasmus,</form> <xpln lang="en" lexeme="bob(n)" lexeme="derision(n)" lexeme="twit(v)" lexeme="hop(v)" lexeme="headless(adv)">a bitter bob as wee saie, or enuious derision, as of
+one arraigned for fellonie, to twit him, that hee had like to haue
+knockt his head against the gallowes, or of one suffering for treason
+to saie, that it made him hop headlesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Asteismus,</form> <xpln lang="en" lexeme="smooth(n)" lexeme="repugnant(a)" lexeme="snow(v)" lexeme="tell(v)">a smooth, as we call it, as when one tels a thing re&#173;
+pugnant to the present matter or companie, to saie, I had as lieue
+he told me it snew, when neither the time of the yeare, or present
+weather admitteth it snowe. Or when one misseth of a number,
+to bid him take a sticke and tell it, or telling a lie, to bid him take
+the haire from his lips.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antiphrasis(n)">Antiphrasis,</form> <xpln lang="en" lexeme="scornfully(adv)" lexeme="dwarf(n)" lexeme="blunt(a)" lexeme="capacity(n)" lexeme="moor(n)" lexeme="pigeon(n)">when a word scornefullie deliuered, is vnderstoode
+by his contrarie, as of a dwarfe, to saie in iest, what a gyant haue
+we here, or of him that telleth a matter ordinarie for strange, to
+saie, what a wonder telleth he, or to say, the man hath a sharpe wit,
+when we intend he hath a verie blunt capacitie, or of a blacke
+Moore woman, to saie, Will ye see a faire pigion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Charientismus,</form> <xpln lang="en" lexeme="scoff(v)" lexeme="dash(n)">as when we scoffe a man in his threatning mood
+to say, O good words, I pray you, or kill vs not at the first dash, or, Bite
+not my nose off I pray you, and such like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyperbole(n)">Hyperbole,</form> <xpln lang="en" lexeme="manifestation(n)">when for the manifestation of a thing vehement
+or exceeding, the wordes of our speach doe goe beyonde credite,
+as to saie, It woulde haue made a stonie hearte to weepe: hee
+wearied the heauens with his clamour: Shee was fairer then beau&#173;
+
+
+</page>
+
+<page no="81">
+tie herselfe, more cruell then Nero or Phaleris: Worse then the
+Deuill: Whiter then snowe: sighing without ceasing, and infinite
+such like.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="scheme(n)">
+Of Schemes</form> <xpln lang="en" lexeme="orthographical(a)" lexeme="syntaxical(a)">there are two sorts,
+that is,
+Grammaticall, and Rhetoricall.
+Grammaticall are also deuided into two parts.
+that is,
+Orthographicall, pertaining chieflie to Poesie:
+and
+Syntaxicall, which are to be applied to our vses.
+
+Schemes Syntaxicall, are,
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="eclipsis(n)">EClipsis,</form> <xpln lang="en">that is a defect of sence in a word or necessa&#173;
+rie reason, aunswerable to the due construction,
+as when hauing spoken sufficientlie of a matter,
+we close vp the sentence with these wordes, But
+this for that let be, and now to the rest, where after let
+be, this worde (sufficient) seemeth to be wanting. Likewise, what
+might be more in the matter? for what might be more don or spoken
+in the matter. Also to saie, you are not to aunswere or compare with
+him, for you are not meete, sufficient, or able to answere or com&#173;
+pare with him. Or otherwise to say, A man of so rare vertue, so deep&#173;
+lie to be ouerseene, for, is it true that a man of so rare vertue shoulde so
+deeply be ouerseene.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aposiopesis(n)">Aposiopesis,</form> <xpln lang="en" lexeme="interrupted(a)" lexeme="discontented(a)" lexeme="residue(n)" lexeme="bridled(a)" lexeme="proceeding(n)" lexeme="creature(n)" lexeme="complice(n)" lexeme="rehearsal(n)">when by passing to another matter, we stop our speech
+on a sudden, as it were in an interrupted or discontented mood, as
+to say, Are these the practises you take in hand? be these your deuises?
+hath your worthy courage endeuored so mighty effectes? But I will
+first tame your courses, and for the residue, I wil hold you in so bridled
+a meane, that my selfe will warrant you henceforth from any such like
+further proceedings. Or thus, Vngratefull creature, hast thou dealt
+wel with me in thus conspiring my ill that haue euer sought thy good?
+Wel, I wil saie no more, but for thee &#38; thy complices I wil take order
+well inough to stay you. Or otherwise by way of a fearful rehear&#173;
+sall thus: What euill was there whereunto we were not subiect? But
+
+
+</page>
+
+<page no="82">
+whie dwell I in circumstances? wee were the men allotted to that
+purpose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="zeugma(n)">Zeugma,</form> <xpln lang="en" lexeme="conclude(v)" lexeme="looseness(n)" lexeme="shrine(v)" lexeme="mishap(n)" lexeme="craze(v)">when one or more clauses are concluded vnder one
+verbe, as to saie, His loosenesse ouercame all shame: his boldnesse,
+feare: his madnesse, reason: where all these clauses are concluded
+vnder this one verbe, Ouercame. Or thus: What auaileth it to
+shrine so much this vaine beauty, which either by long sicknesse, ex&#173;
+tremity of old age, infinite sorrowes and cares, or a thousand mishaps
+besides, is euery day in daunger or subiect to bee vtterlie crased: In
+which all the clauses before going are concluded in this one verbe
+is in danger, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syllepsis(n)">Syllepsis,</form> <xpln lang="en" lexeme="clause(n)" lexeme="manly(adv)" lexeme="aforegoing(adv)">when one verbe supplieth two clauses, one person two
+roomes, or one word serueth to manie sences, as thus: He runs for
+pleasure, I for feare: where this verbe run, serueth to both purposes:
+also thus: But scorning so to be reproued, and with a manly resolution
+by one stroke giuen, he acquited his shame, his credit, and his person,
+where this one worde acquite serueth to all clauses aforegoing
+and following.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prolepsis(n)">Prolepsis,</form> <xpln lang="en" lexeme="self(a)">where some thing generallie first spoken, is afterwards
+drawne into partes, as thus: Let vs take vpon vs one selfe charge,
+I to direct abroad, you to order at home. Or otherwise: Men diuers&#173;
+lie do erre, some by an ignoraunt simplicitie, others by a most per&#173;
+uerse follie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pleonasmus(n)">Pleonasmus,</form> <xpln lang="en" lexeme="superfluous(a)">where with words seeming superfluous, we do in&#173;
+crease our reasons, as thus: With these eares I heard him speake it:
+Or with mine eies I behelde him sorrowing, where we well knowe
+that without eares or eies, we cannot wel heare or see, yet carieth
+this kind of speech, a vehemency in enforcing the matter so plaine&#173;
+lie, or throughlie to be hard or seene.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Macrologia,</form> <xpln lang="en">where a clause is finallie added to the matter going
+before, in seeming more then needed, as, Men of so high and excel&#173;
+ling vertue, let them euer liue, and neuer die, here neuer die, seemeth
+superfluous, and yet notable wel adorneth the sentence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anastrophe(n)">Anastrophe,</form> <xpln lang="en" lexeme="preposterous(a)" lexeme="inversion(n)" lexeme="confusedly(adv)">a preposterous inuersion of wordes, besides their
+common course, as when we say: for faults, no man liueth without,
+when order requireth we should saie: No man liueth without faults:
+Long when he had confusedly thus liued, for when he had long time
+thus confusedlie liued.</xpln></wordentry>
+
+
+</page>
+
+<page no="83">
+<wordentry type="h"><form lang="en" lexeme="hysteron proteron(n)">Hysteron proteron,</form> <xpln lang="en" lexeme="boot(n)" lexeme="spur(n)">where that which ought to be in the first place,
+is put in the second, as thus: After hee had giuen saile to the winde,
+and taken the Seas, for after he had taken the seas, and giuen saile
+to the wind. Also, That which of all others is most sacred and perma&#173;
+nent, honoured, and euer shining vertue, chuse vnto your selues: for
+chuse vnto your selues honored and euer shining vertue, which of 
+all others is most sacred and permanent: or, as commonly we say
+in our English speech, Pull off my bootes and spurs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tmesis(n)" lexeme="diacope(n)">Tmesis of Diacope,</form> <xpln lang="en" lexeme="word(a)" lexeme="compound(n)">a diuision of a word compound into two
+parts, as, What might be soeuer vnto a man pleasing, that had he, for
+whatsoeuer might be, &#38;c. Hither should he haue come to, when he fi&#173;
+nished his argument: for hitherto should he haue come, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parenthesis(n)">Parenthesis,</form> <xpln lang="en" lexeme="intercluding(n)"> an intercluding of a sentence in any reason common<emend err="">&#173;</emend>
+lie set betweene two halfe circles, as thus: I am content (not in re&#173;
+spect you deserue so much at my hands) onelie for pitie sake to hear&#173;
+ken ynto you, the knowledge hereof is ordinarie, and therefore I
+neede speake the lesse of it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hypallage(n)">Hypallage,</form> <xpln lang="en" lexeme="darksome(a)" lexeme="rife(a)" lexeme="poesy(n)">when by change of propertie in application a thing
+is deliuered, as to saie, Darkesome wandring by the solitary night,
+for wandring solitarilie by the darkesome night, or the wicked
+wound thus giuen, for hauing thus wickedlie wounded him. The
+vse hereof in Poesie is most rife.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hendiadys(n)">Hendiadis,</form> <xpln lang="en">when one thing of it selfe intire, is diuersly layde o&#173;
+pen, as to saie, On iron and bit he champt, for on the iron bitte hee
+champt: And part and pray we got, for part of the pray: Also by
+surge and sea we past, for by surging sea we past. This also is rather
+Poeticall then other wise in vse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asyndeton(n)">Asyndeton,</form> <xpln lang="en" lexeme="clause(n)">when two or three clauses or more disioyned do fol&#173;
+low one another, as to saie his house, his land, his purse, himselfe, his
+life, were all at his commaund. Or thus, he scapte, he ran, he rusht, and
+fled away. Or otherwise, thy fame, thy wealth, thy friends, thy kin,
+and all hast thou lost togithers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polysyndeton(n)">Polysindeton,</form> <xpln lang="en" lexeme="conjunction(n)" lexeme="scourge(n)" lexeme="attendant(a)" lexeme="plighted(a)">when in like sort by many coniunctions sundrie
+words one following the other are vnited together, as thus, Both
+sworde and fire and dearth, three dreadfull scourges of the war were
+alwayes attendant vpon him. Or thus, with faith and troth and pligh&#173;
+ted heart, and loue he made him hers, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="gkt">Hirmos,</form> <xpln lang="en">where a continuance of speech is vsed, vntill the ende
+
+
+</page>
+
+<page no="84">
+of the clause, as God in the b<emend err="">e</emend>ginning made heauen, earth, sea, firma&#173;
+ment, sunne, moone, starres, and all things in them contained: where
+you see all these words, heauen, earth, &#38;c. haue all one continuance
+vntill the last end of the sentence.</xpln>
+<lemenote>
+"Hirmos" is not in the OED in this sense.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epitheton(n)">Epitheton,</form> <xpln lang="en" lexeme="contrariwise(adv)" lexeme="unbridled(a)">when for ornament sake we adde vnto a worde, or for
+mislike do attribute somewhat vnto the same, as when for orna&#173;
+ment we say, Sweet beautie, precious loue, friendlie fortune: Or con&#173;
+trariwise in mislike, vnbrideled lust, filthie gaine, wicked guile, de&#173;
+ceitfull fauour, fond fancie, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="periphrasis(n)">Periphrasis,</form> <xpln lang="en" lexeme="circumlocution(n)" lexeme="peripatetic(n)" lexeme="subverter(n)">when by circumlocution anie thing is expressed, as
+when we say, The Prince of Peripateticks, for Aristotle, the subuerter
+of Carthage and Numantia, for Scipio. A man studious of wise&#173;
+dome, for a Philosopher: A man diuerslie enriched, for one that is
+wealthie, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liptote(n)">Liptote,</form> <xpln lang="en" lexeme="negative(n)">when by the lesse that is spoken, the more maie bee vn&#173;
+derstood, as thus: What auaileth it that thou dost not despise
+me, which is by the contrarie, that thou louest mee, the deliuerie
+thereof is singular by the negatiue, for that giueth grace to the
+Figure, as it discontenteth me not to heare of you, but it griueth me to
+heare ill of you. We are not so ignorant of things, but we can perceiue
+somewhat. That is in the one, it pleaseth mee well to heare of you,
+and in the other, we haue skill to discerne of things, and thereby can
+perceiue somewhat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paradiastole(n)">Paradiastole,</form> <xpln lang="en" lexeme="mild(a)" lexeme="interpretation(n)" lexeme="colour(v)" lexeme="parasite(n)">when with a milde interpretation or speech we co&#173;
+lour others or our owne faults, as when we call a subtill person,
+wise: a bold fellow, couragious: a prodigall man liberall: a man
+furious or rash, valiant: a parasite, a companion: him that is proud,
+magnanimous, and such like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meiosis(n)">Meosis,</form> <xpln lang="en" lexeme="disabling(n)">a maner of disabling, as when we saie, Alas sir, it is
+not in my power to doe it: or otherwise, little God wot could man
+doe in such a case.</xpln></wordentry>
+</wordgroup1>
+
+<heading>
+<term lang="en">
+Schemes Rhetoricall, are
+</term>
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="anaphora(n)">ANaphora, or <term lang="la">Repetitio</term>,</form> <xpln lang="en" lexeme="sundry(a)" lexeme="prop(n)" lexeme="savoury(a)">where by rehearsall of one worde wee
+make sundrie beginnings, as to saie, Learning bringeth to
+knowledge, learning maketh wise, learning enableth to vertue, lear&#173;
+ning is the ornament of the minde, finallie, learning is the onelie sub&#173;
+
+
+</page>
+
+<page no="85">
+stantiall proppe and guide of mans life, without which nothing in
+a manner can bee pleasant, nothing sauourie, nothing of value, &#38;c.
+Or thus, hauing committed so great euils, couldest thou yet dare
+to come in open shewe of the worlde, couldest thou dare to shewe
+thy selfe in the face of men, couldest thou dare to bee seene of anie
+one, that hast thus generallie deserued to bee hated of all: Or other&#173;
+wise thus, When death commeth to chalenge his due, what then
+shall auaile beautie, what youth, what riches, what strength?
+where then shall become thy landes, where thy reuenue, where thy
+possessions? who shall argue thy cause, who stande for thee, who
+plead for thee?</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epanalepsis(n)">Epanalepsis,</form> <xpln lang="en">when with one selfe word, we doe both begin and fi&#173;
+nish a sentence, the vse hereof is meerelie appropriate to Poesie,
+Much asked he of Priams state, of Hector verie much.</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="epizeuxis(n)">Epizeuxis,</form> <xpln lang="en" lexeme="redoubling(n)">or a redoubling of a word, by vehemencie to expresse
+a thing, as thus: Thou thou art he on whom I liue to be reuenged.
+He, he it was that wrought all my care. Thus, thus behooueth men of
+vertue and courage to doe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anadiplosi(n)">Anadiplosis,</form> <xpln lang="en" lexeme="comma(n)">when the last word of a comma or member of a sen&#173;
+tence, is the beginner of another that followeth, as heauens witnes
+my fall, my fall more grieuous then may be well supported by com&#173;
+mon sorrow: or thus, Fie, too much vngratefull, vngratefull to mee of
+all others, that so much at thy hands haue deserued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antistrophe(n)">Antistrophe,</form> <xpln lang="en" lexeme="member(n)">where manie members are drawne to ende with
+one and the same worde, as, we haue our felicitie of vertue, our re&#173;
+nowne of vertue, our hope and expectation of vertue. Or thus: men
+from their errours are reclaimed by loue, reclaimed by hope, reclai&#173;
+med by feare.</xpln>
+<lemenote>
+"Antistrophe" antedates the earliest OED citation (a1620).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="symploce(n)">Symploche,</form> <xpln lang="en" lexeme="estimate(n)" lexeme="aspiring(n)" lexeme="bewitch(v)" lexeme="servile(a)">where sundrie members haue one selfe beginning
+and ending, as thus, If we shall debate of the times present, what
+is I pray you the cause of all these euils? money: what hath beene
+the decay of our estimate? money: what the ruine of our soules?
+money: what the torment of our conscience? money: what the
+meane of all ambitious aspirings, treacheries, and villanies? money:
+In fine, this cursed and wretched title of gaine is it that bewitcheth
+all ages and seasons, and that onelie by a seruile regarde and account
+giuen vnto money: Or otherwise thus in contempt. What sillie
+soule wast thou when I beganne first to like thee? nothing. What
+
+
+</page>
+
+<page no="86">
+when I tooke thee? nothing. What before I cherished and regarded
+thee? nothing. And now that by me thou hast beene made somthing,
+thou esteemest me as nothing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ploce(n)">Ploche,</form> <xpln lang="en" lexeme="emphasin(n)" lexeme="reiterated(a)">when by an Emphasin, a worde is either in praise or dis&#173;
+grace, reiterated or repeated, as thus: Though Scipio were neuer
+so much terrified with the Carthaginians in Spaine, with the Numi&#173;
+dians in Affricke, with aduersaries abroade, and with priuie enemies
+at home, yet ceased he not to be Scipio still, that is, <term lang="la">sui similis</term>, like vn&#173;
+to himselfe still.</xpln>
+<lemenote>
+"Emphasin" not in the OED as a headword.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polyptoton(n)" lexeme="traductio(n)">Polyptoton or Traductio,</form> <xpln lang="en" lexeme="unmanly(a)">when one worde is often repeated by
+varietie of cases, as thus: Who hath in his life nothing so much
+pleasing as the verie life it selfe which he enioyth, it is impossible that
+his life with vertue should anie wayes be adorned: or by translating
+of one worde into diuers formes, as thus: What manhoode call
+you this, so vnmanlie to deale in those actions, that speciallie apper&#173;
+taineth to a man? Here is this word manhood translated into vn&#173;
+manlie and to man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parison(n)"><term lang="la">Membrum</term>, or Parison,</form> <xpln lang="en" lexeme="heap(v)" lexeme="patrimony(n)" lexeme="estrange(v)" lexeme="defame(v)" lexeme="copulation(n)" lexeme="discreetly(adv)" lexeme="undoing(n)">when one or moe members doe followe
+in equall sentences, as thus: See now by one fault how manie mis&#173;
+chiefs thou hast heaped to thy selfe, thou hast consumed thy patrimo&#173;
+nie, grieued thy parents, estranged thy friends, defamed thy stocke, vn&#173;
+done thy kindred, and heaped mischiefe a thousand folde to thy selfe
+more then can be auoided: or thus with copulation: neither hast thou
+herein dealt discreetlie for thy selfe, nor respected thy frends, nor re&#173;
+garded thy being, nor studied of the euill, nor cared for the good that
+might happen, but leauing al at randon, thou hast done what in thee
+lieth to worke all our vndoing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="homoeoteleuton(n)">Omoioteliton, or <term lang="la">similiter cadens</term>,</form> <xpln lang="en" lexeme="maliciously(adv)" lexeme="hatefully(adv)">when words and sentences in one
+sort do finish togithers, as thus: Weeping, wailing, and her handes,
+wringing, she moued all men to pitie her. Or thus: Thou liuest mali&#173;
+ciouslie, speakest hatefully, and vsest thy selfe cruelly. Or thus: Wee
+find it much better of wise men to be rebuked, then by filthie flatterie
+to be fondly deceyued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prosonomasia(n)">Prosonomasia,</form> <xpln lang="en" lexeme="collusion(n)" lexeme="doter(n)" lexeme="bewrayer(n)">a pleasant kind of collusion in words, in significa&#173;
+tions diuers, only by changing, detracting, or adding a letter or sil&#173;
+lable in a word, as to say, No doubt he is a foole wise man, for a full
+wise man, for a Doctor, a Doter, or otherwise, thou art no bewraier,
+but a betraier of mens counsels. Of one religious thou art become
+prodigious.</xpln></wordentry>
+
+
+</page>
+
+<page no="87">
+<wordentry type="h"><form lang="en" lexeme="antanaclasis(n)">Antanaclasis,</form> <xpln lang="en" lexeme="portend(v)">when we produce a word in a contrary significati&#173;
+on to that it commonlie portendeth: as to saie, For my kindnesse
+you haue vsed me kindly, meaning indeede you haue vsed mee verie
+badly. And I can bee contented to pray with you though you pray
+not vppon me. Where this worde kindly is applied to the worser
+part, which of it selfe carieth as wee see a far other meaning: and
+likewise pray in one sence being to entreate, is in another sense
+intended here to spoile. And as another said to a rude fellow, you
+are too course to keepe course in our companie, here is course for
+rudenes, and course in another sense for good order.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="erotema(n)">Erotema or <term lang="la">Interrogatio</term>,</form> <xpln lang="en" lexeme="interrogation(n)" lexeme="sift(v)" lexeme="asseveration(n)" lexeme="commiseration(n)" lexeme="intermeddle(v)">when by interrogation we sift out anie
+thing somtimes by demand, as to saie, But you sir, now fr<expan type="o+_">om</expan> whence
+I pray you, deriue you your fancie? by asseueration, as to saie:
+Haue you not in this action behaued your selfe excellent well? By
+commiseration, as to saie: Alas what grounde may holde mee,
+what lande or shore may possesse mee, circumuented as I am with
+so many euils? By vrging, as thus, What hadst thou to inter&#173;
+meddle in so bad a company? How long shall wee bee thus abused
+with so fained treachery? Art thou not ashamed seeing thy purpo&#173;
+ses thus reuealed? Perceiuest thou not thy driftes to bee all discoue&#173;
+red? By indignation, as to saie, Shall I yet couer thy villanies be&#173;
+ing at thy handes thus hatefully misused? or thus, Wicked and per&#173;
+uerse kinde of people, howe long will you thus hatefully deale with
+your fauorers? By admiration, as to saie, Good Lord, who woulde
+haue thought so much loosenesse in so chaste a countenance! But
+what is it that this blind and sottish loue draweth not a man headlong
+into? And lastly, by doubting, as thus: What shall I say, or what fur&#173;
+ther speeches may I vse to withdraw you from these euils? Or other&#173;
+wise: Whither shall I turne me to speake vnto you, or what wordes
+may I vse whereby to withdraw you from these vanities?</xpln>
+<lemenote>
+"asseveration" antedates the earliest OED citation (1621).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anthypophora(n)">Anthypophora or <term lang="la">Subiectio</term>,</form> <xpln lang="en" lexeme="deliberative(a)" lexeme="confute(v)" lexeme="misliked(a)" lexeme="cautelously(adv)" lexeme="gainsayer(n)" lexeme="subverted(a)" lexeme="runnagate(a)">when to a question asked by vs, we an&#173;
+swere of our selues in our own reasonings, the maner whereof is
+accomplished three kinde of waies, as first when wee obiect vnto
+our selues that which to others might be obiected, and answere it
+againe. Secondlie, when we do (as it were) vrge those we speake
+vnto to answere vs, and so answering, do confute their sayinges.
+Thirdlie, when in a deliberatiue sort we propound diuers things,
+and refute them all one after another. Example of the first maie
+
+
+</page>
+
+<page no="88">
+bee this. Is this a maner of discipline? Doe men in such sort deliuer
+their instructions? Had they for this cause the authoritie of tutors to
+them giuen, that in vanities and misliked pleasures, they who are
+committed vnto their charge, shoulde consume their youth vnder
+them? Beleeue me I am of a farre other opinion, neither do I thinke,
+that the reasonable time of young men, being now fittest of all others
+for anie vertuous impression, shoulde thus cautelouslie be deluded of
+that, whereunto both their parents and birth do commend them. Of
+the second, this: Nowe after al these proofes of the happie comming
+and acknowledgement of our true and onelie Messias: Let me speake
+vnto you againe, yee Iewes, enemies, and maligners of our sole and
+onelie God and Sauiour Christ Iesus, with what reasons strengthned
+doe you persist in your madnes? Stande ye vpon the Oracles of Pro&#173;
+phets? Wee haue made plaine vnto you that they are wholie for vs.
+Looke ye after Moyses? It was only of our Christ, and none other that
+he that written. Waite ye on Types and Figures? They all in one do
+agree to bee in him fulfilled. Preferre you vnto vs miracles? Who
+could desire more then by him was shewed. Bring you against vs a
+number of consents? Alas you onely bring the smallest number, and
+lurking as it were in a corner, are the gainsayers of trueth it selfe, sith
+the whole world round about you doth witnes for vs. Doth the hope
+of any euent yet a little detaine you? Beholde your temple long since
+subuerted: your sacrifices quenched, your Citie rased, your people
+runnagate and dispersed, nor anie hope at all left vnto you to be re&#173;
+lieued but by the clemencie of the Christians. Of the thirde, this.
+Tell mee I praie, what or wherein is it, that a worldlie man hath
+such meane to glorie in? wherein shoulde hee bee proude, or for
+what cause should he thus puffe vp himselfe in vanitie? Is it for his ri&#173;
+ches? they neuer make a man either happy or blessed, so farre off are
+they many times from anie such euent, as often wee do see that they
+are the verie cause of their owners destructions, they sundrie waies
+are meanes to inconueniences, and in our owne sight forsake their
+maisters in their life times, but seldome followe them for ought wee
+see to their graues. Is it for children? The keeping of them is then of
+riches far more vncertaine. Is it in respect of a wife, familie and o&#173;
+ther such like commodities? they are vexations, cares and griefes, no&#173;
+thing in them stable, nor such as may induce a man to any hoped
+tranquility, &#38;c. There is also of this sort another example, by an
+
+
+</page>
+
+<page no="89">
+immediate answere to euerie question, as thus: Wherfore then is
+the law? for transgressors, wherefore reward? for wel-doers. Or thus:
+Where is now their pride? vanished. Where are their boasts? deluded.
+Came they to aide vs? no, rather to suppresse vs. Came they to com&#173;
+fort vs? no, but to kill vs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antanagoge(n)">Antenagoge,</form> <xpln lang="en" lexeme="mislike(v)" lexeme="commodious(a)">when hauing spoken as it were in the dispraise or
+mislike of a thing, we goe about to helpe the same againe with a
+new colour to the matter: As to saie, It is a thing difficult to attain
+learning, but yet verie commodious. It is tedious to trauell for sundry
+knowledges, but vnto our liues it is a thing most necessary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ecphonesis(n)">Ecphonesis or <term lang="la">Exclamatio</term>,</form> <xpln lang="en">which hath signification of griefe or in&#173;
+dignation of a thing, as of griefe thus, O cruell and lamentable
+times wherein wee liue, subiect as wee are to so manifolde miseries!
+Of indignation thus. O incredible boldnesse, or rather impuden&#173;
+cie of a shamelesse creature: not fit to bee suffered. Neither is this
+manner speaking, alwaies framed by the Interiection O, but
+rather otherwise, as thus: Vnhappie man, made vnhappie by so
+great a misfortune, what vnkinde destiny droue him to so imminent
+a perill? Howe miserable and vncertaine is the state and condition of
+man, subiect to so many and so huge calamities? Or otherwise, What
+kind of people are you to rage in so vile a madnesse? Was euer seene a
+multitude so fierce, a company so carelesse, an assemblie so desperate?
+What inconsiderate dealing do you vse? I shame to see you, &#38; grieue
+to behold you, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Insultatio,</form> <xpln lang="en" lexeme="contumelious(a)" lexeme="injuriously(adv)" lexeme="trudge(v)" lexeme="insatiable(a)">when iniuriously, or by a contumelious reproch we in&#173;
+sult vpon a mans doings, as thus: Trudge on with thy mischiefs,
+proceed in these thy insatiable cruelties, and he that hath power ouer
+al, wil one day I hope correct thee. Or otherwise, Pursue I pray you
+your glorious enterprise, you haue, no doubt, very waightily begun,
+&#38; we cannot but expect thereof a notable issue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aporia(n)">Aporia or <term lang="la">Dubitatio</term>,</form> <xpln lang="en" lexeme="wade(v)" lexeme="inveterate(a)">when wee make staie or doubt howe to
+tearme a thing, or which waie to wade in a matter, as thus: What
+shoulde I say, was it anger or an inueterate malice that led him to this
+mischiefe? Shall I cal him cunning as cautelous, that procured it, and
+so well could shift himselfe of it? Or otherwise thus: May hee bee
+said to be beloued, or rather fortunate or blessed, to haue escaped such
+daungers? is it to bee tearmed clemencie or rather piety to vse one so
+miserable with great curtesie. Or thus: I am not well perswaded
+
+
+</page>
+
+<page no="90">
+what course to take in these causes, shall I begin where others haue
+left? or of my selfe shall I renewe againe vnto you what you haue so
+often heard? &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Paradoxon,</form> <xpln lang="en" lexeme="affined(a)">affined vnto that before, but with a kinde of mar&#173;
+uelling or woondering thereunto added, as thus: Could it possi&#173;
+bly bee thought that learning and place of good education might
+euer haue produced such monstrous effectes? Or otherwise: I
+haue great maruell that men so generous, should so quickly be diuer&#173;
+ted from their honest purposes. Or thus: I woulde neuer haue belee&#173;
+ued that such graue and considerate counsels shoulde so easily haue
+beene subuerted.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Epitropis,</form> <xpln lang="en" lexeme="tempestuous(a)" lexeme="auditory(n)">when by proposing a cause, wee reason what should
+bee done therein, as thus: In times so troublesome and seasons so
+tempestious, giue now your aduise what is fit to bee done. If the case
+were your owne, what would you doe, what would you say therein,
+tell me I pray you, you that conuerse in these and such like actions, I
+herein appeale vnto your wisdomes, your owne consciences, shewe
+me but your mindes herein. And this figure is vsed in reasoning,
+when as to conclude a matter, and seeming loath to trouble the
+auditorie anie further in the same, we pretend to reserue a great
+part thereof, which we would refer to their iudgements.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parrhesia(n)">Parresia,</form> <xpln lang="en" lexeme="liberty(n)" lexeme="speak(v)">or libertie to speake, when by winning of curtesie to
+our speech we seek to auoid any offence thereof, as thus. Pardon if
+I be tedious, the circumstance of the cause requireth it. If my speech
+seeme vehement, the matter occasioning the same is vrgent. If what
+I write seeme offensiue vnto you, you haue to mislike the ill dispositi&#173;
+on of such as inforce it, and not with me to be agreeued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apostrophe(n)">Apostrophe, or <term lang="la">Auersio</term>,</form> <xpln lang="en">when wee turne our speeches from one
+person or thing to another, as if one hauing spoken much of the
+vanitie of the worlde shoulde thereupon turne and saie vnto the
+worlde, O world, how sweete and pleasant are the shewes of those
+things which thou producest: but in taste, how full of too much bit&#173;
+ternes? Or in speaking of the certaintie of death, and the little re&#173;
+spect thereof had, to turne a mans speach to death it selfe and
+saie, O death, how bitter is thy remembrance to a man hauing peace
+and plenty in his riches, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prosopopoeia(n)">Prosopop&#339;ia,</form> <xpln lang="en" lexeme="replenished(a)" lexeme="proy(n)" lexeme="paracide(n)" lexeme="patrimony(n)" lexeme="render(n)">when to things without life wee frame an action,
+speech or person, fitting a man, as if we should saie of vertue, as of
+
+
+</page>
+
+<page no="91">
+a liuing person, that her wayes were sweet, and replenished with all
+maner of delight, that she putteth her selfe foorth to the woorthiest to
+be receyued, and to the most honoured to be embraced. Or faine the
+ghosts from out their graues to prescribe good examples, or to re&#173;
+buke the vices of men. Or our countrey to accuse vs of our neg&#173;
+ligent regard vnto it in these or such like speeches: Vnkind people
+and Citizens whom I haue ingendred in my bowels, nourished with
+my paps, fostered with my delights, why doe you thus vngratefullie
+not onelie abstaine to tender mee, but giue mee an open proy to my
+foes to suppresse mee: yea, which is most loathsome of all others,
+become proper murtherers and paracides of your owne paren&#173;
+tage and familie, cruell destroyers of your owne patrimonie, and
+wretched renders and tearers of your mothers bowels, without all re&#173;
+gard or pitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Synonymia,</form> <xpln lang="en" lexeme="topsy-turvy(adv)" lexeme="prosecution(n)">when we bring foorth many wordes together of one
+signification, or sounding all to one purpose, as to say, thou hast
+spoiled thy Countrey, destroied thy Citie, and turned the Common&#173;
+weale topsie-turuie: all which do sort but to one purpose, for the ex&#173;
+pressing the hatefulnesse of the iniurie: or otherwise to say, What
+head hadst thou to deuise such a thing, where was thy wit when thou
+wentst about it, what became of thy minde in purposing the same,
+whither was thy discretion caried in the prosequution? Here is head,
+wit, minde and discretion, all sorting to one thing. Also, what desirest
+thou, what soughtest thou, what couldest thou wish or expect in the
+action. Here is desired, sought, wish and expect, being all to one
+meaning.</xpln>
+<lemenote>
+Spelling of "Synonymia" in "ia" is not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="auxesis(n)">Auxesis or <term lang="la">Incrementum</term>,</form> <xpln lang="en" lexeme="exigent(n)" lexeme="unwarily(adv)" lexeme="recital(n)">where by degrees we not onlie rise to
+the summe of euerie thing, but also sometimes go beyond, as to
+say, Hee first set vpon him with reproachfull wordes, after assayled
+him with his weapons, then wounded him, and lastlie did moste mi&#173;
+serablie murther him. Here by degrees is passed to the last exi&#173;
+gent. Now to the second. It is euill to reproch, wicked to slaunder,
+villanous vnwarilie to strike, detestable to murther. What shall I
+say to betray a man to all these. Here is now <term lang="la">vltra summum</term>, beyond
+all that was spoken to the vttermost. The excellencie of this Fi&#173;
+gure is so much the more, by howe much euerie degree is still in&#173;
+forced one aboue another, and goeth beyonde in comparison, as
+to say: golde, riches, honour, estate, treasure, kingdomes, life, and all
+
+
+</page>
+
+<page no="92">
+he helde of no moment. Another kinde of recitall pertaineth also
+to this figure short in repetition, but for vehemencie wonderfull,
+as to say: Thou hast conspired the death of thy Prince, and in her
+the subuersion of a whole kingdome, what should I say thou hast
+conspired the death of thy Prince. As who would enforce that no
+one thing then that could be greater: Finallie, for inforcement
+of a thing, to say in reprehension of follies. If thou hadst done or
+spoken this in a priuate audience, among men of the ruder and meaner
+sort, among such as are lesse capable of skill then a great many others,
+thy fault could not haue beene hid: but to doe it before thy betters, in
+the presence of such as are adiudged both honorable and wise, in the
+hearing of those of great account of such as haue power to checke,
+and authoritie to compell thee, it was too peeuish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sinathrismus,</form> <xpln lang="en" lexeme="contentious(a)">a heaping of words diuersly signifying togithers,
+as to say, Hee was a man wholie malicious, exceedinglie proude,
+vtterlie arrogant, altogither subtill, by nature cruell, and in speeches
+contentious. Or otherwise thus: What should I tell thee further of
+his partes, how wise, how sober, how honest, howe courteous, howe
+friendly, how choicelie he liued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Brachiologa,</form> <xpln lang="en" lexeme="coupling(n)">when in single wordes without anie coupling to&#173;
+gethers, we proceed in a broken kind of deliuerie, and yet hasten
+forward as in the other: As to saie, loue, hate, Ielousie, frensie, furie,
+drew him from pitty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antithesis(n)">Antithesis, or <term lang="la">Contentio</term>,</form> <xpln lang="en" lexeme="chary(a)" lexeme="placable(a)" lexeme="inexorable(a)">when we amplifie by contraries, as to
+say, Being in my power to vse as I listed, I cared for thee, and did not
+destroy thee. Thou wast charie vnto me wh<expan type="e+_">en</expan> no man regarded thee,
+and when my selfe also might haue despised thee. Or otherwise: If
+you doe that is good, you haue the rewarde of praise, if you prose&#173;
+cute badnesse, your merite is euill. Or thus: To thy enimyes and
+those that maligne thee, thou art placable: to thy friendes, inexo&#173;
+rable. In coole matters thou art hotte: in the hottest causes, colde:
+Art thou called? Thou art gone. Thy absence required? we cannot
+be rid of thee.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epanodos(n)">Epanodis,</form> <xpln lang="en" lexeme="margent(n)">carrieng a reference to the matter preceding, much
+like to the figure Prolepsis, but that <expan type="y+e">the</expan> figure Prolepsis, hath relation
+onelie to the matter, this to the matter and tearmes therein v&#173;
+sed, the difference whereof you maie see in some of mine epistles
+as the same is quoted in the margent where the figure is vsed.</xpln></wordentry>
+
+
+</page>
+
+<page no="93">
+<wordentry type="h"><form lang="la">Comparatio,</form> <xpln lang="en" lexeme="bondslave(n)" lexeme="toy(n)">which taketh his increase of smaller matters, which
+if they may seeme great in all opinions, then that which we seeke to
+amplifie must of necessitie seeme greater, sometimes also by di&#173;
+minution of things great, to make the residue the greater, exam&#173;
+ple of the first may bee that saying of Cicero of Catiline, in these
+wordes, Did the famous Scipio for a little ill gouernment of the com&#173;
+mon weale, cause Tiberius Gracchus priuatelie to bee made awaie:
+and shall wee preferre Catiline that goeth about to fill the whole
+worlde with his slaughters? Here is Catiline compared to Grac&#173;
+chus, the state of a common wealth to the whole worlde, a small
+sliding to an insufferable wasting, and a priuate man to the whole
+Senate. Or otherwise thus: Tell mee I praie thee, if one had gi&#173;
+uen thee but a small summe of money to comfort thy neede with&#173;
+all, were it not humanitie to thanke him: If hee had giuen thee
+possessions to liue vppon, were it not honestie to requite him: If of a
+slaue hee made thee rich, shouldest thou not bee bounden vnto
+him? Howe much more then to him that hath not alonelie done all
+these, but farre more then these vnto thee, oughtest thou in the verie
+bondes of nature and courtesie to bee both thankefull and louing?
+Example of the seconde sort for diminution might bee this: What
+is it that you propose vnto mee these small matters of vnkindnesse, as
+that the man is ingratefull, that hee hath no good remembraunce of
+courtesies, that there is in him not so much as an acknowledge&#173;
+ment, which is a thing farre from requitall, these I must confesse are
+iniuries to some, but vnto mee they are trifles, matters of no moment,
+things not to bee reckoned of: what say you to him that betrayeth
+his friend, seeketh his death that hath sought his life, worketh by all
+possible meanes his ouerthrow, his destruction and vndoing? And
+in this exaggeration of vices, so also might there bee the like of
+Vertues, as if one should exhort a man to Pietie, after hee had set
+foorth all the commodities thereof, as the tranquilitie of minde,
+peace of conscience, libertie of spirit, the communion with Saints, from
+a bonslaue of the diuell to become the childe of God, the comfort of
+the holie Ghost which the Prophet denieth may be by man concey&#173;
+ued: he might lastlie adde, what thinges then these in all the worlde
+could be greater, what more singular, what more happie, and yet if
+they be conferred vnto that blessed heritage of immortalitie, if to the
+life and ioyes to come, if to that heauenlie Ierusalem, which certainlie
+
+
+</page>
+
+<page no="94">
+remaineth for all such as are endued with such a spirit: they are toies
+and things of no excellencie or moment.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metanoia(n)">Metonoia,</form> <xpln lang="en" lexeme="ravener(n)">when by a sudden restraint of speech, wee giue grace
+or mislike to a person, or thing, as to saie, worthilie atchieued? nay
+rather honourablie attained, a man notable, we maie rather saie, sin&#173;
+gular: Ah cruell man, and no man neither, but a beast: Oh rare cle&#173;
+mencie, or rather most admirable patience. Hee is no thiefe, but a
+rauener: no murtherer, but a tyrant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aphorismus,</form> <xpln lang="en" lexeme="firebrand(n)" lexeme="unmeet(a)">a Scheme, like vnto the other, but differing by a
+maner of reprehension, as to saie, What lawes bee these, if at least
+wise they may be termed lawes, which beare in them so vile customs,
+and not rather firebrands of the citie, and the plague of the whole
+common weale. Or otherwise: your counsellers, if such may be called
+counsellers, as draw vnto mischiefe, are vtterlie vnmeete to such kinde
+of assemblies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Diminutio,</form> <xpln lang="en" lexeme="extenuate(v)" lexeme="redound(v)">when we goe about to extenuate things difficult, to
+make them lesse in seeming, as to one that would shun learning,
+for the tediousnesse thereof in studie: We might shew, that besides
+the great necessitie thereof in the life of man, wee shall in attaining
+thereof, take no other nor more laboursome course, then others be&#173;
+fore vs haue done: that the way thereunto is verie plaine and easie, the
+labour (if anie be) sweet and pleasant. And whereas in all our ordinarie
+exercises of vanitie, there redoundeth for the most part in the ende but
+meere trauaile, and vnprofitable charge: in this the commoditie is as
+great as the delight, the gaine as ordinarie as the practise, wherein the
+studie is but the least part of a mans life, but the pleasure and commo&#173;
+dity infinite. And like as in this, so in all other things, conducing to
+good and laudable exercises, the labour is still diminished, by pro&#173;
+posing the worthines, pleasure, honour, profit, and so of euils com&#173;
+monlie, by mitigation of the fault.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="climax(n)">Climax, or <term lang="la">Gradatio</term>,</form> <xpln lang="en">when each member in a sentence ariseth
+from the other afore going, beginning with that which endeth the
+former, as to say, His industrie bred him vertue: his vertue, praise:
+his praise, renowne: his renowne, glorie: and his glorie enuie. Or
+thus: What hope haue we of good, if what men list, they may; and
+what they may they do, and what they doe they dare, and what they
+dare they prosecute, and what they prosecute, they are neuer asha&#173;
+med of.</xpln></wordentry>
+
+
+</page>
+
+<page no="95">
+<wordentry type="h"><form lang="la">Antimetauole <term lang="en">or</term> Commutatio,</form> <xpln lang="en">when a sentence by charge is in&#173;
+uerted to the contrarie, as thus, We must eat to liue, and not liue to
+eat: Not man for the Sabboth, but the Sabboth for man was ordai&#173;
+ned. They are happy whose wisdome is answerable to their fortune,
+and whose fortune answereth their wit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="synoeciosis(n)">Sin&#230;ciosis,</form> <xpln lang="en" lexeme="prodigal(n)" lexeme="covetous(n)">when one contrary is attributed to another, or when
+two diuerse things are in one put together, as thus. The prodigal
+and couetous doe offende alike, for neither doe liue as they ought.
+Pleasure it selfe is sometimes a labour, and labour also is often a plea&#173;
+sure. To a couetous man is wanting as well that he hath, as that hee
+hath not.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Etiologia,</form> <xpln lang="en" lexeme="beforegoing(a)" lexeme="distinguishment(n)">a figure like vnto the other beforegoing, and much
+resembling to Orismus, which defineth a matter by sorting the
+same into a distinguishment: but this nowe telleth the cause or
+reason of that which is before auerred, and is as a confirmation
+thereunto giuen for the concluding of the same, you maie see the
+examples as the figure is quoted in my Epistles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paralipsis(n)">Paralepsis, or Occupatio,</form> <xpln lang="en" lexeme="perdurable(a)">when in seeming to ouerpasse, omit, or let
+slip a thing, we then chiefly speake thereof, as thus: I will not here
+rehearse vnto you how slippery and transitorie this life is, howe much
+laden with cares, exposed to daungers, and attended with miseries,
+for we knowe it and feele it: But I will come to speake of the perdura&#173;
+ble ioies of the other, &#38;c. Or thus, for my part I haue no pleasure to
+laie open other mens errors, it is inough vnto me, that by themselues
+they are made apparant, and that the whole worlde may see them.
+I omit to report vnto you these and such like ordinary matters, which
+in comparison of that I will shew you are but trifles. I tell you not, or
+I talke not now of times past. It is not the matter wherein I am now
+occupied. His theft, his rapine, his spoile, and all his whole disorderlie
+course of life in those daies perpetrated, I nowe omit, and onely doe
+come to the times present. His counselling (I had almost said concea&#173;
+ling) of good when time was, if it bee well noted, was it that procu&#173;
+red our mischiefes, &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="procatalepsi(n)">Procatalepsis or <term lang="en">Pr&#230;occupatio</term>,</form> <xpln lang="en">when we doe anticipate vnto our
+selues that we know wil be obiected, as thus, what do you obiect
+vnto me the times passed, those seasons &#38; ours are vtterly vnlike. But
+peraduenture you will say that these things are for children fit to bee
+considered, nay rather meetest of old men to be followed. You will
+
+
+</page>
+
+<page no="96">
+happely say vnto me herein, that I am too light of credit: but I can tel
+you the proofe is extant, and fit to be beleeued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metastasis(n)">Metastasis or <term lang="la">Transitio</term>,</form> <xpln lang="en">when in briefe wordes we passe from
+one thing to another, as thus, You haue hearde by this what you
+ought to consider, heare now I pray you what you are bounde to re&#173;
+member. These things you will say are pleasant, but the rest yet vn&#173;
+told are far more delightfull. This already shewed vnto you seemeth
+to be tolerable, that which followes is no waies to be suffered. I haue
+now told you what was done in priuate, I will next shewe you what
+was handled in publike: these things he did at home, that which fol&#173;
+loweth was abroade in the fielde: whilst hee was a young man, hee
+did this I told you, but the vertues of his age were far more different.
+You haue vnderstood of maners, I will now speake vnto you of lear&#173;
+ning: I will not trouble you with many things further, only this one
+thing will I rehearse vnto you. But of these enough, we will now go to
+the rest. I haue somthing beene caried away with these motions, but
+we wil now go to the substance. But why stay we so long in trifles? I
+wil go to the head of the matter: what he promised I haue deliuered,
+what he performed you shall vnderstande: I haue thus shewed you
+how much he was charged vnto me, you shal now heare againe how
+gently he requited me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paromologia(n)">Paramologia,</form> <xpln lang="en">where we graunt one or moe thinges meete to be
+marked or alleadged, and forthwith doe infer thereupon suffici&#173;
+ent whereby to ouerthrow it, as thus: I deny not but I haue here&#173;
+tofore vsed you in causes secret, in matters weighty and of counsell,
+that I haue found you friendly, faithfull and ready: but what is all that
+to the purpose, when in a thing so important, and matter neerly con&#173;
+cerning me, as whereon dependeth the safegard of my whole house
+and familie, I haue founde you in both negligent and vntrustie.
+Or otherwise thus: Be it, or suppose you haue omitted nothing in
+your owne person, of a friende to be performed, that you were no
+partaker with him of those euill counsels: that you abstained to ac&#173;
+company him in the execution of his mischiefes, yet are you not ther&#173;
+fore cleared. For it is not sufficient for a man not to doe euill of him&#173;
+selfe, but that by to too much lenity he become not occasion of an o&#173;
+thers mischiefe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dichologia,</form> <xpln lang="en" lexeme="mitigation(n)" lexeme="astray(adv)">when by a colour of mitigation wee defende our
+cause, as to saie: I fell, I confesse, but as a young man, I went astray,
+
+
+</page>
+
+<page no="97">
+but as one willing to be reclaimed: I forsooke my friend indeede, but
+constrained by the lawes, I was a companion in their badnesse, but
+forced by threatning.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Orismus, definitio, <term lang="en">or</term> finitio,</form> <xpln lang="en" lexeme="suffisance(n)">wherein we brieflie laie forth the true
+properties of euerie thing, by impugning the contrarie, as thus:
+Men cannot be said in vertue to exceed, for in vertue there is euer an
+excellency, but neuer an excesse, sith the excesse is onely appropriate
+vnto vices. This cannot be said to be care but couetousnesse, for care
+hath onely respect to necessary vses, but in couetousnes, there is neuer
+any reasonable suffizance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hypotyposis(n)">Hypotyposis,</form> <xpln lang="en" lexeme="trunk(n)">when any thing is described in particular, or made
+knowne to the viewe, as thus: Shall I tell you what maner a one
+you haue preferred vnto mee, for his stature, a Dwarfe: for his per&#173;
+son, a trunke: for his qualities a dog: for his countenance, a foxe: in
+behauiour a swine: in condition, an Ape: in sense, an Asse, and in v&#173;
+sage, a beast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="merismus(n)">Merismus or <term lang="la">Distributio</term>,</form> <xpln lang="en" lexeme="enrichment(n)" lexeme="bark(v)">when that as maie bee generallie
+spoken we distribute for amplification into parts: as if in genera<emend err="">&#173;</emend>
+litie we said: He hath consumed all his substance in riot: By distri&#173;
+bution wee might amplifie thus: Whatsoeuer patrimony hee had
+from his father, what priuate inrichment by his deceased mother,
+what large assistance by friends, whereat the worlde neuer barked,
+what dowry soeuer by his wife, which no doubt was very great, all
+this hath he consumed by a most dissolute and wanton liuing: mony,
+plate, lands, wealth, possessions and all, are gone to the deuil, his cattel
+consumed, his houshold stuffe solde, his apparell spent, and the poore
+miser at this instant hath not left him a farthing.</xpln>
+<lemenote>
+"inrichment" antedates the earliest OED citation ("enrichment, n."; a1626).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dialysis(n)">Dialisis,</form> <xpln lang="en">a separation of one thing from another, both being ab&#173;
+solued by a seuerall reason, in the nature of a Dilemma, as thus:
+When I haue preached vnto you all I may, if you bee well giuen it a&#173;
+uaileth, if graceles, forth you wil not be moued. Or thus. What should
+I further set forth vnto you my good will, if you remember it, I haue
+said inough, if not, my words wil not prouoke you.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dialogismus <term lang="la">or</term> Sermocinatio,</form> <xpln lang="en" lexeme="shrined(a)">an imaginatiue speach, agreeing
+to the quality of the person it is framed of. Whether he be valiant
+cruell, young, old, or of what other condition, as if we shoulde saie
+of the times present. Were the ancient Apostles and olde Fathers
+of religion nowe liuing, which with great innocencie of life, and true
+
+
+</page>
+
+<page no="98">
+pietie, shined in their seasons, and should but beholde the most cor&#173;
+rupt and abhominable estate of our times, subiect as they bee to all
+kinde of euils, would they not thinke, you straight proclaime against
+vs the vniust name of Christians, and challenge vs for the great want
+we haue of the true profession thereof? Would they not rather cry
+out of vs that deluding ourselues onely with a vaine title or name of
+Christians, we do not so much as seeke in the meane time to followe
+any part thereof?</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epiphonema(n)">Epiphonema,</form> <xpln lang="en" lexeme="pithy(a)" lexeme="cup(n)" lexeme="confection(n)">or conclusion to a matter before shewed, as
+thus: Of so woonderfull force was his wisdome, which was able
+to compasse that in short time, which a number haue diuerslie
+sought for, and could neuer hetherto obtaine. Or thus: Such is the
+force of Nature which seldome wee doe see is euer chaunged by
+anie colours. Much haue they forsaken that haue cast all from them&#173;
+selues. It is commonlie the conclusion or making vp of a dis&#173;
+course or sentence by some pithie manner of speaking. As if a
+man shoulde inueigh against drunkennesse, hee might thus con&#173;
+clude, Hee nowe that thinketh it parcell of humanity, by thrusting
+on of many cuppes to driue his friend into drunkennesse, let him also
+thinke it kindnes, by a venemous confection giuen, to driue him into
+madnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Expeditio, <term lang="la">or</term> enumeratio,</form> <xpln lang="en" lexeme="averment(n)" lexeme="conjectural(a)">when many reasons of auerment being
+numbred togethers, we make a confutation of them, each one in
+particular, as thus: The goods in question beeing alleadged to bee
+mine, it is requisite you prooue, either that you had them by chance,
+that you haue long held or enioied them, that you bought them with
+your money, or otherwise that by some gift you came to them, or last&#173;
+ly, in succession that you haue obtained them. That you had them by
+chance it cannot be, for they were not lost from my keeping. Long
+haue you not held them, for they were alwaies till this in mine owne
+possession. It is plaine you neuer bought them, for you paide mee no
+mony for them. By gift you could not haue them, for the right was in
+me to giue them. The succession must be void, for my selfe am yet li&#173;
+uing. It remaineth then if you keep them, that liuing you doe cast me
+out of mine own possession. This chiefly appertaineth to the Iudi&#173;
+ciall Epistles in the state Coniecturall.</xpln></wordentry>expediti
+
+<wordentry type="h"><form lang="la">C<expan type="m+_">om</expan>moratio,</form> <xpln lang="en" lexeme="lier(n)">when matters diuerslie enlarged, are yet staid vpon,
+and lastlie brought into one short conclusion, wherby the reasons
+
+
+</page>
+
+<page no="99">
+are made more weightie, and of the greater efficacie, <damage>as</damage> thus.
+What will you make of this man, whom ye seeke in this maner to set
+free, you see he is a man prodigall of his owne fame, &#38; a lier in waite
+for others credits, one full of guile, intemperate, railing, proude and
+ambitious, to his parents most wicked, ingratefull to his friends, hated
+of his owne kinsemen, stubborne to his superiours, insolent with his
+equals, to his inferiours cruell, and finallie to all persons whatsoeuer a
+creature most intolerable.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sententia(n)">Sententia,</form> <xpln lang="en">A recitall of some graue matter by waie of a notable
+saying or sentence, either by common custome admitted, or by
+some authour deliuered, examples whereof are plentifullie to bee
+seene in my Epistles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Exuscitatio,</form> <xpln lang="en" lexeme="rabble(n)" lexeme="extirp(v)">A prouocation or stirring vp of others to the praise
+or mislike of a thing, as thus: What one is hee of so slender or
+contemptible a spirit amongst vs, or who of all our Nation woulde
+bee counted so enuious, as vpon so great and large a desert had by
+a man so woorthie, woulde not willinglie render vnto him all ho&#173;
+nour and due commendation? Likewise of the contrarie for
+dispraise. Doth it not abhorre you to heare and vnderstand of a rabble
+of so great and vnaccustomed lewdnesse, a man euerie way so vile, to
+goe thus freelie vnpunished? Surelie I doe thinke no honest minde
+but would be of this opinion, that of all creatures liuing hee were most
+worthie to be extirped.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Omiosis,</form> <xpln lang="en">The figure of resemblance or similitude, whereby wee
+resemble one thing to another, as thus: Like as they greatlie do of&#173;
+fend, who going to a publike well, whence all a whole citie hath their
+water, do infect the same with a most deadly poison: Euen so do they
+most wickedly merit of the common weale, who deprauing the mind
+of a Prince, doe lade and frequent the same with most mischieuous
+counsels. Or thus: Is it seene that men at the blast or byting of a Vi&#173;
+per, do shrinke, and forthwith do run for a medicine? How much more
+ought they th<expan type="e+_">en</expan>, for the auoiding of a most horrible shame, <expan type="y+e">the</expan> infamous
+sting wherof is far worse then all other poisons, to run to a remedie?</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="icon(n)">Icon,</form> <xpln lang="en" lexeme="looker(n)" lexeme="revengement(n)">An image or artificiall description of that we meane to de&#173;
+liuer, as if in setting forth our most gratious Soueraigne, we
+shoulde saie, That Goddesse like adorned with high aspectes, or
+statelie grace and maiestie diuine. In Chariot deckt with Prince&#173;
+lie ornaments shee issued foorth, &#38;c. Or thus, laying out the
+
+
+</page>
+
+<page no="100">
+<damage>dreadfulnesse</damage> of warre, Fierce and vntamed warre with eyes sparkling
+as the flaming fire, whose face caried in it selfe a terrour to the lookers
+on, and his co<expan type="u+_">un</expan>tenance was as it were a present death. His gesture was
+as the furious assault of a Lion, and his mouth as a deuouring pitte to
+swallow the bloud of multitudes. Armed hee was with fire, with fa&#173;
+mine, and with sword, crying reuengement on the world, and perse&#173;
+cuting all nations with a ceaslesse dread.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paradigma(n)">Paradigma,</form> <xpln lang="en" lexeme="elephant(n)" lexeme="undefenced(a)" lexeme="controlment(n)">a maner of exhorting or withdrawing by example,
+as to saie, the Elephants engender not, but in places most remote,
+and any that by chance do see them in that time they kill. How much
+more then behooueth that betweene those of reason, a shamefastnes
+be included in executing that action. Or thus. The nature of the Dol&#173;
+phin is not to suffer the yong ones of her kinde to straggle vndefenced,
+such care haue they of their frie: How much more beseeming is it, that
+our procreation which are men, should not be suffred to runne at ran&#173;
+dom without either guide or controlment.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parecbasis(n)">Pare<emend err="on">cb</emend>asis, or <term lang="la">Digressio</term>,</form> <xpln lang="en" lexeme="eternized(a)">a speech beside the matter in present
+spoken on, as to saie, But heere let mee remember vnto you some&#173;
+thing of the deserts and eternized memorie of your worthie and most
+vertuous Parents. Or thus: giue me leaue a little to digresse from this
+purpose, to the ende that by laying out of something yet vnspoken of,
+I may the better wade into the rest.</xpln>
+<lemenote>
+Emendation of the headword from OED.
+"eternized" antedates the earliest OED citation (1603).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+
+</section>
+
+</page>
+</leme>

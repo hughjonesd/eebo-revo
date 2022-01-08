@@ -1,0 +1,3542 @@
+<leme no="836">
+
+<page sig="[*]1r">
+<section type="titlepage">
+<term lang="la"><f type="bk">E<f type="bl">Xposiciones <expan type="t'">ter</expan>minoe leg<expan type="u+_">um</expan> anglo<expan type="4">rum</expan>. Et
+natura breui<expan type="u+_">um</expan> c<expan type="u+_">um</expan> diuersis casibus re&shy;
+gulis &amp; fundamentis legum tam de libris
+Magistri Litteltoni quam de aliis legum
+libris collectis &amp; breuiter compilatis <expan type=",p">pro</expan> Iu&shy;
+uinib<expan type="3">us</expan> valde necessariis.</term>
+
+<f type="bk">T<f type="bl">He exposicions of the termys of <expan type="y+e">the</expan> law of englond
+&amp; the nature of the wryttys wyth dyuers rulys and
+pryncyples of <expan type="y+e">the</expan> law 
+aswell out of <expan type="y+e">the</expan> bokys of master lyttel&shy;
+ton as of other bokys of the law gaderyd &amp; breuely c<expan type="o+_">om</expan>pilyd
+for yong men very necessary.
+</section>
+
+<section type="table of contents">
+<alpha>A</alpha>
+&para; Abiuracion
+Abatement
+Abbe
+Abbregement
+Accessory
+Accompt
+Acci<expan type="o+_">on</expan>s reals &amp; <expan type="p-_">per</expan>sonels
+Addicion
+Administrator
+Admesurem<expan type="e+_">en</expan>t <expan type="d+e">de</expan> dower
+Admesurem<expan type="e+_">en</expan>t de pastur
+Age prayer
+Ad quod dampnum
+Adiournement
+Amendment
+Ayd
+Ayd de roy
+Ayle
+Arest
+Annuite
+Assets
+Assyse
+Attornement
+Attaynt
+Auncion demesne
+Audita querela
+Auerment
+Auowre
+Alyon
+Appropryacyon
+duowson
+
+<alpha>B</alpha>
+&para; Barr
+Battel
+Basterdy
+Burglary
+
+<alpha>C</alpha>
+&para; Champerty
+Charge
+Cessauit
+Cerciorare
+Chymyn
+C<expan type="o+_">on</expan>tynuall clayme
+Conusauns de ple
+Conspyracy
+Colucyon
+Comen
+Conterple
+Consultacyon
+Contract
+Contra formam fe&shy;
+ofamenti
+C<expan type="o+_">on</expan>tea formam cola&shy;
+cionis
+Cosynage
+Cui in vita
+Cui ante deuorti<expan type="u+_">um</expan>
+
+<alpha>D</alpha>
+Daren pres<expan type="e+_">en</expan>tement.
+Deuyse.
+Denyzyn
+Decies tantum
+Depter
+Det
+Diem clausit extre&shy;
+mum
+Dysclaymer.
+Disseisor &amp; disseise
+Discontynuance
+Dysceyt
+Dema<expan type="u+_">un</expan>d<expan type="a+_">an</expan>t & ple<expan type="i+_">in</expan>t
+Defessend<expan type="a+_">an</expan>t &amp; ten<expan type="a+_">an</expan>t
+Dystres.
+Deodande
+</page>
+
+<page sig="[*]1v">
+Dedimus potestatem
+Demuerer
+Dowble ple.
+Dower
+Droyt
+Dures
+Dum n<expan type="o+_">on</expan> fuit c<expan type="o+_">om</expan>pos
+mentis
+D<expan type="u+_">um</expan> fuit <expan type="i+_">in</expan>fra etatem
+
+<alpha>E</alpha>
+&para; Entre
+Eiectment, de Gard
+Elegit
+Errour
+Esson.
+Eicecione firme
+Escape
+Eschete
+Estray
+Estripament.
+Executours
+Exchaunge
+Excommengement.
+Execucion
+Extynguyshment.
+Exigent
+Exparte talis
+Ex graui querela
+
+<alpha>F</alpha>
+&para; Faux inprys<expan type="o+_">on</expan>m<expan type="e+_">en</expan>t
+Faux iugement
+Fe symple.
+Fe tayle
+Fessement
+Formedone
+Forger de faux faits
+Fealte
+Felony
+
+<alpha>G</alpha>
+&para; Gard
+Garanty dez charters
+Garantye
+Gager de deliuera<expan type="u+_">un</expan>ce
+Garnishment
+Graunt cape
+
+<alpha>H</alpha>
+&para; Homage
+
+<alpha>I</alpha>
+&para; Ioyntenauntys
+Idemptitate nois
+
+<alpha>L</alpha>
+&para; Ley
+Lesses 
+
+<alpha>M</alpha>
+&para; Maympryse
+Mayntenaunce
+Mesne
+M<expan type="o+_">on</expan>strauerunt
+Mordauncestor
+Mortmayn
+Moderata mia
+
+<alpha>N</alpha>
+&para; Natiuo habendo
+Non habilite
+Nusauns
+Nu<expan type="p-_">per</expan> obiit /
+Ne iniuste vexes
+Ne admittas.
+
+<alpha>O</alpha>
+&para; Oyer &amp; terminer.
+
+<alpha>P</alpha>
+&para; Par que seruicia
+Prescrypcyon
+Presentement.
+Premunire
+Precipe in capite.
+Par <expan type="a+_">am</expan>bulac<expan type="o+_">on</expan>e faci<expan type="e+_">en</expan>da
+Petit cape
+Proteccyon.
+Prohybycyon
+
+<alpha>Q</alpha>
+&para; Quare impedit
+Quare non admisit
+Quare inc<expan type="u+_">un</expan>brauit
+Quale ius
+Quarentyne.
+Quare eiecit infra ter<emend err="">&shy;</emend>
+minum
+Quid iuris clamat
+Quare <expan type="i+_">in</expan>trusit matrio
+Quod permittat
+Quo iure
+Quod ei deforceat.
+Quo waranto
+
+<alpha>R</alpha>
+&para; Relief
+Remitter
+Replycacyon
+Repleuyn
+Resceu
+Reseyt
+
+<alpha>S</alpha>
+&para; Scire facias &amp; bre&shy;
+fys iudiciall<expan type="es">es</expan>
+
+<alpha>T</alpha>
+&para; Tayle
+Treason 
+Tresure troue
+ 
+<alpha>w</alpha>
+&para; wast
+Vew
+Vi laica remouenda
+wythernam
+Vtrum
+Vtlary
+Voucher.
+</section>
+</page>
+
+<page sig="a1r">
+<section type="prologue">
+<heading>
+Prologus Johannis Rastell.
+</heading>
+
+Lyke wise as the vniuersall worlde c<expan type="a+_">an</expan> ne&shy;
+uer haue hys continu<expan type="a+_">an</expan>ce but only by the order &amp; law of
+Nature whych c<expan type="o+_">om</expan>pellyth euery thing to do hys kind / so
+there is no multytude of pepull in no Reame <expan type="y+t">that</expan> c<expan type="a+_">an</expan> c<expan type="o+_">on</expan>ty&shy;
+new in vnyte &amp; pese wythout they be therto compellyd
+by some good order &amp; law wherfore a good Law obseruyd: causyth euer
+good peple and a good resonable c<expan type="o+_">om</expan>myn law makith a gode c<expan type="o+_">om</expan>yn pease
+&amp; a comyn welth am<expan type="o+_">on</expan>g a grete c<expan type="o+_">om</expan>mynalte of peple/ &amp; one good <emend err="gourenour">gouenour</emend>
+whyche causyth one law to be obseruyd among dyuers &amp; myche peple bri&shy;
+gethe dyuerse &amp; myche peple to one good vnyte/ but dyuerse rulers and
+gouernours &amp; dyuers orders and laws one contrary to a nother and when
+that euery gouenour wyll haue the law after hys mynd bryngeth one mul<emend err="">&shy;</emend>
+tytude of peple to varyauns and deuysyon/ for as euery man is varyaunt
+from other in visage so they be varyable in mynde &amp; condicyon/ therfore/
+one law and one gouernour for one realme and for one peple is most nece<emend err="">&shy;</emend>
+ssary And also lake of law causyth many wr<expan type="o+_">on</expan>g<expan type="es">es</expan> to be c<expan type="o+_">om</expan>mittyd willingly
+And lake of knowlege of <expan type="y+e">the</expan> law causyth dyuers wrongys to be one by ne<emend err="">&shy;</emend>
+clyg<expan type="e+_">en</expan>s/ therfor sith law is necessary to be had &amp; a verteous &amp; a good thing/
+ergo to haue a knolege therof is necessary &amp; a verteous &amp; gode thyng/ and <expan type="y+t">that</expan>
+that is verteous and good is good for euery man to vse/ ergo it folowyth
+it is a good thyng for euery man to haue the knolege of the law/ And syth
+that it is nescessary for euery realme to haue a law resonable and sufficient
+to gouerne the grete multytude of the peple/ ergo it is necessary <expan type="y+t">that</expan> the gret
+multitude of the peple haue <expan type="y+t">that</expan> knolege of the same law/ to the whiche they
+be bound/ergo it folowyth that the law in euery realme shuld be so publy&shy;
+shyd declared and wrytton in such wyse that the peple so bo<expan type="u+_">un</expan>d to the same
+might sone and shortely come to the knowlege therof/ or ellys such a law:
+so kept secretly in the knowlege of a few persones and from the knowlege
+of the great multytude may rather be callyd a trape and a net to brynge/
+the peple to vexacion &amp; trobyll than a good order to bringe them to pease
+&amp; quietnes/ and for as mych as the law of thys realme of englond is ordey&shy;
+<emend err="ndy">nyd</emend> and deuysyd for the augm<expan type="e+_">en</expan>tacion of iustyce &amp; for the quietnes of the
+peple &amp; for the c<expan type="o+_">om</expan>myn welth of the same/ ergo it is conuenient <expan type="y+t">that</expan> euery one
+with<expan type="i+_">in</expan> this realme bo<expan type="u+_">un</expan>d to the same may haue <expan type="y+t">that</expan> knolege therof and not re<emend err="">&shy;</emend>
+sonable <expan type="y+t">that</expan> any suche weys shuld be had or vsyd whereby the peple shuld be
+yngnoraunt of the law/ or shuld be exilyd or restraynyd from the knowleg
+therof. &para; I therefore consyderinge these foresayde causes haue taken vpon
+</page>
+
+<page sig="a1v">
+me this lytell labour and study to declare and to expown certeyn obscure &amp; 
+derke termys c<expan type="o+_">on</expan>sernyng the lawis of thys realme &amp; the nature of certeyne
+wryttes for the helpe and erudicyon of them that be yong beginers which
+intend to be study<expan type="e+_">en</expan>tys of the law for as the phylosopher seythe Ignoratis
+terminis ignoratur et ars/ that is to sey he that is ignorant of <expan type="y+e">the</expan> termys
+of any sciens must nedys be ignorant of the sci<expan type="e+_">en</expan>s but yet I haue not enter
+prysyd thys for <expan type="y+t">that</expan> that I thynke my selfe sufficient and able to expowne
+them as substancially as other depe lernyd men can doo but to entent that
+som ease and furthera<expan type="u+_">un</expan>ce of lernyng may com to yong study<expan type="e+_">en</expan>tis by red<expan type="i+_">in</expan>g
+of thys same And also I haue compylyd and indytyd thys lyttyll worke /
+fyrst in the frenche tong as is vsyd in <expan type="y+e">the</expan> bokys of our law &amp; after <emend err="traslatyd">translated</emend>
+thys same c<expan type="o+_">om</expan>pylacion in to our english tong to the entent that such yong
+studyentis may the soner atteyn to the knowleg of the frenche tong whych
+knowlege so had shalbe a great helpe &amp; furthera<expan type="u+_">un</expan>ce vnto them whan they
+shall study other higher workes of the law of more dyfyculte as be the bo&shy;
+kys of yerys and termys and other bokes which be wrytten in the frenche
+tong whereby they shall com to the more knowlege of the law which know<emend err="">&shy;</emend>
+lege of the law so had and <expan type="y+e">the</expan> trew execuci<expan type="o+_">on</expan> of the same law shalbe gretly to
+the augmentacion of <expan type="y+e">the</expan> c<expan type="o+_">om</expan>yn welth of thys realme whych the eternall god
+incresse and preserue to hys great honour and glory. A. M. E. N.
+</section>
+</page>
+
+<page sig="a2r">
+<section type="glossary">
+<wordgroup1 type="a" object="a">
+<wordentry type="h"><form lexeme="abjuracy(n)">
+ABiuracy<expan type="o+_">on</expan> </form> <xpln>is wher one
+that hath commyttyd morder or
+felony fleyth to any chyrch or o&shy;
+ther place pryuylegyd for sauegard of hys
+lyfe/ &amp; ther before <expan type="y+e">the</expan> coroner makyth such c<expan type="o+_">on</expan><emend err="">&shy;</emend>
+fessyon whych may make a sufficy<expan type="e+_">en</expan>t indite<emend err="">&shy;</emend>
+ment of felony/ then the coroner shall make
+hym to forswere <expan type="y+e">the</expan> realme &amp; shall assyne to
+hym to what port he shall go &amp; shall swere
+hym that he go not out of the hye way/ and
+that he shall nott abyde at the Porte (yf he
+may haue good passage ) but one flod and 
+an ebb/ and yf he cannot haue passage that
+he shall go euery daye durynge .xl. days in 
+to the see to hys knees/ but yf such a Felon
+that abiuryth go owtt of the hye way/ and 
+fleyth to a nother place/ yf he be taken he
+shalbe brought before the Iuge/ and there
+shall haue iugement to be hangyd/ But yf
+he whych so prayth the priuylege wyll nott
+abiure/ than he shall haue the pryuylege for
+.xl. days. and euery man may gyue hym
+mete &amp; drynk. / But yf any geue hym suste&shy;
+naunce after .xl. days all though yt be hys
+wyfe/ sych geuyng is felony. Also
+he that <emend err="dothabiure">doth abiure</emend> shalbe delyueryd from 
+one constable to a nother &amp; from one fra<expan type="u+_">un</expan>&shy;
+ches to a nother tyll <expan type="y+e">the</expan> he come to hys porte/
+&amp; yf the constable wyll not receyue hym he
+shalbe greuously amersyd. &para; Loke <expan type="y+e">the</expan> oth<emend err="">&shy;</emend>
+in <expan type="y+e">the</expan> tretyse De abiuratione coronatorum.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abatement in lands and tenements(n)">
+&para; Abatement in landys and tenementys
+</form> <xpln lexeme="abatement(n)">is whan a man dyeth seysyd of any landis
+or tenementis/ &amp; a stranger whych hath no
+ryght entreth into the land before the heyre
+thys is callyd an abatement But yf <expan type="y+e">the</expan> heyr
+<expan type="e+_">en</expan>ter fyrst &amp; <expan type="y+e">the</expan> sta<expan type="u+_">un</expan>ger <expan type="e+_">en</expan>ter vpp<expan type="o+_">on</expan> <expan type="y+e">the</expan> possissi<expan type="o+_">on</expan>
+</page>
+
+<page sig="a2v">
+of <expan type="y+e">the</expan> heyre than it is a dysseysyn to <expan type="y+e">the</expan> heyre.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abatement of a writ or plaint(n)">
+&para; Abatement of a wryt or playnt </form> <xpln>is whan
+any accyon is broughte by wryt or playnt
+and there lakkyth sufficyent matter/ or els
+<expan type="y+e">the</expan> matter is not certayne aledgyd/ then the
+defendaunte shall praye that the wryt shall
+abate/ that is to say that the pleyntyfe shall
+begyn hys sewte a new and shall brynge a 
+nother wrytte or playnte yf he wyll. But yf
+the deffendaunt in any accyon plede a mat<emend err="">&shy;</emend>
+ter in in barr for to adnull the accyon for e&shy;
+uer/ he shall not come afterward to plede in 
+abatement of the wryt/ but yf after it apere
+in the record that there is some matter ap&shy;
+par<expan type="a+_">an</expan>t for the whych the wryt ought to be a<emend err="">&shy;</emend>
+batyd then the deffendaunt or any person
+as a frend to the court may well plede and
+shew that in areste of the Iugemente/ also
+thes be thyngys whych shall abate a wryt/ <expan type="y+t">that</expan>
+is to say mysnamyng of the pleyntyfe or <expan type="y+e">the</expan>
+deffendaunt or of the place/ varyaunce be&shy;
+twene the wryt and the Specyalte or Re&shy;
+cord/ vncertente in the wryt or delaracyon/
+deth of the playntyfe or defendaunte/ And
+many other thyngis whych wold be to l<expan type="o+_">on</expan>g
+at thys tyme to wryte.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abbot(n)">
+&para; Abbot </form> <xpln>is the souerayn of a house of re&shy;
+lygyon/ sych a souerayn in any such house
+shall not be chargyd by the act of hys Pre&shy;
+decessour yf it be not by couent seale or for
+such thyngys whych comith to <expan type="y+e">the</expan> vse of hys
+house/ also <expan type="a+_">an</expan> abbot shall not be chargid for
+the det of hys monk before hys entre in re&shy;
+lygyon though the credytour haue an espe&shy;
+cyalte therof except that it haue comen to <expan type="y+e">the</expan>
+vse of hys house but the executours of the
+monk shalbe chargyd therof.
+</xpln></wordentry>
+</page>
+
+<page sig="a3r">
+<wordentry type="h"><form lexeme="abridgement(n)">
+&para; Abregment of playnt or dema<expan type="u+_">un</expan>d </form> <xpln>is wh<expan type="e+_">en</expan>
+any assyse is brought or wryt of dower &amp; <expan type="y+e">the</expan>
+playntyfe in the assyse makyth hys playnte
+or the demaundant in a wryt of dower ma<emend err="">&shy;</emend>
+kyth her demaunde of dyuers percellys of
+land/ and the tenaunte pledyth non tenure
+or iountena<expan type="u+_">un</expan>cy to percell of <expan type="y+e">the</expan> land in abate<emend err="">&shy;</emend>
+ment of the wryt th<expan type="a+_">an</expan> <expan type="y+e">the</expan> playntyfe or dema<expan type="u+_">un</expan><emend err="">&shy;</emend>
+dant may abrege hys playnt or demaunde
+to that percell &amp; shall pray that the tenaunte
+shall answer to the remenaunt / the cause is 
+for that that is sych wryttys the certente is
+not comprehendyd in the wryt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accessory(n)">
+&para; Accessory </form> <xpln>is he that eydyth assystyth or 
+comfortythe any man that hath done any
+murdur or felony/ wherof he hath knowe&shy;
+lege/ th<expan type="a+_">an</expan> such an accessory shalbe ponyshid
+&amp; shall haue iugement of lyfe and member
+as well as the pryncypall whych dyd the fe&shy;
+lony/ But suche an accessory shall neuer be
+put to answer to that tyll the pryncypall be
+attaynt or conuyct or be owtlawd ther vp&shy;
+pon/ but a woman in such case shall not be
+accessory for the helpynge of her husbande.
+also if one command a nother to do a felo&shy;
+ny and he doth yt yf the comaunder be nott
+present he is <expan type="a+_">an</expan> accessory: but if he be pres<expan type="e+_">en</expan>t
+he is princypall as well as <expan type="y+e">the</expan> other that dyd
+the dede/ but in treason as well the coma<expan type="u+_">un</expan><emend err="">&shy;</emend>
+ders as the assysters &amp; reseyters after be al<emend err="">&shy;</emend>
+ways pryncypallys.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="account(n)">
+&para; Accompt </form> <xpln>is a wryt &amp; it lyeth where a bay<emend err="">&shy;</emend>
+lyf or a reseyuer to any Lord or other man
+whych oughte to render accompte wyll not
+gyue hys accompt then he to whom the ac&shy;
+c<expan type="o+_">om</expan>pt ought to be geuin shall haue this writ
+</page>
+
+<page sig="a3v">
+And by the statute of <expan type="westm">westminster</expan> .ii. C.x. yf <expan type="y+e">the</expan> ac&shy;
+comptaunte be found in arerage the Audy&shy;
+tours whych be assynyd to hym haue power
+to awarde hym to pryson there to abyde tyll
+he haue made grement to the parte. but yf <expan type="y+e">the</expan>
+auditours wyll not alow resonable expence
+&amp; costis/ or yf they charge hym with mo rey&shy;
+seytys that they oughte not/ than hys nexte
+frend that wyll sew for hym shall sew a writ
+of experte talis out of the chauncery dyrecte
+to the shyryffe to take .iiii. maympurueurs
+to bryng hys body before the barons of the
+escheker at a certayn day &amp; to warne <expan type="y+e">the</expan> lord
+to appere there at a certayn day.
+</xpln><lemenote>Earliest OED citation is 1622 ("Account" 10).</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="action real(n)">
+&para; Accyons reals </form> <xpln>be such accyons where the
+demaundaunt claymyth tytyll to any l<expan type="a+_">an</expan>d<expan type="es">es</expan>
+or tenementis rent or comen in fre symple
+fee tayle or for terme of lyue.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="action personal(n)">
+&para; Accions personels </form> <xpln>be such accyons when
+a man claymyth det or other goodys or ca&shy;
+tell or damage for theyme/ or damagis for
+wrong done to hys person.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="addition(n)">
+&para; Addycyon </form> <xpln>is <expan type="y+t">that</expan> <expan type="y+t">that</expan> is gyuyn to a m<expan type="a+_">an</expan> ouer
+his <expan type=",p">pro</expan><expan type="p-_">per</expan> name &amp; surname <expan type="y+t">that</expan> is to say to shew
+of what estate degree of craft <expan type="y+e">the</expan> he is and of
+what towne hamelet place or counte &amp; such
+addicions wer ordenyd by <expan type="y+e">the</expan> statute <expan type="y+e">the</expan> first
+yere of henry the .v. .ca .v. in acci<expan type="o+_">on</expan>s wher <expan type=",p">pro</expan>&shy;
+ces of vtlary lieth <expan type="y+t">that</expan> one shall not be greuyd
+by vtlary of a nother / &amp; such writtis shall a&shy;
+bate if <emend err="yey">they</emend> haue not sich addici<expan type="o+_">on</expan>s if <expan type="y+e">the</expan> plein<emend err="">&shy;</emend>
+tyfe take excepci<expan type="o+_">on</expan> therto but they shall not
+abate by the offyce of the court/ Also Duke
+Merques yerle &amp; knyght be none addicy<expan type="o+_">on</expan>s
+but namys of dygnyte whyche sholde haue
+bene geuen before the statute.
+</xpln></wordentry>
+</page>
+
+<page sig="a4r">
+<wordentry type="h"><form lexeme="administrator(n)">
+&para; Admynystratour </form> <xpln>is he to whom the ordy&shy;
+nary c<expan type="o+_">om</expan>mittith thadmynystraci<expan type="o+_">on</expan> of <expan type="y+e">the</expan> good<expan type="es">es</expan>
+of a ded man for defaute of an executour &amp; 
+accy<expan type="o+_">on</expan>s shall ly agaynst him &amp; for hym as for
+an executour &amp; he shalbe chargyd to <expan type="y+e">the</expan> valew
+of the goodys of the dedman &amp; no ferther / yf
+it be not  by hys own fals ple/ or for that <expan type="y+t">that</expan> he
+hath wastyd <expan type="y+e">the</expan> goodys of <expan type="y+e">the</expan> ded/ but yf thad&shy;
+mynistratour dye his executours be not ad&shy;
+ministratours: but it behouith to <expan type="y+e">the</expan> ordinary
+to c<expan type="o+_">om</expan>myt a new admynystrat<expan type="o+_">our</expan> / but if a str<expan type="a+_">an</expan><emend err="">&shy;</emend>
+ger <expan type="y+t">that</expan> is not admynystratour nor executour
+take the goodys of <expan type="y+e">the</expan> ded &amp; mynyster of hys
+own wrong/ he shalbe chargyd &amp; sewyd as <expan type="a+_">an</expan>
+executour &amp; not as adminystratoure in any
+accyon <expan type="y+t">that</expan> is brought agaynst hym by any cre<emend err="">&shy;</emend>
+dytour/ but yf the ordenary make a letter ad<emend err="">&shy;</emend>
+coligend<expan type="u+_">um</expan> bona defuncti he that hath such a 
+letter is not adminystratour but the accyon
+lyeth agaynste the ordynary as well as yf he
+toke the goodys to hys owne hand or by the
+hand of any other his seruaunt by any other
+c<expan type="o+_">om</expan>maundment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="admeasurement(n)">
+&para; <emend err="Admysesur">Admyser</emend>em<expan type="e+_">en</expan>t de dower </form> <xpln>is a wryt &amp; <expan type="y+t">that</expan>
+lieth wher a wom<expan type="a+_">an</expan> is <expan type="e+_">en</expan>dowyd by an inf<expan type="a+_">an</expan>t or
+by a gardeyn of more th<expan type="a+_">an</expan> she ought to haue
+<expan type="y+e">the</expan> heyr in such case shall haue thys writ by <expan type="y+t">that</expan>
+which <expan type="y+e">the</expan> woman shalbe admysuryd &amp; <expan type="y+e">the</expan> heyr
+restoryd/ but if one abate that is to say enter
+after <expan type="y+e">the</expan> deth of <expan type="y+e">the</expan> husb<expan type="a+_">an</expan>d &amp; <expan type="e+_">en</expan>dow hys wyfe of
+more than she ought to haue / <expan type="y+t">that</expan> heyr shall not
+haue thys wryt but assyse of morda<expan type="u+_">un</expan>cystour
+agaynst the woman &amp; yf she plede <expan type="y+t">that</expan> she was
+endowed vt supra the heyre shall shew how
+(she was endowed by the abatoure
+</page>
+
+<page sig="a4v">
+&amp; that she had more than she ought to haue
+&amp; shall pray <expan type="y+t">that</expan> he may be restord to <expan type="y+e">the</expan> surply<emend err="">&shy;</emend>
+sage/ &amp; yf it be fo<expan type="u+_">un</expan>d he shalbe restoryd.
+</xpln><lemenote>The earliest OED citation is 1598.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="admeasurement de pasture(n)">
+&para; Admysuremente de pasture </form> <xpln>is a wrytt &amp; 
+it lyeth where many tenauntys haue com<expan type="o+_">on</expan>
+appendaunt in an other grounde and one
+ouer chargyth the Comen wyth many bes<emend err="">&shy;</emend>
+tys Than the othere comyners may haue 
+thys wryt agaynst hym/ and also yt may be
+broughte by one comoner onely/ But than
+it behouyth to be broughte agaynste all the
+other cominers and agaynst hym that sur&shy;
+chargid for that that all <expan type="y+e">the</expan> comyners shalbe
+admysuryd / &amp; thys wryt lyeth not agaynste
+hym nor for hym that hath comen appurte&shy;
+naunt or comen in grose / but them whyche
+haue comen appendaunt or comen <expan type="p-_">per</expan> cause
+de visinage/ Se the dyuersyte of all these
+comens afterward/ Also this wrytte lyethe
+not for the lord nor agaynst the lord but <expan type="y+e">the</expan>
+Lorde maye dystreyne the bestys of the te&shy;
+naunt that be surplysage/ But yf the Lord
+ouercharge the comen / the comoner hathe
+no rememdy by the comen lawe but he shall
+haue remedy by wrytte of sub pena in the
+chauncery/ vt dicitur.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="age-prier(n)">
+&para; Age preyr </form> <xpln>is whan an accion is brought
+agaynst an infante of landys that he hathe
+by dyscent/ there he shall shew the mattere
+to the court &amp; shall pray that <expan type="y+e">the</expan> accyon shall
+abyde tyll hys full age of .xxi. yerys &amp; so by
+award of the court <expan type="y+e">the</expan> sewt shall surcess. but
+a wryt of dower &amp; in assyse &amp; also in suche
+accyons where the infant comyth in of hys
+own wr<expan type="o+_">on</expan>g he shall not haue hys age.
+</page>
+
+<page sig="a5r">
+&para; Also note well that ther be many diuer&shy;
+sytes of agys/ for the lord shall haue ayd of
+hys ten<expan type="a+_">an</expan>t in socage for to mary hys dogh<expan type="t'">ter</expan>
+when the doughter of the lord is of the age
+of .vii. yer/ &amp; also dyd for to make hys son
+and heyre knyght when he is of the age of
+.vii. yeres/ also a woman whych is maryed 
+at the age of .ix. yerys/ yf her husbande dye
+seysyd shall haue dower &amp; not before .ix. ye&shy;
+rys. Also .xiiii. yerys is the age of a wom<expan type="a+_">an</expan>
+that she shall not be in ward yf she were of
+such age at <expan type="y+e">the</expan> time of <expan type="y+e">the</expan> deth of her a<expan type="u+_">un</expan>cestor
+but yf she were within <expan type="y+e">the</expan> age of .xiiii. yerys
+and in ward of the lord than she shall be in
+ward till the age of .xvi yerys/ and also .xxi.
+yerys is the age of the heyre Male to be in 
+ward &amp; after that out of ward/ &amp; also yt is <expan type="y+e">the</expan>
+age of male &amp; female to sew or to be sewyd
+of l<expan type="a+_">an</expan>dys whych they haue or clayme by dis&shy;
+cent/ &amp; to make all maner contractys &amp; bar&shy;
+gayns &amp; not before. But yf such an infaunt
+within the age of xxi. yere geue hys goodis
+to me/ yf I take them by force of the gyft he
+shall haue agaynst me an accion of trespas/
+but yf he geue them to me and delyuer th<expan type="e+_">em</expan>
+to me it is otherwyse.
+</xpln><lemenote>The earliest OED citation is 1641.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="ad quod dampnum(n)">
+&para; Ad quod dampnum </form> <xpln>ys a wryt &amp; loke for 
+that afterward in the tytle quale ius.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adjournment(n)">
+&para; Adiournement </form> <xpln>is when any court is dis&shy;
+soluyd &amp; determynyd &amp; assyned to be kepte
+agayn at a nother place or tyme.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amendment(n)">
+&para; Am<expan type="e+_">en</expan>dm<expan type="e+_">en</expan>t </form> <xpln>is whan errour is in the <expan type=",p">pro</expan>ces
+<expan type="y+t">that</expan> Iustyce may am<expan type="e+_">en</expan>d it after iugm<expan type="e+_">en</expan>t/ but if
+errour be I iugem<expan type="e+_">en</expan>t geu<expan type="i+_">in</expan>g they may not a&shy;
+m<expan type="e+_">en</expan>d it but <expan type="y+e">the</expan> <expan type="p-_">par</expan>te is put to his writ of errour
+</page>
+
+<page sig="a5v">
+and in many casys where the defaut appe<emend err="">&shy;</emend>
+reth in the clerk that wrytyth the recorde/ it
+shalbe amendyd.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aid(n)">
+&para; Ayde </form> <xpln>is whan tenaunt for terme of lyfe
+tenaunt in dower/ tenaunt by the curtesye
+or tenaunt in the tayle/ after possybylyte of
+issue extynct is impletyd/ <emend err="thanfor">than for</emend> that that
+they haue no Estate/ but for terme of lyffe
+they shall pray in ayde of hym in the reuer&shy;
+cyon/ &amp; proces shalbe made by writ against
+hym to come and plede wyth the tenaunte
+in the deffence of the land yf he wyll/ but yt
+behouyth that they agre in plee/ for yf they
+vary the plee of the tenaunt shalbe takyn &amp; 
+then the ayd &amp; prayr is voyd/ but if he come
+not at the second wryt th<expan type="e+_">en</expan> the tenant shall
+answere sole/ Also tenaunte for terme of
+yerys/ tenaunt at wyll/ tenaunt by elegit &amp; 
+tenant by statute merchant shall haue ayd
+of hym in the reuercyon / &amp; the seruant and
+bayly of theyr master when they haue done
+any thynge lawfully in the ryght of theyre
+master.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aid of the king(n)">
+&para; Ayde of the kynge </form> <xpln>is in lyke case as hyt
+is sayd before of a comen person/ and also
+in many other casys where the kynge may
+haue losse/ how be yt that the tenaunt be te&shy;
+naunt in fee symple he shall haue ayd/ as yf
+a rent be demaundyd agaynst the kyngys
+ten<expan type="a+_">an</expan>t whych holdyth in chefe/ he shall haue
+ayde/ and so he shall not haue of a comen
+person/ Also where a cyte or borow hath a 
+fee farme of the kyng and any thing be de&shy;
+maundyd agayns them whych belongyth
+to the fee farme they shall haue ayde for the
+losse of the kyng
+</page>
+
+<page sig="a6r">
+Also a man shall haue ayde of the kyng <expan type="i+_">in</expan>
+<expan type="y+e">the</expan> sted of voucher Also the kynges baylyf
+the collectour &amp; purueyor shall haue ayde
+of the kyng as well as <expan type="y+e">the</expan> offycers of other
+personys
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ayle(n)">
+&para; Ayle </form> <xpln lexeme="cousinage(n)">is a wryt and loke therfor after
+in the tytle of cosynage.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arrest(n)">
+&para; Arest </form> <xpln>is when one is takyn and restray<emend err="">&shy;</emend>
+nyd from his lyberte. Also a m<expan type="a+_">an</expan> shall not
+be arestid for det trespas detinew or other
+cause of accion but if it be by vertew of <expan type="p+_">pre</expan>&shy;
+cept or c<expan type="o+_">om</expan>maundment owt of some court
+but for treason felony or backyng of the
+kynges pese euery man hath auctoryte to 
+arest wythout warrant or <expan type="p+_">pre</expan>cept but when
+a m<expan type="a+_">an</expan> shalbe arestyd for felony it behouith
+that some felony be done and also that he
+be suspect of <expan type="y+e">the</expan> same felony and when any
+man shalbe aresttyd for felony he shalbe
+brought to <expan type="y+e">the</expan> geale ther to abyde tyll the
+next cessions for to be indytyd or for to be
+delyueryd by <expan type=",p">pro</expan>clamacion but yf one be a<emend err="">&shy;</emend>
+rest by a nother for suspecyous of felony
+and no felony be done then he may haue 
+agaynst hym a wryt of fals im<expan type="p+_">pre</expan>s<expan type="o+_">om</expan>ent
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="annuity(n)">
+&para; Annuite </form> <xpln>is a certeyne so<expan type="o+_">om</expan>me of money
+whych is grauntyd to a man in fee simple
+fee tayle for terme of lyfe of for terme of
+yerys to take of the grauntour or hys hey<emend err="">&shy;</emend>
+rys so that no free holde is chargyd therof
+wherof a man shall neuer haue assise nor
+other accion reall and it is non assetz to <expan type="y+e">the</expan>
+heyre of <expan type="y+e">the</expan> gra<expan type="u+_">un</expan>te to whome it shal desc<expan type="e+_">en</expan>d
+</xpln></wordentry>
+</page>
+
+<page sig="a6v">
+<wordentry type="h"><form lexeme="assets(n)">
+&para; Assetz </form> <xpln>is when tena<expan type="u+_">un</expan>t in the tayle or a 
+man seysyd of certeyne land in <expan type="y+e">the</expan> ryght of
+his wyf alieneth <expan type="y+e">the</expan> land with warranty &amp; 
+hath land in fee s<expan type="i+_">im</expan>ple which descendyth to 
+hys heyre which is also heyer in the tayle
+or heyre to <expan type="y+e">the</expan> woman and is as moche in
+valew as the other land/ in suche case yf a&shy;
+ny such heyris bryng a wryt of formedon
+or a writ of sur cui <expan type="i+_">in</expan> vita. for the land so a 
+lienyd/ than he shalbe barryd by reason of
+this warrantie for that <expan type="y+t">that</expan> he hath this land
+so to hym descendyd which is as moche <expan type="i+_">in</expan>
+valew / and for that thys land is callyd an
+assetz Also assetz is wh<expan type="e+_">en</expan> a man is bo<expan type="u+_">un</expan>din
+in any especialte and dyeth seysyd of l<expan type="a+_">an</expan>d<expan type="es">es</expan>
+in fee symple whych desc<expan type="e+_">en</expan>dyth to hys hey&shy;
+er/ thys land is callyd assetz for <expan type="y+t">that</expan> that hys
+heyre shalbe chargyd forto pay the sayd
+det yf the executours of hys auncestours
+haue nothyng to pay.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="assize(n)">
+&para; Assise </form> <xpln>is a wryt and it lyeth where any
+m<expan type="a+_">an</expan> is put owt of hys l<expan type="a+_">an</expan>des or tenem<expan type="e+_">en</expan>tes
+or of any <expan type=",p">pro</expan>fyte to be takyn in a certeyne
+place &amp; so disseysid of his frehold / Frehold
+to any m<expan type="a+_">an</expan> is where he is seysid of landys
+&amp; tenem<expan type="e+_">en</expan>tis or <expan type=",p">pro</expan>fet to be takyn <expan type="i+_">in</expan> fee sim&shy;
+ple fee tayle for terme of hys owne lyfe or
+for terme of an other m<expan type="a+_">an</expan>nys lyfe But the
+tena<expan type="u+_">un</expan>t by elegit tena<expan type="u+_">un</expan>t by statute <expan type="m+_">mer</expan>ch<expan type="a+_">an</expan>t
+&amp; statute stapell may haue assise/ howbeyt
+that they haue no frehold &amp; this is ordey&shy;
+ynyd by dyuers statutis.
+</xpln></wordentry>
+</page>
+
+<page sig="a7r">
+<wordentry type="h"><form lexeme="assize of deraign presentment(n)">
+&para; Assyse of dareyn presentem<expan type="e+_">en</expan>t </form> <xpln>loke ther&shy;
+fore after in the tytle quare impedit.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="assize of mordance store(n)">
+&para; Assyse of mordaunce stour </form> <xpln>loke therfore
+after in the tytle cosynage.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attornment(n)">
+&para; Attornement </form> <xpln>ys whan one ys tenaunte
+for terme of life &amp; he in the reuersyon <expan type="y+t">that</expan> hath
+the fe symple gra<expan type="u+_">un</expan>tyth hys ryght &amp; estate to
+an other than yt behouyth that the tenaunt
+for term of lyfe agre therto &amp; this agrem<expan type="e+_">en</expan>t
+is callyd an attornement / for yt he in the re<emend err="">&shy;</emend>
+uercy on graunt hys estate &amp; his ryght to an
+other yf the tenant for terme of lyfe attorne
+not nothyng passyth by the graunt/ But if
+ yt be grauntyd by fyne in court of record he
+shall be compellyd to attorne/ &amp; loke therof
+after in the tytle quid iuris clamat.
+</xpln><lemenote>Predates earliest OED citation (1531).</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="attaint(n)">
+&para; Attaynt </form> <xpln>ys a writ and yt lyeth where fals
+verdyte is geuyn by .xii. men &amp; iuggement
+geuyn theron/than the <expan type="p-_">par</expan>te agaynst whom
+they haue passyd shall haue this wryt aga<expan type="i+_">in</expan>st
+the other <expan type="p-_">par</expan>te &amp; agaynst the .xii. men/&amp; whan
+they be at yssu yt <emend err="shalde">shalbe</emend> tryed by .xxiiii. ior&shy;
+rours/&amp; yf the fals verdyt be found the .xii.
+men be atteynt &amp; than the iugement shalbe
+<expan type="y+t">that</expan> theyr medows shalbe eyryd theyr howsys
+broke downe theyr woodis turnyd vp &amp; all
+theyre landys &amp; tenementys forfetyd to the
+kyng / but yf yt pas agaynst hym <expan type="y+t">that</expan> brought
+<expan type="y+e">the</expan> atteynt he shalbe imprisoned &amp; greuously
+raunsommyd at the kyngys wyll.
+</page>
+
+<page sig="a7v">
+&para; Atteynt also is when iugement ys giuen
+in treason or felony.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ancient demesne(n)">
+&para; Auncyon demesne </form> <xpln>be certayne tenurys
+which be hold<expan type="e+_">en</expan> of such maners whych were
+in the handys of seynt Edward <expan type="y+e">the</expan> confessor
+&amp; <expan type="y+t">that</expan> whych he made to be wryttyn in a boke
+callyd domys day/ sub titulo regis &amp; all the
+landys holden of the sayd maners be a<expan type="u+_">un</expan>ci<expan type="o+_">on</expan>
+demesne &amp; the ten<expan type="a+_">an</expan>tis shall not be impledid
+out of the sayd maner &amp; yf they be they may
+shew <expan type="y+e">the</expan> matter &amp; abate the wryt/ but yf they
+answer to the wryt &amp; iugement geuyn than
+the landys be become frank fe fore euer/ also
+the tenauntis in auncion demesne be fre of
+toll for all thyngys concernyng theyr suste&shy;
+nauns &amp; husbandry in a<expan type="u+_">un</expan>cion demesne and
+for such landys they shall not be put nor im<emend err="">&shy;</emend>
+panelyd vpp<expan type="o+_">on</expan> any inquest/ loke more therof
+after in the tytle monstrauer<expan type="u+_">un</expan>t/ also all the
+landys in auncyon demesne in the kyngys
+handys be frank fe &amp; pledable at the comen
+law.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="audita querele(n)">
+&para; Audita querely </form> <xpln>ys a wryt &amp; it lyeth where
+one ys bounde in a statute <expan type="m+_">mer</expan>chaunt statute
+staple or reconysauns or iugemente geuyn
+agaynst hym &amp; hys body in execucyon ther
+vppon th<expan type="a+_">an</expan> yf he haue a reles or other mat&shy;
+ter suffycyent to be dyschargyd of execuci<expan type="o+_">on</expan>
+but hath no day in court to plede it that he
+shall haue thys wryt agaynst hym that hath
+recoueryd or agaynst hys executours.
+</xpln></wordentry>
+</page>
+
+<page sig="b1r">
+<wordentry type="h"><form lexeme="averment(n)">
+&para; Auarement </form> <xpln>is where a man pledith a ple
+in abatemente of the wryt or barr of the ac&shy;
+cy<expan type="o+_">on</expan> whych he seyth he is redy to proue as <expan type="y+e">the</expan>
+courte wyll awarde thys offer to proue hys 
+ple is callyd an auerment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="avowry(n)">
+&para; Auowre </form> <xpln>is where one takythe a dystresse
+for rent or other thyng &amp; the othere sewyth
+repleuyn than he that hath taken it shall ius<emend err="">&shy;</emend>
+tyfye in hys ple for what cause he toke it &amp; 
+so avowe the takyng and that is callyd hys
+avowre.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alien(a)">
+&para; Alyon </form> <xpln>is he of whome the fader is borne
+and he hym selfe also borne owte of the cle&shy;
+gyaunce of our lord the kynge/ but yf an a&shy;
+lyon come &amp;  dwell in englond whych is not
+of the kyngys enemys &amp; here hath issu this
+issu is not alyon but englysh/ also if an en&shy;
+glysh m<expan type="a+_">an</expan> go ouer these with <expan type="y+e">the</expan> kingys lyc<expan type="e+_">en</expan>s
+&amp; ther hath issu thys issu is not alyon.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="appropriation(n)">
+&para; Apropryacyon</form> <xpln>ys where an howse of re&shy;
+lygyon that ys to say an Abbot or othere
+souerayne and the couent haue the aduow<emend err="">&shy;</emend>
+son of any personage and obteyne lycence
+of the pope and of the ordenary that it shal 
+be from thens forth a vicarage and that the
+vycare shall haue a certeyne porcyon of the
+benefyce and that the abbot and the couent
+shalbe persons &amp; shall haue thother profets
+thys ys callyd apropryacyon/ and than the
+abbot and couent shalbe pers<expan type="o+_">on</expan>s in <expan type="p-_">per</expan>sones
+But yf such apropryacy<expan type="o+_">on</expan> may not be made
+to begyn in the lyfe of the person withowt
+hys asent/ but yf such a vowson of the per&shy;
+sonage be recoueryd by auncyon tytle than
+<expan type="y+e">the</expan> apropriacyon is anulled.
+</xpln></wordentry>
+</page>
+
+<page sig="b1v">
+<wordentry type="h"><form lexeme="advowson(n)">
+&para; Avows<expan type="o+_">on</expan> </form> <xpln lexeme="patron(n)">is wher any m<expan type="a+_">an</expan> and hys heyris
+hath ryght to present hys clark to the orde<emend err="">&shy;</emend>
+nary to any benefyce of holy <emend err="churh">church</emend> when it
+is voyd th<expan type="e+_">en</expan> he that hath such ryght is callid
+patron but no lay men may haue the vow&shy;
+son of a vycarage.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">
+<wordentry type="h"><form lexeme="bar(n)">
+&para; Barr </form> <xpln>ys when the deffendaunt in any ac<emend err="">&shy;</emend>
+cyon pledyth a ple whych is a suffycient an<emend err="">&shy;</emend>
+swer and that dystroyeth the accyon of the 
+playntyfe for euer.
+</xpln><lemenote>OED "Bar" n. 1, 18.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="battle(n)">
+&para; Battell </form> <xpln>is a tryell by fyghtynge whyche
+shalbe betwen .ii. persons &amp; this tryell may
+be in a wryt of ryght ryght and in appell of 
+murder or felony/ But if one be indityd of
+felony &amp; after the parte bryngyth an appell
+vppon the indytement than the deffenda<expan type="u+_">un</expan>t
+shall not wage battell.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bastard(n)">
+&para; Bastarde </form> <xpln lexeme="child of the people(n)">is he that is borne of any wo&shy;
+m<expan type="a+_">an</expan> not maryed that hys father ys not kno&shy;
+wen by the order of the law &amp; therfore he ys
+callyd the chyld of the people/ But by <expan type="y+e">the</expan> law
+of holy chyrch yf one gette a chylde vppon a 
+woman and is borne out of wedlok &amp; after
+he mary the same woman than such a child
+shalbe seyd mulyer and not basterd/ but by
+the law of engl<expan type="o+_">on</expan>d it <emend err="it">is</emend> basterdy is aledgyd yt
+shall be tryede by the countrey and nott by
+the bysshoppe/ but generall basterdy alled&shy;
+gyd shalbe tryed by the certifycat of the by<emend err="">&shy;</emend>
+shop.
+</page>
+
+<page sig="b2r">
+Also yf a woman be gret wyth chyld wyth
+her husband and her husbande dyeth &amp; she
+take a nother husband &amp; after the chyld ys
+borne than the chyld shalbe sayd the chylde
+of the furst <emend err="hu band">husband</emend> / But yf she were priuy&shy;
+ly wyth chyld at the tyme of the deth of her
+furst husband / then he shalbe sayd the chyld
+of the second husband/ Also yf a man take
+a wyfe whych is gret with chyld with a no&shy;
+there that was not her husband and aftere
+the chyld is borne wythin the espousels th<expan type="a+_">an</expan>
+he shall be sayed the chylde of the husbande
+though it were borne but one day after the 
+espousels solemnisat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="burglary(n)">
+&para; Burglary </form> <xpln>is when one brekyth and ente&shy;
+rith into an other mans house in the nyght
+to the entente to stele goodys in which case
+though he bere away nothyng yet it is felo&shy;
+ny And for that he shall be hangyd/ but the 
+brekyng of an house in the day for such en&shy;
+tent ys no felony.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">
+<wordentry type="h"><form lexeme="champerty(n)">
+&para; Champerty </form> <xpln>ys a wryt and yt lyeth wher
+.ii. men be impledyng &amp; one geuith the half
+or <expan type="p-_">par</expan>te of the thyng in ple to a straunger for
+to maynteyne hym agaynst the other/ then 
+the <expan type="p-_">par</expan>te greuyd shall haue thys writ agaynst
+the straunger.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="charge(n)">
+&para; Charge </form> <xpln lexeme="rent charge(n)">is where a man grauntyth rente
+goyng owt of any grownd and that yf the
+r<expan type="e+_">en</expan>t be behynd that yt shalbe lawfull to him
+&amp; hys heyrys and assygnes to distrayn tyll
+the rent be payd/ this ys callyd a rent charg
+but yf one graunt a rent charge oute of the
+land of a nothere &amp; after purchase the same
+land the graunt is voyd.
+</xpln></wordentry>
+</page>
+
+<page sig="b2v">
+<wordentry type="h"><form lexeme="cessavit(n)">
+&para; Cessauit </form> <xpln>ys a wryt and yt lyeth where my
+very tenaunt which holdyth of me certayne
+landys and tenementys yeldyng certayne
+rent by <expan type="y+e">the</expan> yere &amp; the rent is behynd not payd
+by .ii. yerys&amp; no sufficiente dystres may be
+founde vppon the lande/ than I shall haue
+thys wryt by the whych I shall recouer the 
+land/ but if the tena<expan type="u+_">un</expan>t come in court before
+the iugement geuyn and tend the areragis
+&amp; the damag<expan type="es">es</expan> and fynd suerty that he shall
+cesse no more in payment of the seyd rent I 
+shall be c<expan type="o+_">om</expan>pellyd to take the areragys and <expan type="y+e">the</expan> 
+damagys &amp; than the tenaunt shall not lose
+the land/ also the heyre may not maynteyne
+thys wryt for the cesser made in the tyme of 
+hys a<expan type="u+_">un</expan>cestour/ also thys wryt lyeth not but
+for annuell seruise as rent &amp; such other and
+not for homage and fealte.
+</xpln><lemenote>Predates OED "cessavit" 1555</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="cercionare(n)">
+&para; Cerciorare </form> <xpln>ys a wryt and yt lyeth where
+one is impledyd in a base courte that is of
+recorde/ &amp; he supposyth <expan type="y+t">that</expan> he maye not haue
+egall iustyce there/ then vppon a byll in the
+chauncery comprysyng some matter of c<expan type="o+_">on</expan>&shy;
+scy<expan type="e+_">en</expan>s he shall haue thys wryt for to remoue
+all the record in to the chauncery &amp; there to
+be determynyd by consciens/ but yf he <expan type=",p">pro</expan>ue
+not hys byll/ then the other parte shall haue
+a wryt of Procedendo to send agayn <expan type="y+e">the</expan> re&shy;
+cord into the base court and there to be de&shy;
+terminyd/ also it lyeth in many other casis
+for to remoue recordys for the kyng as in&shy;
+dytementys and other.
+</xpln><lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="chimin(n)">
+&para; Chimen </form> <xpln lexeme="via regia(n)">is the hye way where euery man
+goth whych is callyd via regia/ but the k<expan type="i+_">in</expan>g
+hath <emend err="no no">no</emend> other thyng ther but the passage
+for hym &amp; hys people/ but <expan type="y+e">the</expan> frehold abydith
+</page>
+
+<page sig="b3r">
+in the Lord of the soyle &amp; all the profet gro&shy;
+wing ther/ as trees and other thingys.
+</xpln><lemenote>Predates earliest OED entry "chimin" 1613. The OED does not have "via regia" under "via", n.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="claim, continual(n)">
+&para; Contynuall clayme </form> <xpln>is where a m<expan type="a+_">an</expan> hath
+ryght to enter in certayn landys where an
+other ys seysyd yn fe simple or fe tayle and
+he dare not enter for fere of betyng/ but ap&shy;
+prochyth as nyghe as he dare and makythe
+clayme therto wythyn the yere and day be&shy;
+fore hys deth yf he that haue the landys dye
+seysyd &amp; hys heyre in by dyscent/ yet he that 
+makyth such clayme may enter vppon the 
+heyre not withstondyng such dyscent for <expan type="y+t">that</expan>
+that he hath made such contynuall clayme
+but it behouyth that such clayme alway be
+made wythyn the yere and <expan type="y+e">the</expan> day before the 
+deth of the tenaunt/ for yf such a tenaunte
+dyseysyd wythin a yere and day after such
+clayme made &amp; yet he dare not enter than it
+behouyth to hym <expan type="y+t">that</expan> hath such ryght to make
+an other clayme wythyn the yere and daye
+after the furst claym and after such a sec<expan type="o+_">on</expan>d
+clayme to make the thyrd clayme wythin <expan type="y+e">the</expan>
+yeere and day yf he wylbe sure to saue hys
+entre/ but yf a dysseysor dye seysyd wythin
+<expan type="y+e">the</expan> yere and day after the dysseysyn and no
+clayme made/ than the entre of the dysseis<emend err="y"><expan type="y+_">yn</expan>&shy;</emend>
+is taken awaye/ for the yeere and day shall
+not be taken frome the tyme of the tytle of
+the entree to hym growyn but onely from 
+the tyme of the furst clayme by hym made 
+as is aforesayd.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conusance(n)">
+&para; Conusauns of ple </form> <xpln>is a priuilege that any
+Cyte or towne hath of the kyngys graunte
+</page>
+
+<page sig="b3v">
+to hold ple of all c<expan type="o+_">on</expan>tractys &amp; of landys wyth
+yn the precyncte of the fraunches and when
+any man is impledyd for any such thing in
+the courte of <expan type="westm">westminster</expan>/ the mayre &amp; baylyffis
+of such fraunches may aske conusaunce of
+the ple that is to sey that the ple &amp; <expan type="y+e">the</expan> mattere
+shalbe pledyd &amp; determinyd before th<expan type="e+_">em</expan>/ also
+conusauns lyeth not in prescrypcyon but it
+behouyth so shew the kyngys letters.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conspiracy(n)">
+&para; Conspiracy </form> <xpln>is a wryt and it lyeth where
+.ii. or mo that knytte them self to geder by
+oth couenaunt or other maner of alyaunce
+that euery one shall help other for to endite
+or to appell any man of felonye than he <expan type="y+t">that</expan>
+ys by such maner indytyd or appellyd shall
+haue thys wryt/ But thys wryt lyethe not 
+agaynst the indytours.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="collusion(n)">
+&para; Colusyon </form> <xpln>is where an accyon is brought
+agaynst an other by hys own agrement/ yf
+the playntyfe recouer than such recouere is
+callyd by colucion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="common(n)">
+&para; Comen </form> <xpln>is the ryghte that a man hath to
+put hys bestys to pasture or to vse &amp; to occu<emend err="">&shy;</emend>
+py the gro<expan type="u+_">un</expan>d that is not his owne/ also ther
+be diuers comyns <expan type="y+t">that</expan> is to say com<expan type="e+_">en</expan> <expan type="i+_">in</expan> grose
+comen appendaunt comen appurtenaunte
+and comen because of neyghebourehode/
+</xpln></wordentry>
+</page>
+
+<page sig="b4r">
+<wordentry type="h"><form lexeme="common appellant(n)">
+Comen appendaunt </form> <xpln>is where a man ys sey<emend err="">&shy;</emend>
+syd of certayn land to the whych he hath co<emend err="">&shy;</emend>
+men in an others ground/ all they that shall
+be seysid of that land shall haue the seyd co<emend err="">&shy;</emend>
+men with all manere of bestys whych com&shy;
+postyth hys l<expan type="a+_">an</expan>d except gese gotys &amp; hoggys
+Com<expan type="e+_">en</expan> <expan type="i+_">in</expan> grose ys wher I by my dede gra<expan type="u+_">un</expan>t
+to an other that he shall haue comen in my
+land/ Comen appurtenaunt is in the same
+maner as comon appenda<expan type="u+_">un</expan>t but it is wyth
+all manere of bestys/. Com<expan type="e+_">en</expan> by cause of
+neyghbourhod is where the tenauntys of
+.ii. Lordys whyche be seysyd of .ii. townys
+wherof one lyeth nygh an other and euery
+of th<expan type="e+_">em</expan> haue vsyd from <emend err="the the">the</emend> tyme wher of
+no m<expan type="i+_">in</expan>d r<expan type="e+_">en</expan>nith to haue com<expan type="e+_">en</expan> <expan type="i+_">in</expan> <expan type="y+e">the</expan> other town
+with all maner of bestis comynable.
+</xpln><lemenote>OED "common" n.1, 6</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="counterplea(n)">
+&para; Conterple </form> <xpln>is where one bryngith an ac&shy;
+cyon &amp; the tenaunt in hys answere and ple
+vouchyth or callyth for any man to warr<expan type="a+_">an</expan>t
+hys tytle or prayth in ayd of an other which
+hath better estate than he/ as of him that ys
+in the reuercyon / or yf one that is a str<expan type="a+_">an</expan>ger
+to the accyon come and pray to be reseyuid
+to saue hys estate/ yf the demaundaunt re&shy;
+plye thereto &amp; shew cause that he ought not
+such one to vouche or that he ought not of
+suche one to haue ayde/ or that suche one
+ought not to be reseyuyd/ thys ple ys callyd
+a counterple.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consultation(n)">
+&para; Consultacion</form> <xpln>/ Loke therfore after in <expan type="y+e">the</expan>
+tytle of prohybycyon.
+</xpln></wordentry>
+</page>
+
+<page sig="b4v">
+<wordentry type="h"><form lexeme="contract(n)">
+&para; Contract </form> <xpln lexeme="quid pro quo(n)">is a bargeyne or couenaunt be&shy;
+twene .ii. pertes where one thyng is geuyn
+for a nother whych is callyd quid <expan type=",p">pro</expan> quo for
+yf a man make promyse to me that I shall
+haue .xx.s. &amp; that he wyll be dettoure to me
+therof and after I ask the .xx.s. and he wyl
+not delyuer yt yet I shall neuer haue no ac&shy;
+cyon for to recouere thys .xx.s. for that that
+thys promys was no c<expan type="o+_">on</expan>tract but a bare pro<emend err="">&shy;</emend>
+mise/ Et exnudo pecto n<expan type="o+_">on</expan> oritur accio/ but
+yf any thyng were geuyn for <expan type="y+e">the</expan> .xx.s. thogh
+it were not but to the valew of a peny than
+it was a good contract.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contra formam feofamenti(n)">
+&para; Contra formam feofamenti </form> <xpln>is a wrytte
+&amp; yt lyeth where a man before the statute of
+<expan type="qr">quia</expan> emptores terrar<expan type="u+_">um</expan> infeffyth an othere by
+dede to do certayne seruyce / yf the feffour
+or his heyrys distrayn hym to do other ser&shy;
+uyce than ys comprisyd in the dede/ than <expan type="y+e">the</expan>
+tenaunt shall haue thys wryt comaundyng
+hym that he dystrayne not hym to do other
+seruyse that ys not comprysyd wythyn the 
+dede/ but thys wryt leyth not for the playn&shy;
+tyfe whych claymyth by purchase / but for <expan type="y+e">the</expan>
+pleyntyfe whiche claymythe as heyre to the 
+furst feffe.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="contra formam colacionis(n)">
+&para; Contra formym colacionis </form> <xpln>is a writ &amp; yt
+lyeth wher a m<expan type="a+_">an</expan> geuith landys <expan type="i+_">in</expan> perpetuall
+almys to any house of religy<expan type="o+_">on</expan> as to <expan type="a+_">an</expan> abot
+&amp; <expan type="y+e">the</expan> cou<expan type="e+_">en</expan>t or other souerayne &amp; his cou<expan type="e+_">en</expan>t to
+fynd certayn pore m<expan type="e+_">en</expan> or to do other deuine
+seruyse/ if they alyen the landys then the do<emend err="">&shy;</emend>
+rour or his heyris shall haue <expan type="y+e">the</expan> seyd writ for
+to recouer the land/ but thys wrytte shall be
+</page>
+
+<page sig="b7r">
+alway brought agaynst <expan type="y+e">the</expan> abbot or hys suc&shy;
+cessor &amp; not agaynst the alyene although <expan type="y+t">that</expan>
+he be ten<expan type="a+_">an</expan>t/ but in all other accy<expan type="o+_">on</expan>s where a
+man demaundyth fre hold the wryt shalbe
+brought agaynst the ten<expan type="a+_">an</expan>t of the land.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="cousinage(n)">
+&para; Cosinage </form> <xpln>is a wrytte &amp; it lyeth where my
+gret gra<expan type="u+_">un</expan>d fader/ my graundfaders gra<expan type="u+_">un</expan>d
+fader or othere Cosyn dyethe seysyd in fee
+symple &amp; a stra<expan type="u+_">un</expan>ger abatyth that is to say <expan type="e+_">en</expan><emend err="">&shy;</emend>
+teryth in to the landys than I shall haue a&shy;
+gaynst hym thys wryt or agaynst hys heyre
+or hys aliene or agaynste who so euer that
+commythe after to the sayd landys/ but yff
+my graundfather dye seysyd &amp; a straunger
+abatyth/ then I shall haue a wrytte of ayle/
+but yf my fader/ moder/ broder/ syster/ vn&shy;
+cle/ or awnt dy seysyd &amp; a stranger abatyth
+th<expan type="a+_">an</expan> I shall <emend err="haueassysye">haue assyse</emend> of mordauncestour.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="covenant(n)">
+&para; Couenaunt </form> <xpln>is agrement made betwene
+.ii. persons wher euery of them is bownd<expan type="e+_">en</expan>
+to <expan type="y+e">the</expan> other to perform certayn couenauntys
+for hys <expan type="p-_">par</expan>te/ also ther is a wryt of couena<expan type="u+_">un</expan>t
+and it lieth where couenaunte is made be&shy;
+twene two by endenturys vnsealyd and <expan type="y+e">the</expan>
+one of them holdyth not hys couena<expan type="u+_">un</expan>t but 
+brekith yt/ then he whych therof felyth hym
+selfe greuyd shall haue thys writ. And note
+well <expan type="y+t">that</expan> no wryt of couenaunt shalbe mayn&shy;
+tenable wythout especyalte/ but in the cite
+of london or in other such place pryuylegid
+by the custome &amp; vse.
+</xpln></wordentry>
+</page>
+
+<page sig="b7v">
+<wordentry type="h"><form lexeme="cui in vita(n)">
+&para; Cui in vita </form> <xpln>is a wryt &amp; it lyeth wher a m<expan type="a+_">an</expan>
+is seysyd of l<expan type="a+_">an</expan>d<expan type="es">es</expan> in fe simple or fe tayle or for
+terme of lyfe in <expan type="y+e">the</expan> ryght of hys wyfe &amp; alye&shy;
+nyth <expan type="y+e">the</expan> same land &amp; dyeth / th<expan type="e+_">en</expan> she shall haue
+<expan type="y+e">the</expan> seyd wryt for to recouer <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d/. And note
+well that in thys wryt she shall make tytle if
+it be of the purchace of the woman or of the
+herytage of the woman.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="cui ante devoresum(n)">
+&para; Cui ante deuoresum </form> <xpln>is a wryt &amp; it lyeth <expan type="i+_">in</expan>
+lyke maner when such alienacyon is made
+by the husband and after deuorce is had be<emend err="">&shy;</emend>
+twene th<expan type="e+_">em</expan> than the woman shall haue thys
+wryt and the writ shall sey/ to whom she be<emend err="">&shy;</emend>
+fore the deuorse myght not wyth say.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">
+<wordentry type="h"><form lexeme="deraign presentment(n)">
+&para; Daren presentment </form> <xpln>loke therfor after in 
+the tytyll quare impedit.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="devise(n)">
+&para; Deuyse </form> <xpln>is where a man in hys testament
+geuyth or bequeuyth hys goodys or hys l<expan type="a+_">an</expan><emend err="">&shy;</emend>
+dys to a nothere after hys decease/ but yf a 
+man be sole seasyd of l<expan type="a+_">an</expan>dis in his demesne
+as of fe and deuyse the landys by testament
+thys deuyse is voyd/ but yf the l<expan type="a+_">an</expan>dis be in 
+a cyte or borow where landys be deuysable
+by custome/ but yf any man be feffee to the
+vse of an othere &amp; hys heyrys/ &amp; he to whose
+vse he is so seysyd make deuyse of hys lan&shy;
+dis this deuyse is good though it be not in
+a towne where landys be deuysable.
+</page>
+
+<page sig="b8r">
+Also yf any man deuyse l<expan type="a+_">an</expan>de<expan type="es">es</expan> in cyte town
+or borow deuysyble and the deuysor dyeth/
+if hys heyr or any other abate in the landis
+than the deuise shall haue a writ de ex gra&shy;
+ui querela/ but this wryt shall neuer be ple&shy;
+dyd before the kingys iustyce but always
+before the Mayre or baylyffys in the same
+towne/ also yf a man deuyse goodys to an
+other &amp; makyth hys executours &amp; dieth and
+the executour wyll not delyuer the goodys
+to the deuyse/ the deuise hath no remedy by 
+the comen law in the kyngys courte but yt
+behouyth hym to haue a sytacyon agaynst
+the executours of the testatour to appere be<emend err="">&shy;</emend>
+fore <expan type="y+e">the</expan> ordinary to shew why he performith
+not the wyll of the testatour/ also yf a man
+deuyse all hys landys &amp; tenementis that he
+hath/ a reuersyon passyth by these wordys
+tenementys/ also yf landys be deuysyd to a
+m<expan type="a+_">an</expan> to haue to hym for euermore or to haue
+to hym &amp; hys assines/ in these .ii. causys the
+deuyse shall haue a fee symple/ But if it be 
+geuen by feffement in such maner/ he hath
+but an estate for terme of lyfe.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="denizen(n)">
+&para; Denyzyn </form> <xpln>is where an Alyon becomyth
+the kyngys subiect and obteynith <expan type="y+e">the</expan> kyngis
+letters patentys for to inioy all priuylegys
+as an englysh man/ but yf one be made de&shy;
+nizyn he shall pay customys &amp; dyuers other
+thyngys as alions as it apperyth by diuers
+statutys therof made.
+</xpln></wordentry>
+</page>
+
+<page sig="b8v">
+<wordentry type="h"><form lexeme="decies tantum(n)">
+&para; Decies tantum </form> <xpln>ys a wryt &amp; yt lyeth wher
+a iurrour in any inquest takyth money of
+<expan type="y+e">the</expan> one parte or other for to gyue hys verdite
+then he shall pay ten tymys as mych as he
+hath reseyuyd/ and euery one that will sew
+maye haue the accyon and shall haue the
+one half and <emend err="he">the</emend> kyng the other halfe/ But
+yf the kyng in such case relese by his perd<expan type="o+_">on</expan>
+to suche a iurroure yet it shalbe no barre a&shy;
+gaynst hym that bryngith the accyon but <expan type="y+t">that</expan>
+he shall recouer the other half yf hys accion
+be c<expan type="o+_">om</expan>mensyd before the pardon of the king
+but yf the perdon be before any accyon it is
+a barr agaynst all men/ and the same law is
+of all other accyons populers wher one <expan type="p-_">par</expan>te
+is to the kyng &amp; the other to <expan type="y+e">the</expan> parte <expan type="y+t">that</expan> sueth
+Also the inbracers whyche procure such in&shy;
+questys shalbe ponyshyd in <expan type="y+e">the</expan> samy maner
+&amp; they shall haue the prisonment of a yere/
+but no iustyce shall enquere therof of office
+but only at <expan type="y+e">the</expan> sewt of the parte.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="departer(n)">
+&para; De<expan type="p-_">par</expan>ter </form> <xpln>is where a man pledyth a plee in
+barr &amp; the playntyf replyeth therto/ &amp; he af&shy;
+ter in hys reioynder pledyth or sheweth an 
+other matter contrary to hys fyrste ple that
+is callyd a departer from hys barr.
+</xpln><lemenote>Predates earliest entry in OED (1628).</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="debt(n)">
+&para; Det </form> <xpln>is a wryt &amp; it lyeth where any some
+of money is dew to a man by reason of ac&shy;
+c<expan type="o+_">om</expan>pt bargayn contract oblygation or other
+especyalte to be payd at a certeyn day at <expan type="y+e">the</expan>
+whyche day he payeth not th<expan type="a+_">an</expan> he shall haue
+thys wryt/ but if any s<expan type="o+_">om</expan>e of money be dew
+to any lord by his ten<expan type="a+_">an</expan>t for any r<expan type="e+_">en</expan>t seruise
+</page>
+
+<page sig="c1r">
+the lord for that shall neuer haue accion of
+det/ But he behouyth allway to dystreyne/
+but for rent charge or r<expan type="e+_">en</expan>t seke he may haue
+a good accion of det and also for the arera&shy;
+gys of rent reseruyd vpp<expan type="o+_">on</expan> a lease for term
+of yerys/ and in these casys it is at hys elec<emend err="">&shy;</emend>
+cyon to haue an accyon of det or for to dys&shy;
+trayne/ but yf the lesse be determynyd than 
+he shall not dystrayne aftere for that rent.
+But he behouyth to haue an accyon of det
+for the areragys.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diem clausit extremum(n)">
+&para; Diem clausit extrem<expan type="u+_">um</expan></form> <xpln>is a wryt &amp; it lyeth 
+where the kyngys tenant <expan type="y+t">that</expan> holdyth in chefe
+dyeth than thys writ shalbe dyrect to the es&shy;
+chetour to <expan type="e+_">en</expan>quyre of what estate he was sey<emend err="">&shy;</emend>
+syd &amp; who is nexte heyre and of the certente
+of <expan type="y+e">the</expan> land &amp; of what valew the l<expan type="a+_">an</expan>d is.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="disclaimer(n)">
+&para; Dysclamer </form> <xpln>is where the lord dystraynith
+hys tenaunt &amp; he shewyth repleuyn and the
+lord auowyth the takyng by reason that he
+holdyth of hym / yf the ten<expan type="a+_">an</expan>t sey that he dys<emend err="">&shy;</emend>
+claymyth to hold of him thys ys callid a dis<emend err="">&shy;</emend>
+clayme/ &amp; yf the lord therupp<expan type="o+_">on</expan> bryng a writ
+of right sur disclamer if it be fo<expan type="u+_">un</expan>d agaynst
+the tenaunt/ he shall lose the land.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="disseisor(n)">
+&para; Disseysour </form> <xpln>ys he whych puttyth any m<expan type="a+_">an</expan>
+out of hys land wythout order of the law &amp; 
+dysseyse is he that is so put out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="discontinuance(n)">
+&para; Dyscontynuauns </form> <xpln>ys when a man alye&shy;
+nyth to a nother landys or tenementis and
+dyeth and an othere hath ryght to the same
+landys and may not enter in them because
+</page>
+
+<page sig="c1v">
+of thys alyenacyon / as yf an abbot alyen <expan type="y+e">the</expan>
+landys of hys howse to an othere in fee or
+in fee tayle or for terme of lyfe/ or yf a man
+alyen the landes that he <emend err="ath">hath</emend> in the ryght of
+hys wyfe or yf tenaunt in the tayle alyen <expan type="y+e">the</expan>
+landys geuyn to hym &amp; to the heyres of his
+body than such alienacyons be callyd dysc<expan type="o+_">on</expan><emend err="">&shy;</emend>
+tynuaunce/ for such estatys passe alway by 
+lyuere and seysyn/ and in thes casys the suc<emend err="">&shy;</emend>
+cessor of the abbot/ nor the woman after the
+deth of her husband nor the issu in the tayle
+after the deth of the tenaunte in tayle may
+not enter but euery of them is put to hys ac<emend err="">&shy;</emend>
+cyon/ also yf tenaunt in the tayle be dyssey&shy;
+syd &amp; he by his dede afterward relesyth to
+the dysseysor and to hys heyris all the right
+that he hath/ yt ys no dyscontyua<expan type="u+_">un</expan>ce/ for
+that that the tenaunte in the tayle hath no
+ryght but for terme of lyfe and nothyng of
+ryght passyth to the dysseysor but for term
+of lyfe of the tenaunt in tayle/ and the same
+law is yf an Abbot or a man in the ryght of 
+hys wyfe be dysseysyd and they relesse after
+to the dysseysor that is no dyscontynuance
+causa <expan type="q+_">quia</expan> supra.
+
+&para; Also the same law ys uf any such tena<expan type="u+_">un</expan>t
+in the tayle abbot or m<expan type="a+_">an</expan> in the ryght of hys
+wyfe make a lesse for terme of yerys and af<emend err="">&shy;</emend>
+ter relese to the lesse all his ryght such relese
+makyth no dyscontynuaunce.
+</page>
+
+<page sig="c2r">
+&para; Also yf tenaunt in the tayle of an aduou<emend err="">&shy;</emend>
+s<expan type="o+_">on</expan> or of a comen <expan type="i+_">in</expan> grose gra<expan type="u+_">un</expan>t the aduou&shy;
+son or the comyn to a nothere in fee or for
+terme of lyfe that ys no dyscontynuaunce
+for <expan type="y+t">that</expan> <expan type="y+t">that</expan> of suche thyngys whych passyth by
+graunt and not by lyuere &amp; seysin nothyng
+passyth but the estate that <expan type="y+e">the</expan> gra<expan type="u+_">un</expan>tour hath/
+but of such thingis whych passith by lyuere
+&amp; seysyn such estate passith which is namid
+at the tyme of the seysyn gyuyn.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="disceit(n)">
+&para; Dysceyt </form> <xpln>is a writ &amp; it is sometime orygi<emend err="">&shy;</emend>
+nall and sometyme iudyciall/ but when yt
+is orygynall yt leyth where any dysceyte ys
+done to a man by an othere so that he hath
+not sufficiently <expan type="p-_">per</expan>formyd his bargen or not
+<expan type="p-_">per</expan>formid his <expan type=",p">pro</expan>mys th<expan type="a+_">an</expan> he <expan type="y+t">that</expan> is <expan type="i+_">in</expan> such maner
+disseyuyd shall haue thys wryt.
+
+&para; Also when thys wryt is iudycyall it lyeth
+where a scyre facias is sewyd owte of any
+recorde agaynst a man and the shyryffe re&shy;
+tornyth <expan type="y+t">that</expan> he is warnyd where he was nott
+warnyd or where a precipe quod reddat of
+ple of lande is sewyd agaynste one and the
+shyryfe retornyth that he is s<expan type="o+_">om</expan>monyd wher
+he was not s<expan type="o+_">om</expan>monyd/ by the whych dysceyt
+and fals retorne the demaundaunt recoue&shy;
+rith the land/ than the <expan type="p-_">par</expan>te greuyd shall haue
+thys wryt a gaynste hym that recoueryd or
+agaynst the sommoners or agaynst the shi&shy;
+ryf/ but if it be sewyd agaynste the shyryffe
+than <expan type="y+e">the</expan> wryt shalbe directyd to the coroners
+of the same counte.
+</xpln></wordentry>
+</page>
+
+<page sig="c2v">
+<wordentry type="h"><form lexeme="demandant(n)">
+&para; Demaundaunt </form> <xpln lexeme="plaintiff(n)">is he that sewyth or com<emend err="">&shy;</emend>
+playnyth in accyon reall for tytle of lande
+and he is callyd playntyfe in assyse and in 
+accyon personell as in an accyon of det tres<emend err="">&shy;</emend>
+pas disceyt dytynew and such other
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="defendant(n)">
+&para; Defendaunt </form> <xpln lexeme="tenant(n)">is he that is sewyd in accy<expan type="o+_">on</expan>
+<expan type="p-_">per</expan>sonell and he is callyd tenaunte in accyon
+reall.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="distress(n)">
+&para; Dystres </form> <xpln>is ys th<expan type="i+_">in</expan>g whych ys takyn &amp; dys&shy;
+traynyd vpp<expan type="o+_">on</expan> any land for rent behynd or
+for other hurt or dewte howbeit <expan type="y+t">that</expan> <expan type="y+e">the</expan> <expan type=",p">pro</expan>perte
+of the thyng belongyth to a stranger/ but if
+they be bestys <expan type="y+t">that</expan> belonge to a straunger it be<emend err="">&shy;</emend>
+houyth <expan type="y+t">that</expan> they be leuaunt &amp; couchant vpp<expan type="o+_">on</expan>
+the same ground <expan type="y+t">that</expan> is to sey <expan type="y+t">that</expan> <expan type="y+e">the</expan> bestys haue
+bene vpp<expan type="o+_">on</expan> <expan type="y+e">the</expan> gro<expan type="u+_">un</expan>d by certayn space <expan type="y+t">that</expan> they
+haue th<expan type="e+_">em</expan> selfe well restyd vppon the gro<expan type="u+_">un</expan>d
+or els they be not dystraynable/ also yf one
+distrayn for r<expan type="e+_">en</expan>t or other th<expan type="i+_">in</expan>g without cause
+lawful th<expan type="a+_">an</expan> <expan type="y+e">the</expan> <expan type="p-_">par</expan>te greuid shall haue a repleu<expan type="i+_">in</expan>
+vpp<expan type="o+_">on</expan> suerte fo<expan type="u+_">un</expan>d to pursue his acci<expan type="o+_">on</expan> &amp; shal
+haue <expan type="y+e">the</expan> dystres to hym delyueryde agayne/
+therfore loke of the repleuyn afterward in 
+<expan type="y+e">the</expan> tytle repleuyn / also ther be dyuers thynge<expan type="es">es</expan>
+which be not distraynable <expan type="y+t">that</expan> is to say <expan type="a+_">an</expan> over
+m<expan type="a+_">an</expan>nis gown <expan type="i+_">in</expan> <expan type="y+e">the</expan> house of a tayler or a cloth
+<expan type="i+_">in</expan> <expan type="y+e">the</expan> house of a fuller sherm<expan type="a+_">an</expan> or weyuer.
+</page>
+
+<page sig="c3r">
+for that that they be comen artyfucers and
+<expan type="y+t">that</expan> the comen presumpcyon ys <expan type="y+t">that</expan> such thing<expan type="es">es</expan>
+belonge not to the artyfycer but to other <expan type="p-_">per</expan>&shy;
+sons whych put them there to work.
+
+&para; Also vytell ys not distraynable nor corn
+in sheuys but yf they be in a carte for that
+that a dystres owghte to be alwaye of such
+thyngys wherof <expan type="y+e">the</expan> shyryf may make reple&shy;
+uyn &amp; delyuer agayne in as good case as yt
+was at the tyme of the takyng/ Also a m<expan type="a+_">an</expan>
+may dystrayn for homage fealte &amp; escuage
+&amp; other seruyces for fynys &amp; amercements
+which be assessyd in a lete but not in a court
+baron &amp; also for damage fesaunt that ys to 
+saye when he fyndyth the bestys or goodys
+of an othere doyng hurt or comberyng hys
+grownd/ also a man may not dystrayn for
+any rent or thyng dew for any land but vp<emend err="">&shy;</emend>
+pon the same l<expan type="a+_">an</expan>d that is chargyd therwyth
+but in case where I come to dystrayn and
+the othere seynge my purpose chasyth the
+bestys or beryth the thyng owt to the <expan type="e+_">en</expan>tent
+<expan type="y+t">that</expan> I shall not take it for a dystresse vppon
+<expan type="y+e">the</expan> grounde / then I maye well pursew &amp; yf I
+take it inc<expan type="o+_">on</expan>tynent in <expan type="y+e">the</expan> hy way or in <expan type="a+_">an</expan> other
+ground <expan type="y+e">the</expan> takyng ys lawfull as well ther as
+vppon the land chargyd to who so euer the 
+properte of the goodys be.
+</page>
+
+<page sig="c3v">
+Also for fynys &amp; amercymentys whych be
+assessyd in a Lete one may alway take the 
+goodys of hym that is so amercyd in whos
+gro<expan type="u+_">un</expan>d so euer they be wythyn the iuresdic&shy;
+tyon of the court vt dicitur/ Also wh<expan type="e+_">en</expan> one
+hath taken a dystres yt behouyth to hym to
+bryng yt to the com<expan type="e+_">en</expan> pownd or els he may
+kepe hyt in an others grounde &amp; then yt be&shy;
+houth hym to gyue notyce to the <expan type="p-_">par</expan>te for <expan type="y+t">that</expan>
+<expan type="y+t">that</expan> <expan type="y+e">the</expan> parte if the dystres be a quyk best may
+gyue to yt fode/ &amp; than yf the best dy for de&shy;
+faut of fode he <expan type="y+t">that</expan> was distreynyd shall be at 
+the losse and then the other may dystreyne 
+agayne for the same rente or dewte/ But if
+he bryng the dystresse to a hold or out of the
+counte that the shyryfe may not make dely<emend err="">&shy;</emend>
+ueraunce vppon the repleuyn/ than the <expan type="p-_">par</expan>te
+vppon the retorne of the shyryf shall haue a 
+wryt of wythernam dyrect to the shyryffe <expan type="y+t">that</expan>
+he take as many of hys bestys or as myche
+goodys of the other in hys kepyng tyll that
+he hath made delyueraunce of the fyrst dys&shy;
+tres/ Also yf they be in a forselet or castell <expan type="y+e">the</expan>
+shyryf may take wyth hym the power of <expan type="y+e">the</expan>
+counte &amp; bete downe <expan type="y+e">the</expan> castell as it apperith
+by the statute <expan type="westm">westminster</expan> .i. C. xx. therfore loke
+<expan type="y+e">the</expan> statute
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="deodand(n)">
+&para; Deodande </form> <xpln>ys whan any man by mys&shy;
+fortune ys slayne by an hors or by a cartte
+or by any othere thynge that mouythe
+</page>
+
+<page sig="c4r">
+than thys thyng that ys <expan type="y+e">the</expan> cause of hys deth
+&amp; which at <expan type="y+e">the</expan> tyme of <expan type="y+e">the</expan> mysfortune mouyth
+shalbe forfet to the kyng / &amp; that is callyd de&shy;
+od<expan type="a+_">an</expan>de &amp; <expan type="y+t">that</expan> <expan type="p-_">per</expan>teynyth to the kyngys almener
+for too dyspose in almys and in dedys of
+charyte.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dedimus potestatem(n)">
+&para; Dedimus potestatem </form> <xpln>is a wryt &amp; yt lyeth
+where a man sewith in the kyngys court or
+is sewyd and may not well trauell than he
+shall haue thys wryt direct to some Iustice
+or other discrete <expan type="p-_">per</expan>s<expan type="o+_">on</expan> in the <emend err="coutrey">co<expan type="u+_">un</expan>trey</emend> to gyue
+to hym power to admyt some man for his
+attorney or to leuey a fyne or to take hys c<expan type="o+_">on</expan><emend err="">&shy;</emend>
+fessyon or hys answere or other examinacy<emend err="">&shy;</emend>
+on as the matter requyryth.
+</xpln><lemenote>OED "dedimus".</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="demurrer(n)">
+&para; Demurrer </form> <xpln>is wh<expan type="e+_">en</expan> any accyon is brought
+&amp; the deffenda<expan type="u+_">un</expan>t pledyth a ple to the whych
+the pleyntyf seyth that he wyll not answere
+for that <expan type="y+t">that</expan> yt is not sufficyent ple in the law
+and the deffendaunt sayth to the contrary
+that yt ys a suffycyent ple / thys dout of the 
+law is callyd a demurrer
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="double plea(n)">
+&para; Double ple </form> <xpln>ys wher <expan type="y+e">the</expan> deff<expan type="e+_">en</expan>d<expan type="a+_">an</expan>t or ten<expan type="a+_">an</expan>t <expan type="i+_">in</expan>
+any acci<expan type="o+_">on</expan> pledith a ple <expan type="i+_">in</expan> <expan type="y+e">the</expan> which .ii. matters
+be c<expan type="o+_">om</expan>prehendyd &amp; euery one by him self is a 
+suffyci<expan type="e+_">en</expan>t barr or <expan type="a+_">an</expan>swere to <expan type="y+e">the</expan> accy<expan type="o+_">on</expan>/ th<expan type="e+_">en</expan> such
+a double ple shall not be admyttid for a ple
+</page>
+
+<page sig="c4v">
+except one depend vppon <expan type="a+_">an</expan> other &amp; in such
+case yf he may not haue <expan type="y+e">the</expan> last ple wythowt
+the furst ple then suche a dowble ple shalbe
+well sufferyd.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dower(n)">
+&para; Dower </form> <xpln>is a wryt &amp; yt lyeth where a man
+ys sole seysyd duryng <expan type="y+e">the</expan> couertour betwen 
+hym &amp; hys wyfe of landys &amp; tenementys in 
+fe symple or fe tayle where by possybylyte
+the yssu betwene them may inheryt/ if such
+a man dye hys wyfe shall recouer the thyrd 
+part of all the landys wherof the husbande
+was sole seysyd any tyme duryng <expan type="y+e">the</expan> couer&shy;
+tour by a wryt of dower vnde nichil habet/
+though <expan type="y+t">that</expan> he made alyenacyon therof in his
+lyfe/ but yf a man haue landys in the whych
+an other man or other men were seysyd to
+hys vse always duryng the couertour/ &amp; he 
+to whose vse they be seysyd dyeth/ hys wife
+shall not be <expan type="i+_">in</expan>dowed/ And also yf .ii. men be
+seysid of l<expan type="a+_">an</expan>d to the vse of one of th<expan type="e+_">em</expan>/ &amp; he to
+whose vse &amp; c/ dyeth hys wyfe shall not be in<emend err="">&shy;</emend> 
+dowyd/ Also yf a wom<expan type="a+_">an</expan> brynge a wryt of
+dower she shall recouer damag<expan type="es">es</expan> for <expan type="y+e">the</expan> <expan type=",p">pro</expan>fet
+r<expan type="o+_">on</expan>ne after the deth of her husb<expan type="a+_">an</expan>d if he dyed
+therof seisyd/ but yf any alienaci<expan type="o+_">on</expan> or estate
+were made durynge the couertoure so that
+the husband dyed not seisyd/ than thoughe
+she shall recouer the land yet she shall reco&shy;
+uere no damagys.
+</page>
+
+<page sig="c5r">
+Also ther is an other writ of dower callid a
+wryt of ryght of dower and it lyeth where
+a wom<expan type="a+_">an</expan> hath recoueryd part of her dower
+in the same towne and the other part she is
+to recouer / Also in dyuers casys a woman
+shall not haue dower as if the husband do
+felony for the whych he is atteynt than hys
+wife shall haue no dower/ Also yf she go a&shy;
+way from her husband wyth an other man
+in aduoutre &amp; if she be not rec<expan type="o+_">on</expan>sylyd by her
+husb<expan type="a+_">an</expan>d of his own wyll without coherc<expan type="u+_">un</expan> of
+<expan type="y+e">the</expan> church she shall not be indowed.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="droit(n)">
+&para; Droyt </form> <xpln>ys a wryt callyd a wryt of ryght &amp; 
+yt lyeth where a man claymyth any landys
+or t<expan type="n+_">enemen</expan>tys &amp; aledgyth no tytle but onely <expan type="y+t">that</expan> one
+of hys auncestours in old tyme was seysyd
+after the lymitacion/ &amp; this wryt behouyth
+to be brought in <expan type="y+e">the</expan> lordys court &amp; yt may be
+remouyd in the kyngys court &amp; it hath not
+but .ii. tryels <expan type="y+t">that</expan> is to sey by graunt assise or
+by battell at the eleccyon of <expan type="y+e">the</expan> tena<expan type="u+_">un</expan>t &amp; for <expan type="y+t">that</expan>
+it behouyth alway to <expan type="y+e">the</expan> pleyntyf for to haue
+his ch<expan type="a+_">am</expan>pi<expan type="o+_">on</expan>redy or els he shall lose hys acci<expan type="o+_">on</expan>
+Also the iugment of thys writ is fynall for
+it is no ple for <expan type="y+e">the</expan> ten<expan type="a+_">an</expan>t to say <expan type="y+t">that</expan> he recoueryd
+by accyon tryed/ also there is an other wryt
+of ryght de racionabile <expan type="p-_">par</expan>te/ &amp; it lyeth alway
+betwene pryueys of bloode as yf a man let
+l<expan type="a+_">an</expan>dys for term of lyfe &amp; hath many coheyrs
+&amp; dyeth/ yf one of the coheyrys enter in all <expan type="y+e">the</expan>
+land the othere shall haue thys wrytte/ but 
+thys wrytte shall not be tryed by battell nor
+graunt assise.
+</page>
+
+<page sig="c5v">
+Also ther is an other wryt of ryght <expan type="qn+_">quia</expan> <expan type="dns">dominus</expan>
+remisit curiam suam regi &amp; it lyeth wher <expan type="y+e">the</expan>
+lord holdith no court th<expan type="a+_">an</expan> he shall remyt hys
+court to <expan type="y+e">the</expan> kyngis court for <expan type="y+e">the</expan> tyme sauyng
+to hym an other tyme the right of his seyg&shy;
+moury.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="writ of right(n)">
+&para; Loke of writ of ryght </form> <xpln>in the tytles of <expan type="p+_">pre</expan>&shy;
+cipe in capite monstrauerunt dower &amp; qua&shy;
+re impedit.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="duress(n)">
+&para; Dures </form> <xpln>is where one is kept in pryson or
+restraynyd from hys lyberte contrary to <expan type="y+e">the</expan>
+order of the law &amp; yf such a person so being
+in dures make any especyalte or oblygacy<expan type="o+_">on</expan>
+such a dede is voyd in the law/ and in an ac&shy;
+cyon broughte vppon such an especyalte he
+may sey that yt was made by dures of in&shy;
+prysonment/ but yf a man be arestyd vpp<expan type="o+_">on</expan>
+any accyon at the sewt of an other thoughe
+the cause of the accy<expan type="o+_">on</expan> be not good nor trew
+yf he make any obligacyon to a straungere
+beyng in pris<expan type="o+_">on</expan> by such arest yet yt shall not
+<emend err="beseyd">be seyd</emend> by dures/ but yf he make an oblyga<emend err="">&shy;</emend>
+cy<expan type="o+_">on</expan> to hym at whose suit he was arestyd to
+be dischargyd of such inprisonmente than
+it shalbe sayd dures vt dicitur.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dum non fuit compos mentis(n)">
+&para; D<expan type="u+_">um</expan> n<expan type="o+_">on</expan> fuit compos m<expan type="e+_">en</expan>tis </form> <xpln>is a wryt &amp; it
+lyeth where a man that is oute of hys good
+mynd alieneth the landys that he hath in fe
+symple and dieth than hys heyre after hys
+dyssese shall haue this wryt but he him self
+shall not haue thys writ for that that a m<expan type="a+_">an</expan>
+shall not be reseyuyd to dyss<expan type="e+_">em</expan>ble hym selfe/
+also thys writte may be made in the <expan type="p-_">per</expan> cui &amp; 
+post.
+</xpln></wordentry>
+</page>
+
+<page sig="c6r">
+<wordentry type="h"><form lexeme="dum fuit infra etatem(n)">
+&para; Dum fuit infra etatem </form> <xpln>is a wrytt and it 
+lyeth where an infant wythyn age alyenith
+hys land <expan type="y+t">that</expan> he hath in fe symple or for terme
+of lyfe when he commyth to hys full age he
+shall haue thys wryt or he maye enter yf he
+wyll/ but yt behouyth that he be of full age
+<expan type="y+e">the</expan> day of this wryt brought/ also yf an inf<expan type="a+_">an</expan>t
+alyen hys land &amp; dy hys issu at hys full age
+shall haue thys wryt/ but the issue shall not 
+haue thys wryt withyn hys age.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">
+<wordentry type="h"><form lexeme="entry(n)">
+&para; Entre </form> <xpln>ys where a man enterythe in any
+landys or tenementys in his proper person
+or any othere by hys c<expan type="o+_">om</expan>maundement/ Also
+therbe dyuers wryttis of entre whych be in 
+dyuers maners/ one is a wryt of entre sur
+desseysyn/ &amp; this writ lyeth where a man ys
+dysseysyd &amp; dyeth hys heyre shall haue thys
+wryt agaynst the dysseysour/ A wryt of en&shy;
+tre in the <expan type="p-_">par</expan> lyeth wher a m<expan type="a+_">an</expan> is dysseysyd of
+hys fre hold &amp; the disseysor of hys heyre en&shy;
+teryth then the dysseysie or hys heyre shall
+haue the seyd wryt agaynst the heyre of the 
+dysseysor or agaynst the alyen of the dyssei<emend err="">&shy;</emend>
+sor/ but lyu<expan type="i+_">in</expan>g <expan type="y+e">the</expan> disseisor he may haue assyse
+yf he wyll and the wryt of entre shall say in
+<expan type="qd">quod</expan> Annon h<expan type="e+_">en</expan>t ingress<expan type="u+_">um</expan> nisi <expan type="p-_">per</expan> B. qui illud ei
+dimisit qui inde iniuste disseisiuit. &amp;c. But
+yf <expan type="y+e">the</expan> dysseysor alien and the alyene alyenith
+forther to an othere or yf the disseysour dye
+and hys heyre enter and that heyre dyeth &amp; 
+</page>
+
+<page sig="c6v">
+<emend err="">hys heyre enteryth</emend> than the dysseyse or hys heyre shall haue a 
+writ of entre sur disseysyn in the <expan type="p-_">per</expan> &amp; cui and
+the writ shall sey in <expan type="qd">quod</expan> id a non h<expan type="e+_">en</expan>t ingress<expan type="u+_">um</expan>
+nisi <expan type="p-_">per</expan> B. cui C. illud ei dimisit qui inde in&shy;
+iuste &amp;c. And note well that no wryt of en&shy;
+tre in <expan type="y+e">the</expan> <expan type="p-_">per</expan> &amp; cui shalbe mayntenable agaynst
+non but where he that is tenaunte be in by
+purchase or dyscent/ but yf the alyenacyon
+or dyscent be come out of the degrees vpp<expan type="o+_">on</expan>
+whych no wryt may be made in the <expan type="p-_">per</expan> nor in
+the <expan type="p-_">per</expan> &amp; cui than yt shalbe made in the post/
+and the wryt shall sey in <expan type="qd">quod</expan> a non habet in&shy;
+gressum nisi post disseisinan quam B. <expan type="i+_">in</expan> de
+iniuste et sine iudicio fecit <expan type="p+_">per</expan>fat. N. vel in
+<expan type=",p">per</expan>ame N. cuius heres ipse est.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ejectment de garde(n)">
+&para; Eiectment de garde </form> <xpln>loke therefor aftere
+in the tytle of Garde.
+</xpln><lemenote>OED "ejectment" 1 (1567).</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="elegit(n)">
+&para; Elegit </form> <xpln>is a wryt iudycyall and yt lyethe
+wher a m<expan type="a+_">an</expan> hath recouerid in <expan type="y+e">the</expan> kyng<expan type="es">es</expan> court
+det or damagys yf he suppose <expan type="y+t">that</expan> <expan type="y+e">the</expan> goodys
+of <expan type="y+e">the</expan> other be not sufficy<expan type="e+_">en</expan>t th<expan type="a+_">an</expan> he shall haue
+thys writ to the shyryf to delyuer to hym al
+hys goodys &amp; cattells except oxen &amp; <expan type="i+_">im</expan>plem<expan type="e+_">en</expan>t
+of hys cart/ &amp; also the half of hys l<expan type="a+_">an</expan>d whych
+shalbe to hym delyueryd by resonable ext<expan type="e+_">en</expan>t
+that he shall hold yt tyll the some be leuyed
+of the seyd issuys and <expan type=",p">pro</expan>fettys.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="error(n)">
+&para; Errour </form> <xpln>is a wryte &amp; it lyeth where a false
+iugement is gyuen in <expan type="y+e">the</expan> comen place or be&shy;
+fore the iustyce in assise or before the iustice
+of oyer determyner or beefore the Mayere
+</page>
+
+<page sig="d1r">
+and <expan type="y+e">the</expan> shyryffis of london/ or in other court
+of record for to make the record and proces
+to come before the iustyce of <expan type="y+e">the</expan> kyngys b<expan type="e+_">en</expan>ch
+and yf ther errour be found yt shalbe reuer<emend err="">&shy;</emend>
+syd/ but yf a fals iugement be gyuen in the
+kyngys bench than it shalbe reuersyd by <expan type="y+e">the</expan>
+<expan type="p-_">par</expan>lyament also yf a false iugem<expan type="e+_">en</expan>t be geuyn
+in court that ys not of record as in cownte
+hundred or court baron then the parte shall
+haue a writ of fals iugement for to make <expan type="y+e">the</expan>
+record to come before <expan type="y+e">the</expan> iustyce of the com<expan type="e+_">en</expan>
+place/ Also yf errour be found in the esche&shy;
+quer it shalbe redressyd by the chauncellour
+&amp; tresorer as yt apperyth by <expan type="y+e">the</expan> statute of ed&shy;
+ward the .iii. anno. xxxi. C.xii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="essoin(n)">
+&para; Esson </form> <xpln lexeme="common essoin(n)">ys wher an accyon ys brought &amp; <expan type="y+e">the</expan>
+playntyf or deffendaunt may not well ap&shy;
+pere at the day in courte for one of the .v.
+causys vnder expressyd then he shalbe esso&shy;
+nyd to saue hys defaute/ wheruppon note
+well that there be .v. maner of essones/ that
+ys to say/ Esson de ouster le mere and <expan type="y+t">that</expan> ys
+ by xl. days/ the second esson ys de terra s<expan type="a+_">an</expan>c&shy;
+ta &amp; that shalbe by a yere &amp; a day/ and these
+twayne shalbe leyd in the begynnynge of <expan type="y+e">the</expan>
+ple vt dicitur/ the .iii. esson is de male vener
+and that shalbe at comen days as the acci<expan type="o+_">on</expan>
+requyryth / &amp; thys ys callyd the comen esson
+&amp; when &amp; how this ess<expan type="o+_">on</expan> shalbe loke <expan type="y+e">the</expan> statut<expan type="es">es</expan>
+&amp; the boke of bregem<expan type="e+_">en</expan>t<expan type="es">es</expan> of statutys wher it
+is well declaryd also <expan type="y+e">the</expan> .iiii. ess<expan type="o+_">on</expan> ys de malo
+lecti &amp; yt is only <expan type="i+_">in</expan> a wryt of ryght &amp; therupp<expan type="o+_">on</expan>
+ther shall a wryt go out of <expan type="y+e">the</expan> cha<expan type="u+_">un</expan>cery dyrect
+to the shyryfe <expan type="y+t">that</expan> he shall send .iiii. knyghtys
+to the tenaunt to se the tenaunte &amp; yf he be
+</page>
+
+<page sig="d1v">
+be seke to gyue hym a daye after a yere &amp; a
+day/ also the .v. esson ys de seruyce le roy &amp; 
+yt lyeth in all accy<expan type="o+_">on</expan>s except in assyse of no&shy;
+uell dysseysyn a wryt of dower / daren <expan type="p+_">pre</expan>s<expan type="e+_">en</expan>&shy;
+tem<expan type="e+_">en</expan>t and in appell of murder/ But in thys
+esson it behouyth at <expan type="y+e">the</expan> day to shew hys war&shy;
+r<expan type="a+_">an</expan>t or els it shall torne into a defaut yf yt be
+in a ple reall / or els he shall lose. .xx. s. for the 
+iorney or more by <expan type="y+e">the</expan> dyscressyon of <expan type="y+e">the</expan> iustice
+yf yt be in ple <expan type="p-_">per</expan>sonell/ as it apperyth by the
+statute of glocester .C. decimo
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="estray(n)">
+&para; Estray </form> <xpln>ys where any best or cattell is in a<emend err="">&shy;</emend>
+ny lordshyp &amp; none knowyth <expan type="y+e">the</expan> owner ther&shy;
+of than it shalbe seysyd to the vse of <expan type="y+e">the</expan> kyng
+or of the lord that hath suche estrey by the
+kyngys graunt or by prescrypcyon/ &amp; yf the 
+owner come &amp; make clayme therto withyn
+a yere and a day th<expan type="a+_">an</expan> he shall haue it agayn
+or els after the yere the <expan type=",p">pro</expan>perte therof shalbe
+to the lord so that the lord make proclama&shy;
+cyon therof accordyng to the law.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ejection firm(n)">
+&para; Eieccione firme/ </form> <xpln>loke therefore after in <expan type="y+e">the</expan>
+tytle quare eiecit infra terminum
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="escape(n)">
+&para; Escape </form> <xpln>is where one <expan type="y+t">that</expan> is arestyd c<expan type="o+_">om</expan>mith
+to his liberte before that he be delyueryd by
+the warde of any iustyce or by order <emend err="yf">of</emend> the
+law/ Also yf one be arestyd &amp; after escape &amp; 
+ys at hys liberte &amp; he in whose ward he was
+take hym afterward &amp; bryng hym to the pri<emend err="">&shy;</emend>
+son yet it ys an escape in hym.
+</page>
+
+<page sig="d2r">
+Also yf a murder be made in the day &amp; the
+murderer be not taken than it is an escape
+for the whych the towne where the murder
+was done shalbe amercyd / Also yf a felon
+be arestyd by the constable and brought to
+the geale in the counte &amp; <expan type="y+e">the</expan> gealour wyll not
+reseyue hym and the constable lettyth hym
+go &amp; the gealour also &amp; so he escapyth / thys
+ys an escape in <expan type="y+e">the</expan> gealour for that <expan type="y+t">that</expan> in such
+case the gealour ys bound to receyue hym
+by the hande of the constable wythoute any
+precept of <expan type="y+e">the</expan> iustice of peace / but otherwyse
+yt ys if a comen <expan type="p-_">per</expan>son arest a nother for sus<emend err="">&shy;</emend>
+<emend err="pecyous">pecyons</emend> of felony there the gealour ys not
+bound to receyue hym wythout a precepte
+of some iustyce of peace.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="escheat(n)">
+&para; Eschete </form> <xpln>ys a wrytt and yt lyeth where a
+tenaunt holdith of a lord wythout measne
+&amp; doth felony for the which he ys h<expan type="a+_">an</expan>gyd or
+abiurid the realme or be outlawd of felony
+murder or pety treason / or if the tenaunt dy
+wythout heyre generall or specyall / than the
+lorde may enter by way of escehete / or yf an
+other enter the lord shall haue agaynst hym
+thys wryt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="estrepement(n)">
+&para; Estripament </form> <xpln>is a wrytte &amp; yt lyeth where
+one ys impledyd by a precipe quod reddat
+for certeyne land yf the demaundaunt sup&shy;
+pose that the tenaunt wyll do wast h<expan type="e+_">en</expan>gyng
+the ple he shall haue agaynst hym thys writ 
+</page>
+
+<page sig="d2v">
+whych ys <expan type=",p">pro</expan>hibycyon coma<expan type="u+_">un</expan>dyng hym <expan type="y+t">that</expan>
+he do no wast h<expan type="e+_">en</expan>gyng the ple/ and thys writ
+lyeth <expan type=",p">pro</expan>perly where a man demaundyth l<expan type="a+_">an</expan>&shy;
+dys by formedone or writ of ryght or such
+wryttis where he shall not recouer damag<expan type="es">es</expan>
+for in such wryttys where he shall recouer
+damagys he shall haue hys damagys ha&shy;
+uyng regard to the wast done.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="executor(n)">
+&para; Executoure </form> <xpln>ys when a man makyth hys
+testament &amp; last will &amp; theryn namyth the <expan type="p-_">per</expan><emend err="">&shy;</emend>
+son that shall execute hys testamente/ then
+he that ys so namyd ys hys executour/ and
+such an executoure shall haue an accyon a&shy;
+gaynst euery dettour of hys testatour/ and
+yf the executours haue assetz euery one to
+whom the testatour was in det shall haue <expan type="a+_">an</expan>
+accyon agaynst the executour yf he haue an
+oblygacion or especyalte/ but in euery case
+where the testator myght wage hys law no
+accy<expan type="o+_">on</expan> lyeth agaynst the executor/ loke more
+therof before <expan type="i+_">in</expan> the tytle admynystratours.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eschange(n)">
+&para; Exchaunge </form> <xpln>is where a man ys seysyd of
+certayne land/ &para; an other man ys seysyd of
+othere land<expan type="es">es</expan>/ yf they by a dede indentyd or
+wythout dede yf the l<expan type="a+_">an</expan>d<expan type="es">es</expan> be <expan type="i+_">in</expan> one self co<expan type="u+_">un</expan>te
+exchaunge theyr landis so <expan type="y+t">that</expan> euery of them
+shall haue others landys to him so exchaun<emend err="">&shy;</emend>
+gyd in fee/ fee tayle or for terme of lyfe.
+that ys callyd an exchaunge &amp; yt is goode
+without lyuere &amp; seysyn.
+</page>
+
+<page sig="d3r">
+Also in exchaunge yt behouyth that <expan type="y+e">the</expan> esta&shy;
+tys to th<expan type="e+_">em</expan> lymytyd by thexchaunge be egall
+for yf one haue an estate in fee in hys land &amp; 
+the other hath estate in the other l<expan type="a+_">an</expan>d/ but for
+term of life or in tayle / then such eschaunge
+ys voyd/ but yf the estatys be egall &amp; the l<expan type="a+_">an</expan>&shy;
+dys be not of egall valew yet the exchaung
+ys good/ Also an exchaunge of rent for l<expan type="a+_">an</expan>d
+ys good. Also an exchaunge betwene rente
+&amp; c<expan type="o+_">om</expan>myn ys good &amp; <expan type="y+t">that</expan> oughte to be by dede /
+Also <expan type="y+t">that</expan> behouyth alway <expan type="y+t">that</expan> these wordys ex<emend err="">&shy;</emend>
+cha<expan type="u+_">un</expan>ge be in <expan type="y+e">the</expan> dede or els nothyng passith
+by <expan type="y+e">the</expan> dede except <expan type="y+t">that</expan> he haue lyuere &amp; seisyn
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="excommengement(n)">
+&para; Exc<expan type="o+_">om</expan>mengement </form> <xpln lexeme="de excommunicato capiendo(n)" lexeme="de excommunicato deliberando(n)" >ys to say in laten exc<expan type="o+_">om</expan><emend err="">&shy;</emend>
+municacio/ &amp; it is where a man by the iuge<emend err="">&shy;</emend>
+ment in court crystyan is accursyd than he
+ys dysablyd to sew any accion in the king<expan type="es">es</expan>
+court/ &amp; if he remayn exc<expan type="o+_">om</expan>municate .xl. days
+&amp; wyll not be iustyfyed by his ordenary/ th<expan type="a+_">an</expan>
+<expan type="y+e">the</expan> bysshop shall send hys letter patent to the 
+cha<expan type="u+_">un</expan>cellor &amp; therupp<expan type="o+_">on</expan> yt shalbe c<expan type="o+_">om</expan>ma<expan type="u+_">un</expan>dyd
+to <expan type="y+e">the</expan> shyryf to take <expan type="y+e">the</expan> body of him <expan type="y+t">that</expan> is accur&shy;
+syd by a wryt callid de exc<expan type="o+_">om</expan>municato capi<expan type="e+_">en</expan><emend err="">&shy;</emend>
+do till that he hath made grement to <expan type="y+e">the</expan> holy
+chyrch for the contempt &amp; wrong/ &amp; when he
+ys iustyfyed &amp; hath made grem<expan type="e+_">en</expan>t/ th<expan type="a+_">an</expan> <expan type="y+e">the</expan> bys<emend err="">&shy;</emend>
+shop shall s<expan type="e+_">en</expan>d hys letters to <expan type="y+e">the</expan> kyng certify&shy;
+<expan type="e+_">en</expan>g <expan type="y+e">the</expan> same/ &amp; than yt shall be c<expan type="o+_">om</expan>ma<expan type="u+_">un</expan>dyd to <expan type="y+e">the</expan> 
+shyryff to delyuer hym by a wryt callyd de
+excommunicato deliberando.
+</xpln></wordentry>
+</page>
+
+<page sig="d3v">
+<wordentry type="h"><form lexeme="execution(n)">
+&para; Execucyon </form> <xpln>ys where iugement is geuyn
+in any accy<expan type="o+_">on</expan> <expan type="y+t">that</expan> the playntif shall recouer the
+land the det or damagys as the case ys and 
+when any wryt ys awardyd to put hym in
+execucyon that ys callyd a wryt of execuci<expan type="o+_">on</expan>
+&amp; when he hath the possessyon of the land or
+or ys payd of the det or damagys or hath <expan type="y+e">the</expan>
+body of the deff<expan type="e+_">en</expan>d<expan type="a+_">an</expan>t awarded to pris<expan type="o+_">on</expan>/ th<expan type="e+_">en</expan>
+he hath execucy<expan type="o+_">on</expan>/ &amp; yf the ple be in the co<expan type="u+_">un</expan>te
+or court bar<expan type="o+_">on</expan> or h<expan type="u+_">un</expan>dred &amp; they defar <expan type="y+e">the</expan> iuge&shy;
+ment in fauour of the <expan type="p-_">par</expan>te or for other cause
+then the dema<expan type="u+_">un</expan>daunt shall haue a wryt de
+execucione iudicii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="extinguishment(n)">
+&para; Extynguyshment </form> <xpln>ys where any Lord or 
+any other hath any rent goyng owt of any
+land &amp; he purchasyth the same land so <expan type="y+t">that</expan> he
+hath such estate in the land as he hath in the 
+rent then <expan type="y+e">the</expan> rent ys extynct/ for <expan type="y+e">the</expan> <expan type="y+t">that</expan> one may
+not haue rent goyng out of hys owne land/
+Also when any rent shalbe extynct yt beho&shy;
+uyth <expan type="y+t">that</expan> the land &amp; the rent be in one hand/ &amp; 
+also that <expan type="y+e">the</expan> estate <expan type="y+t">that</expan> he hath be not defesable:
+&amp; also that he haue as good estate in the l<expan type="a+_">an</expan>d
+as in the rent/ for if he haue estate in the l<expan type="a+_">an</expan>d
+but for terme of lyfe or yerys &amp; hath fe s<expan type="i+_">im</expan>ple
+in the rent then the rent ys not extynct but
+the rent ys in suspens for that tyme &amp; than
+after the terme the rent ys reuyuyd.
+</page>
+
+<page sig="d4r">
+Also yf there be lord mesne &amp; tenaunt and 
+the lord purchase the tenauncy than the me<emend err="">&shy;</emend>
+analte ys extinct but the mesne shall haue <expan type="y+e">the</expan>
+surplysage of the rent/ yf there be any as a 
+rent seke/ Also if a man haue a hye way ap&shy;
+pendaunt &amp; after purchase the land wherin
+the hy way ys than the way ys extynct/ and
+so yt ys of a comen appendaunt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exigent(n)">
+&para; Exigent </form> <xpln>ys a wryt &amp; yt lyeth where a m<expan type="a+_">an</expan>
+sewyth an accyon <expan type="p-_">per</expan>sonnell &amp; the deffenda<expan type="u+_">un</expan>t
+may not be found nor hathe nothyng wyth<emend err="">&shy;</emend>
+in the cownte whereby he may be attachyd
+nor distraynyd th<expan type="e+_">en</expan> thys wryt shall go forth
+to <expan type="y+e">the</expan> shyryf to make <expan type=",p">pro</expan>clamacyon at .v. co<expan type="u+_">un</expan><emend err="">&shy;</emend>
+tes euery one after a nother <expan type="y+t">that</expan> he appere or
+els <expan type="y+t">that</expan> he shalbe outlawyd &amp; if he be outlawyd
+then all hys goodys &amp; cattell be forfet to the
+kyng/ <emend err="Alsoin">Also in</emend> an indytement of felony
+the exygent shall go forth after the fyrst ca&shy;
+pias/&amp; also in a capias ad c<expan type="o+_">om</expan>putand<expan type="u+_">um</expan> or ad 
+satisfaci<expan type="e+_">en</expan>dum and in euery capias <expan type="y+t">that</expan> goth
+forth after iugem<expan type="e+_">en</expan>t the exig<expan type="e+_">en</expan>t shall go forth
+after <expan type="y+e">the</expan> furst capias/&amp; also in appell of deth 
+but not <expan type="i+_">in</expan> apell of robery or appell of maym.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ex parte talis(n)">
+&para; Ex parte talis </form> <xpln>loke therfore before in the
+tytle accompt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ex gravi querela(n)">
+&para; Ex graui querela </form> <xpln>loke therfore before in
+the tytle deuyse.
+</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="d4v">
+<wordgroup1 type="a" object="f">
+<wordentry type="h"><form lexeme="faux imprisonment(n)">
+&para; Faux impris<expan type="o+_">on</expan>m<expan type="e+_">en</expan>t </form> <xpln>is a writ &amp; it lieth wher
+a m<expan type="a+_">an</expan> ys arestyd &amp; restreynyd fr<expan type="o+_">om</expan> hys lyberte
+by an other against the order of <expan type="y+e">the</expan> law/then
+he shall haue agaynst hym thys wryt/wher&shy;
+by he shall recouere damagys/ Loke more
+therof before in the tytle arest.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="faux jugement(n)">
+&para; Faux iugement </form> <xpln>loke therfore before in <expan type="y+e">the</expan> 
+tytle errour.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="fee simple(n)">
+&para; Fe symple </form> <xpln>is wh<expan type="a+_">an</expan> l<expan type="a+_">an</expan>dys or rent or other
+thyng inherytable ys geuyn to a man &amp; to
+his heyrys for euer more &amp; thes wordys his
+heyrys make the estate of inherytaunce for
+yf l<expan type="a+_">an</expan>d be geuyn to a m<expan type="a+_">an</expan> for euer yet he hath
+but <expan type="a+_">an</expan> estate for terme of lyfe / Also yf ten<expan type="a+_">an</expan>t
+<expan type="i+_">in</expan> fe symple dy hys furst son shalbe his heyr
+but yf he haue no son th<expan type="e+_">en</expan> all his doughters
+<expan type="y+t">that</expan> he hath shalbe hys heyre &amp; euery one shall 
+have her <expan type="p-_">par</expan>t by pertycion/but yf he have no
+son nor doughter then hys next cosen cola&shy;
+terall of the hole blod shalbe hys heyre/Also
+if there be fader &amp; s<expan type="o+_">on</expan> &amp; the father hath a bro<emend err="">&shy;</emend>
+der &amp; the son purchasyth l<expan type="a+_">an</expan>dys in fe &amp; dyeth
+wythout yssue than hys vncle shall haue the
+land &amp; not the fader/for <expan type="y+t">that</expan> <expan type="y+t">that</expan> land may lyny&shy;
+ally descend and not ascend/but yf <expan type="y+e">the</expan> vncle dy
+wythout yssu than the fader shall haue the
+land as heyr to the vncle whych ys hys bro&shy;
+der for that that he comith to the land by co<emend err="">&shy;</emend>
+laterall dyscent &amp; not by lynyall ascencyon/
+</page>
+
+<page sig="d5r">
+Also yf the sone purchase landys in fe sym<emend err="">&shy;</emend>
+ple &amp; dy wythout yssu they of <emend err="hysblod">hys blod</emend> on <expan type="y+e">the</expan>
+faders syde shall haue <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d/but yf he haue
+no heyr on the faders syde then <expan type="y+e">the</expan> land shall
+dyscend to the heyrys on the moders syde/
+but yf landys discend to the son on the fa&shy;
+ders syde and he dyeth wythout yssu th<expan type="e+_">en</expan> the
+heyrys on the fader syde shall haue <expan type="y+e">the</expan> lande
+but yf he haue no heyrys on the faders side
+the heyrys on <expan type="y+e">the</expan> moders syde shall not haue
+the land but lord of whom the lande ys
+holden shall haue them by eschete/ <expan type="y+e">the</expan> same
+law ys if land discend to the son on the mo<emend err="">&shy;</emend>
+ders syde/ Also yf there be many bretherne
+&amp; if any one of them purchase l<expan type="a+_">an</expan>d in fe &amp; dy
+wythout issu the lande shall descend alway
+to <expan type="y+e">the</expan> eldyst broder for <expan type="y+t">that</expan> <expan type="y+t">that</expan> he ys most worthy
+of blod/Also no man shall haue land in fee 
+symple by dyscent as heyre to any man ex&shy;
+cept that he be heyre of the hole blod/ for if a
+man haue yssue a sone &amp; a doughter by one
+venter<expan type="r+_">re</expan> <expan type="y+t">that</expan> is to say by one wyfe/&amp; a son by a<emend err="">&shy;</emend>
+nother wyfe &amp; the eldyst son purchasyth l<expan type="a+_">an</expan><emend err="">&shy;</emend>
+dis in fe &amp; dyeth without issu the y<expan type="o+_">on</expan>ger bro&shy;
+der shall not haue the l<expan type="a+_">an</expan>d but the doughter
+shall haue the lande/for that <expan type="y+t">that</expan> she ys of the
+hole blod to the eldist broder Also in <expan type="y+e">the</expan> case
+before sayd yf <expan type="y+e">the</expan> fader dye seysyd of landis
+in fe symple &amp; <expan type="y+e">the</expan> elder son doth <expan type="e+_">en</expan>ter &amp; dyeth
+without issu/the doughter shall haue <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d
+&amp; not the yonger broder/but if the elder son
+<expan type="e+_">en</expan>ter not after the dethe of his fader but dye
+before any entre made by hym/than the y<expan type="o+_">on</expan><emend err="">&shy;</emend>
+ger broder shall haue the l<expan type="a+_">an</expan>d/for <expan type="y+e">the</expan> possessi<expan type="o+_">on</expan>
+of the broder in fe simple makyth the syster
+to be heyre.
+</xpln></wordentry>
+</page>
+
+<page sig="d5v">
+<wordentry type="h"><form lexeme="fee-tail(n)">
+&para; Fe tayle </form> <xpln lexeme="tenant in the tail-general(n)">is where land is geuyn to a man
+&amp; hys heyrys of hys body begottyn and he
+is callyd tenaunte in the tayle generall/but
+if landys be geuyn to the husband and the
+wyfe &amp; the heyrys of the .ii. bodys begott<expan type="e+_">en</expan>
+now the husband and the wyfe be tena<expan type="u+_">un</expan>tis
+in the tayle especyall/but yf landys be geu<expan type="i+_">in</expan>
+to a man &amp; to hys heyrys that he engendrith
+on the body of his wyfe/then the husb<expan type="u+_">un</expan>d is
+tena<expan type="u+_">un</expan>t in the tayle especyall &amp; the wife hath
+nothyng/Also if landys be geuyn to <expan type="y+e">the</expan> hus&shy;
+band &amp; to hys wyfe &amp; to <expan type="y+e">the</expan> heyris of the body
+of the husband ing<expan type="e+_">en</expan>deryd/then the husb<expan type="a+_">an</expan>d
+hath an estate in the especyal tayle &amp; <expan type="y+e">the</expan> wife
+hath no estate but for term of lyfe/but yf l<expan type="a+_">an</expan><emend err="">&shy;</emend>
+dis be geuyn to the husband &amp; his wife &amp; to
+the heyris whych the husband ingenderyth
+vppon the body of <expan type="y+e">the</expan> wyfe/in thys case both
+th<expan type="e+_">en</expan> hath estate in the tayle for <expan type="y+e">the</expan> these word<expan type="es">es</expan>
+heyrys doth not lymet to one more than to
+an other/but yf landys be geuen to the hus<emend err="">&shy;</emend>
+band &amp; hys wyfe &amp; to the heyris of <expan type="y+e">the</expan> husb<expan type="a+_">an</expan>d
+whych he ingendryth on <expan type="y+e">the</expan> body of hys wife
+th<expan type="a+_">an</expan> she hath non estate but for terme of lyfe
+Also there be diuers other estat<expan type="es">es</expan> <expan type="i+_">in</expan> the tayle
+as yf landis be geuyn to a man and to hys
+heyrys malys of hys body begotten in such
+case the yssu female shall neuer inheryt /for
+yf <expan type="y+e">the</expan> yssu male haue issu female whych hath
+issu male yet such issu male shall nat <expan type="i+_">in</expan>heryt
+by force of the tayle/For yt beehouyth all&shy;
+way to c<expan type="o+_">on</expan>uey hys dyscent all by the malys
+</page>
+
+<page sig="d7r">
+and the same law ys yf landys be geuyn to
+the yssu female in such maner the issu male
+shall neuer inheryt/also yf landys be geu<expan type="e+_">en</expan>
+to a man and to hys heyris malys or to hys
+heyrys femalys/then the doner hath estate <expan type="i+_">in</expan>
+fee symple for that <expan type="y+t">that</expan> yt ys not lymytyd of
+whole body the issu shall come/ Also yf lan<emend err="">&shy;</emend>
+dys be gyuyn to a man &amp; to a wom<expan type="a+_">an</expan> which
+ys the doughter or the cosyn of the donour
+in frank maryage/then the man and <expan type="y+e">the</expan> wo&shy;
+man be tenauntys in the tayle especiall/for
+by these wordys franke maryage they shall
+haue the land to th<expan type="e+_">em</expan> &amp; to the heyrys betwen
+th<expan type="e+_">em</expan> begott<expan type="e+_">en</expan>/ Also in euery gyft in the tayle
+yf the tenaunt in the tayle dye wythout issu
+whych ys inherytable by force of tayle &amp; no
+forther mencyon made in the gra<expan type="u+_">un</expan>t to wh<expan type="o+_">om</expan>
+the land shall go/then the reuercyon of fe s<expan type="i+_">im</expan>&shy;
+ple shall reuert alway to the donoure &amp; hys
+heyrys / Also the doneez in the tayle &amp; theyr
+yssues shall do lyke seruice to the donour &amp; 
+hys heyrys as the donour doth to the lorde
+next to hym aboue/but the doneez in frank
+maryage shall hold quyt fr<expan type="o+_">om</expan> all maner ser&shy;
+uyce/except fealte tyll <expan type="y+e">the</expan> .iiii. degre be past .
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="feoffment(n)">
+&para; Feffement </form> <xpln>is where a man geuyth l<expan type="a+_">an</expan>dis
+to <expan type="a+_">an</expan> other in fe symple &amp; wh<expan type="e+_">en</expan> he delyueryth
+lyuere &amp; seysyn &amp; possessyon of the land <expan type="y+t">that</expan>
+ys a feffement/ Also yf one make a gyfte in
+the tayle or a lesse for terme of lyfe or of an<emend err="">&shy;</emend>
+nother m<expan type="a+_">an</expan>nys life it behouith also to gyue
+lyuere and seysin or els nothyng shall passe
+by the graunt.
+</xpln></wordentry>
+</page>
+
+<page sig="d7v">
+<wordentry type="h"><form lexeme="formedon(n)">
+&para; Formedone </form> <xpln>ys a wrytte &amp; yt lyeth where
+the tenaunt in the tayle infeffyth a straun&shy;
+ger and dyeth the heyre shall haue a wryt of
+formedone to recouer the land/but ther be
+.iii. maner of formedones/ One ys in the
+desc<expan type="e+_">en</expan>der &amp; that ys in the cause beforesayd/
+Also yf one gyue l<expan type="a+_">an</expan>dys in the tayle and for
+defaut of yssu <expan type="y+e">the</expan> remaynder to <expan type="a+_">an</expan> other in <expan type="y+e">the</expan>
+tayle &amp; /that for defaut of such yssue the land
+shall reuert to the donour if the furst ten<expan type="a+_">an</expan>t
+in tayle dye wythout yssu he in the remayn<emend err="">&shy;</emend>
+der shall haue a formedone in the remayn&shy;
+der/ but yf the tena<expan type="u+_">un</expan>t in the tayle dye wyth
+owt issu then the donour or his heyris shall
+haue a formedone in the reuerter
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="forger of false deeds(n)">
+&para; Forger of fals dedys </form> <xpln>ys a wryt &amp; yt lyeth
+where one forgyth a fals dede &amp; makyth yt
+be publyshyd for to troble <expan type="y+e">the</expan> ryght possessi<expan type="o+_">on</expan>
+&amp; title of any man/then the <expan type="p-_">par</expan>te greuyd shall
+have thys wryt &amp; shall recouer damagys &amp; 
+<expan type="y+e">the</expan> deff<expan type="e+_">en</expan>da<expan type="u+_">un</expan>t shall make fyne to the kyng.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fealty(n)">
+&para; Fealte </form> <xpln>shalbe done in such maner <expan type="y+t">that</expan> is to
+say the ten<expan type="a+_">an</expan>t shall hold hys ryght h<expan type="a+_">an</expan>d vpp<expan type="o+_">on</expan>
+a boke &amp; shall say to his lord I shalbe to you
+faythfull &amp; true I shall bere to you feyth for
+<expan type="y+e">the</expan> l<expan type="a+_">an</expan>dys &amp; t<expan type="n+_">enemen</expan>tys whych I clayme to hold of
+you &amp; trewly shall do to you the customys
+and seruycys that I owghte to do to you
+</page>
+
+<page sig="e1r">
+at the termys assynyd/ as so help me god &amp;
+all seyntys/&amp; shall kys the boke/but he shall
+not knele as in do<expan type="i+_">in</expan>g homage/&amp; therof loke
+after in the tytle homage.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="felony(n)">
+&para; Felony </form> <xpln lexeme="robbery(n)" lexeme="rape(n)">is when a man without any co&amp;
+lor of <expan type="y+e">the</expan> law takyth away pruily the good<expan type="es">es</expan>
+of an othere to the entent <expan type="y+t">that</expan> hys dede shuld
+not be knownen amo<expan type="u+_">un</expan>tynge to the valew of
+xij. or more but yf one come nye to the <expan type="p-_">per</expan>s<expan type="o+_">on</expan>
+of an other &amp; robbyth hym of his goodys al<emend err="">&shy;</emend>
+though they be but to the valew of a peny it
+ys felony &amp; <expan type="y+t">that</expan> ys callyd robbery &amp; for that he
+shalbe hangyd / Also rape is felony &amp; that is
+when one rauysshyth or defoylyth any wo&amp;
+man agaynst her own wyll.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g">
+<wordentry type="h"><form lexeme="guard(n)">
+&para; Gard </form> <xpln>is wh<expan type="e+_">en</expan> any enf<expan type="a+_">an</expan>t whose a<expan type="u+_">un</expan>cestour
+holdyth of a lord by knyght seruyce ys in <expan type="y+e">the</expan>
+ward of hys lord/ Also ther be dyuerse writ<emend err="">&shy;</emend>
+tys of ward /one is a wryt of right of ward
+&amp; <expan type="y+t">that</expan> lyeth where the tenaunt dyeth hys heyre
+wythin age &amp; a straunger enteryth into the
+l<expan type="a+_">an</expan>d &amp; happith to haue the ward of <expan type="y+e">the</expan> body of
+<expan type="y+e">the</expan> enf<expan type="a+_">an</expan>t/a wryte of eiectem<expan type="e+_">en</expan>t of ward lyeth
+wher a man ys put out of the ward of <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d
+without <expan type="y+e">the</expan> body of <expan type="y+e">the</expan> inf<expan type="a+_">an</expan>t/a wryt of rauysh<emend err="">&shy;</emend>
+mente of warde lyeth where the body is ta&shy;
+ken fr<expan type="o+_">om</expan> him only &amp; not <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d/also if a ten<expan type="a+_">an</expan>t
+hold of diuers lordys dyuers l<expan type="a+_">an</expan>d<expan type="es">es</expan> <expan type="y+e">the</expan> lord of
+whome the lande ys holdene by pryoryte
+that ys to seye bymore eldere tenure shall
+haue the warde of the ynfaunte/but yf one
+</page>
+
+<page sig="e1v">
+tenure be as old as a nother than he <expan type="y+t">that</expan> furst
+happeth to haue the ward of the body shall
+haue the ward therof/but in that case euery
+lord shall haue the ward of the lande that ys
+holden of him/but yf a tena<expan type="u+_">un</expan>t hold of <expan type="y+e">the</expan> k<expan type="i+_">in</expan>g
+in chef than <expan type="y+e">the</expan> kyng by hys prerogatyf shall
+haue the ward of the body &amp;  of all the lande
+that is holden of the kyng &amp; of euery other
+lorde.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guarantee of charters(n)">
+&para; Garranty of charters </form> <xpln>ys a writ &amp; yt lyeth
+where any dede is made <expan type="y+t">that</expan> c<expan type="o+_">om</expan>prehendeth a
+clause of waranty <expan type="y+t">that</expan> is to say dedi or c<expan type="o+_">on</expan>sessi
+or thys word war<expan type="a+_">an</expan>tizabo &amp; yf the ten<expan type="a+_">an</expan>t be <expan type="i+_">im</expan><emend err="">&shy;</emend>
+pledyd by a str<expan type="a+_">an</expan>ger yf yt be in assyse or such
+accy<expan type="o+_">on</expan> where he may not vouch to waranty
+then he shall haue this writ aga<expan type="i+_">in</expan>st his feffor
+or hys heyr: &amp; yf <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d be recoueryd agaynst
+him he shall recouer as much land in valew
+agaynst hym <expan type="y+t">that</expan> made the waranty/but this
+wryt ought to be sewyd hengyng the furst
+wryt agaynst hym or els he hath lost his ad<emend err="">&shy;</emend>
+ua<expan type="u+_">un</expan>tage/ Also vpp<expan type="o+_">on</expan> a war<expan type="a+_">an</expan>ty in the law as
+vpp<expan type="o+_">on</expan> a lesse for terme of lyfe or in <expan type="y+e">the</expan> tayle a
+m<expan type="a+_">an</expan> shall haue a wryt of war<expan type="a+_">an</expan>ty of charters
+but not vppon eschaunge.
+</xpln></wordentry>
+</page>
+
+<page sig="e2r">
+<wordentry type="h"><form lexeme="guarantee(n)">
+&para; Garanty </form> <xpln>ys in .ii. maners that ys to sey
+garanty lynyall &amp; garranty colaterall/ Ga&shy;
+ranty lyniall ys wher a m<expan type="a+_">an</expan> seysyd in fe ma&shy;
+kyth a feffement by hys dede to a nothere &amp; 
+byndyth hym &amp; his heyre to waranty &amp; hath
+yssue a son &amp; dyeth &amp; <expan type="y+e">the</expan> waranty descendith
+to hys son that is a lynyall waranty for <expan type="y+t">that</expan> <expan type="y+t">that</expan>
+yf no dede with waranty had be made then
+the ryght of the landys shuld haue disc<expan type="e+_">en</expan>did
+to the son/&amp; he shuld c<expan type="o+_">on</expan>vey the discent from
+the fader to the son/but yf the tena<expan type="u+_">un</expan>t in the
+tayle dyscontynew the tayle &amp; hath issu and
+dyethe and the vncle of the yssue relesythe
+to the dyscontynue with war<expan type="a+_">an</expan>ty.&amp; c.&amp; dieth
+without yssue that ys a colaterall waranty
+to the yssu in the tayle for <expan type="y+t">that</expan> that the war<expan type="a+_">an</expan>ty
+dyscendyth vppon the issue the whych may
+not convey hym to the tayle by mene of hys
+vncle/ &amp; in euery case wher a m<expan type="a+_">an</expan> demandith
+landis in fee tayle by writ of formedone/yf
+any of the issu in <expan type="y+e">the</expan> tayle which hath possessy<emend err="">&shy;</emend>
+on or whych hath not possessyon maketh a
+warrantye and he that sewyth the wryt of
+formdone may be possybyll by matter that
+may be in dede conuey to hym title by fors
+of the gyft by hym that made <expan type="y+e">the</expan> warrantye
+&amp; c. that is than a lyneall warr<expan type="a+_">an</expan>tie &amp; by such
+a linyall warr<expan type="a+_">an</expan>tye the issu in the tayle shall
+not be barryd /but yf that he haue assetz to
+hym descendyd in fe simple /but yf he may
+not by no possibylyte that may be conueyd
+to him title by force of <expan type="y+e">the</expan> gift by him <expan type="y+t">that</expan> made 
+<expan type="y+e">the</expan> waranty th<expan type="e+_">en</expan> <expan type="y+t">that</expan> is a colaterall war<expan type="a+_">an</expan>ty/and
+by suche a colaterall warrantye the issue in
+the tayle shalbe barryd wythowt any assetz.
+</page>
+
+<page sig="e2v">
+And the cause <expan type="y+t">that</expan> such a collaterall warran&shy;
+ty ys a bar to the yssu in the tayle ys for <expan type="y+t">that</expan> <expan type="y+t">that</expan>
+all warantys before the statute of glocester
+whych dyscendyd to them whych be heyres
+to them that made <expan type="y+e">the</expan> warantys were barris
+to the same heyrys to demaund any landys
+except the warrantis <expan type="y+t">that</expan> began by dysseisyn
+&amp; for that <expan type="y+t">that</expan> the seyd statute hath ordenyd <expan type="y+t">that</expan>
+the waranty of the fader shalbe no barre to
+hys sonn for the landys whych come of the
+herytage of the moder/nor the waranty of
+<expan type="y+e">the</expan> moder shall be no barr to the son for <expan type="y+e">the</expan> l<expan type="a+_">an</expan>&shy;
+dys whych come of the herytage of <expan type="y+e">the</expan> fader
+&amp; the statute hath not made nor ordenyd re<emend err="">&shy;</emend>
+medy agaynst the warrranty <expan type="y+t">that</expan> is colaterall
+to the yssue in the tayle/&amp; therfore <expan type="y+e">the</expan> waran<emend err="">&shy;</emend>
+ty <expan type="y+t">that</expan> ys colaterall to the issu <expan type="i+_">in</expan> the tayle is yet
+in hys force &amp; shalbe a barre to the yssu in <expan type="y+e">the</expan>
+tayle as yt was before the statute/. Also yt
+<emend err="yt"></emend> behouyth <expan type="y+t">that</expan> all warantyes whereby any
+heyre shalbe barryd <expan type="y+t">that</expan> <expan type="y+t">that</expan> warranty descend
+by the course of <expan type="y+e">the</expan> comen law to hym which
+ys heyre to hym <expan type="y+t">that</expan> made the waranty or els
+yt shalbe no barre/for yf the tenaunt in the
+tayle of l<expan type="a+_">an</expan>dys in borow englysh/where the
+yongyst sonn shall inheryte by the custome
+dysc<expan type="o+_">on</expan>tynueth the tayle &amp; hath issu .ii. s<expan type="o+_">on</expan>nys
+&amp; the vncle relesyth to the dysc<expan type="o+_">on</expan>tynue with
+waranty and dyeth and the y<expan type="o+_">on</expan>ger son bryn<emend err="">&shy;</emend>
+gyth a formedone/yet he shall not be barrid
+by such warranty causa qua supra/ Also yf
+any man make any dede wyth warrantye
+wherby hys heyre shuld be barryd &amp; after he
+<expan type="y+t">that</expan> made the warrantye be atteynt of felony
+</page>
+
+<page sig="e3r">
+than hys heyre shall not be barryd by such
+waranty/for that <expan type="y+t">that</expan> such war<expan type="a+_">an</expan>ty might not
+descend vppon hym for that <expan type="y+t">that</expan> the bloode ys
+corrupt/Also yf the s<expan type="o+_">on</expan>ne purchase landys &amp; 
+after let the landys to his fader for term of
+yerys and the father by hys dede infeffyth a
+stranger &amp; byndyth hym &amp; hys heyre to war<emend err="">&shy;</emend>
+ranty &amp; the father dyeth wherby the war<expan type="a+_">an</expan>ty
+descendyth to the son yet this war<expan type="a+_">an</expan>ty shall
+not barr the son but the son may well enter
+not withstandyng thys waranty for that <expan type="y+t">that</expan>
+this warranty began by disseysyn when <expan type="y+e">the</expan>
+fader made the feffement whych was a dis&shy;
+seysyn to the son/ &amp; as it ys seyd of <expan type="y+e">the</expan> fader
+so yt may be seyd of euery other a<expan type="u+_">un</expan>cestoure
+And the same law ys yf tenaunt by elegit
+or by statute merchaunt make a feffement
+wyth warranty/such warrantyse shalbe no
+barrys because they begyn by dysseysyn.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gager de deliverance(n)">
+&para; Gager de delyuera<expan type="u+_">un</expan>ce </form> <xpln>is wher one sueth
+a repleuyn of goodys taken but he hath not
+<expan type="y+e">the</expan> delyuere of the goodis &amp; <expan type="y+e">the</expan> other avowith
+&amp; the playntyfe shewyth <expan type="y+t">that</expan> <expan type="y+e">the</expan> <expan type="deff.">deffendant</expan> ys yet sey&shy;
+syd.&amp; c. &amp; prayth <expan type="y+t">that</expan> the deffendant shall gage
+the delyueraunce than he shall put in suerte
+or pleggys for <expan type="y+e">the</expan> delyuera<expan type="u+_">un</expan>ce/&amp; a wryt shall
+go forth to the shyryffe for to redelyuer the
+goodys.&amp; c. but yf a man clayme <expan type=",p">pro</expan>perte he
+shall not gage the delyueraunce.
+</page>
+
+<page sig="e3v">
+Also yf he say that the bestys be dede in the
+pound he shall not gage.&amp; c. Also a m<expan type="a+_">an</expan> shall
+neuer gage the deliuerance before that they 
+be at yssue or demurrerr in the law vt dici&shy;
+tur.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="garnishment(n)">
+&para; Garnyshment </form> <xpln>ys if accyon of detynew of
+charters be brought agaynst one &amp; the <emend err="def.">defendant</emend> 
+seyth <expan type="y+t">that</expan> the charters were delyueryd to him
+by the playntyfe &amp; by an other vpp<expan type="o+_">on</expan> certain
+condycyons &amp; prayth <expan type="y+t">that</expan> <expan type="y+e">the</expan> other may be war<emend err="">&shy;</emend>
+nid to plede wyth <expan type="y+e">the</expan> playntif yf the c<expan type="o+_">on</expan>dici<expan type="o+_">on</expan>s
+be <expan type="p-_">per</expan>formyd or no/amd theruppon a wryt of
+scire facias shall go forth agaynst hym &amp; <expan type="y+t">that</expan>
+ys callyd a garnyshment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="grand cape(n)">
+&para; Graunt cape </form> <xpln>loke therfore after in <expan type="y+e">the</expan> tytle
+petyt cape.
+</xpln><lemenote>OED "cape" n.4</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">
+<wordentry type="h"><form lexeme="homage(n)">
+&para; Homage </form> <xpln>shalbe made in such maner <expan type="y+t">that</expan> is
+to sey the tenaunt in fe symple or fee tayle
+<expan type="y+t">that</expan> holdyth by homage shall knele vpp<expan type="o+_">on</expan> both
+hys knees &amp; the lord shall syt and shall hold
+the handys of hys tenaunt betwene his h<expan type="a+_">an</expan>&shy;
+dys and <expan type="y+e">the</expan> tenant shall sey I become your
+</page>
+
+<page sig="e4r">
+man from thys day forward of lyfe &amp; mem<emend err="">&shy;</emend>
+ber &amp; of yerly honour &amp; to you shalbe fayth&shy;
+full &amp; trew &amp; shall bere to you fayth for the
+landys that I clayme to holde of yow sa&shy;
+uynge the fayth that I ow to oure lord the
+kynge/&amp; than the lord so syttyng shall kysse
+hym but how fealte shalbe done loke before 
+in fealte /&amp; the steward of the lord may take
+fealte but not homage.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">
+<wordentry type="h"><form lexeme="joint-tenant(n)">
+&para; Ioyntena<expan type="u+_">un</expan>tis </form> <xpln>be where .ii. men come to
+any landys &amp; tenementys by one ioynt tytle
+as yf a man giue land<expan type="es">es</expan> to .ii. men &amp; to theyr
+heyrys/but tena<expan type="u+_">un</expan>tys in comen be where .ii.
+men haue landys by seuerall tytles &amp; none
+of them knowyth thereof hys seuerall as yt
+shalbe sayd after/&amp; note well yf therbe . ii. or
+.iii. ioyntenauntys &amp; one hath yssue &amp; dyeth
+yet he &amp; those ioyntena<expan type="u+_">un</expan>tys <expan type="y+t">that</expan> ouerlyue shall
+haue the hole by the suruyuor/but yf .ii. io<expan type="i+_">in</expan>&shy;
+tenauntys make <expan type="p-_">par</expan>tycyon betwene them by
+dede by agrem<expan type="e+_">en</expan>t th<expan type="e+_">en</expan> they be seuerall ten<expan type="a+_">an</expan>ts
+but yf one ioyntena<expan type="u+_">un</expan>t gra<expan type="u+_">un</expan>t <expan type="y+t">that</expan> <expan type="y+t">that</expan> belongith
+to hym to a stranger than the other ioynte&shy;
+naunt &amp; the stranger be tena<expan type="u+_">un</expan>tys in comen/
+&amp; though .ii. tena<expan type="u+_">un</expan>tys in comyn be seysyds by
+<expan type="p-_">par</expan>t &amp; by the hole &amp; non knowyth his seuerall
+yet yf one by the other shall not haue <expan type="y+e">the</expan> hole
+by the suruyuour but his heyre shall haue <expan type="y+e">the</expan>
+half/&amp; so yf ther be .iii. ioyntena<expan type="u+_">un</expan>tys &amp; one
+of them maketh feffement of hys <expan type="p-_">par</expan>te to an
+othere &amp; the feffe dyeth than hys heyre shall
+haue the thyrd part &amp; the other .ii. be ioynte<emend err="">&shy;</emend>
+nauntys as they were because that they .ii.
+be seysyd by a ioynt tytle.
+</page>
+
+<page sig="e4v">
+Also if landis be geuyn to the baron and to
+hys wyfe &amp; the husb<expan type="a+_">an</expan>d alyeneth &amp; dyeth the
+wyfe shall recouer the hole/but yf they wer
+ioyntenauntis before the couertor then in
+such case she shall recouer but the half/Also
+yf land be geuyn to the husb<expan type="a+_">an</expan>d &amp; to his wife
+&amp; a thyrd <expan type="p-_">per</expan>son/yf the thyrd graunt <expan type="y+t">that</expan> that be<emend err="">&shy;</emend>
+longyth to hym/<expan type="y+e">the</expan> one halfe passyth by thys
+graunt for <expan type="y+t">that</expan> <expan type="y+t">that</expan> the baron &amp; hys wyfe be but
+one <expan type="p-_">per</expan>son in the law &amp; in this case they haue
+nothyng in ryght but the halfe/ Also yf .ii.
+ioynten<expan type="a+_">an</expan>tys be of landys in a town whych
+ys borow englysh wher lande ys deuysable
+&amp; one by hys testament deuysyth that that
+belongyth to a stra<expan type="u+_">un</expan>ger &amp; dieth/thys deuise
+ys voyd and the other shall haue the hole by
+surviuor for that <expan type="y+t">that</expan> deuise may not take ef&shy;
+fect tyll after the deth of the deuysor/&amp; <expan type="i+_">im</expan>me<emend err="">&shy;</emend>
+dyat after the deth of <expan type="y+e">the</expan> deuysour the ryght
+c<expan type="o+_">om</expan>myth to the other ioyntena<expan type="u+_">un</expan>t suruyuour
+<expan type="y+t">that</expan> whych claymyth nothyng by the deuysor
+but in hys owne ryght by the suruyuor/but
+otherwise yt ys of <expan type="p-_">par</expan>ceners seysyd of l<expan type="a+_">an</expan>dys
+dyuysable causa qua supra.
+</xpln><lemenote>Predates earliest OED "joint-tenant" citation (1531).</lemenote></wordentry>
+</page>
+
+<page sig="e5r">
+<wordentry type="h"><form lexeme="impeditate nominis(n)">
+&para; Impeditate nominis </form> <xpln>is a wryt &amp; it lyeth
+where a wryt of det couenaunt or accompt
+or such othere wryt ys brought agaynste a
+man &amp; a nother that hath the same name as
+<expan type="y+e">the</expan> <expan type="deff.">deffendant</expan> hath is taken from hym then he shall
+haue thys wryt by the which the shiryf shall
+make inquere before the iustyce assynyd in
+the same cownte yf he be the same <expan type="p-_">per</expan>son or
+not &amp; if he be not fo<expan type="u+_">un</expan>d culpable then he shall
+go wythout day in peace.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">
+<wordentry type="h"><form lexeme="lay(n)">
+&para; Ley </form> <xpln>is wh<expan type="a+_">an</expan> <expan type="a+_">an</expan> accyon ys brought agaynst
+one wythowte especyalte shewyd or othere
+matter of record as an accyon of det vppon
+contract or detynew then the deffen<expan type="d,">dant</expan> maye
+wage hys law that ys to sey to swere vpp<expan type="o+_">on</expan>
+a boke &amp; certayn persones wyth hym that he
+owyth nothyng to the playntyfe in maner
+&amp; form as he hath declaryd/but in an accy<expan type="o+_">on</expan>
+of det vppon a lese for terme of yerys or vp<emend err="">&shy;</emend>
+pon the arerage of acc<expan type="o+_">om</expan>pt before auditours
+assynyd a man shall nott wage hys lawe/
+But when one shall wage his law he shall
+bryng wyth hym .vi. viii. or .xii. of his ney&shy;
+bowrs as the cowrte shall assygne hym to
+swere wyth him /and yf at <expan type="y+e">the</expan> day assynyd he
+fayle of hys law th<expan type="e+_">en</expan> he shalbe c<expan type="o+_">on</expan>d<expan type="e+_">em</expan>pnyd.
+</xpln></wordentry>
+</page>
+
+<page sig="e5v">
+<wordentry type="h"><form lexeme="lease(n)">
+&para; Lesses </form> <xpln lexeme="freehold(n)">be <expan type="i+_">in</expan> diuers maners that ys to sey
+for terme of lyfe for term of yeris for term
+of a nothers life &amp; at will/Also a lese of l<expan type="a+_">an</expan>d
+is as good without dede as with dede/but
+in a lesse for term of lyfe or of <expan type="a+_">an</expan> others lyfe
+yt behouyth to gyfe lyuere &amp; seisyn vpp<expan type="o+_">on</expan> <expan type="y+e">the</expan>
+l<expan type="a+_">an</expan>d or els nothyng shall passe by the gra<expan type="u+_">un</expan>t
+because that they be callyd freholdis /Also
+a lesse or a comen or rent may not be good 
+without dede but of a <expan type="p-_">per</expan>sonage it is good
+wythout dede for that <expan type="y+t">that</expan> <expan type="y+e">the</expan> church whych is
+the pryncypall may passe well ynough with<emend err="">&shy;</emend>
+out dede &amp; so the dismes &amp; offeryng<expan type="es">es</expan> which
+be accessory to the chyrch/but dysmes &amp; offe<emend err="">&shy;</emend>
+ryngys by th<expan type="e+_">em</expan> selfe may not be let wythout 
+dede vt dicitur.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">
+<wordentry type="h"><form lexeme="mainprize(n)">
+&para; Maympryse </form> <xpln lexeme="mainpernor(n)">ys when a man ys arestyd
+by capias then the iugges may delyuer hys 
+body to certayn men for to kepe &amp; to bryng
+hym before them at a certayn day &amp; these be
+callyd maym<expan type="p-_">per</expan>nours/&amp; if the <expan type="p-_">par</expan>te appere not
+at the day assyned the maym<expan type="p-_">per</expan>nours shalbe
+amercyd.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maintenance(n)">
+&para; Mayntenauns </form> <xpln>ys a wryt &amp; it lyeth where
+any man geuyth or delyueryth to a nother
+<expan type="y+t">that</expan> is playntyf or deffendaunt in any accyon
+any somme of money or other thyng for to
+mayntayn hys ple /or ells makyth extreme
+labour for hym when he hath nothyng ther<emend err="">&shy;</emend>
+wyth to do than the parte greuid shall haue
+agaynst hym thys wryt.
+</xpln></wordentry>
+</page>
+
+<page sig="e6r">
+<wordentry type="h"><form lexeme="mesne(n)">
+&para; Mesne </form> <xpln>ys a wryt &amp; yt lyeth where therbe
+lord mesne &amp; tena<expan type="u+_">un</expan>t &amp; <expan type="y+e">the</expan> lord aboue dystrey&shy;
+nyth the ten<expan type="a+_">an</expan>t for the seruyce of the mesne
+which ought to acquite him to <expan type="y+e">the</expan> lord aboue
+then the ten<expan type="a+_">an</expan>t shall haue thys writ agaynst
+the mesne &amp; yf he come not to acquyte <expan type="y+e">the</expan> te&shy;
+na<expan type="u+_">un</expan>t th<expan type="a+_">an</expan> the mesne shall lose the seruyce of
+the tenaunt &amp; shalbe foriuggyd of hys seyg<emend err="">&shy;</emend>
+nyory &amp; the ten<expan type="a+_">an</expan>t shalbe tenant immedyate
+to the chefe lord &amp; shall do the same seruyce
+&amp; sewtys as the mesne did to the lord.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monstraverunt(n)">
+&para; Monstrauerunt </form> <xpln lexeme="ne injuste vexes(n)">ys a wryt &amp; it lyeth for <expan type="y+e">the</expan>
+tenauntys in auncyon demesne dyrectid to
+the lord hym coma<expan type="u+_">un</expan>dyng <expan type="y+t">that</expan> he distrayn not
+his ten<expan type="a+_">an</expan>t for to do other seruyce <expan type="y+t">that</expan> he ought
+not to do &amp; they may haue thys wryt dyrect
+to <expan type="y+e">the</expan> shyryf <expan type="y+t">that</expan> he suffer not <expan type="y+e">the</expan> lord to dystrain
+the seyd ten<expan type="a+_">an</expan>ts for to do other seruice/Also
+yf <expan type="y+e">the</expan> ten<expan type="a+_">an</expan>tys may not be in quyet they may
+haue an attachment agaynst the lord to ap<emend err="">&shy;</emend>
+pere before <expan type="y+e">the</expan> iustyce /&amp; all the namys of the
+tenauntys shalbe put in <expan type="y+e">the</expan> wryt though one
+of them be greuyd only/Also yf any l<expan type="a+_">an</expan>dys 
+in a<expan type="u+_">un</expan>cyon demesne be in varya<expan type="u+_">un</expan>ce betwen
+the tenauntys then the tenaunte so greuyd
+shall haue agaynst the other a wryt of right
+close whych ys callyd after the custome of <expan type="y+t">that</expan>
+the maner.&amp; <expan type="y+t">that</expan> shalbe alway brought in the
+lordys court &amp; theruppon he shall declare in
+the nature of what wryt he wyll as hys case
+</page>
+
+<page sig="e6v">
+<emend err="">lieth</emend> &amp; this wrytt shall not be remouyd but for a
+gret cause or no power of the court/Also if 
+<expan type="y+e">the</expan> lord in an other court th<expan type="e+_">en</expan> a<expan type="u+_">un</expan>cyon demesn
+dystreyn hys tena<expan type="u+_">un</expan>te to do other seruyse <expan type="y+t">that</expan>
+he owghte not he shall haue a writ of ryght
+callid ne iniuste vexes &amp; it is a writ of ryght 
+pat<expan type="e+_">en</expan>t which shalbe tried by battell or gra<expan type="u+_">un</expan>t
+assyse.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="mordancestor(n)">
+&para; Morda<expan type="u+_">un</expan>cestoure </form> <xpln>loke therfore before in
+the tytle cosynage.
+</xpln><lemenote>Not in OED. Lexeme uncertain.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="mortmain(n)">
+&para; Mortmayne </form> <xpln>ys where landys be geuyn
+to a house of relygyon or to an other c<expan type="o+_">om</expan>pa&shy;
+ny whych be corporate by the kingys gra<expan type="u+_">un</expan>t 
+than the land ys c<expan type="o+_">om</expan>men in to mortmayne /&amp; 
+than the kyng or the lorde of whom the l<expan type="a+_">an</expan>d
+ys holden maye enter as yt apperyth by the 
+statute of relygyosis/se therfore the statute
+Also if one make a feffement vpp<expan type="o+_">on</expan> trust to
+certeyn <expan type="p-_">per</expan>sons to the vse of a howse of rely&shy;
+gyon or to the vse of any gyld or fraternite
+corporate th<expan type="a+_">an</expan> it shalbe seyd mortmayn and
+he shall r<expan type="e+_">en</expan>ne in <expan type="y+e">the</expan> same payne as it apperith
+by the statute anno .xv. R .ii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moderata misericordia(n)">
+&para; Moderata misericordia </form> <xpln>ys a wryt and it
+lyeth where a man ys amercyd in court ba&shy;
+ron or counte more then he owght to be th<expan type="a+_">an</expan>
+hee shall haue thys wrytte dyrectyd to the
+shyryfe yf yt be in the counte or to the bay&shy;
+lyfe if yt be in court bar<expan type="o+_">on</expan> c<expan type="o+_">om</expan>ma<expan type="u+_">un</expan>ding them
+that he amerce hym not but hauyng regard
+</page>
+
+<page sig="f1r">
+to the quantyte of the trespas/&amp; yf they do
+not this writ th<expan type="e+_">en</expan> ther shall go forth agaynst
+th<expan type="e+_">em</expan> a sicut alias &amp; causam nobis significes
+&amp; after that an atachment.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">
+<wordentry type="h"><form lexeme="nativo habendo(n)">
+&para; Natiuo hab<expan type="e+_">en</expan>do </form> <xpln>is a writ &amp; it lyeth where
+the vylleyn of a lord ys gone from hym th<expan type="a+_">an</expan>
+the lorde shall haue thys wryt dyrect to the 
+shyryf. <expan type="y+t">that</expan> he make hys lord to haue hys vyl&shy;
+leyn wyth all hys goodys/Also in thys writ 
+mo vylleyns may not be demaundyd than 
+twayn/but as many vylleyns as wyll ioyn&shy;
+tly may bryng a writ of de libertate <expan type=",p">pro</expan>b<expan type="a+_">an</expan>da
+Also yf a vyllayn bryng his writ of de liber<emend err="">&shy;</emend>
+tate <expan type=",p">pro</expan>banda before <expan type="y+t">that</expan> <expan type="y+e">the</expan> lord bryng hys wryt
+than the vylleyn shalbe in pease tyll the com<emend err="">&shy;</emend>
+mynge of the Iustyce /or els hys wryt shall
+not helpe hym.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="nonability(n)">
+&para; Nonabilite </form> <xpln>ys wher an accy<expan type="o+_">on</expan> ys brought
+agaynst one &amp; the deffendant seyth that the
+pleynetyfe ys not able to sew any accyon &amp; 
+therbe .vi causis of nonabilyte <expan type="y+t">that</expan> ys to sey a
+m<expan type="a+_">an</expan> outlawed /alyon born out of the kingis
+lege/a man cond<expan type="e+_">em</expan>pnid in a premunire a m<expan type="a+_">an</expan>
+of relygyon/a man accursyd/&amp; a vylleyne <expan type="y+t">that</expan>
+sewyth hys lord.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nuisance(n)">
+&para; Nusauns </form> <xpln>ys a wryt &amp; yt lyeth where any
+man leuyeth any wall or stopeth any water
+or doth any thyng vppon hys owne gro<expan type="u+_">un</expan>d
+to the vnlawfull hurt &amp; nusa<expan type="u+_">un</expan>s of hys ney&shy;
+boure/Also yf he <expan type="y+t">that</expan> maketh nusauns alt<expan type="e+_">er</expan>
+the land to a nother than thys wryt shall be
+brought agaynste them both as it apperyth
+by the statute <expan type="westm">westminster</expan> .ii./ca .xxiii.
+</xpln></wordentry>
+</page>
+
+
+<page sig="f1v">
+<wordentry type="h"><form lexeme="nuper obiit(n)">
+&para; Nu<expan type="p-_">per</expan> obiit </form> <xpln>ys a wryt &amp; yt lyeth where one
+hath many heyrys <expan type="y+t">that</expan> ys to say many dough<emend err="">&shy;</emend>
+ters or many sonnys yf it be in gauel kynd
+in kent &amp; dyeth seysyd &amp; one heyr enteryth <expan type="i+_">in</expan>
+to all the land then the other <expan type="y+t">that</expan> behold<expan type="e+_">en</expan> out
+shall haue thys wryt agaynste the coheyre <expan type="y+t">that</expan>
+ys in/but a wryt de racionabile <expan type="p-_">par</expan>te lyeth in
+suche case where the a<expan type="u+_">un</expan>cestoure was onys
+seysyd &amp; dyed not seysyd
+</xpln><lemenote>"He or she lately died." Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="ne injuste vexes(n)">
+&para; Ne iniuste vexes  </form> <xpln>loke therfore before in
+the tytle monstrauerunt.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="ne admittas propter libertate(n)">
+&para; Ne admittas propter libertat<expan type="e+_">em</expan> </form> <xpln>ys a wryt 
+&amp; yt lyeth where the shyryf retornyth vpp<expan type="o+_">on</expan>
+a wryt to hym dyrectyd <expan type="y+t">that</expan> he hath send to <expan type="y+e">the</expan>
+baylyf of such fra<expan type="u+_">un</expan>ches which hath retorn
+of wryttis &amp; he hath not seruyd the writ th<expan type="a+_">an</expan>
+<expan type="y+e">the</expan> pla<expan type="i+_">in</expan>tyf shall haue thys writ dyrectyd to <expan type="y+e">the</expan>
+shyryf <expan type="y+t">that</expan> he him self enter into the fra<expan type="u+_">un</expan>ches
+&amp; execute the kyngys wryt. Also the shyryff
+shall warne <expan type="y+e">the</expan> baylyf <expan type="y+t">that</expan> he be before <expan type="y+e">the</expan> iustyce
+at the day contaynyd in <expan type="y+e">the</expan> wryt/&amp; yf he com
+not &amp; acquyte hym than all the wryttys iu&shy;
+dycyalls which shall passe out of the kyngis
+court duryng the same ple shalbe wrytt<expan type="es">es</expan> de
+non admittas.&amp; c. &amp; the shyryffe shall make
+execucion of them hengyng the ple.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">
+<wordentry type="h"><form lexeme="oyer and terminer(n)">
+&para; Oyer &amp; terminer </form> <xpln>is a wryt callyd in laten
+de audiendo &amp; terminando &amp; yt lyeth when
+any great or sodayn insurreccion is made
+or any other soden trespas which requyrith 
+hasty reformacyon than <expan type="y+e">the</expan> kyng shall direct
+a commyssyon to certayn men &amp; iustyces to 
+here &amp; to determyne the same.
+</xpln><lemenote>OED "oyer and terminer.".</lemenote></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="f2r">
+<wordgroup1 type="a" object="p">
+<wordentry type="h"><form lexeme="par que servicia(n)">
+&para; Par que seruicia </form> <xpln>loke therfore afterward
+in the tytle quid iuris clamat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prescription(n)">
+&para; Prescrypcyon </form> <xpln>ys whan one hath had or
+vsyd any thyng syth the tyme whereof no
+mind is/&amp; some men say that a .C. yere ys a
+good prescripci<expan type="o+_">on</expan>/but one may not prescrib
+agaynste a statute excepte he haue a nother
+statute <expan type="y+t">that</expan> seruyth for hym.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="presentment(n)">
+&para; Presentment </form> <xpln>ys when any man whyche 
+hath ryght to gyue any benefyce spyrytuall
+&amp; namyth the <expan type="p-_">per</expan>son to the byshop to whom
+he wyll gyue it /&amp; makyth a wrytyng to the 
+byshop for hym /<expan type="y+t">that</expan> is a presentacyon or pre&shy;
+sentment/but yf dyuers coheyres maye not
+accorde in presentment the presentment of
+<expan type="y+e">the</expan> eldyst shalbe admyttid/but of ioynten<expan type="a+_">an</expan>ts
+&amp; tenaunt in comen yf they accord not wyth<emend err="">&shy;</emend>
+in .vi. monethys the byshop shall presente
+by lappys.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praemunire(n)">
+&para; Premunire </form> <xpln>ys a wryt &amp; yt lyeth wher any
+man sueth any other in the spirytuall court
+for any thyng <expan type="y+t">that</expan> is determynable in the kyn<emend err="">&shy;</emend>
+gys court /&amp; <expan type="y+t">that</expan> is ordenyd by certayn statuts
+&amp; gret ponyshment therfore ordenyd as yt
+apperyth by the same statutys /<expan type="y+t">that</expan> ys to saye
+<expan type="y+t">that</expan> he shalbe out of the kyngys <expan type=",p">pro</expan>teccyon/&amp; <expan type="y+t">that</expan>
+he be put in pryson wythout bayll or maym<emend err="">&shy;</emend>
+prise tyll <expan type="y+t">that</expan> he haue made fine at the kyngis
+wyll/&amp; <expan type="y+t">that</expan> hys landis &amp; goodis shalbe forfeyt
+if he come not within .ii. monthys. Also the
+<expan type=",p">pro</expan>uysours proctours attorneys executours
+notarys &amp; mayntenours shalbe ponyshyd <expan type="i+_">in</expan>
+<expan type="y+e">the</expan> same maner/therfore loke <expan type="y+e">the</expan> statutys/Al&shy;
+so some m<expan type="e+_">en</expan> say <expan type="y+t">that</expan> if a clark sew a nother m<expan type="a+_">an</expan>
+in the court of rome for a thyng spyrytuall
+where he maye haue remedy withyn the re&shy;
+alme in the court of hys ordenary/<expan type="y+t">that</expan> he shal<emend err="">&shy;</emend>
+be within the case of the statute.
+</xpln></wordentry>
+</page>
+
+<page sig="f2v">
+<wordentry type="h"><form lexeme="precipe in capite(n)">
+&para; Precipe in capite </form> <xpln>ys a wrytte and yt lyeth
+where the tenaunt holdyth of hys Lord in
+chef as of hys crowne &amp; he ys deuorsyd that
+is to sey put owt of hys lande than he shall
+haue thys wryt/&amp; thys writ shalbe close and
+shalbe pledyd in the comen place/Also yf a<emend err="">&shy;</emend>
+ny tenaunt whych holdyth of any Lord be
+deuorsyd it behouyth hym to sew a wryt of
+ryght patent whych shalbe determynyd in
+the lordys court/but yf the l<expan type="a+_">an</expan>d be holden of
+the kynge the wryt of ryght patent shall be 
+brought to <expan type="y+e">the</expan> kyng<expan type="es">es</expan> court &amp; thys wryt may
+be remouyd from the lordys court vnto the
+counte by a tolt &amp; from the counte into the
+comen place by a pone/loke therfore before 
+in the tytle droyt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perambulacione facienda(n)">
+&para; Per<expan type="a+_">am</expan>bulacione faci<expan type="e+_">en</expan>da </form> <xpln lexeme="de racionabilibus divisis">ys a wryt &amp; yt ly&shy;
+eth wher .ii. lordshyppys lieth one nygh <expan type="a+_">an</expan> o&shy;
+ther/ &amp; some incrochment ys made by longe
+tyme/than by ass<expan type="e+_">en</expan>t of both lordys <expan type="y+e">the</expan> shyryf
+shall take wyth hym the <expan type="p-_">par</expan>tys &amp; <expan type="y+e">the</expan> neyghbors
+&amp; shall walk about yt &amp; shal make <expan type="y+e">the</expan> bondis
+as they wer before/but yf a lord incroch vp&shy;
+pon an other &amp; he wyll not make <expan type="p-_">per</expan><expan type="a+_">am</expan>bulaci<expan type="o+_">on</expan>
+then the lord so greuyd shall haue a wryt a&shy;
+gaynst the othere whych ys callyd de racio&shy;
+nabilibus diuisis.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="petit cape(n)">
+&para; Petit cape </form> <xpln>ys a wryt &amp; yt lyeth whan any
+accy<expan type="o+_">on</expan> reall <expan type="y+t">that</expan> ys to say of ple of land ys bro&shy;
+ught &amp; <expan type="y+e">the</expan> ten<expan type="a+_">an</expan>t aperyth &amp; afterward makith
+defaut/th<expan type="a+_">an</expan> thys wryt of petit cape shall go
+forth to seyse <expan type="y+e">the</expan> l<expan type="a+_">an</expan>dys in to <expan type="y+e">the</expan> kyngys hand
+</page>
+
+<page sig="f3r">
+but yf he appere not but makyth defaut at
+the furst somons than a graunt cape shall
+go forth &amp; for such defaut the tenant shall
+lose the land/but if he wage his law of n<expan type="o+_">on</expan>
+summons he shall haue his defaut and th<expan type="a+_">an</expan>
+he may plede wyth the dema<expan type="u+_">un</expan>daunt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="protection(n)">
+&para; Proteccyon </form> <xpln>is a wryt &amp; yt lyeth where <expan type="y+t">that</expan> 
+a man wyll passe ouer the se in the kyngys
+seruyce/than he shall haue this writ /and by 
+thys wryt he shall be quyte of all maner of
+plees betwene hym &amp; any other <expan type="p-_">per</expan>son/except
+plees of dower quare impedit allyse of no&shy;
+uell dysseysyn/daren presentment &amp; attayn&shy;
+t<expan type="es">es</expan> &amp; plees before iustyce in eyre/But therbe
+.ii. wryttys of <expan type=",p">pro</expan>teccion one c<expan type="u+_">um</expan> clausula vo&shy;
+lumus &amp; an othere c<expan type="u+_">um</expan> clausula nolumus as
+apperyth in the register/Also a proteccyon
+shall not be alowid in any ple begon before
+the date of the <expan type=",p">pro</expan>teccyon yf yt be not in via&shy;
+gis where the kynge hym self passe or
+other vyagys royals or in messagys of the
+kyng for nede of the realme/Also a protec&shy;
+cyon shall not be alowid for the vytell boughte
+for <expan type="y+e">the</expan> vyage wherof the <expan type=",p">pro</expan>teccy<expan type="o+_">on</expan> makyth m<expan type="e+_">en</expan>&shy;
+cyon nor in plees of trespas or of c<expan type="o+_">on</expan>tractis
+made after the date of the proteccyon
+</xpln></wordentry>
+</page>
+
+<page sig="f3v">
+<wordentry type="h"><form lexeme="prohibition(n)">
+&para; Prohybycion </form> <xpln>ys a wryt &amp; yt lieth where a
+man ys impledyd in the spyrituall court of
+<expan type="y+t">that</expan> thyng that touchyth not matrymony nor
+testam<expan type="e+_">en</expan>t but <expan type="y+t">that</expan> touchyth the kyngys crown
+&amp; thys wryt shalbe dyrect as well to the <expan type="p-_">par</expan>te
+as to the offycyall to prohybet them <expan type="y+t">that</expan> they
+pursew no ferther. But yf yt appere after&shy;
+ward to the iuggis tem<expan type="p-_">por</expan>all <expan type="y+t">that</expan> the matter is
+spyrytuall &amp; not temporall th<expan type="a+_">an</expan> the <expan type="p-_">par</expan>te shall
+haue a wryt of consultacyon c<expan type="o+_">om</expan>ma<expan type="u+_">un</expan>dyng <expan type="y+e">the</expan>
+Iuggys spyrytuall to procede in the furste
+ple.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="procedendo(n)">
+&para; Procedendo </form> <xpln>ys a wryt &amp; yt lyeth where a<emend err="">&shy;</emend>
+ny accyon ys sewed in a base court whyche 
+ys remouyd to a hye court as to the chaun&shy;
+cery /the kyngys bench/ or comen place by a
+wryt of pryuylege or cerciorare/&amp; if <expan type="y+e">the</expan> <expan type="deff.">defendant</expan>
+vppon the matter shewyd haue no cause of
+priuilege or yf the matter in the byll be not
+well prouyd/than the playnetyfe shall haue
+thys wryt of procedendo for to send agayne
+the matter vnto the furst base court &amp; there
+to be determynyd.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q">
+<wordentry type="h"><form lexeme="quare impedit(n)">
+&para; Quare impedit </form> <xpln>is a writ &amp; it lyeth where
+I haue purchasyd a maner to the whyche
+there belongyth an aduowson/&amp; the pers<expan type="o+_">on</expan>
+dyeth and an othere presentyth hys clarke
+or dysturbith me to presente than I shall
+haue the seyd wryt/But assyse of daren pre<emend err="">&shy;</emend>
+sentment lyeth where I or my auncestors
+haue presentyd before/ And where a man
+may haue assyse of daren presentment he
+may haue a quare impedit but not c<expan type="o+_">on</expan>trary
+wyse/ Also yf <expan type="y+e">the</expan> ple be dep<expan type="e+_">en</expan>dyng betwen .ii.
+<expan type="p-_">par</expan>tes &amp; be not dyscussyd wythin .vi. m<expan type="o+_">on</expan>thys
+</page>
+
+<page sig="f4r">
+than the byshop shall present by laps &amp; he <expan type="y+t">that</expan>
+hath ryghte to present shall recouer hys da&shy;
+magys as yt apperith by <expan type="y+e">the</expan> statute of <expan type="westm">westminster</expan>
+.ii.c.vii. therfore se the statute/ Also yf he <expan type="y+t">that</expan>
+hath ryght to present after the deth of the <expan type="p-_">per</expan>&shy;
+son &amp; bryngyth no quare impedit nor daren
+presentment but sufferyth a stra<expan type="u+_">un</expan>ger to v&shy;
+surpe vppon hym yet he shall haue a wryt of
+of ryght of aduowson but thys wryt lyeth
+not but if he clayme to haue the aduowson
+to hym &amp; hys heyrys in fe symple.
+</xpln><lemenote>OED "quare impedit."</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="quare non admisit(n)">
+&para; Quare non admisit </form> <xpln>ys a wryt &amp; yt lyeth
+where a man hath recoueryd an aduowson
+&amp; he sendyth hys couenable clark to the bys<emend err="">&shy;</emend>
+shop to be admyttyd &amp; the byshop wyll not
+reseyue hym than he shall haue <expan type="y+e">the</expan> seyd wryt
+agaynst <expan type="y+e">the</expan> byshop /But a wryt de ne admit&shy;
+tas lyeth where .ii. be in ple yf the playntyf
+suppose that <expan type="y+e">the</expan> byshop wyll pres<expan type="e+_">en</expan>t the clark
+of the <expan type="deff.">deffendant</expan> than he shall haue this wryt to <expan type="y+e">the</expan>
+byshop c<expan type="o+_">om</expan>maundyng hym <expan type="y+t">that</expan> he admyt hym
+not hengyng the ple.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quare incumbravit(n)">
+&para; Quare inc<expan type="u+_">um</expan>brauit </form> <xpln>ys a writ and yt lyeth
+where .ii. be in ple for the aduowson and <expan type="y+e">the</expan>
+byshop presentyth one of hys clarkys with<emend err="">&shy;</emend>
+in the .vi. monthys than he shall haue thys
+wryt agaynst the byshop/but this writ lieth
+alway hengyng the ple.
+</xpln></wordentry>
+</page>
+
+<page sig="f4v">
+<wordentry type="h"><form lexeme="quale ius(n)">
+&para; Quale ius </form> <xpln>ys a writ &amp; it lyeth wher a m<expan type="a+_">an</expan>
+of relygyon hath iugement to recouer l<expan type="a+_">an</expan>d/
+th<expan type="a+_">an</expan> before execuci<expan type="o+_">on</expan> thys wryt shall go forth
+to the eschetoure to enquere what ryght he
+hath to recouer /&amp; yf yt be fo<expan type="u+_">un</expan>d <expan type="y+t">that</expan> he hath no
+ryght than the lord may enter. But a wrytt
+of ad quod d<expan type="a+_">am</expan>pn<expan type="u+_">um</expan> lyeth wher one wyll giue
+l<expan type="a+_">an</expan>dys to <expan type="a+_">an</expan> house of relygy<expan type="o+_">on</expan> than this wryt
+shall go forth to the eschetor to enquere off
+what valew the land ys &amp; preiudyce yt shall
+be to the kyng.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarantine(n)">
+&para; Querentyne </form> <xpln>ys where a man dyeth seysyd
+of a maner place &amp; other landys wherof the 
+wyfe ought to be indowyd/than the wom<expan type="a+_">an</expan>
+shall hold the maner place by .xl. days wyth<expan type="i+_">in</expan>
+which tyme her dower shalbe to her assynid 
+as yt apperyth in magna carta .ca .vi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quare ejecit infra terminum(n)">
+&para; Quare eiecit infra terminum </form> <xpln>ys a writ &amp; 
+yt lyeth wher one makith a lesse to an other
+for terme of yerys &amp; the lessour infeffyth an
+other &amp; the feffe puttyth out the termor th<expan type="a+_">an</expan>
+the termour shall haue thys wryt agaynst <expan type="y+e">the</expan>
+feffe/but yf an other straunger put out the 
+termor than he shall haue a writ de eiecione
+firme agaynst hym &amp; in these .ii. wryttys he 
+shall recouer the terme &amp; hys damagys:
+</xpln><lemenote>"Wherefore did he eject within the term."</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="quid juris clamat(n)">
+&para; Quid iuris clamat </form> <xpln>ys a wryt and yt lyeth 
+wher I gra<expan type="u+_">un</expan>t <expan type="y+e">the</expan> reuerci<expan type="o+_">on</expan> of my tenaunt for
+terme of lyfe by fyne in the kyngys court &amp; 
+<expan type="y+e">the</expan> ten<expan type="a+_">an</expan>t wyll not attorne than <expan type="y+e">the</expan> gra<expan type="u+_">un</expan>te shall
+haue thys wryt for to c<expan type="o+_">om</expan>pell hym to attorne
+</page>
+
+<page sig="f5r">
+But a wryt of quem redditum reddit lyeth 
+where I graunt by fyne a rent charge or <expan type="a+_">an</expan>
+other rent whych ys not rent seruyce which 
+my tenaunt holdith of me &amp; the tenant wyll
+not attorne/than the gra<expan type="u+_">un</expan>te shall haue thys 
+wryt /&amp; a wryt of <expan type=",p">pro</expan> que seruicia lyeth in lyke
+case for rent seruyce /Also yf I graunt .iiii.
+diuers rentys to one man &amp; the tena<expan type="u+_">un</expan>t of <expan type="y+e">the</expan>
+land attorneth to the gra<expan type="u+_">un</expan>te by payment of
+a peny or of an halpeny in <expan type="y+e">the</expan> name of attor&shy;
+nement of all the rentys thys attornement
+shall put him in seysyn of all the rent.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="quare intrusit matrimonio non satisfato(n)">
+&para; Quare intrusit matrimonio n<expan type="o+_">on</expan> satisfa&shy;
+to </form> <xpln>ys a wryt &amp; it lyeth where the lord profe<emend err="">&shy;</emend>
+rith conenable mariage to hys ward &amp; he re<emend err="">&shy;</emend>
+fusyth &amp; enteryth in to the lande &amp; maryeth
+hym self to <expan type="a+_">an</expan> other/than the lord shall haue 
+thys wryt agaynst hym.
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="quod permittat(n)">
+&para; Quod <expan type="p-_">per</expan>mittat </form> <xpln>ys a wryt &amp; yt lyeth wher
+a man is dysseysyd of hys comen of pasture
+&amp; the dysseysor alyeneth or dyeth seysyd <expan type="a+_">an</expan>d
+hys heyre enteryth/than yf the disseyse dye
+hys heyre shall haue thys writ.  
+</xpln><lemenote>Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="quo jure(n)">
+&para; Quo iure </form> <xpln>ys a wryt &amp; yt lyeth wher a m<expan type="a+_">an</expan>
+hath had comen of pasture <expan type="i+_">in</expan> a nother seue&shy;
+rall syth the tyme of no mynde /than he to
+whom belongyth <expan type="y+e">the</expan> seuerall shall haue thys 
+wryt &amp; he shalbe chargyd to shewe by what
+tytle he clamyth.
+</xpln><lemenote>"By what legal right?" Not in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="quod ei deforciat(n)">
+&para; Quod ei deforciat </form> <xpln>is a writ and it lyethe
+wher the tena<expan type="u+_">un</expan>t in the tayle tenant <expan type="i+_">in</expan> dower
+or tenant for terme of lyfe lesyth by defaut
+in any accion /than he that lesyth shall haue 
+thys wryt agaynst hym that recoueryth or 
+agaynst hys heyre.
+</xpln></wordentry>
+</page>
+
+<page sig="f5v">
+<wordentry type="h"><form lexeme="quo warranto(n)">
+&para; Quo waranto </form> <xpln>ys a wryt &amp; is lyeth where
+a man vsurpyth to haue any fr<expan type="a+_">an</expan>ches vpp<expan type="o+_">on</expan>
+the kyng/then the kyng shall haue thys writ 
+to make hym to come before hys iustyce for 
+to shew by what tytle he claymyth such fr<expan type="a+_">an</expan>&shy;
+ches.
+</xpln><lemenote>OED "quo warranto".</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">
+<wordentry type="h"><form lexeme="relief(n)">
+&para; Relyef </form> <xpln>ys whan any tena<expan type="u+_">un</expan>t holdyth of a&shy;
+ny lord by knyght seruyce &amp; dyeth hys heyre 
+of full age/then the heyre at the furst day of 
+payment shall doble the rent to the lord. 
+Also yf a man hold of the kyng in chyefe &amp; 
+of other lordys/ <expan type="y+e">the</expan> kyng shall haue the warde
+of all the landys/&amp; the heyr shall pay relyefe
+to all <expan type="y+e">the</expan> lordys at hys full age/but the lordis 
+shall sew to the kyng by petyci<expan type="o+_">on</expan> &amp; shall haue 
+<expan type="y+e">the</expan> r<expan type="e+_">en</expan>t for the time <expan type="y+t">that</expan> the infant was in ward.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="remitter(n)">
+&para; Remitter </form> <xpln>ys whan a man hath .ii. tytles 
+to any land and he comyth to the land by <expan type="y+e">the</expan>
+last tytle/yet he shalbe iuggyd in by force of 
+hys elder tytle/&amp; <expan type="y+t">that</expan> shalbe sayd to hym a re&shy;
+mitter as yf the tena<expan type="u+_">un</expan>t in the tayle disc<expan type="o+_">on</expan>ty<emend err="">&shy;</emend>
+new <expan type="y+e">the</expan> tayle &amp; after dyssesyth hys dysc<expan type="o+_">on</expan>ty&shy;
+new &amp; dyeth therof seysyd &amp; the l<expan type="a+_">an</expan>d<expan type="es">es</expan> disc<expan type="e+_">en</expan>&shy;
+dyth to hys issu or coson colaterall by force 
+of the tayle in <expan type="y+t">that</expan> case he is <expan type="i+_">in</expan> hys remytter .s. 
+seysyd by forse of the tayle &amp; <expan type="y+e">the</expan> tytle of the 
+dyscontynue ys vtterly adnullyd &amp; defetyd
+</page>
+
+<page sig="f6r">
+&amp; the reson &amp; cause of such remitters ys for 
+that <expan type="y+t">that</expan> such an heyre ys tenaunt of the land 
+&amp; ther is no person tenaunt agaynst whom
+he may sew hys wryt of formedone for to 
+recouere the estate taylyd/for he maye not 
+haue an accy<expan type="o+_">on</expan> agaynst hym self. Also yf te&shy;
+na<expan type="u+_">un</expan>t in <expan type="y+e">the</expan> tayle infeff hys son &amp; heyre appa&shy;
+rant in the tayle whych is within age &amp; after 
+dyeth that ys a remitter to the heyre but if 
+he were of full age at the tyme of such feffe&shy;
+ment yt ys no remitter for <expan type="y+t">that</expan> <expan type="y+t">that</expan> yt was hys
+foly <expan type="y+t">that</expan> he beyng of full age wold take such
+a feffement/ also yf <expan type="y+e">the</expan> baron alyen landes <expan type="y+t">that</expan> 
+he hathe in the right of his wyfe &amp; after take 
+an estate agayn to hym and to hys wyfe for
+terme of theyr lyuys. <expan type="y+t">that</expan> ys a remitter to the
+woman for <expan type="y+t">that</expan> <expan type="y+t">that</expan> thys alyenacyon ys the acte 
+of <expan type="y+e">the</expan> baron &amp; not of the woman/for no foly 
+maybe adiuggyd in the woman duryng <expan type="y+e">the</expan>
+lyfe of her husband/but yf such an alyenaci&shy;
+on be by fine in court of record such a tak<expan type="i+_">in</expan>g
+agayn afterward to <expan type="y+e">the</expan> bar<expan type="o+_">on</expan> &amp; wyfe for term
+of theyr liues shall not make the woman to 
+be in her remitter for <expan type="y+t">that</expan> in such a fyne <expan type="y+e">the</expan> wo&shy;
+m<expan type="a+_">an</expan> shalbe examinid by the iuge /&amp; such exa&shy;
+minacions in fynys shall exclude such wo&shy;
+men for euer/Also when the <expan type="e+_">en</expan>tre of any m<expan type="a+_">an</expan>
+is lawfull &amp; he takyth an estate to hym wh<expan type="e+_">en</expan>
+he is of age if it be not by dede indentyd or
+matter of record whych shall esto<expan type="p-_">per</expan> hym /<expan type="y+t">that</expan>
+shalbe to hym a good remitter.
+</xpln></wordentry>
+</page>
+
+<page sig="f6v">
+<wordentry type="h"><form lexeme="replication(n)">
+&para; Replycacyon </form> <xpln>ys when the deffendant in 
+any accion makyth an answere &amp; the playn&shy;
+tyf makyth an answere to <expan type="y+t">that</expan>/<expan type="y+t">that</expan> is callyd the 
+replycacyon of the playntyfe &amp; a reioynder 
+ys when the deffendaunt makyth answere 
+to the replycacyon.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="replevin(n)">
+&para; Repleuyn </form> <xpln lexeme="return of the hests(n)" lexeme="de returno habendo(n)">ys a wryt &amp; yt lyeth whan any
+man dystreynyth a nother for rent or other 
+thyng th<expan type="a+_">an</expan> he shall haue thys wryt to the shi&shy;
+ryf to delyuer to hym the dystres &amp; shall f<expan type="i+_">in</expan>d 
+suerte to pursew hys accyon/&amp; yf he pursue 
+not or yf yt be fo<expan type="u+_">un</expan>d or iuggyd agaynst him
+than he that toke the dystres shall haue the
+dystres/&amp; <expan type="y+t">that</expan> ys callyd <expan type="y+e">the</expan> retorn of <expan type="y+e">the</expan> hestis/&amp; 
+he shall haue in such case a wryt <expan type="y+t">that</expan> is callyd
+de returno hab<expan type="e+_">en</expan>do/Also yf yt be <expan type="i+_">in</expan> any fra<expan type="u+_">un</expan>&shy;
+ches or baleweke <expan type="y+e">the</expan> <expan type="p-_">par</expan>te shall haue a repleuyn 
+of the shiryf dyrect to <expan type="y+e">the</expan> baylyf of the same 
+fra<expan type="u+_">un</expan>ches for to delyuer th<expan type="e+_">em</expan> agayn &amp; he shall
+fynd suerte to pursew hys accyon at <expan type="y+e">the</expan> next 
+co<expan type="u+_">un</expan>te/&amp; thys repleuyn may be remouyd out
+of the counte vnto the com<expan type="e+_">en</expan> place by a wryt 
+of recordare/loke more of repleuyn in <expan type="y+e">the</expan> ty&shy;
+tle distres/Also a wryt de <expan type="hoie">homine</expan> replegiando
+lyeth where a man is in pryson &amp; not by spe&shy;
+cyall c<expan type="o+_">om</expan>ma<expan type="u+_">un</expan>d<emend err="meet">ment</emend> of the kynge nor of hys 
+iustyce nor for the deth of a man nor for the
+kyngys forest nor such cause that ys not re<emend err="">&shy;</emend>
+preuysable then he shall haue thys wryt dy&shy;
+rectyd to the shyryffe that he cawse hym to
+be repleuyde thys wrytte ys a Iustyce and 
+not returnable and yf the shyryff do yt not
+than there shall go forthe an nothere wryt
+</page>
+
+<page sig="g1r">
+sicut alias and afterwarde an nother writ 
+sicut plures vel causam nobis significes
+whych shalbe returnable/&amp; yf the shyryf yet 
+make no repleuyn than there shall go forth 
+an atachment agaynst the shyryff dyrectyd
+to the coroners to atache the shyryff and to
+bryng hym before the Iustyce at a certayn 
+day &amp; forthermore that they make execucy<emend err="">&shy;</emend>
+on of the furst wryt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="recous(n)">
+&para; Rescous </form> <xpln>is a writ &amp; yt lieth wh<expan type="a+_">an</expan> any m<expan type="a+_">an</expan>
+takyth a dystres &amp; a nother takyth yt agayn
+from hym &amp; wyll not suffer hym to bryng <expan type="y+e">the</expan> 
+dystres wyth hym then he doth to hym res&shy;
+cous &amp; vppon that he may haue thys wryt &amp; 
+shall recouer damagis /Also if one distrein 
+bestys for damage fesant in hys ground &amp; 
+dryuyth them in the hye wey for to impo<expan type="u+_">un</expan>d 
+them &amp; in goynge they enter in the house of
+hym whose they be/ &amp; he wythholdyth them 
+ther &amp; will not suffer the other to <expan type="i+_">im</expan>po<expan type="u+_">un</expan>d th<expan type="e+_">em</expan>
+than <expan type="y+t">that</expan> wythholdyng ys rescous.
+</xpln><lemenote>Cf. OED "rescue."</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="receipt(n)">
+&para; Resceyt </form> <xpln>ys whan any accy<expan type="o+_">on</expan> is brought a<emend err="">&shy;</emend>
+gaynst the tenant for terme of lyfe or ten<expan type="a+_">an</expan>t 
+for terme of yerys &amp; he in the reuercion c<expan type="o+_">om</expan>&shy;
+myth in &amp; prayeth to be reseyuyd for to def&shy;
+fend <expan type="y+e">the</expan> l<expan type="a+_">an</expan>d &amp; for to plede with the dema<expan type="u+_">un</expan>d<expan type="a+_">an</expan>t
+Also when he c<expan type="o+_">om</expan>myth it behouyth <expan type="y+t">that</expan> he be all<emend err="">&shy;</emend>
+wey redy to plede with the dema<expan type="u+_">un</expan>dant.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">
+<wordentry type="h"><form lexeme="scire facias(n)">
+&para; Scire facias </form> <xpln lemene="capias ad satisfaendum(n)" lexeme="habere facias seisinam(n)">is a writ iudicyall go<expan type="i+_">in</expan>g out
+of <expan type="y+e">the</expan> record &amp; it lieth wher on hath recouerid 
+det or damag<expan type="es">es</expan> <expan type="i+_">in</expan> <expan type="y+e">the</expan> k<expan type="i+_">in</expan>g<expan type="es">es</expan> court &amp; he suith not
+to haue execucy<expan type="o+_">on</expan> wyth<expan type="i+_">in</expan> the yere &amp; <expan type="y+e">the</expan> day /th<expan type="a+_">an</expan>
+after <expan type="y+e">the</expan> yere and <expan type="y+e">the</expan> day he shall haue <expan type="y+e">the</expan> sayd
+writ to warne the parte &amp; yf <expan type="y+e">the</expan> <expan type="p-_">par</expan>te come not
+</page>
+
+<page sig="g1v">
+or yf he com and can no thyng say agaynst 
+the execucion th<expan type="e+_">en</expan> he shall haue a wryt of fie<emend err="">&shy;</emend>
+ri facias dyrect to the shiryf hym c<expan type="o+_">om</expan>m<expan type="a+_">an</expan>d<expan type="i+_">in</expan>g
+that he leuey the dett or dammagis of the
+goodis of hym that hath lost /also this writ 
+of fieri facias lyeth wyth in the yere wyth&shy;
+out any scire facias sewyd /Also yf <expan type="y+e">the</expan> some
+of the same det or dammagys may not be 
+leuyd of <expan type="y+e">the</expan> goodis of hym that hath lost th<expan type="e+_">em</expan>
+he may haue a wryt of elegit dyrect to the 
+shyryff <expan type="y+t">that</expan> he cause hym to delyuer the one 
+half of hys land and goodis except hys ox<expan type="e+_">en</expan>
+&amp; implementys of hys cart/ Also when one 
+hath recouered det or d<expan type="a+_">am</expan>magys in <expan type="a+_">an</expan> acci<expan type="o+_">on</expan>
+<expan type="p-_">per</expan>sonell (wher the <expan type=",p">pro</expan>ces is a capias) he may
+haue a nother wryt of execucyon callyd a ca<emend err="">&shy;</emend>
+pias ad satisfaendum for to take the body 
+of hym that is so cond<expan type="e+_">em</expan>pnyd whych shalbe 
+c<expan type="o+_">om</expan>myttyd to prys<expan type="o+_">on</expan> there to abyde without 
+bayle or maympryse tyll <expan type="y+t">that</expan> he hath satysfy&shy;
+ed the <expan type="p-_">par</expan>te/Also when one hath iugemente
+to recouer any l<expan type="a+_">an</expan>dys or tenem<expan type="e+_">en</expan>tys he shall
+haue a wryt callyd habere facias seisinam
+dyrect to the shyryfe hym comma<expan type="u+_">un</expan>dyng to 
+delyuer to hym seysyn of the same land so
+recoueryd.
+</xpln><lemenote>Cf. OED "scire facias."</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">
+<wordentry type="h"><form lexeme="tail(n)">
+&para; Tayle</form> <xpln>/Loke therfore before in the tytle 
+fee taye.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="treasure trove(n)">
+&para; Tresoure troue </form> <xpln>ys when anny money
+golde or syluer plate or bolleyn ys founde
+</page>
+
+<page sig="g2r">
+in any place &amp; no man knowyth to whom <expan type="y+e">the</expan>
+properte is than the properte there of belon&shy;
+gyth to the kyng and that ys callid tresour 
+<emend err="toue">troue</emend> that is to say tresour fo<expan type="u+_">un</expan>d/ but if any
+myne of metall be found in any grounde <expan type="y+t">that</expan>
+alway <expan type="p-_">per</expan>teynyth to the lord of <expan type="y+e">the</expan> soyle except
+yt be a myne of gold or siluer whych shalbe 
+alwey to the king in whose ground so euer 
+they be found.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="treason(n)">
+&para; Treas<expan type="o+_">on</expan> </form> <xpln>ys in two maners that is to say
+graund treason &amp; petit treas<expan type="o+_">on</expan> as yt is orde&shy;
+nyd by <expan type="y+e">the</expan> statutys &amp; therfore loke <expan type="y+e">the</expan> statuts.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w">
+<wordentry type="h"><form lexeme="waste(n)">
+&para; Wast </form> <xpln>is a wryt &amp; yt lyeth where tenant for
+terme of yerys ten<expan type="a+_">an</expan>t for terme of lyfe or te&shy;
+nant for terme of a nothers lyfe tenaunt in 
+dower or tenant by the curtesy or gardeyn <expan type="i+_">in</expan>
+chyualry doth wast or dystruccy<expan type="o+_">on</expan> vpp<expan type="o+_">on</expan> the
+land <expan type="y+t">that</expan> is to say pullyth down in the howse or 
+cuttyth down tymber or sufferith the house 
+wyllyngly to fall/than he in the reuercyon 
+shall haue thys wryt &amp; shall recouer <expan type="y+e">the</expan> place
+where the wast ys done &amp; treble damagys/.
+But yf a man cut downe tymber wythout
+lycence &amp; therwyth repayryth olde howsys
+yet <expan type="y+t">that</expan> is no waste/ But yf he wyth <expan type="y+t">that</expan> tymber 
+byld a new house than the cutting down of 
+such tymber ys wast.
+</page>
+
+<page sig="g2v">
+Also the cuttyng downe of vnderwood or
+wyllous whych ys no tymbere shall not be 
+sayd wast but yf they grow in the syght or 
+shadow of the house.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="view(n)">
+&para; Vew </form> <xpln>is when any accion reall is brought
+&amp; the tenaunt knowyth not well what land
+yt is <expan type="y+t">that</expan> the dema<expan type="u+_">un</expan>dant askith/th<expan type="a+_">an</expan> the ten<expan type="a+_">an</expan>t
+shall pray the vew <expan type="y+t">that</expan> is to say that he may se
+the l<expan type="a+_">an</expan>d which he claymith/ But yf the ten<expan type="a+_">an</expan>t 
+hath had the vew in one wryt &amp; after <expan type="y+e">the</expan> writ 
+is abatyd by mysnomber of the town or by
+ioyntenure &amp; after the dema<expan type="u+_">un</expan>dant bringith 
+a nother wryt agaynste the tena<expan type="u+_">un</expan>t than the
+tenaunt shall not haue the vew in the sec<expan type="o+_">on</expan>d
+wryt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vi laica removenda()">
+&para; Vi laica remouenda </form> <xpln>ys a wryt &amp; yt lyeth 
+where debate is betwene two persons or <expan type=",p">pro</expan><emend err="">&shy;</emend>
+uysours for a church &amp; one of th<expan type="e+_">em</expan> entryth in
+to the church wyth gret power of lay men &amp; 
+holdyth <expan type="y+e">the</expan> other out wyth force &amp; armys th<expan type="e+_">en</expan>
+he <expan type="y+t">that</expan> ys holden owt shall haue thys wryt di&shy;
+rect to <expan type="y+e">the</expan> shyrif <expan type="y+t">that</expan> he remoue <expan type="y+t">that</expan> power which
+ys wythyn the church and the shyryf shalbe
+commaundyd that yf he fynde anny men 
+there wythstondynge / that the Shyryffe
+shall take wyth hym the power of hys coun<emend err="">&shy;</emend>
+te yf nede be and shall areste the bodyes of 
+all theym hym resystynge and shall putte 
+them in pryson so that he haue theyr bodys
+before the kynge at a certayne daye to an&shy;
+swere <emend err="tothe">to the</emend> cont<expan type="e+_">em</expan>pte/ Also thys wryt ys re&shy;
+</page>
+
+<page sig="g3r">
+turnable &amp; yt shall not be grauntid before <expan type="y+t">that</expan>
+<expan type="y+e">the</expan> byshop of the place where such a church is 
+hath certyfyed in <expan type="y+e">the</expan> chauncery such resist<expan type="i+_">in</expan>g 
+&amp; force.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="withernam(n)">
+&para; Wythernam</form> <xpln>/loke therfore before in the ty<emend err="">&shy;</emend>
+tle dystres.
+</xpln><lemenote>Cf. OED "withernam."</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="utrum(n)">
+&para; Utrum </form> <xpln>ys a wryt &amp; it lyeth when <expan type="y+e">the</expan> ryght
+of any church ys alyenyd &amp; holden in lay fe 
+or translatid into the possessyon of an other 
+church &amp; the alyenour dyeth then hys succes<emend err="">&shy;</emend>
+sour shall haue the seyd writ/And note wel
+<expan type="y+t">that</expan> non <expan type="y+t">that</expan> hath couent or com<expan type="e+_">en</expan> seale may ma<expan type="i+_">in</expan><emend err="">&shy;</emend>
+teyn thys wryt but a wryt of entre sine asc<expan type="e+_">en</expan><emend err="">&shy;</emend>
+su cap<expan type="l+_">itul</expan>i of the alyenacyon made by hys pre&shy;
+decessor.
+</xpln><lemenote>Cf. OED "utrum."</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="outlawry(n)">
+&para; Utlary </form> <xpln>is when an exigent goth forth a&shy;
+gaynst any man &amp; proclamacion made in .v.
+countes than at the .v. counte yf the dessen&shy;
+daunt appere not th<expan type="e+_">en</expan> the coroner shall giue 
+iugement <expan type="y+t">that</expan> he shalbe out of the proteccyon 
+of the kyng &amp; owte of <expan type="y+e">the</expan> eyd of the law &amp; by
+sych an vtlary in accyons <expan type="p-_">per</expan>sonels the parte 
+vtlawyd shall forfet all hys goodis &amp; catels 
+to the kyng/&amp; by an vtlary in felony he shall
+forfet aswell all hys landis &amp; tenementys <expan type="y+t">that</expan> 
+he hath in fe symple or for terme of hys lyfe
+as hys goodys &amp; cattels.
+</page>
+
+<page sig="g3v">
+Also though a man be owtlawid yet yf any
+errour or dyscontynuaunce be in the sew<expan type="i+_">in</expan>g 
+of the <expan type=",p">pro</expan>ces the <expan type="p-_">par</expan>te therof shall haue adua<expan type="u+_">un</expan><emend err="">&shy;</emend>
+tage &amp; for such cause the vtlary shalbe reuer<emend err="">&shy;</emend>
+syd &amp; adnullyd. Also yf the <expan type="p-_">par</expan>te deffenda<expan type="u+_">un</expan>t
+be ouer the se at the tyme of <expan type="y+e">the</expan> vtlary <expan type=",p">pro</expan>no<expan type="u+_">un</expan>&shy;
+cyd <expan type="y+t">that</expan> ys a good cawse of the reuersall of <expan type="y+e">the</expan> 
+vtlary. Also yf <expan type="a+_">an</expan> exig<expan type="e+_">en</expan>t be awardyd aga<expan type="i+_">in</expan>st
+a man in one cownte where he dwellith not 
+yet an exigent wyth proclamacion shall go 
+forth to the counte where he dwellyth or els 
+yf he be theruppon vtlawid the vtlary may
+be reuersid as it apperith by <expan type="y+e">the</expan> statut made
+<expan type="y+e">the</expan> .iiii. yere of kyng henry the .viii.
+
+Also yf a man be owtlawyd in an accyon 
+<expan type="p-_">per</expan>sonell at the sewt of an other and after he 
+purchase hys charter of pardon of the king 
+such charter shall neuere be alowyd tyll he
+hath sewyd a writ of scire facias to warne 
+the <expan type="p-_">par</expan>te playntyf/&amp; yf he appere than <expan type="y+e">the</expan> <expan type="deff.">deffendanty</expan>
+shall answere hym &amp; barre hym of hys accy<emend err="">&shy;</emend>
+on or els to make a grement wyth hym/
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="voucher(n)">
+&para; Voucher </form> <xpln lexeme="summonias ad warantizandum(n)">ys whan a precipe quod reddat
+of l<expan type="a+_">an</expan>d ys brought agaynst a man &amp; a nother 
+ought to warr<expan type="a+_">an</expan>t the land to the tenant th<expan type="a+_">an</expan>
+the tenaunt shall vouche him to warantye 
+and theruppon he shall haue a wrytt callyd 
+summonias ad warantizandum and wh<expan type="a+_">an</expan>
+</page>
+
+<page sig="g4r">
+he comyth he shall plede wyth the demaun&shy;
+dant &amp; yf he come not or yf he come and can
+not bar the demaundaunt than the dema<expan type="u+_">un</expan><emend err="">&shy;</emend>
+d<expan type="a+_">an</expan>t shall recouer the land agaynst the ten<expan type="a+_">an</expan>t
+&amp; the tenant shall recouer as mych lande in 
+valew agaynste the vouche &amp; theruppon he 
+shall haue a writ callyd capias ad val<expan type="e+_">en</expan>ciam
+agaynst the vouche/Loke more of voucher
+before in the tytle Garrantye.
+</xpln></wordentry>
+</wordgroup1>
+</section>
+
+<closing>
+&para; Thus endyth thys boke for 
+thys present tyme.'.
+</closing>
+
+<colophon>
+Johannes. Rastell
+
+&para; Impryntyd at L<expan type="o+_">on</expan>d<expan type="o+_">on</expan> <expan type="i+_">in</expan> chepe&shy;
+syde at powlys gate.
+
+Cum priuilegio regali.'.
+</colophon>
+</page>
+</leme>

@@ -1,0 +1,1628 @@
+<leme no="259">
+<set tag="expression" lang="en">
+
+<page sig="A3r">
+<heading>&leaf; A briefe Catalogue of the words of Art, with the
+explanation thereof.</heading>
+
+<wordgroup1 type="alphabetic" lang="en" object="A">A
+
+<wordentry type="h">
+<form lang="en" lexeme="abort(n)" lexeme="abortive fruit(n)"><f type="bk">A</f>Bort, <f type="r">or</f> abortive fruit</form>, <xpln>is an untimely
+birth.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="abstersive(a)">Abstersive</form>, <xpln lexeme="scouring(n)" lexeme="cleansing(n)" lexeme="wiping away(n)"><f type="i">i</f>. scouring, cleansing, or wi&shy;
+ping away, such as the Greeks call <expression lang="gk">Smecti&shy;
+ca</expression>, and they enter into sope and washing 
+balls.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="access(n)">Accesse</form>, <xpln lexeme="fit(n)"><f type="i">i</f>. a fit, whether it be of an ague, falling
+sicknesse, or any such diseases as returne at 
+times.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="acetabulum(n)" lexeme="acetable(n)">Acetabulum, <f type="r">or</f> Acetable</form>, <xpln>a measure among the
+Romans of liquor especially, but yet of drie 
+things also: the same that <expression lang="gk">Oxybaphon</expression> in 
+Greeke: and for that (as both words do im&shy;
+port) they used to dip their meats in vine&shy;
+gre out of such, it may well goe for a saucer 
+with us: for it containeth (as some thinke) 
+fifteen drams, which grow near to two oun&shy;
+ces, of which capacitie our small saucers
+are: but as others suppose, it receiveth two 
+ounces and an halfe, the measure of ordina&shy;
+rie saucers.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="acrimony(n)">Acrimonie</form>, <xpln lexeme="sharpness(n)"><f type="i">i</f>. Sharpnesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="actually(adv)">Actually</form>, <xpln><f type="i">i</f>. sensibly and presently, as fire is actu&shy;
+ally hot.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="aditiale(n)" lexeme="adiiciale epulae(n)">Aditiales, <f type="r">or</f> Adijciales epul&aelig;</form>, <xpln>were great and
+sumptuous feasts or suppers, held by the
+Pontifices or high priests, in testimonie of 
+publicke joy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="almond(n)">Almonds</form>. <xpln>See <xref><f type="i">Amygdals</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="amphora(n)">Amphor&aelig;</form>, <xpln>a measure in Rome of liquors only:
+It seemeth to have taken that name of the
+two ears which it had, of either side one: it
+contained eight Congios, which are much 
+about eight wine gallons, or rather between
+seven and eight: so as in round reckoning it
+may go for a ferkin, halfe kilderkin, or halfe 
+sesterne with us.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="amygdal(n)">Amygdals</form>, <xpln lexeme="paristhmia(n)" lexeme="antiades(n)" lexeme="tonsillae(n)">be kernils at the root of the tongue,
+subject to inflammations and swellings, oc&shy;
+casioned by deflux or falling downe of hu&shy;
+mours from the head: they be called <expression>Antia&shy;
+des</expression>, <expression>Paristhmia</expression>, and <expression>Tonsill&aelig;</expression>: the foresaid
+infirmities also incident unto them, do like&shy;
+wise carie the same denominations.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="antidote(n)">Antidotes</form>, <xpln lexeme="counterpoison(n)" lexeme="defensative(n)"><f type="i">i</f>. countrepoisons properly, defen&shy;
+satives, or preservatives against poisons, pe&shy;
+stilence, or any maladie whatsoever.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="antipathy(n)">Antipathie</form>, <xpln lexeme="contrariety(n)" lexeme="enmity(n)" lexeme="repugnancy(n)"><f type="i">i</f>. contrarietie, enmitie, and repug&shy;
+nancie in nature, as between fire and water,
+the vine and the Colewort, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="St. Anthony's Fire(n)">S. Anthonies <f type="r">fire</f></form><xpln lexeme="erysipelas(n)">is a rising in the skin, occasio&shy;
+ned by hote bloud mixt with abundance of 
+choller, and such be the shingles and other
+wildfires called in Greeke <expression lang="gk">Erysipelas</expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="aquosity(n)">Aquosities</form>, <xpln lexeme="ascites(n)" lexeme="leucophlegmatia(n)">be waterish humours, apt to engen&shy;
+der the dropsies called <expression>Ascites</expression> and <expression>Leuco&shy;
+phlegmatia</expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="aromatized(a)">Aromatized</form>, <xpln lexeme="spiced(a)"><f type="i">i</f>. Spiced.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="arthritical(a)">Arthriticall <f type="r">griefs</f></form>, <xpln>such as possesse the joynts,
+as all the sorts of gout.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="astrictive(a)" lexeme="astringent(a)">Astrictive <f type="r">or</f> Astringent</form>, <xpln>be such things as 
+bind the bodie or any part thereof.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="attractive(a)">Attractive</form>, <xpln lexeme="drawing(a)"><f type="i">i</f>. drawing; as the loadstone draw&shy;
+eth yron, amber straws or bents, Dictamnus
+arrow-heads or spills out of the bodie, and
+cupping-glasses (or ventoses) humours and
+wind.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="austere(a)">Austere</form>, <xpln lexeme="harsh(a)" lexeme="hard(a)"> harsh or hard, as in fruits unripe, and
+hard wines of hedge grapes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="axinomanty(n)">Axinomantie</form>, <xpln>a kind of magicke divination by 
+an axe head red hot.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="B">B
+
+<wordentry type="h">
+<form lang="en" lexeme="basis(n)"><f type="bk">B</f>Asis <f type="r">in a compound medecine</f></form> <xpln>is, that drug
+or simple which is predominant and carieth
+the greatest force in it, as the ground therof,
+whereupon the whole taketh the name; as
+Poppie in Diacodion, Quinces in Diacy&shy;
+donium, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bole(n)">Bole</form>, <xpln>is the forme of a medecine when it may
+be given in grosse manner at a knives point
+to the quantitie of a nutmeg at a time, un&shy;
+till the whole receit be taken.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="browning(n)">Browning</form>, <xpln>a tearme usuall in the mouths of ma&shy;
+riners and winnowers of corne, when they 
+are calmed and doe call for wind.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bulb(n)">Bulbs</form>, <xpln>although <f type="i">Plinie</f> seemed to give that 
+name unto some one speciall hearbe, yet it
+</page>
+
+<page sig="A3v">
+signifieth generally all those as have round
+roots, as Onions, Squilla, Wakerobin, and 
+such like; whereupon these &amp; other of that
+kind are said to have bulbous roots.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="C"><emend err="" source="jsmith">C</emend>
+
+<wordentry type="h">
+<form lang="en" lexeme="cacochymy(n)">Cacochymie</form>, <xpln>is that indisposition of the bodie
+wherein there is abundance of ill humours.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="calcining(n)">Calcining</form>, <xpln><f type="i">i</f>. the burning of a minerall, or any
+thing, for to correct the malignitie of it, or
+reduce it into powder, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="callosity(n)">Callositie</form>, <xpln>thicknesse and hardnesse of skin in
+manner senslesse, as in fistulaes, and under
+our heels.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="carminate(v)"><f type="r">To</f> Carminate</form>, <xpln lexeme="carminative(a)">is to make more fine and thin
+the grosse humors, by such medicins as by
+their heat are apt to cut and dissolve them;
+wherupon they likewise be called <expression><f type="i">Carmina&shy;
+tive:</f></expression> a tearme received by Apothecaries,
+and borrowed from those that card wooll.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cancer(n)">Cancer</form>, <xpln lexeme="cancerous(a)">is a swelling or sore comming of me&shy;
+lancholie bloud, about which the veins ap&shy;
+peare of a blacke or swert colour, spread in
+manner of a Creifish clees; whereupon it
+tooke that name in Latine, like as in Greeke
+<expression lang="gk"><f type="i">Carcinoma</f></expression>. And such ulcers as in that sort
+be maintained and fed with that humor, are
+called <expression>Cancerous</expression>, &amp; be untoward to heale,
+worse commonly for the handling.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="carnosity(n)">Carnositie</form>, <xpln><f type="i">i</f>. fleshly substance.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cataplasm(n)">Cataplasm</form>, <xpln lexeme="poultrice(n)">a pultesse or grosse maner of plastre.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cartilage(n)">Cartilage</form>, <xpln lexeme="cartilagineous(a)">in man and beast, is a gristle; in roots
+and fruits, that substance which we observe
+in the Radish root, and the outward part of
+the Cucumber, as <f type="i">Plinie</f> seemeth to take it;
+which therupon be called <expression>Cartilagineous</expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cataract(n)">Cataract</form>, <xpln lexeme="cornea(a)">is a dimnesse of sight caused by an
+humor gathered and hardened between the
+tunicle of the eye called <expression>Cornea</expression>, and the
+Crystalline humour; it is next cousin to 
+blindnesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="caustic(a)">Causticke</form>, <xpln lexeme="burning(a)" lexeme="blistering(a)" lexeme="scalding(a)"><f type="i">i</f>. burning, blistering, or scalding.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cauterize(v)"><f type="r">To</f> Cauterize</form>, <xpln lexeme="sear(v)" lexeme="burn(v)">is to seare or burn by a Cauterie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cautery actual(n)">Cauterie actuall</form>, <xpln lexeme="fire(n)">is fire it selfe, or scalding liquor:
+and so a searing yron, gold or other mettall
+made red hot, is called an <expression>Actuall cauterie</expression>,
+which without the help of our naturall heat
+doth worke presently.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cautery potential(n)">Cauterie potentiall</form>, <xpln>is that which will raise bli&shy;
+sters and burn in time after it is once set on
+worke by the heat of our bodie, as Cantha&shy;
+rides, Sperewort, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="Ceres(pn)">Ceres</form>, <xpln>the first inventresse of corne, the sowing 
+and use thereof.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cerote(n)">Cerote</form>, <xpln>is of a middle nature, between an oint&shy;
+ment and a plastre, not so hard as the one
+nor so soft as the other.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cicatrice(n)">Cicatrices</form> <xpln lexeme="pearl(n)">in eyes, bee whitish spots, otherwise 
+called <expression>Pearls</expression>: they be the skarrs also remai&shy;
+ning after a sore is healed up: and so a place 
+is said to bee cicatrized, when it is newly
+skinned up and healed.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="circulation(n)">Circulation</form>, <xpln>is the devise of subliming or ex&shy;
+tracting water or oile, by a stillatorie, a lem&shy;
+bicke, or such, because the vapour before it
+be resolved into water or oile seemeth to go 
+round circlewise.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="clysterized(a)">Clysterized</form>, <xpln><f type="i">i</f>. conveighed up by a clyster into
+the guts.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="coeliaci(n)">C&oelig;liaci</form>, <xpln><f type="i">i</f>. be those that through weaknesse of sto&shy;
+macke are troubled with a continuall flux of
+the bellie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="colature(n)">Colature</form>, <xpln>a thin liquor that hath passed tho&shy;
+row a strainer or colander.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="colliquation(n)">Colliquation</form>, <xpln>is a falling away, &amp; consumption
+of the radicall humour, or solid substance of
+the bodie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="collery(n)">Collyries</form>, <xpln>are properly medicins applied to the
+eies in liquid forme; whereas the drie kind
+be rather called <expression>Sief &amp; Alcohol</expression>, especially
+in powder: howbeit <f type="i">Plinie</f> attributeth this
+tearme to all eyesalves whatsoever. Also it
+seemeth that he meaneth thereby, tents to 
+be put in a fistulous ulcer, as in the pa.509<f type="i">b.</f>
+510<f type="i">k.</f></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="collution(n)">Collution</form>, <xpln>a liquor properly to wash the mouth,
+teeth, and gumbs withall.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="concocted(a)">Concocted</form>, <xpln><f type="i">i</f>. altered to that substance by natu&shy;
+rall heat, as either in health may serve to&shy;
+nourish, or in sicknesse is apt to be expelled.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="consolidate(v)">Consolidat</form>, <xpln lexeme="knit(v)" lexeme="unite(v)">to knit, unite, &amp; make sound againe
+that which was broken or burst.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="concrete(a)">Concrete</form>, <xpln><f type="i">i</f>. hardened and growne thicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="condite(a)">Condite</form>, <xpln><f type="i">i</f>. preserved in some convenient li&shy;
+quor.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="concorporate(v)"><f type="r">To</f> Concorporat</form>, <xpln><f type="i">i</f>. to mix and unite togither
+into one masse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="consistence(n)">Consistence</form>, <xpln lexeme="substance(n)" lexeme="thickness(n)"><f type="i">i</f>. substance or thicknesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="constipate(v)">Constipate</form>, <xpln><f type="i">i</f>. to harden and make more fast and
+compact.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="contraction in sinews(n)">Contraction <f type="r">in sinews</f></form>, <xpln>a shrinking or drawing
+of them in too short.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="contusion(n)">Contusions</form>, <xpln lexeme="bruise(n)"><f type="i">i</f>. Bruises.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="convulsion(n)">Convulsions</form>, <xpln>painfull cramps.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="day, critical(n)">Criticall <f type="r">daies</f></form> <xpln>be such, as in short diseases and
+those of quicke motion, doe give light un&shy;
+to the Physician of life or death. <f type="i">Plinie</f> ob&shy;
+serveth the odd daies to be most significant,
+and those usually determine of health; and 
+the even daies contrariwise: so that the se&shy;
+venth is <f type="i">Rex</f>, <f type="i">i</f>. a gracious prince; the sixth
+<f type="i">Tyrannus</f>, <f type="i">i</f>. a cruell tyrant.</xpln>
+</wordentry>
+</page>
+
+<page sig="A4r">
+<wordentry type="h">
+<form lang="en" lexeme="crudity(n)">Cruditie</form>. <xpln>See <xref><f type="i">Indigestion</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cyath(n)">Cyath</form>, <xpln>a small measure, both of liquid and drie
+things; the twelft part of a Sextarius, which
+was twentie ounces: whereby it appeareth,
+that a cyath was one ounce, one half ounce,
+one dram, and one scruple: it may goe with
+us for foure ordinarie spoonefuls.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cubit(n)">Cubit</form>, <xpln>a measure, from the elbow to the middle
+finger stretched forth at length, which went
+ordinarily for 24 fingers breadth or 18 in&shy;
+ches, which is one foot and an halfe: yet <f type="i">Pli&shy;
+nie</f> in one place maketh mention of a shor&shy;
+ter cubit, namely from the elbow to the end
+of the fist or knuckles, when the fingers bee 
+drawne in close to the hand.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eruption, cutanean(n)">Cutanean <f type="r">eruptions</f></form>, <xpln>bee such wheales, pushes,
+or scabs, as doe breake out of the skin, and
+disfigure it.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="D">D
+
+<wordentry type="h">
+<form lang="en" lexeme="debility(n)"><f type="bk">D</f>ebilitie</form>, <xpln lexeme="weakness(n)" lexeme="feebleness(n)"><f type="i">i</f>. weakenesse or feeblenesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="decoction(n)">Decoction</form>, <xpln>a liquour wherein things have
+beene sodden.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="defensative(a)">Defensative</form>, <xpln>in medicines taken inwardly, are
+those which resist venome or pestilent hu&shy;
+mor: in outward applications, such as de&shy;
+fend the sore or place affected from the flux
+or fall of humours thither.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="denarius(n)">Denarius</form>, <xpln>a coine of silver in Rome, and in o&shy;
+ther countries of gold, the same that <expression>Drach&shy;
+ma Attica</expression>, <f type="i">i</f>. a dram in weigt, which is <f type="i">vij.d.
+ob.</f> of our money; and the peece in gold an&shy;
+swereth neare to a full French crowne. In
+poise it goeth for a dram.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dentifrice(n)">Dentifrices</form>, <xpln>are meanes in Physicke to pre&shy;
+serve the teeth, and make them white and 
+faire.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="depilatory(n)">Depilatorie</form>, <xpln>are those medicines which either
+fetch off the haire, or hinder it from com&shy;
+ming up againe at all, or at leastwise from
+growing thicke. They were called in Greeke
+and Latine both, <expression lang="gk">Psilothra</expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dessicative(a)">Desiccative</form>, <xpln lexeme="drying(a)"><f type="i">i</f>. drying.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="digestive(n)">Digestives</form>, <xpln>be those medicines, which taken in&shy;
+wardly, helpe concoction of meat or hu&shy;
+mors; or applied without unto a sore, doe 
+comfort the place, and make way for speedy
+healing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dislocation(n)">Dislocations</form>, <xpln>when the bones bee either out of 
+joint, or else displaced.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="disopilate(v)"><f type="r">To</f> Disopilate</form>, <xpln lexeme="open(v)"><f type="i">i</f>. to open.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dissipate(v)"><f type="r">To</f> Dissipate</form>, <xpln><f type="i">i</f>. to scatter and dispatch.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="distortion(n)">Distortion</form>, <xpln lexeme="crookedness(n)">crookednesse or turning awrie un&shy;
+naturally.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="diuretical(a)">Diureticall</form>, <xpln>such things as provoke urine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dose(n)">Dose</form>, <xpln><f type="i">i</f>. that weight or quantitie of any medi&shy;
+cine that may be given either conveniently
+or without daunger to the patient.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dram(n)">Dram</form>, <xpln>the eight part of an ounce, which is the
+weight of a Romane denier or Denarius.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dysentery(n)">Dysenterie</form>, <xpln>is properly the exulceration or sore
+in the guts, whereupon ensueth besides the
+painefull wrings of the bellie, a flux also of 
+bloud at the seege, and therefore it is usually
+taken for the bloudie flix.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="E">E
+
+<wordentry type="h">
+<form lang="en" lexeme="eclogue(n)"><f type="bk">E</f>Clogues</form>. <xpln>See <xref target="eidylls"><f type="i">Eidyls</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="electuary(n)">Electuaries</form>, <xpln>bee medicinable compositions
+or confections to be taken inwardly, made of
+choise drougs, either to purge the humors,
+to strengthen the principall parts, or to 
+withstand any infirmitie for which they are
+made. The substance is betweene a syrrup
+and a conserve, but more enclining to the
+consistence of conserves.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="idyl(n)" lexeme="eidyllia(n)">Eidylls, <f type="r">or</f> Eidyllia</form>, <xpln>bee small Po&euml;mes or Pam&shy;
+phlets written by Po&euml;ts, such as <f type="i">Theocritus</f> 
+in Greeke compiled, and much like unto
+the Pastorals or Eclogues of <f type="i">Virgil</f> in La&shy;
+tine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="embrochation(n)">Embrochation</form>, <xpln>is a devise that Physicians have
+for to foment the head or any other part,
+with a liquour falling from aloft upon it,
+in manner of raine; whereupon it tooke
+the name in Greeke <expression lang="gk">Embroche</expression>, and hath
+found none yet in Latine, unlesse we should
+use <expression lang="la">Superfusio</expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="emollitive(n)">Emollitives</form>, <xpln>medicines that do soften any hard
+swelling.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="empiric(n)">Empirickes</form>, <xpln>were those Physicians, who with&shy;
+out any regard either of the cause in a dis&shy;
+ease, or the constitution and nature of the
+patient, went to worke with those medicines
+whereof they had experience in others, fall
+it out as it would.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="empiric, books of Diodorus(n)">Empiricke <f type="r">bookes of</f> Diodorus</form>, <xpln>contained re&shy;
+ceits approved and found effectuall by ex&shy;
+perience.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="emunctory(n)">Emunctories</form>, <xpln>bee those kernellie places in the
+bodie, by which the principall and noble
+parts doe void their superfluities, or such
+things as offend, to wit, under the eares for
+the braine, the arme-pits for the heart, and 
+the share for the liver, &amp;c.</xpln>
+</wordentry>
+</page>
+
+<page sig="A4v">
+<wordentry type="h">
+<form lang="en" lexeme="emplastration in the hortyard(n)">Emplastration in the Hortyard</form>, <xpln>is grafting by
+inoculation with a scutcheon; in Physick, the
+applying of a salve or plastre.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="epilepsy(n)">Epilepsie</form>, <xpln lexeme="sickness, falling(n)"><f type="i">i</f>. the falling sicknesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="errhine(n)">Errhines</form> <xpln>be devises make like tents, sharper at 
+one end than the other, to bee put up into
+the nose, either to cure some ulcer there, or
+to draw downe and void humors out of the
+head, or to provoke sneesing, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eschare(n)">Eschare</form>, <xpln>is that crust which ariseth upon a cau&shy;
+terie, either actuall or potentiall, as also the
+roufe or scab that groweth upon a sore.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="evacuation(n)">Evacuation</form>, <xpln><f type="i">i</f>. Voidance and riddance of any
+thing out of the bodie by vomite, purging,
+bleeding, sweating, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="excalfactory(a)">Excalfactorie</form>, <xpln lexeme="chaufing(a)" lexeme="heating(a)"><f type="i">i</f>. Heating or chaufing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="excoriation(n)">Excoriation</form>, <xpln><f type="i">i</f>. fretting the skin off, when a part
+is made raw: a way to exulceration.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="excrescence(n)">Excrescence</form>, <xpln><f type="i">i</f>. overgrowing unnaturally of any 
+thing in mans bodie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exotical(a)">Exoticall</form>, <xpln lexeme="foreign(a)"><f type="i">i</f>. forraine, and brought from other
+countries.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exorcism(n)">Exorcismes</form>, <xpln><f type="i">i</f>. coniurations by certain charmes
+and spels.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exorcist(n)">Exorcists</form>, <xpln>they that practised such Exorcismes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="expectorate(v)"><f type="r">To</f> Expectorat</form>, <xpln><f type="i">i</f>. to rid and discharge out of the 
+breast by coughing or reaching.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="expiatory(a)">Expiatorie</form>, <xpln>were sacrifices or oblations for to
+make satisfaction and attonement.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exiccative(a)">Exiccative</form>, <xpln>See <xref><f type="i">Desiccative</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="extenuate(v)">Extenuat</form>, <xpln><f type="i">i</f>. to make thin.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exulceration(n)">Exulceration</form>, <xpln><f type="i">i</f>. a soreness of any part inward or
+outward, when not onely the skin is off, but
+the humor doth fret deeper still. </xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exulcerative(n)">Exulcerative</form>, <xpln>bee such things as are apt to eat
+into the flesh and make an ulcer.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="F">F
+
+<wordentry type="h">
+<form lang="en" lexeme="fermentation(n)"><f type="bk">F</f>Ermentation</form>, <xpln><f type="i">i</f>. an equall mixture of things
+working as it were together: a tearme bor&shy;
+rowed from the levaine, which disperseth it
+selfe into the whole masse or lumpe of
+dough.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="filament(n)">Filaments</form>, <xpln>bee the small strings that hang to a 
+root like threads or haires, which some call
+the beard of the root: and in resemblance
+thereof, other things growing likewise, bee
+so called.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fissure(n)">Fissures</form>, <xpln lexeme="clift(n)" lexeme="chap(n)">clifts, or chaps, whether it bee in the
+hands, feet, lips, or fundament.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="flatuosity(n)">Flatuosities</form>, <xpln><f type="i">i</f>. windinesse gathered within the 
+bodie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="Flora(pn)">Flora</form>, <xpln>the goddesse of Flowers among the Pai&shy;
+nims.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fomentation(n)">Fomentations</form> <xpln>properly be devises for to be ap&shy;
+plied unto any affected part, either to com&shy;
+fort and cherish it, or to allay the paine, or
+else to open the pores to make way for oint&shy;
+ments and plastres. If they be liquid things,
+they are laid too by the meanes of bladders,
+spunges, or such like: if drie, within bags or 
+quilts.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fracture(n)">Fractures</form>, <xpln><f type="i">i</f>. bones broken.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="friction(n)" lexeme="frication(n)">Frictions <f type="r">or</f> Frications</form>, <xpln>rubbings of the bodie
+upward or downeward gently or otherwise,
+as the cause requireth.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="frontal(a)">Frontall</form>, <xpln>the forme of an outward medicine
+applied unto the forehead, to allay pain, to
+procure sleepe, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fuke(n)">Fukes</form>, <xpln lexeme="complexion(n)" lexeme="painting(n)"><f type="i">i</f>. paintings, to beautifie the face in out&shy;
+ward appearance. They are called at this day
+<expression>complexions</expression>, whereas they bee cleane con&shy;
+trarie: for the complexion is naturall, and
+these altogether artificiall.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fumosity(n)">Fumosities</form> <xpln>bee vapours steaming up into the 
+head, troubling the braine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fungus(n)">Fungous</form>, <xpln><f type="i">i</f>. of an hollow and light substance
+like to Fusses or Mushromes.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="G">G
+
+<wordentry type="h">
+<form lang="en" lexeme="gargarism(n)"><f type="bk">G</f>Argarismes</form> <xpln>bee collutions of the mouth,
+and parts toward the throat, either to
+draw downe and purge humours out of the
+head, or to represse and restraine their flux,
+or to mundifie and heale any sore there 
+growing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gargarising(n)" lexeme="gargling(n)">Gargarising <f type="i">or</f> Gargling</form> <xpln>is the action of using a
+liquor to the said purpose.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gestation(n)">Gestation</form>, <xpln>an exercise of the bodie, by beeing
+carried in coach, litter, upon horsebacke, or
+in a vessell on the water.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="swelling, glandulous(n)">Glandulous <f type="r">swellings</f></form>. <xpln>See <xref><f type="i">Kings</f> evill</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gleir(n)">Gleir</form>, <xpln lexeme="egg, white of(n)"><f type="i">i</f>. the white of an egge.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="exercise, gymnic(n)">Gymnicke <f type="r">exercises</f></form>, <xpln lexeme="gymnasium(n)">were those that were per&shy;
+formed by men naked, and the place for
+such exercises, was thereupon called <expression lang="la">Gym&shy;
+nasium</expression>.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="H">H
+
+<wordentry type="h">
+<form lang="en" lexeme="habit of the body(n)"><f type="bk">H</f>Abit of the bodie</form>, <xpln>is taken for the outward
+parts therof, opposit unto the bowels and 
+principall within; which beeing comforted
+and fortified, doe thrust forth offensive mat&shy;
+ters to the habit and exterior skin.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hemine(n)">Hemine</form>, <xpln>a measure in Rome, as well of liquors
+as drie things: so called, because it was halfe
+Sextarius: it contained ten ounces, and is
+</page>
+
+<page sig="A5r">
+somewhat under our wine pint, it is the
+same that <expression lang="gk">Cotyla</expression> in Greeke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="humidity(n)">Humiditie</form>, <xpln lexeme="moisture(n)"><f type="i">i</f>. moisture.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hydromantia(n)">Hydromantia</form>, <xpln>a kind of magicall divination or
+foreknowledge of things to come, by obser&shy;
+vation of the water.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hydrophoby(n)">Hydrophobie</form>, <xpln>is a symptome or accident befal&shy;
+ling to them that are bitten by a mad dog,
+whereby they are afraid of water.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="part, hypochondrial(n)">Hypochondriall <f type="r">parts</f></form>, <xpln>be the flanks or soft parts
+under the short ribs.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="I">I
+
+<wordentry type="h">
+<form lang="en" lexeme="passion, iliac(n)"><f type="bk">I</f>Liacke <f type="r">passion</f></form>, <xpln lexeme="stomach, colic of(n)">the wrings and torments of
+the upper small guts, occasioned by wind
+or sharpe humors. Some improperly call it
+the collicke of the stomacke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="imbibition(n)">Imbibition</form>, <xpln>a drinking or receiving of any li&shy;
+quor into a thing: as when drougs lie stee&shy;
+ped therein untill they be throughly soaked
+therewith.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="impostume(n)">Impostumes</form>, <xpln lexeme="wen(n)" lexeme="inflammation(n)" lexeme="bile(n)">properly be collections or gathe&shy;
+rings of wind and humours especially be&shy;
+tweene parts of the bodie, wherupon there
+appeareth a rising or swelling, and in time
+they become corrupt and doe rankle, unlesse
+by some meanes they be either drawn away
+or dispersed. Some tearme them <expression>wens</expression>, how&shy;
+beit, the word is taken for inflammations 
+and biles.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="incorporate(v)"><f type="r">To</f> Incorporat</form>, <xpln>is to mix and unite well toge&shy;
+ther.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="incrassate(v)"><f type="r">To</f> Incrassate</form>, <xpln>is to make thicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="indigestion(n)">Indigestion</form>, <xpln><f type="i">i</f>. want of concoction and digesti&shy;
+on, by which meanes many crudities and 
+raw humors are engendered, and by conse&shy;
+quence abundance of rheumes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="inflation(n)">Inflation</form>, <xpln><f type="i">i</f>. swelling or puffing up with wind.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="infrangible(a)">Infrangible</form>, <xpln><f type="i">i</f>. that cannot be broken.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="infusion(n)">Infusion</form> <xpln>signifieth the conveighance of some
+medicinable liquour into the bodie by cly&shy;
+stre or other instrument. It importeth also
+the steeping of drougs in a convenient li&shy;
+quor: and the liquor it selfe, when it is strai&shy;
+ned from the rest.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ingredient(n)">Ingredients</form>, <xpln>be those simples that goe unto the
+making or any medicine compound.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="injection(n)">Iniection</form>, <xpln>is the conveighance of any liquid
+medicine by syringe or such like instrument
+into any part of the bodie or hollow and fi&shy;
+stulous ulcer.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="insect(n)">Insects</form>, <xpln>little vermine or small creatures, which
+have (as it were) a cut or division betweene
+their heads and bodies, as Pismires, Flies,
+Grashoppers, under which are comprehen&shy;
+ded Earthwormes, Caterpillers, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="insession(n)">Insessions</form> <xpln>be bathing tubs or vessels halfe full,
+wherin the patient may sit up to the middle
+or above in some convenient decoction.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fever, intermittent(n)">Intermittent feaver</form>,, <xpln>are those which come by
+fits, and yeeld some rest betweene whiles.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="inunction(n)">Inunction</form>, <xpln lexeme="annointing(n)"><f type="i">i</f>. annointing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="julep(n)">Iulebs <f type="r">or</f> Iuleps</form>, <xpln>be drinkes given commonly as
+preparatives for to open the passages of the
+inward parts, and to prepare the humours
+for a purgation, made either of some stil&shy;
+led waters and syrrups mixed together, or
+of a decoction sweetened with honey or su&shy;
+gar, or els mingled with syrrups.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="K">K
+
+<wordentry type="h">
+<form lang="en" lexeme="evil, King's(n)">Kings evill</form>, <xpln lexeme="scrophule(n)">is the hard swelling of the
+Glandules or Kernels commonly about
+the necke: they be called also <expression>Scrophules</expression>.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="L">L
+
+<wordentry type="h">
+<form lang="en" lexeme="lachrymal(n)"><f type="bk">L</f>Achrymal</form>, <xpln>is the corner of the eye wher&shy;
+in the teares appeare first, and thereof it
+taketh the name.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lassitude(n)">Lassitude</form>, <xpln lexeme="weariness(n)" lexeme="unlustiness(n)">is wearinesse or unlustinesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lavature(n)" lexeme="lotion(n)" lexeme="loture(n)">Lavature, Lotion, <f type="r">or</f> Loture</form>, <xpln lexeme="cleanse(v)" lexeme="mundify(v)">is a liquour to
+bath or wash withall: likewise to cleanse and
+mundifie any part.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ligula(n)" lexeme="lingua(n)" lexeme="lingula(n)">Ligula, Lingua, <f type="r">or</f> Lingula</form>, <xpln>a small measure a&shy;
+mong the Romanes, both of liquour and
+drie things, containing the fourth part of
+Cyathus, to wit, three drams and one scrip&shy;
+tule or scruple, somewhat under halfe an 
+ounce, and may goe well for our spoone&shy;
+full.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="liniment(n)"><f type="r">A</f> Liniment</form> <xpln>is thicker than oyle, and thinner
+than an ointment, it may be taken for a thin&shy;
+ner kind of ointment.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lobe(n)">Lobes <f type="r">and fibres</f></form> <xpln>are the lappets and extreame
+parts of the liver, with the maister veines
+growing thereto.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="medicine, local(n)">Locall <f type="r">medicines</f></form>, <xpln>be those which are appropri&shy;
+at for the forehead, <f type="i">Errhine</f> or <f type="i">Nasal</f> for the 
+nosthrils, &amp;c. or to be applied outwardly as
+ointments, which are not to be used before
+generall or universall means by evacuation.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="loch(n)" lexeme="lohoch(n)">Loch <f type="r">or</f> Lohoch</form>, <xpln>is a medicine more liquid than
+an electuarie, appropriat for the lungs and
+windpipe, and is to bee licked and let goe
+downe leisurely.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="longaon(n)">Longaon</form>, <xpln>is the nethermost gut reaching to
+the very seat or the fundament.</xpln>
+</wordentry>
+</page>
+
+<page sig="A5v"> 
+<wordentry type="h">
+<form lang="en" lexeme="luted(a)">Luted</form>, <xpln><f type="i">i</f>. close stopped with cley, dough, or
+such like.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="M">M
+
+<wordentry type="h">
+<form lang="en" lexeme="maturative(n)"><f type="bk">M</f>Aturatives</form> <xpln>be medicines that help to ripen
+any swelling impostume, bile, or botch.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="maturity(n)">Maturitie</form>, <xpln lexeme="ripeness(n)">is the ripenesse thereof.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="membrane(n)">Membranes</form>, <xpln>be fine skins which enwrap other
+parts, as the brains, eyes, and muscles of the
+flesh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="metrenchyte(n)">Metrenchyte</form>, <xpln>an instrument serving to infuse or
+inject a liquid medicine into the matrice of
+a woman, in manner of clystre.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mitigative(n)">Mitigatives</form>, <xpln>be such remedies as doe assuage
+paine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mna(n)" lexeme="mina(n)">Mna <f type="r">or</f> Mina</form>, <xpln>was a Roman weight, which poi&shy;
+sed twentie ounces, that is to say, the ordi&shy;
+narie pound, called <expression>Libra</expression> or <expression>Pondo</expression>, &amp; two
+third parts: for the common Libra called
+<expression>Medica</expression>, weighed twelve ounces, so that 
+Mina seemed to answere unto the measure
+Sextarius.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mollitive(n)">Mollitive</form>. <xpln>See <xref><f type="i">Emollitives</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mordicative(a)">Mordicative</form>, <xpln>is biting and stinging, as Senvie
+seed.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mucilage(n)">Mucilage</form>, <xpln>is a slimie liquor drawne from some
+roots or seeds, as from the marsh Mallow or
+Althea root, the seed of Psillium or Flea&shy;
+wort and others.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="muscle(n)">Muscles</form> <xpln>be the fleshie parts of the bodie, conshy;
+tained within their severall membranes or
+skins.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="N">N
+
+<wordentry type="h">
+<form lang="en" lexeme="narcotic(n)"><f type="bk">N</f>Arcoticke <f type="r">medicines</f></form>, <xpln>bee those that be&shy;
+num and stupifie with their coldnesse,
+as Opium, Hemlocke, and such like.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="nasal(n)">Nasals</form> <xpln>be Nose-tents. See <xref target="errhines"><f type="">Errhina</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="nerve(n)">Nerves</form>, <xpln lexeme="sinew(n)"><f type="i">i</f>. Sinewes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="nodosity(n)">Nodosities</form>, <xpln>hard knubs and knots growing up&shy;
+on the joints in old gouts, and in other
+parts.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="O">O
+
+<wordentry type="h">
+<form lang="en" lexeme="obolus(n)"><f type="bk">O</f>Bolus</form>, <xpln>halfe a scriptule, or the sixt part of a 
+dram.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="obstruction(n)">Obstructions</form>, <xpln lexeme="stopping(n)"><f type="i">i</f>. Stoppings.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="opiate(n)">Opiats</form>, <xpln>were properly at the first such electua&shy;
+ries or confections, which had a good
+quantitie of Opium, <f type="i">i</f>. the juice of Poppie
+in them, such as Philonium and Requies,
+which were devised to mittigat intollerable
+paine, and to bring the patient to sleepe:
+howbeit, in these daies all electuaries, even
+cordials, in a liquid forme be called <expression>Opiats</expression>,
+although there be not one grain of Opium
+in them.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="opilation(n)">Opilation</form>. <xpln>See <xref><f type="i">Obstruction</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="orthopnoic(n)">Orthopnoicke</form>, <xpln>are those that have the disease
+Orthopn&oelig;a, which is a difficultie of draw&shy;
+ing their wind, unlesse they sit upright.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="oss(n)">Osses</form>, <xpln>be words cast forth at unwares, presaging
+somewhat.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="otenchyte(n)">Otenchyte</form>, <xpln>an instrument, devised for to infuse
+or poure some medicinable liquor into the
+eares.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="oxycrate(n)">Oxycrate</form>, <xpln>a mixture of water and vinegre toge&shy;
+ther.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="P">P
+
+<wordentry type="h">
+<form lang="en" lexeme="palliate(v)"><f type="r">To</f> <f type="bk">P</f>Alliat</form>, <xpln lexeme="cover(v)" lexeme="palliative(a)"><f type="i">i</f>. to cover. And such cures be cal&shy;
+led Palliative, which search not to the
+root and cause, but give a shew only of cure;
+as when a sore is healed up aloft, and yet fe&shy;
+stereth underneath: and so sweet Poman&shy;
+ders doe palliat a stinking breath, occasio&shy;
+ned by a corrupt stomack or diseased lungs,
+and such like.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="paradox(n)">Paradoxes</form>, <xpln>strange opinions.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pectoral(n)">Pectorals</form>, <xpln><f type="i">i</f>. such medicines as bee fit for the
+breast and lungs.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pellicle(n)">Pellicles</form>. <xpln>See <xref><f type="i">Membranes</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="penetrative(a)">Penetrative</form>, <xpln lexeme="piercing(n)"><f type="i">i</f>. Percing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="periodical(n)">Periodicall</form>, <xpln>such agues bee called, as returne at
+their iust course from day to day, every third
+fourth or fift day, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="peripneumony(n)">Peripneumonie</form>, <xpln>is the inflammation of the
+lungs.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pessary(n)">Pessarie</form>, <xpln>is a devise made like a finger or sup&shy;
+positorie, to be put up into the natural parts
+of a woman.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="phlebotomy(n)">Phlebotomie</form>, <xpln lexeme="blood-letting(n)"><f type="i">i</f>. bloud-letting, or opening of a
+veine by incision or pricke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="phthysic(n)">Phthysicke</form>, <xpln>to speake properly, is the consump&shy;
+tion of the bodie occasioned by the fault of
+exulcerat and putrified lungs. But <f type="i">Plinie</f>
+otherwhiles seemeth to take it for any other
+consumption.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="Pomona(pn)">Pomona</form>, <xpln>a devised goddesse among the Pai&shy;
+nims, of apples and such fruits.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="prodigy(n)">Prodigies</form> <xpln>be straunge sights and wonderfull to&shy;
+kens, presaging some fearefull thing to 
+come.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="propinquity(n)">Propinquitie</form>, <xpln lexeme="nearness(n)" lexeme="affinity(n)">nearenesse or affinitie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="proscription(n)">Proscription</form>, <xpln>was a kind of outlawing and de&shy;
+priving a man of the protection of the state,
+</page>
+
+<page sig="A6r"> 
+with confiscation of his lands and goods.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="propagate(v)">Propagat</form>, <xpln>to grow and encrease, after the man&shy;
+ner of Vine braunches, which being drawn
+along in the ground from the motherstock
+doe take root.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="propitious(a)">Propitious</form>, <xpln><f type="i">i</f>. gracious and mercifull.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="proximity(n)">Proximitie</form>, <xpln lexeme="neighborhood, near(n)" lexeme="resemblance(n)">neere neighbourhood or resem&shy;
+blance.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ptisane(n)">Ptisane</form>, <xpln>the decoction of husked Barley: a
+grewell made therewith, or the creame
+thereof.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pulpous(a)">Pulpous</form>, <xpln><f type="i">i</f>. full of pulpe, or resembling pulpe,
+which is the soft substance in Apples or
+such fruits, answerable to the flesh in living
+bodies.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="purulent(a)">Purulent</form>, <xpln>yeelding filth and Attyr.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="putrefactive(n)">Putrefactive</form>, <xpln>such venomous medicines or
+humors, as do corrupt and putrifie the part
+of the bodie which they possesse.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="Q">Q
+
+<wordentry type="h">
+<form lang="la" lexeme="quindecemvir(n)"><f type="bk">Q</f>Vindecemvirs</form>, <xpln>were certain officers, fifteen
+in number, joined in one commission.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="R">R
+
+<wordentry type="h">
+<form lang="en" lexeme="receptory(n)"><f type="bk">R</f>Eceptorie</form>, <xpln>a vessell standing underneath,
+readie to receive that which droppeth
+and destilleth from something above it.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="reciprocal(a)">Reciprocall</form>, <xpln>going and comming, as the tides
+of the sea ebbing and flowing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rectify(v)"><f type="r">To</f> Rectifie</form>, <xpln lexeme="set straight(v)" lexeme="reform(v)" lexeme="amend(v)"><f type="i">i</f>. to set streight, reforme, or a&shy;
+mend.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="repercussive(a)">Repercussive</form>, <xpln lexeme="driving(a)" lexeme="smiting back(a)"><f type="i">i</f>. driving or smiting backe.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="residence(n)">Residence</form>, <xpln><f type="i">i</f>. the setling toward the bottome, as
+in urine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="faculty, retentive(n)">Retentive facultie</form>, <xpln><f type="i">i</f>. the naturall power that ech
+part or member of the bodie hath to hold
+that which is committed unto it, the due
+time, as the stomacke, meat; the bladder,
+urine, &amp;c.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="reverberation(n)">Reverberation</form>, <xpln lexeme="rebounding(n)" lexeme="striking back(n)"><f type="i">i</f>. rebounding or striking back.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rhagady(n)">Rhagadies</form>, <xpln>be properly the chaps in the funda&shy;
+ment or seat.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rubified(a)">Rubified</form>, <xpln lexeme="sinapism(n)" lexeme="mustard plaster(n)" lexeme="rubificative(a)"><f type="i">i</f>. made red, as when by application
+of mustard plastres, called <expression>Sinapismes</expression>; or
+beating a part that is benummed with Net&shy;
+tles, it recovereth a fresh colour againe,
+whereupon such plastres be called <expression>Rubifica&shy;
+tive</expression>, and the operation is named by the
+Greekes <expression lang="gk">Ph&oelig;nigmos</expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rupture(n)">Rupture</form>, <xpln>the disease of bursting, as when the
+guts or other parts fall downe into the bag
+of the cods.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="S">S
+
+<wordentry type="h">
+<form lang="en" lexeme="salivation(n)"><f type="bk">S</f>Alivation</form>, <xpln>is a drawing of humours to the
+mouth, and a deliverie of them from
+thence in manner of spittle.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sarcling(n)">Sarcling</form> <xpln>is the baring of roots, by ridding a&shy;
+way the earth and weeds from about them,
+that did clog them.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scarification(n)">Scarification</form>, <xpln>is a kind of pouncing or opening
+of the skin by way of incision slightly, with
+the fleame or launcet, either to give some
+issue for the bloud &amp; humors to passe forth,
+or to prepare a place for the cupping-glasse
+to extract more.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="schirre(n)">Schirre</form>, <xpln>is a hard swelling almost sencelesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scriptule(n)" lexeme="scruple(n)">Scriptule, <f type="r">or</f> Scruple</form>, <xpln>is foure and twentie grains
+weight, or the third part of a dram.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scrophule(n)">Scrophules</form>. <xpln lexeme="evil, King's(n)">See <xref><f type="i">Kings evill</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="seat(n)">Seat</form>, <xpln>is the circumference or compasse about
+the tuill or fundament.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="secundine(n)">Secundine</form>, <xpln lexeme="afterbirth(n)"><f type="i">i</f>. the afterbirth that infolded the in&shy;
+fant within the mothers wombe.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="siege(n)">Seege</form>, <xpln lexeme="easement, stool of(n)">a stoole of easement, whereupon we sit
+to discharge the ordure and excrements of
+the guts.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="serosity(n)" lexeme="humour, serous(n)">Serosities, <f type="r">or</f> Serous humours</form>, <xpln>bee the thinner
+parts of the masse of bloud, answering to the
+whey in milke, such as we see to floate upon
+bloud that hath run out of a veine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sextarius(n)">Sextarius</form>, <xpln>a measure among the Romanes,
+whereof six goe to their Congius, whereup&shy;
+on it tooke that name: it containeth two he&shy;
+mines, and is somewhat lesse than a wine
+quart with us, it beareth twentie ounces.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sinapism(n)">Sinapisme</form>, <xpln>a practise by a plastre of mustard
+seed, and such like, to revive a place in man&shy;
+ner mortified, and to draw fresh humors and
+colour to it.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="solstice(n)">Solstice</form>, <xpln lexeme="sunstead(n)"><f type="i">i</f>. the Sunnestead, as well in Winter as
+Summer, when hee is come to his utmost
+points North and South, but usually it is
+put for Midsummer onely.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sophisticated(a)">Sophisticated</form>, <xpln><f type="i">i</f>. falsified and made corrupt, how&shy;
+beit, going for the right. Thus drougs and
+gems are many times thrust upon us.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="spasm(n)">Spasmes</form>, <xpln>be painefull crampes or pluckings of
+the sinewes and cords of the Muscles.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="spasmatic(n)">Spasmaticke</form>, <xpln>are such as be thus plucked.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="specie(n)">Species</form>, <xpln>be either the simple ingredients into a
+composition, or els the bare pouders min&shy;
+gled together, readie to be reduced into an
+electuarie liquid, or Tables.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="knowledge, speculative(n)" lexeme="speculation(n)">Speculative knowledge, <f type="r">or</f> Speculation</form>, <xpln>is the in&shy;
+sight into a thing by reading only and con&shy;
+</page>
+
+<page sig="A6v"> 
+templation, without practise &amp; experience.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sperm(n)">Sperme</form>, <xpln lexeme="seed, natural(n)">is naturall seed.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="spondyle(n)">Spondyles</form>, <xpln>be the turning joynts of the chine or
+backbone.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="flux, stomachical(n)">Stomachicall flux</form>, <xpln>is the same that C&oelig;liaca
+passio. See <xref><f type="i">C&oelig;liaci</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="medicine, stomachical(n)">Stomaticall medecins</form>, <xpln>be such as are appropriat
+for the diseases incident to the mouth, and
+the parts adjoyning.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="styptic(n)">Stypticke</form>, <xpln>be such things as by a certaine harsh
+tast, doe shew that they be astringent, as
+medlars, and alumne, which thereupon is 
+named <expression><f type="i">Stypteria</f></expression>, and such like.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="succedan(n)">Succedan</form>, <xpln lexeme="quid pro quo(n)">that drug which may be used for de&shy;
+fault of another. The Apothecaries call
+such, <expression lang="la"><f type="i">Quid pro quo</f></expression>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="suffusion(n)">Suffusion</form>. <xpln>See <xref><f type="i">Cataract</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="suffumigation(n)">Suffumigation</form>, <xpln>is the smoke that is received in&shy;
+to the body from under a stoole, for the dis&shy;
+eases of the guts, fundament, or matrice.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="suppuration(n)">Suppuration</form>, <xpln>is when a bile or impostume ga&shy;
+thereth to an head and must be broken.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sympathy(n)">Sympathie</form>, <xpln><f type="i">i</f>. a fellow feeling, used in <f type="i">Plinie</f> for
+the agreement or amitie naturall in divers
+senslesse things, as betweene yron and the
+loadstone.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="symptom(n)">Symptome</form>, <xpln>an accident accompanying sicknes,
+as head-ach the ague; stitch, shortnesse of
+wind; spitting bloud, cough, and ague, the
+pleurisie.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="syringe(n)">Syringe</form>, <xpln>an instrument in manner of a pipe to
+inject a medicinable liquor into the bladder.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="T">T
+
+<wordentry type="h">
+<form lang="en" lexeme="Tellus(pn)"><f type="bk">T</f>Ellus</form>, <xpln lexeme="earth(n)">the Earth.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tenacity(n)">Tenacitie</form>, <xpln lexeme="clamminess(n)">clamminesse, such as is in glew,
+birdlime, and bitumen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="theoric(n)" lexeme="theoretic(n)">Theoricke, <f type="r">or</f> Theoretique</form>, <xpln>contemplative know&shy;
+ledge without action and practise.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tinesm(n)">Tinesme</form>, <xpln>an inordinat desire to the stoole with&shy;
+out doing any thing to the purpose.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tonsil(n)">Tonsils</form>. <xpln>See <xref><f type="i">Amygdals</f></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="transparent(a)">Transparent</form>, <xpln><f type="i">i</f>. cleare and bright throughout;
+as crystall, amber, aire, and water.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="transvasation(n)">Transvasation</form>, <xpln><f type="i">i</f>. the pouring of liquor out of
+one vessell into another.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="trivial(a)">Triviall</form>, <xpln lexeme="vulgar(a)" lexeme="common(a)"><f type="i">i</f>. vulgar, common, and of base rec&shy;
+koning.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="triumvirate(n)">Triumvirat</form>, <xpln>the Tripartite dominion of <f type="i">Anto&shy;
+nie, Octavius</f>, and <f type="i">Lepidus</f>, when they held
+all the world their hands, each one their
+third part.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="trochisque(n)" lexeme="troque(n)">Trochisques, <f type="r">or</f> Troques</form>, <xpln>be little cakes or roun&shy;
+dles, into which divers things medicinable
+are reduced for to be kept the better, and to
+be readie at hand when they shall be used.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tuil(n)">Tuil</form> , <xpln lexeme="fundament(n)">the same that the Fundement or neather&shy;
+most gut.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="alphabetic" lang="en" object="V">V
+
+<wordentry type="h">
+<form lang="en" lexeme="vegetative(n)"><f type="bk">V</f>Egetative</form>, <xpln>that power in nature which God
+hath given to creatures, wherby they live,
+are nourished, and grow.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ventosity(n)">Ventositie</form>, <xpln lexeme="windiness(n)">windinesse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="vicinity(n)">Vicinitie</form>, <xpln lexeme="nearness(n)" lexeme="neighnorhood(n)">nearenesse, or neighbourhood.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="victoriat(n)">Victoriat</form>, <xpln>a silver coine in Rome, Halfe a dena&shy;
+rius, so called because it had the image of
+Victorie stamped on the one side: it is some&shy;
+what under our groat.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="unction(n)">Vnction</form>, <xpln lexeme="annointing(n)">annointing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="unguent(n)">Vnguent</form>, <xpln lexeme="ointment(n)">an ointment.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ureter(n)">Vreters</form>, <xpln>bee the passages or conduits whereby
+the water or urine passeth from the kidnies
+into the bladder.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="vulnerary(n)">Vulnerarie</form>, <xpln><f type="i">i</f>. belonging to a wound; as Sani&shy;
+cle is a vulnerarie hearb, and <f type="i">Machaon</f> was
+a vulnerarie Physician.</xpln>
+</wordentry>
+</wordgroup1>
+</page>
+</leme>

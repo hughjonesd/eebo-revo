@@ -1,0 +1,184 @@
+
+
+<leme no="121">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 2 8 8 9
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Title-page">
+A Methode or comfortable
+beginning for all vnlearned,
+whereby they may bee taught to
+read English. in a very short time,
+With pleasure: So profitable as
+straunge, put in light, by
+I. H. Chester
+Heralt.
+
+Reason, the Mother of al humain perfections
+Order, <editoraddition>the</editoraddition> Nurse <editoraddition>of all humain perfections</editoraddition>
+Experience, <editoraddition>the</editoraddition> Teacher <editoraddition>of all humain perfections</editoraddition>
+
+&#182; Imprinted at London,
+by Henrie Denham.
+Anno. 1570.
+</section>
+
+</page>
+
+<page sig="a2r">
+<section type="Preface">
+<heading>
+The Preface.
+</heading>
+
+</page>
+
+<page sig="a3r">
+
+Nowe in
+what maner we doe misname our letters, you may vnderstande
+by that which followeth. As for example. For such as are learned
+in the names of things, by termes of other languages than their
+mother tongue, and yet vnderstanding thereby the thing ment,
+no doubt but they finde it sufficient for them so to vse the same
+names they haue learned, though vnderstanding the etymologie
+and meaning of such termes by their owne speach, they may well
+thinke howe it shoulde giue the hearers (being onely acquainted
+with their mother tongue) the better signification of the thing
+wherfore it is spoken. But it must needes be, that eyther blind af&#173;
+fectation in some, and nice curiositie, or vaine initation in others,
+haue caused our predecessors to consent to certaine straunge ter&#173;
+mes, when their owne mother speach might much better expresse
+the qualitie of the thing (from the mother and nurse) to their suc&#173;
+cession. Howbeit, I must confesse it beautifieth an Orators tale,
+which knoweth what he speaketh and to whome: but it hindereth
+the vnlerned from vnderstanding of the matter, and causeth ma&#173;
+ny of the Countrie men to speake chalke for cheese, and so nick&#173;
+name such straunge tearmes as it pleaseth many well to heare 
+them: 
+<wordentry type="h"><form lang="en" lexeme="temperate(a)" lexeme="temporal(a)">as to say for temperate,</form> <xpln lang="en">temporall:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="surrender(n)" lexeme="sullender(n)">for surrender,</form> <xpln lang="en">sullender:</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stature(n)" lexeme="statute(n)">for stature,</form> <xpln lang="en">statute:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="abject(v)" lexeme="object(v)">for abiect,</form> <xpln lang="en">obiect:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="hair(n)" lexeme="higher(a)">for heare,</form> <xpln lang="en">heier:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="certisfied(a)" lexeme="certified(a)" lexeme="satisfied(a)">certisfied,</form> <xpln lang="en">for
+both certified, and satisfied:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="dispense(v)" lexeme="suspense(n)">dispence,</form> <xpln lang="en">for suspence:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="defend(v)" lexeme="offend(v)">defende,</form> <xpln lang="en">for of&#173;
+fende:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="surgiant(n)" lexeme="surgeon(n)">surgiant,</form> <xpln lang="en">for surgian:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="biscuit(n)">which the French and we doe vse
+Biscuyte,</form> <xpln lang="en">which signifieth twise baekt:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="oven heater(n)" lexeme="furner(n)">and for the Ouen heeder,</form> <xpln lang="en">
+furner, deriued from <term lang="fr">Four</term> an Ouen:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr">Barbier <term lang="en">of</term> Barbe,</form> <xpln lang="en" lexeme="barber(n)" lexeme="beard(n)" lexeme="bearder(n)">we saye
+Barber, which deriued from the Englishe Primitiue Bearde,
+
+</page>
+
+<page sig="a3v">
+should by the like reason be in English bearder:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="razor(n)" lexeme="shaver(n)" lexeme="even-maker(n)">the like for <term lang="fr">Rasoer</term></form> <xpln lang="en">a
+shauer, or euen maker:</xpln>
+<lemenote>
+"euen maker" not found in OED.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="fr">Furbisseur,</form> <xpln lang="en" lexeme="scourer(n)">a Skowrer:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr">Cutteleir,</form> <xpln lang="en" lexeme="kniver(n)" lexeme="knife-maker(n)">a
+Kniuer, or knife maker:</xpln>
+<lemenote>
+"kniver" not found in OED; and "knife maker" antedates the earliest OED citation (1632).
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> garde</form> <xpln lang="en">or warde, a keepe or defence:</xpln></wordentry>
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Gardebras,</form> <xpln lang="en" lexeme="wardebras(n)" lexeme="arm keeper(n)">or wardebras, an arm keeper:</xpln>
+<lemenote>
+"wardebras" and "arm keeper" not found in OED
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="fr">Portier</form> <xpln lang="en" lexeme="gate waiter(n)" lexeme="gater(n)">a gate
+wayter, or gater:</xpln>
+<lemenote>
+"gate waiter" and "gater" not found in OED.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Porteur,</form> <xpln lang="en" lexeme="bearer(n)" lexeme="burdener(n)">a bearer, or a burdener:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Pantier,</form> <xpln lang="en" lexeme="pantler(n)" lexeme="breadserver(n)">or
+Pantler, a Breadseruer:</xpln>
+<lemenote>
+"Breadseruer" not found in OED.
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Bottellier,</form> <xpln lang="en" lexeme="bottleserver(n)">a Bottelseruer:</xpln>
+<lemenote>
+"Bottelseruer" not found in OED.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="fr">Cordoa&#173;
+nier,</form> <xpln lang="en" lexeme="shoemaker(n)">a Shoomaker:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Marenier,</form> <xpln lang="en" lexeme="seaman(n)" lexeme="sailor(n)">a Seaman, or sayler:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Scribe,</form> <xpln lang="en" lexeme="scrivener(n)" lexeme="writer(n)">or
+Scriuener, a writer:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="plumber(n)">a Plumber,</form> <xpln lang="en" lexeme="plumb(n)" lexeme="lead(n)">of <term lang="fr">Plumb</term> for Lead:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Tailour,
+</form> <xpln lang="en" lexeme="cutter(n)" lexeme="shaper(n)" lexeme="shapester(n)">a cutter, or shaper, as we say for the woman, Shapester:</xpln>
+<lemenote>
+"Shapester" not found in OED.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Mar&#173;
+chaunt</form> <xpln lang="en" lexeme="monger(n)">a Monger:</xpln></wordentry> 
+<wordentry type="h"><form lang="fr"><term lang="en">a</term> Lau<expan type="">an</expan>dier &#38; Lauandiere,</form> <xpln lang="en">a washer, 
+and ma&#173;
+ny others.</xpln></wordentry> And yet were our Predecessours contented for infinit
+other wordes, 
+<wordentry type="h"><form lang="fr"><term lang="en">as</term> Arbalestraier,</form> <xpln lang="en" lexeme="crossbow-maker(n)">for Crossebowmaker:</xpln></wordentry> and such
+like (as easie in French, as those aboue) to kepe them in their mo&#173;
+ther tongue, as good reason was, except they woulde haue chaun&#173;
+ged the whole Englishe Saxon language, to the French tongue,
+or nere vnto it. These and such like hinderances to the rude, haue
+so long continued, as they are hard to be reformed. And though
+the rude doe endeuour to immitate the learned, though it be to a 
+contrarye sence: yet I meruaile howe by any meanes the lyke
+shoulde come in print, seeing it doth passe so many handes, 
+<wordentry type="h"><form lang="fr"><term lang="en">as for
+this worde</term> Mestier <term lang="en">in French,</term></form> <xpln lang="en" lexeme="mystery(n)">signifying a handie craft, I finde
+imprinted by the worde misterie, signifying a worde or ceremo&#173;
+nie, sounding or shewing one thing, and meaning another.</xpln></wordentry>
+
+And others there are of farre West, or North Countryes,
+which vse differing English termnes from those of the Court and
+London, where the flower of the English tongue is vsed. And of
+some such one come to any good learning, by great continuance,
+and putteth some worke in print, his authoritie maketh many a
+rude English worde to be printed. And greatly they are not to be
+blamed, bicause they thinke they do for the best: for fewe men
+knowe of diuers wordes signifying one thing, which shoulde be
+the best, and most meete to be preferred: except it be such as are
+learned, and therewith much exercised with hearing, speaking,
+and writing of the best: 
+<wordentry type="h"><form lang="en" lexeme="tone(pr)" lexeme="tother(pr)">as for these wordes, the tone part and
+the tother,</form> <xpln lang="en">who doubtes but it should be written, that one part,
+
+</page>
+
+<page sig="a4r">
+and that other, and some will say and write, my thother, and thy
+tother:</xpln></wordentry> 
+<wordentry type="h"><form lang="en" lexeme="commandment(n)">we vse to say, commaundment,</form> <xpln lang="en">why should we be bounde
+to write it as the Frenche worde is spoken commaundement,</xpln></wordentry>
+ and infinite others which I doe omit at this time.
+</section>
+
+</page>
+</leme>
+

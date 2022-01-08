@@ -1,0 +1,449 @@
+<leme no="835">
+
+<page sig="16v">
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="herd(n)" lexeme="of(pp)" lexeme="hart(n)">an Herde of hertes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="herd(n)" lexeme="of(pp)" lexeme="deer(n)">an Herde of dere</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en"  lexeme="herd(n)" lexeme="of(pp)" lexeme="swan(n)">an Herde of swannys</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="herd(n)" lexeme="of(pp)" lexeme="crane(n)">an Herde of cranys</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="herd(n)" lexeme="of(pp)" lexeme="wren(n)">an Herde of wrennys</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="herd(n)" lexeme="of(pp)" lexeme="all(a)" lexeme="deer(n)">an Herde of alle dere</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="a(d)" lexeme="nye(n)" lexeme="of(pp)" lexeme="pheasant(n)">a Neye of fesantes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="covey(n)" lexeme="of(pp)" lexeme="partridge(n)">a Coueye of partrichs</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="bevy(n)" lexeme="of(pp)" lexeme="lark(n)">a Beuye of larkes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="bevy(n)" lexeme="of(pp)" lexeme="lady(n)">a Beuye of ladyes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="bevy(n)" lexeme="of(pp)" lexeme="quail(n)">a Beuye of quayles</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="bevy(n)" lexeme="of(pp)" lexeme="roe(n)">a Beuye of roos</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="siege(n)" lexeme="of(pp)" lexeme="bittern(n)">a Siege of bittours</form> <xpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="siege(n)" lexeme="of(pp)" lexeme="heron(n)">a Siege of heyrons</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="spring(n)" lexeme="of(pp)" lexeme="teal(n)"> a Spryng of teeles </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="sord(n)" lexeme="of(pp)" lexeme="mallard(n)">a Sourd of malardes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="disceit(n)" lexeme="of(pp)" lexeme="lapwing(n)">a disceite of lapwinks</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="muster(n)" lexeme="of(pp)" lexeme="peacock(n)">a Muster of pecoks</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="fall(n)" lexeme="of(pp)" lexeme="woodcock(n)">a Falle of Wodecoks</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="walk(n)" lexeme="of(pp)" lexeme="snite(n)">a Walke of snytes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="congregation(n)" lexeme="of(pp)" lexeme="plover(n)"> a C<expan type="o+_">on</expan>gregac<expan type="o+_">io</expan>n of plo<expan type="u'">uer</expan>s </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="covert(n)" lexeme="of(pp)" lexeme="coot(n)">a Couerte of cootes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="unkindness(n)" lexeme="of(pp)" lexeme="raven(n)">an vnkindnes of rauons</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="murder(n)" lexeme="of(pp)" lexeme="crow(n)">a Murther of crowes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="building(n)" lexeme="of(pp)" lexeme="roost(n)"> a Byldyng of roosts </form> <xpln>
+</xpln>
+<lemenote>
+Not found as a phrase in OED.
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="clattering(n)" lexeme="of(pp)" lexeme="chough(n)"> a Clatering of chowhis </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="murmuration(n)" lexeme="of(pp)" lexeme="stare(n)">a Murmerac<expan type="o+_">io</expan>n of stares</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="host(n)" lexeme="of(pp)" lexeme="man(n)">an Hoost of men</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="host(n)" lexeme="of(pp)" lexeme="sparrow(n)">an Hoost of sparowes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="fellowship(n)" lexeme="of(pp)" lexeme="yeoman(n)">a Felouship of yomen</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="gaggle(n)" lexeme="of(pp)" lexeme="goose(n)"> a Gagyll of ghees </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="gaggle(n)" lexeme="of(pp)" lexeme="woman(n)"> a Gagyll of women </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="chirm(n)" lexeme="of(pp)" lexeme="finch(n)">a Chyrme of fynches</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="swarm(n)" lexeme="of(pp)" lexeme="bee(n)">a Swarme of bees</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="exaltation(n)" lexeme="of(pp)" lexeme="lark(n)">a Exaltacion of larkes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="dissension(n)" lexeme="of(pp)" lexeme="woodwall(n)">a disc<expan type="e+_">en</expan>cion of wodewalis</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="mutation(n)">a Mutacion</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="city(n)" lexeme="of(pp)" lexeme="grey(n)">a Cety of greyes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="earth(n)" lexeme="of(pp)" lexeme="fox(n)">an Erthe of foxes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="berry(n)" lexeme="of(pp)" lexeme="coney(n)">a Bery of conyes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="nest(n)" lexeme="of(pp)" lexeme="rabbit(n)">a Neste of rabettis</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="litter(n)" lexeme="of(pp)" lexeme="whelp(n)">a Lytter of whelpes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="rout(n)" lexeme="of(pp)" lexeme="knight(n)">a Rowte of knyghtes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="rout(n)" lexeme="of(pp)" lexeme="wolf(n)">a Rowte of wolues</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="pride(n)" lexeme="of(pp)" lexeme="lion(n)">a Pryde of lyons</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="leap(n)" lexeme="of(pp)" lexeme="leopard(n)">a Lepe of lebardes</form> <xpln>
+</xpln></wordentry>
+ </page>
+ 
+ <page sig="17r">
+<wordentry type="h"><form lang="en" lexeme="slouth(n)" lexeme="of(pp)" lexeme="bear(n)">a Slouth of beres </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="leash(n)" lexeme="of(pp)" lexeme="greyhound(n)">a Lees of grehoundes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="brace(n)" lexeme="of(pp)" lexeme="hound(n)">a Brase of houndes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="kennel(n)" lexeme="of(pp)" lexeme="rach(n)">a Kenel of recches</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="couple(n)" lexeme="of(pp)" lexeme="spaniel(n)"> a Copill of spaynels </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="suit(n)" lexeme="of(pp)" lexeme="lyam(n)"> a Sute of a lyhm </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cast(n)" lexeme="of(pp)" lexeme="hawk(n)" lexeme="the(d)" lexeme="tower(n)">a Caste of hawkes of 
+the tour.</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cast(n)" lexeme="of(pp)" lexeme="bread(n)"> a Caste of breed </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="flight(n)" lexeme="of(pp)" lexeme="goshawk(n)">a Flight of goshaukes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="flight(n)" lexeme="of(pp)" lexeme="dove(n)">a Flight of douues</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="flight(n)" lexeme="of(pp)" lexeme="cormorant(n)">a Flight of cormerants</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="drove(n)" lexeme="of(pp)" lexeme="neat(n)">a Droue of nete</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="trip(n)" lexeme="of(pp)" lexeme="goat(n)">a Trippe of gete</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="flock(n)" lexeme="of(pp)" lexeme="sheep(n)">a Flock of shepe</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="flock(n)" lexeme="of(pp)" lexeme="lice(n)">a Flock of lyse</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="busyness(n)" lexeme="of(pp)" lexeme="fly(n)">a Besynes of flyes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="haras(n)" lexeme="of(pp)" lexeme="horse(n)">a Hareys of hors</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="stud(n)" lexeme="of(pp)" lexeme="mare(n)">a Stode of mares</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="rag(n)" lexeme="of(pp)" lexeme="colt(n)"> a Ragg of coltes </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="drift(n)" lexeme="of(pp)" lexeme="tame(a)" lexeme="swine(n)">a Drifte of tame swyn</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="sounder(n)" lexeme="of(pp)" lexeme="wild(a)" lexeme="swine(n)">a Sondre of wilde swyn</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="trip(n)" lexeme="of(pp)" lexeme="hare(n)">a Trippe of hares</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="trace(n)" lexeme="of(pp)" lexeme="hare(n)">a Trase of an hare</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="skulk(n)" lexeme="of(pp)" lexeme="fox(n)">Skulke of foxes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="skulk(n)" lexeme="of(pp)" lexeme="friar(n)">a Skulke of freres</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="skulk(n)" lexeme="of(pp)" lexeme="thief(n)">a Skulke of theues</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="pontifical(n)" lexeme="of(pp)" lexeme="prelate(n)">a Pontifical of prelates</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="state(n)" lexeme="of(pp)" lexeme="prince(n)">a State of princes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="dignity(n)" lexeme="of(pp)" lexeme="canon(n)">a Dignyte of chanons</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="trouth(n)" lexeme="of(pp)" lexeme="baron(n)">a Trouthe of barons</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="charge(n)" lexeme="of(pp)" lexeme="curate(n)">Charge of curates</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="lordship(n)" lexeme="of(pp)" lexeme="monk(n)">a Lordship of monkes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="superfluity(n)" lexeme="of(pp)" lexeme="nun(n)">Su<expan type="p-_">per</expan>fluyte of nonnes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="press(n)" lexeme="of(pp)" lexeme="priest(n)">Prees of prestes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="school(n)" lexeme="of(pp)" lexeme="fish(n)">Scole of fysshe</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="school(n)" lexeme="of(pp)" lexeme="scholar(n)">Scole of scolers</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cluster(n)" lexeme="of(pp)" lexeme="grape(n)">Cluster of grapes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cluster(n)" lexeme="of(pp)" lexeme="nut(n)">Cluster of nottes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cluster(n)" lexeme="of(pp)" lexeme="carl(n)">Cluster of carles</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="cluster(n)" lexeme="of(pp)" lexeme="tame(a)" lexeme="cat(n)">Cluster of tame cattes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="destruction(n)" lexeme="of(pp)" lexeme="wildcat(n)">destruct<expan type="o+_">io</expan>n of wilde cattes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="boast(n)" lexeme="of(pp)" lexeme="soldier(n)">Boste of souldyours</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="threat(n)" lexeme="of(pp)" lexeme="courtier(n)">Threte of cortyars</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="laughter(n)" lexeme="of(pp)" lexeme="hostler(n)">Lausters of hostelers</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="glozing(n)" lexeme="of(pp)" lexeme="taverner(n)"> Glosyng of tauerners </form> <xpln>
+</xpln></wordentry>
+</page>
+ 
+<page sig="17v">
+<wordentry type="h"><form lang="en" lexeme="promise(n)" lexeme="of(pp)" lexeme="tapster(n)">a Promesse of tapsters </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="scolding(n)" lexeme="of(pp)" lexeme="kempster(n)"> a Soolding of k<expan type="e+_">em</expan>psters </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="fighting(n)" lexeme="of(pp)" lexeme="beggar(n)"> a Fighting of beggers </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="disworship(n)" lexeme="of(pp)" lexeme="stot(n)">a Disworship of stottes</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="rascal(n)" lexeme="of(pp)" lexeme="boy(n)"> a Raskall of boyes </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="raffle(n)" lexeme="of(pp)" lexeme="knave(n)"> a Rafull of knaues </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="thrave(n)" lexeme="of(pp)" lexeme="thresher(n)">a Thraue of thresshers</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="lash(n)" lexeme="of(pp)" lexeme="carter(n)">a Lasshe of carters</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="trinket(n)" lexeme="of(pp)" lexeme="cordwainer(n)">a Trynkette of cord&shy;
+waners</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="bleck(n)" lexeme="of(pp)" lexeme="souter(n)">a Blecche of sowters</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="smear(n)" lexeme="of(pp)" lexeme="currier(n)">a Smere of coryers</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="pity(n)" lexeme="of(pp)" lexeme="prisoner(n)">a Pyte of prysoners</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="glorifying(n)" lexeme="of(pp)" lexeme="liar(n)"> a Glorifyeng of lyers </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="lying(n)" lexeme="of(pp)" lexeme="pardoner(n)"> a Lyeng of pardoners </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="hastiness(n)" lexeme="of(pp)" lexeme="cook(n)">a Hastynes of cookes</form> <xpln>
+</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+Explicit.
+</closing> 
+</page>
+
+<page sig="18r">
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="in(pp)" lexeme="hare(n)" lexeme="his(pr)" lexeme="form(n)" lexeme="be(v)" lexeme="shoulder(v)" lexeme="lean(v)" lexeme="or(c)">An hare in his forme 
+is sholdring or lening</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="dove(v)" lexeme="sit(v)">A douue sitteth</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="hart(n)" lexeme="harbor(v)"> an Herte is herbored </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="knight(n)" lexeme="harbor(v)"> a Knyght is herbored </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="buck(n)" lexeme="lodge(v)"> a Bucke is logged </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="squire(n)" lexeme="lodge(v)"> a Squyer is logged </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="roe(n)" lexeme="bed(v)"> a Roo is bedded </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="yeoman(n)" lexeme="bed(v)"> a Yoman is bedded </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="if(c)" lexeme="an(d)" lexeme="stand(v)" lexeme="hart(n)" lexeme="stall(v)">Yf an herte stande he stalleth.</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="if(c)" lexeme="buck(n)" lexeme="stand(v)" lexeme="harken(v)">Yf a bucke stande he herkenyth.</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="if(c)" lexeme="roe(n)" lexeme="stand(v)" lexeme="fare(v)">yf a roo st<expan type="a+_">an</expan>de he fereth</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="deer(n)" lexeme="break(v)">a Dere broken</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="goose(n)" lexeme="rear(v)"> a Ghoos rerid </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="swan(n)" lexeme="lift(v)">a Swan lyfte</form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="capon(n)" lexeme="sauce(v)"> a Capon sawsyd </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="hen(n)" lexeme="spoil(v)"> a Hen spoyled </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="chicken(n)" lexeme="frush(v)"> a Chekyn frusshed </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="mallard(n)" lexeme="unbrace(v)"> a Malard vnbrased </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="coney(n)" lexeme="unlace(v)"> a Cony vnlaced </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="heron(n)" lexeme="dismember(v)"> a Heron dismembrid </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="crane(n)" lexeme="display(v)"> a Crane displayd </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="peacock(n)" lexeme="disfigure(v)"> a Pecok disfigured </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="curlew(n)" lexeme="unjoint(v)"> a Curlew vnioynted </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="bittern(n)" lexeme="untack(v)"> a Byctore vntached </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="pheasant(n)" lexeme="allay(v)"> a Fesant eyled </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="partridge(n)" lexeme="allay(v)"> a Partriche eyled </form> <xpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="woodcock(n)" lexeme="thigh(v)"> a Wodecok thyed </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="all(a)" lexeme="small(a)" lexeme="bird(n)" lexeme="thigh(v)"> alle smale birdes thyed </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="pig(n)" lexeme="head(v)" lexeme="and(c)" lexeme="side(v)"> a Pigge heded &amp; syded </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="lamb(n)" lexeme="kid(n)" lexeme="shoulder(v)"> a lambe &amp; kyde shuldred </form> <xpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="hart(n)" lexeme="he(pr)" lexeme="chase(v)"  lexeme="will(v)" lexeme="desire(v)" lexeme="to(im)" lexeme="have(v)" lexeme="river(n)" lexeme="as(adv)" lexeme="soon(adv)" lexeme="take(v)" lexeme="sull(v)" lexeme="over(adv)" lexeme="cross(v)" lexeme="return(v)" lexeme="recross(v)" lexeme="with(pp)" lexeme="stream(n)" lexeme="again(adv)" lexeme="beat(v)" lexeme="else(adv)" lexeme="fleet(v)" lexeme="break(v)" lexeme="flee(v)"> A herte yf he be chasid he 
+will desire to haue a riuer 
+Assene as he taketh the 
+Riuer he suleth / yf he take 
+ouer the ryuer he crossith
+Yf he retorne he recrosseth
+And yf he take with 
+the streme he fleteth 
+Yf he take agayn the stre&shy;
+me he beteth or els breketh
+Yf he take the londe he 
+fleeth.</form> <xpln>
+</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+Explicit
+</closing> 
+</page>
+</leme>

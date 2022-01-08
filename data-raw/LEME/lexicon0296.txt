@@ -1,0 +1,392 @@
+<leme no="296">
+<set tag="expression" lang="ct">
+
+<page sig="c3v">
+....
+
+<f type="bl">They haue a language among themselues, composed
+of <f type="r">omnium gatherum<f type="bl">; a glimmering whereof one of late
+daies hath endeuoured to manifest, as farre as his Au&shy;
+thour is pleased to be an intelligencer; The substance
+whereof, he leaueth for those that will dilate thereof, en&shy;
+ough for him to haue the praise, other the paines, not&shy;
+withstanding <f type="r">Harmans<f type="bl"> ghost continually clogging his
+conscience with <f type="r">Sic vos non vobis.
+
+....
+</page>
+
+<page sig="e1v">
+....
+
+<f type="bl">Suppose now by this the greatest part of them are
+sayling on the blacke Sea, what will become of them,
+how they arriued, how entertained by the Inhabitants 
+there, and of their prosperous voyage, you shall heare at 
+the next boat-post. In the meane time, because the Bel&shy;
+man entreateth any that is more rich in canting, to lend
+him better or more with variety, he will repay his loue
+double: I haue thought good not only to shew his errour
+in some places in setting downe olde wordes vsed fortie
+yeeres agoe before he was borne; for wordes that are
+vsed in these dayes (although he is bold to call me an v&shy;
+surper (for so he doth in his last round) and not able to
+maintayne the title) But haue enlarged his Dictionary
+(or Master <f type="r">Harmans<f type="bl">) with such wordes as I thinke hee
+neuer heard of (and yet in vse too) but not out of vaine
+glorie, as his ambition is, but indeede as an experienced
+souldier that hath deerely paid for it: and therefore it
+shall be honour good enough for him (if not too good) to
+come vp with the Reare (I doe but shoote your owne ar&shy;
+row backe againe) and not to haue the leadyng of the 
+Van as he meanes to doe, although small credite in the 
+end will redound to eyther.
+
+You shall know the wordes not set in eyther his Dic&shy;
+tionaries by this marke &sect;: and for shewing the errour
+in his words, and true englishing of the same and other,
+this marke &para; shall serue.
+
+<wordgroup1 type="a">
+&sect; <wordentry type="h"><form lang="ct" lexeme="abram(a)">Abram</form> <xpln lexeme="mad(a)"> madde.</xpln></wordentry>
+</page>
+
+<page sig="e2r">
+&sect; <wordentry type="h"><form lang="ct">He maunds Abram,</form> <xpln> he begs as a madde man. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="autem(n)">Autem</form> <xpln lexeme="church(n)"> the Church. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="autem mort(n)">Autem mort,</form> <xpln lexeme="married woman(n)"> a married woman. </xpln></wordentry>
+
+&para; <wordentry type="h"><form lang="ct" lexeme="bung(n)">Bung</form> <xpln lexeme="pocket(n)" lexeme="purse(n)"> is now vsed for a pocket, heretofore for a purse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="boord(n)">Boord</form> <xpln lexeme="shilling(n)"> a shilling. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="half a boord(n)">Halfe a Boord,</form> <xpln lexeme="sixpence(n)"> sixepence. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bowse(n)">Bowse</form> <xpln lexeme="drink(n)"> drinke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bowsing ken(n)">Bowsing ken,</form> <xpln lexeme="ale-house(n)"> an Ale-house</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ben(a)">Ben</form> <xpln lexeme="good(a)"> good. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="benship(a)">Benship</form> <xpln lexeme="very good(a)"> very good. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="buffa(n)">Buffa</form> <xpln lexeme="dog(n)"> a Dogge. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="bing a wast(v)">Bing a wast,</form> <xpln> get you hence. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="budge a beake(v)">Budge a beake,</form> <xpln lexeme="run away(v)"> runne away. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="bite(n)">A Bite, </form> <xpln> secreta () mulierum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="caster(n)">Caster</form> <xpln lexeme="clock(n)"> a Clocke. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="crackmans(n)">Crackmans</form> <xpln lexeme="hedge(n)"> the hedge. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="comission(n)">Comission</form> <xpln lexeme="shirt(n)"> a shirt. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="castell(v)">To Castell,</form> <xpln lexeme="see(v)" lexeme="look(v)"> to see or looke. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="roome cuttle(n)">A Roome Cuttle,</form> <xpln lexeme="sword(n)"> a sword. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="cuttle bung(n)">A Cuttle bung,</form> <xpln> a knife to cut a purse. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="chepemans(pn)">Chepemans,</form> <xpln lexeme="Cheape-side Market(pn)"> Cheape-side market. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cut(v)">To Cut</form> <xpln lexeme="tell(v)" lexeme="call(v)">, to tell or call. </xpln></wordentry>
+
+&para; <wordentry type="h"><form lang="ct" lexeme="cut me ben whids(v)">Cut me ben whids,</form> <xpln> tell me truth. </xpln></wordentry>
+
+&para; <wordentry type="h"><form lang="ct" lexeme="cut quire whids(v)">To Cut quire whids,</form> <xpln lexeme="lie(v)"> to lie. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="crashing cheates(n)">Crashing Cheates,</form> <xpln lexeme="apple(n)"> Apples. </xpln></wordentry>
+
+&para; <wordentry type="h"><form lang="ct" lexeme="chates(n)">Chates,</form> <xpln lexeme="gallows(n)" lexeme="treyning cheate(n)"> the Gallowes: here he mistakes both the sim&shy;
+ple word, because he so found it printed, not knowing 
+the true <emend err="orginall">originall</emend> thereof, and also in the compound;
+as for <term>Chates</term> it should be <term>Cheates</term>, which word is vsed
+generally for things, as <term>Tip me that Cheate</term>, Giue me
+that thing: so that if you will make a word for the 
+Gallous, you must put thereto this word <term>Treyning</term>,
+which signifies hanging; and so <term>Treyning Cheate</term> is as
+much to say, hanging things, or the Gallous, and not
+<term>Chates</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="coue(n)">Coue</form> <xpln lexeme="man(n)"> a man. </xpln></wordentry>
+</page>
+
+<page sig="E2v">
+&para; <wordentry type="h"><form lang="ct" lexeme="cowch a hogshead(v)">Cowch a Hogshead,</form> <xpln lexeme="slope(v)" lexeme="sleep(v)" lexeme="liggen(v)" lexeme="lie down(v)"> to lie downe and sleepe: this phrase
+is like an Alminacke that is out of date: now the 
+duch word to <term>slope</term> is with them vsed, to sleepe, and <term>lig&shy;
+gen</term> to lie downe. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="crancke(n)">Crancke,</form> <xpln lexeme="falling sickeness(n)" lexeme="counterfeit cranck(n)"> the falling sickenesse: and thereupon your
+Rogues that counterfeit the falling sickenes, are cal&shy;
+led counterfeit <term>Crancks.</term> </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="cly the iarke(v)">To Cly the Iarke,</form> <xpln lexeme="whipped, to be(n)"> to be whipped. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="drawers(n)">Drawers</form> <xpln lexeme="hosen(n)"> Hosen. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dudes(n)">Dudes</form> <xpln lexeme="clothes(n)"> Clothes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="darkemans(n)">Darkemans</form> <xpln lexeme="night(n)"> the night. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dewsauell(n)">Dewsauell</form> <xpln lexeme="country(n)"> the Countrey. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="dup the gigger(n)">Dup the gigger,</form> <xpln> open the doore. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="fflicke(n)">A fflicke</form> <xpln lexeme="thief(n)"> a Theefe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fambles(n)">Fambles</form> <xpln lexeme="hands(n)"> hands. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="fambling cheates(n)">Fambling Cheates,</form> <xpln lexeme="rings(n)"> Rings. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="famblers(n)">Famblers,</form> <xpln lexeme="gloves, pair of(n)"> a paire of Gloues. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="filch(v)">To Filch,</form> <xpln lexeme="beat(v)"> to beate. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="filchman(n)">A Filchman, </form> <xpln lexeme="cudgel(n)" lexeme="staff(n)"> a cudgell or staffe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="flag(n)">Flag,</form> <xpln lexeme="groat(n)"> a groate. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="fence(v)">To Fence</form> <xpln> properly, to sell any thing that is stolne. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="foyst(v)">To Foyst,</form> <xpln lexeme="pick a pocket(v)"> to picke a pocket. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="feager of loges(n)">A Feager of Loges</form> <xpln> one that beggeth with counterfeit
+writings. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glasiers(n)">Glasiers,</form> <xpln lexeme="eyes(n)"> eyes. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="greenemans(n)">Greenemans</form> <xpln lexeme="fields(n)"> the fields. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gan(n)">Gan</form> <xpln lexeme="mouth(n)"> a mouth. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gage(n)">Gage</form> <xpln lexeme="quart pot(n)"> a quart pot. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="granam(n)">Granam</form> <xpln lexeme="corn(n)"> Corne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="glymmer(n)">Glymmer</form> <xpln lexeme="fire(n)"> Fire. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gigger(n)">Gigger</form> <xpln lexeme="door(n)"> a doore. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="gilkes for the gigger(n)">Gilkes for the gigger,</form> <xpln> false keyes for the doore or pick&shy;
+lockes. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="Gracemans(pn)">Gracemans,</form> <xpln lexeme="Gratious Street market(pn)"> Gratious streete market. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gentry mort(n)">Gentry mort,</form> <xpln lexeme="gentlewoman(n)"> a Gentlewoman. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="gentry cous ken(n)">Gentry Cous ken,</form> <xpln> a Gentlemans house. </xpln></wordentry>
+</page>
+
+<page sig="e3r">
+<wordentry type="h"><form lang="ct" lexeme="harman becke(n)">Harman becke</form> <xpln lexeme="constable(n)">  the Constable. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="harmons(n)">Harmons</form> <xpln lexeme="stocks(n)"> the stockes. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="iockam(n)">Iockam</form> <xpln lexeme="yard, man's(n)"> a mans yard. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="ian(n)">Ian</form> <xpln lexeme="purse(n)"> a purse. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="iere(n)">Iere</form> <xpln lexeme="turd(n)"> a Turd. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ken(n)">Ken</form> <xpln lexeme="house(n)"> an house. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stawling ken(n)">Stawling ken,</form> <xpln> a house to receiue stolne goods, or a dwel&shy;
+ling house. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="lugges(n)">Lugges</form> <xpln lexeme="ear(n)"> eares. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lagge of dudes(n)">Lagge of dudes,</form> <xpln lexeme="buck of clothes(n)"> a bucke of clothes. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="loges(n)">Loges</form> <xpln lexeme="pass(n)" lexeme="warrant(n)"> a passe or warrant. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="feager of loges(n)">A Feager of loges,</form> <xpln>  one that beggeth with false passes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lybbeg(n)">Lybbeg</form> <xpln lexeme="bed(n)"> a bedde. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lower(n)">Lower</form> <xpln lexeme="money(n)"> money. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lybkin(n)">Lybkin</form> <xpln> a house to lodge people. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lagge(n)">Lagge</form> <xpln lexeme="water(n)" lexeme="piss(n)">  water or pisse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="lightmans(n)">Lightmans</form> <xpln lexeme="day(n)"> the day. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="mynt(n)">Mynt</form> <xpln lexeme="gold(n)">  gold. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="muggill(n)">The Muggill,</form> <xpln lexeme="beadle(n)">  the Beadle. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="make(n)">Make</form> <xpln lexeme="halfpenny(n)"> an halfpenny. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="maunding(n)">Maunding</form> <xpln lexeme="begging(n)"> begging. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct">What maund doe you breake,</form> <xpln> what kind of begging vse
+you? </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct">Ile myll your maund,</form> <xpln> Ile spoyle your begging. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="nip an ian(v)">To nip a Ian,</form> <xpln lexeme="cut a purse(v)"> to cut a purse. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="nab(n)">Nab</form> <xpln lexeme="head(n)"> a head. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="nab cheate(n)">Nab cheate</form> <xpln lexeme="hat(n)"> an hat. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="Numans(pn)">Numans</form> <xpln lexeme="Newgate Market(pn)"> Newgate market. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="nigling(n)">Nigling,</form> <xpln lexeme="wapping(n)" lexeme="wapping mort(n)" lexeme="whore(n)"> company keeping with a woman: this word
+is not vsed now, but <term>wapping</term>, and thereof comes the
+name <term>wapping morts</term> Whoores. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prat(n)">Prat</form> <xpln lexeme="buttock(n)"> a Buttocke. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="your prat whids romely(v)">Your prat whids Romely,</form> <xpln> you fart lustily. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="pecke(n)">Pecke</form> <xpln lexeme="meat(n)" lexeme="peckage(n)" lexeme="eat(v)" lexeme="bite(v)"> meate, <term>pecke</term> is not meate but <term>peckage, pecke</term> is
+taken to eate or byte: <term>as the Buffa peckes me by the 
+stampes</term>, the dogge bites me by the shinnes. </xpln></wordentry>
+</page>
+
+<page sig="e3v">
+<wordentry type="h"><form lang="ct" lexeme="ruff peck(n)">Ruff peck</form> <xpln lexeme="bacon(n)">  Bacon. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="peckage(n)">Peckage</form> <xpln lexeme="meat(n)" lexeme="scroofe(n)" lexeme="scrap(n)">  meat or <term>Scroofe</term> scraps. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="plant(v)">To Plant</form> <xpln lexeme="hide(v)"> to hide. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="stow your whids and plant(v)">Stow your whids and plant</form> <xpln> </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="coue of the ken can kant(v)">The Coue of the ken can kant.</form> <xpln> </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prauncer(n)">Prauncer</form> <xpln lexeme="horse(n)"> an horse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="prigging(n)">Prigging</form> <xpln lexeme="riding(n)"> riding. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="patrico(n)">Patrico</form> <xpln lexeme="priest(n)"> a Priest. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="pad(n)">Pad</form> <xpln lexeme="way(n)"> a Way. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="padder(n)">Padder</form> <xpln lexeme="high-way robber(n)" lexeme="purse taker(n)"> an high-way robber or purse taker. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="quire(n)">Quire,</form> <xpln  lexeme="naught(n)"> this word is alwayes taken in il sense for naught</xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="quire ken(n)">Quire ken</form> <xpln lexeme="prison house(n)"> a prison house. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="quire bowse(n)">Quire bowse</form> <xpln> bad drinke. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="what a quire whidding keepe you(v)">What a quire whidding keepe you,</form> <xpln> what a scolding keep 
+you? </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="quarroms(n)">Quarroms</form> <xpln lexeme="body(n)" lexeme="arms(n)" lexeme="back(n)"> the body, or armes, or backe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="roome vile(n)">Roome vile</form> <xpln lexeme="London(pn)"> a great towne, commonly taken for London. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="roome bowse(n)">Roome bowse</form> <xpln lexeme="wine(n)"> wine: this word is alwayes taken in the
+best sense, to shew a thing extraordinary or excellent. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="roome bowsin ken(n)">Roome bowsin ken,</form> <xpln lexeme="tavern(n)"> a Tauerne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="roome mort(n)">Roome mort</form> <xpln lexeme="queen(n)" lexeme="gentlewoman(n)" lexeme="roome coue(n)" lexeme="gentleman(n)"> a Queene or Gentlewoman, and so <term>Roome
+Coue</term> a Gentleman. </xpln></wordentry>
+
+&para; <wordentry type="h"><form lang="ct" lexeme="ruffmans(n)">Ruffmans,</form> <xpln lexeme="hedge(n)" lexeme="cragmans(n)" lexeme="eavesing(n)"> not the hedge or bushes as heretofore: but
+now the eauesing of houses or roofes: <term>Cragmans</term> is
+now vsed for the hedge. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="ruffian(n)">Ruffian</form> <xpln lexeme="devil(n)"> the diuell. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="scrappes(n)" lexeme="bittes, fatte and glorious(n)">Scrappes, fatte and glorious bittes:</form> <xpln lexeme="bangings(n)"> sound blowes and 
+bangings. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="muggill will tip  you fat fat scraps and glorious bits(n)">The muggill will tip you fat scraps and glorious bits, </form> <xpln> the
+Beadle will well bumbast you. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stampes(n)">Stampes</form> <xpln lexeme="leg(n)"> legges. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stampers(n)">Stampers</form> <xpln lexeme="shoe(n)"> shooes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="slate(n)">Slate</form> <xpln lexeme="sheet(n)"> a sheete. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="scew(n)">Scew</form> <xpln lexeme="cup(n)" lexeme="glass(n)" lexeme="dish(n)"> a Cuppe or Glasse, a Dish or any thing to drinke
+in. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="skipper(n)">Skipper</form> <xpln lexeme="barn(n)"> a barne. </xpln></wordentry>
+</page>
+
+<page sig="e4r">
+&para; <wordentry type="h"><form lang="ct" lexeme="salomon(n)">Salomon</form> <xpln lexeme="mass(n)"> the masse: Now when many doe presse the
+poore rogues so earnestly to sweare by the <term>Salomon</term>, doe
+not blame them though they refuse it; for although you
+know not what it meanes, yet they very well know:
+Many men I haue heard take this word <term>Soloman</term> to be
+the chiefe commander among the beggers; but to put
+them out of doubt, this is not he: marry there was one
+<term>Soloman</term> in K.HENRY the eights time that was a iol&shy;
+ly fellow among them, who kept his Court most an end
+at Foxe Hall at the vpper end of Lambeth (if it be true
+as their Records make mention) who was Succes&shy;
+sour to <term>Cocke Lorrell</term>: of him and his successors much
+is to bee spoken if licence may be graunted, and of
+whose Ruannagate race I could frame a whole trea&shy;
+tise: but here enough. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="stander(n)">A Stander,</form> <xpln  lexeme="pad(n)" lexeme="highway(n)"> he that stands sentinel vpon the <term>Pad</term> or high&shy;
+way to robbe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="stromell(n)">Stromell</form> <xpln lexeme="straw(n)"> the straw. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="spreader(n)">Spreader</form> <xpln lexeme="butter(n)"> butter. </xpln></wordentry>
+
+&para; <wordentry type="h"><form lang="ct" lexeme="smellar(n)">Smellar</form> <xpln lexeme="garden(n)" lexeme="smelling cheate(n)" lexeme="nosegay(n)"> a garden, not <term>Smelling cheate</term>, for thats a Nose&shy;
+gay. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="treyning(n)">Treyning</form> <xpln lexeme="hanging(n)"> hanging. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="treyning cheate(n)">Treyning cheate</form> <xpln lexeme="gallows(n)"> the gallous. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="tip(v)">To tip</form> <xpln lexeme="give(v)"> to giue. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="tip a make ben Roome Coue(v)">Tip a make ben Roome Coue,</form> <xpln> giue a halfepeny good
+Gentleman. </xpln></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="tower(v)" lexeme="castell(v)">To tower or Castell</form> <xpln lexeme="see(v)"> to see. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="whid(v)">To whid</form> <xpln lexeme="speak(v)"> to speake. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="winne(n)">A Winne</form> <xpln lexeme="penny(n)"> a penny. </xpln></wordentry>
+
+&sect; <wordentry type="h"><form lang="ct" lexeme="Whittington(pn)">Whittington</form> <xpln lexeme="Newgate(pn)"> Newgate. </xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lang="ct" lexeme="yarrim(n)">Yarrim</form> <xpln lexeme="pottage(n)" lexeme="milk(n)"> pottage or milke. </xpln></wordentry>
+</wordgroup1>
+
+And thus haue I runne ouer the Canters Dictiona&shy;
+ry, to speake more at large, would aske more time then
+I haue allotted me, yet in this short time that I haue, I
+meane to sing song for song with the Belman, ere I 
+wholly leaue him.
+</page>
+
+<page sig="f4v">
+....
+<wordgroup1 type="u">
+<wordentry type="h"><form lexeme="lawyer, high(n)" lexeme="padder(n)">He [Puffing Dicke] gaue termes to robbers by the high way,
+such as robbe on horse-backe were called high lawy&shy;
+ers, and those who robbed on fote, he called Padders: </form> <xpln>
+the difference of these two sorts of villanes is this.
+
+The first sort are called Gent. robbers or theeues;
+and these ride on horses well appointed, and goe in shew
+like honest men: the other robbe on foote, and haue no 
+other helpe but a paire of light heeles and a thicke woode. 
+</xpln></wordentry>
+</wordgroup1>
+
+....
+</page>
+</leme>

@@ -1,0 +1,1351 @@
+<leme no="767">
+<page no="a1r">
+<section type="Titlepage">
+The Praise of 
+York-shire Ale
+
+Wherein is enumerated several Sorts of 
+Drinks, with a Discription of 
+the Humors of most sorts 
+of Drunckards.
+
+TO 
+VVhich is added, a York-shire Dialogue, in its pure 
+natural Dialect, as it is now commonly spo&shy;
+ken in the North parts of York-shire.
+
+BEING 
+A Miscellanious Discourse or Hotch-potch of 
+Several Country Affairs, begun by a Daughter 
+and her Mother, and continued by the Father, 
+Son, Uncle, Neece, and Land-Lord: after which 
+follows a Scold between Nell and Bess, two York-&shy;
+shire women.
+
+Corrected and Amended, with large Additions in ma&shy;
+ny places throughout the whole Book, by the Au&shy;
+thor, And after all, a Clavis explaining the 
+meaning of all the York-shire words in the Dia&shy;
+logue.
+
+By G. M. Gent.
+
+YORK, Printed by J. White, for Francis Hil&shy;
+yard, at the Signe of the Bible in Stonegate, 1685.
+</section>
+</page>
+
+<page no="79">
+<heading>
+An Alphabetical 
+CLAVIS, 
+U<emend err="u"></emend>nfolding the Meaning of all the 
+York-shire 
+Words made use of in the aforegoing 
+DIALOGUE.
+</heading>
+
+<section type="Clavis">
+<wordgroup1 type="a" object="A"><alpha>A.</alpha>
+
+<wordentry type="h"><form lang="yk">ISe Arfe;</form> <xpln lang="en" lexeme="I am afraid(a)"> that is I am afraid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Auters;</form> <xpln lang="en" lexeme="strange work(n)" lexeme="strange thing(n)"> signifies strange work, or 
+strange things.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Amell;</form> <xpln lang="en" lexeme="between(pp)"> is Between.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Awne;</form> <xpln lang="en" lexeme="own(pr)"> Signifies own.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Rive all dawds;</form> <xpln lang="en" lexeme="tear(v)"> is to tear all in 
+pieces.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ackwards;</form> <xpln lang="en" lexeme="lie backwards(v)"> is when a beast lies back&shy;
+wards and cannot rise.</xpln></wordentry>
+</page>
+<page no="80">
+
+<wordentry type="h"><form lang="yk">What ailes this deaur;</form> <xpln lang="en" lexeme="what's the matter with his door(n)"> is what's the 
+matter with this door.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Aumry;</form> <xpln lang="en" lexeme="cupboard(n)"> is a Cupboard to put bread 
+or meat in.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Awd;</form> <xpln lang="en" lexeme="old(a)"> is Old.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Awdfarrand;</form> <xpln lang="en" lexeme="grave(a)" lexeme="sober(a)"> is grave and sober.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Aboon;</form> <xpln lang="en" lexeme="above(pp)"> is above,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To set one Agog;</form> <xpln lang="en" lexeme="long(v)" lexeme="desire(v)"> is to make one long or 
+desire,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Asta;</form> <xpln lang="en" lexeme="thou(pr)"> Signifies as thou,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Atchison;</form> <xpln lang="en" lexeme="scotch coin(n)"> is a Scot'ch Coyne worth 
+fower Bodles,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Arvill;</form> <xpln lang="en" lexeme="funeral(n)"> is a Funeral.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To look Agye</form> <xpln lang="en" lexeme="look aside(v)"> is to look aside.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha>
+<wordentry type="h"><form lang="yk">A Barne;</form> <xpln lang="en" lexeme="child(n)"> is a Child,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Battin;</form> <xpln lang="en" lexeme="straw(n)"> is the Straw of two 
+Sheaves foulded together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Behawfe;</form> <xpln lang="en" lexeme="behalf(n)"> is behalf.</xpln></wordentry>
+</page>
+<page no="81">
+
+<wordentry type="h"><form lang="yk">To Batt'n;</form> <xpln lang="en" lexeme="feed(v)" lexeme="like(v)"> signifies to feed or like 
+well.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Beestlings;</form> <xpln lang="en" lexeme="first milk after calving(n)"> is the first milk after Calv&shy;
+ing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Belive;</form> <xpln lang="en" lexeme="evening(n)"> is in the Evening,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Burne,</form> <xpln lang="en" lexeme="water(n)"> is water.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To blend,</form> <xpln lang="en" lexeme="mix(v)" lexeme="put together(v)"> is to mix or put together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Baurghwans,</form> <xpln lang="en" lexeme="horse collar(n)"> are horse Collars,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To bide billinge at,</form> <xpln lang="en" lexeme="abide working at(v)"> is to abide work&shy;
+ing at.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Breckins,</form> <xpln lang="en" lexeme="fern(n)"> signifies Fearn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Bauke,</form> <xpln lang="en" lexeme="balk(n)"> is a Balke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Blendings,</form> <xpln lang="en" lexeme="bean(n)" lexeme="pea(n)"> are Beans and Pease mixed 
+together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Bigg,</form> <xpln lang="en" lexeme="barley(n)"> is of the nature of Barly, and 
+makes good Malt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Bull segg,</form> <xpln lang="en" lexeme="bull(n)"> is a gelded Bull,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Backon,</form> <xpln lang="en" lexeme="bacon(n)"> is Bacon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Beclarted,</form> <xpln lang="en" lexeme="besmear(v)" lexeme="bedaub(v)"> is Besmeared or Bedaub&shy;
+ed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A bend Kitt,</form> <xpln lang="en" lexeme="can(n)"> is a kind of a great Can 
+with a Cover.</xpln></wordentry>
+</page>
+
+<page no="82">
+<wordentry type="h"><form lang="yk">A Bleacher,</form> <xpln lang="en" lexeme="whitester(n)"> is a whitester of Cloath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Bakin,</form> <xpln lang="en" lexeme="corn(n)"> is Corn put up to send to the 
+Mill for bread.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Beck,</form> <xpln lang="en" lexeme="river(n)"> is a River.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Bannocks,</form> <xpln lang="en" lexeme="cake(n)"> are Cakes baked before the 
+fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Back-stone,</form> <xpln lang="en" lexeme="stone(n)" lexeme="iron(n)"> is a stone or iron to bake 
+Cakes on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Blithe,</form> <xpln lang="en" lexeme="glad(a)"> is glad.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Breests,</form> <xpln lang="en" lexeme="breast(n)"> are breasts.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Brawne,</form> <xpln lang="en" lexeme="boar(n)"> is a Boar.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Booke and bane,</form> <xpln lang="en" lexeme="lusty(a)" lexeme="strong(a)"> signifies lusty and 
+strong.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To bleare,</form> <xpln lang="en" lexeme="roar(v)" lexeme="cry(v)"> is to roar and cry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Twolve Bodles,</form> <xpln lang="en" lexeme="two pence(n)"> signifies two pence,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To be browden on a thing,</form> <xpln lang="en" lexeme="fond(a)"> is to be fond on a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Birlady,</form> <xpln lang="en" lexeme="by our lady(ex)"> is by our Lady.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A batting stock,</form> <xpln lang="en" lexeme="beating stock(n)"> is a beating stock,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Beath,</form> <xpln lang="en" lexeme="both(a)"> is both.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Breau,</form> <xpln lang="en" lexeme="brewis(n)"> is supping Meat, or Gravy and 
+fat for brewis, &amp;.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="83">
+<wordgroup1 type="a" object="C"><alpha>C.</alpha>
+<wordentry type="h"><form lang="yk">CRockie,</form> <xpln lang="en" lexeme="scotch cow(n)"> is a little Scotch Cowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Cawven,</form> <xpln lang="en" lexeme="calved(a)"> is Calved.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Cowe cleening,</form> <xpln lang="en" lexeme="bag(n)"> is the bag that hangs 
+at the Cows Box after she hath new 
+Calved.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Cawfe,</form> <xpln lang="en" lexeme="calf(n)"> is a Calfe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Cawd,</form> <xpln lang="en" lexeme="cold(a)"> is cold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Caell,</form> <xpln lang="en" lexeme="potage(n)"> are Potage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Ceauke,</form> <xpln lang="en" lexeme="cook(v)"> is to Cook.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Clawt;</form> <xpln lang="en" lexeme="tear(v)" lexeme="pull(v)"> is to tear or pull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Cassons,</form> <xpln lang="en" lexeme="cow turd(n)"> are dryed Cow turds,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Caffe,</form> <xpln lang="en" lexeme="chaff(n)"> is Chaffe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Like to clem,</form> <xpln lang="en" lexeme="dry(a)"> is very dry ready to 
+choak.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Carle Cat,</form> <xpln lang="en" lexeme="dog-cat(n)"> is a dog-Cat, or Hee 
+Cat.</xpln>
+<lemenote> "dog-cat(n)" not found in OED. </lemenote></wordentry>
+
+<wordentry type="h"><form lang="yk">Nought Cottens weell,</form> <xpln lang="en" lexeme="nothing goes right(n)"> is Nothing goes 
+right.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Cud,</form> <xpln lang="en" lexeme="can(v)"> is could.</xpln></wordentry>
+</page>
+
+<page no="84">
+<wordentry type="h"><form lang="yk">Chaumber,</form> <xpln lang="en" lexeme="chamber(n)"> is a Chamber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Crawe,</form> <xpln lang="en" lexeme="crake(n)" lexeme="crow(n)"> or a Crake, is a Crow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Cover,</form> <xpln lang="en" lexeme="recover(v)"> is to recover.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Clathes,</form> <xpln lang="en" lexeme="clothes(n)"> are Clothes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Cumber,</form> <xpln lang="en" lexeme="trouble(n)"> is trouble.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Caingel,</form> <xpln lang="en" lexeme="toothy crabbed fellow(n)"> is a toothy crabbed fel&shy;
+low.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To keep a clutter,</form> <xpln lang="en" lexeme="make a great stir(v)"> is to make a great
+stir.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Coyea,</form> <xpln lang="en" lexeme="quoth you(v)"> is quoth you.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Ceaul,</form> <xpln lang="en" lexeme="cool(v)"> is to cool.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Clapperclawe,</form> <xpln lang="en" lexeme="work(v)" lexeme="beat(v)" lexeme="fight(v)"> is to work earnestly 
+or beat or Fight earnestly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Crammer,</form> <xpln lang="en" lexeme="bowl sewer(n)"> is a Bowle sewer.</xpln>
+<lemenote> "bowl sewer(n)" not found in OED. </lemenote></wordentry>
+
+<wordentry type="h"><form lang="yk">To Cool ones Haggas,</form> <xpln lang="en" lexeme="beat one soundly(v)"> is to beat one 
+soundly.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>
+<wordentry type="h"><form lang="yk">ISe dinge,</form> <xpln lang="en" lexeme="I shall beat(v)"> that is I shall beat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Deft,</form> <xpln lang="en" lexeme="pretty(a)"> is pritty.</xpln></wordentry>
+</page>
+
+<page no="85">
+<wordentry type="h"><form lang="yk">Daft,</form> <xpln lang="en" lexeme="fond(a)" lexeme="foolish(a)"> is fond or foolish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Deaun,</form> <xpln lang="en" lexeme="done(a)"> is done.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Dubler,</form> <xpln lang="en" lexeme="dish to lay meat on(n)"> is a Dish to lay Meat on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Dench'd,</form> <xpln lang="en" lexeme="finely mouthed(a)" lexeme="curious(a)"> is finely Mouthed or Curi&shy;
+ous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Draffe,</form> <xpln lang="en" lexeme="grain(n)"> is Graines.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Deau,</form> <xpln lang="en" lexeme="do(v)"> is do.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Deaur,</form> <xpln lang="en" lexeme="door(n)"> is a door.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Degg-bound,</form> <xpln lang="en" lexeme="swell in the belly(v)"> is mightily swelled in the 
+Belly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Dittin,</form> <xpln lang="en" lexeme="mortar(n)"> is Morter to stop up the Oven 
+withal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Dayugh,</form> <xpln lang="en" lexeme="dough(n)"> is Dough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Deet,</form> <xpln lang="en" lexeme="wipe(v)" lexeme="make clean(v)"> is to wipe and make clean.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Dodd Sheep,</form> <xpln lang="en" lexeme="cut wool away(v)"> is to cut the wool away 
+about their Tailes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Datther,</form> <xpln lang="en" lexeme="tremble with cold(v)"> is to Tremble with 
+cold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Duz,</form> <xpln lang="en" lexeme="do(v)"> signifies does.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Deftly,</form> <xpln lang="en" lexeme="softly(adv)" lexeme="leisurely(adv)"> is softly or leasurely.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Dovening,</form> <xpln lang="en" lexeme="slumber(n)"> is a slumber.</xpln></wordentry>
+</page>
+
+<page no="86">
+<wordentry type="h"><form lang="yk">Din,</form> <xpln lang="en" lexeme="noise(n)"> is noyse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Durdam,</form> <xpln lang="en" lexeme="noise(n)" lexeme="stir(n)"> is a great noyse or stir.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To dree,</form> <xpln lang="en" lexeme="hold out(v)" lexeme="be able to go(v)"> is to hold out, or be able 
+to go.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A dree way of,</form> <xpln lang="en" lexeme="long way off(n)"> is a long way off,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A drape,</form> <xpln lang="en" lexeme="cow to be fatted(n)"> is a Cow to be fatted that 
+gives no milk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Dike,</form> <xpln lang="en" lexeme="pond(n)"> is a little Pond or watery place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Don,</form> <xpln lang="en" lexeme="put ones clothes on(v)"> is to put ones Clothes on,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A dozand leauke,</form> <xpln lang="en" lexeme="old withered look(n)"> is an old withered 
+look.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Dusta,</form> <xpln lang="en" lexeme="does thou(v)"> is does thou.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Driblets,</form> <xpln lang="en" lexeme="small inconsiderable thing(n)"> are small inconsiderable 
+things.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Dowl'd,</form> <xpln lang="en" lexeme="dead(a)" lexeme="flat(a)"> is dead or flatt, and not 
+brisk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Drust,</form> <xpln lang="en" lexeme="dress(v)"> signifies drest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To deck one self,</form> <xpln lang="en" lexeme="trim(a)" lexeme="five(a)"> is to make them trim 
+and fine.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="87">
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>
+
+<wordentry type="h"><form lang="yk">EEn,</form> <xpln lang="en" lexeme="eye(n)"> are Eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ewes,</form> <xpln lang="en" lexeme="udder(n)"> is an Udder,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ey, ey;</form> <xpln lang="en" lexeme="yes, yes(adv)"> is Yes, Yes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Eard,</form> <xpln lang="en" lexeme="earth(n)"> is Earth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ewn,</form> <xpln lang="en" lexeme="oven(n)"> is an Oven,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Earnder,</form> <xpln lang="en" lexeme="forenoon(n)"> is the forenoon,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Eldin,</form> <xpln lang="en" lexeme="wood(n)" lexeme="stick(n)"> is Wood and sticks for the fire,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Eath,</form> <xpln lang="en" lexeme="easy(a)"> is easie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Earning,</form> <xpln lang="en" lexeme="rennet(n)"> is Rennet to make Cheese with&shy;
+all.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha>
+<wordentry type="h"><form lang="yk">FLaid,</form> <xpln lang="en" lexeme="afraid(a)"> is afraid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Feaut,</form> <xpln lang="en" lexeme="soot(n)"> is a foot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fra,</form> <xpln lang="en" lexeme="from(pp)"> is from</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Finnd,</form> <xpln lang="en" lexeme="find(v)"> is find.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fawt,</form> <xpln lang="en" lexeme="fault(n)"> is fault.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Faine,</form> <xpln lang="en" lexeme="glad(a)"> is glad.</xpln></wordentry>
+</page>
+
+<page no="88">
+<wordentry type="h"><form lang="yk">Feawls,</form> <xpln lang="en" lexeme="fool(n)"> is Fooles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fund,</form> <xpln lang="en" lexeme="find(v)"> is found.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Flung,</form> <xpln lang="en" lexeme="throw(v)"> is thrown.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fleaure,</form> <xpln lang="en" lexeme="floor(n)"> is floor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Faugh,</form> <xpln lang="en" lexeme="fallow(n)"> is Fallow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fondly,</form> <xpln lang="en" lexeme="foolishly(adv)"> is foolishly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fowkes,</form> <xpln lang="en" lexeme="folk(n)"> is Folk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Feck,</form> <xpln lang="en" lexeme="greatest(a)" > is the most or greatest part.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fogg,</form> <xpln lang="en" lexeme="fresh grass(n)"> is fresh Grass that comes after 
+Mowing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Feald,</form> <xpln lang="en" lexeme="hide(v)"> is hid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fruggin,</form> <xpln lang="en" lexeme="pole(n)"> is a Pole to stir in the Oven 
+when it is heated to stir the ashes 
+up.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Flyer,</form> <xpln lang="en" lexeme="laugh(v)"> is to laugh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Feard,</form> <xpln lang="en" lexeme="afraid(a)"> is afraid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To be feld,</form> <xpln lang="en" lexeme="knock down(v)"> is to be knocked down.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Flur'd,</form> <xpln lang="en" lexeme="ruffled(a)"> is all Ruffled.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Flan head,</form> <xpln lang="en" lexeme="broad large head(n)"> is a broad large head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Feausan,</form> <xpln lang="en" lexeme="taste(n)" lexeme="moisture(n)"> is Taste or moisture.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Flowter,</form> <xpln lang="en" lexeme="angry(a)" lexeme="afraid(a)"> is when one is angry or af&shy;
+fraid.</xpln></wordentry>
+</page>
+
+<page no="89">
+<wordentry type="h"><form lang="yk">To Fettle,</form> <xpln lang="en" lexeme="make ready(v)" lexeme="prepare(v)"> is to make ready, or pre&shy;
+pare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Filly,</form> <xpln lang="en" lexeme="young mare(n)" lexeme="foal(n)"> is a Mare Foale, or young 
+Mare,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Fest,</form> <xpln lang="en" lexeme="tie(v)"> is to tye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Flirtigiggs,</form> <xpln lang="en" lexeme="wanton fond lass(v)"> is a wanton fond Lass.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Fell,</form> <xpln lang="en" lexeme="fierce(a)" lexeme="keen(a)"> is fierce and keen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Flight,</form> <xpln lang="en" lexeme="scolding-match(n)"> is a Scoulding-match.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha>
+<wordentry type="h"><form lang="yk">BY Grape,</form> <xpln lang="en" lexeme="grope(v)"> is by grope.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Greet,</form> <xpln lang="en" lexeme="weep(v)"> is to weep.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Geay,</form> <xpln lang="en" lexeme="go(v)"> is go.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Town-gate,</form> <xpln lang="en" lexeme="town street(n)"> is the Town Street.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Gang,</form> <xpln lang="en" lexeme="go(v)"> is go.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Groats,</form> <xpln lang="en" lexeme="oatmeal(n)"> are Oatmeal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Gawts and Gilts,</form> <xpln lang="en" lexeme="hog-pig(n)" lexeme="sow-pig(n)"> are Hog-pigs, and 
+Sow-pigs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Gor,</form> <xpln lang="en" lexeme="miry(a)" lexeme="dirty(a)"> is miery or dirty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Grip'd,</form> <xpln lang="en" lexeme="delve to drain away water(v)"> is delv'd to drain away wa&shy;
+ter.</xpln></wordentry>
+</page>
+
+<page no="90">
+<wordentry type="h"><form lang="yk">Geause,</form> <xpln lang="en" lexeme="goose(n)"> is a Goose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Goame,</form> <xpln lang="en" lexeme="mind(v)"> is to mind.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Grise,</form> <xpln lang="en" lexeme="swine(n)"> is Swine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Girse,</form> <xpln lang="en" lexeme="grass(n)"> is Grass.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Glorr fatt,</form> <xpln lang="en" lexeme="fat(a)"> is very fat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">God Morn,</form> <xpln lang="en" lexeme="good morning to you(ex)"> is a good Morning to you.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Goddeen,</form> <xpln lang="en" lexeme="good evening(ex)"> is a good Evening.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Garne,</form> <xpln lang="en" lexeme="yarn(n)"> is yarne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Gawve,</form> <xpln lang="en" lexeme="stare(v)"> is to stare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Grisely,</form> <xpln lang="en" lexeme="ugly(a)"> is ugly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Gully,</form> <xpln lang="en" lexeme="house knife(n)"> is a house Knife, to cut 
+bread, &amp;.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Gunny and furr'd,</form> <xpln lang="en" lexeme="sore running eye(n)"> is sore running 
+eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Gammerstang,</form> <xpln lang="en" lexeme="foolish wanton girl(n)"> is a great foolish wanton 
+Girle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Greaun,</form> <xpln lang="en" lexeme="month(n)"> is a Month.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Greese,</form> <xpln lang="en" lexeme="stair(n)"> signifies Staires into a Cham&shy;
+ber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Gammashaes,</form> <xpln lang="en" lexeme="cloth stocking(n)"> are course Cloath Stoc&shy;
+kings that butten upon other Stoc&shy;
+kins to keep one warm.</xpln></wordentry>
+</page>
+
+<page no="91">
+<wordentry type="h"><form lang="yk">To Gobble,</form> <xpln lang="en" lexeme="eat greedily(v)"> is to eat greedily.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Glisse,</form> <xpln lang="en" lexeme="sudden sight(n)"> is a sudden sight of a thing 
+by chance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Glead,</form> <xpln lang="en" lexeme="kite(n)"> is a Kite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Granny,</form> <xpln lang="en" lexeme="grandmother(n)"> is a Grand-mother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Glincks and Glimes,</form> <xpln lang="en" lexeme="look cunningly(v)"> signifies to look 
+cunningly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Grath,</form> <xpln lang="en" lexeme="riches(n)"> is Riches.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Godspenny,</form> <xpln lang="en" lexeme="earnest-penny(n)"> is an Earnest-penny,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Gloom,</form> <xpln lang="en" lexeme="frown(v)" lexeme="be sullen(v)"> is to frown and be sullen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Grane,</form> <xpln lang="en" lexeme="groan(v)"> is to groan</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Glent,</form> <xpln lang="en" lexeme="start aside(v)"> is to start aside.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Golore,</form> <xpln lang="en" lexeme="abundance(n)"> is great plenty, or abundance,</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>
+<wordentry type="h"><form lang="yk">TO Hye,</form> <xpln lang="en" lexeme="make haste(v)"> is to make hast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Harnes,</form> <xpln lang="en" lexeme="brain(n)"> signifies Braines,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Hipe,</form> <xpln lang="en" lexeme="push with the head(v)"> is to push with the Head,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Haud,</form> <xpln lang="en" lexeme="hold(v)"> is hold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hame,</form> <xpln lang="en" lexeme="home(n)"> is Home,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hobb,</form> <xpln lang="en" lexeme="robert(n)"> is Robert.</xpln></wordentry>
+</page>
+
+<page no="92">
+<wordentry type="h"><form lang="yk">Haver,</form> <xpln lang="en" lexeme="oat(n)"> is Oates</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Hurn,</form> <xpln lang="en" lexeme="hole behind the chimney(n)"> is a hoal behind the Chim&shy;
+ney.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hinderends,</form> <xpln lang="en" lexeme="offal of corn(n)"> are the Offall of Corn when 
+it is winnowed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Haet,</form> <xpln lang="en" lexeme="hot(a)"> is hot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hames,</form> <xpln lang="en" lexeme="horse collar(n)"> are the crooked pieces of wood 
+that are put upon Horse Collars.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Hopper,</form> <xpln lang="en" lexeme="seed-lip(n)"> is a Seed-lip, or Basket 
+the Husband-men put their Seed&shy;
+Corn in, when they sowe their 
+Land.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Hemble,</form> <xpln lang="en" lexeme="hovel(n)"> is an Hovel or house to 
+put Cattel under, or Wayns or Carts 
+into.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Haver Riddle,</form> <xpln lang="en" lexeme="sive(n)"> is a Sive they use 
+in Winnowing of Oates.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Harden,</form> <xpln lang="en" lexeme="hempen(a)"> is Hempen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hing,</form> <xpln lang="en" lexeme="hang(v)"> signifies hang.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Helters,</form> <xpln lang="en" lexeme="halter(n)"> is Halters.</xpln></wordentry>
+</page>
+
+<page no="93">
+<wordentry type="h"><form lang="yk">Holes and hurles,</form> <xpln lang="en" lexeme="hole(n)"> are odd dark blind 
+holes in a house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hes,</form> <xpln lang="en" lexeme="hath(v)"> is hath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Howle,</form> <xpln lang="en" lexeme="hungry(a)"> is hungry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hesta,</form> <xpln lang="en" lexeme="has thou(v)"> is has thou.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Heauldy,</form> <xpln lang="en" lexeme="tender(a)"> is one that is tender and cannot 
+endure much cold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hushta,</form> <xpln lang="en" lexeme="hold fast(v)" lexeme="mind one's feet(v)"> signifies to hold fast or mind 
+ones feet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hawves,</form> <xpln lang="en" lexeme="half(n)"> is halves.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Height nor Ree,</form> <xpln lang="en" lexeme="willful person(n)"> signifies a wilful per&shy;
+son that will not be perswaded to 
+any thing, but what they list.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hustle,</form> <xpln lang="en" lexeme="shrug(v)"> is to shrug ones Shoulders.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Heart-speaun,</form> <xpln lang="en" lexeme="hole betwixt the breast and belly(n)"> is the hole betwixt the 
+Breast and Belly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Hause,</form> <xpln lang="en" lexeme="throat(n)"> is the Throat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Houghs,</form> <xpln lang="en" lexeme="leg(n)" lexeme="thigh(n)"> are the Leggs and Thighs.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="94">
+<wordgroup1 type="a" object="I"><alpha>I.</alpha>
+<wordentry type="h"><form lang="yk">ILfavart,</form> <xpln lang="en" lexeme="unhandsome(a)"> is unhansome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Jet the Heck,</form> <xpln lang="en" lexeme="put one to the door(v)"> is to put one to the 
+door.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Jybe,</form> <xpln lang="en" lexeme="mock(v)" lexeme="jeer(v)"> is to mock or Jeer,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ista,</form> <xpln lang="en" lexeme="art thou(v)"> signifies art thou,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ilkin,</form> <xpln lang="en" lexeme="each one(pr)"> is each one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Jobber Nowle,</form> <xpln lang="en" lexeme="loggerhead(n)"> signifies a Logger&shy;
+head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Jerkin,</form> <xpln lang="en" lexeme="jacket(n)" lexeme="dublet(n)"> is a kind of a jacket or upper 
+Dublet with four Skirts or laps.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Inckline,</form> <xpln lang="en" lexeme="have knowledge(v)"> signifies to have know&shy;
+ledge or hear of a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ise,</form> <xpln lang="en" lexeme="i shall(v)" lexeme="i am(v)"> signifies sometimes I shall, and som&shy;
+times I am.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ist,</form> <xpln lang="en" lexeme="is it(v)"> signifies is it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Jarbl'd,</form> <xpln lang="en" lexeme="daggled(a)" lexeme="dirty(a)"> is dagled or dirty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ingle,</form> <xpln lang="en" lexeme="fire(n)"> signifies fire.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="95">
+<wordgroup1 type="a" object="K"><alpha>K.</alpha>
+<wordentry type="h"><form lang="yk">A Keaustril,</form> <xpln lang="en" lexeme="creature(n)"> is a great bon'd course 
+Creature.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Keauke,</form> <xpln lang="en" lexeme="cook(n)"> is a Cook.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Knawe,</form> <xpln lang="en" lexeme="know(v)"> is Know.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Kedge,</form> <xpln lang="en" lexeme="fill one very full(v)"> is to fill one very full.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Kite,</form> <xpln lang="en" lexeme="belly(n)"> signifies the belly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Kirne Milk,</form> <xpln lang="en" lexeme="buttermilk(n)"> is butter Milk,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Knarl'd,</form> <xpln lang="en" lexeme="eat(v)" lexeme="tear(v)"> is eaten and torn with the 
+Teeth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Kneet,</form> <xpln lang="en" lexeme="knight(n)"> is a Knight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Keen,</form> <xpln lang="en" lexeme="fierce(a)" lexeme="earnest(a)"> signifies Fierce or earnest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Knawn,</form> <xpln lang="en" lexeme="known(a)"> is known,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Kittle,</form> <xpln lang="en" lexeme="tickle(v)"> is to Tickle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Kye,</form> <xpln lang="en" lexeme="cow(n)"> are Cowes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Kirne,</form> <xpln lang="en" lexeme="churn(n)"> is a Chirne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Kirk,</form> <xpln lang="en" lexeme="church(n)"> is a Church.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Kelk</form> <xpln lang="en" lexeme="groan(v)"> signifies to Groan.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="96">
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>
+<wordentry type="h"><form lang="yk">TO Late,</form> <xpln lang="en" lexeme="seek(v)"> is to seek.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Laer,</form> <xpln lang="en" lexeme="barn(n)"> is a Barn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Lig,</form> <xpln lang="en" lexeme="lie(v)"> is to lye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Leauke,</form> <xpln lang="en" lexeme="look(v)" lexeme="behold(v)"> is to look or behold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Never Lin,</form> <xpln lang="en" lexeme="not to tire(v)"> signifies not to tire or give 
+over.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Lang,</form> <xpln lang="en" lexeme="long(a)"> is long.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Lite,</form> <xpln lang="en" lexeme="rely(v)" lexeme="trust(v)"> is to Rely on, or trust to.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Liggin,</form> <xpln lang="en" lexeme="lie(v)" lexeme="rest(v)"> is lying or resting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Lyth ye, Lyth ye,</form> <xpln lang="en" lexeme="hark ye(ex)"> is as much as to say 
+hark ye, hark ye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Lug,</form> <xpln lang="en" lexeme="tug(v)" lexeme="pull(v)" lexeme="bite(v)"> is to tug, pull or bite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Libber,</form> <xpln lang="en" lexeme="gelder(n)"> is a Gelder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Leeter,</form> <xpln lang="en" lexeme="lighter(a)"> is Lighter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">For'th lang Lane,</form> <xpln lang="en" lexeme="borrow(v)"> is when a thing 
+is borrowed with an intention never 
+to be pay'd again.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Leetsome,</form> <xpln lang="en" lexeme="cheerful(a)"> signifies to be pritty Chear&shy;
+ful.</xpln></wordentry>
+</page>
+
+<page no="97">
+<wordentry type="h"><form lang="yk">Leather,</form> <xpln lang="en" lexeme="rather(a)"> is rather.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Lawer,</form> <xpln lang="en" lexeme="lower(a)"> is lower.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Lownd,</form> <xpln lang="en" lexeme="calm(a)" lexeme="mild(a)"> is calm and mild.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Loppon,</form> <xpln lang="en" lexeme="leap(v)"> is Leaped.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Langsettle,</form> <xpln lang="en" lexeme="wainscot bench(n)"> is a long Wainscot Bench 
+to sit on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Loft,</form> <xpln lang="en" lexeme="chamber(n)"> is a Chamber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Leet,</form> <xpln lang="en" lexeme="alight(v)"> is to alight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Lantom,</form> <xpln lang="en" lexeme="distance(n)"> is a pritty distance, or way 
+off.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Laith,</form> <xpln lang="en" lexeme="loathe(v)"> is loath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Layer-father,</form> <xpln lang="en" lexeme="instructor(n)" lexeme="teacher(n)" lexeme="prompter(n)"> is an Instructer, Teach&shy;
+er, or prompter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Lit,</form> <xpln lang="en" lexeme="dye(v)"> is to dye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Lucken Brow'd,</form> <xpln lang="en" lexeme="hanging knit brows(n)"> is hanging knit 
+Brows.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Thou lees,</form> <xpln lang="en" lexeme="thou lies(v)"> is thou lyes.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="98">
+<wordgroup1 type="a" object="M"><alpha>M.</alpha>
+<wordentry type="h"><form lang="yk">TO mack,</form> <xpln lang="en" lexeme="make(v)"> is to make.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mirk,</form> <xpln lang="en" lexeme="dark(a)"> is dark.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To mar,</form> <xpln lang="en" lexeme="spoil(v)"> is to spoil.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mistetch,</form> <xpln lang="en" lexeme="get an ill use(v)"> signifies to get an ill use or 
+Custom.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mell,</form> <xpln lang="en" lexeme="between(pp)"> is Between.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mare,</form> <xpln lang="en" lexeme="more(a)"> is more.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Meause,</form> <xpln lang="en" lexeme="wonder(v)" lexeme="admire(v)"> is wonder or admire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mun,</form> <xpln lang="en" lexeme="must(v)"> is must.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Maut,</form> <xpln lang="en" lexeme="malt(n)"> is Malt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Meay,</form> <xpln lang="en" lexeme="mo(adv)"> is moe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Meer,</form> <xpln lang="en" lexeme="mare(n)"> is a Mare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Maugh,</form> <xpln lang="en" lexeme="brother-in-law(n)"> is a brother-in-Law.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Meeterly,</form> <xpln lang="en" lexeme="indifferent(a)"> is indifferent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mawks,</form> <xpln lang="en" lexeme="maddock(n)"> are Maddocks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mislicken'd,</form> <xpln lang="en" lexeme="disappoint(v)"> is disappointed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mains flaid,</form> <xpln lang="en" lexeme="afraid(a)"> is much afraid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mickle</form> <xpln lang="en" lexeme="much(a)"> is much.</xpln></wordentry>
+</page>
+
+<page no="99">
+<wordentry type="h"><form lang="yk">Meauted,</form> <xpln lang="en" lexeme="think(v)" lexeme="dream(v)" lexeme="fear(v)"> is thought, dreamed, or fear&shy;
+ed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Make,</form> <xpln lang="en" lexeme="fellow(n)" lexeme="companion(n)"> is a fellow, or companion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mence,</form> <xpln lang="en" lexeme="handsomeness(n)" lexeme="credit(n)"> is handsomness, or Credit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To marvil,</form> <xpln lang="en" lexeme="admire(v)" lexeme="wonder(v)"> is to admire or wonder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Misken,</form> <xpln lang="en" lexeme="not to know(v)"> is not to know.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mains fain,</form> <xpln lang="en"  lexeme="glad(a)"> is very glad.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mains fine,</form> <xpln lang="en" lexeme="fine(a)"> is very fine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Meaun,</form> <xpln lang="en" lexeme="moon(n)"> is the Moon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Meause as you use,</form> <xpln lang="en" lexeme="judge(v)"> that is when one 
+judgeth another according to their 
+own doings.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Mawkie,</form> <xpln lang="en" lexeme="maddock(n)"> is full of Maddocks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Morne,</form> <xpln lang="en" lexeme="tomorrow(n)"> is to morrow.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="100">
+<wordgroup1 type="a" object="N"><alpha>N.</alpha>
+<wordentry type="h"><form lang="yk">NAr,</form> <xpln lang="en" lexeme="near(a)"> is near.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neen,</form> <xpln lang="en" lexeme="eye(n)"> signifies Eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Nut,</form> <xpln lang="en" lexeme="not(adv)"> is not.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Nean</form> <xpln lang="en" lexeme="none(pr)"> or <term lang="yk">Neayn</term>, is none.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neay,</form> <xpln lang="en" lexeme="no(n)"> is no.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Newke</form> <xpln lang="en" lexeme="corner(n)"> or <term lang="yk">Neawke</term>, is a Corner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neet,</form> <xpln lang="en" lexeme="night(n)"> is night.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neem,</form> <xpln lang="en" lexeme="uncle(n)"> is Uncle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neer Rack,</form> <xpln lang="en" lexeme="never matter(adv)" lexeme="take no care(v)"> is never matter; or take 
+no care.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neawn,</form> <xpln lang="en" lexeme="noon(n)"> is Noon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Nawn,</form> <xpln lang="en" lexeme="own(pr)"> is own.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Nowther,</form> <xpln lang="en" lexeme="neither(adv)"> is neither.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Neest,</form> <xpln lang="en" lexeme="next(pp)"> is next.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Naupe and Nevill,</form> <xpln lang="en" lexeme="beat(v)" lexeme="strike(v)"> is to beat and 
+strike.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="101">
+<wordgroup1 type="a" object="O"><alpha>O.</alpha>
+<wordentry type="h"><form lang="yk">OUght,</form> <xpln lang="en" lexeme="anything(pr)"> is any thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Onny,</form> <xpln lang="en" lexeme="any(a)"> is any.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ownder,</form> <xpln lang="en" lexeme="afternoon(n)"> is the afternoon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Owse,</form> <xpln lang="en" lexeme="ox(n)"> is an Ox.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Odd Charrs,</form> <xpln lang="en" lexeme="trifling business(n)" lexeme="small errand(n)"> signifies triffling business, 
+or small Errands.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ommost,</form> <xpln lang="en" lexeme="almost(adv)"> is almost.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha>
+<wordentry type="h"><form lang="yk">TO putt,</form> <xpln lang="en" lexeme="push with the head(v)"> is to push with the head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Pratty;</form> <xpln lang="en" lexeme="handsome(a)" lexeme="pretty(a)"> is handsome, or pritty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Preauf,</form> <xpln lang="en" lexeme="proof(n)"> is proof.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To plew,</form> <xpln lang="en" lexeme="plow(v)"> is to plow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To mack the Pot play,</form> <xpln lang="en" lexeme="make the pot boil(v)"> is to make the 
+Pot boyl.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Pokes,</form> <xpln lang="en" lexeme="sack(n)"> are Sacks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Pudding-pock,</form> <xpln lang="en" lexeme="pudding bag(n)"> is the Pudding bag.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Pleugh,</form> <xpln lang="en" lexeme="plough(n)"> is a Plough.</xpln></wordentry>
+</page>
+
+<page no="102">
+<wordentry type="h"><form lang="yk">It ploshes,</form> <xpln lang="en" lexeme="wet(a)"> signifies to be all wet under 
+foot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Perry,</form> <xpln lang="en" lexeme="dog(n)"> is a little Cur Dog.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Pusom'd,</form> <xpln lang="en" lexeme="poisoned(a)"> is poyson'd.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Pownd,</form> <xpln lang="en" lexeme="pond(n)"> is a Pond of water.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To preaze,</form> <xpln lang="en" lexeme="press towards(v)" lexeme="endeavour to go(v)"> is to presse towards a place 
+or endeavour to go that way.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">The Paete,</form> <xpln lang="en" lexeme="head(n)"> is the head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Preasure,</form> <xpln lang="en" lexeme="rennet(n)"> is Rennet to make Cheese 
+withal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Pringle,</form> <xpln lang="en" lexeme="scotch coin(n)"> is a little silver Scotch
+Coine about the bignesse of a penny 
+with two xx. on it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Pybald,</form> <xpln lang="en" lexeme="be of two colours(v)"> is to be of two Colours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To prate,</form> <xpln lang="en" lexeme="talk saucily(v)"> is to talk saucily.</xpln></wordentry>
+</wordgroup1>
+<wordgroup1 type="a" object="R"><alpha>R.</alpha>
+
+<wordentry type="h"><form lang="yk">A Rape,</form> <xpln lang="en" lexeme="rope(n)"> is a Rope.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Rout,</form> <xpln lang="en" lexeme="roar(v)"> is to roare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Rive,</form> <xpln lang="en" lexeme="tear(v)"> is to tear.</xpln></wordentry>
+</page>
+
+<page no="103">
+<wordentry type="h"><form lang="yk">Reek,</form> <xpln lang="en" lexeme="smoke(n)"> is smoak.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Reckincrewke,</form> <xpln lang="en" lexeme="pot hanger(n)"> is the pot hanger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">I Reed,</form> <xpln lang="en" lexeme="I advise(v)"> is I advise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Reant,</form> <xpln lang="en" lexeme="root(n)"> is root.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Remmon'd,</form> <xpln lang="en" lexeme="remove(v)"> is removed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Reel,</form> <xpln lang="en" lexeme="linen(n)" lexeme="hempen(n)"> is an instrument Women wind 
+their linnen or hempen yarne on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Rock,</form> <xpln lang="en" lexeme="distaff(n)"> is a Distaffe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ream Kit,</form> <xpln lang="en" lexeme="cream pot(n)"> is the Cream pot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Reasty,</form> <xpln lang="en" lexeme="bacon(n)"> is when Bacon is yellow and 
+taste rank.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Reet,</form> <xpln lang="en" lexeme="reet(v)"> is right: To Reet a thing down, 
+ir to make it smooth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Riggin,</form> <xpln lang="en" lexeme="ridge(n)"> is the Ridge of an house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Reeks,</form> <xpln lang="en" lexeme="it smokes(v)"> is it smokes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Rame,</form> <xpln lang="en" lexeme="rove(v)" lexeme="rake(v)" lexeme="scrape(v)" lexeme="pull(v)"> is to Rove, Rake, scrape, or 
+pull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Rencky,</form> <xpln lang="en" lexeme="great(a)" lexeme="large(a)"> is great and large.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Ranck,</form> <xpln lang="en" lexeme="thick(a)" lexeme="throng(a)"> is thick or throng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To rue,</form> <xpln lang="en" lexeme="repent(v)"> is to repent.</xpln></wordentry>
+</page>
+
+<page no="104">
+<wordentry type="h"><form lang="yk">Rife of Tongue,</form> <xpln lang="en" lexeme="quick of tongue(a)"> is quick and nimble of 
+Tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Reefie,</form> <xpln lang="en" lexeme="scabby(a)" lexeme="itchy(a)"> is Scabby or Itchy,</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S.</alpha>
+<wordentry type="h"><form lang="yk">SIne,</form> <xpln lang="en" lexeme="since(adv)"> is since.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sike,</form> <xpln lang="en" lexeme="such(a)"> is such.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Seaun,</form> <xpln lang="en" lexeme="quickly(adv)"> is quickly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Skeell,</form> <xpln lang="en" lexeme="milk pale(n)" lexeme="water pale(n)"> is a Milk Pale, or Water 
+Pale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sell,</form> <xpln lang="en" lexeme="self(pr)"> signifies self.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Suckle,</form> <xpln lang="en" lexeme="suck(v)"> is to let a Calf suck 
+the Dam or Mother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Streay,</form> <xpln lang="en" lexeme="straw(n)"> is Straw.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Strangly,</form> <xpln lang="en" lexeme="strongly(adv)"> is strongly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Swamp,</form> <xpln lang="en" lexeme="empty(a)" lexeme="small(a)"> is empty or smal.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Sile,</form> <xpln lang="en" lexeme="strainer(n)"> is a strainer for Milk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Spang ones gates,</form> <xpln lang="en" lexeme="make haste(v)"> is to make hast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Snithe,</form> <xpln lang="en" lexeme="cold(a)" lexeme="piercing(a)"> is very cold and piercing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Seaure,</form> <xpln lang="en" lexeme="sure(a)"> is sure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Smiddy,</form> <xpln lang="en" lexeme="black-smiths shop(n)"> is a Black-Smiths Shop.</xpln></wordentry>
+</page>
+
+<page no="105">
+<wordentry type="h"><form lang="yk">Specks,</form> <xpln lang="en" lexeme="iron(n)"> are long thin pieces of Iron 
+which Husband-men nail upon their 
+Ploughs, to save them from wear&shy;
+ing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Sock,</form> <xpln lang="en" lexeme="ploughshare(n)" > is the Plough share to put on 
+the Nose of the Plough.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sawt,</form> <xpln lang="en" lexeme="salt(n)"> is salt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Stag,</form> <xpln lang="en" lexeme="colt(n)"> is a young Colt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sarraes,</form> <xpln lang="en" lexeme="serve(v)"> signifies serves.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Shack-fork,</form> <xpln lang="en" lexeme="stick(n)"> is a stick with two grains 
+which Thrashers use to shake up the 
+Straw withall, that all the Corn 
+may fall out from amongst it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Steauls,</form> <xpln lang="en" lexeme="stool(n)"> are Stools to sit on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Swingle-trees,</form> <xpln lang="en" lexeme="crooked piece of wood(n)"> are crooked piecs of wood 
+to which the Horse Traces are made 
+fast behind the Horses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Strang,</form> <xpln lang="en" lexeme="strong(a)"> is strong.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Seavy,</form> <xpln lang="en" lexeme="rush(n)"> is full of Rushes.</xpln></wordentry>
+</page>
+
+<page no="106">
+<wordentry type="h"><form lang="yk">A Seave,</form> <xpln lang="en" lexeme="rush(n)"> is a Rush that is drawn 
+through in grease, which in ordina&shy;
+ry poor houses, they light up and burn 
+instead of a Candle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Saw Corn,</form> <xpln lang="en" lexeme="sow corn(v)"> is to sow Corn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Steg,</form> <xpln lang="en" lexeme="gander(n)"> is a Gander.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To steek</form> <xpln lang="en" lexeme="shut(v)"> or <term lang="yk">steck</term>, is to shut.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A stand Heck,</form> <xpln lang="en" lexeme="cratch(n)"> is a Cratch that stands on 
+feet in a Fold-Yard, for Cattel to eat 
+their Fodder out on.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Sneck,</form> <xpln lang="en" lexeme="latch(n)"> is a latch of a door or Gate,</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To slate a Beast,</form> <xpln lang="en" lexeme="hound a dog(v)"> is to hound a Dog 
+at him.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To stick,</form> <xpln lang="en" lexeme="butcher(v)"> is to Butcher and kill a 
+thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To stramp,</form> <xpln lang="en" lexeme="tread upon(v)"> is to tread upon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Skitter,</form> <xpln lang="en" lexeme="scour(v)" lexeme="shit(v)"> is when Cattel Scoure, or shite 
+thin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Slocken,</form> <xpln lang="en" lexeme="quench the thirst(v)"> is to quench the thirst.</xpln></wordentry>
+</page>
+
+<page no="107">
+<wordentry type="h"><form lang="yk">Side Lanyells,</form> <xpln lang="en" lexeme="hopple(n)"> are hopples for Hor&shy;
+ses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Stane,</form> <xpln lang="en" lexeme="stone(n)"> is a stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Sneauskin,</form> <xpln lang="en" lexeme="leather(n)"> is a leather which Wo&shy;
+men have fast at their Distaff, and 
+lay upon their thigh to twirle their 
+Spindle upon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Spence,</form> <xpln lang="en" lexeme="lattice(n)"> is a little place made with 
+Wainscot, or a Lattice to set Milk 
+or drink in.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Slake heat,</form> <xpln lang="en" lexeme="lose heat(v)"> is to scale or loose 
+heat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sammaron,</form> <xpln lang="en" lexeme="cloth(n)"> is a Cloath betvveen Lin&shy;
+nen and Hempen, not altogether 
+so course as the one, nor fine as 
+the other.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Seck,</form> <xpln lang="en" lexeme="sack(n)"> is a Sack.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sheaun,</form> <xpln lang="en" lexeme="shoe(n)"> are Shooes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Slovvn,</form> <xpln lang="en" lexeme="steal(v)"> is stoln.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Sark,</form> <xpln lang="en" lexeme="shirt(n)"> is a shirt.</xpln></wordentry>
+</page>
+
+<page no="108">
+<wordentry type="h"><form lang="yk">Sowle,</form> <xpln lang="en" lexeme="victual(n)"> is all kind of moyst or supping 
+Victuals.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Storken,</form> <xpln lang="en" lexeme="cool(v)" lexeme="wax stiff(v)"> is to cool, or wax stiff or 
+hard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Seay,</form> <xpln lang="en" lexeme="so(adv)"> is so.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To speer out a thing,</form> <xpln lang="en" lexeme="enquire after(v)"> is to enquire after 
+a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To speer the Deaur,</form> <xpln lang="en" lexeme="shut the door(v)"> is to shut the 
+door.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To whemmele a Bowlover a thing,</form> <xpln lang="en" lexeme="cover it with a bowl(v)"> is 
+to cover it with a Bowle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Snawke,</form> <xpln lang="en" lexeme="smell(v)"> is to smell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Snurles,</form> <xpln lang="en" lexeme="nostril(n)"> are the Nostrils.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Snite,</form> <xpln lang="en" lexeme="blow the nose(v)"> is to blow the Nose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Stee,</form> <xpln lang="en" lexeme="stye(n)" lexeme="ladder(n)"> is a Stye or Ladder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To semper,</form> <xpln lang="en" lexeme="smile(v)"> is to smile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To stown,</form> <xpln lang="en" lexeme="smart(v)"> is when a thing smarts.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Not to see a stime,</form> <xpln lang="en" lexeme="be blind(v)"> is to be blind, and see 
+nothing at all.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Saul,</form> <xpln lang="en" lexeme="soul(n)"> is a soul.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sad,</form> <xpln lang="en" lexeme="sorrowful(a)" lexeme="melancholy(a)"> is sorrowful or Melancholly.</xpln></wordentry>
+</page>
+
+<page no="109">
+<wordentry type="h"><form lang="yk">Stanfra,</form> <xpln lang="en" lexeme="backward(a)" lexeme="unwilling(a)"> is backward, or unwilling.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sud,</form> <xpln lang="en" lexeme="shall(v)"> is should.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Stiddy,</form> <xpln lang="en" lexeme="anvil(n)"> is an Anvill.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Spatterdashers,</form> <xpln lang="en" lexeme="stocking(n)"> are things to put above 
+ones Stockings to keep them clean 
+from mire and dirt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To run on snack-snarles,</form> <xpln lang="en" lexeme="run on heaps(v)"> is to run on 
+heaps headlong together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Where it never stack,</form> <xpln lang="en" lexeme="where it never stuck(v)"> is where it ne&shy;
+ver stuck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sporn,</form> <xpln lang="en" lexeme="shut(v)" lexeme="close(v)"> is shut or closed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sesta,</form> <xpln lang="en" lexeme="sayest thou(v)"> is sayest thou.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Stickle but hast,</form> <xpln lang="en" lexeme="haste(n)" lexeme="speed(n)"> is very great hast, or 
+speed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To snoutband one,</form> <xpln lang="en" lexeme="angry(a)" lexeme="hasty(a)"> is to be very an&shy;
+gry and hasty with one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Stark at the Rent,</form> <xpln lang="en" lexeme="dear at the rent(a)"> is very dear at the 
+Rent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To scrat,</form> <xpln lang="en" lexeme="scratch(v)"> is to scratch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sattl'd,</form> <xpln lang="en" lexeme="settle(v)"> is settled.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Sackless,</form> <xpln lang="en" lexeme="guiltless(a)" lexeme="innocent(a)"> is guiltless, or innocent.</xpln></wordentry>
+</page>
+
+<page no="110">
+<wordentry type="h"><form lang="yk">To Swelt,</form> <xpln lang="en" lexeme="die(v)"> is to dye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Saind,</form> <xpln lang="en" lexeme="messenger(n)" lexeme="message(n)"> is a Messenger or message.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Soape,</form> <xpln lang="en" lexeme="little quantity(n)" lexeme="sup(n)"> is a little quantity or sup.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T.</alpha>
+<wordentry type="h"><form lang="yk">A Tee,</form> <xpln lang="en" lexeme="string(n)"> is the string the Cow Legs are 
+made fast withal whilest she is 
+milked.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tinye,</form> <xpln lang="en" lexeme="little(a)"> is little.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Well tidded,</form> <xpln lang="en" lexeme="promise fair for store of milk(v)"> is when a Cow hath a 
+good Udder, and promiseth fair for 
+store of milk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tweay,</form> <xpln lang="en" lexeme="two(n)"> is two.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Thur,</form> <xpln lang="en" lexeme="these(pr)"> is these.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tane,</form> <xpln lang="en" lexeme="take(v)"> is taken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tawke,</form> <xpln lang="en" lexeme="talk(v)"> is talk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tewh,</form> <xpln lang="en" lexeme="tough(a)"> is tough.</xpln></wordentry>
+</page>
+
+<page no="111">
+<wordentry type="h"><form lang="yk">Teaut,</form> <xpln lang="en" lexeme="to it(pp)"> is to it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Teaume,</form> <xpln lang="en" lexeme="time(n)"> is time.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Teng'd,</form> <xpln lang="en" lexeme="stung(v)" lexeme="sting(v)"> is stung or sting'd.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Teaup,</form> <xpln lang="en" lexeme="ram(n)"> is a Ram.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Like to tawme,</form> <xpln lang="en" lexeme="swound(v)"> is like to swound.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Traild,</form> <xpln lang="en" lexeme="pull(v)" lexeme="drag(v)"> is pull'd and dragged up and down.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Teau,</form> <xpln lang="en" lexeme="be(n)"> is to.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Tantril,</form> <xpln lang="en" lexeme="idle tattling woman(n)"> is an idle tatling Wo&shy;
+man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Titter,</form> <xpln lang="en" lexeme="quicker(adv)" lexeme="sooner(adv)"> is quicker or sooner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Drull,</form> <xpln lang="en" lexeme="mucky foul queen(n)"> is a mucky fowl Quean.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tack,</form> <xpln lang="en" lexeme="take(v)"> is to take.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Tengs,</form> <xpln lang="en" lexeme="tongue(n)"> are Tonges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Twonty,</form> <xpln lang="en" lexeme="twenty(n)"> is twenty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Trouts,</form> <xpln lang="en" lexeme="curd(n)"> are Curds.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Trash,</form> <xpln lang="en" lexeme="green fruit(n)"> is green fruit, as Apples, &amp;.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Timerous to please,</form> <xpln lang="en" lexeme="ill to please(a)"> is ill to please.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Touch-wood,</form> <xpln lang="en" lexeme="rotten wood(n)"> is rotten Wood laid by
+</page>
+
+<page no="112">
+to dry, that it may take fire at 
+any spark given by a flint and 
+steel.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V.</alpha>
+<wordentry type="h"><form lang="yk">VArra,</form> <xpln lang="en" lexeme="very(a)"> is very.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Unscape,</form> <xpln lang="en" lexeme="put one in mind(v)"> is to put one in mind of 
+a thing that is not Convenient.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Uncuths,</form> <xpln lang="en" lexeme="news(n)"> signifies News.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Urle,</form> <xpln lang="en" lexeme="draw ones self up(v)"> is to draw ones self up on 
+a heap.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Underlout,</form> <xpln lang="en" lexeme="slave(n)" lexeme="drudge(n)"> is a kind of a slave, or 
+Drudge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">An Uneuth Dog,</form> <xpln lang="en" lexeme="strange dog(n)"> is a strange Dog.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Unsawncy,</form> <xpln lang="en" lexeme="unlucky(a)" lexeme="not fortunate(a)"> is unluckie, or not fortu&shy;
+nate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To unfest,</form> <xpln lang="en" lexeme="untie(v)" lexeme="unloose(v)"> is to untye or unloose.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="113">
+<wordgroup1 type="a" object="W"><alpha>W.</alpha>
+<wordentry type="h"><form lang="yk">WArk,</form> <xpln lang="en" lexeme="work(n)"> is work.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Weese,</form> <xpln lang="en" lexeme="we shall(v)"> is we shall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whaugh,</form> <xpln lang="en" lexeme="word of admiration(n)"> is a word of Admiration, as 
+God bless us, &amp;.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wally, Wally,</form> <xpln lang="en" lexeme="good lack(ex)" lexeme="oh me(ex)"> is Good lack, good lack 
+or Oh me, Oh me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">War,</form> <xpln lang="en" lexeme="was(n)"> is were.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wad,</form> <xpln lang="en" lexeme="would(n)"> is would.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Whye,</form> <xpln lang="en" lexeme="heifer(n)"> is an Heifer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To waite,</form> <xpln lang="en" lexeme="know(v)"> is to know.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whore,</form> <xpln lang="en" lexeme="where(adv)"> is Where.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wya,</form> <xpln lang="en" lexeme="well(a)"> is well.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wheay,</form> <xpln lang="en" lexeme="who(pr)"> is Who.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whickens,</form> <xpln lang="en" lexeme="root of weed(n)"> are roots of Weeds.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whins,</form> <xpln lang="en" lexeme="furze(n)"> are Furz.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wellaneerin.</form> <xpln lang="en" lexeme="lackady(ex)" lexeme="alas(ex)"> is Lackady, or Alas, alas.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Whaug one,</form> <xpln lang="en" lexeme="beat one(v)"> is to beat one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wrang,</form> <xpln lang="en" lexeme="wrong(n)"> is wrong.</xpln></wordentry>
+</page>
+
+<page no="112">
+<wordentry type="h"><form lang="yk">A whanck,</form> <xpln lang="en" lexeme="great piece(n)"> is a great piece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Whelk,</form> <xpln lang="en" lexeme="great fall(n)"> is a great fall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wont,</form> <xpln lang="en" lexeme="dwell(v)" lexeme="live(v)"> is dwelt or lived.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A wreck,</form> <xpln lang="en" lexeme="abundance(n)"> is aboundance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whewts of Girfe,</form> <xpln lang="en" lexeme="young blades of grass(n)"> are young fresh Piles 
+or blades of Grass.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whig,</form> <xpln lang="en" lexeme="clarified whey(n)"> is Clarified Whey, put up with 
+Herbs to drink.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Whean Cat,</form> <xpln lang="en" lexeme="cat(n)"> is a shee Cat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Warse,</form> <xpln lang="en" lexeme="worse(a)"> is worse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wayes is mee,</form> <xpln lang="en" lexeme="woes me(ex)"> is woes me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whilk,</form> <xpln lang="en" lexeme="which(pr)"> is which.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Weell,</form> <xpln lang="en" lexeme="well(a)"> is well.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wancle,</form> <xpln lang="en" lexeme="uncertain weather(n)"> is uncertain or changeable 
+Weather.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Weay,</form> <xpln lang="en" lexeme="sorrowful(a)"> is sorrowful.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wilta,</form> <xpln lang="en" lexeme="will thou(v)"> is will thou.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To winch,</form> <xpln lang="en" lexeme="kick(v)"> is to Kick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Whesht, Whesht,</form> <xpln lang="en" lexeme="peace, peace(ex)"> is peace, peace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Wadta,</form> <xpln lang="en" lexeme="would thou(v)"> is would thou.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Weand,</form> <xpln lang="en" lexeme="mad(a)"> is Mad.</xpln></wordentry>
+</page>
+
+<page no="113">
+<wordentry type="h"><form lang="yk">A Wee bitt,</form> <xpln lang="en" lexeme="wirly bit(n)"> or Wirly bitt.</xpln>
+<lemenote> "wirly bit(n)" not found in OED, but see "whirly-," comb. form.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="yk">To Wreak,</form> <xpln lang="en" lexeme="fret(v)" lexeme="be angry(v)"> is to fret and be angry.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y.</alpha>
+<wordentry type="h"><form lang="yk">YAn,</form> <xpln lang="en" lexeme="one(n)"> is one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Yauds,</form> <xpln lang="en" lexeme="horse(n)"> are Horses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Yowes,</form> <xpln lang="en" lexeme="yew(n)"> are Yewes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">A Yat,</form> <xpln lang="en" lexeme="gate(n)"> is a Gate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">Yance,</form> <xpln lang="en" lexeme="once(adv)"> is once.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Yeaud,</form> <xpln lang="en" lexeme="go(v)"> is to go.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">To Yeauke,</form> <xpln lang="en" lexeme="itch(v)"> is to Itch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="yk">The Yane,</form> <xpln lang="en" lexeme="breath(n)"> is the breath.</xpln></wordentry>
+</wordgroup1>
+<closing>
+FINIS.
+</closing>
+
+</section>
+</page>
+</leme>

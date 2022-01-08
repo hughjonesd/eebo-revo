@@ -1,0 +1,2599 @@
+
+
+<leme no="149">
+<page sig="xxx4v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 9 8 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+The Englishe Table conteyning the names and syr&#173;
+names of all the Herbes, Trees, and Plantes, of this present 
+Booke, or Herball.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="acacia(n)">ACacia</form> <xpln lang="en">685</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ache(n)">Ache</form> <xpln lang="en">611</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aconite(n)">Aconit</form> <xpln lang="en">426</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adder's grass(n)">Adders grasse</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adder's tongue(n)">Adders tongue</form> <xpln lang="en">135</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adderwort(n)">Adder-wurt</form> <xpln lang="en">23</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="aethiopis(n)">Aethiopis</form> <xpln lang="en">124</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="affodil(n)">Affodyl</form> <xpln lang="en">649</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agrimony(n)">Agrimonie</form> <xpln lang="en">57</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noble agrimony(n)">Noole Agrimonie</form> <xpln lang="en">59</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild agrimony(n)">Wilde Agrimonie</form> <xpln lang="en">86</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agnus castus(n)">Agnus castus</form> <xpln lang="en">691</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ashweed(n)">Aishweede</form> <xpln lang="en">300</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="allgood(n)">Algood</form> <xpln lang="en">561</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alkakengi(n)">Alkakengie</form> <xpln lang="en">445</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alkanet(n)">Alkanet</form> <xpln lang="en">9</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black alder(n)">Blacke Aller</form> <xpln lang="en">759</xpln><lemenote>Antedates first OED citation (1755).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alder(n)">Aller tree or Alder</form> <xpln lang="en">756</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="almonds(n)">Almondes or Almonde</form> <xpln lang="en">711</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ambrose(n)">Ambros</form> <xpln lang="en">253</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="amelcorn(n)">Amelcorne</form> <xpln lang="en">456</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="ammoniacum(n)">Ammoniacum</form> <xpln lang="en">308</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="amorus apple(n)">Amorus Apples</form> <xpln lang="en">439</xpln><lemenote>Not identified.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ammi(n)">Amros or Ammi</form> <xpln lang="en">272</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anemone(n)">Anemone</form> <xpln lang="en">413</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="angelica(n)">Angelica</form> <xpln lang="en">297</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="anthyllis(n)">Anthyllis</form> <xpln lang="en">13</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anise(n)">Anyse</form> <xpln lang="en">271</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple tree(n)">Apple tree</form> <xpln lang="en">701</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple of love(n)">Apples of loue</form> <xpln lang="en">439. 440</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple of Peru(n)">Apples of Perowe</form> <xpln lang="en">441</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="female balsam apple(n)">Female balsam Apple</form> <xpln lang="en">442</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prickle-apple(n)">Prickle Apples</form> <xpln lang="en">441</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorny apple(n)">Thornie Apples</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="male balsam apple(n)">Male balsam Apple</form> <xpln lang="en">442</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black archangel(n)">Blacke Archangell</form> <xpln lang="en">257</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arbor tree(n)">Arbure tree</form> <xpln lang="en">728</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arbor Judae(n)">Arbor Iuda</form> <xpln lang="en">742</xpln><lemenote>Antedates earliest OED citation (1669).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="argentine(n)">Argentine</form> <xpln lang="en">526</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aristologia(n)">Aristologia / &#38;c.</form> <xpln lang="en">314</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arisaron(n)">Arisaron</form> <xpln lang="en">324</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aron(n)">Aron</form> <xpln lang="en">322</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arsesmart(n)">Arsse smart</form> <xpln lang="en">633</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="artichoke(n)">Artechock</form> <xpln lang="en">524</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild artichoke(n)">Wilde Artechock</form> <xpln lang="en">535</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asarabacca(n)">Asarabacca</form> <xpln lang="en">319</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asclepias(n)">Asclepias</form> <xpln lang="en">317</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ash tree(n)">Ashe tree / &#38;c.</form> <xpln lang="en">748</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asp(n)">Aspe</form> <xpln lang="en">750</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asses box-tree(n)">Asses boxe tree</form> <xpln lang="en">700</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asafoetida(n)">Assa foetida</form> <xpln lang="en">304</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="auens(n)">Auens</form> <xpln lang="en">134</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="autumn bell-flower(n)">Autumne Belflowers</form> <xpln lang="en">173</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="axwort(n)">Axeworte</form> <xpln lang="en">489</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="axwort(n)">Axsich</form> <xpln lang="en">489</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea ay-green(n)">Sea Aygreene</form> <xpln lang="en">353</xpln></wordentry>
+
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="bachelor's buttons(n)">BAchelers Buttons</form> <xpln lang="en">422</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laurel tree(n)" lexeme="bay tree(n)">Bay or Laurel tree</form> <xpln lang="en">688</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bollock grass(n)">Ballock grasse</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fool's bollocks(n)">Fooles Balloxe</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hares ballore(n)">Hares Balloxe</form> <xpln lang="en">222</xpln><lemenote>Antedates earliest OED citation (1601).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="balsam-mint(n)">Balsamynte</form> <xpln lang="en">250</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow wolf's-bane(n)">Yellow woolfs Bane &#38;c.</form> <xpln lang="en">429</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="banewort(n)">Banewort</form> <xpln lang="en">425</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barberry-bush(n)" lexeme="barbery tree(n)">The Barberie bushe or 
+tree</form> <xpln lang="en">684</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barberry(n)">Barberies </form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barley(n)">Barley &#38; of al his kind</form> <xpln lang="en">461</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baron's mercury(n)" lexeme="phyllon(n)">Bar<expan type="">on</expan>s Mercury or Phyl&#173;
+lon</form> <xpln lang="en">78</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="base broom(n)">Base Broome</form> <xpln lang="en">667</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow basil(n)">Cowe Basill</form> <xpln lang="en">242</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basil royal(n)">Basill royall / &#38;c.</form> <xpln lang="en">240</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crisp balm(n)">Crispe Baulme</form> <xpln lang="en">245</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="balm(n)">Baulme</form> <xpln lang="en">259</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beans(n)">Beanes</form> <xpln lang="en">473</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bock's bean(n)">Bockes Beanes</form> <xpln lang="en">541</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bean-tree(n)">Beane tree</form> <xpln lang="en">740</xpln><lemenote>Antedates earliest  OED citation (1600).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden bean(n)">Garden Beane</form> <xpln lang="en">473</xpln><lemenote>Antedates earliest  OED citation (1656).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great bean(n)">Great Beanes</form> <xpln lang="en">473</xpln><lemenote>Antedates earliest  OED citation (1644).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kidney bean(n)">Kidney Beanes</form> <xpln lang="en">474</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Roman bean(n)">Romaine Beanes</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black bean(n)">Wilde &#38; blacke Beanes</form> <xpln lang="en">473</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="our Lady's bedstraw(n)">Our Ladies Bedstraw</form> <xpln lang="en">539</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beech mast(n)">Beeche maste</form> <xpln lang="en">757</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beech tree(n)">Beeche tree</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beet(n)">Beetes</form> <xpln lang="en">550</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="behen album(n)">Behen or Been album</form> <xpln lang="en">345</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bell-flower(n)">Belflowers</form> <xpln lang="en">172</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bluebell(n)">Blew belles</form> <xpln lang="en">174</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="belzoin(n)">Belzoin or Benzoin</form> <xpln lang="en">304</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bayberry(n)">Bay beries</form> <xpln lang="en">688</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blackberry(n)">Blacke beries</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brambleberry(n)">Bramble beries</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marsh beetle(n)" lexeme="marsh pestle(n)">Marche Betil or Pestil</form> <xpln lang="en">513</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="betony(n)">Betony or Betayne</form> <xpln lang="en">291</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="St. Paul's betony(n)">Paules Betony</form> <xpln lang="en">26</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-betony(n)">Water Betony</form> <xpln lang="en">44</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white beet(n)">White Beete</form> <xpln lang="en">550</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bindweed(n)">Bindeweede</form> <xpln lang="en">393</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rough bindweed(n)">Rough Bindweede</form> <xpln lang="en">396</xpln><lemenote>Antedates earliest  OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="birch tree(n)">Birche tree</form> <xpln lang="en">758</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bird's-foot(n)" lexeme="fowl-foot(n)">Byrdes foote or fowle 
+foote</form> <xpln lang="en">487</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blackberry bush(n)">Blacke berie bushe</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bladder-nut(n)">Bladder nut</form> <xpln lang="en">735</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blewblaw(n)">Blewblaw</form> <xpln lang="en">161</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bluebottle(n)">Blewbottel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blighted(n)">Blighted</form> <xpln lang="en">471</xpln><lemenote>Noun form of this word not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blite(n)">Blites and Blittes</form> <xpln lang="en">547</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bloodwort(n)">Bloodwort</form> <xpln lang="en">380</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="May blossom(n)">May Blossoms</form> <xpln lang="en">178</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blood-strange(n)">Blood strange</form> <xpln lang="en">96</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buckwheat(n)">Bockwheate</form> <xpln lang="en">468</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bolbanac(n)" lexeme="strange violet(n)">Bolbanack or strange Vio&#173;
+lets</form> <xpln lang="en">153</xpln><lemenote>"strange violet" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bombace(n)">Bombace</form> <xpln lang="en">679</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small bombase(n)">Small Bombase</form> <xpln lang="en">90</xpln><lemenote>"small bombace" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="borage(n)">Borage</form> <xpln lang="en">12</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="box-thorn(n)">Boxe thorne</form> <xpln lang="en">700</xpln><lemenote>"box-thorn" antedates earliest citation in OED (1678).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bourtree(n)">Bore tree</form> <xpln lang="en">699</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boy's mercury(n)" lexeme="phillon(n)">Boyes Mercury or Phil&#173;
+lon</form> <xpln lang="en">78</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brake(n)">Brake</form> <xpln lang="en">401</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bramble(n)">Bramble</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brooklime(n)">Brookelyme</form> <xpln lang="en">579</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broom(n)">Broome</form> <xpln lang="en">664</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brier-bush(n)">Bryer bushe</form> <xpln lang="en">655</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white bryony(n)" lexeme="black bryony(n)">White &#38; blacke Briony</form> <xpln lang="en">382</xpln><lemenote>"black bryony" antedates earliest OED citation (1626).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buck-horn(n)">Buckhorne</form> <xpln lang="en">95</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buckram(n)">Buckrammes</form> <xpln lang="en">636</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bugle(n)">Bugle</form> <xpln lang="en">133</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bugloss(n)">Buglosse</form> <xpln lang="en">8</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bugloss the lesser(n)">Buglosse the lesser</form> <xpln lang="en">10</xpln><lemenote>"bugloss the lesser" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="viper's bugloss(n)">Vipers Buglosse</form> <xpln lang="la">ibid.</xpln><lemenote>"viper's bugloss" antedates first OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white bulbous violet(n)">White Bulbus violet</form> <xpln lang="en">216</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bulbine(n)">Bulbyne</form> <xpln lang="en">644</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bull-foot(n)">Bul foote</form> <xpln lang="en">20</xpln></wordentry>
+
+<wordentry type="h"><form lang="gkt" lexeme="bupleuron(n)">Bupleuros</form> <xpln lang="en">506</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buprestis(n)">Buprestis</form> <xpln lang="en">544</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burned(n)">Burned</form> <xpln lang="en">471</xpln> <lemenote>"burned" not found as a noun in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burnet(n)">Burnet</form> <xpln lang="en">138</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butcher's broom(n)">Butchers broome</form> <xpln lang="en">674</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great bur(n)">Great Burre</form> <xpln lang="en">15</xpln><lemenote>"great bur" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great clot-bur(n)">Great clote Burre</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ditch-bur(n)">Diche Burre</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="louse-bur(n)">Lowse Burre</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butterbur(n)">Butter Burre</form> <xpln lang="en">21</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butter-flower(n)">Butterflowers</form> <xpln lang="en">422</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="birthwort(n)">Byrthwort</form> <xpln lang="en">314</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="loafed cabbage(n)">LOfed Cabbage</form> <xpln lang="en">553</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great round cabbage cole(n)">Great round Cabbage 
+cole</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calf's-foot(n)">Calfes foote</form> <xpln lang="en">323</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calf's-snout(n)">Calfes snowte</form> <xpln lang="en">180</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calamint(n)">Calamynte</form> <xpln lang="en">248</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rough calamint(n)">Rough Calaminte</form> <xpln lang="la">ibid.</xpln><lemenote>"rough calamint" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calathian violet(n)">Calathian violets</form> <xpln lang="en">173</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caltrop(n)">Caltrop</form> <xpln lang="en">521</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caltha(n)">Caltha</form> <xpln lang="en">190</xpln><lemenote>"caltha" antedates earliest citation  in OED (1599).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cameline(n)">Cameline</form> <xpln lang="en">494</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="camel's straw(n)">Camels strawe</form> <xpln lang="en">511</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cammocke(n)">Cammocke</form> <xpln lang="en">669</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="camomile(n)">Camomill</form> <xpln lang="en">183</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stinking camomile(n)">Stinching Camomill</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common camomile(n)">Common Camomill</form> <xpln lang="la">ibid.</xpln><lemenote>"common camomile" antedates earliest OED citation (1785).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purple camomile(n)">Purple Camomill</form> <xpln lang="en">184. 188</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow camomile(n)" lexeme="white camomile(n)">Yelow &#38; white Camomill</form> <xpln lang="en">183</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild campion(n)">Wilde Campion</form> <xpln lang="en">159</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Spanish cane(n)">Spanish Canes</form> <xpln lang="en">514</xpln><lemenote>"Spanish cane" antedates earliest OED citation (1703).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="large and broad cumin(n)">Large &#38; brode Comyn</form> <xpln lang="en">283</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugar-cane(n)">Sugar Cane</form> <xpln lang="en">514</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Canterbury bells(n)">Canterbury belles</form> <xpln lang="en">171</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="capers(n)">Capers</form> <xpln lang="en">680</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caprifoil(n)">Caprifoyle</form> <xpln lang="en">391</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carob tree(n)">Carob tree</form> <xpln lang="en">740</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild carline(n)">Wilde Caroline</form> <xpln lang="en">531</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild carthamus(n)">Wilde Carthamus</form> <xpln lang="en">532</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carrot(n)">Carrottes and of all his 
+kinde</form> <xpln lang="en">602</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild carrot(n)">Wilde Carrot</form> <xpln lang="en">285. 528</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cartaphilago(n)">Ca<emend err="">r</emend>taphilago</form> <xpln lang="en">90</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caraway(n)">Caruway</form> <xpln lang="en">274</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="case-weed(n)">Casseweede</form> <xpln lang="en">81</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cassia fistula(n)">Cassia fistula</form> <xpln lang="en">740</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cassidony(n)">Cassidonie</form> <xpln lang="en">266</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="casshe(n)">Casshes or Caxes</form> <xpln lang="en">616</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="catananche(n)">Catanance</form> <xpln lang="en">508</xpln><lemenote>"catananche" antedates earliest OED citation (1798).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cat's tail(n)">Cattes tayle</form> <xpln lang="en">513</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cedar tree(n)">Cedar and Cedre tree</form> <xpln lang="en">765</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="celandine(n)">Celandyne</form> <xpln lang="en">31</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="centaury great(n)" lexeme="centaury small(n)">Centorie great &#38; smal</form> <xpln lang="en">327</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ceterach(n)">Ceterach</form> <xpln lang="en">408</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chafeweed(n)">Chafeweed</form> <xpln lang="en">90</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thistle chameleon(n)">Thistel Chameleon</form> <xpln lang="en">517</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="charlock(n)">Charlock</form> <xpln lang="en">620</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese-running(n)">Cheese running</form> <xpln lang="en">539</xpln></wordentry>
+
+8<wordentry type="h"><form lang="en" lexeme="cherry(n)">Cheries and of al his kinde 
+and fruite</form> <xpln lang="en">714</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="winter cherry(n)">Winter Cheries</form> <xpln lang="en">445</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="long cherry tree(n)">Long Cherie tree</form> <xpln lang="en">726</xpln><lemenote>See "cornel," n. 3, 1b, OED.</lemenote></wordentry>
+
+8<wordentry type="h"><form lang="en" lexeme="chervil(n)">Cheruil and Cheruel</form> <xpln lang="en">614</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild chervil(n)">Wilde Cheruel</form> <xpln lang="en">615</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="toothpick chervil(n)">Toothpicke Cheruil</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chestnut tree(n)">Chesnut tree</form> <xpln lang="en">730</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="middle chickweed(n)">Middle Chickeweede</form> <xpln lang="en">53</xpln><lemenote>"middle chickweed" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="choke-fitch(n)">Choke fitche</form> <xpln lang="en">664</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="choke-weed(n)">Choke weed</form> <xpln lang="en">664</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweth(n)" lexeme="civet(n)" >Chyne / or Sweth</form> <xpln lang="en">643</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chichling(n)">Cicheling</form> <xpln lang="en">478</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild chich(n)">Wilde Ciches</form> <xpln lang="en">479</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ciderage(n)">Ciderage</form> <xpln lang="en">633</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cinquefoil(n)">Cinquefoyle or Sinke&#173;
+foyle</form> <xpln lang="en">83</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cistus(n)">Cistus</form> <xpln lang="en">659</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="citron(n)">Citr<expan type="">on</expan>s</form> <xpln lang="en">704</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="citrul(n)">Citrulles</form> <xpln lang="en">589</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild clary(n)">Wilde Clarie</form> <xpln lang="en">255</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smelling clover(n)">Smelling Clauer</form> <xpln lang="en">105</xpln><lemenote>"smelling clover" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clover gentle(n)">Clauer gentle</form> <xpln lang="la">ibid.</xpln><lemenote>"clover gentle" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rough clover(n)">Rough Clauer</form> <xpln lang="en">502</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden clover(n)" lexeme="salad clover(n)">Gard<expan type="">en</expan> or sallet Clauer</form> <xpln lang="en">496</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="treacle clover(n)">Treacle Clauer</form> <xpln lang="en">501</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clary(n)" lexeme="clear-eye(n)">Clarye / or Cleare-eye</form> <xpln lang="en">253</xpln><lemenote>"clear-eye" antedates earliest citation in OED (1865).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="clematis altera(n)">Clematis altera</form> <xpln lang="en">385</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clivers(n)">Cliuer</form> <xpln lang="en">539</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cuckoo flower(n)">Coccow flowers</form> <xpln lang="en">625</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockle(n)">Cockle</form> <xpln lang="en">160</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cuckoo's mate(n)">Cockoes meate</form> <xpln lang="en">503</xpln><lemenote>Antedates earliest citation in OED (1802).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cocolas panter(n)">Cocolas panter</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white colewort(n)">White Colewurtes</form> <xpln lang="en">553</xpln><lemenote>Antedates earliest citation in OED (1600).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild colewort(n)">Wilde Colewurtes</form> <xpln lang="en">555</xpln><lemenote>Not found in OED (1802).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cypress colewort(n)">Cypres Colewurtes</form> <xpln lang="en">554</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="country colewort(n)">Countrie Colewurtes</form> <xpln lang="en">555</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wrinkled cole(n)" lexeme="ruffed cole(n)">Wr<expan type="">in</expan>ckled or ruffed Cole</form> <xpln lang="en">554</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coliander(n)">Coliander</form> <xpln lang="en">276</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coloquintida(n)">Coloquintida</form> <xpln lang="en">375</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coltsfoot(n)">Coltes foote</form> <xpln lang="en">20</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="columbine(n)">Columbine</form> <xpln lang="en">166</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="comfrey(n)">Comfrey &#38; Comferie</form> <xpln lang="en">145</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cumin(n)">Comyn or Comyn</form> <xpln lang="en">275</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cone(n)" lexeme="pine apple(n)">Cone or Pine apple</form> <xpln lang="en">770</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consound(n)">Consounde</form> <xpln lang="en">165</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great conyza(n)">Great Conyza</form> <xpln lang="en">35</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard currant(n)">Bastard Corinthes</form> <xpln lang="en">683</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn-rose(n)">Cornerose</form> <xpln lang="en">434</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn-flower wild(n)" lexeme="corn-flower great(n)">Corneflowre wylde and 
+great</form> <xpln lang="en">161</xpln><lemenote>Phrasal forms not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cornel tree(n)">Cornell tree</form> <xpln lang="en">716</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coriander(n)">Coriander</form> <xpln lang="en">276</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carnation(n)">Coronations or Corna&#173;
+tions</form> <xpln lang="en">156</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden cotula(n)">Golden Cotula</form> <xpln lang="en">187</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white cotula without savory(n)">White Cotula without sa&#173;
+uorie</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cotton(n)">Cotton</form> <xpln lang="en">679</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="couch-grass(n)">Couch &#38; Couch grasse</form> <xpln lang="en">504</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cowslip(n)">Cowslippes</form> <xpln lang="en">123</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cowslip(n)">Cowslip</form> <xpln lang="en">125</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow craw(n)">Yellow Craw</form> <xpln lang="en">421</xpln><lemenote>Not found in OED but see "crowfoot."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cream of crystal(n)" lexeme="flower of crystal(n)">Creame or flower of Cri&#173;
+stall</form> <xpln lang="en">116</xpln><lemenote>Neither found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crane's-bill(n)">Cranes bil</form> <xpln lang="en">48</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cress(n)">Cresses</form> <xpln lang="en">623</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sciatica cress(n)">Sciatica Cresse</form> <xpln lang="en">630</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-cress(n)">Water Cresse</form> <xpln lang="en">625</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="winter-cress(n)">Winter Cresses</form> <xpln lang="en">626</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow water cress(n)">Yellow water Cresses</form> <xpln lang="en">611</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crestmarine(n)">Crest-marine</form> <xpln lang="en">578</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crumpled lettuce(n)">Crumpled lettis</form> <xpln lang="en">577</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crosswort(n)">Croswort</form> <xpln lang="en">541</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow crow-bells(n)">Yellow Crow belles</form> <xpln lang="en">214</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crowsoap(n)">Crowe sope</form> <xpln lang="en">159</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crowfoot(n)">Crowfoote</form> <xpln lang="en">419</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-crowfoot(n)" lexeme="marrish crowfoot(n)">Water or marrishe Crow&#173;
+foote</form> <xpln lang="en">420</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heath crow-foot(n)">Heath Crowfoote</form> <xpln lang="en">429</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white crow-foot(n)">White Crowfoote</form> <xpln lang="en">107. 420</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crow-toe(n)">Crowtoes</form> <xpln lang="en">206</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild cucumber(n)">Wylde Cucumber</form> <xpln lang="en">373</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cucumber(n)">Cucumbers</form> <xpln lang="en">586</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leaping cucumber(n)">Leaping Cucumber</form> <xpln lang="en">373</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cudweed(n)">Cudweed</form> <xpln lang="en">90</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="culrage(n)">Curagie</form> <xpln lang="en">632</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="currant(n)">Currantes</form> <xpln lang="en">652</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cuscuta(n)">Cuscuta / &#38;c.</form> <xpln lang="en">390</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cives(n)" lexeme="civet(n)">Cyues Ciuet</form> <xpln lang="en">642</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cytisus bush(n)">Cytisus bush</form> <xpln lang="en">736</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cypress tree(n)">Cypres tree</form> <xpln lang="en">767</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cypress-nut(n)">Cypres nuttes</form> <xpln lang="la">ibid.</xpln><lemenote>Citations not given in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="field cypress(n)">Feelde Cypres</form> <xpln lang="en">28</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden cypress(n)">Garden Cypres</form> <xpln lang="en">29</xpln></wordentry>
+
+</wordgroup1>
+
+</page>
+
+<page sig="xxx5r">
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="daffodil(n)">DAffodill</form> <xpln lang="en">649</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white daffodil(n)">White Daffodill</form> <xpln lang="en">211</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dandelion(n)">Dandelyon</form> <xpln lang="en">569</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="darnel(n)">Darnell</form> <xpln lang="en">469.504</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Danewort(n)">Danewort</form> <xpln lang="en">380</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="date tree(n)" lexeme="palm tree(n)">Date or Palme tree</form> <xpln lang="en">737</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daucus of Candy(n)">Daucus of Candy</form> <xpln lang="en">285</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daisy(n)">Daysies</form> <xpln lang="en">170</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blue flower-de-lis(n)">Blew flower Deluce</form> <xpln lang="en">193</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smallest flower-de-lis(n)">The smallest flowre De&#173;
+luce</form> <xpln lang="en">195</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white flower-de-lys(n)">White flower Deluce</form> <xpln lang="en">93</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow flower-de-lys(n)">Yellow flower Deluce</form> <xpln lang="en">199</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="devil's-bit(n)">Deuels bit</form> <xpln lang="en">110</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dew-berry(n)" lexeme="blackberry(n)">Dewberie or black berie</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dittany of Candy(n)">Dictam / or Dictamnum of 
+Candie</form> <xpln lang="en">268</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dill(n)">Dill</form> <xpln lang="en">270</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard dittany(n)" lexeme="false dittany(n)">Bastarde or false Dict<expan type="">am</expan></form> <xpln lang="en">344</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dittany(n)">Dittany</form> <xpln lang="en">631</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="devil's bit(n)">Diuels bit</form> <xpln lang="en">567</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dock(n)">Docks</form> <xpln lang="en">558</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dodder(n)">Doder</form> <xpln lang="en">398</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dogberry tree(n)">Dogge berie tree</form> <xpln lang="en">726</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog's caul(n)">Dogges Call</form> <xpln lang="en">77</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog's camomile(n)">Dogges Camomill</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog's leek(n)">Dogges Leekes</form> <xpln lang="en">209</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog's tooth(n)">Dogges Tooth</form> <xpln lang="en">203</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dove foot(n)">Doue foote</form> <xpln lang="en">47</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="double-tongue(n)">Double tongue</form> <xpln lang="en">675</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragon biting(n)">Dragon biting</form> <xpln lang="en">622</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water dragon(n)" lexeme="marsh dragon(n)">Water or Marsche Dra&#173;
+gon</form> <xpln lang="en">322</xpln><lemenote>"Marsh dragon" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragons(n)" lexeme="dragonwort(n)">Dragons and Dragon 
+wurt / &#38;c.</form> <xpln lang="en">322</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drawk(n)">Drauick</form> <xpln lang="en">471</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="double-leaf(n)">Dubble leafe</form> <xpln lang="en">224</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="duck's meat(n)">Duckes meate</form> <xpln lang="en">107</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dunch down(n)">Dunche downe</form> <xpln lang="en">513</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dwale(n)">Dwale</form> <xpln lang="en">446</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dwarf plane tree(n)">Dwarffe Pla<emend err="m">n</emend>e tree</form> <xpln lang="en">760</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="earthnut(n)">EArthnuttes</form> <xpln lang="en">491</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="earth chestnut(n)">Earth Chestnut</form> <xpln lang="en">579</xpln><lemenote>Antedates earliest citation in OED (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eglantine(n)">Eglantine</form> <xpln lang="en">656</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water elder(n)">Water Elder</form> <xpln lang="en">760</xpln><lemenote>Antedates earliest citation in OED (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elder(n)" lexeme="bourtree(n)">Elder or Bourtree</form> <xpln lang="en">378</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elecampane(n)">Elecampane</form> <xpln lang="en">336</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marsh elder(n)">Marishe Elder</form> <xpln lang="en">760</xpln><lemenote>Antedates earliest citation in OED (1611).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild white hellebore(n)">Wilde white Ellebor</form> <xpln lang="en">349</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elm tree(n)">Elme tree</form> <xpln lang="en">752</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="green endive(n)">Greene Endiue</form> <xpln lang="en">574</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild endive(n)">Wilde Endiue</form> <xpln lang="en">563</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white endive with the broad leaves(n)">White Endiue with the 
+brode leaues</form> <xpln lang="en">563</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="erysimon(n)">Erysimon</form> <xpln lang="en">630</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="esula(n)" lexeme="ezula(n)">Esula <term lang="en">and</term> Ezula</form> <xpln lang="en">361</xpln><lemenote>Cf. "essell," OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="euphorbium(n)">Euphorbium</form> <xpln lang="en">309</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yew tree(n)">Ewe or yew tree</form> <xpln lang="en">768</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eyebright(n)">Eyebright</form> <xpln lang="en">40</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="fat of glass(n)" lexeme="flower of glass(n)">FAt or floure of glasse</form> <xpln lang="en">116</xpln><lemenote>"floure of glass" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fen-berry(n)">Fenberies</form> <xpln lang="en">671</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="felwort(n)">Felworte</form> <xpln lang="en">332</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fennel(n)">Fenell</form> <xpln lang="en">269</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild and great fennel(n)">Wilde / &#38; great Fenell.</form> <xpln lang="en">269</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog fennel(n)">Dogge Fenell</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fennel-giant(n)">Fenell Giant</form> <xpln lang="en">269</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fenugreek(n)">Fenegreck</form> <xpln lang="en">492</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fern male and female(n)">Ferne male &#38; female</form> <xpln lang="en">401</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone fern(n)">Stone Ferne</form> <xpln lang="en">408</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oak fern(n)">Oke Ferne</form> <xpln lang="en">403.405</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petty fern(n)">Petie Ferne</form> <xpln lang="en">405</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ferula(n)">Ferula</form> <xpln lang="en">301</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feverfew(n)">Feuerfew</form> <xpln lang="en">19</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="ficus indica(n)">Ficus Indica</form> <xpln lang="en">544</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fig tree(n)">Figge tree</form> <xpln lang="en">717</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="finger-fern(n)">Finger Ferne</form> <xpln lang="en">408</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fig-wort(n)">Figworte</form> <xpln lang="en">31</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fistic nut(n)">Fistick Nuttes</form> <xpln lang="en">375</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water flag(n)">Water Flagges</form> <xpln lang="en">199</xpln><lemenote>Antedates earliest citation in OED (1580).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild flag(n)">Wilde Flagges</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flax(n)" lexeme="line(n)">Flare or Lyn</form> <xpln lang="en">70</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn-flag(n)">Corne Flag</form> <xpln lang="en">197</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="toad-flax(n)" lexeme="wild flax(n)">Tode and wilde Flaxe</form> <xpln lang="en">80</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flea-bane(n)">Fleabane</form> <xpln lang="en">104</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fleawort(n)">Fleawurte</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flea-bane(n)">Flebane</form> <xpln lang="en">35</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bloody flywort(n)">Bloudy Flieworte</form> <xpln lang="en">89</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flixwort(n)">Flixewort</form> <xpln lang="en">117</xpln><lemenote>Antedates earliest citation in OED (1878).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="floramour(n)"><emend err="Florantor">Floramor</emend></form> <xpln lang="en">168</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Our Lady's flower(n)">Our Ladyes Flower</form> <xpln lang="en">209</xpln><lemenote>Not identified in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flower-gentle(n)">Floure Gentill</form> <xpln lang="en">168</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flower Constantinople(n)">Floure Constantinople</form> <xpln lang="en">157</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flowery cole(n)">Flourie <emend err="dole">cole</emend></form> <xpln lang="en">554</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="folefoot(n)">Folefoote</form> <xpln lang="en">20.319</xpln><lemenote>"folefoote" not found in OED (see "asarabacca").</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forget-me-not(n)">Forget me not</form> <xpln lang="en">28</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foxglove(n)">Foxe gloue</form> <xpln lang="en">175</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foxtail(n)">Foxetayle</form> <xpln lang="en">542</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="framboise(n)">Framboys</form> <xpln lang="en">662</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frank(n)">Francke</form> <xpln lang="en">56</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fumitory(n)">Fumeterre</form> <xpln lang="en">24</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hedge fumitory(n)">Hedge Fumeterre</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great furze(n)">Great Furze</form> <xpln lang="en">669</xpln><lemenote>OED gives no citation for this word.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ground furze(n)">Ground Furze</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five-leaved grass(n)">Fiueleaued grasse</form> <xpln lang="en">83</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="galangal(n)">GAlangal</form> <xpln lang="en">346</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="galbanum(n)">Galbanum</form> <xpln lang="en">307</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gallow-grass(n)">Gallowgrasse</form> <xpln lang="en">72</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden woad(n)">Garden woad</form> <xpln lang="en">67</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden flag(n)">Garden flagges</form> <xpln lang="en">193</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garlic(n)">Garlyke</form> <xpln lang="en">637</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crow-garlic(n)" lexeme="wild garlic(n)">Crow &#38; wilde Garlike</form> <xpln lang="en">ibi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden garlic(n)">Garden Garlyke</form> <xpln lang="en">637</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bear's garlic(n)">Beares Garlike</form> <xpln lang="en">638</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush garlic(n)">Rusche Garlike</form> <xpln lang="en">643</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garlic thlaspi(n)">Garlike thlaspi</form> <xpln lang="en">628</xpln><lemenote>The phrase is not in the OED but see "Thlaspi," n.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gentian(n)">Gentian</form> <xpln lang="en">332</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bassinet geranium(n)">Bassinet Geranium</form> <xpln lang="en">48</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small gentian(n)" lexeme="dwarf gentian(n)">Smal or dwarf Genti<expan type="">an</expan></form> <xpln lang="en">334</xpln><lemenote>"small gentian" not found in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crowfoot geranium(n)">Croefoote Geranium</form> <xpln lang="en">481</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="germander(n)">Germander</form> <xpln lang="en">25</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water germander(n)">Water Germander</form> <xpln lang="en">111</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild germander(n)">Wilde Germander</form> <xpln lang="en">112</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water gillyflower(n)">Water Gillofer</form> <xpln lang="en">106</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow gillyflower(n)">Yellow Gillofers</form> <xpln lang="en">151</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="castle gillyflower(n)">Casteel Gilloffer</form> <xpln lang="en">152</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stock gillyflower(n)">Stocke Gillofers</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rogue gillyflower(n)">Rogues Gillofers</form> <xpln lang="en">153</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clove-gillyflower(n)">Cloaue Gillofers</form> <xpln lang="en">156</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden gillyflower(n)">Garden Gillofers</form> <xpln lang="la">ibid</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feathered gillyflower(n)">Feathered Gillofers</form> <xpln lang="en">156</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clove-gillyflower(n)">Cloue Gillofers</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mash gillyflower(n)">Masche Gillofers</form> <xpln lang="en">157</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockoo gillyflower(n)">Cockow Gillofers</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mock gillyflower(n)">Mocke Gillofer</form> <xpln lang="en">335</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gingidium(n)">Gingidium</form> <xpln lang="en">615</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stinking gladdon(n)">Stinking Glading</form> <xpln lang="en">196</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn-gladdon(n)">Corne Gladin</form> <xpln lang="en">197</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="right gladen(n)">Right Gladin</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rank stinking goat(n)">Ranke stinking Goate</form> <xpln lang="en">549</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat's beard(n)">Goates bearde</form> <xpln lang="en">41.167</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat's-cullions(n)">Goates Cullions</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold-cups(n)">Goldcuppes</form> <xpln lang="en">422</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden apple(n)">Golden Appels</form> <xpln lang="en">440</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold-flower(n)">Golde floure</form> <xpln lang="en">89.190</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden flower of Peru(n)">Golden Floure of Per&#173;
+rowe</form> <xpln lang="en">192</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden flower(n)">Golden flower</form> <xpln lang="en">420</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold-knop(n)">Goldknoppes</form> <xpln lang="en">422</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose-foot(n)">Goose foote</form> <xpln lang="en">548</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden-rod(n)">Golden Rodde</form> <xpln lang="en">141</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold-knap(n)">Goldknappe</form> <xpln lang="en">421</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose-nest(n)">Goosenest</form> <xpln lang="en">224</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose-grass(n)">Goose-grasse</form> <xpln lang="en">539</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose-share(n)">Gooseshare</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Good Henry(n)">Good Henry</form> <xpln lang="en">561</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go-to-bed-at-noon(n)">Goe to bed at noone</form> <xpln lang="en">167</xpln><lemenote>OED has "jack-go-to-bed-at-noon."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gourd(n)">Gourde</form> <xpln lang="en">592</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="long gourd(n)">Long Gourdes</form> <xpln lang="la">ibid</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gooseberry(n)">Goosberies</form> <xpln lang="en">681</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black gooseberry(n)">Blacke Gooseberies</form> <xpln lang="en">683</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beyond-sea gooseberry(n)">Bey<expan type="">on</expan>dsea Gooseberies</form> <xpln lang="en">683</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red gooseberry(n)">Redde Gooseberies</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grace of god(n)">Grace of God</form> <xpln lang="en">48</xpln><lemenote>Antedates earliest OED citation (1597; "grace," n., 13).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea grape(n)">Sea Grape</form> <xpln lang="en">116</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild grape(n)" lexeme="wild vine(n)">Wilde Grape or Vine</form> <xpln lang="en">652</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Gratia Dei(n)">Gratia Dei</form> <xpln lang="en">375</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grass comforting the eyes(n)">Grasse comfortyng the 
+eyes</form> <xpln lang="en">506</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three-leaved grass(n)">Threeleaued Grasse</form> <xpln lang="en">406</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grass of Parnassus(n)">The grasse of Parnasus</form> <xpln lang="en">510</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="St. John's grass(n)">S. Ihons Grasse</form> <xpln lang="en">64</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="square St. John's grass(n)">Square S. Iohns grasse.</form> <xpln lang="en">
+65</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gromwell(n)">Gremill</form> <xpln lang="en">290</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gromwell(n)">Gromel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ground pine(n)">Ground Pyne</form> <xpln lang="en">28</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ground-swell(n)">Groundswel</form> <xpln lang="en">371</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gum dragant(n)">Gumme Dragagant</form> <xpln lang="en">543</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="hare's-foot(n)">HAres foote</form> <xpln lang="en">502</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="harmel(n)">Harmall</form> <xpln lang="en">263</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heartsease(n)">Hartes ease</form> <xpln lang="en">249.151</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hartwort(n)">Hartwurt</form> <xpln lang="en">314</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="haskwort(n)">Haskewurt</form> <xpln lang="en">172</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hazel tree(n)" lexeme="filbert tree(n)">Hasel or Filberd tree</form> <xpln lang="en">734</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hazelwort(n)">Haselwort</form> <xpln lang="en">319</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="haver(n)">Hauer</form> <xpln lang="en">505</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hawkweed(n)">Hawkeweede</form> <xpln lang="en">567</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hawthorn(n)">Hawthorne</form> <xpln lang="en">698</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hair-bremble(n)">Heare bremble</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heron's-bill(n)">Hearons byll</form> <xpln lang="en">47</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heath mouse-ear(n)">Heathmouse eare</form> <xpln lang="en">87</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heath(n)">Heath</form> <xpln lang="en">678</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heath-bramble(n)">Heath bramble</form> <xpln lang="en">661</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black hellebore(n)">Blacke Hellebor</form> <xpln lang="en">351</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white hellebore(n)">White Hellebor</form> <xpln lang="en">347</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemp(n)">Hempe</form> <xpln lang="en">72</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemp-tree(n)" lexeme="chaste-tree(n)">H<expan type="">em</expan>pe tree or chast tree</form> <xpln lang="en">691</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow and white henbane(n)">Yellowe and white Hen&#173;
+bane</form> <xpln lang="en">450</xpln><lemenote>"yellow henbane" and "white henbane" antedate earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemlock(n)">Hemlocke</form> <xpln lang="en">451</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hen's-foot(n)">Hennes foote</form> <xpln lang="en">24</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb aloe(n)">Herbe Alo<expan type="">en</expan></form> <xpln lang="en">353</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb bennet(n)">Herbe Bennet</form> <xpln lang="en">134</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carpenter's herb(n)">Carpenters Herbe</form> <xpln lang="en">133</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb Christopher(n)">S. Christophers Herbe</form> <xpln lang="en">402</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb-grace(n)">Herbe grace</form> <xpln lang="en">261</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb Ive(n)">Herbe Iue</form> <xpln lang="en">28.95</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Judaical herb(n)">Iudaical Herbe</form> <xpln lang="en">260</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb Paris(n)">Herbe Paris</form> <xpln lang="en">425</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb Robert(n)">Herbe Robert</form> <xpln lang="en">47</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb twopence(n)">Herbe twopence</form> <xpln lang="en">78</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="viper's herb(n)">Vipers Herbe</form> <xpln lang="en">10</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hermodactyl(n)">Hermodactil</form> <xpln lang="en">367</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hip-tree(n)">Heptree</form> <xpln lang="en">655</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hindberry(n)">Hindberie</form> <xpln lang="en">662</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hirse(n)">Hirse</form> <xpln lang="en">463</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hulver(n)">Huluer</form> <xpln lang="en">519</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hurt-sickle(n)">Hurt Sicle</form> <xpln lang="en">161</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="husuer(n)">Husuer</form> <xpln lang="en">701</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyacinth(n)">Hyacinthe</form> <xpln lang="en">206</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="autumn hyacinth(n)">Autumne Hyacinthe</form> <xpln lang="en">209</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bush hyacinth(n)" lexeme="tuft hyacinth(n)">Bush or tuft Hyacinthe </form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hag-taper(n)">Hyg taper</form> <xpln lang="en">120</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyssop(n)">Hysope</form> <xpln lang="en">227</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepper hyssop(n)">Pepper Hyssope</form> <xpln lang="en">230</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hocks(n)">Hockes</form> <xpln lang="en">581</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small wild hock(n)">Smal wilde Hocke</form> <xpln lang="en">581</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hook-heal(n)">Hooke heale</form> <xpln lang="en">133</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="holewort(n)">Holewurte</form> <xpln lang="en">316</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="holly(n)">Holly</form> <xpln lang="en">701</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hollyhocks(n)">Holyhockes</form> <xpln lang="en">581</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common hocks(n)">Common Hockes</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea-holly(n)">Sea Holly</form> <xpln lang="en">519</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="holm(n)">Holme</form> <xpln lang="en">701</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea-holm(n)">Sea Holme</form> <xpln lang="en">519</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hollow-root(n)">Holowe roote</form> <xpln lang="en">316</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small honesty(n)">Smal honesties</form> <xpln lang="en">156</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honeysuckle(n)">Honysuckle</form> <xpln lang="en">391</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hop(n)">Hoppe</form> <xpln lang="en">400</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horehound(n)">Horehounde and of all his 
+kinde</form> <xpln lang="en">257</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horestrange(n)">Horestrange</form> <xpln lang="en">298</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marsh horehound(n)" lexeme="water horehound(n)">Marishe or water Hore&#173;
+hounde</form> <xpln lang="en">257</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-flower(n)">Horseflowre</form> <xpln lang="en">164</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horseheal(n)">Horseheele</form> <xpln lang="en">336</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-hoof(n)">Horse houe</form> <xpln lang="en">20</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="savegrass(n)" lexeme="horse tail(n)">Horse tayle &#38; sauegrasse</form> <xpln lang="en">101</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-tongue(n)">Horse tongue</form> <xpln lang="en">675</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hound's-tree(n)">Houndes tree</form> <xpln lang="en">716</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hound berry tree(n)">Hound berie tree</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="houseleek(n)">Housleeke</form> <xpln lang="en">114</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="jack-by-the-hedge(n)">IAcke by the hedge</form> <xpln lang="en">639</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jasmine(n)">Iasmine</form> <xpln lang="en">658</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="St. James's wort(n)">S. Iames worte</form> <xpln lang="en">70</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="St. John's-wort(n)">S. Iohns worte</form> <xpln lang="en">64</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="iberis(n)">Iberies</form> <xpln lang="en">630</xpln><lemenote>Antedates earliest OED citation (1768).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wall fern(n)">Wall <emend err="I">F</emend>erne</form> <xpln lang="en">403.404</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Joseph's flower(n)">Iosephs flowre</form> <xpln lang="en">167</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="narrow bladed iris(n)">Narrowe bladed Ireos</form> <xpln lang="en">194</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dwarf iris(n)">Dwarffe Ireos</form> <xpln lang="en">195</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild iris(n)">Wilde Ireos</form> <xpln lang="en">196</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bulbose iris(n)">Bulbus Ireos</form> <xpln lang="en">198</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="iris(n)">Iris</form> <xpln lang="en">193</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow wild iris(n)">Yellow wilde Iris</form> <xpln lang="en">199</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Italian vetch(n)">Italian fetche</form> <xpln lang="en">490</xpln><lemenote>Antedates earliest OED citation (1640).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jujube tree(n)">Iuiub tree</form> <xpln lang="en">722</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jung fraw hare(n)">Iung fraw hare</form> <xpln lang="en">414</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="juniper berry(n)">Iuniper beries</form> <xpln lang="en">763</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="juniper tree(n)">Iuniper tree</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ivray(n)">Iuraye</form> <xpln lang="en">469</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ivy-bindweed(n)">Iuybindweede</form> <xpln lang="en">394</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ivy black(n)" lexeme="ivy swall(n)">Iuye black and s<emend err="w">m</emend>all.</form> <xpln lang="en">388</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ground ivy(n)">Gro<emend err="nu">un</emend>de Iuye</form> <xpln lang="en">389</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="water cress(n)">WAter Kars</form> <xpln lang="en">625</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prickled kali(n)">Prickled Kali</form> <xpln lang="en">116</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knee-holm(n)">Kneeholme</form> <xpln lang="en">674</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knapweed(n)">Knapweede</form> <xpln lang="en">109</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knee-hul(n)">Kneehul</form> <xpln lang="en">674</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knight's milfoil(n)">Knights milfoyle</form> <xpln lang="en">143</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kind(n)">Kynde</form> <xpln lang="en">251</xpln><lemenote>On p. 251, "Kynde" is not a plant-name.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knight's water sengreen(n)">Knights water Sen&#173;
+greene</form> <xpln lang="en">143</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knight's wort(n)">Knights worte</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="lady's mantle(n)">LAdies mantell</form> <xpln lang="en">140</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="langue de boeuf(n)">Langdebeef</form> <xpln lang="en">568</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lampsana(n)">Lampsana</form> <xpln lang="en">560</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lark's-claw(n)">Larckes claw</form> <xpln lang="en">165</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="larkspur(n)">Larckes spurre</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laser(n)">Laser</form> <xpln lang="en">303</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laserpitium(n)">Laserpitium</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="'lavender 'cotton(n)">Lauender cotton</form> <xpln lang="en">29</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lavender gentle(n)">Lauender gentle</form> <xpln lang="en">266</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="French lavender(n)">French Lauender</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laver(n)">Lauers / or Leuers</form> <xpln lang="en">199</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lauriel(n)" lexeme="laury(n)" >Lauriel / or Lowrye</form> <xpln lang="en">368</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laurel of Alexandria(n)">Laurus of Alexandria</form> <xpln lang="en">676</xpln><lemenote>Antedates earliest OED citation (1760).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="French leek(n)" lexeme="unset leek(n)">Frenche Leeke / vnset 
+Leeke</form> <xpln lang="en">641</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leek(n)">Leeke or Leekes</form> <xpln lang="en">641</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="headed leek(n)" lexeme="knopped leek(n)">The headded or knopped 
+Leeke</form> <xpln lang="en">641</xpln>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maiden leek(n)">Mayden Leeke</form> <xpln lang="la">ibid.</xpln><lemenote>
+Antedates earliest citation in OED (1655).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush leek(n)">Rusche Leekes</form> <xpln lang="en">643</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild leek(n)" lexeme="corn leek(n)">Wild &#38; Corne Leeke</form> <xpln lang="en">644</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lentil(n)">Lentilles</form> <xpln lang="en">487</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leopard's foot(n)">Leopardes foote</form> <xpln lang="en">410</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lettuce(n)">Lettis</form> <xpln lang="en">573</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water lentils(n)">Water Lentils</form> <xpln lang="en">107</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loafed lettuce(n)" lexeme="cabbage lettuce(n)"> Lofed / or Cabbage Let&#173;
+
+</page>
+
+<page sig="xxx5v">
+
+tis</form> <xpln lang="en">573</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lettuce(n)">Lettus</form> <xpln lang="la">ibid. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild lettuce(n)">Wilde Letuce</form> <xpln lang="en">574</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="livelong(n)">Liblong</form> <xpln lang="en">39</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white lily(n)">White Lillie</form> <xpln lang="en">200</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild lily(n)">Wilde Lillie</form> <xpln lang="en">203</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lilly non bulbous(n)">Lillie non Bulbus</form> <xpln lang="en">204</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lily of Alexandria(n)">Lillie of Alexandria</form> <xpln lang="en">205</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white water-lily(n)">White water Lellie</form> <xpln lang="en">181</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lemon(n)">Limons</form> <xpln lang="en">704</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="linden tree(n)">Linden tree</form> <xpln lang="en">753</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lily narcissus(n)">Lillynarcissus</form> <xpln lang="en">213</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lingwort(n)">Lingwort</form> <xpln lang="en">347</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="livelong(n)">Liue long</form> <xpln lang="en">39</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liverwort(n)">Liuerwort</form> <xpln lang="en">411</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone livewort(n)">Stone Liue<emend err="">r</emend>wort</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lote-tree(n)">Lote tree</form> <xpln lang="en">729</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="love-in-idleness(n)">Loue in idlenes</form> <xpln lang="en">149</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="louse-powder(n)">Lousepowder</form> <xpln lang="en">371</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lovage(n)">Louage</form> <xpln lang="en">295</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lungwort(n)">Lungwort</form> <xpln lang="en">414</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lunary(n)">Lunarie</form> <xpln lang="en">136</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lupin(n)">Lupines</form> <xpln lang="en">481</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lungwort(n)">Lungwurt</form> <xpln lang="en">125</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="licorise(n)">Lycoryse</form> <xpln lang="en">694</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lily convall(n)">Lyllie Conuall</form> <xpln lang="en">178</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="may lily(n)">May Lyllies</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lyry confancy(n)">Lyry confancy</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lysimachia(n)">Lysimachia</form> <xpln lang="en">74</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blue lymachus(n)" lexeme="azured lymachus(n)">Blewe or azured Lyma&#173;
+chus</form> <xpln lang="en">75</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three leaf liverwort(n)">Three leafe Liuerwurt</form> <xpln lang="en">59</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="red mace(n)">REede Mace</form> <xpln lang="en">513</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="madder(n)">Madder</form> <xpln lang="en">538</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="male knot-grass(n)">Male knot grasse</form> <xpln lang="en">99</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mallow(n)">Mallowes &#38;c.</form> <xpln lang="en">581</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dwarf mallow(n)">Dwarffe Mallowe</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common clean mallow(n)" lexeme="tall wild mallow(n)">Common cleyn and tawle 
+wilde Mallow</form> <xpln lang="la">ibid.</xpln><lemenote>"wild mallow" antedates earliest OED citation (1597); and "common mallow" also (1611).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marshmallow(n)">Marish Mallowe</form> <xpln lang="en">583</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white mallow(n)">White Mallow</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cut mallow(n)">Cut Mallowe</form> <xpln lang="en">585</xpln><lemenote>"cut mallow" in OED only within a quotation.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Symon's mallow(n)">Symons Mallow</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vervain mallow(n)">Verueyn Mallow</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slimy mallow(n)" lexeme="mucilage mallow(n)" lexeme="Venice mallow(n)">The slymie or Mucculage 
+Mallow of Vennis</form> <xpln lang="en">585</xpln><lemenote>"slimy mallow" antedates earliest use in OED (1783), and "Venice mallow" (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="male mandrake(n)">Male Mandrage</form> <xpln lang="en">438</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="female mandrake(n)">Female Mandrage</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white mandrake(n)">White Mandrake</form> <xpln lang="en">438</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black mandrake(n)">Blacke Mandrake</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maple(n)">Maple</form> <xpln lang="en">762</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="march(n)">March</form> <xpln lang="en">453</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marjoram(n)">Marierom / and of his 
+kynde</form> <xpln lang="en">234.236</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard marjoram(n)">Bastarde Marierom</form> <xpln lang="en">237</xpln><lemenote>Antedates first citation in OED (1706).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="costmary(n)">Coast Marie</form> <xpln lang="en">250</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marsh marigold(n)">Marsche Marigolde</form> <xpln lang="en">31</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marigold(n)" lexeme="rud(n)">Marygoldes &#38; Ruddes</form> <xpln lang="en">163</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild marigold(n)">Wilde Marygolde</form> <xpln lang="en">190</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marshberry(n)">Marrishe beries</form> <xpln lang="en">671</xpln><lemenote>Antedates earliest OED citation (1822).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mastic(n)">Mastic</form> <xpln lang="en">235</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imperatoria(n)" lexeme="masterwort(n)">Imperatoria Mayster&#173;
+wort</form> <xpln lang="en">298</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="matfelon(n)">Materfilon</form> <xpln lang="en">109</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mathers(n)">Mathers</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foolish maythe(n)">Foolish Mathes</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red maythe(n)">Redde Mathes</form> <xpln lang="en">188</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maudlin(n)">Mawdelein</form> <xpln lang="en">250</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maiden mercury(n)">Mayden Me<emend err="">r</emend>cury</form> <xpln lang="en">78</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maidenhair(n)">Maydenheare</form> <xpln lang="en">410</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meadsweet(n)">Medesweete</form> <xpln lang="en">41</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meadwort(n)">Medewurte</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="medick(n)" lexeme="yellow vetch(n)">Medick &#38; Yellow fitche</form> <xpln lang="en">485</xpln><lemenote>Antedates earliest OED citation for "yellow vetch" (1796).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meadow shavegrass(n)">Medow Shauegrasse</form> <xpln lang="en">99</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="medlar tree(n)">Medler tree</form> <xpln lang="en">713</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="germen melilot(n)">Germaines Melilot</form> <xpln lang="en">497</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common melilot(n)">The c<expan type="">om</expan>mon and best know<expan type="">en</expan> 
+Melilot</form> <xpln lang="en">498</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melon(n)">Melons</form> <xpln lang="en">588.590</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="muskmelon(n)">Muske Melons</form> <xpln lang="en">590</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turkey melon(n)">Turkie Melons</form> <xpln lang="en">589</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mercury(n)">Mercury</form> <xpln lang="en">77</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meu(n)" lexeme="meon(n)">Mew or Meon</form> <xpln lang="en">337</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mezereon(n)">Mezereon</form> <xpln lang="en">369.370</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="middle consound(n)">Middell Consounde</form> <xpln lang="en">133</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="middle comfrey(n)">Middle Comfery</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milfoil(n)">Milfoyle</form> <xpln lang="en">18.144</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milkwort(n)">Milkewurte</form> <xpln lang="en">49</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mill(n)">Mill</form> <xpln lang="en">463</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="millet(n)">Millet</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mistle(n)" lexeme="mistletoe(n)">Missell and Misselto</form> <xpln lang="en">747</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="miltwaste(n)">Miltwast</form> <xpln lang="en">406</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moly(n)">Moly</form> <xpln lang="en">509</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard moly(n)">Bastarde Moly</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="momordica(n)">Momordica</form> <xpln lang="en">441</xpln><lemenote>Not found in OED except as Latin term ("momordicin," 1855-)..</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moneywort(n)">Mony worte</form> <xpln lang="en">79</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moonwort(n)">Moonewort</form> <xpln lang="en">136</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="morel(n)">Morell</form> <xpln lang="en">443</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petty morel(n)">Petie Morel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moschata(n)">Moschata</form> <xpln lang="en">47</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moss of the sea(n)">Mosse of the Sea</form> <xpln lang="en">414</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mothwort(n)">Mothewor<emend err="d">t</emend>e</form> <xpln lang="en">89</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="motherwort(n)">Motherwort</form> <xpln lang="en">131</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stinking motherwort(n)">Stinking Motherwort</form> <xpln lang="en">549</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moth mullein(n)">Mothe Mulleyn</form> <xpln lang="en">122</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouse-ear(n)">Mouse eare</form> <xpln lang="en">54.87</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mousetail(n)">Mouse tayle</form> <xpln lang="en">96</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mugwort(n)">Mugworte.</form> <xpln lang="en">16</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petty mugget(n)">Pety Muguet</form> <xpln lang="en">530</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden mugget(n)">Golden Muguet</form> <xpln lang="en">541</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mullein(n)">Mulleyne</form> <xpln lang="en">120</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mulberry tree(n)">Mulberie tree</form> <xpln lang="en">715</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="musa(n)" lexeme="muse tree(n)">Musa or Mose tree</form> <xpln lang="en">705</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mustard(n)">Mustarde</form> <xpln lang="en">619</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white mustard(n)">White Mustarde</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="myagrum(n)">Myagrum</form> <xpln lang="en">494</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="miltwaiste(n)">Milt waste</form> <xpln lang="en">408</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)">Myntes &#38;c.</form> <xpln lang="en">244</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-mint(n)">Horse Mynte and of all his 
+kynde</form> <xpln lang="en">245</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn-mint(n)">Corne Mynte</form> <xpln lang="en">248</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild myrtle(n)">Wilde Myrtel</form> <xpln lang="en">674</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="myrtle tree(n)">Myrtell tree</form> <xpln lang="en">687</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="narcissus(n)">NArcissus</form> <xpln lang="en">211</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush narcissus(n)">Rush Narcissus</form> <xpln lang="en">212</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard narcissus(n)">Bastarde Narcissus</form> <xpln lang="en">214</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow narcissus(n)">Yellow Narcissus</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="narcissus violet(n)">Narcissus violet</form> <xpln lang="en">216</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="navet(n)">Nauet</form> <xpln lang="en">595</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moist navet(n)" lexeme="water navet(n)">The moyst or water Na&#173;
+uet</form> <xpln lang="en">595</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="navew gentle(n)">Nauew g<expan type="">en</expan>tle</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paris navewes(n)">Paris Nauewes</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neckweed(n)">Neckewee<emend err="">d</emend></form> <xpln lang="en">72</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="needle chervil(n)">Needel Cheruill</form> <xpln lang="en">615</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shepherd's needle(n)">Shepheardes Neel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white and yellow nenuphar(n)">White and Yellow Nenu&#173;
+phar</form> <xpln lang="en">181</xpln><lemenote>Not found in OED but see "nenuphar," n.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nep(n)" lexeme="catmint(n)">Neppe &#38; Cat Mynte</form> <xpln lang="en">248</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neezewort(n)">Nesewurte</form> <xpln lang="en">347</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small nettle(n)">Smal Netel</form> <xpln lang="en">129</xpln><lemenote>Antedates earliest OED citation (1753).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great common nettle(n)">Great c<expan type="">om</expan>mon Nettel</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED but see "common nettle" under "nettle,", which this antedates (1849).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Roman nettle(n)" lexeme="Greek nettle(n)">Romayne or Greeke Net&#173;
+tel</form> <xpln lang="en">129</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dead-nettle(n)">Dead Nettel</form> <xpln lang="en">131</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blind-nettle(n)" lexeme="archangel(n)">Blind Nettel and Archan&#173;
+gel</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nettle-tree(n)">Nettle tree</form> <xpln lang="en">729</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="field nigella(n)">Fielde Nigella</form> <xpln lang="en">160</xpln><lemenote>Antedates earliest OED citation (1587).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden nigella(n)">Garden Nigella</form> <xpln lang="en">278</xpln><lemenote>Antedates earliest OED citation (1601).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild nigella(n)">Wilde Nigella</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1611).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woody nightshade(n)">Wooddy Nightshade</form> <xpln lang="en">398</xpln><lemenote>Antedates earliest OED citation (1724).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nightshade(n)">Nightshade</form> <xpln lang="en">443.445.446</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nosebleed(n)">Noose bleede</form> <xpln lang="en">144</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nutmeg(n)" lexeme="mace(n)">Nutmegge &#38; macis</form> <xpln lang="en">732</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-nut(n)">Water Nuttes</form> <xpln lang="en">536</xpln><lemenote>Antedates earliest OED citation (1617).</lemenote></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="oculi christi(n)">OCuli Christi</form> <xpln lang="en">255</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oak tree(n)">Oke tree</form> <xpln lang="en">745</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oak of Jerusalem(n)" lexeme="oak of Paradise(n)">Oke of Hierusalem and 
+Oke of Paradise</form> <xpln lang="en">343</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oleander(n)">Ole<expan type="">an</expan>der</form> <xpln lang="en">430</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="olive tree(n)">Oliue tree</form> <xpln lang="en">837</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one-blade(n)">One blade</form> <xpln lang="en">178</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one-leaf(n)">One leafe</form> <xpln lang="la">ibid</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one-berry(n)">One berie</form> <xpln lang="en">425</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="onion(n)">Onyon</form> <xpln lang="en">640</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush onion(n)">Rushe Onyons</form> <xpln lang="en">643</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild onion(n)">Wilde Onyon</form> <xpln lang="en">644</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white field onion(n)">White feelde Onyon</form> <xpln lang="en">645</xpln><lemenote>Antedates earliest OED citation (1582).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea onion(n)">Sea Onyon</form> <xpln lang="en">646</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="opopanax(n)">Opopanax</form> <xpln lang="en">302</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orache(n)">Orache</form> <xpln lang="en">546</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orchis(n)">Orchis</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard orchis(n)">Bastard Orchis</form> <xpln lang="en">224</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orange(n)">Orenge</form> <xpln lang="en">704</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="organy(n)">Organie</form> <xpln lang="en">232</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="origan(n)">Origan</form> <xpln lang="en">237</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild origan(n)">Wilde Origan</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat's origan(n)">Goates Origan</form> <xpln lang="en">239</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orob-strangler(n)">Orobstrangler</form> <xpln lang="en">664</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orpine(n)">Orpyne</form> <xpln lang="en">39</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orcanet(n)">Orschanet</form> <xpln lang="en">9</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Osmund the waterman(n)">Osm<expan type="">un</expan>de the Waterm<expan type="">an</expan></form> <xpln lang="en">402</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Osmund baldpate(n)">Osmunde Baldepate</form> <xpln lang="en">405</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small Osmund(n)">Small Osmunde</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piled Osmund(n)">Pylde Osmunde</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oats(n)">Otes</form> <xpln lang="en">467</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piled oats(n)">Pilde Otes</form> <xpln lang="la"> ib.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poor oats(n)">Pour Otes</form> <xpln lang="en">471</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild oats(n)">Wilde Otes</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oat grass(n)">Ote grasse</form> <xpln lang="en">505</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ox-eye(n)">Oxe eye</form> <xpln lang="en">189</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxlip(n)">Oxelips</form> <xpln lang="en">123</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ox-tongue(n)">Oxetongue</form> <xpln lang="en">8.12</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxytriphyllon(n)">Oxytriphyllon</form> <xpln lang="en">501</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="padelion(n)">PAdelion</form> <xpln lang="en">140</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pagan tongue(n)" lexeme="uplandish tongue(n)">Pagane or vplandishe 
+tongue</form> <xpln lang="en">679</xpln><lemenote>Neither found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palma Christi(n)">Palma Christi</form> <xpln lang="en">226.354</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palm tree(n)">Palme tree</form> <xpln lang="en">699</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="panax(n)">Panax</form> <xpln lang="en">293</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pansy(n)">Pances</form> <xpln lang="en">149</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="panic(n)">Panick</form> <xpln lang="en">466</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petty panic(n)">Petie Panick</form> <xpln lang="en">465</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">Parsely</form> <xpln lang="en">605</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden parsley(n)">Garden Parsely</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hill parsley(n)">Hyll Parsely</form> <xpln lang="en">607</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mountain parsley(n)">Mountayne Parsely</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="march smallage(n)" lexeme="marsh parsley(n)" >Marche Smallache and 
+Marrishe Parsely</form> <xpln lang="en">607</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone parsley(n)">Stone Parsely</form> <xpln lang="en">608</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great parsley(n)" lexeme="alexanders(n)">Great Parsely or Alexan&#173;
+der</form> <xpln lang="en">609</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild parsley(n)">Wild Parsely</form> <xpln lang="en">610</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salad parsley(n)">Sallade Parsely</form> <xpln lang="en">611</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-parsley(n)">Water Parsely</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard parsley(n)">Bastard Parsely</form> <xpln lang="en">612</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsnip(n)">Parsenep</form> <xpln lang="en">604</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild parsnip(n)">Wilde Parsene<emend err="y">p</emend></form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meadow parsnip(n)">Medow Parsenep</form> <xpln lang="en">528</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow-parsnip(n)">Cowe Parsenep</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parietary(n)">Parietary</form> <xpln lang="en">49</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="partizan(n)">Partizan</form> <xpln lang="en">75</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pasque flower(n)">Passe flower</form> <xpln lang="en">188.420</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pastel(n)">Pastel</form> <xpln lang="en">67</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red patience(n)">Redde Patience</form> <xpln lang="en">559</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peach tree(n)">Peache tree</form> <xpln lang="en">710</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pearl plant(n)">Pearle plante</form> <xpln lang="en">290</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pear tree(n)">Peare tree</form> <xpln lang="en">711</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common pease(n)">Common Peason</form> <xpln lang="en">476</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden pease(n)">Garden Peason</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1681).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild pease(n)">Wilde Peason</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1706).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="branch pease(n)">Branche Peason</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great pease(n)">Great Peason</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broad or flat pease(n)">Brode or flat Pease</form> <xpln lang="en">478</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ciche pease(n)">Ciche Peason</form> <xpln lang="en">479</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep's ciche pease(n)">Sheepes ciche Pease</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pellitory of the wall(n)">Pellitorie of the wall</form> <xpln lang="en">49</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pellitory of Spain(n)">Pellitorie of Spayne</form> <xpln lang="en">300</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard pellitory(n)" lexeme="bertram(n)">Bastard Pellitorie or Ber&#173;
+tram</form> <xpln lang="en">342</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild pellitory(n)">Wilde Pellitorie</form> <xpln lang="en">343</xpln><lemenote>Antedates earliest OED citation (1607).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pellamountain(n)">Pellamountayne</form> <xpln lang="en">231</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penny royal(n)">Penny Royall</form> <xpln lang="en">232</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild penny royal(n)">Wilde Penny Royall</form> <xpln lang="en">248</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep-killing penny-grass(n)">Sheepe kyllyng Pennye 
+grasse</form> <xpln lang="en">38</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great pennywort(n)">Great Pennywurt</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (?1677).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mountain pennywort(n)">Mountaine P<expan type="">en</expan>nywort</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peony male(n)" lexeme="peony female(n)">Peonie male &#38; female</form> <xpln lang="en">338</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepon(n)">Pepons</form> <xpln lang="en">588</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepper(n)">Pepper</form> <xpln lang="en">635</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepperwort(n)">Pepperwurt</form> <xpln lang="en">631</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-pepper(n)">Water Pepper</form> <xpln lang="en">632</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-pepperwort(n)">Water Pepperwurt</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Indian pepper(n)">Indian Pepper</form> <xpln lang="en">634</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Calico pepper(n)">Calecute Pepper</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="periploca(n)">Periploca</form> <xpln lang="en">318</xpln><lemenote>Not found in OED as an English word.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="periwinkle(n)">Peruincle</form> <xpln lang="en">33</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="biting periwinkle(n)" lexeme="bush  periwinkle(n)">Biting or bushe Pereuin&#173;
+cle</form> <xpln lang="en">385</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="St. Peter's wort(n)">S. Peters wort</form> <xpln lang="en">65</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petigrew(n)">Petigree</form> <xpln lang="en">674</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petty cotton(n)">Pety cotton</form> <xpln lang="en">90</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pilcorn(n)">Pilcorne</form> <xpln lang="en">467</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great pilosella(n)">Great Pilosella</form> <xpln lang="en">87</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pimpernel(n)">Pimpernell</form> <xpln lang="en">55</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pimpernel(n)">Pimpinell</form> <xpln lang="en">138</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pink needle(n)">Pinkeneedell</form> <xpln lang="en">47</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pine tree(n)">Pine tree and of all his 
+kind</form> <xpln lang="en">770</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockoo-pintle(n)">Cockowp<expan type="">in</expan>tel</form> <xpln lang="en">323</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pitch(n)">Pitche</form> <xpln lang="en">771</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plane tree(n)">Plane tree</form> <xpln lang="en">755</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plantain(n)">Plantayne</form> <xpln lang="en">91</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea-plantain(n)">Sea Plantayne</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coronop plantain(n)">Coronop Plantayne</form> <xpln lang="en">95</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-plantain(n)">Water Plantayne</form> <xpln lang="en">97</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plum tree(n)">Plumme tree</form> <xpln lang="en">720</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prickly box(n)">Prickley boxe</form> <xpln lang="en">700</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prick-madam(n)">Prickmadam</form> <xpln lang="en">114</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prick-timber tree(n)">Pricke timber tree</form> <xpln lang="en">716</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="priest's pintle(n)">Priest pintell</form> <xpln lang="en">222.323</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="primrose(n)">Primeroses</form> <xpln lang="en">123</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="primrose peerless(n)">Primerose pierelesse</form> <xpln lang="en">211</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="primprint(n)">Primprint</form> <xpln lang="en">690</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="privet(n)">Priuet</form> <xpln lang="la">ibid.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="prunel(n)">Prunel</form> <xpln lang="en">133</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pilewort(n)">Pylewort</form> <xpln lang="en">31</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pinckens(n)">Pynckens</form> <xpln lang="en">136</xpln><lemenote>Unidentified.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pole rush(n)">Pole rushe</form> <xpln lang="en">511</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polemonium(n)">Polemonium</form> <xpln lang="en">345</xpln><lemenote>Antedates earliest OED citation (1601).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poly(n)">Poley / &#38;c.</form> <xpln lang="en">233</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polypody(n)">Polypody</form> <xpln lang="en">403</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goldilock's polytrichon(n)">Goldylockes Polytri&#173;
+chon</form> <xpln lang="en">414</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pomegranate(n)">Pomegranate</form> <xpln lang="en">706</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turkey pompion(n)">Turkie Pompons</form> <xpln lang="en">589</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pondweed(n)">Pondeweede</form> <xpln lang="en">106</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poor men's treacle(n)">Poore mens treacle</form> <xpln lang="en">637</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poplar(n)" lexeme="pepler(n)">Popler or Pepler</form> <xpln lang="en">750</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poppy(n)">Poppie</form> <xpln lang="en">432</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black poppy(n)" lexeme="wild poppy(n)">Blacke &#38; wilde Poppie </form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red poppy(n)">Redde Poppie</form> <xpln lang="en">434</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horned poppy(n)">Horned Poppie</form> <xpln lang="en">436</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pudding grass(n)">Pudding grasse</form> <xpln lang="en">232</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="puliall mountain(n)">Puliall mountayne</form> <xpln lang="en">231</xpln><lemenote>Antedates earliest OED citation (1706).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="puliol royal(n)">Pulioll Royall</form> <xpln lang="en">232</xpln><lemenote>Antedates earliest OED citation (1706).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purslane(n)">Purcelayne</form> <xpln lang="en">576</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild purslane(n)">Wilde Purcelayne</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tame purslane(n)" lexeme="garden purcelain(n)">Garden and tame Purce&#173;
+layne</form> <xpln lang="en">576</xpln><lemenote>"tame purslane" not found in OED; "garden purslane" antedates earliest citation in OED (1731).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purple(n)">Purple</form> <xpln lang="en">111</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purple velvet flower(n)">Purple veluet flower</form> <xpln lang="en">168</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red purple lily(n)">Red purple lillie</form> <xpln lang="en">202</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="quince tree(n)">QVince tree</form> <xpln lang="en">708</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quickbeam(n)">Quick beame</form> <xpln lang="en">748</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Our Lady's cushion(n)">Our ladies quishi<expan type="">on</expan></form> <xpln lang="en">509</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="radish(n)">RAdish</form> <xpln lang="en">598</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild radish(n)" lexeme="water radish(n)">Wild or water Radish </form> <xpln lang="la">ib.</xpln><lemenote>"water radish" antedates earliest OED citation (1753); "wild radish" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bellrags(n)">Bell Ragges</form> <xpln lang="en">611</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ragwort(n)">Ragwort</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raifort(n)" lexeme="mountain radish(n)">Raifort or mountayne Ra&#173;
+dish</form> <xpln lang="en">599</xpln><lemenote>"mountain radish" antedates the earliest OED citation (1727).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rampion(n)">Rampions</form> <xpln lang="en">597</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ramsons(n)">Ramsons</form> <xpln lang="en">638</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rape(n)">Rapes</form> <xpln lang="en">594</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Coventry rapes(n)">Couentrie Rapes</form> <xpln lang="en">174</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rape crowfoot(n)">Rape Crowfoote</form> <xpln lang="en">421</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="long rape(n)">Long Rape</form> <xpln lang="en">595</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild rape(n)">Wilde Rapes</form> <xpln lang="en">497</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small raisins of Corinth(n)">Smal Rasens of Corin&#173;
+the</form> <xpln lang="en">652</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raspis(n)">Raspis</form> <xpln lang="en">662</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raspsberry(n)" lexeme="framboise(n)">Raspis and Framboys be&#173;
+ries</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red rattel(n)">Red Rattel</form> <xpln lang="en">516</xpln><lemenote>Antedates the earliest OED citation (1756).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ray(n)">Raye</form> <xpln lang="en">469</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red-ray(n)">Red-Ray</form> <xpln lang="en">504</xpln></wordentry>
+
+</page>
+
+<page sig="xxx6r">
+
+<wordentry type="h"><form lang="en" lexeme="pole-reed(n)">Pole Reede</form> <xpln lang="en">514</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cane reed(n)">Cane Reede</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates the earliest OED citation (1694).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="indian reed(n)">Indian Reede</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates the earliest OED citation (1615).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugar reed(n)">Sugar Reede</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates the earliest OED citation (1718).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reed-grass(n)">Reede grasse</form> <xpln lang="en">515</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="restharrow(n)">Rest harrow</form> <xpln lang="en">669</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rubarb(n)" lexeme="rhabarb(n)">Reubarbe or Rhabarba</form> <xpln lang="en">328</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard rubarb(n)">Bastard Reubarbe</form> <xpln lang="en">43</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rhamnus(n)">Rhamnus</form> <xpln lang="en">696</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black ribes(n)">Blacke Ribes</form> <xpln lang="en">683</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common ribes(n)">Common Ribes</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="right scolopendrium(n)">Right Scolopendria</form> <xpln lang="en">408</xpln><lemenote>"scolopendria" antedates the earliest OED citation (1611).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rice(n)">Rise</form> <xpln lang="en">461</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Rhine berry(n)">Rheyn beries</form> <xpln lang="en">697</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden-rocket(n)" lexeme="garden rocket(n)" lexeme="tame rocket(n)" lexeme="gentle rocket(n)">Garden or tame and gentill 
+Rockat</form> <xpln lang="en">622</xpln><lemenote>"garden rocket" antedates the earliest OED citation (1832); "tame rocket" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rocket(n)">Rockat</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-rose(n)">Water Rose</form> <xpln lang="en">181</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rose tree(n)">Rose tree</form> <xpln lang="en">430</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rose(n)">Rose</form> <xpln lang="en">655</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="civet rose(n)">Cyuet Rose</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild rose(n)">Wilde Rose</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white rose(n)">White Roses</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="musk rose(n)">Muske Roses</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="damask rose(n)">Damaske Roses</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rose of Province(n)">Rose of Prouince</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rose campion(n)">Rose Campion</form> <xpln lang="en">158</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild rose campion(n)">Wilde Rose Campion</form> <xpln lang="en">159</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosemary(n)">Rosemary</form> <xpln lang="en">264</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="libanotis rosemary(n)">Libanotis Rosmarie</form> <xpln lang="en">279</xpln><lemenote>"libanotis" treated as Latin in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosebay tree(n)">Rose Baye tree</form> <xpln lang="en">430</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosin(n)">Rosen that c<expan type="">om</expan>meth out of the 
+Pine and Pitche of 
+trees</form> <xpln lang="en">772</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosewort(n)">Rosewurt</form> <xpln lang="en">341</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden rue(n)">Rue of the garden</form> <xpln lang="en">261</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild rue(n)">Wilde Rue</form> <xpln lang="en">263</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat's-rue(n)">Goates Rue</form> <xpln lang="en">490</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rue of the wall(n)">Rue of the wall</form> <xpln lang="en">409</xpln><lemenote>Not found as a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush(n)">Rushes</form> <xpln lang="en">511</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bulrush(n)" lexeme="pannier rush(n)">Bul Rush or panier rush</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush candle(n)">Rush candle</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mat-rush(n)" lexeme="frail-rush(n)">Mat or frayle Rushe</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild rush(n)">Wilde Rushe</form> <xpln lang="en">672</xpln><lemenote>Not found as a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rye(n)">Rye</form> <xpln lang="en">459</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="saffron(n)">SAffron</form> <xpln lang="en">217</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard saffron(n)">Bastard Saffron</form> <xpln lang="en">33</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mede saffron(n)" lexeme="wild saffron(n)">Mede &#38; wild Saffron</form> <xpln lang="en">367</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild bastard saffron(n)">Wilde bastaerd Saffron</form> <xpln lang="en">532</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sagapenum(n)">Sagapenum</form> <xpln lang="en">306</xpln><lemenote>Antedates earliest citation by OED 1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)">Sage &#38; of his c<expan type="">om</expan>m<expan type="">on</expan> sage</form> <xpln lang="en">151</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage of Jerusalem(n)">Sage of Ierusalem</form> <xpln lang="en">125</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wood-sage(n)" lexeme="wild sage(n)">Wood and wilde Sage</form> <xpln lang="en">253</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saligot(n)">Saligot</form> <xpln lang="en">536</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Solomon's seal(n)">Salomons seale</form> <xpln lang="en">103</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saltwort(n)">Salt wort</form> <xpln lang="en">116</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sampirer(n)">S<expan type="">am</expan>pier</form> <xpln lang="en">578</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanamunda(n)">Sanamunda</form> <xpln lang="en">134</xpln><lemenote>Not found as a headword in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanicle (n)">Sanicle or Sanikell</form> <xpln lang="en">139</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great sanicle(n)">Great Sanicle</form> <xpln lang="en">140</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sarapias stone(n)">Sarapias stones</form> <xpln lang="en">222</xpln><lemenote>Not found in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sarcocol(n)">Sarcocoll</form> <xpln lang="en">311</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saracin's comfery(n)">Sarrasines Comfery</form> <xpln lang="en">141</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saracin's consound(n)">Sarrasines consound </form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="satyrion(n)">Satyrion</form> <xpln lang="en">225</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bastard satyrion(n)">Bastard Satyrion</form> <xpln lang="en">225.226</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red satyrion(n)" lexeme="Syrian satyrion(n)">Red &#38; Syrian Satyri<expan type="">on</expan></form> <xpln lang="en">225</xpln><lemenote>Not found as a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three leaved satyrion(n)">Three leaued Satyrion</form> <xpln lang="en">225</xpln><lemenote>Not found as a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="royal satyrion(n)" lexeme="noble satyrion(n)">Satyri<expan type="">on</expan> royal or noble</form> <xpln lang="en">226</xpln><lemenote>"noble satyrion" not found as a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sauce sumach(n)">Sawce Sumach</form> <xpln lang="en">692</xpln><lemenote>Antedates the earliest citation in the OED (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="savin tree(n)">Sauin tree</form> <xpln lang="en">766</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common garden savory(n)">Comm<expan type="">on</expan> gard<expan type="">en</expan> Sauorie</form> <xpln lang="en">228</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="summer savory(n)">Somer Sauorie</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="winter savory(n)">Winter Sauorie</form> <xpln lang="en">230</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sauce-alone(n)">Sauce alone</form> <xpln lang="en">639</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saxifrage(n)">Saxifrage</form> <xpln lang="en">286</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden saxifrage(n)" lexeme="white saxifrage(n)">Golden and white Saxi&#173;
+frage</form> <xpln lang="en">288</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scabious(n)">Scabious</form> <xpln lang="en">109</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scabwort(n)">Scabwort</form> <xpln lang="en">336</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scale-fern(n)">Scaleferne</form> <xpln lang="en">408</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scammony(n)">Sc<expan type="">am</expan>monie</form> <xpln lang="en">396</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scordium(n)">Scordi<expan type="">on</expan></form> <xpln lang="en">111</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scorpion-wort(n)">Scorpion wurt</form> <xpln lang="en">63</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scorpion(n)">Scorpion</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scorpioides(n)">Scorpioides</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea-cole(n)">Sea cawle</form> <xpln lang="en">594</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Our Lady's seal(n)" lexeme="Our Lady's signet(n)">Our Ladies Seale or Sig&#173;
+net</form> <xpln lang="en">384</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sebesten(n)">Sebestens</form> <xpln lang="en">722</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="self-heal(n)">Selfe heale</form> <xpln lang="en">133</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="senvy(n)">Senuie</form> <xpln lang="en">619</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white senvy(n)">White Senuie</form> <xpln lang="la">ibid.</xpln><lemenote>Not found as a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sene(n)">Sene</form> <xpln lang="en">376</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sengreen(n)">Sengreene</form> <xpln lang="en">114</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="septfoil(n)">Setfoyle</form> <xpln lang="en">84</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serpent's tongue(n)">Serpentes tongue</form> <xpln lang="en">135</xpln><lemenote>Not found as a phrase in the OED but related to the Latin form, "Lingua serpentis."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seseli(n)">Seseli</form> <xpln lang="en">281</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seseli of Candy(n)">Seseli of Candie</form> <xpln lang="en">284</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="setwall(n)" lexeme="sydwal(n)">Setwal / or Sydwal</form> <xpln lang="en">340</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sharewort(n)">Sharewurt</form> <xpln lang="en">36</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shepherd's purse(n)">Sheapherds purse</form> <xpln lang="en">81</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="single leaf(n)">Single leafe</form> <xpln lang="en">178</xpln><lemenote>Variant of "one-leaf" (OED 1578). </lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skirret root(n)">Skirwit rootes</form> <xpln lang="en">605</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skirwort(n)">Skirwurt</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sleeping nightshade(n)">Sleeping Nightshade</form> <xpln lang="en">447</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sloe-tree(n)">Sloo tree</form> <xpln lang="en">721</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden smilax(n)">Garden Smilax</form> <xpln lang="en">474</xpln><lemenote>Antedating and not found as a phrase in the OED but related to the later English form, "smilax" (cited in 1601).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smyrnium(n)">Smyrnium</form> <xpln lang="en">613</xpln><lemenote>Not found in the OED but a Latin form.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cat-sloe(n)" lexeme="snag(n)">Cat Slose &#38; Snagges</form> <xpln lang="en">721</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snake-weed(n)">Snakeweede</form> <xpln lang="en">23</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snapdragon(n)">Snapdragon</form> <xpln lang="en">180</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soldanella(n)">Soldanella</form> <xpln lang="en">395</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sow-bread(n)">Sowbread</form> <xpln lang="en">330</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sundew(n)">Sonne deaw</form> <xpln lang="en">414</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sophia(n)">Sophia</form> <xpln lang="en">117</xpln><lemenote>Not a headword or lemma in the OED (the Latin name for fluxweed).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soapwort(n)">Soopewort</form> <xpln lang="en">335</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sorb-apple tree(n)">Sorbe apple tree</form> <xpln lang="en">727</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sorrel(n)">Sorrel</form> <xpln lang="en">559</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great sorrel(n)">Great Sorrell</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep's sorrel(n)">Sheepes Sorrell</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small sorrel(n)">Small Sorrel</form> <xpln lang="la">ibid.</xpln><lemenote>Not a phrase in the OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water sorrel(n)">Water Sorrell</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse sorrel(n)">Horse Sorrel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soldier's yarrow(n)">Souldiers yerrow</form> <xpln lang="en">143</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="southernwood(n)">Southrenwood</form> <xpln lang="en">1</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="female southernwood(n)">Female Southr<expan type="">en</expan>wood</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great southernwood(n)">Great Southrenwood </form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small southernwood(n)">Smal Southrenwood</form> <xpln lang="la"> ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sow-fennel(n)">Sowfenill</form> <xpln lang="en">298</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sow's thistle(n)">Sowthistel</form> <xpln lang="en">565</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Spanish broom(n)">Spanish broome</form> <xpln lang="en">666</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Spanish seed(n)" lexeme="canary-seed(n)">Spanish or canary sede</form> <xpln lang="en">465</xpln><lemenote>"Spanish seed" notyOED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spearwort(n)">Spearwurt</form> <xpln lang="en">340</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="single spelt(n)">Single Spelt</form> <xpln lang="en">458</xpln><lemenote>Phrase not found in OED..</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spelt(n)" lexeme="seia(n)">Spelt or Seia</form> <xpln lang="en">455</xpln><lemenote>"seia", which anglicizes the Greek form, is not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sperage(n)">Sperage</form> <xpln lang="en">474.618</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sparhawk(n)">Sperhawke herbe</form> <xpln lang="en">567</xpln><lemenote>Not in OED in this sense but it must be related to "hawkweed".</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spearwort(n)">Sperwort</form> <xpln lang="en">425</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spire(n)">Spier</form> <xpln lang="en">514</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spike(n)" lexeme="lavender(n)">Spike and Lauender</form> <xpln lang="en">265</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spinach(n)">Spinache</form> <xpln lang="en">556</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broad spleenwort(n)" lexeme="large spleenwort(n)">Broade or large Splene&#173;
+wort</form> <xpln lang="en">406</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild or rough spleenwort(n)">Wilde or rough Splene&#173;
+wort</form> <xpln lang="en">407</xpln><lemenote>"rough spleenwort" antedates earliest OED citation (1597); "wild spleenwort" not found in OED..</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spoonwort(n)">Spoonewort</form> <xpln lang="en">117</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spurgewort(n)">Spourgewort</form> <xpln lang="en">196</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spurge(n)">Spourge and of all his 
+kinde</form> <xpln lang="en">361</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spurry(n)">Spurrie</form> <xpln lang="en">56</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="squilla(n)">Squilla</form> <xpln lang="en">646</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="squinant(n)">Squin<expan type="">an</expan>t</form> <xpln lang="en">511</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stachys(n)">Stachis</form> <xpln lang="en">257</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="standelwort(n)">Standelwort</form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eunuch standergrass(n)">Eunuche St<expan type="">an</expan>dergrasse</form> <xpln lang="en">224</xpln><lemenote>Not in the OED as a phrase.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="standergrass(n)">Standergrasse</form> <xpln lang="en">222.225</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stonewort(n)">Stannewort</form> <xpln lang="en">80</xpln><lemenote>Antedates earliest OED citation (1585).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="star of Jerusalem(n)">Starre of Hierusalem</form> <xpln lang="en">167</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="golden stechados(n)">Golden Stechados</form> <xpln lang="en">89</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="starwort(n)">Starrewurt</form> <xpln lang="en">36</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stitchwort(n)">Stichwurt</form> <xpln lang="en">505</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stonebreak(n)">Stone-breake</form> <xpln lang="en">288</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great stonecrop(n)">Great stone croppe</form> <xpln lang="en">114</xpln><lemenote>No headword or lemma found in OED, and antedates earliest OED quotation (1640).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stonehore(n)">Stone hore</form> <xpln lang="en">115</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stork's bill(n)">Storkes byll</form> <xpln lang="en">47</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strangleweed(n)">Strangleweede</form> <xpln lang="en">664</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strangle-tare(n)">Strangle tare</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strawberry tree(n)">Strawberie tree</form> <xpln lang="en">728</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strawberry(n)">Strawberie or Strawbery 
+plant</form> <xpln lang="en">85</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loosestrife(n)">Louse strife</form> <xpln lang="en">74</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stubwort(n)">Stubwurt</form> <xpln lang="en">503</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden-succory(n)">Garden Succorie</form> <xpln lang="en">563</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gum-succory(n)">Gumme Succorie</form> <xpln lang="en">569</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yellow succory(n)">Yellow Succorie</form> <xpln lang="en">563</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sulphurwort(n)">Sulpherwurt</form> <xpln lang="en">298</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sumac(n)">Sumac</form> <xpln lang="en">673</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sumach(n)">Sumach</form> <xpln lang="en">692</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coriers sumach(n)">Coriers Sumack</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leather sumach(n)">Leather Sumach</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meat sumach(n)">Meate Sumach</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Indian sun(n)">Indian Sunne</form> <xpln lang="en">192</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="swallowwort(n)">Swallowurt</form> <xpln lang="en">13.317</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="swine's cress(n)">Swinescressis</form> <xpln lang="en">95</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sycamore tree(n)">Sycomore tree</form> <xpln lang="en">716</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="tansy(n)">TAnsie</form> <xpln lang="en">18</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild tansy(n)">Wilde Tansie</form> <xpln lang="en">86</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tamarisk(n)">Tamarisk</form> <xpln lang="en">677</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tare(n)">Tares</form> <xpln lang="en">486</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tarragon(n)">Tarragon</form> <xpln lang="en">623</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fuller's teasel(n)">Fullers Teasell</form> <xpln lang="en">522</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tetterwort(n)">Tetterwurt</form> <xpln lang="en">31</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hundred-headed thistle(n)">Hundred headed Thistel</form> <xpln lang="en">519</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="star thistle(n)">Starre Thistel</form> <xpln lang="en">521</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="card thistle(n)">Carde Thistell</form> <xpln lang="en">522</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Our Lady's thistle(n)">Our Ladies Thistel</form> <xpln lang="en">525</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="globe thistle(n)">Globe Thistel</form> <xpln lang="en">516</xpln><lemenote>Antedates earliest OED citation (1582).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cotton-thistle(n)">Cotton Thistel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oat thistle(n)">Ote Thistel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white cotton-thistle(n)">White cotton Thistel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild white thistle(n)">Wilde white Thistel</form> <xpln lang="la">ibid.</xpln><lemenote>Not in OED as a phrase.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="silver thistle(n)">Siluer Thistel</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carline thistle(n)">Carline Thistel</form> <xpln lang="en">530</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blessed thistle(n)">Blessed Thistel</form> <xpln lang="en">533</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild thistle(n)">wilde Thistels</form> <xpln lang="en">535</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow-thistle(n)">Cowe Thistell</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rough milk thistle(n)">Rough milke Thistel</form> <xpln lang="en">565</xpln><lemenote>OED records only as "milk thistle."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tender milk thistle(n)" lexeme="soft milk thistle(n)">The tender or soft milke 
+Thistel</form> <xpln lang="la">ib.</xpln><lemenote>OED records only as "milk thistle."</lemenote></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="thlaspi(n)">Thlaspi</form> <xpln lang="en">628</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Candy thlaspi(n)">Candy Thlaspi</form> <xpln lang="en">629</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buckthorn(n)">Bucke Thorne</form> <xpln lang="en">697</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorn-broom(n)">Thorne broome</form> <xpln lang="en">668</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whitethorn(n)">White Thorne</form> <xpln lang="en">698</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorn-grape(n)">Thorne grape</form> <xpln lang="en">681</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorn box(n)">Thorne boxe</form> <xpln lang="en">700</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blackthorn(n)">Blacke Thorne</form> <xpln lang="en">721</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorough wax(n)">Thorow waxe</form> <xpln lang="en">137</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thoroughleaf(n)">Thorow leafe</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throatwort(n)">Throtewurt</form> <xpln lang="en">172</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spurge thyme(n)">Spurge time</form> <xpln lang="en">363</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog's tongue(n)">Dogges Tongue</form> <xpln lang="en">11</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hound's tongue(n)">Houndes Tongue</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep's tongue(n)">Sheepes Tongue</form> <xpln lang="en">9</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone hart's-tongue(n)">Stone hartes T<expan type="">on</expan>gue</form> <xpln lang="en">406</xpln><lemenote>OED records only as "hart's-tongue."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue herb(n)">Tongue herbe</form> <xpln lang="en">675</xpln><lemenote>OED records as "double tongue."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue wort(n)">Tongue wort</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1736-52).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue-blade(n)">Tongue blade</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue laurel(n)">Tongue Laurel</form> <xpln lang="en">676</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="torch(n)">Torches</form> <xpln lang="en">120</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-torch(n)">Water Torche</form> <xpln lang="en">513</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tormentil(n)">Trom<expan type="">en</expan>til</form> <xpln lang="en">84</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turnsole(n)">Tornesol</form> <xpln lang="en">61</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="town-cress(n)">Towne Cresses</form> <xpln lang="en">623</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="town-cress(n)">Towne kars</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="base trefoil(n)">Base Trefoyl</form> <xpln lang="en">502</xpln><lemenote>Not found in OED..</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea trifoly(n)">Sea Tryfoly</form> <xpln lang="en">49</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common trefoil(n)">Common Trefoyle</form> <xpln lang="en">495</xpln><lemenote>Not found in OED..</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meadow trefoil(n)">Medowe Trefoyle</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweet trefoil(n)">Sweet Trefoyle</form> <xpln lang="en">496</xpln><lemenote>Antedates earliest OED citation (1884).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild yellow trefoil(n)">Wilde yellow Trefoyl</form> <xpln lang="en">497</xpln><lemenote>Antedates earliest OED citation (1785) of "yellow trefoil."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horned trefoil(n)" lexeme="clover(n)">Horned Trefoyle or cla&#173;
+uer</form> <xpln lang="en">500</xpln><lemenote>"horned trefoil" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Spanish trefoil(n)">Spanish Trefoyl</form> <xpln lang="la">ibid.</xpln><lemenote>Antedates earliest OED citation (1591).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stinking trefoil(n)">Stinking Trefoyle</form> <xpln lang="en">501</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pitch trefoil(n)">Pitche Trefoyle</form> <xpln lang="la">ibid.</xpln><lemenote>OED mentions in "menyanthin," n.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="right trefoil(n)">The right Trefoyle</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tree trifoly(n)">Tree Tryfoly</form> <xpln lang="en">736</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tree tithymall(n)">Tree Tithymall</form> <xpln lang="en">361</xpln><lemenote>Found in OED only as "tithymal."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tulip(n)">Tulpia / or Tulipa</form> <xpln lang="en">213</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mesues(n)" lexeme="turbith(n)" lexeme="thapsia(n)">Mesues Turbith tapsia</form> <xpln lang="en">365</xpln><lemenote>For "mesues", see OED, "maudlin," n., 2 (quotation for 1548).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serapions turbith(n)">Serapions Turbith</form> <xpln lang="en">364</xpln><lemenote>See OED, "blue," adj. and n., 2 ("blue camomile," quotation for 1611).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turkish corne(n)">Turkish corne</form> <xpln lang="en">464</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Turkey gilliflower(n)">Turkie Gillofers</form> <xpln lang="en">176</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turnip(n)">Turneps</form> <xpln lang="en">594</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tutsan(n)" lexeme="park leaves(n)">Tutsan or parke leaues</form> <xpln lang="en">66</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twayblade(n)">Twayblade</form> <xpln lang="en">224</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thyme(n)">Tyme &#38;c.</form> <xpln lang="en">229</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="running thyme(n)">Running Tyme</form> <xpln lang="en">231</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild thyme(n)">Wild Time</form> <xpln lang="la">ib.</xpln><lemenote>Antedates earliest citation in OED (1600).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tymbra(n)">Tymbra</form> <xpln lang="en">230</xpln><lemenote>Not in OED except as a name for "brotherwort."</lemenote></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="V-W"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="great wild valerian(n)">GReat wilde Valeri<expan type="">an</expan></form> <xpln lang="en">340</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wall barley(n)">Wall Barley</form> <xpln lang="en">504</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wallflower(n)">Wall flowers</form> <xpln lang="en">151</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="walnut(n)" lexeme="walsh-nut tree(n)">Walnut / and Walshe nut 
+tree</form> <xpln lang="en">731</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wallwort(n)">Walwort</form> <xpln lang="en">380</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lesser water-cress(n)">The lesser Watercresse</form> <xpln lang="en">625</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water-fern(n)">Waterferne</form> <xpln lang="en">402</xpln><lemenote>Antedates earliest OED citation (1611).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="waterspike(n)">Water spike</form> <xpln lang="en">106</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wartwort(n)">Wartwurt</form> <xpln lang="en">361.363</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="way bennet(n)">Way Bennet</form> <xpln lang="en">504</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bitter vetch(n)" lexeme="ers(n)">Bitter Vetche or Ers</form> <xpln lang="en">482</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="base vervein(n)" lexeme="flat vervein(n)">Base or flat Veruayne</form> <xpln lang="en">127</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild vetch(n)">Wilde Vetche</form> <xpln lang="en">484</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="weedwind(n)">Weede Winde</form> <xpln lang="en">394</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dyer's weed(n)">Dyers Weede</form> <xpln lang="en">68</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mayweed(n)">May Weede</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="windweed(n)">Windweede</form> <xpln lang="en">394</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vetch(n)">Wetche or wetches</form> <xpln lang="en">483</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wheat(n)">Wheate and of all his kind</form> <xpln lang="en">
+453.455.457.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow-wheat(n)">Cow Wheate</form> <xpln lang="en">164</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxe wheat(n)">Oxe Wheate</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tiphe wheat(n)">Typhe Wheate</form> <xpln lang="en">457</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bearded wheat(n)">Bearded Wheate</form> <xpln lang="en">456</xpln><lemenote>Not found in OED as a phrase but see "bearded," adj., 2.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spelt wheat(n)">Spelt Wheate</form> <xpln lang="en">458</xpln><lemenote>Antedates earliest OED citation (1832).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Indian wheat(n)">Indian Wheate</form> <xpln lang="en">464</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white-root(n)">White roote</form> <xpln lang="en">103</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whitewort(n)">Whitewurt</form> <xpln lang="en">19</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whitten-tree(n)">Whitt<expan type="">en</expan>tree</form> <xpln lang="en">761</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whort(n)">Whorts</form> <xpln lang="en">671</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whortleberry(n)">Whortel beries</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whin(n)">Whyn</form> <xpln lang="en">669</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="petty whin(n)">Pety Whyn</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common whin(n)">The common Whyn</form> <xpln lang="la">ib.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild yellow lotus(n)">Wilde yellow lotus</form> <xpln lang="en">497</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweet william(n)">Sweete Williams</form> <xpln lang="en">156</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild williams(n)">Wilde Williams</form> <xpln lang="en">157</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="willow-herb(n)">Willow herbe</form> <xpln lang="en">74</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="withywind(n)">Withywinde</form> <xpln lang="en">393</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="withy(n)" lexeme="willow(n)">Withy or Willow</form> <xpln lang="en">743</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woodbine(n)">Woodbine</form> <xpln lang="en">391</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woodruff(n)" lexeme="woodrowel(n)">Woodrowe / or Woodro&#173;
+wel</form> <xpln lang="en">540</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wood-sorrel(n)">Woodsorel</form> <xpln lang="en">503</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woodwaxen(n)">Woodwaxen</form> <xpln lang="en">667</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wolf's-claw(n)">Woolfes clawe</form> <xpln lang="en">414</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="worm-grass(n)">Worme grasse</form> <xpln lang="en">114</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wormwood(n)">Wormwood</form> <xpln lang="en">5</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea wormwood(n)">Sea wormwood</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lavender wormwood(n)">Lauender wormwood</form> <xpln lang="en">6</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="narrow leaved wormwood(n)">Narrowe leaued Worme&#173;
+wood</form> <xpln lang="la">ibid.</xpln><lemenote>Not found in OED.</lemenote></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mullein(n)">Wulleyn</form> <xpln lang="en">120</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brownwort(n)">Broune wurt</form> <xpln lang="en">44</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="St. Peter's wort(n)">S. Peters wurt</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="widow-wail(n)">Wydowayle</form> <xpln lang="en">369</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="fl" lexeme="vaencruyt(n)">Vaencruyt</form> <xpln lang="en">351</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Venus's bath(n)" lexeme="Venus's bason(n)">Venus bath or Bason</form> <xpln lang="en">522</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Venus hair(n)">Venus heare</form> <xpln lang="en">409</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="verjuice(n)">Veri<expan type="">us</expan></form> <xpln lang="en">652</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vervein(n)">Veruayne or Varueyn</form> <xpln lang="en">127</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="violet(n)">Violets</form> <xpln lang="en">147</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="March violet(n)">Marche Violet</form> <xpln lang="la">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Guernsey violet(n)">Garnesee Violets</form> <xpln lang="en">152</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="damask violet(n)">Damaske Violets</form> <xpln lang="en">153</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Marian's violet(n)">Marianes Violets</form> <xpln lang="en">174</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="theophrastus white violet(n)">Theophrastus white Vio&#173;
+let</form> <xpln lang="en">216</xpln><lemenote>Not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild vine(n)">Wilde Vine</form> <xpln lang="en">384</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="vincetoxicum(n)">Vincetoxic<expan type="">um</expan></form> <xpln lang="en">317</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="viorne(n)">Viorne</form> <xpln lang="en">386</xpln><lemenote>Antedates earliest OED citation (1637).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden vine(n)" lexeme="garden grape(n)" lexeme="manured vine(n)" lexeme="grape(n)">The garden or manured 
+Vine or grape</form> <xpln lang="en">651</xpln><lemenote>"garden vine" antedates earliest OED citation (1880). "garden grape", "manured vine", and "manured grape"  not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small wild vetchling(n)">Smal wild Vetchlings</form> <xpln lang="en">485</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="unsavory camomile(n)">Vnsauerie Camomil</form> <xpln lang="en">186</xpln><lemenote>Not found as a phrase in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brank-ursine(n)">Branke Vrsine</form> <xpln lang="en">527</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="douche branck-vrsine(n)">Douche branck Vrsine</form> <xpln lang="en">528</xpln><lemenote>Not found as a phrase in OED.</lemenote></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="Y"><alpha>Y</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="yarrow(n)">Yerrow</form> <xpln lang="en">144</xpln></wordentry>
+
+</wordgroup1>
+
+<term lang="la">FINIS.</term> 
+
+</page>
+</leme>
+

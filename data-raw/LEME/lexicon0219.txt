@@ -1,0 +1,627 @@
+<leme no="219">
+<page sig="24r">
+
+<heading>
+Exposic<expan type="">i</expan>on of obscuer
+wordes in phisick:
+</heading>
+
+<wordgroup1 type="a" object="A">
+<wordentry type="h"><form lang="en" lexeme="alopicia(n)">Alopicia,</form> <xpln lang="la">pilor<expan type="">um</expan> decas<expan type="">us</expan> &amp; gen<expan type="">us</expan>
+Leyra' </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arthritic(n)">Artetyke,</form> <xpln lang="la">gutta totu<expan type="">m</expan> corp<expan type="">us</expan>
+l membra tu<expan type="">a</expan>skarreus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apoplexy(n)">Apoplexie</form> <xpln lang="en">a palsy suddenly
+astonysshing the whole
+body memory &amp; speache.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antrax(n)">Antrax</form> <xpln lang="en">a fiery impostume</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apperitive(a)">Apperitive,</form> <xpln lang="en">opening</xpln>
+<lemenote>
+Possibly "apperitive" antedates the earliest OED citation (1582).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="abstersion(n)">Absterc' &amp; Astercion Substersive ,</form> <xpln lang="en">extracting &amp; clensing</xpln>
+<lemenote>
+"Substersive" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apostolicon(n)">Apostolicon</form> <xpln lang="en">a playster or
+psalve so called</xpln>
+<lemenote>
+"Apostolicon" may antedate the earliest OED citation (?c1600).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Aluia</form> <xpln lang="en">shortnes of breath</xpln>
+<lemenote>
+"Aluia" not found in OED but possibly an error for "asthma."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Atr<expan type="">i</expan>ces ertrices</form> <xpln lang="en">all one <term lang="la">morb<expan type="">us</expan> culi</term></xpln>
+<lemenote>
+See see Juhani Norri, <i>Dictionary of Medical Vocabulary in English, 1375-1550</i> (2016): 77.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<wordentry type="h"><form lang="la">Benedca<expan type="">n</expan></form> <xpln lang="en" lexeme="benedict(n)">a medecyn
+called Be<expan type="">n</expan>nell or bene&shy;
+dict.</xpln>
+<lemenote>
+"Benedict" not found in OED in this sense; and "Bennell" not found in OED.
+</lemenote>
+</wordentry>
+   
+<wordentry type="h"><form lang="en" lexeme="bolet(n)">Bolet,</form> <xpln lang="en">a mau<expan type="">er</expan> of dead wood
+growing agaynst trees
+&amp; is very light.</xpln>
+<lemenote>
+This entry appears to be indebted to the <i>Grete Herball</i> (1526).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="en" lexeme="colophony(n)">Colophony</form> <xpln lang="en">is Tarr or softe
+pitche./</xpln></wordentry>
+</page>
+
+<page sig="24v">
+<wordentry type="h"><form lang="en" lexeme="cardiaca(n)">Cordiaca or Cardiaca.</form> <xpln lang="en">passio, ys a 
+siknes &amp; trembling of
+the harte.</xpln>
+<lemenote>
+This entry seems indebted to J. Hollybush's translation of H. Brunschweig's <i>Apothecarye</i> (1561).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="condyloma(n)">Condilomata,</form> <xpln lang="en">vnblody
+clystys or crestys of 
+the fundament.</xpln>
+<lemenote>
+"Condilomata" antedates the earliest OED citation (1656).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consuming(n)" lexeme="resolving(n)" lexeme="departing(n)" lexeme="putting(n)" lexeme="humour(n)" lexeme="wind(n)"><note>all one</note> Consuming Resoluing dep<expan type="">ar</expan>ting or putting forth, of humours or wind<expan type="">es</expan></form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conglutinative(a)">Conglutinatiue,</form> <xpln lang="en">a ioy<emend err="">n</emend>ing 
+togither</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cautery actual(n)">Cauterie actuall,</form> <xpln lang="en">burni<expan type="">n</expan>g
+by metall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cautery potential(n)">Cauterie potenciall</form> <xpln lang="en">ys
+burning by medicines</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corrosive(a)">Corrosiue,</form> <xpln lang="en">eating or by&shy;
+ting</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cyath(n)">Ciate</form> <xpln lang="en" lexeme="sizer(n)">a meas<expan type="">ur</expan> of zi<expan type="">ser</expan></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">
+<wordentry type="h"><form lang="en" lexeme="dysentery(n)">Dyssenterie,</form> <xpln lang="en">blody flyx.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Diamargariton</form> <xpln lang="en">A<emend err=""> </emend>con&shy;
+fecc<expan type="">i</expan>on</xpln>
+<lemenote>
+"Diamargariton" is without dated citations in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dialthea(n)">Dyalthea,</form> <xpln lang="en">a salue in <expan type="">the</expan> 
+antidotary so named</xpln>
+<lemenote>
+Not in OED (cf. "Althea") but see Juhani Norri, <i>Dictionary of Medical Vocabulary in English, 1375-1550</i> (2016): 289.
+</lemenote>
+</wordentry>
+</page>
+
+<page sig="25r">
+<wordentry type="h"><form lang="en" lexeme="dissolve(v)" lexeme="dissolutive(a)">Dissolve &amp; 
+Dissolutiue ,</form> <xpln lang="en">liquyfie &amp; re&shy;
+mytt is all one.
+a medecin mynysshing
+grosse &amp; slymy humors</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diaphoretic(a)">Diaforetyke</form> <xpln lang="en">is resolutive in spreading &amp; 
+making subtile &amp; avoy&shy;
+ding without noyaunces</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="diaphragm(n)">Diafragma</form> <xpln lang="en"><expan type="">the</expan> mydriff
+wherein the impostume 
+pleuresis ingendreth</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="drachma(n)">Dragma,</form> <xpln lang="en">the viijth p<expan type="">ar</expan>te of 
+an ounce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="degree(n)">Degree</form> <xpln lang="en">ys <expan type="">the</expan> q<expan type="">ua</expan>ntity in <expan type="">which</expan> 
+<expan type="">the</expan> patient or sick body is
+hot, colde, drie, or moyst.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="degree(n)">Degrees</form> <xpln lang="en">in medecin be iiij or
+<expan type="">the</expan> 4. so hot <expan type="">that</expan> it may no more
+except death. <expan type="">the</expan> 3 lesse
+heate, <expan type="">the</expan> .2. yet lesse
+heate. And the .i. but
+little heate aboue the 
+<expan type="">com</expan>plexion of <expan type="">the</expan> p<expan type="">er</expan>son./
+And when <expan type="">the</expan> medecin neith<expan type="">er</expan>
+mooveth nor chaungeth
+the body than it is said
+Temperate</xpln></wordentry>
+</page>
+
+<page sig="25v">
+<wordentry type="h"><form lang="en" lexeme="dysury(n)">Dissurye,</form> <xpln lang="en">w<expan type="">h</expan>en one cannot
+pisse w<expan type="">i</expan>thout payne by
+reason of g<expan type="">r</expan>osse hu<expan type="">m</expan>ors stop&shy;
+ping <expan type="">the</expan> conduyts, or for
+<expan type="">the</expan> ston or great g<expan type="">ra</expan>vell,
+or febleness of <expan type="">the</expan> blad<expan type="">er</expan>
+neck not hable to put
+forth <expan type="">the</expan> vrine.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="strangury(n)" lexeme="strangurion(n)">Strangury or st<expan type="">ra</expan>ugulion</form> <xpln lang="en">
+w<expan type="">h</expan>en one pisse drop by d<expan type="">ro</expan>p,
+or ca<expan type="">n</expan>not kepe his wat<expan type="">er</expan>
+or blad<expan type="">er</expan> lost his rete<expan type="">n</expan>tive
+v<expan type="">er</expan>tue, or vryne so hevily
+agg<expan type="">ra</expan>vate <expan type="">that</expan> it is not suf&shy;
+ferable w<expan type="">i</expan>t<expan type="">h</expan>in <expan type="">the</expan> blader but
+co<expan type="">n</expan>tynually issueth because
+the blad<expan type="">er</expan> or neck <expan type="">ther</expan>of ys
+p<expan type="">ar</expan>ted or p<expan type="">er</expan>isshed, And assone
+as <expan type="">it</expan> co<expan type="">m</expan>meth any drop of
+vryn it so smarteth and 
+brenneth <expan type="">that</expan> it must need<expan type="">es</expan>
+yssue./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="diuretic(n)">Dyvretyke,</form> <xpln lang="en">is openyng or
+vnstopping of conduyt<expan type="">es</expan>
+or veynes &amp; avoyding
+of humors./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="diabetic(n)" lexeme="passion(n)">Diabetyke passion</form> <xpln lang="en">w<expan type="">h</expan>en one 
+pisseth often &amp; great q<expan type="">ua</expan>n&shy;
+tity And assone as one
+hath dronke he pisseth
+incontynent after, &amp; it
+co<expan type="">m</expan>myth of heate of <expan type="">the</expan> reynes/</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="26r">
+<wordgroup1 type="a" object="E">
+<wordentry type="h"><form lang="en" lexeme="elephancy(n)">Eliphantia,</form> <xpln lang="en">astz<expan type="">y</expan> one Meselry
+or lepry ou<expan type="">er</expan> all <expan type="">the</expan> body.
+Thother, an arme or legge
+iij or iiij tymes greater then
+it ought to be, &amp; yet <expan type="">the</expan> feete
+or hand<expan type="">es</expan> not swolne. And
+of Meselry or Lepry be iiij
+man<expan type="">er</expan>s viz Alopice/ Leonyne
+ptisis, &amp; elephans. Alopice
+is caused of corrup<expan type="">i</expan>on of hott
+brennyng blood/ Leonyne is 
+w<expan type="">h</expan>en the myseld hath a face v<expan type="">er</expan>y
+horrible to beholde &amp; is fierce
+&amp; cruell as a lyon bycause of
+colerik hott &amp; bre<expan type="">n</expan>ning h<expan type="">um</expan>ors.
+Ptysis, pilleth &amp; leeseth the
+skynne./ Elephance vt <expan type="">etc</expan></xpln>
+<lemenote>
+The final expansion is uncertain.
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="epilency(n)">Epilence,</form> <xpln lang="en">called <expan type="">the</expan> fallinge
+evill or foule evill</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="erysipelas(n)">Erisipyle,</form> <xpln lang="en">an ympostome most 
+hottest <expan type="">that</expan> can be</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emoptoica(n)">Emoptoyca,</form> <xpln lang="en">w<expan type="">h</expan>en  one co<expan type="">m</expan>monly
+spytteth bloode./</xpln>
+<lemenote>
+"Emoptoica" not found in OED but see Juhani Norri, <i>Dictionary of Medical Vocabulary in English, 1375-1550</i> (2016): 340.
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="epithem(n)">Epithime,</form> <xpln lang="en">a cloth of many
+fold<expan type="">es</expan> wetted in waters &amp;
+Iuyce of herbes &amp; co<expan type="">m</expan>mo<emend err="">n</emend>ly 
+layed vnto <expan type="">the</expan> liver, And
+sometyme it is made a little
+pillowe of Cotton.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="26v">
+<wordgroup1 type="a" object="F">
+<wordentry type="h"><form lang="en" lexeme="fomentor(n)">Fomenter,</form> <xpln lang="en">is bathing of a 
+member in seething<expan type="">es</expan> of herbes
+But in <expan type="">the</expan> heating <expan type="">that</expan> is letten
+fall of the same holl lyco<expan type="">ur</expan> vpo<expan type="">n</expan>
+another hotter thing <expan type="">ther</expan>to
+most necessary &amp; all by
+drops, w<expan type="">hi</expan>ch is than namyd
+<term lang="la">Embrociu<expan type="">m</expan></term>, or <term lang="la">embraciu<expan type="">m</expan></term>.</xpln>
+<lemenote>
+"Formentor" in the OED lacks this sense. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="furfur(n)">Fufures,</form> <xpln lang="en">be small white
+shilles softened to <expan type="">the</expan> skyn
+of <expan type="">the</expan> head &amp; to <expan type="">the</expan> hete or
+here of <expan type="">the</expan> head &amp; is named 
+dead skynne.</xpln>
+<lemenote>
+The earliest OED use of "furfur" is 1621; "fufurs" is not found there.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">
+<wordentry type="h"><form lang="en" lexeme="gonorrhea(n)">Gomorrea or Gonorrea</form> <xpln lang="en">
+is issuing of sparme  or seed
+against <expan type="">the</expan> will w<expan type="">i</expan>thout
+having any pleas<expan type="">ur</expan>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">
+<wordentry type="h"><form lang="la">Herpes estiomen<expan type="">us</expan>,</form> <xpln lang="en">a canker
+<expan type="">that</expan> eateth round about it
+&amp; it is otherwyse named 
+Noli me tangere esp<expan type="">ec</expan>ially 
+yf it be in the face./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">
+<wordentry type="h"><form lang="en" lexeme="hiera picra(n)">Ierapigra</form> <xpln lang="en">a medecin con&shy;
+forting <expan type="">the</expan> braynes.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="hiera logodion(n)">Ieralogodion</form> <xpln lang="en">a laxatyue
+medecyne</xpln>
+<lemenote>
+"hiera logodion" not found in OED but see Juhani Norri, <i>Dictionary of Medical Vocabulary in English, 1375-1550</i> (2016): 508.
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="hyposarca(n)">Iposarca</form> <xpln lang="en">a swelling or dropsy
+&amp; <expan type=""></expan> <term lang="la">speciet t<expan type="">re</expan>plicis: Leuco&shy;
+</page>
+
+<page sig="27r">
+flumancia, Tympanu<expan type="">m</expan>, &amp; 
+Alchites</term>.</xpln>
+<lemenote>
+Unclear characters and expansions in the Latin text of the second line.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">
+<wordentry type="h"><form lang="en" lexeme="litharge(n)">Litargie or Litarge,</form> <xpln lang="en">a man<expan type="">er</expan>
+of sto<expan type="">m</expan>me of mettalls, &amp; also
+a disease wherin though <expan type="">ther</expan>
+be no hie speache, yet there
+is answer, &amp; so differeth
+from Apoplexie./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">
+<wordentry type="h"><form lang="la">Malum terre,</form> <xpln lang="en"><expan type="">the</expan> roote of Cicla&shy;	
+men./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="melancholy(n)">Melancoly</form> <xpln lang="en">a man<expan type="">er</expan> of folly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mania(n)">Mania,</form> <xpln lang="en">raging madnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mitigative(n)">Mitigative,</form> <xpln lang="en">a medecine swa&shy;
+ging dolo<expan type="">ur</expan> &amp; paynes./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="morphew(n)">Morfue,</form> <xpln lang="en">a disease, etc <expan type="">2x..6</expan>.
+white and black./</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N">
+<wordentry type="h"><form lang="en" lexeme="nefresie(n)">Nefresy</form> <xpln lang="en">a gret payne in 
+the rheynes./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="narcotic(n)">Narcotycke,</form> <xpln lang="en">a medecin so colde
+of nature <expan type="">that</expan> maketh one to
+swell &amp; benommeth <expan type="">the</expan> me<expan type="">m</expan>mb<expan type="">ers</expan>
+of the body</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="27v">
+<wordgroup1 type="a" object="O">
+<wordentry type="h"><form lang="en" lexeme="oppilation(n)">Opilacion</form> <xpln lang="en">stopping.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ophthalmy(n)">Obtalmye </form> <xpln lang="en">a hot imposto<expan type="">re</expan> 
+in <expan type="">the</expan> eyen w<expan type="">hi</expan>ch is red w<expan type="">i</expan>t<expan type="">h</expan>in.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="oxysaccharum(n)">Oxizacre,</form> <xpln lang="en">a drynk to be had 
+at the potticaryes.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">
+<wordentry type="h"><form lang="en" lexeme="pore(n)">Pores</form> <xpln lang="en">be the holes thorowe
+w<expan type="">hi</expan>ch swett issueth</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="paralysis(n)">Paralis</form> <xpln lang="en" lexeme="palsy(n)">is palsie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="podagra(n)">Podagra:</form> <xpln lang="la">gutta pedis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polypus(n)">Polypus,</form> <xpln lang="la">excrescentia car&shy;
+nis in naso maleolens.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="penetrative(a)" lexeme="perceant(a)">Penetratyue or p<expan type="">er</expan>sante,</form> <xpln lang="en">a
+medecin having vertue
+to <expan type="">per</expan>ce or penetrate.
+Vynegre is very penet<expan type="">ra</expan>tiue
+&amp; <expan type="">ther</expan>fore vsed in many
+medecyns.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="pessary(n)">Pessaria,</form> <xpln lang="en">a pessayre <term lang="la">p<expan type="">ro</expan> mat<expan type="">ri</expan>ce</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Picula</form> <xpln lang="en" lexeme="pitch(n)">clere pitch</xpln>
+<lemenote>
+A second word, "artitico", is deleted. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Pilitis artitico</form> <xpln lang="en">an ele<expan type="">ctu</expan>ary.</xpln>
+<lemenote>
+Cf. <i>The Grete Herball</i> (1526).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pleurisy(n)">Pleuresis</form> <xpln lang="en">an Impostume as
+before in Dyaphragma.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="ponticity(n)" lexeme="pontic(a)">Ponticity or Pontyke</form> <xpln lang="en">is a 
+soure savour.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="ponticity(n)" lexeme="pontic(a)">Ponticity or pontyke</form> <xpln lang="en" lexeme="stipticity(n)" lexeme="stiptic(n)">stip&shy;
+ticity or Stiptyke is all 
+one thinge. Savinge <expan type="">that</expan>
+</page>
+
+<page sig="28r">
+ponike hath a sharpe
+sav<expan type="">our</expan> in sowernesse/ Yet
+Stiptike hath more soure&shy;
+nesse/ &para; All thing<expan type="">es</expan> what
+man<expan type="">er</expan> of savo<expan type="">ur</expan> it hath that
+reioyneth or closeth mem&shy;
+bers enlarged or ratefyed
+ys named Stiptich</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">
+<wordentry type="h"><form lang="en" lexeme="resolder(v)" lexeme="consolider(v)">Resouder or consolider</form> <xpln lang="en" lexeme="conglutination(n)">is all
+one, for it is a reioyninge
+of woundes as before in 
+conglutinac<expan type="">i</expan>on.</xpln>
+<lemenote>
+"consolider" not found in OED.
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="resolve(v)">Resolueth,</form> <xpln lang="en" lexeme="sparpling(n)" lexeme="ventosity(n)">is a sperplinge
+of humours or ventosities
+&amp; putteth them out of the 
+body insensible of subtyle
+vapoure./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="reprimed(n)">Reprymed,</form> <xpln lang="en">rebatinge of
+force or sharpnes of me&shy;
+decins <expan type="">that</expan> be to violent./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="relaxing(n)">Relaxing,</form> <xpln lang="en">is a mollifyeng
+or softening of a member
+fro<expan type="">m</expan> his closing or hardnes 
+it ought to haue &c</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="28v">
+<wordgroup1 type="a" object="S">
+<wordentry type="h"><form lang="en" lexeme="squinancy(n)">Squinancy</form> <xpln lang="en">an Impostome in
+the throate.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="syrup(n)">Syrope,</form> <xpln lang="en">a man<expan type="">er</expan> of drynke
+for sicknesses &amp; is clere
+wherin is alwayes put
+suger or hony. For pty&shy;
+sane is no sirope.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="syncope(n)">Synope,</form> <xpln lang="en" lexeme="syncopisant(n)">a swownyng &amp;
+syncopizant is <expan type="">the</expan> same.</xpln>
+<lemenote>
+"syncopizant" not found in OED.
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="serpigo(n)">Serpio</form> <xpln lang="en" lexeme="impetigo(n)">a tetter whiche
+creepeth &amp; breaketh al&shy;
+way. But <expan type="">the</expan> tetter Im&shy;
+petigo doth not creepe./</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="sapone(n)">Sapone</form> <xpln lang="en" lexeme="soap(n)">or sope.</xpln>
+<lemenote>
+"sapone" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="splenetic(a)">Splenetike,</form> <xpln lang="en">one <expan type="">that</expan> hath an 
+euill mylte</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="syringe(n)">Syryng,</form> <xpln lang="en">an instrum<expan type="">en</expan>t to squirte
+a medecin into <expan type="">the</expan> conduyte of <expan type="">the</expan>
+yarde/</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="suppository(n)">Suppository,</form> <xpln lang="en">a long rounde
+thing to put into the
+fundam<expan type="">en</expan>t for to sett a clist<expan type="">er</expan>
+Also a peg to the same 
+for costyfenesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suffocation(n)" lexeme="matrix(n)" lexeme="mother(n)">Suffocac<expan type="">i</expan>on of <expan type="">the</expan> matrice
+or Mother,</form> <xpln lang="en">whan a wo&shy;
+man her colo<expan type="">ur</expan> advyse
+&amp; reme<expan type="">m</expan>brance./</xpln></wordentry>
+</page>
+
+<page sig="29r">
+<wordentry type="h"><form lang="en" lexeme="synoch(n)">Scynoche,</form> <xpln lang="en">a fervent hotte
+ague caused of hot and 
+rotten bloode.</xpln>
+<lemenote>
+Not found in OED but see Juhani Norri, <i>Dictionary of Medical Vocabulary in English, 1375-1550</i> (2016): 26.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">
+<wordentry type="h"><form lang="en" lexeme="tenasmon(n)">The nasmon or tenasmon</form> <xpln lang="en">
+whan one goeth to the 
+draught &amp; can doe no&shy;
+thing.</xpln>
+<lemenote>
+"tenasmon" antedates the last OED citation (c1425).
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="tutty(n)">Tutie,</form> <xpln lang="en">a thing <expan type="">that</expan> dooth acte ag&shy;
+aynst a forneys. Wherein metall
+hath bin founded or moulton
+&amp; is good for sore eyen/ but it
+must be restreyned ix tymes
+in a c<expan type="">er</expan>teyn water.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="phthisis(n)">Tisis,</form> <xpln lang="en">a p<expan type="">er</expan>cing of <expan type="">the</expan> lyght<expan type="">es</expan> &amp; than
+the pacient spilleth bloode
+day by daye, &amp; <expan type="">that</expan> ys named 
+tysis</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="tithymal(n)" lexeme="tyntymans(n)">Tintimales or tyntymans,</form> <xpln lang="la">est
+herba corosivu<expan type="">m</expan> L ac habens</xpln>
+<lemenote>
+"tyntymans" not found in OED.
+</lemenote>
+</wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="trochisk(n)">Trosys</form> <xpln lang="en">be figures, all round
+&amp; a<emend err=""> </emend>litle flatte.</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="atrices(n)">Trites &amp; Atryces</form> <xpln lang="en">bin fluxes or swelling<expan type="">es</expan>
+very softe about &amp; of 
+the fundament &amp; not of the
+vaynes <expan type="">ther</expan> of but only about <expan type="">the</expan>
+fundament And of <expan type="">that</expan> place
+be .3. di<expan type="">uer</expan>se diseases, as Ficus,
+Fiatrices, &amp; Emeroydes or pyles.</xpln>
+<lemenote>
+For "trices," see Juhani Norri, <i>Dictionary of Medical Vocabulary in English, 1375-1550</i> (2016): 1117.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="haemorrhoid(n)" lexeme="pile(n)">Emorroydes or pyles</form> <xpln lang="en">be in the vaynes
+about the border of the fundam<expan type="">en</expan>t. &amp;
+sometyme doth swell &amp; nothinge
+</page>
+
+<page sig="29v">
+issueth out of it, &amp; sometyme
+bleedeth tomoche, &amp; somety<expan type="">m</expan>e
+it is full of dolorouse payn
+Atrites alias glandes bene as afore ys
+said. But 
+Ficus or fy. is a gret thing
+about the fundament
+w<expan type="">hi</expan>ch is w<expan type="">i</expan>thin full of groos
+graynes like vnto the
+graynes of figg<expan type="">es</expan> and 
+therefore it is called
+Ficus &para; Condilomata
+afore said in the l<expan type="">ett</expan>re C.
+be dolo<expan type="">ur</expan>s of <expan type="">the</expan> fundame<expan type="">n</expan>t
+as clystys &amp; crestys w<expan type="">i</expan>t<expan type="">h</expan>out
+yelding or avoyding any 
+blood. &para; But when
+they render blood they be
+named Ragadies</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V">
+<wordentry type="h"><form lang="en" lexeme="vanity(n)">Vanytie of <expan type="">the</expan> eare</form> <xpln lang="en">is a 
+thing as yf it were a 
+sowne contynuyng in <expan type="">the</expan>
+eare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ver(n)">Ver.</form> <xpln lang="en">that is pryme tyme
+or spring tyme all is
+one./</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="30r">
+<wordgroup1 type="a" object="Y">
+<wordentry type="h"><form lang="en" lexeme="iliac(n)">Yliaca,</form> <xpln lang="en">is dolo<expan type="">ur</expan> &amp; anguishe
+in the belly aboue the
+nombrells,/ And w<expan type="">h</expan>en 
+it is vnder <expan type="">the</expan> nombrills
+than is it the Collick</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyposarca(n)">Yposacre or Yposarca</form> <xpln lang="en">is
+a man<expan type="">er</expan> of swellinge or
+dropsy And there bene iij
+speces or kind<expan type="">es</expan> of dropsy
+as afore is said in l<expan type="">lette</expan>ra
+I. Videl<expan type="">ici</expan>t the first is
+where all the body is swoln
+&amp; softe, &amp; thrusting yo<expan type="">ur</expan>
+fyng<expan type="">er</expan> vpon it there
+abydeth a pitt &amp; <expan type="">that</expan> is
+called Leucofleuman&shy;
+cia. The 2. is named
+Tympanu<expan type="">m</expan>, because the
+belly is swoln harde 
+bent &amp; full of wynde
+by reason wherof it is
+lyght/  The 3. is where
+as the belly also swolne  
+very grett &amp; it wayeth
+or waxeth right sore
+&amp; w<expan type="">h</expan>en the sick body remo&shy;
+veth from one syde to 
+</page>
+
+<page sig="30v">
+another, than it geveth 
+a sownde lyke a barrell
+that is haulf full of lico<expan type="">ur</expan>
+and is named Alchites.</xpln></wordentry>
+</wordgroup1>
+</page>
+</leme>
+
+
+	
+
+
+

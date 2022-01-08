@@ -1,0 +1,666 @@
+
+
+<leme no="61">
+<page no="13v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 0 8 1 6
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Urine">
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="urine(n)">Vrine</form> <xpln lang="en">is the superfluitie or
+wheye substaunce of the bloude in the
+hollow vayne, c<expan type="">on</expan>ueyed by the renes &#38;
+water pypes into the bladder.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+</page>
+
+<page no="68r">
+<heading>
+Thexposytion of certayne wordes.
+</heading>
+<section type="Introduction">
+NOw for bicause I was enforced
+to vse sum (though but few) ter&#173;
+mes in this boke, which be not well
+knowen of <expan type="">the</expan> most sorte of men, though
+a great n<expan type="">om</expan>ber know them well ynough
+by oft<expan type="">en</expan> talk<expan type="">in</expan>g <expan type="">with</expan> Physiti<expan type="">on</expan>s, I thought
+it good here to declare sum certayne of
+them, for the ayde of the most s<expan type="">im</expan>ple sort.
+</section>
+
+<section type="Glossary">
+<wordgroup1 type="a">
+<wordgroup2 type="t" object="Ages">
+<wordentry type="h"><form lang="en" lexeme="age (n)">
+Ages.</form>
+<xpln lang="en">Bicause that in the iudgement of v&#173;
+rynes, the differences of ages ought to 
+be c<expan type="">on</expan>syderyd, you shall vnderstand that
+the cheife differences of them are .iiij.
+that is to saye: Chyldehod, Youthe,
+Manhod, &#38; Olde age / for though thr
+
+</page>
+
+<page no="68v">
+be c<expan type="">omon</expan>ely. vij. Ages rekened, yet these
+be the .iiij. principall, &#38; thother .iij. be
+c<expan type="">om</expan>prehended vnder these .iiij. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="childhood(n)">Childehod</form>
+<xpln lang="en">
+Chyldehod
+endureth from thower of byrth, vntyl
+thende of .xiiij. yeres of age, &#38; is of com<emend err="">&#173;</emend>
+plexi<expan type="">on</expan> hotte &#38; moist. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="youth(n)">youth</form>
+<xpln lang="en">
+At thende of .xiiij.
+yeres begynneth youth, and lastyth tyl
+the .xxv. yeare / and thys age of all
+other, is in complexi<expan type="">on</expan> the most tempe&#173;
+ratest, From .xxv. yeres, vntyll .xxxv.
+yeres, is the flourishyng of m<expan type="">an</expan>hod: </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="manhood(n)">Manhod</form>
+<xpln lang="en">
+but
+yet that manhod lasteth (though not in 
+full freshnesse) vntyll .l. yeres of age / &#38;
+this age is of complexion hotte &#38; drye.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="age(n)">Age</form>
+<xpln lang="en">
+From .l. yeres forwarde, is the tyme of 
+age peculyerly called / in whiche tyme
+m<expan type="">an</expan>nes nature is colde &#38; drye, and not
+moyst: as menny do falsely thynke.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lang="en" lexeme="active(a)" lexeme="quality(n)">Actiue. q.</form>
+<xpln lang="en">
+Actyue qualities, se <expan type="">the</expan> tytle of qualities.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alterative(a)" lexeme="quality(n)">Alteratiue</form>
+<xpln lang="en">
+Alteratiue vertue, se in <expan type="">the</expan> tytle of <expan type="">ver</expan>tues.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brightness(n)">Brightnes.</form>
+<xpln lang="en">
+Brightnesse in vryn must be marked
+for a seuerall th<expan type="">in</expan>g from clearenesse. for
+the brightnes betokeneth the ori<expan type="">en</expan>tnes,
+&#38; the bewty of the colour. <expan type="">with</expan> a certayne
+glisteryng. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clearness(n)">Clearenes,</form>
+<xpln lang="en">
+And clearenesse is referred
+to the substaunce of vryn, &#38; is euer an&#173;
+nexed <expan type="">with</expan> thynnesse of it. Yet is it a dy&#173;
+
+</page>
+
+<page no="69r">
+uerse qualitie from thynnes. So may
+an vryne be cleare in substaunce, by the 
+reason of his thynnes / &#38; yet not bright
+in colour: &#38; contrary wayes may an v&#173;
+ryne be bright in colour, &#38; not clere in
+substaunce / but this wold be well pon&#173;
+derid, lest this <emend err="uecessari">necessari</emend> distincti<expan type="">on</expan> cause
+an negligent confusion.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="critical day(n)"> Crytical
+dayes.</form>
+<xpln lang="en">
+Criticall dayes be soche dayes, on
+which there is (or may be) perceyued
+sum certayn token &#38; great alterati<expan type="">on</expan> in
+the sycke body, other to helth or death,
+or c<expan type="">on</expan>tinua<expan type="">un</expan>ce of syckenes. What these
+be, more at large I wyl hereafter (God
+willyng) declare in a booke peculyerly,
+bicause it requireth more largenesse of
+wordes, then is meete for this place.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="judicial day(n)">Iudicial
+dayes</form>
+<xpln lang="en">
+But one thing I must tel you, that the
+same daies also be called Iudiciall / but
+not Indiciall: for the Indiciall dayes
+are of an other kynde, but yet associate 
+to these other.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crudity(n)">Crudite</form>
+<xpln lang="en">
+Crudite is the rawnesse of the meate
+in the stomake, when <expan type="">the</expan> natural opera&#173;
+ti<expan type="">on</expan> of it, can not duly disgest the meate
+which it hath receyued: &#38; therfore, the
+vrine which declareth defaulte of soche
+
+</page>
+
+<page no="69v">
+digesti<expan type="">on</expan>, is called a crude, raw, &#38; vnc<expan type="">on</expan>&#173;
+cocte vryne. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cupping(n)">Cuppynge</form>
+<xpln lang="en">
+Cuppyng is so c<expan type="">om</expan>menly 
+knowen, that it nedeth no declaration.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cloddy(a)" lexeme="urine(n)">Cloddy
+vryne</form>
+<xpln lang="en">
+A cloddy vryne is that which hath
+in it cloddes of blood, or other crude
+mater, or any clusterynges of difforme
+contentes. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dark(a)" lexeme="ground(n)">Darke
+grounde.</form>
+<xpln lang="en">
+Darke gro<expan type="">un</expan>de is not ment
+of the darkenesse of colour, but rather
+of the slendernesse of subst<expan type="">an</expan>ce, so that it
+can scarcelye be dyscerned to be anye
+grounde, by reason that hit is so neare
+in shape &#38; substaunce to the rest of the 
+vryne. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dullness(n)">Dulnes,</form>
+<xpln lang="en">
+Dulnesse of colour, is contrary
+to brightnesse: so that when the colour
+lacketh all brightnesse, then is it clene
+dullyd. and what so euer thyng causeth
+decay of soch brightnesse, that thyng
+dullyth vryne. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diverse(a)">Dyuerse.</form>
+<xpln lang="en">
+Those Contentys be
+called diuerse, which haue nother their
+owne ryght forme, nother any other
+certen / but at all together dysorderyd
+and out of forme / rather semynge to 
+be menny, then to be one.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="duly(adv)" lexeme="knit(a)">Duly knyt</form>
+<xpln lang="en">
+Duly knytte, is a property of dew con&#173;
+tentes, when they are nott tatteryd,
+raggyd, nor iaggyd, nor flytterynge a 
+sunder: nor yet ar not so clammyd to&#173;
+gether, as towgh fleme, or anye lyke
+
+</page>
+
+<page no="70r">
+thyng: but are in a moderate meane
+betwene both these.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gathering(n)">A gethe&#173;
+ryng</form>
+<xpln lang="en">
+A getheryng sore, is that sore that
+is caused of the excessyue recourse of
+humoures into any parte of the body:
+as a byle, or any other lyke.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="harvest(n)">Haruest.</form>
+<xpln lang="en">
+Haruest. seke Tymes of the yere.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="judicial day(n)">Iudiciall
+dayes.</form>
+<xpln lang="en">
+Iudiciall dayes: seke Critical days.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inequality(n)">Inequalyte</form>
+<xpln lang="en">
+Inequalyte of substa<expan type="">un</expan>ce <expan type="">in</expan> vrin, doth
+appere to be <expan type="">the</expan> difformenes &#38; disagre<expan type="">in</expan>g
+of the partes of it together: as when it
+is thin in one parte, &#38; thicke <expan type="">in</expan> a nother.
+Howbeit, it is as well vsed for <expan type="">the</expan> altera<emend err="">&#173;</emend>
+tion fr<expan type="">om</expan> a meane substa<expan type="">un</expan>ce to thicknes
+or thynnes, or other ways vnnatural.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="obstruction(n)">Obstructi<expan type="">on</expan></form>
+<xpln lang="en">
+Obstruction, is a stoppynge, com&#173;
+menly of the vaynes and soche great
+cundytes (whiche conuaye bloodd or
+any other humoure) so that the thyng
+whiche they shulde conuaye, can not
+frely passe, as hyt ought. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oppilation(n)">Oppilati<expan type="">on</expan></form>
+<xpln lang="en">
+But if the 
+lyke stoppynge happen in the pores
+of the skynne, (I meane those vn&#173;
+sensyble holes, by whiche sweate pas&#173;
+syth out) so that nother swete, nor any
+lyke excrement may passe that wayes,
+then is hyt moast named Oppilation.
+
+</page>
+
+<page no="70v">
+Howbeit, as these wordes be s<expan type="">um</expan>tymes
+vsed the one for the other, so they be ap<emend err="">&#173;</emend>
+plyed also to other sundry partes of the 
+body: but euermore thei betoken soche
+stoppinge in that parte, that natures
+worke is hindered therby.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="principal(a)" lexeme="member(n)">Principall
+membres</form>
+<xpln lang="en">
+Principal members (as to our pur&#173;
+pose now) are these .iij. the braine, the 
+herte, and the lyuer.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="passive(a)">Passiue</form>
+<xpln lang="en">
+Passiue: seke Qualities.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="putrifaction(n)">Putrefacti<expan type="">on</expan></form>
+<xpln lang="en">
+Putrefaction is commenly knowen
+to signifie, rottynge.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quality(n)">Qualytyes</form>
+<xpln lang="en">
+Qualyties actyue, are named heate
+and colde, bicause they ar more apte &#38;
+able to worke, th<expan type="">en</expan> to be wrought. And
+contrary wayes, drynes &#38; moysture ar
+named passyue, or sufferyng qualyties,
+bicause they ar more redy to be alteryd
+by the workynge of heate and colde,
+then to worke themselfes: how be it,
+yet they do worke also.</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="time of sickness(n)">The .4.
+tymes of 
+sicknes</form>
+<xpln lang="en">
+There be in sickenes .iiij. principall
+partes of tyme to be obserued of Phy&#173;
+sitians: The begynnyng of sycknes,
+the increase or augmentyng, the stan&#173;
+dyng or cheife force of it: &#38; the declina&#173;
+tion or asswagyng of it. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+</page>
+
+<page no="71r">
+<wordgroup2 type="t">
+<wordentry type="h"><form lang="en" lexeme="beginning(n)">The begin&#173;
+nynge</form>
+<xpln lang="en">
+The beginnynge, is from the tyme
+that syckenes hath ouer cum mannes
+strengthe, &#38; brought him to lye down,
+tyll there be appere manifest sygnes of 
+concoction of the mater, whereof the 
+disease cummeth / at whiche tyme the 
+syckenes waxeth fearcer &#38; fearcer: </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="increase(n)">The encrese</form>
+<xpln lang="en">
+and
+whyle it so c<expan type="">on</expan>tinuyth, that tyme is cal&#173;
+led the increase &#38; augmenting of sicke&#173;
+nesse: </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="state(n)">The state</form>
+<xpln lang="en">
+but when the viol<expan type="">en</expan>ce of the sick&#173;
+nesse is at the most, so that the rage of 
+it is at one stay, &#38; nother incraseth nor
+decreaseth / that time is called the stan<emend err="">&#173;</emend>
+ding stay, state, or cheife strengthe of <expan type="">the</expan>
+syckenesse. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="declination(n)">Declinati<expan type="">on</expan></form>
+<xpln lang="en">
+And after that the furyous
+rage of syckenes doth abate and calme
+his cruell stormes, then is the declina&#173;
+cion of the syckenesse: after which (if
+the pacient escape, as very few dye in
+<expan type="">the</expan> declinati<expan type="">on</expan>) then followeth recouerye
+to health againe, And these be the .iiij.
+generall or vni<expan type="">ver</expan>sall tymes of sicknes.
+Besides these ther be other tymes more
+<expan type="">par</expan>ticuler, wherof now to speke I nede
+not. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lang="en" lexeme="time of the year(n)">Tymes of 
+the yeare.</form>
+<xpln lang="en">
+The diuersytie of tymes in <expan type="">the</expan> yere
+ar duly to be obserued / for thei do moch
+alter mannes body. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+</page>
+
+<page no="71v">
+<wordgroup2 type="t">
+<wordentry type="h"><form lang="en" lexeme="spring(n)">The springe</form>
+<xpln lang="en">
+The Spring time encreaseth blood
+and bringeth al the partes of the body
+to a temperaunce, as nygh as hit can.
+For hit of all other tymes is the most
+temperate: nother excessiuely hotte, nor
+colde: nother moyst, nor drye. but of a 
+iust temperature, as Galen proueth a<emend err="">&#173;</emend>
+b<expan type="">un</expan>dantly <expan type="">in</expan> his first boke of tem<expan type="">per</expan>am<expan type="">en</expan>t:
+where he doth moche blame them that
+name hyt to be hotte &#38; moyst, whiche
+(he sayth) is of all other the most pe&#173;
+stilent state of ayer. This spryng, after
+Galenes mynde, doth begynne aboute
+the .x. day of Marche, &#38; endeth aboute
+the .xxiiij. daye of Apryll: so that it la&#173;
+styth but .vj. wekes &#38; .ij. dayes. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="summer(n)">S<expan type="">um</expan>mer</form>
+<xpln lang="en">
+For at 
+the risyng of the Pleiades (whiche is
+now in our tyme, about the .xxiiij. day
+of Apryll) he sayth that s<expan type="">um</expan>mer doth
+begynne. which s<expan type="">um</expan>mer is in complexi<expan type="">on</expan>
+hotte and dry, &#38; therefore meete to en&#173;
+crease choler, which in that tyme doth
+abounde. The sommer lastyth .xxj. we&#173;
+kes: </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="harvest(n)">Haruest</form>
+<xpln lang="en">
+Haruest doth begynne, after Ga&#173;
+lenes mynde, aboute the .xvij. daye of 
+September, and lastyth .vij. wekes.
+The Haruest, is drye of complexion,
+
+</page>
+
+<page no="72r">
+but nother oneli hotte, nor onely colde,
+but is distemperate in heate and colde.
+For in the mornyng &#38; euenyng, hit is
+colde, &#38; at noone it is hotte. so may it
+not be called iustly ( as moast men doo
+name it) colde and drye. In this tyme
+doth melancholy encrease. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="winter(n)">Wynter</form>
+<xpln lang="en">
+At the ende
+of Haruest, about the .vij. day of No&#173;
+uember doth Wynter begynne. which
+tyme is colde and moyst, and therfore
+encreaseth fleme, which is lyke in com<emend err="">&#173;</emend>
+plexion vnto hit. and the Wynter la&#173;
+styth tyll the .x. day of Marche: so is it
+in length, about .xvij. wekes &#38; a half: &#38;
+then beg<expan type="">in</expan>neth the Spring tyme again.
+And this is the course of the yere, after
+Physicke. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="time of the year(n)">An other
+sort of these
+tymes.</form>
+<xpln lang="en">
+Other men which entreate 
+of husbandrye, do parte the yeare into
+iiij. equall partes, geu<expan type="">in</expan>g .iij. monithys
+to euery tyme. Vnto the Spring, they
+geue February, Marche, and Apryll.
+to the Summer, May, Iune, &#38; Iuly.
+vnto Haruest, August, Sept<expan type="">em</expan>ber, Octo<emend err="">&#173;</emend>
+ber. &#38; vnto W<expan type="">in</expan>ter, they appoynt, No&#173;
+u<expan type="">em</expan>ber, Dec<expan type="">em</expan>ber &#38; Ianuary. Why the 
+Physiti<expan type="">on</expan>s parte the yeare one ways, &#38;
+wryters of husb<expan type="">an</expan>dry anotherways, at
+more conuenient tyme I wyll declare. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+</wordgroup2>
+
+</page>
+
+<page no="72v">
+<wordgroup2 type="t">
+<wordentry type="h"><form lang="en" lexeme="attractive(a)" lexeme="virtue(n)">Vertues
+Attractyue</form>
+<xpln lang="en">
+Vertues naturall ar. iiij, the fyrst is
+that which draweth nouryshment into 
+dew places / &#38; that is called the attrac&#173;
+tyue vertue. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alterative(a)" lexeme="virtue(n)">Alteratyue</form>
+<xpln lang="en">
+The second, is it that al&#173;
+teryth that nouryshment into a dewe
+forme to nourysh the body, &#38; is called
+the alteratyue vertue. </xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="retentive(a)" lexeme="virtue(n)">Retentyue</form>
+<xpln lang="en">
+The thyrde, is
+that vertue, which kepeth in the good
+nouryshment , tyll the alteratyue vertue
+hath duly alterid it, &#38; therfore is called
+the retentyue vertue: 
+</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expulsive(a)" lexeme="virtue(n)">Expulsyue</form>
+<xpln lang="en">
+The fourthe, is 
+called the vertue expulsiue, bicause his
+offyce is to expel those superfluous
+excrementes, which ar lefte
+when the other vertues
+haue done their of&#173;
+fyce duly,
+</xpln>
+<lemenote>
+Headword in marginal note.
+</lemenote>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</section>
+
+</page>
+</leme>
+

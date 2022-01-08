@@ -1,0 +1,284 @@
+
+
+<leme no="67">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 4 6 5 1 . 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Title-page">
+The treasury 
+of healthe conteynyng many profi&#173;
+table medycines gathered out of Hypocrates, 
+Galen and Auycen, by one Petrus Hyspanus 
+&#38; translated into Englysh by Humfre Lloyde
+who hath added therunto the causes and syg&#173;
+nes of euerye dysease, wyth the Aphorismes of 
+Hypocrates, and Iacobus de Partybus redac<emend err="">&#173;</emend>
+ted to a certayne order according to the mem&#173;
+bres of mans body, and a compendiouse table 
+conteynyng the purginge and conforta&#173;
+tyue medycynes, wyth the exposicy<expan type="">on</expan> 
+of certayne names &#38; weyghtes 
+in this boke contayned wyth 
+an epystle of Diocles vn&#173;
+to kyng Antigonus.
+&#x1F599; &#x1F448;
+
+Ecclesiast .xxxvii.
+
+&#182; The Lorde hath created Physycke of the 
+earth, and he that is wyse wyll not 
+abhorre it.
+</section>
+
+</page>
+
+<page sig="f1v">
+<section type="Tables">
+<heading>
+&#x2629; A Table conteyning <expan type="">the</expan>  weightes
+which phisicyons do comenly vse, &#38;
+the interpretacyon of the names of 
+the compound medicynes herin con<emend err="">&#173;</emend>
+teyned wyth the qu<expan type="">an</expan>titie &#38; tyme  <expan type="">that</expan> 
+they ought to be receyued in.
+</heading>
+
+THe least &#38; fyrst of al weigh<emend err="">&#173;</emend>
+tes (comly vsed am<expan type="">on</expan>g phi&#173;
+sicyons) is a barly corne, and .xx. cor<emend err="">&#173;</emend>
+nes make a scruple, thre scrupules 
+make a drachme, eyght drachmes 
+make an vnce, xii. vnces make apo<expan type="">un</expan><emend err="">&#173;</emend>
+de. A quarter of po<expan type="">un</expan>d is thre vnces,
+
+&#182; And they be thys notid.
+
+<wordgroup1 type="t" object="Weights">
+<wordentry type="h"><form lang="en" lexeme="corn(n)">A corne.</form> <xpln lang="en"><term lang="la">gra.</term></xpln>
+<lemenote>
+The left-pointing finger on the title-page is upside-down.
+</lemenote>
+</wordentry>
+<wordentry type="h"><form lang="en" lexeme="scruple(n)">A scruple.</form> <xpln lang="en">)</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="drachm(n)">A drachme</form> <xpln lang="en">&#x20AF;.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ounce(n)">An vnce.</form> <xpln lang="en">&#x2125;.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pound(n)">A pounde</form> <xpln lang="en"><term lang="la">li.</term></xpln></wordentry>
+
+</page>
+
+<page sig="f2r">
+<wordentry type="h"><form lang="en" lexeme="quarter(n)">A quarter.</form> <xpln lang="en">q.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="half(n)">A half.</form> <xpln lang="en">s.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="handful(n)">A handfull.</form> <xpln lang="en">m.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ana(adv)">Ana.</form> <xpln lang="en">of euery one.</xpln></wordentry>
+</wordgroup1>
+
+<heading>
+All compounde medycynes be eyther receyuid 
+wythin the body, or layd to the same without. 
+&#38; they whych be receyued into <expan type="">the</expan> body be these.
+</heading>
+
+<wordgroup1 type="t" object="Received Compound Medicines">
+<wordentry type="h"><form lang="la">ELectuarium &#38; confectio dif&#173;
+fer</form> <xpln lang="en">in thys alone, that electua<emend err="">&#173;</emend>
+ri<expan type="">um</expan> is moyst and made wyth sugger 
+and hony, &#38; <term lang="la">confectio</term> drye made a&#173;
+lonly wyth suger, and because they 
+be for dyuerse diseases theris nooe 
+certayne tyme or measure, for the 
+receyuing of them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mixtura</form> <xpln lang="en">is wh<expan type="">en</expan> diuerse electuaries 
+or c<expan type="">on</expan>fections be mingled together, &#38; 
+is receyued .ii. houres be fore meate. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tragea</form> <xpln lang="en">is wh<expan type="">en</expan> dyuerse pouders be 
+m<expan type="">en</expan>gled together <expan type="">with</expan> suger and they 
+be receiued a .&#x0292;. at onest <expan type="">with</expan> soppes of 
+stronge wyne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Conserua &#38; condit<expan type="">um</expan></form> <xpln lang="en">be wh<expan type="">en</expan> diuerse 
+spyces be mixt with sume sirup and 
+be com<expan type="">en</expan>ly receiuid early and late af<emend err="">&#173;</emend>
+ter the bygnesse of a walnut.</xpln></wordentry>
+
+</page>
+
+<page sig="f2v">
+<wordentry type="h"><form lang="en" lexeme="loth(n)">Loth</form> <xpln lang="en">is a medycyne which may be 
+lyked wyth the tonge, &#38; may be recei<emend err="">&#173;</emend>
+ued at al tymes in the quantitie of a 
+hasel nutte.</xpln>
+<lemenote>
+"Loth" antedates the earliest OED entry (1638).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="julep(n)">Iuleb</form> <xpln lang="en">is a cleare potyon made of 
+dyuerse waters and suger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rob(n)">Rob</form> <xpln lang="en">is a ioyce made hard &#38; thick 
+wyth the heat of the s<expan type="">on</expan>ne or of <expan type="">the</expan> fire 
+and is comonly mingled with elec&#173;
+tuarys, and conserues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syrup(n)">Syrupe</form> <xpln lang="en">is a moyst medicyne whi<emend err="">&#173;</emend>
+che maye be receyuyd earlye or late</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Decoctum</form> <xpln lang="en">is a medicine made of 
+rotes leaues, sead and floures wher 
+vnto is added sugger or hony.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Infusio</form> <xpln lang="en">is when diuerse medycins 
+be beaten to pouder or hole layde to 
+stepe a certayne space in sum liquor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trochiscus(n)">Trochiscus</form> <xpln lang="en">is a rounde confecti<expan type="">on</expan> 
+and plaine, made after the maner of 
+a whele, the which before it be recei&#173;
+uyd moost be beaten to pouder, and 
+dronke with wyne or other licoure 
+the weyght of one &#x0292;. comonly.</xpln></wordentry>
+
+</page>
+
+<page sig="f3r">
+<wordentry type="h"><form lang="en" lexeme="pill(n)">Pilles</form> <xpln lang="en">be know<expan type="">en</expan> to al men &#38; ought 
+to be receyued two or thre houres at 
+after souper the quantitie of .&#x0292; i.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sief(n)">Sief</form> <xpln lang="en">is a confectyon made after the 
+fashi<expan type="">on</expan> of a suger lofe &#38; most be dys&#173;
+soluyd in licour before it be receiuid</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="collirium(n)">Collirium</form> <xpln lang="en">is a moyst confection 
+made of sief dissolued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sufuf</form> <xpln lang="en">is a fyne pouder made of 
+dyuerse spices.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Secaniabin</form> <xpln lang="en">is a sharpe syrupe 
+wherin is put suger or hony.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="masticatorium(n)">Masticatori<expan type="">um</expan></form> <xpln lang="en">is a confection whi<emend err="">&#173;</emend>
+che is held in the mouth &#38; chewed to
+purge the head of flegme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Suffim<expan type="">en</expan>tum <term lang="en">or</term> suffumigatio</form> <xpln lang="en">is 
+when diuerse pouders be cast vpon 
+the cooles, and the pacyent doth re&#173;
+ceyue the smoke therof.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gargarism(n)">Gargarisme</form> <xpln lang="en">is a confectyon of di<emend err="">&#173;</emend>
+uerse maters and sume decoctyon 
+wherin sume rob is dissolued, which 
+is gargarised in the mouth and not 
+swalowed downe.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="f3v">
+<heading>
+Here folow the compound medycynes whyche 
+be applyed to the outwarde partes of 
+the body.
+</heading>
+
+<wordgroup1 type="t" object="Applied Compound Medicines">
+<wordentry type="h"><form lang="la">VNgu<expan type="">en</expan>t<expan type="">um</expan></form> <xpln lang="en">an ointm<expan type="">en</expan>t, is made 
+of oyles, spices &#38; waxe, &#38; ou&#173;
+ght hote to be applyed to the 
+place be<expan type="">in</expan>g sumwhat before rubbed 
+<expan type="">with</expan> a lynen clothe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Liniment<expan type="">um</expan></form> <xpln lang="en">is in all poyntes lyke 
+to vngu<expan type="">en</expan>t<expan type="">um</expan> sauing that ther goeth 
+no waxe to the composityon therof.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emplastrum(n)">Emplastrum</form> <xpln lang="en">is made of herbes &#38; 
+spices, not being beatinge to pouder 
+but a litel bruysed mixt wyth sume 
+liquore or decoctyon, &#38; beinge hote 
+is put vpon a lin<expan type="">en</expan> cloth and so layd 
+so layd to the sore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Plus</form> <xpln lang="en">dyffereth not from an empla&#173;
+ster sauing that mele or branne god 
+to the composityon therof.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cataplasma</form> <xpln lang="en">is made of grene her&#173;
+bes or drye sod in water tyll they be 
+soft &#38; then applyed to the sore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cerot<expan type="">um</expan></form> <xpln lang="en">is made of wax or rosyn <expan type="">with</expan>
+oyles &#38; spyces, and is layde vpon a
+
+</page>
+
+<page sig="f4r">
+cloth cut after the fourme of the m<expan type="">en</expan><emend err="">&#173;</emend>
+bre it shuld be applyed vnto.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dropax(n)">Dropax</form> <xpln lang="en">is an oyntment only v&#173;
+syd to take away heare.</xpln>
+<lemenote>
+"Dropax" antedates the earliest OED citation (1621).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Sinapismus</form> <xpln lang="en">is an emplaster made 
+of mustard to vlcerate the skynne &#38; 
+make the same red.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Epithema</form> <xpln lang="en">is made of diuerse pou&#173;
+ders mixt <expan type="">with</expan> s<expan type="">um</expan>e ioice or distilled wa<emend err="">&#173;</emend>
+ter, and comonly layd vpon skarlet 
+is applyed to the seke membre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Embrocha</form> <xpln lang="en">is when the membre is 
+washed gentilly wyth a sp<expan type="">on</expan>ge dypt 
+in the decoction of diuerse herbes, ro<emend err="">&#173;</emend>
+tes and floures.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Foment<expan type="">um</expan></form> <xpln lang="en">is a bath made of the de&#173;
+coctyon of dyuerse herbes to washe 
+the sore place wyth al.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Euaporatio</form> <xpln lang="en">is when the diseased 
+membre is holden in <expan type="">the</expan> hote vapour 
+of some decoctyon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saccule(n)">Saceuly</form> <xpln lang="en">be bagges made of linen 
+cloth wherin be c<expan type="">on</expan>teyned herbes ro&#173;
+tes and leaues whyche beynge hote 
+muste be fyrste dypte in Wyne or
+
+</page>
+
+<page sig="f4v">
+vineger, and then layd to the mem&#173;
+bre that is greuyd.</xpln>
+<lemenote>
+"Saceuly" antedates the earliest OED citation (1836-9).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Encathisma <term lang="en">or</term> insessio</form> <xpln lang="en">is a decoc<emend err="">&#173;</emend>
+tyon of certayne thynges wherin <expan type="">the</expan> 
+pacyent most sit for certayne space.</xpln></wordentry>
+</wordgroup1>
+
+</section>
+
+</page>
+</leme>

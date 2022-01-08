@@ -1,0 +1,145 @@
+<leme no="90">
+<page sig="">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 4 0 7 5 . 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="title">
+Briefe introductions, both naturall, pleasaunt, and also 
+delectable vnto the Art of Chiromancy, or Manuell diuination, and 
+Physiognomy: wyth circumstances vpon the faces of the Signes. 
+Addyng newly therunto lyuely Pictures. Also certain canons or 
+rules vpon diseases and sicknesse. Whereunto is also annexed 
+aswel the artificiall, as naturall Astrologye, with <expan type="y+e">the</expan> nature of the 
+planettes. Written in the Latin tonge, by Ihon Indagine Prieste. &#182; 
+Translated into Englyshe and perused over agayne by 
+Fabian Withers.     <term lang="la">Londini</term> 1558.
+</section>
+
+</page>
+
+<page sig="A1r">
+<section type="lexicon">
+<wordgroup1 type="undifferentiated">
+<wordentry type="h">
+<xpln lang="en">THE auncient 
+Grekes, who 
+(as it may ap&#173;
+pere bi the l<expan type="o+_">on</expan>g
+and old vse of 
+the word) dyd
+vse thys sorte 
+and kinde of 
+Diuinatyon, 
+whiche is ga&#173;
+thered by the beholding of mans hand, 
+called it</xpln> <form lang="en" lexeme="chiromancy(n)">by this propre name of Chyro&#173;
+mancia.</form> </wordentry>
+
+<wordentry type="h"> 
+<form lang="en" lexeme="hand(n)">The hand therfore being extent or ope&#173;
+
+</page>
+
+<page sig="A1v">
+ned abroade,</form> <xpln lexeme="palm(n)" lexeme="concave(n)" lexeme="thumb(n)" lexeme="index(n)" lexeme="forefinger(n)" lexeme="middle finger(n)" lexeme="ring finger(n)" lexeme="ear finger(n)">the playne within is called
+the palme, in the middest whereof there 
+is a certaine space called the concaue or 
+holownesse, oute of the whiche the fiue 
+fingers haue their originall and begin&#173;
+ning. Amongst the which, the first being 
+the strongest and mooste grosse, is called 
+the Thomb: the next is called the Index 
+or forfinger, because in shewing or <emend err="poin">poin&#173;</emend>
+ting to any thing, we do commonly vse 
+that finger. The next that foloweth and 
+is in the middest of the fiue, is by the 
+same name called the middle finger: next 
+after this is the Ringe finger: so called, 
+because it is commonly to weare a ring 
+of golde vppon it, and speciallye that on 
+the left hand, for because as learned men 
+hold opinion, there doth passe a certaine 
+small sinnowe from that Finger to the 
+hearte of man: wherefore it semed good 
+in times paste to the antiquitie, to wear 
+a ringe as a crowne vppon that finger, 
+or els as some do suppose, that goulde 
+by nature doth comforte the heart. The 
+laste finger and leaste of all, is called 
+the eare finger, because it is commonlye 
+
+</page>
+
+<page sig="A2r">
+vsed to make cleane the eares. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fist(n)">
+And thus 
+farre concernynge the fingers. More o&#173;
+uer, the hand beyng closed or shut wyth 
+the fingers turned in, we call the fiste, </form>
+<xpln lexeme="percussion(n)" lexeme="pomel(n)" lexeme="wrist(n)" lexeme="hill(n)">the nether parte wherof (amongest such 
+as vse this Arte,) is commonlye called 
+the percussion or pomel of the hand Th<expan type="e+_">en</expan> 
+the place where the hand is drawen and 
+gathered in, &#38; ioyned to the arme, is also 
+called the wreast. Furthermore, euerye 
+finger hath his proper rising or swelling 
+of the fleshe, which dothe rise at the rote 
+or nether parte of the saide fingers, and 
+of some is called hilles, and are attribu&#173;
+ted vnto the names of the Planets. A&#173;
+mong the whiche is reckened the rising 
+or hyll in the nether parte of the fist, cal&#173;
+led the percussion of the hand, so that in 
+the hande are limitted and appoynted 
+seuerall places vnto euerye of the Pla&#173;
+nettes, whereby iudgemente maye be 
+gathered. </xpln></wordentry>
+
+</page>
+
+<page sig="H7r">
+
+<wordentry type="h">
+<form lang="en" lexeme="hair(n)">
+FOr the better vnderstanding of Phisi&#173;
+ognomy of the heeres we wil first de&#173;
+clare their nature, The heres are noth<expan type="i+_">in</expan>g 
+els but</form> <xpln lang="en">a vapor hot and dry in densat &#38; 
+made thick by thair which he is compas&#173;
+sed withal, by <expan type="y+e">the</expan> which definicion it doth 
+plainly appere that old satarnyn men to 
+be bald &#38; without heere thorowe the ex&#173;
+treme cold which is in their powers. </xpln></wordentry>
+
+</page>
+
+<page sig="M4v">
+
+<wordentry type="h">
+<form lang="en" lexeme="house(n)">A House</form> <xpln lexeme="description of signs(n)" lexeme="division of signs(n)">is a certaine space in the fir&#173;
+mam<expan type="e+_">en</expan>t deuided by certaine degrees, 
+by the which the planets haue their mo&#173;
+cion, so Metaphorically called. For 
+as in a house there be many mantiens: 
+so euery planet hath his proper place in 
+the heauen or firmament, by the whiche 
+they do moue, and in the whiche they be 
+resident and situate. And it is called the 
+discription or diuision of the signs by .30 
+degrees, for euerye house or signe hathe 
+30. degrees. </xpln></wordentry>
+</wordgroup1>
+
+</section>
+
+</page>
+</leme>

@@ -1,0 +1,683 @@
+
+
+<leme no="162">
+<page sig="parapara6r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 5 3 8 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+A necessarie Catalogue, of the most hardest olde English words, how they maye
+be truly vnderstood after our vsuall speaking, as well in other old Copies,
+as in this booke: next vnto euery such word, is the knowen English.
+</heading>
+
+<wordentry type="h">
+<form lexeme="wit, angel's(n)">Angells inwit, </form><xpln>heauenly knowledge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="arrayed(a)">Araied, </form><xpln lexeme="furnished(a)" lexeme="skilled(a)" lexeme="beautified(a)">furnished, skilled, or beautified. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="attercop(n)">Attercop, </form><xpln lexeme="spider(n)">a spider. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="arreared(v)">Arerid, </form><xpln lexeme="lifted up(a)">lifted vp. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="spiracle(n)">A 
+spiracle, </form><xpln>a loftie sentence or a quickning 
+conceipt. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="arbalest(n)">Arbalastes, </form><xpln lexeme="cross-bow(n)">crosse-bowes. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="anon(adv)">Anon, 
+</form><xpln lexeme="speedily(adv)">speedely or shortly after. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sethe(n)">A seeth, </form><xpln lexeme="attonement(n)">that is 
+an attonement. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ayen(adv)">Ayen, </form><xpln lexeme="again(adv)">againe. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="swap(n)">A swap, </form><xpln lexeme="dusset(n)" lexeme="cuff(n)">a 
+blow or stroke on any part of the body, 
+dusset signifieth the same, &#38; also a cuffe. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="benim(v)">Benimmeth, </form><xpln lexeme="withhold(v)" lexeme="keep(v)">witholde or keepe. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="botrace(n)">Botraces, </form><xpln>venemous frogs. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="bounching(n)">Bounching, </form><xpln lexeme="bending(a)" lexeme="swelling(a)">bending or 
+swelling. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="blenching(n)">Blenching, </form><xpln>mixing, &#38; sometime 
+dazeling. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="beshine(v)">Beshine, </form><xpln lexeme="illuminate(v)">to giue light vnto, or 
+illuminate. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="beshined(v)">Beshined, </form><xpln lexeme="lightened(a)" lexeme="beautified(a)">lightned, or beauti&#173;
+fied. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="burgeoning(n)">Burgening, </form><xpln>when the young twigge 
+appeareth. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="buffing(n)">Buffing, </form><xpln lexeme="stuttering(n)" lexeme="stammering(n)" lexeme="boasting(n)">stutting or stamme&#173;
+ring, somtime it signifieth bosting. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="bloness(n)">Bloo&#173;
+nesse, </form><xpln lexeme="pale(a)" lexeme="wan(a)">pale or wan. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="bolism(n)">Bolisme, </form><xpln>immoderate 
+appetite. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="botchy(a)">Botchy, </form><xpln lexeme="swelling up(a)" lexeme="cockling(a)">swelling vp or cocke&#173;
+ling. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="behoteth(v)">Behoteth, </form><xpln lexeme="promise(v)">promiseth. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="breach men(n)">Breechm<expan type="">en</expan>, </form><xpln lexeme="mariner(n)" lexeme="sailor(n)">Ma&#173;
+riners or saylers. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="boisterous(a)">Boistous, </form><xpln lexeme="gross(a)" lexeme="stubborn(a)">grose, or stub&#173;
+berne. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="bede(n)">Bedes, </form><xpln lexeme="petition(n)">petitions. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="clarity(n)">Cleeretie, </form><xpln lexeme="brightness(n)">brightnesse. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="covenable(a)">Couenable, </form><xpln lexeme="needful(a)">needful. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="couth(a)">Couth, </form><xpln lexeme="know(v)">that is know or knew. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="curtel(n)">Curtels, 
+</form><xpln lexeme="nerve(n)">Nerues, and small rimnes in the bodie. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="clight(a)">Clight, </form><xpln>closed or fastened togethers. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cleping(v)">Cle&#173;
+ping, </form><xpln lexeme="promising(v)">promising. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="described(v)">Descriued, </form><xpln lexeme="revealed(a)">reuealed. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="doom distributive(n)">Doome distributiue, </form><xpln>particular iudgement. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dole(n)">Dole, </form><xpln lexeme="sorrow(n)">sorow. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="deeming(v)">Dee&#173;
+ming, </form><xpln lexeme="suppose(v)">to suppose. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="drest(n)">Drastes, </form><xpln lexeme="lees(n)">refuse or lees of 
+wine, or of humor. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="den(n)">Dennes, </form><xpln lexeme="cave(n)">caues or ho&#173;
+low places. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="distinguish(v)">distingweth, </form><xpln lexeme="divide(v)">diuided. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="deal(v)">Deale, 
+</form><xpln lexeme="bestow(v)" lexeme="part(v)">to bestow or part. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dread(v)">Dread, </form><xpln>to be in feare. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="decorate(v)">Decorate, </form><xpln lexeme="beautify(v)">to beautifie. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="defeng(v)">Defieng, </form><xpln lexeme="digest(v)">to digest. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dunch(a)">Dunch, </form><xpln lexeme="deaf(a)">deafe or hard of hearing. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dulcet(a)">Dulcet, 
+</form><xpln lexeme="sweet(a)" lexeme="pleasant(a)" lexeme="dainty(a)">sweet, pleasant or daintie. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dunder(n)">Dunder, </form><xpln lexeme="thunder(n)" lexeme="tempest(n)">thun&#173;
+der or tempest. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="excite(v)">Exciteth, </form><xpln lexeme="stir(v)" lexeme="enlarge(v)">stirreth or inlardgeth. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="encheason(n)">Enches<expan type="">on</expan>, </form><xpln lexeme="forfeit(n)">forfait. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ensignment(n)">Ensinement, 
+</form><xpln lexeme="perseverance(n)">perseuerance. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="elengeness(n)">Eleing&#173;
+nesse, </form><xpln>waiward and solitary. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="eald(a)">Eald, </form><xpln lexeme="old(a)">olde. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fundament(n)">Fundement, </form><xpln lexeme="foundation(n)" lexeme="beginning(n)" lexeme="longation(n)" lexeme="fart hole(n)" lexeme="arse gut(n)">foundation or beginning: it 
+is taken for the longation: 
+which is ter&#173;
+med the fart hoale, or arse gut, it maye 
+be called the 
+venticle for the stomacke. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="feat(a)">Feat, </form><xpln lexeme="neat(a)" lexeme="cleanly(a)">neat or clenly. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fervour(n)">Feruour, </form><xpln lexeme="fervent(a)" lexeme="earnest(a)">feru<expan type="">en</expan>t or ear&#173;
+nest. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gendered(a)">Gendrid, </form><xpln lexeme="begotten(a)">begotten. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gastness(n)">Gastnes, </form><xpln lexeme="apparition(n)">appara&#173;
+tions. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="grolling(n)">Groll<expan type="">en</expan>g, </form><xpln>wallowing of <expan type="">the</expan> stomack. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ghost(n)">Gostes, </form><xpln lexeme="spirit(n)">spirits. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="groping(n)">Gropeng, </form><xpln lexeme="feeling(n)">feeling. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="griefly(a)">Griefely, 
+</form><xpln>fearefull to beholde. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gush(n)">Goushes, </form><xpln lexeme="stream(n)">streames. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gree(n)">Grees, </form><xpln lexeme="degree(n)" lexeme="quality(n)" lexeme="part(n)">degrees, qualities or parts. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gnaureng(n)">Gnau&#173;
+reng, </form><xpln lexeme="forgetfulness(n)">forgetfulnesse. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gabbing(n)">Gabbing, </form><xpln lexeme="prating(n)">prating, or 
+vnseemly speaking. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="highted(v)">Highted, </form><xpln lexeme="beautify(v)">beautified, 
+or to make handsome. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hoven(v)">Houen, </form><xpln lexeme="advance(v)" lexeme="set up(v)">to aduance 
+or set vp. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hearingless(a)">Hearingles, </form><xpln lexeme="deaf(a)">deafe. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hireling(n)">Hirelings, </form><xpln lexeme="servant(n)">ser&#173;
+uants. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hue(n)">Hiew, </form><xpln lexeme="shape(n)" lexeme="seemliness(n)">shape or seemlinesse. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hoary(a)">Horie, </form><xpln lexeme="mouldy(a)" lexeme="fended(a)">mouldie or fended. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hele(v)">Hele, </form><xpln lexeme="cover(v)" lexeme="overcast(v)">to couer or o&#173;
+uercast. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="them(pr)">Hem, </form><xpln lexeme="them(pr)">them. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="intelligence(n)">Intelligence, </form><xpln lexeme="understanding(n)">vnder&#173;
+standing. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="inwit(n)">Inwit, </form><xpln>conceit of minde. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="infunded(a)">Infun&#173;
+did, </form><xpln lexeme="confounded(a)">confounded. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="innermore(adv)">Innermore, </form><xpln>before writ&#173;
+ten. 
+</xpln></wordentry>
+
+</page>
+
+<page sig="parapara6v">
+<wordentry type="h">
+<form lexeme="cut(v)">Kit, </form><xpln lexeme="cut off(v)">cut off. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lead(n)">Leden, </form><xpln lexeme="guide(n)">guyde. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lore(n)">Lore, </form><xpln lexeme="skill(n)">skill. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="leech(n)">Leches, </form><xpln lexeme="surgeon(n)">sur&#173;
+geons. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lends(n)">Lendes, </form><xpln>the flankes and thigh. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="melling(n)">Melling, </form><xpln lexeme="conjoining(n)">conioyning. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="malshrag(n)">Malshragges, </form><xpln lexeme="caterpillar(n)" lexeme="palmer(n)" lexeme="canker(n)">Ca&#173;
+terpillers Palmers &#38; Cankers. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="menace(v)">Me&#173;
+nace, </form><xpln lexeme="threaten(v)">to threten. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="mystic(a)">Misticke, </form><xpln lexeme="secret(a)">secret. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="much(a)">Much, 
+</form><xpln>is taken for quantitie. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="meed(n)">Meede, </form><xpln lexeme="reward(n)">reward. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="nemned(a)">Nemped, </form><xpln lexeme="disclosed(a)">disclosed. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="neneven(n)">Neneeuen, </form><xpln lexeme="temperance(n)">Tempe&#173;
+rance. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="nenet(v)">Nenet, </form><xpln>will not. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="nesh(a)">Nesh, </form><xpln lexeme="soft(a)">softe. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="obstacle(n)">Obstacle, </form><xpln lexeme="stubborn(a)" lexeme="wilful(a)">stubborne or wilfull. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="oned(a)">Onid, 
+</form><xpln>mixed and ioyned. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="outtake(pp)">Out take, </form><xpln lexeme="except(pp)">except. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="pampination(n)">Pampination, </form><xpln>pulling leaues, that grow 
+too thicke. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="partner(n)">Partner, </form><xpln lexeme="partaker(n)" lexeme="companion(n)">pertaker, sometime 
+for a companion. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="percase(n)">Percase, </form><xpln lexeme="likelihood(n)">likelihood. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="quitted(v)">Quitted, </form><xpln lexeme="discharge(v)">to discharge. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ruth(n)">Ruthe, </form><xpln lexeme="pity(n)" lexeme="compassion(n)">pitie or compassion. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ripe man(n)">Ripe men, 
+</form><xpln lexeme="harvester(n)">haruesters &#38; learned men. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="rock(v)">Rock </form><xpln lexeme="shake(v)">shake. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="rabbish(a)">Rabbish, </form><xpln lexeme="foolhardy(a)" lexeme="malapert(a)" lexeme="snatching(a)">foole hardie, or malepart, &#38; snat&#173;
+ching. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="reef(n)">Reefes, </form><xpln>waues of the sea. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="renleth(a)">Ren&#173;
+leth, </form><xpln>mixed together. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="reling(a)">Reling, </form><xpln lexeme="mouldering(a)">muldering 
+or ready to fall a sunder. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="stretchable(a)">Stretch able, </form><xpln lexeme="upright(a)">vpright. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="siker(a)">Siker, </form><xpln lexeme="safe(a)">safe. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="spirituality">Spiri&#173;
+tuelte, </form><xpln lexeme="purity(n)">puritie or well meaning. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="shape(n)">Shapes, 
+</form><xpln>differences of bodies. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="stempn(n)">Stempnes, </form><xpln lexeme="subjection(n)">subiec&#173;
+tions. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="stable(a)">Stable, </form><xpln lexeme="steadfast(a)">stedfast. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sturdy(a)">Sturdie, </form><xpln lexeme="stout(a)" lexeme="strong(a)" lexeme="valiant(a)">stoute, 
+strong or valiant. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sty(v)">Stithe, </form><xpln lexeme="ascend(v)" lexeme="climb(v)">ascend or clime. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="stammering(a)">Stammering, </form><xpln lexeme="doubtful(a)">doubtfull. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="stalking(a)">Stalking, </form><xpln>slow go&#173;
+ing. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="speedful(a)">Speedfull, </form><xpln lexeme="ready(a)">ready. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="squitter(n)">Squitter, </form><xpln lexeme="menstrual(a)">menstru&#173;
+all, or matter corrupt. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sternness(n)">sternes, </form><xpln lexeme="fierceness(n)" lexeme="stubborn(a)">fierce&#173;
+nesse, or stubborne. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="savation(n)">Sauation, </form><xpln lexeme="salvation(n)" lexeme="preservation(n)">saluation, 
+or preseruation. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="spended(a)">Spended, </form><xpln lexeme="consumed(a)">consumed. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="smack(v)">Smacke, </form><xpln lexeme="taste(v)">taaste. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="seche(v)">Seecheth, </form><xpln lexeme="seek(v)">seeketh. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="shade(n)">shaad, 
+</form><xpln lexeme="shadow(n)">shadow. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sikerly(adv)">Sikerly, </form><xpln lexeme="warely(adv)" lexeme="safely(adv)">warely or safelye. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sign(v)">Sig&#173;
+neth, </form><xpln lexeme="express(v)">expresseth. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="thralldom(n)">Thraldome, </form><xpln lexeme="bondage(n)">Bondage. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="thwite(a)">Thyted, </form><xpln lexeme="cut(v)">cut, as 
+with a knife. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="torment(n)">Tourmentes, </form><xpln lexeme="engine(n)">Engines. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="trow(v)">Trow, </form><xpln lexeme="suppose(v)" lexeme="deem(v)">suppose or deeme. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="thirl(v)">Thirleth, </form><xpln lexeme="pierce(v)" lexeme="intermix(v)" lexeme="settle(v)">pear&#173;
+ceth, entermixeth or setteleth. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="uncunning(a)">Vncunning, </form><xpln>wanting skill. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="unweved(a)">Vnweuid, 
+</form><xpln>vnperfect worke. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="violaceous(a)">Violaceus, </form><xpln lexeme="fretting(n)">fretting. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="vore(n)">Vores, </form><xpln lexeme="furrow(n)">forowes of land. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="vindimiation(n)">Vindimiation, 
+</form><xpln>gathering ripe grapes. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="unneth(adv)">Vnneth, </form><xpln lexeme="scarcely(adv)">scarcly. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="wealthful(a)">Welthfull, </form><xpln lexeme="fruitful(a)">fruitfull. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="witty(a)">Wittie, </form><xpln lexeme="discreet(a)">discreete. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="wrech(v)">Wreche, </form><xpln lexeme="revenge(n)">reuenge. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="weasand(n)">Wosen, </form><xpln lexeme="strut-boll(n)">the strot boll, 
+or entraunce to the stomacke. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="wodness(n)">Wood&#173;
+nes, </form><xpln lexeme="madness(n)">madnesse. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ween(v)">Weene, </form><xpln lexeme="think(v)">to thinke. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="wapping(n)">Wap&#173;
+peng, </form><xpln lexeme="quaking(n)">quaking. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ooze(n)">Woos, </form><xpln lexeme="vapour(n)">vapour. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="woe(n)">Woo, 
+</form><xpln>griefe of minde. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="welkin(n)">Welkin, </form><xpln>the bright
+aire aboue the cloudes. 
+</xpln></wordentry>
+
+<term lang="la">
+FINIS
+</term>
+
+</page>
+</leme>

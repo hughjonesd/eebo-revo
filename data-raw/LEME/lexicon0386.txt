@@ -1,0 +1,337 @@
+
+
+<leme no="386">
+<page sig="*1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 6 4 3 a
+
+v e r . 1 . 0  ( 2 0 1 8 )
+</term>
+</lemepagenote>
+<heading>
+To the Reader.
+</heading>
+
+<section type="preface">
+These words explained are not in&shy;
+tended for the learned, but for the un&shy;
+learned, whereby they may come to the understan&shy;
+ding of this booke and others of the same na&shy;
+ture, and the rather because many sen&shy;
+tences may depend on the ope&shy;
+ning of a word.
+</section>
+
+<section type="Glossary">
+<wordgroup1 type="u">
+
+<wordentry type="h"><form lang="en" lexeme="synecdoche(n)">SYnecdoche, </form><xpln lang="en">A figure containing a part for the whole 
+p. 3.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distribution, genuine(n)">Genuine distribution </form><xpln lang="en">naturall or proper division. p. 4.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metonymy(n)">Metonymy </form><xpln lang="en">a figure by which the cause is put for the effect, 
+or the subject for the Adjunct or contrarywise, the effect 
+for the cause. p. 5.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inaccessible(a)">Inaccessibile </form><xpln lang="en">that cannot be gone unto. p. 10.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="essence(n)">Essence </form><xpln lexeme="beginning(n)">the beginning. p. 11.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consectary(n)">Consectaries, </form><xpln lexeme="conclusion(n)">or conclusions. p. 12.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subsistence(n)">Subsistence </form><xpln lang="en">the manner of being. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="abstract(n)">Abstract </form><xpln lexeme="substantive(n)">the substantive as, whitenesse. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="concrete(a)">Concrete </form><xpln lexeme="adjective(n)">the Adjective as white. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imparity(n)">Imparitie </form><xpln lexeme="inequality(n)">Inequality. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="equivocally(adv)">Equivocally </form><xpln lexeme="doubtful(a)">Doubtfull. p. 13.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="analogically(adv)">Analogically </form><xpln lang="en">by way of Resemblance. ibidem.</xpln></wordentry>
+
+
+</page>
+
+<page sig="*1v">
+<wordentry type="h"><form lang="en" lexeme="numerical(a)" lexeme="individual(a)">Numericall,
+Individuall </form><xpln lang="en">As one and the same thing not only in 
+nature, but in number. p. 14. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dimension(n)">Dimension </form><xpln lang="en">the <emend err="meansureof">measure of</emend> a thing. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="immensity(n)">Immensity </form><xpln lexeme="greatness(n)">greatnesse. p. 15.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="relative(a)">Relatives </form><xpln lexeme="respective(a)">Respective. p. 17.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="individuating(a)">Individuating </form><xpln lexeme="restraining(a)" lexeme="limiting(a)">Restraining or Limiting. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="procession(n)">Procession </form><xpln lexeme="issuing(n)">Issuing. p. 19.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="efficiency of God(n)">Efficiency of God </form><xpln lexeme="power, working(n)">his <emend err="whorking">working</emend> power. p. 21.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syllogism(n)">Syllogisme </form><xpln lexeme="argument(n)">an argument. p. 23.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="identity(n)">Identity </form><xpln lexeme="sameness(n)">Samenesse of a thing. p. 25.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="termination(n)">Termination </form><xpln lang="en">the relation of a worke to a particular person. 
+p. 26.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="analysis(n)">Analysis </form><xpln lexeme="resolution(n)">resolution. p. 28.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="idea(n)">Idea </form><xpln lang="en">a forme or image of a thing in a mans mind. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quiddity(n)">Quiddity </form><xpln lexeme="being(n)">the being of a thing. p. 29.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="existence(n)">Existence </form><xpln lexeme="being, actual(n)">the actuall being of a thing. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contingent(a)">Contingent </form><xpln lexeme="accidental(a)">accidentall. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intelligence, simple(n)">Simple intelligence </form><xpln lexeme="knowledge, God's absolute(n)">Gods absolute Knowledge. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="science(n)">Science </form><xpln lexeme="knowledge(n)">is Knowledge. p. 30.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sapience(n)">Sapience </form><xpln lexeme="wisdom(n)">is Wisdome. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="concomitant(a)">Concomitant </form><xpln lexeme="accompanying(a)">Accompanying. p. 31.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antecedent(a)">Antecedent </form><xpln lexeme="going before(a)">going before. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="connection(n)">Connexion </form><xpln lexeme="joining before(a)">joyning before. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exist(v)">Exist </form><xpln lang="en">to have an <emend err="ectuall">actuall</emend> being. p. 32.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attingency, passive(n)">Passive attingency, </form><xpln lang="en">that is the Efficacy of the will of God, upon 
+one thing causing another thing. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contingency(n)">Contingency </form><xpln lexeme="chance, by(n)">by chance. p. 34.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metonymically(adv)">Metonymically </form><xpln lang="en">by a figure, the cause for the effect, or the 
+subjects for the quality, or contrary wise. p. 35.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="formacy(a)">Formacy </form><xpln lexeme="transient(a)"><emend err="transien">transcient</emend> really passing. p. 36.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="virtually(adv)">Virtually </form><xpln lexeme="power, in(n)">that is in power. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preexist(v)">Pr&aelig;exist </form><xpln lexeme="be before(v)">to be before. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="entity(n)">Entitie </form><xpln lexeme="being(n)">the being of a thing. p. 38.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aggregation(n)">Aggregation </form><xpln lexeme="heaping up(n)" lexeme="joining together(n)">heaping up or joyning together. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incomplete(a)">Incompleat </form><xpln lexeme="imperfect(a)">Imperfect. p. 40.</xpln></wordentry>
+
+
+</page>
+
+<page sig="*2r">
+<wordentry type="h"><form lang="en" lexeme="intrinsically(adv)">Intrinsecally </form><xpln lexeme="inwardly(adv)">inwardly. p. 48. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="indissoluble(a)">Indissoluble </form><xpln lang="en">that must not be dissolved. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="previous(a)">Previous </form><xpln lexeme="going before(a)">going before. p. 50.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sunteresis(n)">Sunteresis </form><xpln lang="en">that part of the understanding in which we keepe 
+severall Notions. p. 54.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="animal(a)">Animall </form><xpln lexeme="living(a)">living. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanction(n)">Sanction </form><xpln lang="en">the establishment of <emend err="te">the</emend> Law. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adjuvant(a)">Adjuvant </form><xpln lang="en">belying. p. 57.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sophistical(a)">Sophisticall </form><xpln lang="en">by a false argument. p. 58.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prediction(n)">Prediction </form><xpln lexeme="foretelling(n)">fortelling. p. 59.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="homogeneal(a)">Homogeneall </form><xpln lang="en">of the same name and nature. p. 67.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="detractation(n)">Detractation </form><xpln lang="en">with-drawing from the Law. p. 70.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="theoretical(a)">Theoreticall </form><xpln lexeme="contemplative(a)">contemplative. p. 72.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inauguration(n)">Inauguration </form><xpln lexeme="installing(n)">installing. p. 97.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ubiquitary(a)">Ubiquitari </form><xpln lang="en">that is everywhere. p. 108.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="promiscuously(adv)">Promiscuously </form><xpln lexeme="confused(a)">confused. p. 114.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="motion, physical(n)">Physicall motion </form><xpln lang="en">an actuall change. p. 130.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adequate(a)">Adequate </form><xpln lang="en">of the same extent. p. 132.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extrinsical(a)">Extrinsecall </form><xpln lexeme="outward(a)">outward. p. 136.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="manumission(n)">Manumission </form><xpln lexeme="freedom(n)">freedome. p. 139.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transmutation(n)">Transmutation </form><xpln lexeme="change(n)">change. p. 146.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="collectively(adv)">Collectively </form><xpln lexeme="together(adv)">together. p. 153.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="integrally(adv)">Integrally </form><xpln lexeme="wholly(adv)">wholly. p. 154.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="genus(n)">Genus </form><xpln lang="en">a logicall terme intimating a nature common to severall 
+kinds. d. 155.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="species(n)">Species </form><xpln lang="en">is <emend err="alogicall">a logicall</emend> terme signifying a nature agreeable onely to 
+severall particulars. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="axiom, theological(n)">Theologicall Axiome, </form><xpln lang="en">a rule in <emend err="Diinitie">Diuinitie</emend>. p. 177.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="proem(n)">Proems </form><xpln lexeme="beginning(n)">beginnings. p. 181.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exordium(n)">Exordium </form><xpln lexeme="preface(n)">Preface. <emend err="iibdem">ibidem</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prediction(n)" lexeme="predicated(a)">Predication
+Predicated </form><xpln lexeme="denomination(n)" lexeme="naming(n)">denomination or naming. p. 189. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reciprocal(a)">Reciprocall </form><xpln lexeme="interchangeable(a)">interchangeable. p. 188.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suspension(n)">Suspension or </form><xpln lexeme="absention(n)" lexeme="withholding(n)">abstension withholding. p. 191.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="secluding(a)">Secluding </form><xpln lexeme="shut out(a)">or shut out. ibidem.</xpln></wordentry>
+
+
+</page>
+
+<page sig="*2v">
+<wordentry type="h"><form lang="en" lexeme="proselyte(n)">Proselytes </form><xpln lexeme="follower(n)">followers. p. 127. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intensively(adv)">Intensively </form><xpln lang="en">the inward vertue of a thing, extensively are out&shy;
+<emend err="wardacts">ward acts</emend> of a thing. p. 200.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aberration(n)">Aberration </form><xpln lexeme="erring(n)">erring. p. 201.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="class(n)">Classes </form><xpln lexeme="meeting, lesser(n)">the lesser meeting. p. 202.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="synod(n)">Synods </form><xpln lexeme="meeting, greater(n)">the <emend err="grerater">greater</emend> meeting. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oecumenical(a)">Oecumenicall </form><xpln lexeme="universal(a)">universall. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consubstantiation(n)">Consubstantiation </form><xpln lang="en">the being of two substances together. p. 208</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trope(n)">Tropee </form><xpln lang="en">a translation of the signification of words. p. 209.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="delegated(a)">Delegated </form><xpln lexeme="appointed(a)">appointed. p. 214.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lesbian(a)">Lesbian </form><xpln lexeme="crooked(a)">crooked. p. 225.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ethics(n)">Ethicks </form><xpln lexeme="manners(n)">manners. p. 226.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mediocrity(n)">Mediocrity </form><xpln lexeme="mean(n)">the meane. p. 234.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="specifical(a)">Specificall </form><xpln lang="en">the same in kind. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ens incomplexum(n)">Ens incomplexum </form><xpln lexeme="being, simple(n)">a simple being. p. 253.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="specificative(a)">Specificative </form><xpln lang="en">that makes divers kinds. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="appretiatively(adv)">Appretiatively </form><xpln lexeme="valuably(adv)">valuablely. p. 268.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="compellation(n)">Compellation </form><xpln lexeme="naming(n)" lexeme="calling(n)">naming or calling. p. 275.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sympathy(n)">Sympathies </form><xpln lang="en">the agreements of nature.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antipathy(n)">Antipathies </form><xpln lang="en">the disagreements of nature.
+p. 277. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="appropriation(n)"><emend err="Appropriatiation">Appropriation</emend> </form><xpln lang="en">applying to one. p. 282.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mental(a)">Mentall </form><xpln lang="en">in the understanding. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vocal(a)">Vocall </form><xpln lang="en">in word. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deprecation(n)">Deprecation </form><xpln lexeme="pray against(v)">to pray against. p. 285.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anthem(n)">Anthemes </form><xpln lexeme="song(n)">songes. p. 284.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="impetration(n)">Impetration </form><xpln lexeme="obtaining(n)">obtaining. p. 287.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="celebration(n)">Celebration </form><xpln lexeme="praising(n)">praising. p. 289.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metaphorical(a)">Metaphoricall </form><xpln lang="en">the property of one thing is translated to ano&shy;
+ther. p. 291.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="promissory(a)">Promissory </form><xpln lexeme="promising(a)">promising. p. 293.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="assertory(a)">Assertory </form><xpln lexeme="affirming(a)">affirming. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="candidly(adv)">Candidly </form><xpln lexeme="ingenously(adv)">ingenuously. p. 294.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spontaneous(a)">Spontaneous </form><xpln lexeme="willingly(adv)">willingly. p. 295.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exorcism(n)">Exorcismes </form><xpln lexeme="conjuration(n)">conjuration. p. 296.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="indefinite(a)">Indefinite </form><xpln lexeme="unlimited(a)">unlimited. ibidem.</xpln></wordentry>
+
+
+</page>
+
+<page sig="*3r">
+<wordentry type="h"><form lang="en" lexeme="fortuinous(a)"><emend err="Fortuinous">Fortuitous</emend> </form><xpln lexeme="casual(a)">casuall. p. 297. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conjecture(n)">Conjecture </form><xpln lexeme="guess(n)">guesse. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pertinacious(a)">Pertinacious </form><xpln lexeme="obstinate(a)">obstinate. p. 302.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="monomachy(n)">Monomachies </form><xpln lexeme="duel(n)">Duells. p. 306. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accurate(a)">Accurate </form><xpln lexeme="perfect(a)">perfect. p. 309.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="redundancy(n)">Redundancy </form><xpln lexeme="abounding(a)">abounding. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="detraction(n)">Detraction </form><xpln lexeme="slander(n)">slander. p. 311.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="iota(n)">Iotaes </form><xpln lexeme="tittle(n)">tittles. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subjective(a)">Subjective </form><xpln lang="en">in this place terminated. p. 314.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="objectively(adv)">Objectively </form><xpln lang="en">referred by ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="idolothite(n)">Idolothites </form><xpln lang="en">things offered to indolls. p. 315.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="situation(n)">Situation </form><xpln lexeme="seating(n)">seating. p. 319.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prolepsis(n)" lexeme="anticipation(n)">Prolepsis or 
+Anticipation </form><xpln lang="en">The declaring of a thing before that 
+shall bee done afterward. p. 323.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polygamy(n)">Polygamy </form><xpln lang="en">many mariages. p. 325.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adumbration(n)">Adumbration </form><xpln lexeme="shadowing(n)">shadowing. p. 329.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="judicial(a)">Iudiciall </form><xpln lang="en">the Lawes for the Common-Wealth. p. 330.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="allegorically(adv)">Allegorically </form><xpln lexeme="figuratively(adv)">figuratively. p. 337.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="concession(n)">Concession </form><xpln lexeme="granting(n)">granting. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mechanical(a)">Mechanicall </form><xpln lexeme="handiwork(n)">Handiwork. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="disparity(n)">Disparity </form><xpln lexeme="inequality(n)">inequality. p. 345.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emendative(a)">Emendative </form><xpln lexeme="correcting(a)">correcting. p. 152.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="commutative(a)">Commutative </form><xpln lexeme="changing(a)">changing. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="criminal(a)">Criminall. </form><xpln lexeme="faulty(a)">faulty. ibidem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsimony(n)">Parsimony </form><xpln lexeme="sparing(a)">sparing. p. 378.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pedagogy(n)">Pedagogy </form><xpln lexeme="childhood(n)">Child-hood. p. 330.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accommodation(n)">Accommodation </form><xpln lexeme="fitting(n)">fitting. p. 331.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+
+</section>
+</page>
+</leme>

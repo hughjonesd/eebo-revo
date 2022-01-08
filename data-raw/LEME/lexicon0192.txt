@@ -1,0 +1,402 @@
+<leme no="192">
+
+<page>
+<heading>
+A TREATISE
+NAMED LVCARSOLACE
+DEVIDED INTO FOWER BOOKES,
+which in part are collected out of diuerse authors in
+diuerse languages, and in part deuised by
+Cyprian Lvcar Gentleman.
+</heading>
+</page>
+
+<page sig="a4r">
+
+IN THE NAME OF GOD AMEN.
+
+THE FIRST BOOKE OF
+LVCARSOLACE, CONTAINING DEFINITI&SHY;
+ONS OF DIVERS WORDS AND TERMES, NAMES
+and lengthes of diuerse English measures, a true difference betweene an acar of 
+land measured with a pearch of 12.foote, 18.foote, 20.foote, or 24.foote in length
+and an acar of land measured with a pearch of 16. foote and 1/2 foote in length.
+Names &amp; tipes of diuers Geometrical instruments: Names and dwelling pla&shy;
+ces of workmen which can make and do sell such instruments: Meanes to de&shy;
+scerne whether or no the edge of a ruler be right; and infallible instructions by
+which an ingenious reader may easily measure vpon any smooth table, drums
+head, stoole, or other superficies, measurable lengthes, bredthes, heightes, and
+depthes apply knowne lengthes, bredthes, heigths, and depths to many good
+purposes, know recorded heigthes, lengthes, &amp; bredthes of some famous mo&shy;
+numents in Sarum, in Westminister, and in the honorable cittie of London: 
+know the antiquitie of the said citie of L<expan t="o+_">on</expan>don: draw the true plat of any place,
+make a fit scale for any plat or mappe, reduce many plats into one faire mappe, reduce a map
+from a bigge forme to a lesse forme, &amp; from a lesse former to a bigge forme, and learne to note
+the commodities and discommodities of places, in part collected and translated out of 
+diuerse authors in diuerse languages, and in the greatest part deuised
+by CYPRIAN LVCAR GENTLEMAN.
+
+
+
+<heading>
+CHAP. I.
+
+<f type="i">Definitions collected out of Euclide and other Authors of diuerse words
+and termes recited in this Treatise.</f>
+</heading>
+
+<wordgroup1 type="t">
+<wordentry lang="en" type="d"><form lexeme="prick(n)" lexeme="sign(n)" lexeme="point(n)">A PRICKE, signe, or point</form> <xpln>, is that which hath no part,
+as is this pricke, signe, or point marked vnder A.</xpln>
+<lemenote>
+The numbers of these definitions, noted in the margin from 1 to 48, are omitted here.
+</lemenote>
+</wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="line(n)">A line</form> <xpln>is length without bredth, as is this line,
+A ------- B</xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="end(n)" lexeme="limit(n)">The ends or limits of a line</form> <xpln lexeme="point(n)">are points, as the points
+A B are the ends of this line A ------- B</xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="right line(n)">A right line</form> <xpln>is that which lieth equally betweene
+his points, as the whole line A B lieth straight &amp; equal&shy;
+ly betweene the points A ---- B without any going vp or comming downe
+on either side. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form>All lines which go not right forth from point to point, but bow any way</form> <xpln lexeme="crooked line(n)">,
+
+</page>
+
+<page sig="a4v">
+are crooked lines, and though of them there are innumerable diuersities, I haue
+for examples set here some crooked lines of diuers fashions. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="superfices(n)">A superficies</form> <xpln>is that which hath onely length and bredth. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="extreme(n)">Extreames of a superficies</form> <xpln lexeme="line(n)">are lines. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="plain superficies(n)">A plaine superficies</form> <xpln>is that which lieth equally betweene his lines, as this
+superficies lieth equally and smooth betweene the
+two lines A C and B D, or betweene the two lines
+A B and C D, so that no part thereof either swelleth
+vpwards, or is depressed downwards. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="plain angle(n)">A plaine angle</form> <xpln>is an inclination or bowing of two
+lines the one to the other, and the one touching the 
+other, and not being directly ioyned togither, as do
+the two lines A B and B C. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="right angle(n)">If the lines which containe the angle be right lines,
+then it is called a right angle</form> <xpln>, as is the angle A B C in the former figure: where
+note that an angle is for the most part described by three letters, of which the 
+second or middle letter representeth the verie angle, and therefore is set at the
+angle. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form>When a right line standing vpon a right line ma&shy;
+keth the angles on either side equall,</form> <xpln lexeme="right angle(n)" lexeme="perpendicular(n)" lexeme="plumb line(n)">then either of
+those angles is a right angle, and the right line which
+standeth erected is called a perpendicular or plumbe
+line to that vpon which it standeth. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="square line(n)">A squier line</form> <xpln>is that which cutteth or toucheth any
+line or thing squierwise, as in the figure belonging to
+theleuenth definition, the line A B is a squier line, be&shy;
+cause it cutteth the line C D squierwise: and in the fi&shy;
+gure belonging to this twelft definition, the line A B 
+is a squire line, because it toucheth the line C B squire&shy;
+wise: and the line C B is also a squier line because it
+toucheth the line B A squierwise. </xpln></wordentry>
+
+</page>
+
+<page sig="b1r">
+<wordentry lang="en" type="d"><form lexeme="limit(n)" lexeme="term(n)">A limite or terme</form> <xpln lexeme="end(n)">is the end of euerie thing. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="figure(n)">A figure</form> <xpln>is that which is contained vnder one limite or terme, or manie, as
+in the examples following the figure A is contained vnder one limit or terme
+which is the round line. Also the figure B is contained vnder three lines, and
+the figure C is contained vnder foure lines, and so of others which are their
+limits or terms. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="circle(n)">A circle</form> <xpln lexeme="circumference(n)">is a plaine figure contained vnder one line, which is called circum&shy;
+ference, as is the circle A in the former example. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form>The point set in the middest of a circle (as is the point A in the former cir&shy;
+cle) </form> <xpln lang="en" lexeme="center of a circle(n)">is called the center of the circle. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="diameter(n)">A diameter of a circle</form> <xpln>is a right line, which drawne 
+by the center therof, and ending at the circumference
+on either side, deuideth the circle into two equal parts,
+as the line B A C is the diameter of this circle. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form>All straight lines besides the diameter in any circle
+pulled from one part of the circumfer<expan type="e+_">en</expan>ce to the other,</form> <xpln lang="en" lexeme="cord(n)">
+are called cords: as for example in this circle folowing 
+the lines D E F G are cords. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="semicircle(n)">A semicircle</form> <xpln lexeme="arc(n)" lexeme="arch line(n)">is a figure which is contained vnder the diameter, and vnder
+that part of the circumference which is cut off by the
+diameter, as in A B C D the circle following the fi&shy;
+gure A B C is a semicircle, because it is contained of
+the right line B G C which is the diameter, and of the 
+arke or arch line A B C, being that part of the cir&shy;
+cumference which is cut off by the diameter B G C.
+So likewise the other part of the circle, namely B D C
+is a semicircle. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="section of a circle(n)" lexeme="portion of a circle(n)">A section or portion of a circle</form> <xpln>is a figure which is conteined vnder a right
+
+</page>
+
+<page sig="b1v">
+line and a part of the circumference, greater or lesse
+than the semicircle, as A B C in the circle following is
+a portion of that circle though it be greater than halfe
+the circle. And likewise A D C is a portion of that cir&shy;
+cle, though it be lesse then the halfe circle. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="right-lined figure(n)">Rightlined figures</form> <xpln>are such as are contained vnder
+right lines: and of them some are contained vnder three right lines, some vn&shy;
+der foure, some vnder fiue, and some vnder mo.</xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="three-sided figure(n)">Three sided figures or figures of three sides </form> <xpln>are such
+as are contained vnder three right lines, as the figure 
+A B C in the example following, is a figure of three
+sides, because it is contained vnder three right lines,
+namely, vnder the lines A B, B C, C A. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="four-sided figure(n)">Foure sided figures, or figures of foure sides</form> <xpln>, are such
+as are contained vnder foure right lines, as the figure here set is a figure of
+foure sides, for that it is comprehended vnder foure right lines: namely A B,
+B D, D C, C A. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="many-sided figure(n)">Many sided figures</form> <xpln>are such as haue mo sides than foure. </xpln></wordentry>
+
+Here note ye, that euerie right lined figure hath as many angles as it hath
+sides, and taketh his denomination as well of the number of his angles, as of
+the number of his sides. As a figure contained vnder three right lines of the 
+number of his three sides is called a three sided figure, so of the number of his
+three angles it is called a triangle. Likewise a figure contained vnder foure
+
+</page>
+
+<page sig="b2r">
+right lines, by reason of the number of his sides is called a fouresided figure,
+and by reason of the number of his angles, it is called a quadrangled figure, &amp;
+so of others.
+
+<wordentry lang="en" type="d"><form lexeme="triangle(n)">Of three sided figures or triangles</form> <xpln lexeme="equilateral triangle(n)">, an equilater tri&shy;
+angle is that which hath three equall sides, as is the tri&shy;
+angle A in this example. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="isosceles triangle(n)">Isosceles</form> <xpln>is a triangle which hath onely two sides
+equall, as are the triangles B C and D in these exam&shy;
+ples. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="scalenum(n)">Scalenum</form> <xpln>is a triangle, whose three sides are all vnequall, as are the trian&shy;
+gles E F in these examples. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="orthigonium(n)">Againe of triangles an Orthigonium or a right an&shy;
+gled triangle</form> <xpln>, is a triangle which hath a right angle:
+as the triangle B C D , of which the angle B C D is a
+right angle. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="amblygon(n)">An Ambligonium, or an obtuse angled tri&shy;
+angle</form> <xpln>, is a triangle which hath an obtuse angle,
+as is the triangle B, whose angle A C D is an
+obtuse angle. </xpln>
+<lemenote>
+"ambligonium: no separate entry in OED.
+</lemenote>
+</wordentry>
+
+</page>
+
+<page sig="b2v">
+<wordentry lang="en" type="d"><form lexeme="oxigonium(n)">An Oxigonium or an acute angled triangle</form> <xpln>, is a triangle which hath all his
+three angles acute, as are these triangles A C A. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="quadrate(n)" lexeme="square(n)">Of foure sided figures a quadrate or square</form> <xpln>is that
+whose sides are equall, and his angles right, as is this
+foure sided figure, A B C D. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="long square(n)">A figure on the one side longer, or square-like, or as some call it a long
+square</form> <xpln>, is that which hath right angles and not equall sides: as for example in
+the figure following the angles are right angles, and the two sides therof A B,
+and C D, are longer than the other two sides A C and B D. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="rhombus(n)" lexeme="diamond(n)">Rhombus or a diamond</form> <xpln>, is a figure hauing foure
+equall sides, but it is not right angled: as in this figure
+following the foure sides A B, B C, C D, D A, be
+equall, and the angles thereof are not right angles. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="Rhomboid(n)" lexeme="diamond(n)">Rhomboides or a diamond like</form> <xpln>, is a figure
+whose opposite sides are equall, and whose
+opposite sides are also equall, but it hath
+neither equal sides nor right angles, as is this
+figure A B C D. </xpln></wordentry>
+
+</page>
+
+<page sig="b3r">
+<wordentry lang="en" type="d"><form>All other figures of foure sides besides these</form> <xpln lexeme="trapezia(n)" lexeme="table(n)">, are called Trapezia, tables, or
+irregular figures, as are the figures A B C. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="parallel(a)" lexeme="equidistant(a)">Paralell or equidistant right lines</form> <xpln>are such which being in one and the selfe
+same superficies, and produced infinitely on both sides, do neuer in any part
+concurre or meete, as are the lines A B and C D in this example. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="horizon(n)">The horizon</form> <xpln>is a circle which deuideth and parteth that part of the world
+which we see, from that which doth not appeare: &amp; which parteth the world
+in two equall parts, in such fashion, as the one halfe is euer aboue the earth, the
+other alwayes vnder. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="horizontal distance(n)">An horizontall distance</form> <xpln>is a distance lying in a leuell or paralell line to the
+horizon. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="hypotenusal distance(n)">An hipothenusall distance, or (which is all one) a diamentrall distance</form> <xpln lexeme="slope distance(n)">, is a li&shy;
+nearie length higher at one end then at the other, and of some is called a slope
+distance. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="area(n)">The Area of a figure</form> <xpln>, is that space which is contai&shy;
+ned within the sides of the figure: as for example, the
+area of this figure next following, is the space be&shy;
+tweene A B, B D, D C, and C A, the fower sides
+there<emend err="r"></emend>of. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="circuit(n)" lexeme="compass(n)">The circuite or compasse of a figure</form> <xpln>, is a line com&shy;
+posed of all the sides thereof. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="plain figure(n)">One side of a plaine figure</form> <xpln>is equall to another, and
+so generally one right line is equall to another, when the one being applied to
+the other, their extremes agree together. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="parallelogram(n)">A parallelogramme</form> <xpln lexeme="square(n)" lexeme="rhombus(n)" lexeme="diamond(n)" lexeme="rhomboid(n)">is a figure of fower sides, whose two opposite or con&shy;
+trarie sides are equall the one to the other, and of parallelogrammes there are
+fower kinds: that is to say, a square, a figure of one side longer, a Rhombus or
+diamond, and a Rhomboides or diamond like figure: and of these fower sorts,
+the square, and the figure of one side longer, are onely right angled Parallelo&shy;
+grammes for that all their angles are right angles. </xpln></wordentry>
+
+</page>
+
+<page sig="b3v">
+<wordentry lang="en" type="d"><form lexeme="subtend(v)">That angle is said to subtend a side of a triangle</form> <xpln>, which is placed directly
+opposite and against that side, and that side is said to subtend an angle which 
+is opposite to the angle: for euery angle of a triangle is contained of two sides
+of the triangle, and is subtended to the third side. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="sector of a circle(n)">A sector of a circle</form> <xpln>is (an angle being set at the center of a circle) a figure
+contained vnder the right lines which make that angle,
+and the part of the circumference receaued of them: as
+here the figure A B C is a sector of a circle, for that it
+hath an angle at the center, namely the angle, B A C, 
+and is contained of the two right lines A B and A C,
+which containe that angle, and the circumference recea&shy;
+ued by them. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="scale(n)">A scale</form> <xpln>is a measure deuided into many equall parts, made at the will of the 
+measurer great or litle, and to be named by what denomination he pleaseth, to
+set forth heights, depths, breadthes, lengths, &amp; the plat of any peece of ground
+in true proportion and symetrie vpon paper or any other superficies. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="symmetry(n)">Symetrie</form> <xpln>is a conuenient agreement betweene the members or parts of a&shy;
+ny thing aunswering in euery part separate vnto the proportion of the whole
+figure. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="polygon(n)">A poligonon figure</form> <xpln>is a figure consisting of many sides. </xpln></wordentry>
+
+<heading>
+CHAP. II.
+</heading>
+
+<f type="i">The names and lengthes of diuers English measures, and a true difference betweene
+an acar of land measured with a pearch of 12. foote, 18. foote, 20. foote, or 
+24. foote in length, and an acar of land measured with a 
+pearch of 16. <emend t="footeand">foote and</emend> 1/2. foote in length.</f>
+
+<wordentry lang="en" type="d"><form lexeme="barley corn(n)">THREE barley cornes drie and round</form> <xpln lexeme="inch(n)" lexeme="foot(n)" lexeme="cubit(n)" lexeme="yard(n)" lexeme="fathom(n)" lexeme="statute perch(n)" lexeme="daywork(n)" lexeme="rood(n)" lexeme="farthingdeal(n)" lexeme="acre(n)" lexeme="hide(n)" lexeme="knight's fee(n)" lexeme="ell(n)" lexeme="score(n)" lexeme="English furlong(n)" lexeme="English mile(n)">do make an inch of assise, 12.
+inches of assise make a foot of assise, one foot &amp; a half foot of assise
+make a cubite, 3. feete of assise or 2 cubits make a meating yard,
+2. meating yards make a fadome, 5. meating yards and 1/2. meating 
+yeard make a statute pearch; one statute pearch in breadth, and 
+4. statute pearches in length make a day worke, 10. day workes make a rood, or
+(as some name it) a farthendele, or (which is all one) a quarter of an acar, one
+statute pearch in bredth, &amp; 160. statute pearches in length make an acar, which
+doth containe 6272640. square inches. 4. acars (as <f type="i">Fabian</f> in his chronicle and
+historie of king <f type="i">William</f> Conqueror hath written) make a yard of land, 5. yards
+of land make a hide of land, and 8. hides of land make a Knights fee, which (as
+the said <f type="i">Fabian</f> hath also written) is a plough till a yeare. Moreouer note that 
+16. english elles in length make 20. meating yards in length, 20. meating yards 
+in length make a score, 40. statute pearches in length an English furlong, 8.
+English furlongs in length an English mile, and that the number of inches of
+
+</page>
+
+<page sig="b4r">
+assise, feete of assise, cubites, meating yardes, english elles, fadomes, statute
+pearches, and scores which are in an english mile, doth here followe.
+
+63360. inches of assise
+5280. feete of assise
+3520. cubites
+1760. meating yards			
+1408. English elles
+880. fadomes
+320. statute pearches
+88. score in length make an English mile.</xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="English mile(n)">I haue in this chapter made mention of english miles and statute pearches</form> <xpln lexeme="Italian mile(n)" lexeme="tenant-right(n)" lexeme="curtmeasure(n)" lexeme="woodland perch(n)">,
+because the Italian mile containing in length 5000. feete, differeth from our
+english mile comprehending in it 5280. feete, and because our statute pearch
+which is ordained by a statute made in the 33. yeare of king Edward the first,
+varieth from a pearch of 12. foote in length, called by some tenantright, and
+by others curtmeasure, wherewith medow grounds in diuerse places of En&shy;
+gland are measured to the intollerable losses of buyers, and for that our said
+statute pearch hath no equalitie with a pearch of 18. foote in length, called of 
+some a woodland pearch, or with a pearch of 20. foot in l<expan type="e+_">en</expan>gth, or with a pearch
+of 24. foot in length, which are also vsed in many places of this realme by mea&shy;
+surers of wood lands to the manifold disaduantages of sellers. For whosoeuer
+will compare the said vnequall pearches one with the other, shall find that a&shy;
+cars of land measured with the said vnequall pearches do thus differ. </xpln>
+<lemenote>
+"tenant-right" not found in OED in this sense; and "curt measure" and "woodland perch" are also not found.
+</lemenote>
+</wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="rood(n)" lexeme="acre(n)" lexeme="daywork(n)">Two roods of a statute acar</form> <xpln>, one day worke of a statute acar, and 76/121. of a 
+statute pearch, do containe one acar measured with a pearch of 12. foot in l<expan type="e+_">en</expan>gth. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="acre(n)">One acar measured with a pearch of 18. foote in length</form> <xpln>, doth containe one
+statute acar, seuen dayworks of a statute acar, two statute perches, and 50/121. of
+a statute pearch. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="acre(n)">One acar measured with a pearch of 20. foote in length</form> <xpln>doth containe one
+statute acar, one roode of a statute acar, three statute pearches and 603/1089. of a 
+statute pearch. </xpln></wordentry>
+
+<wordentry lang="en" type="d"><form lexeme="acre(n)">One acar measured with a pearch of 24. foote in length</form> <xpln>, doth containe two 
+statute acars, foure dayworks of a statute acar, two statute pearches, and 62/121.
+of a statute pearch. </xpln></wordentry>
+</page>
+
+<page sig="c1r">
+<wordentry lang="en" type="d"><form lexeme="keeler(n)"><f type="i">A sharpe poin&shy;
+ted peece of
+blacke lead is
+called among
+Painters</form> <xpln lexeme="keeler(n)">a kee&shy;
+ler.</f></xpln>
+ <lemenote>
+ "keeler" not found in OED in this sense.
+</lemenote>
+ </wordentry>
+
+</wordgroup1>
+</page>
+</leme>
+
+
+
+ 

@@ -1,0 +1,708 @@
+
+
+<leme no="105">
+<page sig="B7r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 8 9 7 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="glossary">
+<heading>
+&#182; That the vnlearned myght the
+better vnderstande these, I
+haue compendeouslye noted
+the histories, &#38; names not
+familier to oure eng&#173;
+lysh phrase.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h">
+<note type="m"><term>Venus.</term></note>
+<form lexeme="Venus(pn)">VEnus</form>, <xpln lexeme="Aphrodite(pn)">wyfe to <term>Vulcane</term>, fayned of
+the Poets to be the Godesse of
+loue.  And by another name is
+called <term>Aphrodite</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Mercurie</term></note>
+<form lexeme="Mercury(pn)">MErcurye,</form> <xpln lexeme="Hermes(pn)">the sonne of Iupiter and
+<term>Maia</term>, one of the daughters of
+<term>Atlas</term>.  Whom the Poets called
+god of eloquence, and is called <term>Hermes</term>,
+otherwise the messenger of <term>Iupiter</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>P&#230;bus.</term></note>
+<form lexeme="Phoebus(pn)">PH&#230;ebus</form>, <xpln lexeme="Apollo(pn)" lexeme="sun(n)"><term>Apollo</term>. And is taken for the
+Sonne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Narcissus</term></note>
+<form lexeme="Narcissus(pn)">NArcissus,</form> <xpln>sonne of <term><damage type="u">L</damage>iriope</term>, a chylde
+of passyng bewtye, whych did so
+much delyght in hys owne shape, as
+the Poets fayned, that he died for loue
+of his owne shadowe, and was turned
+into a flowre.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="B7v">
+<wordentry type="h">
+<note type="m"><term>Phrigian.</term></note>
+<form lexeme="Phrigian(pn)">PHrigian.</form> <xpln>One of the Lande of <term>Phri&#173;
+gia.</term></xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Cupide.</term></note>
+<form lexeme="Cupid(pn)">CVpide</form>, <xpln>sonne of <term>Bacchus</term> and <term>Venus</term>,
+and is fayned of the Poets, to be 
+the God of loue.  And is called
+blynde: because luste blindeth iudge&#173;
+mentes of men.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Eccho.</term></note>
+<form lexeme="Echo(pn)">ECcho.</form> <xpln>A Nymphe, whiche loued
+<term>Narcissus</term>. And the sounde that
+commeth from the valleys and
+hollowe places, &#38; doth sounde againe
+syx or seuen words, in some places, by
+reason of the reuerberati<expan type="">on</expan> of the aire.
+(as some saye.)</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Ioue.</term></note>
+<form lexeme="Jove(pn)">IOue</form>, <xpln>sonne of <term>Saturne</term> and <term>Ops</term>. King
+of <term>Creta</term>, and was fayned cheefe of
+the Gods.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Iuno.</term></note>
+<form lexeme="Juno(pn)">IVno.</form> <xpln>Syster &#38; wyfe of <term>Ioue</term> or <term>Iupiter</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Medea.</term></note>
+<form lexeme="Medea(pn)">MEdea</form>, <xpln>daughter of <term>Oeta</term>, kynge of
+<term>Choleus</term>, which loued <term>Iason.</term>  Who,
+when he had sworne neuer to
+forsake her.  She did help him to kill the
+Serpente, and wyn the golden fleece.
+And so when she did pryuely go away
+with <term>Iason</term>, she kyled her yonge brother
+
+</page>
+
+<page sig="B8r">
+<term>Absirtus</term>, and did plucke him in peces,
+to stay her father which pursued after
+her: &#38; when she had lyued many yeres
+in <term>Grece</term>, with <term>Iason</term>, and had children by
+hym.  At last <term>Iason</term> forsoke her, and ma&#173;
+ryed <term>Glauca</term>, doughter of kynge <term>Creon</term>.
+<term>Medea</term> so refused, slew the sones which
+she had by <term>Iason</term>, &#38; settynge hys Palace
+on fyre: she burned <term>Glauca</term>, and her fa&#173;
+ther therin.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Hipsiphil.</term></note>
+<form lexeme="Hypsipyle(pn)">HIpsiphile</form>, <xpln>doughter of <term>Thoas</term>, kyng
+of <term>Lemnus</term>, whyche loued <term>Iason</term> ex&#173;
+cedinglye, &#38; bare hym two chyl&#173;
+dren at a burden.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Iason.</term></note>
+<form lexeme="Jason(pn)">IAson</form>, <xpln>sonne of <term>Aeson</term>, whom <term>Pelias</term>
+hys Vnkell being kyng of <term>Thessalye</term>,
+dyd sende wyth manye other valy&#173;
+ente Gentlemen, to fetche the Golden
+Fleece.  Whych (the aduenters therof
+achyeued,) by the helpe of <term>Medea</term>, he
+wan, and brought it away.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Demoph<expan type="">on</expan></term></note>
+<form lexeme="Demophon(pn)">DEmophon</form>, <xpln>s<expan type="">on</expan>ne of <term>Theseus</term> &#38; <term>Ph&#230;dra</term>.
+Which returninge from the ba&#173;
+tayle of <term>Troy</term>, was by tempeste
+broughte into <term>Thracia</term>, wheare <term>Phillis</term>
+
+</page>
+
+<page sig="B8v">
+doughter of <term>Licurgus</term>, then Queene, re&#173;
+ceyued hym, and after maryed hym,
+whyche from thence wente to <term>Athens</term>,
+promysynge her to returne shortlye.
+Which when he performed not, <term>Phillis</term>
+not able to susteine the ragyng fyttes
+of so feruent loue.  Honge her selfe on
+an Almonde tree.
+
+And so the Poets fained that she was
+turned into an Almonde tree.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Dido</term></note>
+<form lexeme="Dido(pn)">DIdo</form>, <xpln>doughter of <term>Belus</term>, kynge of
+<term>Tirus</term>.  And wyfe of <term>Sicheus</term>: whom
+when <term>Pigmalion</term> the kinge, &#38; bro&#173;
+ther to <term>Dido</term> had slaine for his richesse.
+<term>Dido</term> sayled into <term>Africa</term> with hys trea&#173;
+sure, and theare buylded the famous
+Cytie of <term>Carthage</term>.  And afterwarde in
+loue with <term>Aeneas</term>, when he had depar&#173;
+ted from her, to seke the lande of <term>Italye</term>:
+(according to <term>Cassandra</term> her prophesie.)
+she brake her necke for sorow, falling
+into the fire, &#38;c.  Or according to <term>Virgill</term>
+slew her selfe with <term>Aeneas</term> his swerde.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Aeneas</term></note>
+<form lexeme="Aeneas(pn)">AEneas</form>. <xpln>A noble man of <term>Troy</term>, sonne
+ of <term>Anchises</term> and <term>Venus</term>.  Which es&#173;
+capynge with his father, wyfe,
+and other hys countrey men.  After
+
+</page>
+
+<page sig="C1r">
+great trauaile, and many chaunces
+aryued in <term>Italy</term>, wheare after great
+batayle he slewe kyng <term>Turnus</term>, and
+maryed <term>Lauinia</term>, daughter to kyng
+<term>Latinus</term>.  And so became king of <term>Italy</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Helena</term>.</note>
+<form lexeme="Helena(pn)">HElena</form>. <xpln>Begotten of <term>Iupiter</term>, in
+the lykenes of a Swanne, on
+<term>L&#230;da</term>, wyfe of <term>Tindarus</term>, kynge
+of <term>Laconia</term>.  And was for her passyng
+bewtie twyse stollen.  Fyrst by <term>These&#173;
+us</term>, being but a gerle: &#38; the seconde
+time being wife to <term>Menelaus</term>, by <term>Paris</term>.
+For whom the <term>Grecians</term> warred ten
+yeares space with the <term>Troyans</term>.  And
+so <term>Troy</term> beyng burned, receyued her
+agayne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Paris.</term></note>
+<form lexeme="Paris(pn)">PAris</form>. <xpln>Sonne of <term>Priam</term> kyng of
+<term>Troy</term>, by hys wyfe <term>Hecuba</term>, with
+whom when shee was greate
+with chylde, shee dreamed that shee
+had broughte foorthe a fyrebrande,
+whych shulde burne <term>Troye</term>: whear&#173;
+fore the kynge afrayde, c<expan type="">om</expan>maunded
+that the chylde shulde be kylled as
+soone as hee was borne.  Hys mo&#173;
+ther <term>Hecuba</term>, moued wyth motherly
+
+</page>
+
+<page sig="C1v">
+pytie, did pryuelye sende hym to a
+Shepard to be brought vp.  And wh<expan type="">en</expan>
+he waxed a yonge man, <term>Iuno</term>, <term>Pallas</term>,
+and <term>Venus</term>, Goddesses, stryuynge in
+beutye for a golden Apple, wheron
+was written: be it geuen to the fay&#173;
+rest They were sent by <term>Iupiter</term>, to
+the iudgemente of <term>Paris</term>.  To whom
+when <term>Iuno</term> had promysed rule and
+kyngdome, <term>Pallas</term> wysedome, and
+<term>Venus</term> pleasure, and the fayrest wo&#173;
+man in the worlde.  He gaue the ap&#173;
+ple to <term>Venus</term>.  And so after came in
+fauour with his father, and sayling
+to <term>Sparta</term>, he brought fayre <term>Helen</term> a&#173;
+way wyth hym. And so the batayle
+of <term>Troy</term> began.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Sapho.</term></note>
+<form lexeme="Sappho(pn)">SApho</form>. <xpln>A wom<expan type="">an</expan> of the Ile <term>Lesbos</term>,
+lerned in Poetrye, beinge for&#173;
+saken of a yonge man, called
+<term>Phaon</term>, whom she loued: she caste her
+selfe from the hyll <term>Leucates</term>, into the
+Sea &#38; so peryshed by loue of hym.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Phaon.</term></note>
+<form lexeme="Phaon(pn)">PHaon</form> <xpln>When he had caryed <term>Ve&#173;
+nus</term> ouer a Fery: she gaue hym
+to  be the fairest, and best shaped
+man alyue.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="C2r">
+<wordentry type="h">
+<note type="m"><term>Biblis.</term></note>
+<form lexeme="Biblis(pn)">BIblis.</form> <xpln>daughter of <term>Miletus</term>, which
+inflamed with detestable loue
+of her brother <term>Caunus</term>, when he
+forsoke hys co<expan type="">un</expan>trey to auoyde that
+myscheyfe: she folowed hym tyl she
+dyed for fayntnes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Scylla.</term></note>
+<form lexeme="Scylla(pn)">SCylla.</form> <xpln>Daughter of  <term>Nisus</term>, kynge 
+of <term>Megaris</term>.  Whyche for the loue
+of <term>Minos</term> then besegyng the Cy&#173;
+tie of <term>Megaris</term>, she brought to hym a
+purple heare, which she cut of from
+her fathers heade.  And that heare
+being on hys heade, he could not be
+ouercome, and by lyke destenye: <expan type="">with</expan>
+the heare, he loste hys kyngdome.
+And <term>Minos</term> dyspysed her for her mis&#173;
+cheuous dede.  And tyenge her with
+a corde to the ende of hys shyp: he
+hanged her in the water.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Minos.</term></note>
+<form lexeme="Minos(pn)">MInos.</form> <xpln>begotten by <term>Iupiter</term> in the
+likenes of a white Bull, on
+the fayre <term>Europa</term>, daughter to
+<term>Agenor</term> kyng of <term>Ph&#230;nicia</term>. And for his
+iustyce is fayned of the Poets to be
+a Iudge in Hell.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="C2v">
+<wordentry type="h">
+<note type="m"><term>Adonis.</term></note>
+<form lexeme="Adonis(pn)">ADonis.</form> <xpln>A yonge man of passing
+bewtye, whom <term>Cinaras</term> kynge
+of <term>Ph&#230;nicia</term>, made dronke by
+polycy of hys doughter, &#38; a Nurce,
+begat on his owne doughter <term>Mirrha</term>.
+whom <term>Venus</term>loued.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Hippoli&#173;
+tus.</term></note>
+<form lexeme="Hippolytus(pn)">Hippolitus.</form> <xpln>S<expan type="">on</expan>ne of <term>Theseus</term>, duke
+of <term>Athens</term>, by <term>Hippolite</term>.  Whom
+when hys stepmother <term>Phaedra</term>
+could not winne to her lust, she ac&#173;
+cused him to <term>Theseus</term>, as thoughe hee
+woulde haue oppressed her by force.
+<term>Theseus</term> then trustynge hys wyfe to
+much, desyred hys father <term>Aegeus,</term> a
+God of the Sea, that he wolde kyll
+hys sonne.  Wherfore, when <term>Hippo&#173;
+litus</term> dyd ryde in a Charyot by the
+Sea syde, <term>Aegeus</term> sente out certaine
+monsters of the Sea, called <term>Phoces</term>,
+wherwith his horses afraide, brake
+the Charyot, and rente hym in pe&#173;
+ces.  But at the requeste of <term>Diana</term>,
+Goddesse of Chastytie (louyng her
+chast knight <term>Hippolitus</term>,) <term>Aesculapius</term>,
+the fyrste that inuented Physyke:
+restored hym to lyfe agayne.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="C3r">
+<wordentry type="h">
+<note type="m"><term>Menela&#173;
+us.</term></note>
+<form lexeme="Menelaus(pn)">MEnelaus.</form> <xpln>Sonne of <term>Atreus</term>, bro&#173;
+ther to <term>Agamemnon</term>, and kyng
+of the Cytie of <term>Sparta</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Vulcane.</term></note>
+<form lexeme="Vulcan(pn)">VVlcane.</form> <xpln>Sonne of <term>Iupiter</term> &#38; <term>Iuno</term>,
+whyche being borne ill fauo&#173;
+red, and liked not <term>Iuno</term>: he was
+cast into the Ile <term>Lemnus</term>, wheare be&#173;
+ing noryshed wyth Apes, he became
+lame of one foote therby.  And he is
+fayned to be the god of fyre, and the
+Smyth to make thunder boltes for
+<term>Iupiter</term> Whych askyng to marrye
+<term>Minerua</term>, <term>Iupiters</term> doughter, and God&#173;
+esse of wysdome: he was denyed.
+Wherfore <term>Virgill</term> wryteth
+The gods wolde not vouchsafe, that hee
+shulde at theyr table syt.
+And to her bed, the Goddesse shee
+wolde neuer hym admyt.
+But afterwarde, thys gay Squyer
+maried to <term>Venus</term>, when he had taken
+her a bed wyth lustye <term>Mars</term>, the god
+of batayle.  He had framed such fine
+chaynes to bynde them, that they
+could not get a sunder: tyll be had
+brought all the Gods to laugh at the
+game.</xpln>
+<note type="m">Nec deus
+hunc men<emend err="">&#173;</emend>
+sa, Dea
+nec digna<emend err="">&#173;</emend>
+ta cubili
+est.</note>
+</wordentry>
+
+</page>
+
+<page sig="C3v">
+<wordentry type="h">
+<note type="m"><term>Pasiphae</term></note>
+<form lexeme="Pasiphae(pn)">PAsiphae.</form> <xpln>Wife of <term>Minos</term> kynge
+of <term>Creta</term>, whych loued a stowte
+Captayne called <term>Taurus</term>, and
+conceyued by him the cruel and de&#173;
+formed <term>Minotaurus</term>, wh<expan type="">om</expan> for his fierce<emend err="">&#173;</emend>
+nes, and ill shape, the Poets fayned
+to haue bene halfe a man, and halfe
+a bull: &#38; therfore was enclosed in a
+<term>Laberinthe</term>, (made by the conynge <term>De&#173;
+dalus</term>,) and theare fed wyth fleshe of
+men.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Hero</term>.</note>
+<form lexeme="Hero(pn)">HEro.</form> <xpln>A mayden of synguler
+bewtye, of the Cytye <term>Sestos</term>, in
+<term><damage type="u">H</damage>ellespont</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Leander</term>.</note>
+<form lexeme="Leander(pn)">LEander.</form> <xpln>A yonge gentleman of
+the Cyty <term>Abidos</term>, whych a great
+Ryuer dyd deuyde from <term>Sestos</term>,
+wheare he was wonte to swym by
+nyghte, to hys louer <term>Hero</term>, and so at
+laste was drowned.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Piramus</term>.</note>
+<form lexeme="Pyramus(pn)">PIramus.</form> <xpln>A yonge gentleman of
+<term>Babylon</term> whyche loued <term>Thisbe</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Thisbe</term>.</note>
+<form lexeme="Thisbe(pn)">THisbe.</form> <xpln>A mayde of synguler
+bewtye, whyche when shee
+
+</page>
+
+<page sig="C4r">
+loued <term>Piramus</term> excedyngly: And they
+were kept a sunder by their par<expan type="">en</expan>ts,
+yet one night they escaped out, and
+had agreed before, to haue met vn&#173;
+der a tree without the towne: <term>Thisbe</term>
+commynge thyther fyrste, seinge
+a Lyon dyd flye into the wood,
+her cayle beynge fallen of, the Ly&#173;
+on rente it in peces.  <term>Piramus</term> com&#173;
+mynge afte<damage type="b">r</damage>, fyndynge the cloth
+rente, thoughte that <term>Thisbe</term> had bene
+deuoured of some beast, and so slew
+hym selfe.  Whyche when <term>Thisbe</term>
+returnynge agayne dyd see: shee
+kylled her selfe wyth the same
+swerde.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Orestes</term>.</note>
+<form lexeme="Orestes(pn)">ORestes.</form> <xpln>Sonne of kynge <term>Aga&#173;
+memnon</term>.  Whyche slew hys mo&#173;
+ther <term>Clitemnestra</term>, because that
+shee for loue of <term>Aegisthus</term>, had slayne
+hys father.  And he maryed <term>Hermi&#173;
+one</term>. And after being mad, (hys most
+faythful frend <term>Pylades</term> kepyng him)
+he came into the country of <term>Taurica</term>:
+Where, accordyng to the custome,
+he shulde haue bene slayne, and sa&#173;
+
+</page>
+
+<page sig="C4v">
+cryfysed.  But being knowen of hys
+syster <term>Iphigenia</term>, hee slewe the kynge
+<term>Thoas</term>, and escaped with hys syster.
+And after had hys wyttes perfecte
+agayne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Hermio&#173;
+ne</term>.</note>
+<form lexeme="Hermione(pn)">HErmione.</form>  <xpln>Daughter of <term>Menelaus</term>,
+and that <term>Helen</term>: so renow<emend err="m">n</emend>ed
+for her bewtye.  Whych being
+a gerle was marryed to <term>Orestes</term>.  And
+when kyng <term>Pirrhus</term>, sonne of the va&#173;
+lyante <term>Achilles</term>, had marryed her af&#173;
+terward. <term>Hermione</term> by letters requy&#173;
+red him humbly, to claime his right
+and delyuer her.  And so <term>Orestes</term> slew
+<term>Pirrhus</term>, &#38; receyued <term>Hermione</term>
+agayne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Hiacin&#173;
+thus</term>.</note>
+<form lexeme="Hyacinthus(pn)">HIacinthus.</form> <xpln>A yong man, of pas&#173;
+synge bewtye.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Mars</term>.</note>
+<form lexeme="Mars(pn)">MArs.</form> <xpln>God of warre, and s<expan type="">on</expan>ne
+of <term>Iupiter</term> and <term>Iuno</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Theseus</term>.</note>
+<form lexeme="Theseus(pn)">THeseus.</form> <xpln>Sonne of <term>Aegeus</term> kynge
+of <term>Athens</term>, &#38; of <term>Aethra</term>, dough&#173;
+ter to <term>Pytheus</term>, kyng of the Cy&#173;
+tye <term>Tr&#339;zen</term>.  A puyssante knyghte,
+whych dyd many greate feates and
+
+</page>
+
+<page sig="C5">
+aduentures: As <term>Hercules</term> dyd.  Being
+but a yonge man, he foughte wyth
+<term>Hercules</term> against the <term>Amazones</term>, war&#173;
+full women.  He slew <term>Creon</term>, kynge of
+<term>Thebes</term>, which suffered not m<expan type="">en</expan> slaine
+in warre to be buryed.  He slew <term>Mi&#173;
+notaurus</term>, and deliuered hys co<expan type="">un</expan>trey,
+from the trybute of fourtene noble
+chyldren, euery nyne yeres, sent to
+<term>Creta</term> to be slayne, for that the Cyty&#173;
+zens of <term>Athens</term> had slaine <term>Androgeus</term>,
+sonne of <term>Minos</term> kynge of <term>Creta</term>.  Hee
+slewe a monstrous Bull whych had
+spoyled the co<expan type="">un</expan>try <term>Attica</term>.  He slew
+<term>Seyron</term>; and <term>Procustes</term>, robbers.  And af&#173;
+terwarde wyth his faythfull freind
+<term>Pirithous</term> he wente to Hell to fetche
+<term>Proserpina</term>, whom <term>Pluto</term> had stollen,
+from her mother <term>Ceres</term>, Goddesse of
+corne, and Queene of <term>Sicilye</term>.
+
+But <term>Pirithous</term> beynge slayne by the
+three headed Hounde <term>Cerberus</term>, Por&#173;
+ter of Hell: <term>Theseus</term> was kept in pri<emend err="">&#173;</emend>
+son theare, tyll he was delyuered
+by myghty <term>Hercules</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Ariadne</term></note>
+<form lexeme="Ariadne(pn)">ARiadne.</form> <xpln>Doughter to <term>Minos</term>, king
+of <term>Creta</term>, whyche by a botom of
+
+</page>
+
+<page sig="C5v">
+thred, taught <term>Theseus</term> to come out of
+the <term>Laberinthe</term>, after he had kylled
+her brother <term>Minotaurus</term>.  She forsoke
+her countrey and folowed hym,
+whom he lefte in the Ile of <term>Naxus</term>.
+So <term>Bacchus</term> the God of wyne, tooke
+her to wyfe.  And <term>Venus</term> gaue her a
+crowne, wheron <term>Bacchus</term> set nyne
+starres, &#38; fyred it in the skye.  And
+so the starre is called the <term>Gnossian</term>
+crowne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Ph&#230;dra</term>.</note>
+<form lexeme="Phaedra(pn)">PH&#230;dra.</form> <xpln>Doughter of kynge
+<term>Minos</term>, and <term>Pasiphae</term>, wyth her
+syster <term>Ariadne</term> dyd flye her
+countrey, with <term>Theseus</term>: and
+became hys wyfe, after he had for&#173;
+saken <term>Ariadne</term>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Adelasie</term></note>
+<form lexeme="Adelasia(pn)">ADelasie.</form> <xpln>Doughter and onelye
+chylde of the Emperour <term>Otho</term>
+the thyrde, so excedynglye she was
+enamoured of the most valiant <term>Ale&#173;
+ran</term>, sonne of a Duke of <term>Saxony</term> that
+she procured hym pryuelye to con&#173;
+uey her awaye, whych by the helpe
+of an old lady her nurce, he brought
+to passe  And afterwarde beinge
+
+</page>
+
+<page sig="C6r">
+robed of suche money as they
+had prouyded, they lyued long in a
+woode, and made coles for theyr ly&#173;
+uynge, and bare hym seuen sonnes
+theare, and afterwarde by the va&#173;
+lyante feates of her eldest sonne,
+they were knowen to the Empe&#173;
+roure, and so had hys fauoure a&#173;
+gayne, and enioyed the Empyre af&#173;
+ter hym.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Iuliet</term>.</note>
+<form lexeme="Juliet(pn)">IVliet.</form> <xpln>A noble mayden of the Cy&#173;
+tye <term>Verona</term> in <term>Italye</term>, whyche loued
+<term>Romeus</term>, eldest sonne of the Lorde
+<term>Montesche</term>, and beinge pryuely ma&#173;
+ryed togyther: he at last poysoned
+hym selfe for loue of her. she for so&#173;
+rowe of hys deathe, slewe her selfe
+in the same Tombe, wyth hys dag&#173;
+ger.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Tiresias</term>.</note>
+<form lexeme="Tiresias(pn)">TIresias.</form> <xpln>An olde Prophet of
+the Cytie <term>Thebes</term>, in <term>B&#339;tia</term>, a
+countrey in <term>Attica</term>.  And is 
+nowe called <term>Vandalia</term>.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="C6v">
+<wordentry type="h">
+<note type="m"><term>Diana</term>.</note>
+<form lexeme="Diana(pn)">DIana.</form> <xpln lexeme="moon(n)">Daughter of <term>Iupiter</term> and
+<term>Latona</term>, and syster of <term>Apollo</term>, &#38; 
+is called goddesse of hunting,
+and Chastytie. &#38; is the Moone also.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Nymphes</term></note>
+<form lexeme="nymph(n)">NYmphes,</form> <xpln>were maydens which fo<emend err="">&#173;</emend>
+lowed <term>Diana</term>, and worshyppyng
+her, did lyue solytarye, in woodes,
+by ryuers sides, and other pleasant
+places: to auoyde companye.  And
+cheifly vsed huntyng: to subdue the
+tedyousnes of tyme.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Acteon</term>.</note>
+<form lexeme="Acteon(pn)">ACteon.</form> <xpln>Sonne of <term>Arist&#230;us</term>, by
+<term>Antono<emend err="c" source="faultsescaped">e</emend></term> daughter of <term>Ca<emend err="" source="faultsescaped">d</emend>mus</term>,
+buylder of the Cytye <term>Thebes</term>,
+whych after he had bene a hunting,
+came by chaunce to a secret wel or
+spryng, where he saw <term>Diana</term> naked,
+wasshyng of her selfe.  Wherat shee
+takyng displeasure, turned him in&#173;
+to a Harte, and so, as he wold haue
+returned home, he was rente in pe&#173;
+ces of his owne ho<expan type="">un</expan>des.  Ouid Epist.
+Acteon once vnwyttyng, did
+Diana naked see:
+Wherfore vnto his Houndes, shee made
+Him then a praye to bee.
+
+</page>
+
+<page sig="C7r">
+&#182;All whych was fained, for that he
+had spente hys substaunce, and
+vndone him selfe by huntynge, and
+keppyng of houndes.</xpln>
+<note type="m">Inscius
+Acteon vi<emend err="">&#173;</emend>
+dit sine
+vest Dia<emend err="">&#173;</emend>
+n<expan type="">an</expan>, At<expan type="">que</expan>
+suis cani&#173;
+bus. &#38;c.</note>
+</wordentry>
+
+<wordentry type="h">
+<note type="m"><term>Gysmond</term></note>
+<form lexeme="Gismond(pn)">GYsmonde.</form> <xpln>Onelye daughter of
+<term>Tancrede</term>, kyng of <term>Salerne</term>: which
+loued a seruaunte of her fathers: &#38;
+beinge taken in adultery together,
+in a Caue in the grounde the kinge
+caused her louer <term>Guistarde</term> to be han&#173;
+ged therfore, and sent his harte vn&#173;
+to her whych imbracynge it, layd it
+on her breste, agaynste her owne
+hart, and dranke a cuppe of poyson
+immedyatly, wherof dyenge: shee
+desyred that they mgghte be buryed
+together.</xpln>
+</wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</section>
+
+</page>
+</leme>

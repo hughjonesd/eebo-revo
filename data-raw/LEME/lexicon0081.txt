@@ -1,0 +1,2034 @@
+<leme no="81">
+<page sig="a2r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 3 0 1 0 . 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Dictionary">
+<heading>
+&#0182; The boke of Englysshe,
+and Spanysshe.
+</heading>
+
+<wordgroup1 type="t" object="God, the Trinity, Power, and Riches"><alpha><term lang="en">THe Fyrste
+Chapyter is
+of god, of the Tri<emend err="">&#124;</emend>
+nytie, of power, &amp; 
+of ryches.</term>
+<term lang="fr">EL primero Capi. 
+es de Dios / y de 
+la Trinidad / y de la
+potencia / y de la re&#124;
+queza.</term></alpha>
+
+<wordentry type="h"><form lang="en">God
+</form> <xpln lang="sp">Dios</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Godheade
+holy
+</form> <xpln lang="sp">deidad santa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">the Trinite
+</form> <xpln lang="sp">Trinidad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Father sonne
+</form> <xpln lang="sp">Padre Fiso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">holy Ghoste.
+</form> <xpln lang="sp">santo espirito.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Lorde
+God
+</form> <xpln lang="sp">Se&#xF1;or Dios</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">sauyour redemer
+</form> <xpln lang="sp">saluador redemptor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">power myghty
+</form> <xpln lang="sp">potestad potente</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">myght very ryche
+</form> <xpln lang="sp">potencia muy rico</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">ryche poore
+</form> <xpln lang="sp">requeza pobre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">pouerte
+</form> <xpln lang="sp">pobreza</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a poore
+man</form> 
+<xpln lang="sp">pobrezillo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Idoles
+</form> <xpln lang="sp">Idolos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">almyghtye.
+</form> <xpln lang="sp">omnipotente.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Paternoster and Ave Maria"><alpha><term lang="en">&#0182; The .ii. cha&#124;
+piter of the Pater
+noster and Aue
+Maria.</term>
+<term lang="sp">&#0182; El .ii. capi. del Pa&#124;
+ternoster y dell Aue
+Maria.</term></alpha>
+</page>
+
+<page sig="a2v">
+<wordentry type="h"><form lang="en">OVre Father 
+whiche arte
+in heauen, Halo&#124;
+wed be thy name, 
+let come thy kyng<emend err="">&shy;</emend>
+dome, thy wyll be 
+done, euen to in 
+earthe as it is in 
+heuen, oure dayly
+breade, gyue vs
+this day, and for&#124;
+gyue vs our det&#124;
+tes, as we forgy&#124;
+ue oure detters, &amp; 
+lede vs not in to 
+temptacion.
+</form> <xpln lang="sp">
+PAdre nuestro qui 
+eres / en los cielos 
+sanctificado sea eftu 
+nombre venga el tuo 
+reyno / faga se tu vo&#124;
+luntad assy en el cie&#124;
+lo como en la tierra / 
+nuestro pan / cotidia&#124;
+no dadle a nosotros / 
+oy y perdonna a no&#124;
+sotros nuestra deuda 
+como nosotros perdo 
+namos a nuestros de&#124;
+udores y no nostria&#124;
+gas ententacion.</xpln>
+<lemenote>
+The second half of the chapter heading, in Spanish ("El .ii. capi. del Paternoster y dell  Aue Maria"), has been, for clarity, moved from here so that it follows the English version of the chapter heading above.)
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">But delyuer vs
+from all euyll.
+Amen.
+</form> <xpln lang="sp">Mas lifra nos de 
+mal. Amen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">
+&#0182; All hayle Ma&#124;
+rye full of Grace, 
+the lorde is with 
+the. Blessed be <expan type="">thou</expan> 
+amonge women,
+and blessed be the 
+fruite of thy wom<emend err="">&shy;</emend>
+</page>
+
+<page sig="a3r">
+be Iesu Christ.
+</form> <xpln lang="sp">&#0182; Aue
+Maria plena 
+de gracia el Sennor 
+contigo benedita tu /
+entre las mugeres y 
+'benedito el fruyto de 
+'tu vientre Iesu 
+Christo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Saint Mary mo<emend err="">&shy;</emend>
+ther of God, pray 
+for vs poore Syn<emend err="">&shy;</emend>
+ners, now and in 
+the houre of oure
+death. Amen.
+</form> <xpln lang="sp">Sancta Maria ma&#124;
+dre de Dios tuego <expan type="">per</expan>
+nosotros miseros pec<emend err="">&shy;</emend>
+cadores agora y en la 
+bora del nuestre mu&#124;
+erte. Amen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&#0182; Wherfore
+</form> <xpln lang="sp">&#0182; Porque</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Why not
+</form> <xpln lang="sp">porque no</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">therfore
+</form> <xpln lang="sp">por esso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">for nought
+</form> <xpln lang="sp">por nada</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">for what cause
+</form> <xpln lang="sp">por que causa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">let it be so aboue
+</form> <xpln lang="sp">a sa bienda iuso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">beneth
+</form> <xpln lang="sp">es atiba</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">sodaynly soone
+</form> <xpln lang="sp">subicamente presto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">now gladly, with
+</form> <xpln lang="sp">gora de buena</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a good wyll
+</form> <xpln lang="sp">voluntad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">openlye
+</form> <xpln lang="sp">publicamente</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">from hence
+</form> <xpln lang="sp">de aqui</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">from this syde
+</form> <xpln lang="sp">Alli</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">fro yonder
+</form> <xpln lang="sp">de alli</xpln></wordentry>
+</page>
+
+<page sig="a3v">
+<wordentry type="h"><form lang="en">behynde
+</form> <xpln lang="sp">de tras</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">before
+</form> <xpln lang="sp">de lante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">ouerwharte
+</form> <xpln lang="sp">altru[ ]e</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">withoute
+</form> <xpln lang="sp">de fuera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">from the syde
+</form> <xpln lang="sp">de lado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">after the length
+</form> <xpln lang="sp">luengo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">within a lytell
+</form> <xpln lang="sp">dentro poco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Inoughe
+</form> <xpln lang="sp">assaz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">to moche
+</form> <xpln lang="sp">assaz mucho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">moche
+</form> <xpln lang="sp">mucho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">with me
+</form> <xpln lang="sp">comigo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">withoute
+me
+</form> <xpln lang="sp">fyn mi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">good chepe
+</form> <xpln lang="sp">buen marcado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">howe
+</form> <xpln lang="sp">en que manera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">where
+</form> <xpln lang="sp">a donde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">in what place
+</form> <xpln lang="sp">en que luger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">yee surelye
+</form> <xpln lang="sp">assi seguramente</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">yee more
+</form> <xpln lang="sp">mattabien</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">by the myddest
+</form> <xpln lang="sp">pro medio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">thankefully
+</form> <xpln lang="sp">de buena voluntad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">one tyme
+</form> <xpln lang="sp">Vna vez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">seconde tyme
+</form> <xpln lang="sp">vna autra vez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">many wayes.
+</form> <xpln lang="sp">diuerso modo.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="a4r">
+<wordgroup1 type="t" object="Speeches"><alpha><term lang="en">
+&#0182; The .iii. Chapy<emend err="">&shy;</emend>
+ter is of speches.</term>
+<term lang="sp">&#0182; El .iii. Cap. es de 
+las palavras.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Euyll pleased
+</form> <xpln lang="sp">&#0182; Mall contento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I am euyll plesed
+</form> <xpln lang="sp">yo soy mal contento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I am not worthy
+</form> <xpln lang="sp">yo no soy digno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">of my fasshion
+</form> <xpln lang="sp">Ami manera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">do after my mind
+</form> <xpln lang="sp">Hazea mi voluntad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll not
+</form> <xpln lang="sp">No quiero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">wherfore wylte
+thou not
+</form> <xpln lang="sp">Por que ne quieres</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It pleseth me not
+</form> <xpln lang="sp">No me plaze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It pleseth me wel
+</form> <xpln lang="sp">Bien me plaze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I am begyled
+</form> <xpln lang="sp">Soy aga<expan type="">un</expan>ao</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Of whome
+</form> <xpln lang="sp">De quien</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Of a knaue
+</form> <xpln lang="sp">De vn
+vellaco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Abyde tarye let 
+me do it
+</form> <xpln lang="sp">Espera dexa me hazer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is a man of 
+his mynde</form> <xpln lang="sp">
+Labe[ ]udo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I meruayle sore, 
+in doynge suche a 
+thynge
+</form> <xpln lang="sp">Me patece muy estra 
+ino hazer semiantes 
+cosas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is so who 
+wol<emend err="">&shy;</emend>
+de haue beleued it
+</form> <xpln lang="sp">Assy es quien lo cryesse</xpln></wordentry>
+</page>
+
+<page sig="a4v">
+<wordentry type="h"><form lang="en">I am sorye for 
+his dedes
+</form> <xpln lang="sp">Duelo me de sus hechos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Be pacyente
+</form> <xpln lang="sp">Tene pacientia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is not true
+</form> <xpln lang="sp">No es verdad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Me thynke not
+</form> <xpln lang="sp">Me paresce de no</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou lyest
+</form> <xpln lang="sp">Tumil[e]ntes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">No verlye
+</form> <xpln lang="sp">No a la fe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I beleue the not
+</form> <xpln lang="sp">No lo creo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Why not
+</form> <xpln lang="sp">Porque no</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is done for 
+noughte
+</form> <xpln lang="sp">Es hecho por nada aquello</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll not do it 
+for nought
+</form> <xpln lang="sp">Nolo hazer por nado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He was Idle all 
+the daye thorowe
+</form> <xpln lang="sp">Ha folgado to do 
+el die</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is euyll done
+</form> <xpln lang="sp">Es mal hecho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is well done
+</form> <xpln lang="sp">Es bien hecho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He is aboue
+</form> <xpln lang="sp">Es ariba</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He is not at home
+</form> <xpln lang="sp">No esta en casa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Where is he
+</form> <xpln lang="sp">Donde esta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I can not tell
+</form> <xpln lang="sp">No se</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Bowe the downe
+</form> <xpln lang="sp">Baxate</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Aryse go hence
+</form> <xpln lang="sp">Leuanta te ve te</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What wylt thou
+</page>
+
+<page sig="b1r">
+</form> <xpln lang="sp">Que quieres</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll nothynge
+</form> <xpln lang="sp">No quito</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syt downe
+</form> <xpln lang="sp">Sienta te</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gyue me rowme
+yf thou wylt
+</form> <xpln lang="sp">Da me luger si tu quieres</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I thanke the
+</form> <xpln lang="sp">Y os lo agradesco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syt styll
+</form> <xpln lang="sp">Sienta quedo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Go soone
+</form> <xpln lang="sp">Va a priessa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Cause it be made
+</form> <xpln lang="sp">Fas lo rehazar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I haue done it
+</form> <xpln lang="sp">Io lo hize</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I haue not don it
+</form> <xpln lang="sp">No lo hize</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou hast don it
+</form> <xpln lang="sp">Tu lo heziste</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou knowest
+well who dyd it
+</form> <xpln lang="sp">Tu lo saves bien qui 
+en lo hizo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is
+fulle
+</form> <xpln lang="sp">Est alleno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is emptye
+</form> <xpln lang="sp">Est a vazio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Come with me
+</form> <xpln lang="sp">Ven co migo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Helpe me
+</form> <xpln lang="sp">Ayuda me</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Shewe me hym
+</form> <xpln lang="sp">Muestra me le</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">That shall I do
+</form> <xpln lang="sp">yo lo quiero hazer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I haue sene hym
+</form> <xpln lang="sp">yo le he visto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I knowe hym
+</form> <xpln lang="sp">yo se cognosco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">In the fyelde
+</form> <xpln lang="sp">En la placa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I am sure that
+</page>
+
+<page sig="b1v">
+they spake of the 
+and me
+</form> <xpln lang="sp">yo foy cierto qui esse 
+habla de mi y de ti</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The ryght hande
+</form> <xpln lang="sp">La mano drecha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The lefte hande
+</form> <xpln lang="sp">La manoyz queerda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Who loueth the
+</form> <xpln lang="sp">Qui en te ama</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Begyn thou
+</form> <xpln lang="sp">Commienca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Aboue measure
+</form> <xpln lang="sp">Sobre mesura</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What didest thou 
+with the money
+</form> <xpln lang="sp">Que feziste tu con a&#124;
+quelos dineros</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Yet hast thou not 
+giuen me my thin<emend err="">&shy;</emend>
+ge agayne
+</form> <xpln lang="sp">Tu hasta agora ne 
+me rendiste mi cosa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I shall gyue
+you 
+it shortly
+</form> <xpln lang="sp">yo to lo volue re<emend err="">&shy;</emend>
+presto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Looke you doo it 
+soone, for I maye
+tary no longer
+</form> <xpln lang="sp">Guarda que lo ha&#124;
+gas presto / por que 
+yo no puedo mas 
+seperar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He wyll kyll me
+</form> <xpln lang="sp">Aquell me quiere matar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He is my deadlye
+enemye
+</form> <xpln lang="sp">Aquell es mi enemy 
+go mortall</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He hateth me and 
+I wote not for 
+what cause
+</form> <xpln lang="sp">Aquell me quere mal 
+y no se por que causa</xpln></wordentry>
+</page>
+
+<page sig="b2r">
+<wordentry type="h"><form lang="en">Drawe fast
+</form> <xpln lang="sp">Tira fuerte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Seeke this
+</form> <xpln lang="sp">Pruebaesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Consydre it well 
+before thou do it
+</form> <xpln lang="sp">Piensa bien anteque 
+lo hagas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He thoughte well 
+vpon it, whan he 
+sawe it before his 
+eyes
+</form> <xpln lang="sp">Accorda base muy 
+bien quando vino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll proue it
+</form> <xpln lang="sp">yo quiero tenter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He wyll not
+</form> <xpln lang="sp">Este no quere</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Wylt thou come
+</form> <xpln lang="sp">Quieres tu venit</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll come now
+</form> <xpln lang="sp">yo veendre agora</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Abyde a lytell
+</form> <xpln lang="sp">Especa vn poco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Comest thou
+</form> <xpln lang="sp">Vines tu</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He sygheth sore
+</form> <xpln lang="sp">Faze grandes
+sospiros</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He is vexed
+</form> <xpln lang="sp">Es turbado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I hope
+</form> <xpln lang="sp">Tengo esperanca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I am contente
+</form> <xpln lang="sp">Soy contento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is to deare
+</form> <xpln lang="sp">Mucho caro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It repenteth me
+</form> <xpln lang="sp">Pesame</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What cal ye this
+</form> <xpln lang="sp">Como sellama a&#124;
+quella</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">This man wylbe 
+very sure
+</form> <xpln lang="sp">Aquell quiere ser 
+bien surego</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I coulde not wel
+tell it the
+</page>
+
+<page sig="b2v">
+</form> <xpln lang="sp">No te so sabria bien dezir</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Se that thou fall 
+in no syckenes
+</form> <xpln lang="sp">Guarda te de caer en asguna enferme dad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It bec<expan type="">om</expan>meth me 
+to weepe
+</form> <xpln lang="sp">Conuienne me que
+Ilore</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It was nede for 
+me to weepe
+</form> <xpln lang="sp">Ea necessario que Ilore</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou mockest me
+</form> <xpln lang="sp">Burlas me</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">All hayle
+</form> <xpln lang="sp">Dios vos salue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">God gyue you a 
+good daye
+</form> <xpln lang="sp">Dios os de buenas Dias</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A good yeare
+</form> <xpln lang="sp">Buenos a<expan type="">no</expan>os</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">God helpe you
+</form> <xpln lang="sp">Dios vos ayude</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Moche good do 
+it you
+</form> <xpln lang="sp">Buena pro os haga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll 
+</form> <xpln lang="sp">yo quiero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou woldest
+</form> <xpln lang="sp">Tu queziste</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He wyll
+</form> <xpln lang="sp">Aquell quiere</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll do it
+</form> <xpln lang="sp">Quiero hazer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I haue done
+</form> <xpln lang="sp">yo hize</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Go, stande
+</form> <xpln lang="sp">Ve / esta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou lettest noo
+man sleepe
+</form> <xpln lang="sp">Tu a niuno dex a[ ]
+dormyr</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Why?
+</form> <xpln lang="sp">Por que?</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">
+For thou doest no 
+</page>
+
+<page sig="b3r">
+thynge all nyght
+but snorke
+</form> <xpln lang="sp">Por que toda la no&#124;
+che no hazes sino 
+roncar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Go sleepe
+</form> <xpln lang="sp">Ve a dormir</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Not yet
+</form> <xpln lang="sp">Aun non</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Go, for thou must 
+ryse to morow be 
+tymes
+</form> <xpln lang="sp">Ve que es necessario 
+que te lua<expan type="">un</expan>tes
+ma<expan type="">nn</expan>a&#124;
+na / en buena hora</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What to do
+</form> <xpln lang="sp">A que hazer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou must beare
+letters to Mylan
+</form> <xpln lang="sp">Es necessidad que <expan type="">per</expan>&#124;
+stole las letras a 
+Milan</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">My Legge
+gre&#124;
+ueth me so that I 
+cannot go on fote
+</form> <xpln lang="sp">Tanto me duele la 
+pierna que no pudo 
+caminer a pie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Take a horse
+</form> <xpln lang="sp">Toma e cauallo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Chose me one
+</form> <xpln lang="sp">Busque me vno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou hast an ea&#124;
+sye lyfe
+</form> <xpln lang="sp">Tu has bueno ti 
+empo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I roode
+</form> <xpln lang="sp">Fui a cauello</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He went a fote
+</form> <xpln lang="sp">Fue apie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I haue ben in 
+that place
+</form> <xpln lang="sp">yo fui na aquel luger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Se that it be 
+ryghte
+</form> <xpln lang="sp">Mira que sea iguall</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll go from hence
+</page>
+
+<page sig="b3v">
+</form> <xpln lang="sp">yo quiero ander de aqui</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I maye
+remayne
+no longer
+</form> <xpln lang="sp">No puedo restar mas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou byndeste to 
+great a ferdell, <expan type="">thou</expan>
+shalte not be able 
+to bere it
+</form> <xpln lang="sp">Tu attas muy gran 
+has no le podros 
+Ileuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I shall beare it 
+well
+</form> <xpln lang="sp">Portero bien</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte se
+</form> <xpln lang="sp">Tu lo veras</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Let me care for 
+that
+</form> <xpln lang="sp">Dexa el cuyda do 
+a my</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gyue it me
+</form> <xpln lang="sp">Da me a mi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Open the doore
+</form> <xpln lang="sp">A bre la puerta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gyue me the keye
+</form> <xpln lang="sp">Da me la Ilabe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Wylte thou gyue
+it me
+</form> <xpln lang="sp">Quieres me lo dar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I wyll not gyue
+it the
+</form> <xpln lang="sp">No te lo quiero a ty<emend err="">&shy;</emend>
+dar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gyue here
+</form> <xpln lang="sp">Da ca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I can not open it
+</form> <xpln lang="sp">No lo se obrir</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Shut the dore
+</form> <xpln lang="sp">Cierra la puerta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Kepe this
+</form> <xpln lang="sp">Tien esso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I am hungrye
+</form> <xpln lang="sp">Tengo appetito de comer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Art thou c<expan type="">on</expan>fessed
+</form> <xpln lang="sp">As te confessado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">
+From whence
+</page>
+
+<page sig="b4r">
+commeth this
+</form> <xpln lang="sp">De que viene eso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">He is bannyshed
+</form> <xpln lang="sp">Esta endestierro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Go &amp; drawe wine
+</form> <xpln lang="sp">Trahe dell vino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Vnderstandest
+thou
+</form> <xpln lang="sp">Entendes tu</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Speake <expan type="">that</expan> I may vnderstande the
+</form> <xpln lang="sp">Habla que tu entienda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It belongeth not 
+to the </form> <xpln lang="sp">Eo es vuestro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is his
+</form> <xpln lang="sp">Es suyo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">How much cost it
+</form> <xpln lang="sp">Cue vale</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What be toke&#124;
+neth that
+</form> <xpln lang="sp">Que significa esto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Somthynge be&#124;
+tokeneth it
+</form> <xpln lang="sp">Algo significa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fayre worke
+</form> <xpln lang="sp">Obra harmosa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is true
+</form> <xpln lang="sp">Es verdad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I bare it gladly
+</form> <xpln lang="sp">yo lo a softido de bu&#124;
+ena gana</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I medle not
+</form> <xpln lang="sp">Ne me empaches</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">After a lytell
+tyme, whyle
+</form> <xpln lang="sp">De aquia paco ti<expan type="">em</expan>po</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Of his owne cost
+</form> <xpln lang="sp">A su costa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">My name
+</form> <xpln lang="sp">Nombro mio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thy name
+</form> <xpln lang="sp">Nombre tuyo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">In your name, on 
+your behalfe
+</page>
+
+<page sig="b4v">
+</form> <xpln lang="sp">En nombre vuestro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The name of god
+</form> <xpln lang="sp">Nombre de Dios</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I knowe not how 
+they call hym
+</form> <xpln lang="sp">No se como sellama</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Howe thynkest
+thou </form> <xpln lang="sp">Que te parece</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Deale thou it be&#124;
+fore vs all
+</form> <xpln lang="sp">Parte tuen presentia 
+de nosotros todos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The tyme is not 
+yet gone
+</form> <xpln lang="sp">No es passado ell tiempo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What is youre
+pleasure
+</form> <xpln lang="sp">Que os plaze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Euery thynge
+</form> <xpln lang="sp">Toda cosa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">One thynge
+</form> <xpln lang="sp">Vna cosa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A good  Vnder&#124;
+standynge
+</form> <xpln lang="sp">Buen ent<expan type="">en</expan>dimiento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">She holdeth me
+</form> <xpln lang="sp">Essa me tiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It is shame
+</form> <xpln lang="sp">He verguen ca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">If thou lette me 
+not go, I shal tell 
+thy father
+</form> <xpln lang="sp">Sy no dexa / yo lo 
+dite a tu padre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou knowest
+not what I haue
+to do
+</form> <xpln lang="sp">No sabes tu que he 
+de hazer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Haue ye not yet 
+solde your gere or 
+wares
+</form> <xpln lang="sp">Aun no haues venoi 
+do vuetras cofas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Yes God be thanked
+</page>
+
+<page sig="c1r">
+</form> <xpln lang="sp">Sy, gracias a Dios</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What wyl ye bye
+I wyll bye some 
+thynge also
+</form> <xpln lang="sp">Que quetroys com&#124;
+prar, que yo tam bien 
+querria comprar al&#124;
+guna cosa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">If ye knewe anye 
+good thynge
+</form> <xpln lang="sp">Se teneis alguna co 
+sa buena</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Yea, I knowe spi<emend err="">&shy;</emend>
+ces, and other 
+thynges
+</form> <xpln lang="sp">Assy species / y otras cosas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Come with mee,
+tell me trueth
+</form> <xpln lang="sp">Vent comigo dime 
+la verdad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">What Newes
+thynke ye vpon
+</form> <xpln lang="sp">Que de nueuo  recu&#124;
+ardas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">And for euer
+worl<emend err="">&shy;</emend>
+de without ende.
+Amen.
+</form> <xpln lang="sp">Sempeterno en Sy&#124;
+glos de syglos.
+Amen.
+</xpln></wordentry>   
+</wordgroup1>
+
+<wordgroup1 type="t" object="Ten Commandments"><alpha><term lang="en">
+&#0182; The .iiij. chapy<emend err="">&shy;</emend>
+ter of the .x. Com<emend err="">&shy;</emend>
+maundementes.</term>
+<term lang="sp">&#0182; El .iiii. Ca. de los 
+diez mandamien&shy;
+tos.</term></alpha>
+
+<wordentry type="h"><form lang="en">Tenne preceptes
+of GOD.
+</form> <xpln lang="sp">Di[ce]
+mandamien<emend err="">&shy;</emend>
+tos de Dios.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">BEleue in one 
+GOD
+</form> <xpln lang="sp">&#0182; Creo in vn Dios</xpln></wordentry>
+</page>
+
+<page sig="c1v">
+<wordentry type="h"><form lang="en">Loue God
+</form> <xpln lang="sp">Amaa Dios</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Loue thy neygh&#124;
+boure as thy selfe
+</form> <xpln lang="sp">Ama al proximo tui 
+o como a ti mesmo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Halowe the Sab<emend err="">&shy;</emend>
+bothe
+</form> <xpln lang="sp">Guarda la fiesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Honoure Father 
+and mother
+</form> <xpln lang="sp">Honora padre y ma&#124;
+dre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte not 
+kyll
+</form> <xpln lang="sp">No matares</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte not 
+steale
+</form> <xpln lang="sp">No furtaras</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte not 
+breke wedlocke
+</form> <xpln lang="sp">No cudeciatas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte not 
+bere false wytnes
+</form> <xpln lang="sp">No dygas falso testi&#124;
+monio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte not 
+coueyte another 
+mans good 
+</form> <xpln lang="sp">No codicies la cofa aiena</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou shalte not 
+desyre another 
+mans wyfe.
+</form> <xpln lang="sp">No codicies la muger 
+de otro.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Seven Works of Mercy"><alpha><term lang="en">
+&#0182; The .v. Chapy&#124;
+teris of the seuen
+workes of mercy.</term>
+<term lang="sp">&#0182; El .v. Capit. de las 
+seyte obras de miseri
+cordia.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; The seuen wor<emend err="">&shy;</emend>
+kes of mercye.
+</form> <xpln lang="sp">Seyte obras de mise<emend err="">&shy;</emend>
+ricordia.</xpln></wordentry>
+</page>
+
+<page sig="c2r">
+<wordentry type="h"><form lang="en">TO Feede the 
+hungrye
+</form> <xpln lang="sp">MAntener los ambrientos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To gyue the thur<emend err="">&shy;</emend>
+stye drynke
+</form> <xpln lang="sp">Dar de Bener a los sedientos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To cloth <expan type="">the</expan> naked
+</form> <xpln lang="sp">Ve feiti los esnudos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To vysyte <expan type="">the</expan> sycke
+</form> <xpln lang="sp">Visiter los enfermos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To comforte the 
+prysoners
+</form> <xpln lang="sp">Confortar los encar&#124;
+ceslados</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To burie the deed
+</form> <xpln lang="sp">Enterer los muertos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">And to lodge the 
+straungers
+</form> <xpln lang="sp">A coger los pelegri&#124;
+nos.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Seven Deadly Sins"><alpha><term lang="en">
+&#0182; The .vi. Chapy<emend err="">&shy;</emend>
+ter is of the seuen
+deedly synnes.</term>
+<term lang="sp">&#0182; El .vi. Capi. de los 
+seyte peccados mortales.
+</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; The seuen deed<emend err="">&shy;</emend>
+lye synnes.
+</form> <xpln lang="sp">&#0182; Seyte peccados 
+mortales.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">&rarr; Pryde
+</form> <xpln lang="sp">&rarr; Sobernia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Lecherye
+</form> <xpln lang="sp">Luxuria</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Coueytousnes
+</form> <xpln lang="sp">Auaricia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Wrathe
+</form> <xpln lang="sp">Ira</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Glotonye
+</form> <xpln lang="sp">Gula</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Enuye
+</form> <xpln lang="sp">Inuidia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Slouthfulnes.
+</form> <xpln lang="sp">Accedia.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="c2v">
+<wordgroup1 type="t" object="Numbers"><alpha><term lang="en">
+&#0182; The .vii. Chapi<emend err="">&shy;</emend>
+ter is of symple
+Nombre.</term>
+<term lang="sp">&#0182; El. Cap. es de sym<emend err="">&shy;</emend>
+ple Numero.</term></alpha>
+
+<wordentry type="h"><form lang="en">ONE
+</form> <xpln lang="sp">Vno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Two
+</form> <xpln lang="sp">Dos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Three
+</form> <xpln lang="sp">Trees</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Foure
+</form> <xpln lang="sp">Quatro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fyue
+</form> <xpln lang="sp">Cinco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syxe
+</form> <xpln lang="sp">Seys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Seuen
+</form> <xpln lang="sp">Seyte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Eyght
+</form> <xpln lang="sp">Ocho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Nyne
+</form> <xpln lang="sp">Nueue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Tenne
+</form> <xpln lang="sp">Diez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Aleuen
+</form> <xpln lang="sp">Onze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Twelue
+</form> <xpln lang="sp">Dose</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thyrtene
+</form> <xpln lang="sp">Treze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fouretene
+</form> <xpln lang="sp">Quatorze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fyftene
+</form> <xpln lang="sp">Quinze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syxetene
+</form> <xpln lang="sp">Dieze seys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Seuentene
+</form> <xpln lang="sp">Dieze e seyte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Eyghtene
+</form> <xpln lang="sp">Dieze e ocho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Nynetene
+</form> <xpln lang="sp">Dieze e nueue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Twentye
+</form> <xpln lang="sp">Veynte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">One and twentye
+</form> <xpln lang="sp">Veynte vno</xpln></wordentry>
+</page>
+
+<page sig="c3r">
+<wordentry type="h"><form lang="en">Two and twenty
+</form> <xpln lang="sp">Veynte dos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thre and twenty
+</form> <xpln lang="sp">Veynte trees</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Foure &amp; twentye
+</form> <xpln lang="sp">Veynte quatro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fyue and twenty
+</form> <xpln lang="sp">Veynte cinco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syxe and twenty
+</form> <xpln lang="sp">Veynte seys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Seuen &amp; twenty
+</form> <xpln lang="sp">Vyente seyte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Eyght &amp; twentye
+</form> <xpln lang="sp">Veynte ocho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Nine and twenty
+</form> <xpln lang="sp">Veynte nueue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thyrtye
+</form> <xpln lang="sp">Treynte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fortye
+</form> <xpln lang="sp">Quarente</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fyftye
+</form> <xpln lang="sp">Cinquenta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sextye
+</form> <xpln lang="sp">Sessenta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Seuentye
+</form> <xpln lang="sp">Setenta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Eyghtye
+</form> <xpln lang="sp">Ochenta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Nynetye
+</form> <xpln lang="sp">Nouenta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A hundred
+</form> <xpln lang="sp">Ciento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Two hondred
+</form> <xpln lang="sp">Dozentos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thre hondred
+</form> <xpln lang="sp">Trezientos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Foure hondred
+</form> <xpln lang="sp">quatrozientos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fyue hondred
+</form> <xpln lang="sp">quinientos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A thousande
+</form> <xpln lang="sp">Myll</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Two thousande
+</form> <xpln lang="sp">Dos myll</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thre thousande
+</form> <xpln lang="sp">Trees
+myll</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A thousande ty&#124;
+mes thousande.
+</page>
+
+<page sig="c3v">
+</form> <xpln lang="sp">Myll myllares.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Time"><alpha><term lang="en">
+&#0182; The .viij. Cha&#124;
+pyter is of tyme,
+yere, month, weke 
+and daye.</term>
+<term lang="sp">&#0182; El .viii. Ca. es dell 
+tiempo / anno / mes /
+samana / y dia.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Tyme
+</form> <xpln lang="sp">&#0182; Tiempo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Worldely
+</form> <xpln lang="sp">Mundano</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Christen
+</form> <xpln lang="sp">El Christiano</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The yeare
+</form> <xpln lang="sp">Anno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The month
+</form> <xpln lang="sp">El mes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The weke
+</form> <xpln lang="sp">La semana</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The daye
+</form> <xpln lang="sp">El dia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An houre
+</form> <xpln lang="sp">La hora</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Mydnyght
+</form> <xpln lang="sp">La media noche</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To morowe
+</form> <xpln lang="sp">La manana</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The euenynge
+</form> <xpln lang="sp">La tarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The noone daye
+</form> <xpln lang="sp">Medio dia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The sprynge
+</form> <xpln lang="sp">Verano</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Haruest
+</form> <xpln lang="sp">Autumno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Whytsondaye
+</form> <xpln lang="sp">Pascua de mayo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Aduente
+</form> <xpln lang="sp">Aduenimiento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Christmas
+</form> <xpln lang="sp">Natiuidad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Newyere tyde
+</form> <xpln lang="sp">Circumcisio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The .xii. daye
+</form> <xpln lang="sp">Trees teys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sroftyde
+</page>
+
+<page sig="c4r">
+</form> <xpln lang="sp">Catnes tollendas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Assencion
+</form> <xpln lang="sp">Ascencion</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Myd lent
+</form> <xpln lang="sp">Media quaresma</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Ma<expan type="">un</expan>dy thursday
+</form> <xpln lang="sp">Iueues santo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Easter
+</form> <xpln lang="sp">Pascua</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An holydaye
+</form> <xpln lang="sp">Fiesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">workedaye
+</form> <xpln lang="sp">Dia de la brar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To laboure
+</form> <xpln lang="sp">Labrar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sondaye
+</form> <xpln lang="sp">Domyngo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Mondaye
+</form> <xpln lang="sp">Lunes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Teusdaye
+</form> <xpln lang="sp">Martes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Wednesdaye
+</form> <xpln lang="sp">Miercoles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thursdaye
+</form> <xpln lang="sp">Iueues</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Frydaye
+</form> <xpln lang="sp">Viernes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Saturdaye
+</form> <xpln lang="sp">Sabbato</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Yesterdaye
+</form> <xpln lang="sp">Ayer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To make peace
+</form> <xpln lang="sp">Patto fazer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">O that it must be 
+done, the thynge
+that pleaseth me.
+</form> <xpln lang="sp">A mi voluntad falta 
+que se haga foque me 
+plaze.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Servants"><alpha><term lang="en">
+&#0182; The .ix. Chapy<emend err="">&shy;</emend>
+ter of seruauntes</term>
+<term lang="sp">&#0182; El .ix. Capitul. de 
+los seruidores.</term></alpha>
+
+<wordentry type="h"><form lang="en">A foote man
+</form> <xpln lang="sp">Pon</xpln></wordentry>
+</page>
+
+<page sig="c4v">
+<wordentry type="h"><form lang="en">A seruaunt
+</form> <xpln lang="sp">Mo[...]</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A mayden
+</form> <xpln lang="sp">Moca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To serue
+</form> <xpln lang="sp">Seruir</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A yonge man
+</form> <xpln lang="sp">Mancebo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Yonge men
+</form> <xpln lang="sp">Mancebos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Chylde
+</form> <xpln lang="sp">Mochacho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Chyldren
+</form> <xpln lang="sp">Mochachos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A man chylde
+</form> <xpln lang="sp">Varon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A woman chylde.
+</form> <xpln lang="sp">Mochacha.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Grandfathers and Kindred"><alpha><term lang="en">
+&#0182; The .x. Chapy&#124;
+ter of Graunde fa<emend err="">&shy;</emend>
+ther, and all the 
+kynred.</term>
+<term lang="sp">&#0182; El x. Capit. de lo 
+bisaguello / y to do el
+parentesco.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Graundfather
+</form> <xpln lang="sp">Bysaguello</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Graundmother
+</form> <xpln lang="sp">Aguelo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Father
+</form> <xpln lang="sp">Padre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Mother
+</form> <xpln lang="sp">Madre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A stepfather
+</form> <xpln lang="sp">Padrino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A stepmother
+</form> <xpln lang="sp">Madrastra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Sonne
+</form> <xpln lang="sp">Et hiio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A doughter
+</form> <xpln lang="sp">Hiia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A stepsonne
+</form> <xpln lang="sp">El ahiiado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A stepdoughter
+</form> <xpln lang="sp">La ahiiada</xpln></wordentry>
+</page>
+
+<page sig="d1r">
+<wordentry type="h"><form lang="en">A Brother
+</form> <xpln lang="sp">El hermano</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Syster
+</form> <xpln lang="sp">La hermana</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A bastarde sonne
+</form> <xpln lang="sp">El bastardo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Bastarde 
+doughter
+</form> <xpln lang="sp">La bastarda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A kynseman
+</form> <xpln lang="sp">El pariente</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A frynde
+</form> <xpln lang="sp">El amigo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Tutoure
+</form> <xpln lang="sp">El tutor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An Vncle
+</form> <xpln lang="sp">El tyo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An Aunte
+</form> <xpln lang="sp">La tya</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An Heyre
+</form> <xpln lang="sp">El heredero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A neyghboure
+</form> <xpln lang="sp">El proximo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An husbande
+</form> <xpln lang="sp">El maarido</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An huswyfe
+</form> <xpln lang="sp">La muger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A woman
+</form> <xpln lang="sp">La hembra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A wyfe
+</form> <xpln lang="sp">La muger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Our maystres
+</form> <xpln lang="sp">Nuestra muger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Vyrgyn
+</form> <xpln lang="sp">La donzelia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An hondmayden
+</form> <xpln lang="sp">Moca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An whore.
+</form> <xpln lang="sp">Putan.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Household Stuff"><alpha><term lang="en">
+&#0182; The xi. Chapy<emend err="">&shy;</emend>
+ter of Houssholde
+stuffe and clothes</term>
+<term lang="sp">&#0182; El .xi. Capitu. es
+del apareso casa y 
+vestido.</term></alpha>
+</page>
+
+<page sig="d1v">
+<wordentry type="h"><form lang="en">&#0182; Houssholde
+stuffe.
+</form> <xpln lang="sp">&#0182; Apero de  casa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A coote
+</form> <xpln lang="sp">Sayo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A sherte
+</form> <xpln lang="sp">Camisa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Breeches
+</form> <xpln lang="sp">Braga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An hatte
+</form> <xpln lang="sp">Chapeo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A hoode
+</form> <xpln lang="sp">Capa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A sleue
+</form> <xpln lang="sp">Magna</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Partlet
+</form> <xpln lang="sp">Coller</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Hosen
+</form> <xpln lang="sp">Cascas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Shooes
+</form> <xpln lang="sp">Capatos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Slyppers
+</form> <xpln lang="sp">Galochas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sockes
+</form> <xpln lang="sp">Pantoflos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A gyrdle
+</form> <xpln lang="sp">Cinta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Doublet
+</form> <xpln lang="sp">Iuben</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Lynynge
+</form> <xpln lang="sp">Ensorto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A clocke
+</form> <xpln lang="sp">Manto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Furre
+</form> <xpln lang="sp">Pelleta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Purse
+</form> <xpln lang="sp">Alhaia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Pearser to bo&#124;
+re thorowe
+</form> <xpln lang="sp">Hurador furadar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A garmente
+</form> <xpln lang="sp">Vestidura</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A cheyne of golde
+</form> <xpln lang="sp">Cananedora</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Rynge
+</form> <xpln lang="sp">Anillo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Gloue
+</form> <xpln lang="sp">Guantes</xpln></wordentry>
+</page>
+
+<page sig="d2r">
+<wordentry type="h"><form lang="en">Poyntes.
+</form> <xpln lang="sp">Correa agueati.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Bread and Wine"><alpha><term lang="en">
+&#0182; The .xij. Chapy<emend err="">&shy;</emend>
+ter of breade, and 
+Wyne, and other 
+thynges to be eaten.</term>
+<term lang="sp">&#0182; El .xii. capi. es dell 
+pany / del <damage>Ayeto</damage>/ y de
+todas sas cosos / de 
+comer.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Breade
+</form> <xpln lang="sp">&#0182; Pan</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Wyne
+</form> <xpln lang="sp">Vino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Vynegre
+</form> <xpln lang="sp">Vinagre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Verioyce
+</form> <xpln lang="sp">Agraz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Mustarde
+</form> <xpln lang="sp">Mostaza</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Flesshe
+</form> <xpln lang="sp">Carne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fatte
+</form> <xpln lang="sp">Gordo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A puddynge
+</form> <xpln lang="sp">Gurduta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Salte
+</form> <xpln lang="sp">Sall</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Butter
+</form> <xpln lang="sp">Longaniza</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Cheese
+</form> <xpln lang="sp">Manteca, queso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Mylke
+</form> <xpln lang="sp">Leche</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Buttermylke
+</form> <xpln lang="sp">Leche quasada</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Creame
+</form> <xpln lang="sp">Nata de leche</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Potage
+</form> <xpln lang="sp">Cosina</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To eate
+</form> <xpln lang="sp">Comer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To make good
+chere
+</form> <xpln lang="sp">Triumphamos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To drynke
+</page>
+
+<page sig="d2v">
+</form> <xpln lang="sp">Beuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A dronkerde
+</form> <xpln lang="sp">Boracho</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To sleepe
+</form> <xpln lang="sp">Dormir</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To aryse
+</form> <xpln lang="sp">Leuentar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To go to bed
+</form> <xpln lang="sp">Id a dormir</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Brekefaste
+</form> <xpln lang="sp">Cosacion</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a Dyner
+</form> <xpln lang="sp">Comer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a Reare dyner
+</form> <xpln lang="sp">la merienda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To eate at after 
+Noone</form> 
+<xpln lang="sp">Merendar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">We wyll breake
+our faste
+</form> <xpln lang="sp">Queremos fazer 
+colacion</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">God be thanked.
+</form> <xpln lang="sp">Adios gratias.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Devil, Hell, and Purgatory"><alpha><term lang="en">
+&#0182; The .xiii. Cha&#124;
+piter of the De&#124;
+uell, of hel and of 
+purgatorye.</term>
+<term lang="sp">&#0182; El .xiii. Ca. es los 
+Diabolos / y dell in&#124;
+ferno / y dell purga&#124;
+torio.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; The Deuell
+</form> <xpln lang="sp">&#0182; Diabolo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Euyll spyrite
+</form> <xpln lang="sp">El spirito maligno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Enemye euerla&#124;
+styng deth
+</form> <xpln lang="sp">Ennemigo eterna 
+Muerte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Hell
+</form> <xpln lang="sp">Infierno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Purgatory
+</form> <xpln lang="sp">Purgatorio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">In the darke
+</form> <xpln lang="sp">En obscuro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Lyghte
+</form> <xpln lang="sp">la luz, lumbra</xpln></wordentry>
+</page>
+
+<page sig="d3r">
+<wordentry type="h"><form lang="en">Payne
+</form> <xpln lang="sp">Pena</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Torment
+</form> <xpln lang="sp">Tormento</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Cursed
+</form> <xpln lang="sp">Maldito</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Dampned
+</form> <xpln lang="sp">Dannado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Clensed
+</form> <xpln lang="sp">Purgado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Chastened
+</form> <xpln lang="sp">Castygado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To chasten.
+</form> <xpln lang="sp">Castigar.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="God, Silver, and Metals"><alpha><term lang="en">
+&#0182; The .xiiii. Cha of
+golde, syluer, 
+and of all other 
+metales <expan type="">that</expan> maye
+be caste.</term>
+<term lang="sp">&#0182; El .xiiii Ca. es del 
+Oro / y plata / y de to 
+das las cosas que se 
+deshazen.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Golde
+</form> <xpln lang="sp">&#0182; Oro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gylted
+</form> <xpln lang="sp">Dorado</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syluer
+</form> <xpln lang="sp">Plata</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Syluer vessell
+</form> <xpln lang="sp">Plateria</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Copper
+</form> <xpln lang="sp">Cobre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Tynne
+</form> <xpln lang="sp">Estanno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Scomme of siluer
+</form> <xpln lang="sp">Peltrez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Latton
+</form> <xpln lang="sp">Laton</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Yron
+</form> <xpln lang="sp">Fero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Stele
+</form> <xpln lang="sp">Acciell</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a Kettell
+</form> <xpln lang="sp">Calderon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a Nayle
+</form> <xpln lang="sp">Clauos</xpln></wordentry>
+</page>
+
+<page sig="d3v">
+<wordentry type="h"><form lang="en">A Nedle
+</form> <xpln lang="sp">Aguias</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">a Thymble.
+</form> <xpln lang="sp">Dedall.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Spices"><alpha><term lang="en">
+&#0182; The .xv. Chapi<emend err="">&shy;</emend>
+ter is of spyces.</term>
+<term lang="sp">&#0182; El .xv. Capi. es de 
+le espezia.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Peper
+</form> <xpln lang="sp">&#0182; Pimenta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gynger
+</form> <xpln lang="sp">Gyngybre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Nutmegges
+</form> <xpln lang="sp">Nues muscada
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Clowes
+</form> <xpln lang="sp">Clauos</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Longe pepper
+</form> <xpln lang="sp">Pimenta luenga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Cynamom
+</form> <xpln lang="sp">Canela</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Incense
+</form> <xpln lang="sp">Encienso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Myrre
+</form> <xpln lang="sp">Myrra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Suger
+</form> <xpln lang="sp">Acucar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Safron
+</form> <xpln lang="sp">Acasran</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Aloepaticum
+</form> <xpln lang="sp">Aloepatico</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sope
+</form> <xpln lang="sp">Xabon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Cotton sylke
+</form> <xpln lang="sp">Algodon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Almondes
+</form> <xpln lang="sp">Almendra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Ryce
+</form> <xpln lang="sp">Arros</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Rosyne
+</form> <xpln lang="sp">Dua passa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Fygges
+</form> <xpln lang="sp">Figo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Oyle
+</form> <xpln lang="sp">Aseyte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Comyne
+</form> <xpln lang="sp">Comino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Anys
+</page>
+
+<page sig="d4r">
+<emend err="Anys"></emend>Chesnottes
+</form> <xpln lang="sp">Castanna</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An aple
+</form> <xpln lang="sp">Mancana</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A peare
+</form> <xpln lang="sp">Pera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A nutte
+</form> <xpln lang="sp">Nuez</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A haselnot.
+</form> <xpln lang="sp">Auellanas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Sylke.
+</form> <xpln lang="sp">Seda.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="War, Battles, and Players"><alpha><term lang="en">
+&#0182; The .xvi. Chap. of
+warres, batayl<emend err="">&shy;</emend>
+les and players.</term>
+<term lang="sp">&#0182; El .xvi. Cap. de la 
+guera / y de los Iu&#124;
+gadores.</term></alpha>
+
+<wordentry type="h"><form lang="en">&#0182; Warre
+</form> <xpln lang="sp">&#0182; Guera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To iust
+</form> <xpln lang="sp">Iustar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A pauileon
+</form> <xpln lang="sp">Peuellon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An oost
+</form> <xpln lang="sp">Exercicio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Companies
+</form> <xpln lang="sp">Esquadras</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A banner
+</form> <xpln lang="sp">Bandera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To make peace
+</form> <xpln lang="sp">Fazer paz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Treason
+</form> <xpln lang="sp">Traycion</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A thefe
+</form> <xpln lang="sp">Ladron</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A rybalde
+</form> <xpln lang="sp">Dellaco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Knauery
+</form> <xpln lang="sp">Vellaqueria</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A knaue
+</form> <xpln lang="sp">Dellaco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To bewytche
+</form> <xpln lang="sp">Encanter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The stewes
+</form> <xpln lang="sp">Putaria</xpln></wordentry>
+</page>
+
+<page sig="d4v">
+<wordentry type="h"><form lang="en">An whore
+</form> <xpln lang="sp">Puta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To robbe
+</form> <xpln lang="sp">Robar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">To playe
+</form> <xpln lang="sp">Iugar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">I haue lost .x. gyl<emend err="">&shy;</emend>
+dens in playenge
+</form> <xpln lang="sp">Perdi .x. floryns iu&#124;
+gando</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">That is thy losse
+</form> <xpln lang="sp">Es tu dagno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">It had ben better 
+for thee, yf <expan type="">thou</expan> had&#124;
+deste Clothed thy 
+selfe with that 
+money
+</form> <xpln lang="sp">Meior fuera que te 
+vestiaras cam aquel&#124;
+los dineros</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Thou saiest truth
+</form> <xpln lang="sp">Tu dizes la verdad</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">But so is it not 
+doone.
+</form> <xpln lang="sp">Pero no es fecho.
+</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+&#0182; <term lang="la">Finis.</term>
+
+&#0182; Imprinted by me Robert wyer: 
+Dwellynge in S. 
+Martyns paryshe, at the 
+sygne of saynt Ioh<expan type="">an</expan>
+Euangelyst
+besyde Charynge
+Crosse.
+</closing>
+</section>
+
+</page>
+
+</leme>

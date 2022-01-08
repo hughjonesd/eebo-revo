@@ -1,0 +1,915 @@
+<leme no="147">
+<page fol="100r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 1 0 9 6 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="it">Nomi di tutti i
+membri che apertengono
+all' huomo, de i parenti, i giorni 
+de la settimana, con le stagioni 
+del' anno, come si debbe nu&#173;
+merare, con vn certo bre&#173;
+ue vocabulario. 
+Cap. 43.</form>
+<xpln lang="en">Names of all the 
+members appertaynyng to 
+man, of al parentes, of the dayes 
+of the weeke, with the seasons 
+of the yeare, howe one shal 
+number, with a certaine 
+briefe Vocabularie.
+Chap. 43.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">DI gratia fatemi t<expan type="">an</expan>ta cor&#173;
+tesia, ditemi in Italiano, 
+tutti i membri che aperten&#173;
+gono a l' huomo.</form>
+<xpln lang="en" lexeme="member(n)">I Pray you shewe me so muche 
+curtesie, as to name me in Ita&#173;
+lian, al the members whiche 
+appertayne to man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Io sono contentissimo.</form> <xpln lang="en" lexeme="content(a)">I am content.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Cominciate dal Capo.</form> <xpln lang="en" lexeme="begin(v)" lexeme="head(n)">Begynne at the head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Un homo</form> <xpln lang="en" lexeme="man(n)">A man</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna donna</form> <xpln lang="en" lexeme="woman(n)">a woman</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna persona</form> <xpln lang="en" lexeme="person(n)">a person</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il popolo</form> <xpln lang="en" lexeme="people(n)">the people</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la gente.</form> <xpln lang="en" lexeme="folk(n)">the folke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la plebe</form> <xpln lang="en" lexeme="commons(n)">the commons</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la Nobilta</form> <xpln lang="en" lexeme="nobility(n)">the Nobilitie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il corpo</form> <xpln lang="en" lexeme="body(n)">the body.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la anima</form> <xpln lang="en" lexeme="soul(n)">the soule</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il sangue</form> <xpln lang="en" lexeme="blood(n)">the blood</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la testa</form> <xpln lang="en" lexeme="head(n)">the head</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il capo</form> <xpln lang="en" lexeme="noll(n)">the noule</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">I capelli</form> <xpln lang="en" lexeme="hair(n)">the heares</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le orechie</form> <xpln lang="en" lexeme="ear(n)">the eares</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il ceruello</form> <xpln lang="en" lexeme="brain(n)">the braynes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la fronte</form> <xpln lang="en" lexeme="brow(n)">the browe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la faccia</form> <xpln lang="en" lexeme="face(n)">the face</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il viso</form> <xpln lang="en" lexeme="vizard(n)">the visard</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il volto</form> <xpln lang="en" lexeme="face(n)">the face</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">gli occhij</form> <xpln lang="en" lexeme="eye(n)">the eyes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le galte</form> <xpln lang="en" lexeme="cheek(n)">the cheekes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il naso</form> <xpln lang="en" lexeme="nose(n)">the nose</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la bocca</form> <xpln lang="en" lexeme="mouth(n)">the mouth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la lingua</form> <xpln lang="en" lexeme="tongue(n)">the tongue</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le labra</form> <xpln lang="en" lexeme="lips(n)">the lyps</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">I denti</form> <xpln lang="en" lexeme="teeth(n)">the teeth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le masighe</form> <xpln lang="en" lexeme="gum(n)">the gummes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la gola</form> <xpln lang="en" lexeme="throat(n)">the throate</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il barbotto</form> <xpln lang="en" lexeme="chin(n)">the chynne</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la coppa</form> <xpln lang="en" lexeme="hinder(a)" lexeme="part(n)">the hynder part</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la barba</form> <xpln lang="en" lexeme="beard(n)">the beard</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la Skena</form> <xpln lang="en" lexeme="back(n)">the backe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le spalle</form> <xpln lang="en" lexeme="shoulder(n)">the shoulders</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">I braccij</form> <xpln lang="en" lexeme="arm(n)">the armes</xpln></wordentry>
+
+
+
+</page>
+
+<page fol="100v">
+<wordentry type="h"><form lang="it">Il gombito</form> <xpln lang="en" lexeme="elbow(n)">the elbowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le mani</form> <xpln lang="en" lexeme="hand(n)">the handes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le dita</form> <xpln lang="en" lexeme="finger(n)">the fyngers</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il police</form> <xpln lang="en" lexeme="thumb(n)">the thumbe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le vngie</form> <xpln lang="en" lexeme="nails(n)">the nayles</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la pelle</form> <xpln lang="en" lexeme="skin(n)">the Skyn.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il petto</form> <xpln lang="en" lexeme="breast(n)">the brest</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il stomako</form> <xpln lang="en" lexeme="stomach(n)">the stomacke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il ventre</form> <xpln lang="en" lexeme="belly(n)">the belly</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il collo</form> <xpln lang="en" lexeme="neck(n)">the necke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il bombeligo</form> <xpln lang="en" lexeme="navel(n)">the naule</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la verga</form> <xpln lang="en" lexeme="yard(n)">the yarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la lonza</form> <xpln lang="en" lexeme="loin(n)">the loyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le chiappe</form> <xpln lang="en" lexeme="buttock(n)">the buttockes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il fiancho</form> <xpln lang="en" lexeme="flank(n)">the flanke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le reni</form> <xpln lang="en" lexeme="reins(n)">the raynes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il culo</form> <xpln lang="en" lexeme="arse(n)">the arse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le natiche</form> <xpln lang="en" lexeme="buttock(n)">the buttockes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il gallone</form> <xpln lang="en" lexeme="thigh(n)">the thigh</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il ginochio</form> <xpln lang="en" lexeme="knee(n)">the knee</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le gambe</form> <xpln lang="en" lexeme="leg(n)">the legges</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">I piedi</form> <xpln lang="en" lexeme="feet(n)">the feete</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il calcagno</form> <xpln lang="en" lexeme="heel(n)">the heele</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le zonture</form> <xpln lang="en" lexeme="joint(n)">the ioyntes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn osso</form> <xpln lang="en" lexeme="bone(n)">a bone</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le ossa</form> <xpln lang="en" lexeme="bone(n)">the bones</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le popille</form> <xpln lang="en" lexeme="breast(n)">the breastes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le membra</form> <xpln lang="en" lexeme="member(n)">the members</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn pugno</form> <xpln lang="en" lexeme="fist(n)">a fist</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna brancada</form> <xpln lang="en" lexeme="handful(n)">a handful</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">In seno</form> <xpln lang="en" lexeme="bosom(n)">in the bosome</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">nel grembo</form> <xpln lang="en" lexeme="lap(n)">in the lap</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna costa</form> <xpln lang="en" lexeme="rib(n)">a ryb</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna vena</form> <xpln lang="en" lexeme="vein(n)">a vaine</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn neruo</form> <xpln lang="en" lexeme="sinew(n)">a sinow</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il polso</form> <xpln lang="en" lexeme="pulse(n)">the pulse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le tempie</form> <xpln lang="en" lexeme="temple(n)">the temples</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la palma di la
+mano</form> <xpln lang="en" lexeme="palm(n)">the palm of the
+hand</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le budelle</form> <xpln lang="en" lexeme="gut(n)">the guttes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il sputo</form> <xpln lang="en" lexeme="spittle(n)">the spittle</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sputare</form> <xpln lang="en" lexeme="spit(v)">to spitte</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il cuore</form> <xpln lang="en" lexeme="heart(n)">the hart</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le entraglia</form> <xpln lang="en" lexeme="entrail(n)">the entrailes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il fegato</form> <xpln lang="en" lexeme="liver(n)">the liuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il rognone</form> <xpln lang="en" lexeme="kidney(n)">the kidney</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il fiele</form> <xpln lang="en" lexeme="gall(n)">the gal</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la panza</form> <xpln lang="en" lexeme="paunch(n)">the panch</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn petto</form> <xpln lang="en" lexeme="breast(n)">a breast</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la vessiga</form> <xpln lang="en" lexeme="bladder(n)">the bladder</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn puzore</form> <xpln lang="en" lexeme="stink(n)">a stinke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la sola del pie&#173;
+de</form> <xpln lang="en" lexeme="sole of the foot(n)">the sole of the 
+foote.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la rogna</form> <xpln lang="en" lexeme="scab(n)">the scabbes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">le tegna</form> <xpln lang="en" lexeme="scall(n)">the scall</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sgratare</form> <xpln lang="en" lexeme="scratch(v)">to scratch</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pizigare</form> <xpln lang="en" lexeme="pinch(v)">to pinch</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la tosse</form> <xpln lang="en" lexeme="cough(n)">the cough</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">esser rauco</form> <xpln lang="en" lexeme="hoarse(a)">to be hoarse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la carne</form> <xpln lang="en" lexeme="flesh(n)">the flesh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Veramente voi gli hauete no&#173;
+minato in ordine.</form>
+<xpln lang="en">Truely you haue named them in 
+order.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Io nu ho scordato quasi tutto.</form> <xpln lang="en" lexeme="forget(v)">I haue almost forgotten al.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Ditemi qualcosa circa parenti.</form> <xpln lang="en" lexeme="parent(n)">Tel me somthing about parents.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Io sono contento.</form> <xpln lang="en" lexeme="content(a)">I am content.</xpln></wordentry>
+
+
+
+</page>
+
+<page fol="101r">
+<wordentry type="h"><form lang="it">Mio auolo</form> <xpln lang="en" lexeme="grandsire(n)">My grandsier</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">mia auola</form> <xpln lang="en" lexeme="grandam(n)">my grandam</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Padre</form> <xpln lang="en" lexeme="father(n)">father</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">madre</form> <xpln lang="en" lexeme="mother(n)">mother</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fratello</form> <xpln lang="en" lexeme="brother(n)">brother</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sorella</form> <xpln lang="en" lexeme="sister(n)">sister</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">barba</form> <xpln lang="en" lexeme="uncle(n)">vnkle</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ameda</form> <xpln lang="en" lexeme="aunt(n)">aunt</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">neza</form> <xpln lang="en" lexeme="niece(n)">neese</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">nipote</form> <xpln lang="en" lexeme="nephew(n)">neuew</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cugino</form> <xpln lang="en" lexeme="cousin(n)" lexeme="he(pr)">cosin he</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cugina</form> <xpln lang="en" lexeme="cousin(n)" lexeme="she(pr)">cosin shee</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">matrigna</form> <xpln lang="en" lexeme="mother-in-law(n)">mother in lawe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">patrigno</form> <xpln lang="en" lexeme="father-in-law(n)">father in lawe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">figliolo</form> <xpln lang="en" lexeme="son(n)">sonne</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">figliola</form> <xpln lang="en" lexeme="daughter(n)">daughter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">figliozza</form> <xpln lang="en" lexeme="goddaughter(n)">goddaughter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">figliozzo</form> <xpln lang="en" lexeme="godson(n)">godsonne</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">amico</form> <xpln lang="en" lexeme="friend(n)">friend</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">amicitia</form> <xpln lang="en" lexeme="friendship(n)">friendship</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">dolceza</form> <xpln lang="en" lexeme="sweetness(n)">sweetnesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">amaritudine</form> <xpln lang="en" lexeme="bitterness(n)">bytternesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">herede</form> <xpln lang="en" lexeme="heir(n)">heire</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">orfano</form> <xpln lang="en" lexeme="orphan(n)">orphan</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">marito</form> <xpln lang="en" lexeme="husband(n)">husband</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">moglie</form> <xpln lang="en" lexeme="wife(n)">wife</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">consorte</form> <xpln lang="en" lexeme="bedfellow(n)">bedfelow</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vergine</form> <xpln lang="en" lexeme="virgin(n)">virgine</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">genero</form> <xpln lang="en" lexeme="son in law(n)">sonne in law</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">virginita</form> <xpln lang="en" lexeme="virginity(n)">virginitie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cugnato</form> <xpln lang="en" lexeme="brother in law(n)">brother in lawe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sposo</form> <xpln lang="en" lexeme="bridegroom(n)">bridegrome</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sposa</form> <xpln lang="en" lexeme="bride(n)">bride</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">maritagio</form> <xpln lang="en" lexeme="marriage(n)">mariage</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">maritare</form> <xpln lang="en" lexeme="marry(v)">to marry</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">compare</form> <xpln lang="en" lexeme="gossip(n)" lexeme="he(pr)">goship he</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">comare</form> <xpln lang="en" lexeme="gossip(n)" lexeme="she(pr)">goship shee</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna balia</form> <xpln lang="en" lexeme="nurse(n)">a nourse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Infante</form> <xpln lang="en" lexeme="infant(n)">an infant</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn becco cor&#173;
+nuto</form> <xpln lang="en" lexeme="cuckold(n)">a cuckold</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">zeloso</form> <xpln lang="en" lexeme="jealous(a)">ielous</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">auaro</form> <xpln lang="en" lexeme="covetous(a)">couetous</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">amoreuole</form> <xpln lang="en" lexeme="loving(a)">louyng</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cortese</form> <xpln lang="en" lexeme="courteous(a)">courteous</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pensoso</form> <xpln lang="en" lexeme="thoughtful(a)">thoughtful</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">I giorni</form> <xpln lang="en" lexeme="day(n)">the dayes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Domenicha</form> <xpln lang="en" lexeme="Sunday(n)">sunday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">lunedi</form> <xpln lang="en" lexeme="Monday(n)">munday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">martedi</form> <xpln lang="en" lexeme="Tuesday(n)">tuesday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">mercordi</form> <xpln lang="en" lexeme="Wednesday(n)">wednesday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">giouedi</form> <xpln lang="en" lexeme="Thursday(n)">thursday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">veneredi</form> <xpln lang="en" lexeme="Friday(n)">fryday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sabato</form> <xpln lang="en" lexeme="Saturday(n)">saterday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna settimana</form> <xpln lang="en" lexeme="week(n)">a weeke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn mese</form> <xpln lang="en" lexeme="month(n)">a moneth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tre mesi</form> <xpln lang="en" lexeme="three(a)" lexeme="month(n)">three moneths</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn quarto di 
+anno</form> <xpln lang="en" lexeme="quarter(n)" lexeme="year(n)">a quarter of a 
+yeare</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">mezo anno</form> <xpln lang="en" lexeme="half-year(n)">hafe a yeare</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn anno</form> <xpln lang="en" lexeme="year(n)">a yeare</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn hora</form> <xpln lang="en" lexeme="hour(n)">an houre</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">meza hora</form> <xpln lang="en" lexeme="half-an-hour(n)">halfe an houre</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il tempo</form> <xpln lang="en" lexeme="time(n)">the tyme</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la state</form> <xpln lang="en" lexeme="summer(n)">the sommer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">l' inuerno</form> <xpln lang="en" lexeme="winter(n)">the wynter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la prima vera</form> <xpln lang="en" lexeme="spring(n)">the spring</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">l' autunno</form> <xpln lang="en" lexeme="harvest(n)">the haruest</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">caldo</form> <xpln lang="en" lexeme="hot(a)">hot</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">freddo</form> <xpln lang="en" lexeme="cold(a)">cold</xpln></wordentry>
+
+
+
+</page>
+
+<page fol="101v">
+<wordentry type="h"><form lang="it">I dodeci mesi</form> <xpln lang="en" lexeme="twelve(a)" lexeme="month(n)">the. 12. months</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Gienaro</form> <xpln lang="en" lexeme="January(n)">Ianuary</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Febraro</form> <xpln lang="en" lexeme="February(n)">February</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">marzo</form> <xpln lang="en" lexeme="March(n)">March</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Aprile</form> <xpln lang="en" lexeme="April(n)">April</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Magio</form> <xpln lang="en" lexeme="May(n)">May</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Giugno</form> <xpln lang="en" lexeme="June(n)">Iune</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Luio</form> <xpln lang="en" lexeme="July(n)">Iuly</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Agosto</form> <xpln lang="en" lexeme="August(n)">August</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Settembre</form> <xpln lang="en" lexeme="September(n)">September</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Ottobre</form> <xpln lang="en" lexeme="October(n)">October</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Nouembre</form> <xpln lang="en" lexeme="November(n)">Nouember</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Decembre</form> <xpln lang="en" lexeme="December(n)">December.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">giorni di festa</form> <xpln lang="en" lexeme="holiday(n)">holy dayes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Natale</form> <xpln lang="en" lexeme="Christmas(n)">Christmas</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la circoncisione</form> <xpln lang="en" lexeme="Circumcision(n)">the Circ<expan type="">um</expan>cision</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">primo giorno 
+del anno</form> <xpln lang="en" lexeme="New Year(n)">Newe yeares 
+day</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">giorno di tre re</form> <xpln lang="en" lexeme="Twelfth-day(n)">Twelfth day</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la candelosa</form> <xpln lang="en" lexeme="Candlemas(n)">Candlemas day</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Carneuale</form> <xpln lang="en" lexeme="Shrovetide(n)">Shrouetide</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Domenica de 
+le palme</form> <xpln lang="en" lexeme="Palm Sunday(n)">Palme sunday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Pasqua</form> <xpln lang="en" lexeme="Easter(n)">Easter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">l' Ascensione</form> <xpln lang="en" lexeme="Ascension(n)">Ascension daye</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la Pentecoste</form> <xpln lang="en" lexeme="Whitsunday(n)">Whitsonday</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tutti i Santi</form> <xpln lang="en" lexeme="All Saints(n)">Al Saintes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">per contare.</form> <xpln lang="en" lexeme="number(v)">to number.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vno, due, mas&#173;
+culino.</form> <xpln lang="en" lexeme="one(n)" lexeme="two(n)" lexeme="masculine(n)">one, two, mas&#173;
+culine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vna, dua, femi&#173;
+nino.</form> <xpln lang="en" lexeme="one(n)" lexeme="two(n)" lexeme="feminine(n)">one, two, femi&#173;
+nine</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vno</form> <xpln lang="en" lexeme="one(n)">one</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">due</form> <xpln lang="en" lexeme="two(n)">two</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tre</form> <xpln lang="en" lexeme="three(n)">three</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">quatro</form> <xpln lang="en" lexeme="four(n)">foure</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cinque</form> <xpln lang="en" lexeme="five(n)">fyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sei</form> <xpln lang="en" lexeme="six(n)">sixe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sette</form> <xpln lang="en" lexeme="seven(n)">seuen</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">otto</form> <xpln lang="en" lexeme="eight(n)">eight</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">noue</form> <xpln lang="en" lexeme="nine(n)">niene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">dieci</form> <xpln lang="en" lexeme="ten(n)">tenne</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vndeci</form> <xpln lang="en" lexeme="eleven(n)">eleuen</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">dodeci</form> <xpln lang="en" lexeme="twelve(n)">twelue</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tredeci</form> <xpln lang="en" lexeme="thirteen(n)">thirtiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">quatordeci</form> <xpln lang="en" lexeme="fourteen(n)">fourtiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">quindeci</form> <xpln lang="en" lexeme="fifteen(n)">fiftiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sedeci</form> <xpln lang="en" lexeme="sixtiene(n)">sixtiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">dieci sette</form> <xpln lang="en" lexeme="seventeen(n)">seuentiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">disdotto</form> <xpln lang="en" lexeme="eighteen(n)">eightiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">disnoue</form> <xpln lang="en" lexeme="nineteen(n)">nientiene</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">venti</form> <xpln lang="en" lexeme="twenty(n)">twentie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">venti vno</form> <xpln lang="en" lexeme="twenty-one(n)">twentie one</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">venti due</form> <xpln lang="en" lexeme="twenty-two(n)">twentie two</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">venti tre</form> <xpln lang="en" lexeme="twenty-three(n)">twenty three</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cosi segue in or&#173;
+dine.</form> <xpln lang="en">so foloweth in 
+order.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">trenta</form> <xpln lang="en" lexeme="thirty(n)">thirtie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">quaranta</form> <xpln lang="en" lexeme="forty(n)">fourtie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cinquanta</form> <xpln lang="en" lexeme="fifty(n)">fiftie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sessanta</form> <xpln lang="en" lexeme="sixty(n)">sixtie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">settanta</form> <xpln lang="en" lexeme="seventy(n)">seuentie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ottanta</form> <xpln lang="en" lexeme="eighty(n)">eightie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">nonanta</form> <xpln lang="en" lexeme="ninety(n)">nientie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cento</form> <xpln lang="en" lexeme="hundred(n)">an hundred</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">mille</form> <xpln lang="en" lexeme="thousand(n)">a thousand</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn miglion.</form> <xpln lang="en" lexeme="million(n)">a million</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il numero or&#173;
+dinario</form> <xpln lang="en" lexeme="ordinary(a)" lexeme="number(n)">the ordinarye 
+number.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Primo</form> <xpln lang="en" lexeme="first(n)">First</xpln></wordentry>
+
+
+
+</page>
+
+<page fol="102r">
+<wordentry type="h"><form lang="it">secondo</form> <xpln lang="en" lexeme="second(n)">second</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">terzo</form> <xpln lang="en" lexeme="third(n)">third</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">quarto</form> <xpln lang="en" lexeme="fourth(n)">fourth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">quinto</form> <xpln lang="en" lexeme="fifth(n)">fifth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sesto</form> <xpln lang="en" lexeme="sixth(n)">sixth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">settimo</form> <xpln lang="en" lexeme="seventh(n)">seuenth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ottauo</form> <xpln lang="en" lexeme="eighth(n)">eighth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">nono</form> <xpln lang="en" lexeme="ninth(n)">nienth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">decimo</form> <xpln lang="en" lexeme="tenth(n)">tenth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vndecimo</form> <xpln lang="en" lexeme="eleventh(n)">eleuenth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">duodecimo</form> <xpln lang="en" lexeme="twelfth(n)">twelfth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">terzo decimo</form> <xpln lang="en" lexeme="thirteenth(n)">thirteenth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Cosi segue in 
+ordine.</form> <xpln lang="en">So foloweth in 
+order.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Mercante</form> <xpln lang="en" lexeme="merchant(n)">a Marchant</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sensale</form> <xpln lang="en" lexeme="broker(n)">a Broker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fattore</form> <xpln lang="en" lexeme="factor(n)">a factor</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cassiere</form> <xpln lang="en" lexeme="cashier(n)">a Cassier</xpln><lemenote>Antedates earliest citation in OED (1596).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="it">seruitore</form> <xpln lang="en" lexeme="servitor(n)">a seruant</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">scriuante</form> <xpln lang="en" lexeme="scrivener(n)">a Scriuener.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">respondente</form> <xpln lang="en" lexeme="answerer(n)">an answearer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">si curta</form> <xpln lang="en" lexeme="surety(n)">a suretie</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">condutore</form> <xpln lang="en" lexeme="conductor(n)">a conductor</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">asicuratore</form> <xpln lang="en" lexeme="assurer(n)">an assurer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vsuraro</form> <xpln lang="en" lexeme="usurer(n)">an vsurer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">cambiatore</form> <xpln lang="en" lexeme="changer(n)">a chaunger</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">debitore</form> <xpln lang="en" lexeme="debitor(n)">a debitor</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">creditore</form> <xpln lang="en" lexeme="creditor(n)">a creditor</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ingannatore</form> <xpln lang="en" lexeme="deceiver(n)">a deceiuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">compagno</form> <xpln lang="en" lexeme="fellow(n)">a fellowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">moneta</form> <xpln lang="en" lexeme="money(n)">money</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">denari</form> <xpln lang="en" lexeme="money(n)">money</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">limoni</form> <xpln lang="en" lexeme="lemon(n)">Lemons</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">aranze</form> <xpln lang="en" lexeme="orange(n)">Orenges</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pomi granati</form> <xpln lang="en" lexeme="pomegranate(n)">Pomgranates</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">specie</form> <xpln lang="en" lexeme="spice(n)">Spise</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Canella</form> <xpln lang="en" lexeme="cinnamon(n)">Sinamome</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Zenzero</form> <xpln lang="en" lexeme="ginger(n)">Ginger</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Garofoli</form> <xpln lang="en" lexeme="clove(n)">Cloues</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">peuere</form> <xpln lang="en" lexeme="pepper(n)">Pepper</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Safrano</form> <xpln lang="en" lexeme="saffron(n)">Saffron</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Irios</form> <xpln lang="en" lexeme="ireos(n)">Irios</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Aloes</form> <xpln lang="en" lexeme="aloe(n)">Aloes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Arsinico</form> <xpln lang="en" lexeme="arsenic(n)">Arsnicke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Agaricho</form> <xpln lang="en" lexeme="agaric(n)">Agarike</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Tartaro</form> <xpln lang="en" lexeme="argol(n)">Argol</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Garanza</form> <xpln lang="en" lexeme="madder(n)">Madder</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pastello</form> <xpln lang="en" lexeme="woad(n)">Woad</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Lino</form> <xpln lang="en" lexeme="flax(n)">Flaxe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Caneuo</form> <xpln lang="en" lexeme="hemp(n)">Hempe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pegola</form> <xpln lang="en" lexeme="pitch(n)">Pitch</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Cera</form> <xpln lang="en" lexeme="wax(n)">Waxe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Nose moscada</form> <xpln lang="en" lexeme="nutmeg(n)">Nutmegs</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Zucaro</form> <xpln lang="en" lexeme="sugar(n)">Suger</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pomo</form> <xpln lang="en" lexeme="apple(n)">an apple</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pero</form> <xpln lang="en" lexeme="pear(n)">a Peare</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">persico</form> <xpln lang="en" lexeme="peach(n)">a Peach</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Fico</form> <xpln lang="en" lexeme="fig(n)">a Fig</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Prugne</form> <xpln lang="en" lexeme="plum(n)">Plumbes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Mandole</form> <xpln lang="en" lexeme="almond(n)">Almondes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Vua</form> <xpln lang="en" lexeme="grape(n)">Grapes</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Corintij</form> <xpln lang="en" lexeme="currant(n)">Corences</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Cerese</form> <xpln lang="en" lexeme="cherry(n)">Cheries</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Meloni</form> <xpln lang="en" lexeme="melon(n)">Melons</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">zucha</form> <xpln lang="en" lexeme="gourd(n)">a Goord</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Lana</form> <xpln lang="en" lexeme="wool(n)">Wool</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">panno alto</form> <xpln lang="en" lexeme="broadcloth(n)">brode cloath</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Carisee</form> <xpln lang="en" lexeme="kersey(n)">Carsies</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Fustagno</form> <xpln lang="en" lexeme="fustian(n)">Fustian</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Ostada</form> <xpln lang="en" lexeme="worsted(n)">Woorsted</xpln></wordentry>
+
+
+
+</page>
+
+<page fol="102v">
+<wordentry type="h"><form lang="it">tela di lino</form> <xpln lang="en" lexeme="linnen(n)" lexeme="cloth(n)">lynnen cloth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">peso</form> <xpln lang="en" lexeme="weight(n)">weight</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">misura</form> <xpln lang="en" lexeme="measure(n)">measure</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">oncia</form> <xpln lang="en" lexeme="ounce(n)">an ounce</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">libra</form> <xpln lang="en" lexeme="pound(n)">a pound</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">verga</form> <xpln lang="en" lexeme="yard(n)">a yard</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ala</form> <xpln lang="en" lexeme="ell(n)">an ell</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">braccio</form> <xpln lang="en" lexeme="brace(n)">a brace</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">caro</form> <xpln lang="en" lexeme="dear(a)">deere</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">bon mercato</form> <xpln lang="en" lexeme="good(adv)" lexeme="cheap(a)">good cheape</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">riccho</form> <xpln lang="en" lexeme="rich(a)">rich</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pouero</form> <xpln lang="en" lexeme="poor(a)">poore</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">assai</form> <xpln lang="en" lexeme="enough(a)">yenough</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">niente</form> <xpln lang="en" lexeme="nothing(n)">nothing</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">acordo</form> <xpln lang="en" lexeme="agreement(n)">agreement</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">zedola</form> <xpln lang="en" lexeme="schedule(n)">a sedule</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">a tempo</form> <xpln lang="en" lexeme="time(adv)">at tyme</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">a credito</form> <xpln lang="en" lexeme="credit(adv)">at credite</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn' obligo</form> <xpln lang="en" lexeme="bond(n)">a bond</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">poluere</form> <xpln lang="en" lexeme="pewter(n)">poulder</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">dinaro</form> <xpln lang="en" lexeme="penny(n)">a penny</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">grosso</form> <xpln lang="en" lexeme="groat(n)">a groate</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">riale</form> <xpln lang="en" lexeme="royal(n)">a ryal</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">soldo</form> <xpln lang="en" lexeme="shilling(n)">a shilling</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">scudo</form> <xpln lang="en" lexeme="crown(n)">a crowne</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fiorino</form> <xpln lang="en" lexeme="florence(n)">a florence</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ducato</form> <xpln lang="en" lexeme="ducat(n)">a ducate</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">angelotto</form> <xpln lang="en" lexeme="angel(n)">an angel</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">talero</form> <xpln lang="en" lexeme="dollar(n)">a doller</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">lira</form> <xpln lang="en" lexeme="pound(n)">a pound</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">interesso</form> <xpln lang="en" lexeme="interest(n)">interest</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn nobile</form> <xpln lang="en" lexeme="noble(n)">a noble</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vn marcho</form> <xpln lang="en" lexeme="mark(n)">a marke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">datio</form> <xpln lang="en" lexeme="toll(n)">toll</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">botega</form> <xpln lang="en" lexeme="shop(n)">a shoppe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pacuzo</form> <xpln lang="en" lexeme="warehouse(n)">a warehouse</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">magazzino</form> <xpln lang="en" lexeme="packhouse(n)">a packe house</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">contare</form> <xpln lang="en" lexeme="number(v)">to number</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pagare</form> <xpln lang="en" lexeme="pay(v)">to pay</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">perdere</form> <xpln lang="en" lexeme="lose(v)">to loose</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">riceuere</form> <xpln lang="en" lexeme="receive(v)">to receyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">barattare</form> <xpln lang="en" lexeme="batter(v)">to batter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">scriuere</form> <xpln lang="en" lexeme="write(v)">to write</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">rendere</form> <xpln lang="en" lexeme="render(v)">to render</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vendere</form> <xpln lang="en" lexeme="sell(v)">to sell</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">spendere</form> <xpln lang="en" lexeme="spend(v)">to spend</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sparagnare</form> <xpln lang="en" lexeme="spare(v)">to spare</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ricordare</form> <xpln lang="en" lexeme="remember(v)">to remember</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">smentigare</form> <xpln lang="en" lexeme="forget(v)">to forget</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fidare</form> <xpln lang="en" lexeme="trust(v)">to trust</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">credere</form> <xpln lang="en" lexeme="believe(v)">to beleeue</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pentire</form> <xpln lang="en" lexeme="repent(v)">to repent</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">acordare</form> <xpln lang="en" lexeme="agree(v)">to agree</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">la voce</form> <xpln lang="en" lexeme="voice(n)">the voyce</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Il pensiere</form> <xpln lang="en" lexeme="thought(n)">the thought</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sospirare</form> <xpln lang="en" lexeme="sigh(v)">to sigh</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sognare</form> <xpln lang="en" lexeme="dream(v)">to dreame</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">dormire</form> <xpln lang="en" lexeme="sleep(v)">to sleepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">lacrime</form> <xpln lang="en" lexeme="tears(n)">the teares</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">orefice</form> <xpln lang="en" lexeme="goldsmith(n)">a goldsmyth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">sartore</form> <xpln lang="en" lexeme="tailor(n)">a taylour</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">calzolaio</form> <xpln lang="en" lexeme="shoemaker(n)">a shoomaker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">drapiere</form> <xpln lang="en" lexeme="draper(n)">a draper</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tessidore</form> <xpln lang="en" lexeme="weaver(n)">a weauer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tentore</form> <xpln lang="en" lexeme="dyer(n)">a dyer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fabro</form> <xpln lang="en" lexeme="smith(n)">a smyth</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fornaio</form> <xpln lang="en" lexeme="baker(n)">a baker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pistore</form> <xpln lang="en" lexeme="baker(n)">a baker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">ferraro</form> <xpln lang="en" lexeme="ironmonger(n)">an Ironm<expan type="">on</expan>ger</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">berettaro</form> <xpln lang="en" lexeme="capper(n)">a capper</xpln></wordentry>
+
+
+
+</page>
+
+<page fol="103r">
+<wordentry type="h"><form lang="it">coco</form> <xpln lang="en" lexeme="cook(n)">a Cooke</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">capellaro</form> <xpln lang="en" lexeme="hatter(n)">a hatter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">spadaro</form> <xpln lang="en" lexeme="cutler(n)">a Cutler</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">stringaro</form> <xpln lang="en" lexeme="point-maker(n)">a poynt maker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">guantaro</form> <xpln lang="en" lexeme="glover(n)">a glouer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">fa caldiere</form> <xpln lang="en" lexeme="kettle-maker(n)">a kettle maker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">vetraro</form> <xpln lang="en" lexeme="glass-maker(n)">a glasse maker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">tubbaro</form> <xpln lang="en" lexeme="cooper(n)">a Cooper</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">merzaro</form> <xpln lang="en" lexeme="mercer(n)">a Mercer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">barbiere</form> <xpln lang="en" lexeme="barber(n)">a barber</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">muratore</form> <xpln lang="en" lexeme="bricklayer(n)">a Bricklayer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pescatore</form> <xpln lang="en" lexeme="fishmonger(n)">a Fishmonger</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">marangone</form> <xpln lang="en" lexeme="carpenter(n)">a Carpenter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">pelizaro</form> <xpln lang="en" lexeme="skinner(n)">a Skynner</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Sellaro</form> <xpln lang="en" lexeme="saddler(n)">a Sadler</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Tamburino</form> <xpln lang="en" lexeme="drummer(n)">a Drummer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Musico</form> <xpln lang="en" lexeme="musician(n)">a Musition</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Zimator de drapi</form> <xpln lang="en" lexeme="clothworker(n)">a Clothwoor&#173;
+ker</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Peliraro</form> <xpln lang="en" lexeme="pewterer(n)">a Peauterer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Spetiale</form> <xpln lang="en" lexeme="grocer(n)">a Grocer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Beccaro</form> <xpln lang="en" lexeme="butcher(n)">a Butcher</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Stampatore</form> <xpln lang="en" lexeme="printer(n)">a Prynter</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Betegaro</form> <xpln lang="en" lexeme="apothecary(n)">an Apothecary</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Candellaro</form> <xpln lang="en" lexeme="chandler(n)">a Chaundler</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Tauernaro</form> <xpln lang="en" lexeme="vintner(n)">a Vintner</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">hoste</form> <xpln lang="en" lexeme="host(n)">an host</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Boia</form> <xpln lang="en" lexeme="hangman(n)">a hangman</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Barbiere</form> <xpln lang="en" lexeme="barber(n)">a Barber</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Lauandiera</form> <xpln lang="en" lexeme="launderer(n)">a Laundrer</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Aquarolo</form> <xpln lang="en" lexeme="waterman(n)">a Waterman</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Certo io credo, che questo pic&#173;
+colo vocabulario mi seruira.</form>
+<xpln lang="en" lexeme="certes(adv)" lexeme="vocabulary(n)" lexeme="serve(v)">Certis I beleue, that this litle vo&#173;
+cabularie wil serue me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Io so che ci sono tanti di questi 
+vocabulari in stampa, che 
+voi ne potete comprar vno 
+bon mercato.</form>
+<xpln lang="en" lexeme="vocabulary(n)" lexeme="print(n)">I knowe that there be many of 
+these vocabularies in print,
+whiche you may buye good 
+cheape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it">Dunche non acade pigliar tan&#173;
+ta pena di recitarne tanti, 
+ma basta certa.</form>
+<xpln lang="en" lexeme="pain(n)" lexeme="rehearse(v)" lexeme="certes(adv)">Then you need not take so much 
+payne to rehearse so many, 
+but it suffiseth certis.</xpln></wordentry>
+</wordgroup1>
+
+
+</page>
+</leme>

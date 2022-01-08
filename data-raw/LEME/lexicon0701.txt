@@ -1,0 +1,48 @@
+
+
+<leme no="701">
+<page sig="438">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 9 4 
+
+v e r . 1 . 0  ( 2 0 1 8 )
+</term>
+</lemepagenote>
+That no nation of the Indies hath beene found to have
+had the vse of letters. CHAP 4.
+
+<wordentry type="d">
+<form lexeme="letter(n)">LEtters</form> <xpln lexeme="word(n)" lexeme="sign(n)" lexeme="mark(n)" lexeme="cipher(n)">were invented to signifie properly the words
+we do pronounce, even as woordes (according to 
+the Philosopher) are the signes and demonstrations of 
+mans thoughtes and conceptions. And both the one 
+and the other (I say the letters and words) were ordai&shy;
+ned to make things knowne. The voyce for such as are 
+present, and letters for the absent, and such as are to
+come. Signes and markes which are not properly to
+signifie wordes, but things, cannot be called, neyther 
+in trueth are they letters, although they be written, for
+wee can not say that the Picture of the sunne be a wri&shy;
+ting of the sunne, but onely a picture; the like may be
+saide of other signes and characters, which have no re&shy;
+semblance to the thing, but serve onely for memorie;
+for he that invented them, did not ordaine them to sig&shy;
+nifie wordes, but onely to note the thing: neyther do
+they call those characters, letters, or writings, as indeede
+they are not, but rather ciphers, or remembraunces, as
+those be which the Spherists or Astronomers do vse,
+to signifie divers signes or planets of <f type="I"/>Mars, Venus, Iupi&shy;
+ter, &amp;c.<f type="r"/> 
+
+Such characters are ciphers, and no letters: for what
+name soever <f type="I"/>Mars<f type="r"/> may have in Italian, French, or Spa&shy;
+nish, this character doth alwaies signifie it, the which is
+not found in letters: for althogh they <emend err="siguify">signify</emend> the thing,
+yet is it by meanes of words.</xpln>
+</wordentry>
+
+</page>
+</leme>

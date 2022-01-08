@@ -1,0 +1,1444 @@
+
+
+<leme no="37">
+<page sig="A1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 3 1 9 5 . 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+<heading>Vulgaria St<expan type="">an</expan>brige</heading>
+</section>
+
+<section type="Latin-English Glossary">
+<wordgroup1 type="t" object="Body Parts">
+
+
+
+
+
+</page>
+
+<page sig="A1v">
+
+<wordentry type="h"><form lang="la">SInciput et vertex caput occiput &#38; coma crinis</form> <xpln lang="en" lexeme="fore-part(n)" lexeme="head(n)" lexeme="crown(n)" lexeme="hind(a)" lexeme="part(n)" lexeme="bush(n)" lexeme="hair(n)"> 
+<subform lang="la">Hoc sinciput is</subform> <subxpln lang="en">the fore parte of the heed</subxpln> 
+<subform lang="la">hic vertex is</subform> <subxpln lang="en">the crowne of the heed</subxpln>
+<subform lang="la">hoc caput is</subform> <subxpln lang="en">for a heed</subxpln>
+<subform lang="la">hoc occiput is</subform> <subxpln lang="en">the hynder parte of the heed</subxpln>
+<subform lang="la">hec coma e.</subform> <subxpln lang="en">for a busshe</subxpln>
+<subform lang="la">hic crinis is</subform> <subxpln lang="en">for heere</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cincinius cranium cerebrum sutura pilus<expan type="">que</expan></form> <xpln lang="en" lexeme="lock(n)" lexeme="brainpan(n)" lexeme="brain(n)" lexeme="seam(n)" lexeme="head(n)" lexeme="hair(n)"> 
+<subform lang="la">hic cincinius i.</subform> <subxpln lang="en">for a loke</subxpln>
+<subform lang="la">hoc cranium i.</subform> <subxpln lang="en">for the brayne panne</subxpln>
+<subform lang="la">hoc cerebrum i.</subform> <subxpln lang="en">for the brayne</subxpln>
+<subform lang="la">hec sutura e.</subform> <subxpln lang="en">for the seme in the heed</subxpln>
+<subform lang="la">his pilus i.</subform> <subxpln lang="en">for heere</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Os facies oculus acies albugo pupilla</form> <xpln lang="en" lexeme="mouth(n)" lexeme="face(n)" lexeme="eye(n)" lexeme="sight(n)" lexeme="white(n)" lexeme="apple(n)"> 
+<subform lang="la">hoc os is.</subform> <subxpln lang="en">for a mouth</subxpln>
+<subform lang="la">hec facies ei.</subform> <subxpln lang="en">for a face</subxpln>
+<subform lang="la">hic oculus i.</subform> <subxpln lang="en">for an eye</subxpln>
+<subform lang="la">hec acies ei.</subform> <subxpln lang="en">for the syght of the eye</subxpln>
+<subform lang="la">hec albugo is</subform> <subxpln lang="en">for the whyte of the eye</subxpln>
+<subform lang="la">hec pupilla e.</subform> <subxpln lang="en">for the apple of the eye</subxpln> </xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Frons intercilium gena barba supercilium</form> <xpln lang="en" lexeme="forehead(n)" lexeme="space(n)" lexeme="brow(n)" lexeme="eyelid(n)" lexeme="beard(n)" lexeme="above(adv)"> 
+<subform lang="la">hic frons tis</subform> <subxpln lang="en">for the foreheed</subxpln>
+<subform lang="la">hoc intercilium</subform> <subxpln lang="en">the space bytwene the browes</subxpln>
+<subform lang="la">hec genae</subform> <subxpln lang="en">for the eye lydde</subxpln>
+<subform lang="la">hec barba e.</subform> <subxpln lang="en">for a berde</subxpln>
+<subform lang="la">hoc supercilium i.</subform> <subxpln lang="en">for the browe aboue</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Palpebra nigrum oculi cilium sic angulus hirquus</form> <xpln lang="en" lexeme="eyelid(n)" lexeme="black(n)" lexeme="bree(n)" lexeme="eye(n)" lexeme="corner(n)"> 	
+<subform lang="la">hec palpebra e.</subform> <subxpln lang="en">for the eye lydde</subxpln> 
+<subform lang="la">hoc nigrum oculi</subform> <subxpln lang="en">the blacke of the eye</subxpln>
+<subform lang="la">hoc cilium i.</subform> <subxpln lang="en">the brye of the eye</subxpln> 
+<subform lang="la">hic angulus i.</subform> <subxpln lang="en">for the corner of the eye</subxpln> 
+<subform lang="la">hic hirquus i.</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for the corner of the eye]</editoraddition></subxpln></xpln>
+<lemenote>
+"the blacke of the eye" antedates the earliest OED citation (1535).
+</lemenote>
+</wordentry> 
+
+
+
+
+
+</page>
+
+<page sig="A2r">
+<wordentry type="h"><form lang="la">Tempus os et bucca cartilago quo<expan type="">que</expan> mala</form> <xpln lang="en" lexeme="temple(n)" lexeme="head(n)" lexeme="bone(n)" lexeme="cheek(n)" lexeme="gristle(n)" lexeme="ball(n)"> 
+<subform lang="la">hoc tempus is.</subform> <subxpln lang="en">for the temple of the heed</subxpln>
+<subform lang="la">hoc os ossis</subform> <subxpln lang="en">for a bone</subxpln>
+<subform lang="la">hec bucca e.</subform> <subxpln lang="en">for the cheke</subxpln>
+<subform lang="la">hec cartilago is.</subform> <subxpln lang="en">for a grystell</subxpln>
+<subform lang="la">hec mala e.</subform> <subxpln lang="en">for the ball of the cheke</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vultus maxilla mandibula ruga molaris</form> <xpln lang="en" lexeme="countenance(n)" lexeme="hollow(a)" lexeme="part(n)" lexeme="cheek(n)" lexeme="wrinkle(n)" lexeme="properly(adv)" lexeme="face(n)" lexeme="gum(n)" lexeme="tooth(n)"> 
+<subform lang="la">hic vultus vs.</subform> <subxpln lang="en">for a countenaunce</subxpln> 
+<subform lang="la">hec maxilla e</subform> <subxpln lang="en">for a cheke</subxpln>
+<subform lang="la">hec mandibula e</subform> <subxpln lang="en">for the holow parte of the cheke</subxpln>
+<subform lang="la">hec ruga e</subform> <subxpln lang="en">for a wrynkle <expan type="">pro</expan>prely in the face</subxpln>
+<subform lang="la">hic molaris is.</subform> <subxpln lang="en">for a gomme tothe</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Interceptum interfinium gingiua palatum</form> <xpln lang="en" lexeme="bridge(n)" lexeme="nose(n)" lexeme="gum(n)" lexeme="roof(n)" lexeme="mouth(n)">
+<subform lang="la">hoc intercept<expan type="">um</expan> i.</subform> <subxpln lang="en">for the brydge of the nose</subxpln>
+<subform lang="la">hoc interfini<expan type="">um</expan> i.</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for the brydge of the nose]</editoraddition></subxpln>
+<subform lang="la">hec gungiua e.</subform> <subxpln lang="en">for the gomme</subxpln> 
+<subform lang="la">hoc palatum i.</subform> <subxpln lang="en">for the rofe of the mouth</subxpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la">Dens latus duplex intersticium genuinus</form> <xpln lang="en" lexeme="tooth(n)" lexeme="fore-tooth(n)" lexeme="gum(n)" lexeme="space(n)"> 
+<subform lang="la">hic dens tis</subform> <subxpln lang="en">for a tothe</subxpln> 
+<subform lang="la">dens latus</subform> <subxpln lang="en">for the fore tothe</subxpln> 
+<subform lang="la">dens duplex</subform> <subxpln lang="en">for the gomme tothe</subxpln> 
+<subform lang="la">hoc intersticium</subform> <subxpln lang="en">for the space bytwene the tethe</subxpln> 
+<subform lang="la">hic genuinus</subform> <subxpln lang="en">for the gomme tothe</subxpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la">Dens colunelaris maxillaris et caninus</form> <xpln lang="en" lexeme="round(a)" lexeme="tooth(n)" lexeme="gum(n)" lexeme="eyetooth(n)">
+<subform lang="la">dens colunelaris</subform> <subxpln lang="en">the rounde tothe nexte the tothe</subxpln> 
+<subform lang="la">dens maxillaris</subform> <subxpln lang="en">for the gomme tothe</subxpln> 
+<subform lang="la">dens caninus</subform> <subxpln lang="en">for the eye tothe</subxpln></xpln>
+<lemenote>
+"the eye tothe" antedates the earliest OED citation (1530).
+</lemenote>
+</wordentry>
+ 
+<wordentry type="h"><form lang="la">Lingua nares nasus labrum labium<expan type="">que</expan> labellum</form> <xpln lang="en" lexeme="tongue(n)" lexeme="nose-thirl(n)" lexeme="nose(n)" lexeme="lip(n)">
+<subform lang="la">hec lingua e.</subform> <subxpln lang="en">for a tongue</subxpln>
+<subform lang="la">hec naris is.</subform> <subxpln lang="en">for the nosethryll</subxpln>
+<subform lang="la">hic nasus i.</subform> <subxpln lang="en">for a nose</subxpln> 
+<subform lang="la">hoc labrum i.</subform> <subxpln lang="en">for a lyppe</subxpln>
+
+
+
+
+
+</page>
+
+<page sig="A2v">
+<subform lang="la">hoc labium i.</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a lyppe]</editoraddition></subxpln>
+<subform lang="la">hoc labellum</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a lyppe]</editoraddition></subxpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la">Mucus sic mentum collum guttur iugulus</form> <xpln lang="en" lexeme="snivel(n)" lexeme="chin(n)" lexeme="neck(n)" lexeme="throat(n)"> 
+<subform lang="la">hic mucus i.</subform> <subxpln lang="en">for the snyuell</subxpln>
+<subform lang="la">hoc mentum i.</subform> <subxpln lang="en">for a chynne</subxpln>
+<subform lang="la">hoc collum i.</subform> <subxpln lang="en">for a necke</subxpln>
+<subform lang="la">hoc guttur is</subform> <subxpln lang="en">for a throte</subxpln>
+<subform lang="la">hic iugulus i.</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a throte]</editoraddition></subxpln></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Ceruix arteria sublinguium gurgulo<expan type="">que</expan></form> <xpln lang="en" lexeme="nape(n)" lexeme="neck(n)" lexeme="windpipe(n)" lexeme="wind(n)" lexeme="flap(n)">
+<subform lang="la">hic ceruix is.</subform> <subxpln lang="en">the nap of the necke</subxpln> 
+<subform lang="la">hec arteria e.</subform> <subxpln lang="en">the wynde pype</subxpln>
+<subform lang="la">hoc sublingui<expan type="">um</expan></subform> <subxpln lang="en">the wynde flappe</subxpln>
+<subform lang="la">hic gurgulio</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[the wynde flappe]</editoraddition></subxpln></xpln>
+<lemenote>
+"wynde flappe" antedates the earliest OED citation (?1550; "flap," n. 5c).
+</lemenote>
+</wordentry> 
+ 
+<wordentry type="h"><form lang="la">Auris et auricula glans &#38; tonsilla<expan type="">que</expan> iunges</form> <xpln lang="en" lexeme="organ(n)" lexeme="ear(n)" lexeme="hole(n)" lexeme="wax-kernel(n)">
+<subform lang="la">hec auris is.</subform> <subxpln lang="en">the organ of the eere</subxpln>
+<subform lang="la">hec auricula</subform> <subxpln lang="en">for the hole in the ere</subxpln>
+<subform lang="la">hec glans is.</subform> <subxpln lang="en">for a wexe kernell</subxpln>
+<subform lang="la">hec tonsilla e.</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a wexe kernell]</editoraddition></subxpln></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Vnula faux rictus frumen tergum gula dorsum</form> <xpln lang="la" lexeme="flap(n)" lexeme="cover(v)" lexeme="windpipe(n)" lexeme="cheek(n)" lexeme="compass(n)" lexeme="mouth(n)" lexeme="throat-boll(n)" lexeme="back(n)" lexeme="meat(n)" lexeme="pipe(n)"> 
+<subform lang="la">hec vnula e.</subform> <subxpln lang="en">for <expan type="">the</expan> flap <expan type="">that</expan> couereth <expan type="">the</expan> w<expan type="">yn</expan>de pipe</subxpln>
+<subform lang="la">hec faux cis.</subform> <subxpln lang="en">for a cheke</subxpln> 
+<subform lang="la">hic rictus vs.</subform> <subxpln lang="en">for the compace of the mouth</subxpln> 
+<subform lang="la">hoc frumen is</subform> <subxpln lang="en">for the throte bolle</subxpln>
+<subform lang="la">hoc tergum i.</subform> <subxpln lang="en">for the backe</subxpln>
+<subform lang="la">hec gula e.</subform> <subxpln lang="en">the mete pype</subxpln> 
+<subform lang="la">hoc dorsum i.</subform> <subxpln lang="en">for a backe</subxpln></xpln>
+<lemenote>
+"the mete pype" antedates the earliest OED citation (1553).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Spiritus anhelicus halitus cutis caro pellis</form> <xpln lang="en" lexeme="panting(n)" lexeme="breath(n)" lexeme="skin(n)" lexeme="flesh(n)" lexeme="fell(n)">
+<subform lang="la">hic spiritus vs.</subform> <subxpln lang="en">for the brethe</subxpln>
+<subform lang="la">hic anhelicus i.</subform> <subxpln lang="en">for the pantynge</subxpln>
+<subform lang="la">hic halitus i.</subform> <subxpln lang="en">for brethe</subxpln>
+<subform lang="la">hec cutis is.</subform> <subxpln lang="en">for skynne</subxpln>
+<subform lang="la">hec caro is.</subform> <subxpln lang="en">for flesshe</subxpln>
+
+
+
+
+
+</page>
+
+<page sig="A3r">
+<subform lang="la">hec pellis is.</subform> <subxpln lang="en">for a fell</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vena membrana sanguis cruor at<expan type="">que</expan> varix</form> <xpln lang="en" lexeme="vein(n)" lexeme="little(a)" lexeme="skin(n)" lexeme="flesh(n)" lexeme="blood(n)" lexeme="thigh(n)">
+<subform lang="la">hec vena e.</subform> <subxpln lang="en">for a veyne</subxpln>
+<subform lang="la">hec membrana</subform> <subxpln lang="en">for the lytell skynne in the flesshe</subxpln> 
+<subform lang="la">hic sanguis is.</subform> <subxpln lang="en">for blode</subxpln>
+<subform lang="la">hic cruor</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for blode]</editoraddition></subxpln> 
+<subform lang="la">hic varix is.</subform> <subxpln lang="en">for the vayne in the thyghe</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Atribilis colera sputum pitnita<expan type="">que</expan> fleugma</form> <xpln lang="en" lexeme="melancholy(n)" lexeme="colour(n)" lexeme="spettle(n)" lexeme="phlegm(n)" lexeme="pip(n)"> 
+<subform lang="la">hec atribilis</subform> <subxpln lang="en">for the melencoly</subxpln>
+<subform lang="la">hec colera</subform> <subxpln lang="en">for the colour</subxpln>
+<subform lang="la">hoc sputum i.</subform> <subxpln lang="en">for the spetyll</subxpln>
+<subform lang="la">hec pitnita e.</subform> <subxpln lang="en">for the fleume or the pyppe</subxpln>
+<subform lang="la">hoc fleugma</subform> <subxpln lang="en">for fleme</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spina<expan type="">que</expan> cum scapula pectus torax humerus<expan type="">que</expan></form> <xpln lang="en" lexeme="backbone(n)" lexeme="shoulder-blade(n)" lexeme="breast(n)" lexeme="chest(n)" lexeme="shoulder(n)">
+<subform lang="la">hec spina e.</subform> <subxpln lang="en">for the backe bone</subxpln> 
+<subform lang="la">hec scapula</subform> <subxpln lang="en">for the sholder blade</subxpln>
+<subform lang="la">hoc pectus is.</subform> <subxpln lang="en">for a brest</subxpln>
+<subform lang="la">hic torax is.</subform> <subxpln lang="en">for a chest</subxpln>
+<subform lang="la">hic humerus i.</subform> <subxpln lang="en">for a sholder</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Interscapilium latus ala<expan type="">que</expan> costa papilla</form> <xpln lang="en" lexeme="space(n)" lexeme="shoulder(n)" lexeme="side(n)" lexeme="armhole(n)" lexeme="rib(n)" lexeme="pap(n)" lexeme="head(n)">
+<subform lang="la">hoc interscapili<expan type="">um</expan></subform> <subxpln lang="en">for the space bytwene <expan type="">the</expan> sholders</subxpln> 
+<subform lang="la">hoc latus is.</subform> <subxpln lang="en">for a syde</subxpln>
+<subform lang="la">hec ala e.</subform> <subxpln lang="en">for an arme hole</subxpln>
+<subform lang="la">hec costa e.</subform> <subxpln lang="en">for a rybbe</subxpln>
+<subform lang="la">hec papilla e.</subform> <subxpln lang="en">for a pappe heed</subxpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la">Mamma mamilla <expan type="">simul</expan> vber compago medulla</form> <xpln lang="en" lexeme="pap(n)" lexeme="little(a)" lexeme="teat(n)" lexeme="joining(n)" lexeme="joint(n)" lexeme="marrow(n)">
+<subform lang="la">hec mamma e.</subform> <subxpln lang="en">for a pappe</subxpln> 
+<subform lang="la">hec mamilla</subform> <subxpln lang="en">for a lytell pappe or for the teet</subxpln>
+<subform lang="la">hoc vber is.</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a lytell pappe or for the teet]</editoraddition></subxpln> 
+<subform lang="la">hec compago is.</subform> <subxpln lang="en">for ioynynge of. ii. joyntes togy<expan type="">der</expan></subxpln>
+<subform lang="la">hec medulla e.</subform> <subxpln lang="en">for mary</subxpln></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la">Brachium et gibber cubitus manus vlna lacertus</form> <xpln lang="en" lexeme="arm(n)" lexeme="brawn(n)" lexeme="cubit(n)" lexeme="hand(n)" lexeme="space(n)" lexeme="shoulder(n)" lexeme="elbow(n)">
+
+
+
+
+
+</page>
+
+<page sig="A3v">
+<subform lang="la">hoc brachium i.</subform> <subxpln lang="en">for the arme</subxpln> 
+<subform lang="la">hoc gibber is.</subform> <subxpln lang="en">for the brawne of the arme</subxpln> 
+<subform lang="la">hic cubitus i.</subform> <subxpln lang="en">for a cubyte</subxpln>
+<subform lang="la">hec manus</subform> <subxpln lang="en">for a honde</subxpln> 
+<subform lang="la">hic lacertus</subform> <subxpln lang="en"><expan type="">the</expan> space bytwene <expan type="">the</expan> sholder to <expan type="">the</expan> elbow</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Musculus et callus pugnus digitus vola palma</form> <xpln lang="en" lexeme="calf(n)" lexeme="leg(n)" lexeme="hardness(n)" lexeme="hand(n)" lexeme="fist(n)" lexeme="finger(n)" lexeme="hollowness(n)" lexeme="base(n)">
+<subform lang="la">hic musculus</subform> <subxpln lang="en">for the calfe of the legge</subxpln>
+<subform lang="la">hic callus</subform> <subxpln lang="en">the hardnes in the honde or fote</subxpln>
+<subform lang="la">hic pugnus</subform> <subxpln lang="en">for a fyst</subxpln>
+<subform lang="la">hic digitus</subform> <subxpln lang="en">for a fynger</subxpln>
+<subform lang="la">hec vola</subform> <subxpln lang="en">for the holownes in the honde</subxpln>
+<subform lang="la">hec palma</subform> <subxpln lang="en">the basse in the honde</subxpln></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Nodus et articulus vnguis fissura quo<expan type="">que</expan> neruus</form> <xpln lang="en" lexeme="joint(n)" lexeme="knuckle(n)" lexeme="toe(n)" lexeme="nail(n)" lexeme="space(n)" lexeme="finger(n)" lexeme="sinew(n)">
+<subform lang="la">hic nodus</subform> <subxpln lang="en">for a Ioynt</subxpln>
+<subform lang="la">hic condulus</subform> <subxpln lang="en">for a knokle</subxpln>
+<subform lang="la">hic articulus</subform> <subxpln lang="en">for a too</subxpln>
+<subform lang="la">hic vnguis</subform> <subxpln lang="en">for the nayle of a man</subxpln> 
+<subform lang="la">hec fissura</subform> <subxpln lang="en"><expan type="">the</expan> space bytwene <expan type="">the</expan> f<expan type="">yn</expan>gers or toos</subxpln>
+<subform lang="la">hic neruus</subform> <subxpln lang="en">for a synewe</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ac internodium pulsus brachiale<expan type="">que</expan> pollex</form> <xpln lang="en" lexeme="space(n)" lexeme="joint(n)" lexeme="beat(v)" lexeme="vein(n)" lexeme="wrist(n)" lexeme="thumb(n)">
+<subform lang="la">hoc internodium</subform> <subxpln lang="en">the space bytwene the Ioyntes</subxpln>
+<subform lang="la">hic pulsus</subform> <subxpln lang="en">for betynge of the vaynes</subxpln>
+<subform lang="la">hoc brachiale</subform> <subxpln lang="en">for a wrest</subxpln>
+<subform lang="la">hic pollex</subform> <subxpln lang="en">for a thombe</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Index et medicus anularis et auricularis</form> <xpln lang="en" lexeme="foremost(a)" lexeme="finger(n)" lexeme="middle finger(n)" lexeme="leech-finger(n)" lexeme="little finger(n)"> 
+<subform lang="la">hic index</subform> <subxpln lang="en">for the formest fynger</subxpln> 
+<subform lang="la">hic annilaris</subform> <subxpln lang="en">for the myddle fynger</subxpln> 
+<subform lang="la">hic medicus</subform> <subxpln lang="en">for the leche fynger</subxpln> 
+<subform lang="la">hic auricularis</subform> <subxpln lang="en">for the lytell fynger</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cor epar at<expan type="">que</expan> iecur fel splen precordia lien</form> <xpln lang="en" lexeme="heart(n)" lexeme="maw(n)" lexeme="gall(n)" lexeme="milt(n)" lexeme="heartstring(n)" lexeme="long(a)" lexeme="gut(n)" lexeme="liver(n)">
+<subform lang="la">hoc cor</subform> <subxpln lang="en">for a herte</subxpln>
+<subform lang="la">hoc epar</subform> <subxpln lang="en">for a lyuer</subxpln>
+
+
+
+
+
+</page>
+
+<page sig="A4r">
+<subform lang="la">hoc iecur</subform> <subxpln lang="en">for a mawe</subxpln>
+<subform lang="la">hoc fel</subform> <subxpln lang="en">for the gall</subxpln>
+<subform lang="la">hoc splen</subform> <subxpln lang="en">for the mylte</subxpln>
+<subform lang="la">in plurali hec p<expan type="">re</expan>cordia</subform> <subxpln lang="en">for the herte strynges</subxpln>
+<subform lang="la">hoc lien</subform> <subxpln lang="en">for the longe gutte</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pulmo rien stomachus ren omentum diafragma</form> <xpln lang="en" lexeme="lung(n)" lexeme="reins(n)" lexeme="back(n)" lexeme="stomach(n)" lexeme="kell(n)" lexeme="midriff(n)">
+<subform lang="la">hic pulmo</subform> <subxpln lang="en">for the lunge</subxpln>
+<subform lang="la">hic rien</subform> <subxpln lang="en">for the reynes of the backe</subxpln>
+<subform lang="la">hic ren</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for the reynes of the backe]</editoraddition></subxpln>
+<subform lang="la">hic stomachus</subform> <subxpln lang="en">for the stomacke</subxpln>
+<subform lang="la">hoc omentum</subform> <subxpln lang="en">for the kell</subxpln>
+<subform lang="la">hoc diafragma</subform> <subxpln lang="en">for the mydryf</subxpln></xpln>
+<lemenote>
+"the kell" antedates the earliest OED citation (1578).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Intestinum vmbelicus iunctura<expan type="">que</expan> venter</form> <xpln lang="en" lexeme="bowel(n)" lexeme="navel(n)" lexeme="girdlestead(n)" lexeme="belly(n)">
+<subform lang="la">hoc intestinum</subform> <subxpln lang="en">for a bowell</subxpln>
+<subform lang="la">hic vmbelicus</subform> <subxpln lang="en">for a nauell</subxpln>
+<subform lang="la">hec iunctura</subform> <subxpln lang="en">for the gyrdle stede</subxpln>
+<subform lang="la">hic venter</subform> <subxpln lang="en">for a bely</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ilia vesica fibre renunculus aluus</form> <xpln lang="en" lexeme="small(a)" lexeme="rope(n)" lexeme="bladder(n)" lexeme="vein(n)" lexeme="kidney(n)" lexeme="belly(n)" lexeme="paunch(n)">
+<subform lang="la">In plurali hec ilia</subform> <subxpln lang="en">for the small ropes</subxpln>
+<subform lang="la">hec vesica</subform> <subxpln lang="en">for the bladder</subxpln>
+<subform lang="la">hec fibre</subform> <subxpln lang="en">for small veynes</subxpln>
+<subform lang="la">hic renunculus</subform> <subxpln lang="en">for the kydney</subxpln>
+<subform lang="la">hec aluus</subform> <subxpln lang="en">for the bely or paunche</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sumen coxa nates podex lumbus quo<expan type="">que</expan> pubes</form> <xpln lang="en" lexeme="fatness(n)" lexeme="flank(n)" lexeme="hip(n)" lexeme="buttock(n)" lexeme="arsehole(n)" lexeme="loin(n)" lexeme="share(n)">
+<subform lang="la">hoc sumen</subform> <subxpln lang="en">for the fatnes of the flanke</subxpln>
+<subform lang="la">hec coxa</subform> <subxpln lang="en">for a hyppe</subxpln>
+<subform lang="la">hec nates</subform> <subxpln lang="en">for a buttocke</subxpln>
+<subform lang="la">hic podex</subform> <subxpln lang="en">for the arshole</subxpln>
+<subform lang="la">hic lumbus</subform> <subxpln lang="en">for a loyne</subxpln>
+<subform lang="la">hec pubes</subform> <subxpln lang="en">for a share</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ingu<expan type="">en</expan> vrina locium penis membrum genitale</form> <xpln lang="en" lexeme="share(n)" lexeme="piss(n)" lexeme="yard(n)">
+<subform lang="la">hoc ingu<expan type="">en</expan></subform> <subxpln lang="en">for the share</subxpln>
+<subform lang="la">hec vrina</subform> <subxpln lang="en">for pysse</subxpln>
+
+
+
+
+
+</page>
+
+<page sig="A4v">
+<subform lang="la">hoc locium</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for pysse]</editoraddition></subxpln>
+<subform lang="la">hic penis</subform> <subxpln lang="en">for a mannes yerde</subxpln>
+<subform lang="la">hoc m<expan type="">em</expan>br<expan type="">um</expan> g<expan type="">eni</expan>tale</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a mannes yerde]</editoraddition></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ramex aquaticus vrina fistula tubus</form> <xpln lang="en" lexeme="cod(n)" lexeme="bladder(n)" lexeme="pipe(n)" lexeme="yard(n)">
+<subform lang="la">hec ramex</subform> <subxpln lang="en">for the codde</subxpln>
+<subform lang="la">hic aquaticus</subform> <subxpln lang="en">for the bladder</subxpln>
+<subform lang="la">hec fistula vrine</subform> <subxpln lang="en">the pype in a mannes yerde</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scortum testiculus vterus crus vulua<expan type="">que</expan> matrix</form> <xpln lang="en" lexeme="cod(n)" lexeme="stone(n)" lexeme="belly(n)" lexeme="thigh(n)">
+<subform lang="la">hoc scortum</subform> <subxpln lang="en">for the codde</subxpln>
+<subform lang="la">hic testiculus</subform> <subxpln lang="en">for a stone</subxpln>
+<subform lang="la">hic vterus</subform> <subxpln lang="en">for a bely</subxpln>
+<subform lang="la">hic crus</subform> <subxpln lang="en">for a thygh</subxpln>
+<subform lang="la">hec vulua</subform> <subxpln lang="la">locus vbi puer concipitur</subxpln>
+<subform lang="la">hec matrix</subform> <subxpln lang="la">idem<editoraddition>[locus vbi puer concipitur]</editoraddition></subxpln></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Est genitura femur semen strea quo<expan type="">que</expan> sura</form> <xpln lang="en" lexeme="nature(n)" lexeme="man(n)" lexeme="thigh(n)" lexeme="seed(n)" lexeme="shin(n)">
+<subform lang="la">hec genitura</subform> <subxpln lang="en">for nature of a man</subxpln>
+<subform lang="la">hoc femur</subform> <subxpln lang="en">for the thyghe</subxpln>
+<subform lang="la">hoc semen</subform> <subxpln lang="en">for the sede of a man</subxpln>
+<subform lang="la">hec strea</subform> <subxpln lang="en">for a shynne</subxpln>
+<subform lang="la">hec sura</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for a shynne]</editoraddition></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tibia sic<expan type="">que</expan> genu poples pes malleolus<expan type="">que</expan></form> <xpln lang="en" lexeme="leg(n)" lexeme="knee(n)" lexeme="ham(n)" lexeme="foot(n)" lexeme="ankle(n)">
+<subform lang="la">hec tibia</subform> <subxpln lang="en">for a legge</subxpln>
+<subform lang="la">hoc genu</subform> <subxpln lang="en">for a knee</subxpln>
+<subform lang="la">hic poples</subform> <subxpln lang="en">for a hamme</subxpln>
+<subform lang="la">hic pes for</subform> <subxpln lang="en">a fote</subxpln>
+<subform lang="la">hic mallelus</subform> <subxpln lang="en">for the ankle</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vertebrum et digitus pedis &#38; calx planta<expan type="">que</expan> subtal</form> <xpln lang="en" lexeme="whirl-bone(n)" lexeme="finger(n)" lexeme="heel(n)" lexeme="sole(n)" lexeme="foot(n)">
+<subform lang="la">hoc vertebrum</subform> <subxpln lang="en">for the whyrle bone</subxpln>
+<subform lang="la">hic digitus</subform> <subxpln lang="en">for a fynger</subxpln>
+<subform lang="la">hic calx</subform> <subxpln lang="en">for a hele</subxpln>
+<subform lang="la">hec planta</subform> <subxpln lang="en">for the sole of the fote</subxpln>
+<subform lang="la">hoc subtal</subform> <subxpln lang="en"><term lang="la">idem</term> <editoraddition>[for the sole of the fote]</editoraddition></subxpln></xpln></wordentry>
+</wordgroup1>
+
+&#182;<term lang="la">Finis</term>
+
+
+
+
+
+</page>
+
+<page sig="A5r">
+<wordgroup1 type="t" object="Clothing and Household">
+<wordentry type="h"><form lang="en" lexeme="garment(n)"><term lang="la">o.</term> for a garment</form> <xpln lang="la" lexeme="cloth(n)" lexeme="apparel(n)"> Dic indument<expan type="">um</expan>
+<subform lang="en"><term lang="la">e.</term> cloth</subform> <subxpln lang="la">vestis</subxpln>
+<subform lang="en"><term lang="la">i.idem</term> <editoraddition>[cloth]</editoraddition></subform> <subxpln lang="la">vestitus</subxpln>
+<subform lang="en"><term lang="la">i.</term> apparell</subform> <subxpln lang="la">amictus</subxpln>
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="apparel(n)"><term lang="la">i.idem</term> <editoraddition>[apparell]</editoraddition></form><xpln lang="la"> Ornatus simul
+<subform lang="en"><term lang="la">i.idem</term> <editoraddition>[apparell]</editoraddition></subform> <subxpln lang="la">apparatus</subxpln>
+<subform lang="en"><term lang="la">i.idem</term> <editoraddition>[apparell]</editoraddition></subform> <subxpln lang="la">amiculus idem</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form></form> <xpln lang="la" lexeme="cap(n)" lexeme="hat(n)"> Ista caput gestat 
+<subform lang="en"><term lang="la">i.</term> a cappe</subform> <subxpln lang="la">apex</subxpln> 
+<subform lang="en"><term lang="la">e</term> a hat</subform> <subxpln lang="la">caliptra</subxpln>
+<subform lang="en"><term lang="la">i.idem</term> <editoraddition>[a hat]</editoraddition></subform> <subxpln lang="la">galerus</subxpln></xpln></wordentry>
+  
+<wordentry type="h"><form lang="en" lexeme="cap(n)"><term lang="la">o</term> a cappe</form> <xpln lang="la" lexeme="hood(n)"> Bireium / 
+<subform lang="en"><term lang="la">i.idem</term> <editoraddition>[a cappe]</editoraddition></subform> <subxpln lang="la">pilius / </subxpln>
+<subform lang="en"><term lang="la">i.</term> an hood</subform> <subxpln lang="la">cucullus / </subxpln>
+<subform lang="en"><term lang="la">o.idem</term> <editoraddition>[an hood]</editoraddition></subform> <subxpln lang="la">capicium<expan type="">que</expan></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gown(n)"><term lang="la">e.</term> gowne</form> <xpln lang="la" lexeme="short(a)" lexeme="long(a)"> Toga / 
+<subform lang="en">shorte</subform> <subxpln lang="la">subducta / </subxpln>
+<subform lang="en"><term lang="la">idem</term> <editoraddition>[shorte]</editoraddition></subform> <subxpln lang="la">curtate / </subxpln>
+<subform lang="en">longe</subform> <subxpln lang="la">dimissa / </subxpln>
+<subform lang="en"><term lang="la">idem</term> <editoraddition>[longe]</editoraddition></subform> <subxpln lang="la">talaris</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cingle(n)">syngle</form> <xpln lang="la" lexeme="lined(a)" lexeme="furred(a)" lexeme="gown(n)"> Simplex /
+<subform lang="en">lyned</subform> <subxpln lang="la">duplata / </subxpln>
+<subform lang="en">furred</subform> <subxpln lang="la">pellita / </subxpln>
+<subform lang="en"><term lang="la">o.</term> gowne</subform> <subxpln lang="la">pallium adde</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lining(n)"><term lang="la">e.</term> lynynge</form> <xpln lang="la" lexeme="bosom(n)" lexeme="pleat(n)"> Dupiatura /  
+<subform lang="en"><term lang="la">i.</term> bosome.</subform> <subxpln lang="la">sinus / </subxpln>
+<subform lang="en">full of pletes</subform> <subxpln lang="la">sinnosus/ </subxpln>
+<subform lang="en"><term lang="la">e.</term> plete</subform> <subxpln lang="la">plica<expan type="">que</expan> / </subxpln>
+<subform lang="en"><term lang="la">e.idem</term> <editoraddition>[plete]</editoraddition></subform> <subxpln lang="la">ruga</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hem(n)"><term lang="la">e.a</term> hem</form> <xpln lang="la" lexeme="purfle(n)" lexeme="collar(n)"> Fimbria / 
+<subform lang="en"><term lang="la">e.</term> coler</subform> <subxpln lang="la">collaris / </subxpln>
+<subform lang="en"><term lang="la">e.</term> purfle</subform> <subxpln lang="la"><expan type="">simul</expan> instita / </subxpln>
+<subform lang="en"><term lang="la">e.idem</term> <editoraddition>[purfle]</editoraddition></subform> <subxpln lang="la">fascia / </subxpln> 
+<subform lang="en"><term lang="la">i.idem</term> <editoraddition>[purfle]</editoraddition></subform> <subxpln lang="la">limbus</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clout(n)"><term lang="la">i.a.</term> cloute</form> <xpln lang="la"> Penulus vel 
+<subform lang="en"><term lang="la">o.idem</term> <editoraddition>[cloute]</editoraddition></subform> <subxpln lang="la">penuculum / </subxpln>
+<subform lang="en"><term lang="la">o.idem</term> <editoraddition>[cloute]</editoraddition></subform> <subxpln lang="la">penuculamentum</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="doublet(n)"><term lang="la">i.</term> doblet</form> <xpln lang="la" lexeme="coat(n)" lexeme="petticoat(n)" lexeme="jacket(n)" lexeme="mantle(n)"> Deplois / 
+<subform lang="en"><term lang="la">e.</term> cote</subform> <subxpln lang="la">et tunica / </subxpln>
+<subform lang="en"><term lang="la">e.</term> petycote</subform> <subxpln lang="la">tunicella / </subxpln>
+<subform lang="en"><term lang="la">e.</term> iaket</subform> <subxpln lang="la">tunicula</subxpln> 
+<subform lang="en"><term lang="la">i.</term> mantell</subform> <subxpln lang="la">clamis</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sleeve(n)"><term lang="la">e.</term> sleue</form> <xpln lang="la" lexeme="cloak(n)" lexeme="short(a)" lexeme="gown(n)"> Manica / 
+<subform lang="en"><term lang="la">i.</term> cloke</subform> <subxpln lang="la">bardiacus / </subxpln>
+<subform lang="en"><term lang="la">o.</term> a shorte gowne</subform> <subxpln lang="la">hemitogi<expan type="">um</expan> </subxpln>
+<subform></subform> <subxpln lang="la">bardocucullus</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shirt(n)"><term lang="la">e.</term> a sherte</form> <xpln lang="la" lexeme="breech(n)" lexeme="glove(n)" lexeme="shirt(n)" lexeme="girdlestead(n)"> Interula / 
+<subform lang="en"><term lang="la">ee.</term> breches</subform> <subxpln lang="la">bracce / </subxpln>
+<subform lang="en"><term lang="la">e.</term> a gloue</subform> <subxpln lang="la">cirotheca / </subxpln>
+<subform lang="en"><term lang="la">e.</term> sherte</subform> <subxpln lang="la">subucula / </subxpln>
+<subform lang="en"><term lang="la">i.</term> gyrdle stede</subform> <subxpln lang="la">cinctus</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="girdle(n)"><term lang="la">o.</term> gyrdle</form> <xpln lang="la" lexeme="purse(n)" lexeme="girdle(n)">Cingulum / 
+<subform lang="en"><term lang="la">ee.</term> purse</subform> <subxpln lang="la">crumena / </subxpln>
+<subform lang="en"><term lang="la">o.idem</term> <editoraddition>[purse]</editoraddition></subform> <subxpln lang="la">marsipium / </subxpln>
+<subform lang="en"><term lang="la">e.</term> gyrdle</subform> <subxpln lang="la">&yogh;onula / </subxpln>
+<subform lang="en"><term lang="la">e idem</term> <editoraddition>[gyrdle]</editoraddition></subform> <subxpln lang="la">&yogh;ona</subxpln></xpln></wordentry>		
+
+<wordentry type="h"><form lang="en" lexeme="lace(v)">to lace</form> <xpln lang="la" lexeme="lace(n)" lexeme="unlace(v)">Fibulor / 
+<subform lang="en"><term lang="la">e.</term> a lace</subform> <subxpln lang="la">et fibula / </subxpln>
+<subform lang="en">to lace togyder</subform> <subxpln lang="la">confibulor / </subxpln>
+<subform lang="en">vnlace</subform> <subxpln lang="la">refibulor<expan type="">que</expan></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="short(a)">shorte</form> <xpln lang="la" lexeme="hose(n)" lexeme="knee(n)" lexeme="long(a)">Curtate / 
+<subform lang="en"><term lang="la">e.</term> hose</subform> <subxpln lang="la">calige / </subxpln>
+<subform lang="en"><term lang="la">i.e.o.</term> to the knee</subform> <subxpln lang="la">cincturales / </subxpln>
+<subform lang="en">longe</subform> <subxpln lang="la">quo<expan type="">que</expan> longe</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="point(n)"><term lang="la">e.</term> a poynt</form> <xpln lang="la" lexeme="lace(n)" lexeme="latchet(n)" lexeme="pinson(n)">Cordula /
+<subform lang="en"><term lang="la">e.</term> lace</subform> <subxpln lang="la">cum ligula / </subxpln>
+<subform lang="en"><term lang="la">e.</term> latchet</subform> <subxpln lang="la">corrigia / </subxpln>
+<subform lang="en"><term lang="la">i</term> a pynson</subform> <subxpln lang="la">calceolus<expan type="">que</expan></subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoe(n)"><term lang="la">i.a</term> shoo</form> <xpln lang="la" lexeme="slipper(n)" lexeme="buskin(n)" lexeme="boot(n)" lexeme="sock(n)"> Calceus / 
+<subform lang="en"><term lang="la">e.</term> slypper</subform> <subxpln lang="la">&#38; crepida / </subxpln>
+<subform lang="en"><term lang="la">i.a.</term> buskyn</subform> <subxpln lang="la">cothurnus / </subxpln>
+<subform lang="en"><term lang="la">e.</term> bote</subform> <subxpln lang="la">&#38; occrea / </subxpln>
+<subform lang="en"><term lang="la">i.</term> socke</subform> <subxpln lang="la">soccus</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stomacher(n)"><term lang="la">e.a</term> stomacher</form> <xpln lang="la" lexeme="pin(n)" lexeme="tache(n)" lexeme="needle(n)"> Fascia pectoralis / 
+<subform lang="en"><term lang="la">e.</term> pynne</subform> <subxpln lang="la">acicula / </subxpln>
+<subform lang="en"><term lang="la">o.</term> tache</subform> <subxpln lang="la">spinter / </subxpln>
+<subform lang="en"><term lang="la">e.</term> nedle</subform> <subxpln lang="la">et acus</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garter(n)"><term lang="la">o.</term> garter</form> <xpln lang="la" lexeme="garter(n)"> Hiis subligaculum / 
+<subform lang="en"><term lang="la">o.idem</term> <editoraddition>o. garter</editoraddition></subform> <subxpln lang="la">necnon et subligar adde</subxpln></xpln></wordentry>
+</wordgroup1>
+</section>
+
+
+
+
+
+</page>
+
+<page sig="A5v">
+<section type="English-Latin Glossary">
+<wordgroup1 type="t" object="Humans">
+<wordentry type="h"><form lang="en" lexeme="shoe(n)">i.a shoo</form> <xpln lang="la">Calceus/&#38; </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slipper(n)">e.slypper </form> <xpln lang="la">crepida/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buskin(n)">i.a buskyn </form> <xpln lang="la">cothurnus/&#38; </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boot(n)">e.bote </form> <xpln lang="la">occrea/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sock(n)">i.socke</form> <xpln lang="la">soccus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stomacher(n)">e.a stomacher </form> <xpln lang="la">Fascia pectoralis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pin(n)">e.pynne </form> <xpln lang="la">acicula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tache(n)">o.tache </form> <xpln lang="la">spinter/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="needle(n)">e.nedle</form> <xpln lang="la">et acus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garter(n)">o.garter </form> <xpln lang="la">Hiis subligaculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem</form> <xpln lang="la">necnon et subligar adde</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="A5v">
+<wordentry type="h"><form lang="en" lexeme="blade(n)">o.blade</form> <xpln lang="la">Ferrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="haft(n)">o.hafte</form> <xpln lang="la"> mambrist/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem</form> <xpln lang="la"> capulus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheath(n)">e.sheeth</form> <xpln lang="la"> vagina<expan type="">que</expan> /</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="point(n)">e.poynt</form> <xpln lang="la">cuspis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="edge(n)">e.edge</form> <xpln lang="la"> Acies/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knife(n)">i.knyfe</form> <xpln lang="la">cultellus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dull(a)">dull</form> <xpln lang="la"> obtusus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peril(n)">parelles</form> <xpln lang="la"> infestus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sharp(a)">sharpe</form> <xpln lang="la">acutus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frontlet(n)">o.frontelet</form> <xpln lang="la"> Mundum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caul(n)">o.kalle</form> <xpln lang="la"> reticulum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bonnet(n)">o.bonet</form> <xpln lang="la"> mitrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caul(n)">o.kalle </form> <xpln lang="la">crinale/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burlet(n)">e.a payre of burlets</form> <xpln lang="la">mitella</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coverchief(n)">o.a keuerchef </form> <xpln lang="la">Flameum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem </form> <xpln lang="la">flamineum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem</form> <xpln lang="la"> rica/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fillet(n)">e fyllet </form> <xpln lang="la">vitta/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apron(n)">o.an apron</form> <xpln lang="la">gremiale</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ring(n)">i.rynge </form> <xpln lang="la">Annulus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broach(n)">e.broche </form> <xpln lang="la">armilla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Agnus Dei(n)">o.an agnus dei </form> <xpln lang="la">monile/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seal(n)">o.a seele </form> <xpln lang="la">Sigillum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ring(n)" lexeme="ear(n)">e.a rynge for the ere</form> <xpln lang="la">inauris</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ring(n)">o.rynge </form> <xpln lang="la">Lintheolum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coverchief(n)">e.a lytel keuerchef </form> <xpln lang="la">si<expan type="">siler</expan> ricula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="napkin(n)">o.napkyn</form> <xpln lang="la">sudariolum<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem </form> <xpln lang="la">Sudarium </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pincase(n)">e.a pyncase</form> <xpln lang="la">iungas si<expan type="">siler</expan> acicurariatheca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)">o bedde </form> <xpln lang="la">Stratum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chamber(n)">o.chaumbre </form> <xpln lang="la">cubiculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)">i.bedde </form> <xpln lang="la">lectus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inner(a)" lexeme="chamber(n)">o.inder chaumbre </form> <xpln lang="la">penitrale/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem</form> <xpln lang="la">penales</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)">o.bed </form> <xpln lang="la">Cubile/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem </form> <xpln lang="la">toras / </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chamber(n)">i.chaumbre </form> <xpln lang="la">thalamus/ &#38; </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)" lexeme="board(n)">e.bedborde </form> <xpln lang="la">sponda<expan type="">que</expan>/</xpln>
+<lemenote>
+"Bedborde" antedates the earliest OED citation (1530).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)" lexeme="foot(n)">a bedfote</form> <xpln lang="la">fulcrum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="straw(n)">o.strawe </form> <xpln lang="la">Stramen/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem </form> <xpln lang="la">stramentum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bolster(n)">o.bolster </form> <xpln lang="la">ceruical/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feather-bed(n)">e.federbed </form> <xpln lang="la">culcitra/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blanket(n)">i.blanket</form> <xpln lang="la">lodix</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mattress(n)">o.mattres </form> <xpln lang="la">Tormentum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="say(n)">o.saye </form> <xpln lang="la">stragulum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pillow(n)">o.pylowe </form> <xpln lang="la">puluinar/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheet(n)">e.shete </form> <xpln lang="la">linthea /</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coverlet(n)">o.couerlet</form> <xpln lang="la">thoral</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="case(n)">e.case </form> <xpln lang="la">Teca/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tester(n)">o.testoure </form> <xpln lang="la">canopeum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="curtain(n)">e.curteyne </form> <xpln lang="la">peristroma/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem </form> <xpln lang="la">peripetasma</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bench(n)">o.benche </form> <xpln lang="la">Scamnum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stool(n)">o.stole </form> <xpln lang="la">scabellum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pisspot(n)">e.pysse pot </form> <xpln lang="la">matula/</xpln></wordentry>-
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">matella/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="siege(n)">e.sege</form> <xpln lang="la">latrina</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piss(n)">o.pysse </form> <xpln lang="la">Locium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">vrina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(a)" lexeme="siege(n)">e.comon sege </form> <xpln lang="la">cum forica /</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shit(v)">o.to shyte</form> <xpln lang="la">facio stercus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">Donsorio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">cacco/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fart(n)">ferte </form> <xpln lang="la">pedo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stink(n)">stynke</form> <xpln lang="la">feteo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shit(n)">shyte </form> <xpln lang="la">cunio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piss(n)">pysse</form> <xpln lang="la">mingo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brush(n)">o.brusshe </form> <xpln lang="la">Verriculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="comb(n)">i.combe </form> <xpln lang="la">pecten/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass(n)">o.glasse</form> <xpln lang="la">speculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brush(v)">to brusshe </form> <xpln lang="la">varro/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kemb(v)">to kembe</form> <xpln lang="la">quo<expan type="">que</expan> pecto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="door(n)">e.dore </form> <xpln lang="la">Hostium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lock(n)">e.locke </form> <xpln lang="la">sera/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="key(n)">e.key </form> <xpln lang="la">clauis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)">i.nayle </form> <xpln lang="la">clauus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="door(n)" lexeme="bar(n)">o.dore barre</form> <xpln lang="la">quo<expan type="">que</expan> pessulum adde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="window(n)">e.wyndowe </form> <xpln lang="la">Fenestra/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass(n)">o.glasse </form> <xpln lang="la">vitrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lattice(n)">i.lattysse </form> <xpln lang="la">cancellus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)" lexeme="key(n)">i.a lytell key</form> <xpln lang="la">clauiculis<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="match(n)">e.matche </form> <xpln lang="la">Sulphurata/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flintstone(n)">i.flynt stone </form> <xpln lang="la">silex/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="box(n)">e.boxe </form> <xpln lang="la">pixis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="candle(n)">e.candell </form> <xpln lang="la">candela/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem</form> <xpln lang="la">lucerna</xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="A6r">
+<wordentry type="h"><form lang="en" lexeme="candlestick(n)">o.a candelstycke </form> <xpln lang="la">Candelabrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="torch(n)">i.torche </form> <xpln lang="la">lichinus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="taper(n)">i.taper </form> <xpln lang="la">cereus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lantern(n)">i.lanterne </form> <xpln lang="la">lanterna/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tallow(n)">o talow</form> <xpln lang="la">sep<expan type="">un</expan><expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="press(n)" lexeme="wardrobe(n)">o.a presse or a wardrobe </form> <xpln lang="la">Est<expan type="">que</expan> vestiarium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wardrobe(n)" lexeme="keeper(n)">i.a wardrobe keper </form> <xpln lang="la">vestispicus/</xpln>
+<lemenote>
+"Wardrobe keeper" antedates the earliest OED citation (1599).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fold(v)" lexeme="clothes(n)">to folde clothes</form> <xpln lang="la">complico vestis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="court(n)">o.a courte </form> <xpln lang="la">Atrium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hall(n)">e.an halle </form> <xpln lang="la">et aula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parlor(n)">o.a perlour </form> <xpln lang="la">cenaculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hall(n)">.o halle</form> <xpln lang="la">triclinium<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="courtier(n)">i.a courtyer </form> <xpln lang="la">Hinc et atriales/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem</form> <xpln lang="la">si<expan type="">ler</expan> allicus/esse feruntur </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="privy chamber(n)">o.a prevy chaumbre </form> <xpln lang="la">Conclaue/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carpet(n)">e.carpet </form> <xpln lang="la">tapes/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cupboard(n)">i.coborde </form> <xpln lang="la">abacus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carpet(n)">o.carpet </form> <xpln lang="la">tapetum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hanging(n)">e.hangynge</form> <xpln lang="la">aulea </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="board-cloth(n)">-cloorde cloth </form> <xpln lang="la">Mappula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="table(n)">e.table </form> <xpln lang="la">mensa/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trestle(n)">i.trestle </form> <xpln lang="la">tripos/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cushion(n)">o.quysshyn </form> <xpln lang="la">puluinar/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chair (n)">e.chayre </form> <xpln lang="la">cathedra/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="board-cloth(n)">e.borde cloth</form> <xpln lang="la">mappa </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="towel(n)">o a towell </form> <xpln lang="la">Mantile/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="napkin(n)">o.napkyn </form> <xpln lang="la">mantilielum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laver(n)">o.lauer </form> <xpln lang="la">gutturrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basin(n)">o.basyn</form> <xpln lang="la">labrum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)" lexeme="basin(n)">o.a water basyn </form> <xpln lang="la">Manilium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salt-cellar(n)">o.salte seller </form> <xpln lang="la">sal salinum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spoon(n)">o.spone </form> <xpln lang="la">coclear quo<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dish(n)">dysshe</form> <xpln lang="la">discus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="platter(n)">e.plater </form> <xpln lang="la">Lanx/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saucer(n)">o.saucer </form> <xpln lang="la">et acitabulum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dish(n)">dysshe </form> <xpln lang="la">patina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saucer(n)">e.saucer </form> <xpln lang="la">sturella/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="platter(n)">plater</form> <xpln lang="la">perapsis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sewer(n)">i.for a sewer </form> <xpln lang="la">Ciborum/ </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chamberlain(n)">chaumberlayne</form> <xpln lang="la">si<expan type="">ler</expan> architiclinus eis das </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pantry(n)">e. pantre </form> <xpln lang="la">Cella/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">penaria/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buttery(n)">e.botre</form> <xpln lang="la">sic ceruisearia dicas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penuary(n)">o.a ipenre</form> <xpln lang="la">Penarium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)" lexeme="seller(n)">o.wyne seller </form> <xpln lang="la">et cellarium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">apoteca </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butler(n)">i.butler</form> <xpln lang="la">promus<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="draw(v)">to drawe </form> <xpln lang="la">Promo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="draw(v)">drawe out </form> <xpln lang="la">depromo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ton(n)">o.tonne </form> <xpln lang="la">dolium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tankard(n)">e.tankarde </form> <xpln lang="la">et amphora/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barrell(n)">barell</form> <xpln lang="la">cadus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pipe(n)">o.pype </form> <xpln lang="la">Doliolum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tunning(n)" lexeme="dish(n)">o.tonnynge dysshe </form> <xpln lang="la">infundibulum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spigot(n)">e.spygot </form> <xpln lang="la">et clipsedra </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)">o.wyne</form> <xpln lang="la">vinum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bottle(n)">i.botell </form> <xpln lang="la">Vter/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">obba/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drink(n)">i.drynke </form> <xpln lang="la">potus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dreg(n)">e.dregs </form> <xpln lang="la">fex/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ale(n)">e.ale </form> <xpln lang="la">ceruisia quo<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rial(n)">e.ryall </form> <xpln lang="la"> pluma </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tankard(n)">i.tankarde </form> <xpln lang="la">Cantarus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flat(a)" lexeme="piece(n)">e.flatte pyece </form> <xpln lang="la">et patera/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="standing(a)" lexeme="piece(n)">i.standynge pyece </form> <xpln lang="la">crater </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cover(n)">e.couer </form> <xpln lang="la">acorona </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cup(n)">i.a cuppe </form> <xpln lang="la">Ciphus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pot(n)" lexeme="cup(n)">o.a pot or a cuppe </form> <xpln lang="la">et poculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cover(n)">o.couer </form> <xpln lang="la">operculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crumb(n)">e.crome </form> <xpln lang="la">et mica/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">i.breed </form> <xpln lang="la">panis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese(n)">i.chese </form> <xpln lang="la">Caseus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crust(n)">o.crust </form> <xpln lang="la">et crustum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gobbet(n)">o.a gobet </form> <xpln lang="la">frustum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)" lexeme="piece(n)">o.a lytell pyece </form> <xpln lang="la">frustibulum/adde </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crust(n)">o.cruste </form> <xpln lang="la">Crustulum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broken(a)" lexeme="meat(n)">o.broken mete </form> <xpln lang="la">fragent<expan type="">um</expan>/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basket(n)">e.basket </form> <xpln lang="la">fistella/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">fiscina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frail(n)">i.frayle </form> <xpln lang="la">corbis </xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="A6v">
+<wordentry type="h"><form lang="en" lexeme="cook(n)">i.coke </form> <xpln lang="la">Cocus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kitchen(n)">e.kechyn </form> <xpln lang="la">coquina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woman(n)" lexeme="cook(n)">e.woman coke </form> <xpln lang="la">coqua/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kitchen(n)">e.kechyn </form> <xpln lang="la">popina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem</form> <xpln lang="la">culina</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scullion(n)">ie.scolyon </form> <xpln lang="la">Lixa/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sink(n)">e.synke </form> <xpln lang="la">lauitrina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem </form> <xpln lang="la">aquariolum et</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">i.fyre </form> <xpln lang="la"> focus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">ignis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chimney(n)">i.chymney </form> <xpln lang="la">Caminus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="furnace(n)">i.fourneys </form> <xpln lang="la">fornax/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tewel(n)" lexeme="chimney(n)">o.the towell of the chymney </form> <xpln lang="la">infumibulum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flambe(n)">flambe </form> <xpln lang="la">quo<expan type="">que</expan> flamma </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smoke(n)">i.smoke </form> <xpln lang="la">Fumus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soot(n)">e.sote </form> <xpln lang="la">fuligo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spark(n)">e.sparke </form> <xpln lang="la">fauilla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brand(n)">e.bronde </form> <xpln lang="la">titio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem</form> <xpln lang="la">torris </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)" lexeme="brand(n)">e.a lytell bronde </form> <xpln lang="la">Facula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spark(n)">e.sparke </form> <xpln lang="la">sintilla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brand(n)">e.bronde </form> <xpln lang="la">fax/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coal(n)">e.cole </form> <xpln lang="la">pruna/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem </form> <xpln lang="la">carbo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ash(n)">i.asshes</form> <xpln lang="la">cinis<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wood(n)">o.wood </form> <xpln lang="la">Lignum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stick(n)">o.stycke </form> <xpln lang="la">ligniculum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="andiron(n)">o.andyerne </form> <xpln lang="la">ipopirgi<expan type="">um</expan> /</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chip(n)">e.chyppe </form> <xpln lang="la">assula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tong(n)">i.tonges </form> <xpln lang="la">forceps </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bellow(n)">i.bellowes </form> <xpln lang="la">Follis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire-fork(n)">e.fyre forke </form> <xpln lang="la">furcilla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">o.idem</form> <xpln lang="la">rotabulum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chip(n)">ee.chyppes</form> <xpln lang="la">quisquillie<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pot(n)">e.pot </form> <xpln lang="la">Olla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cauldron(n)">o.caudron </form> <xpln lang="la">calearium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem </form> <xpln lang="la">cacabus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="posnet(n)">e.posnet </form> <xpln lang="la">et ollula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broach(n)">o.broche </form> <xpln lang="la">veru </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh-hook(n)">e.flesshe hoke </form> <xpln lang="la">Fulcina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frying-pan(n)">e.fryenge pan </form> <xpln lang="la">sartago/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slice(n)">e.slyse </form> <xpln lang="la">spatula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seethe(v)">to sethe </form> <xpln lang="la">coquo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fry(v)">frye </form> <xpln lang="la">frigo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seethe(v)">sethe </form> <xpln lang="la">elixo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cauldron(n)">o.caudron </form> <xpln lang="la">Ahenum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem </form> <xpln lang="la">lebes/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pan(n)">e.pan </form> <xpln lang="la">patilla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)" lexeme="pan(n)">e.lytell pan </form> <xpln lang="la">patillula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gridiron(n)">e.gyrdyron </form> <xpln lang="la">crates </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scum(n)">skumme </form> <xpln lang="la">Despumo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="make(v)" lexeme="ready(adv)">make redy </form> <xpln lang="la">paro/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poble(n)">poble</form> <xpln lang="la">ebulit/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">escuat/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="roast(n)">rost </form> <xpln lang="la">asso</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="draw(v)" lexeme="bird(n)">to drawe byrdes </form> <xpln lang="la">Euiscero/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cleanse(v)">clense </form> <xpln lang="la">purgo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="unscale(v)" lexeme="fish(n)">vnscale fysshe </form> <xpln lang="la">desquamo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pluck(v)" lexeme="bird(n)">to plucke byrdes</form> <xpln lang="la">iunge de plumo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mortar(n)">o.a morter </form> <xpln lang="la">Mortarium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pestle(n)">e.pestell </form> <xpln lang="la">pistillus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wort(n)">o.wortes </form> <xpln lang="la">olus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gruel(n)">o.gruell </form> <xpln lang="la">ius/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mustard(n)">o.mustarde </form> <xpln lang="la">sinapium<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garlic(n)">o.garlyke </form> <xpln lang="la">Allium </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="verjuice(n)">o.vergyus </form> <xpln lang="la">acetum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sauce(n)">o.sauce </form> <xpln lang="la">condumentum cimeus<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cate(n)" lexeme="meat(n)">catis<emend err=""> </emend>or mete </form> <xpln lang="la">Obsonium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cater(n)">i.cator </form> <xpln lang="la">obsenator/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">e.flesshe </form> <xpln lang="la">carnes/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="veal(n)">vele </form> <xpln lang="la">vituline</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beef(n)">befe </form> <xpln lang="la">Bouine/ simul/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mutton(n)">motton </form> <xpln lang="la">ouine/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kid(n)">kydde </form> <xpln lang="la">heduline/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pork(n)">porke</form> <xpln lang="la">porsine </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drag(v)">o.drag </form> <xpln lang="la">Haustrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="well(n)">i.welle </form> <xpln lang="la">fons/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bucket(n)">e.boket </form> <xpln lang="la">situla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="well(n)">i.welle </form> <xpln lang="la">puteus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="river(n)">i.ryuer </form> <xpln lang="la">riuus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lake(n)">i.lake </form> <xpln lang="la">lacus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="running water(n)">i.a.r<expan type="">en</expan>nynge water </form> <xpln lang="la">amnus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)" lexeme="river(n)">i.a lytell ryuer </form> <xpln lang="la">Riuulus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">e.water </form> <xpln lang="la">et limpha </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fish-pool(n)">e.fysshe pole </form> <xpln lang="la">piscina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pond(n)">o.ponde </form> <xpln lang="la">stagnum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">e.water</form> <xpln lang="la">et aqua </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Herbarum Nomina">
+<alpha><term lang="la">Herbarum nomina.</term></alpha>
+
+
+
+
+
+</page>
+
+<page sig="B1r">
+<wordentry type="h"><form lang="en" lexeme="sage(n)">e.sage </form> <xpln lang="la">&#182;Saluia/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="borage(n)">e.borage </form> <xpln lang="la">borago/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rosemary(n)">e.rosemary </form> <xpln lang="la">libatonis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colombine(n)">e.colombyne </form> <xpln lang="la">brassica/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rue(n)">e.rue</form> <xpln lang="la">ruta </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fleur-de-lis(n)">i.flouredelyce </form> <xpln lang="la">Hirios/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyssop(n)">i.ysope </form> <xpln lang="la">ysopus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)">o.percely </form> <xpln lang="la">petrocilium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blackwort(n)">o.blacke worte</form> <xpln lang="la">olisatrum </xpln>
+<lemenote>
+"Black wort" antedates earliest OED citation (1597).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crowfoot(n)">e.crowfote </form> <xpln lang="la">Acedula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thyme(n)">o.tyme </form> <xpln lang="la">timum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="endive(n)">e.endyue </form> <xpln lang="la">endiuia/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fennel(n)">o.fenell</form> <xpln lang="la">feniculum<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marigold(n)">o.marygolde </form> <xpln lang="la">Et eliotropium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lettuce(n)">e.lettuse </form> <xpln lang="la">lactura/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="betony(n)">e.betony </form> <xpln lang="la">betonica/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mallow(n)">e.malous</form> <xpln lang="la">malua </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hollyhock(n)">e.holy hok </form> <xpln lang="la">Althea/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plantain(n)">e.planteyn </form> <xpln lang="la">plantago/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="savery(n)">e.sauerey </form> <xpln lang="la">saturegia/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daisy(n)">e.daysy</form> <xpln lang="la">consolida<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="southernwood(n)">o.sotherwood </form> <xpln lang="la">Abrotinum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="motherwort(n)">e.moderworte </form> <xpln lang="la">artamesia/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hart's-tongue(n)">e.hertes tongue [</form> <xpln lang="la">scolopendria/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herberhon(n)">o.herberhon </form> <xpln lang="la">baccar </xpln>
+<lemenote>
+Valerian, possibly given as "herb hove" here. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lily(n)">o.lely </form> <xpln lang="la">Lilium/ et</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smallage(n)">o.smalage </form> <xpln lang="la">apium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rams(n)">e.ramys </form> <xpln lang="la">ramilis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wormwood(n)">o.wormewood </form> <xpln lang="la">absinthium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wake-robin(n)">i.wake robyn</form> <xpln lang="la">aron</xpln>
+<lemenote>
+"Wake-robin" antedates the earliest OED citation (1535).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tansy(n)">o.tansey </form> <xpln lang="la">Tansetum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stonecrop(n)">e.stonecryp </form> <xpln lang="la">parietaria/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lavender(n)">e.lauender</form> <xpln lang="la">lauendula iunge</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mint(n)">e.myntes </form> <xpln lang="la">Menta/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-mint(n)">o.horsmynt </form> <xpln lang="la">mentastrum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="watercress(n)">o.water cresses </form> <xpln lang="la">nastarcium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horehound(n)">e.horhond</form> <xpln lang="la">cinoglossa </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Nomina Piscium">
+<alpha><term lang="la">Nomina piscium</term>.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="salt(a)" lexeme="fish(n)">o.salte fysshe </form> <xpln lang="la">&#182;Est salsamentum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fresh(a)" lexeme="fish(n)">fresshe fysshe</form> <xpln lang="la">si<expan type="">ler</expan> et piscis fluuialis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crayfish(n)">e.creuys </form> <xpln lang="la">Licusta/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crab(n)">i.crabbe </form> <xpln lang="la">cancer/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mullet(n)">i.mullet </form> <xpln lang="la">mullus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seal(n)" lexeme="fish(n)">for seel fysshe </form> <xpln lang="la">vitulus<expan type="">que</expan> marinus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="porpoise(n)">e.porpos </form> <xpln lang="la">Phoca/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sturgeon(n)">i.sturgyon </form> <xpln lang="la">cum rombus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mackerel(n)">i.macrell </form> <xpln lang="la">scombeus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dolphin(n)">i.dolphyn </form> <xpln lang="la">sic quo<expan type="">que</expan> delphin  </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockle(n)">e.cocle </form> <xpln lang="la">Coclea/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cabeg(n)">i.cabeg </form> <xpln lang="la">sic capito/</xpln>
+<lemenote>
+Possibly "cabeg" is the barbel, a carp. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en"></form> <xpln lang="la">iungas/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oyster(n)">e.oyster</form> <xpln lang="la">si<expan type="">ler</expan> ostrea/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conger(n)">i.conger </form> <xpln lang="la">congrus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salmon(n)">salmon </form> <xpln lang="la">Salmo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mort(n)">i.morte </form> <xpln lang="la">mugil/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sprat(n)">e.sprot </form> <xpln lang="la">apoa/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hornbeak(n)">i.horne keke </form> <xpln lang="la">mutilus/</xpln>
+<lemenote>
+"mutilus" is a limpet, not a hornfish or horn beak.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockle(n)">e.cocle </form> <xpln lang="la">et coclea/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shell-fish(n)">e.shell fysshe </form> <xpln lang="la">concha </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herring(n)">o.herynge </form> <xpln lang="la">Aller/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thornback(n)">e.thorne backe </form> <xpln lang="la">ragadia/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plaice(n)">i.pleys </form> <xpln lang="la">pecten/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whale(n)">i.whale </form> <xpln lang="la">cetus<expan type="">que</expan>/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whirlpool(n)">e.whyrle pole </form> <xpln lang="la">balena </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tench(n)">e.tenche </form> <xpln lang="la">Loligo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chevin(n)">e.cheuyn </form> <xpln lang="la">chepa/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dogfish(n)">i.e.dogfysshe </form> <xpln lang="la">canis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pike(n)">i.pyke </form> <xpln lang="la">lupus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pickerel(n)">i.pykerell </form> <xpln lang="la">at<expan type="">que</expan> lupillus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barble(n)">i.barble </form> <xpln lang="la">Barbatilus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eel(n)">e.ele </form> <xpln lang="la">si<expan type="">ler</expan> anguilla/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shell(n)">e.shale </form> <xpln lang="la">squama/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fin(n)">e.fynne </form> <xpln lang="la">quo<expan type="">que</expan> pinna </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="De Partinentibus ad Equum">
+<alpha><term lang="la">De partinentibus ad equum</term></alpha>
+
+
+</page>
+
+<page sig="B1v">
+<wordentry type="h"><form lang="en" lexeme="saddle(n)">o.sadle </form> <xpln lang="la">&#182;Epiphium/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bridle(n)">o.brydle </form> <xpln lang="la">frenum/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tayne(n)">e.tayne </form> <xpln lang="la">habena/</xpln>
+<lemenote>
+"tayne" not found in OED; "habena" is Latin for "leash" or "thong."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stirrup(n)" lexeme="leddes(n)">o.styrop leddes </form> <xpln lang="la">scancilelorum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="girth(n)">e.gyrthe </form> <xpln lang="la">Cingula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="poitrel(n)">e.poytrell </form> <xpln lang="la">antela/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crupper(n)">e.croper </form> <xpln lang="la">postela/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="packsaddle(n)">e.packe sadle </form> <xpln lang="la">clitella </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pack(n)">e.packe </form> <xpln lang="la">Sarcina/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fardel(n)">e.ferdell </form> <xpln lang="la">sarcinula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="driver(n)" lexeme="cloth(n)">i.a dryuer of cloth </form> <xpln lang="la">hinc sarcinarius addas </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mail(n)">a male </form> <xpln lang="la">Mantica/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="budget(n)">e.a boget </form> <xpln lang="la">manticula </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-comb(n)">e hors combe </form> <xpln lang="la">addas strigilis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-lock(n)">hors locke </form> <xpln lang="la">quo<expan type="">que</expan> compes </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hoof(n)">e.houe </form> <xpln lang="la">Vngula/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pastor(n)">e.pastours </form> <xpln lang="la">suffragines/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="packhorse(n)">i.packe hors </form> <xpln lang="la">clitellarius/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mane(n)">e.mane </form> <xpln lang="la">iuba/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">caprona </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gelding(n)">i.geldynge </form> <xpln lang="la">Cantherius/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mare(n)">e.mare </form> <xpln lang="la">equa/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)">i.hors </form> <xpln lang="la">si<expan type="">ler</expan> equus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bollocked(a)">balocked </form> <xpln lang="la">testiculatus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cable(n)">i.cable </form> <xpln lang="la">Caballus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colt(n)">i.colte </form> <xpln lang="la">pullus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="breaker(n)" lexeme="horse(n)">i.a breker of hors </form> <xpln lang="la">agaso/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turn(v)">to torne </form> <xpln lang="la">flecto<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="break(v)">to breke </form> <xpln lang="la"> domo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ambler(n)">i.ambler </form> <xpln lang="la">Gradarius/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">i.idem </form> <xpln lang="la">volutarius/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trotter(n)">i.trotter </form> <xpln lang="la">succussarius<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trot(v)">to trotte </form> <xpln lang="la">Succutio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="courser(n)">courser </form> <xpln lang="la">sompus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trot(v)">to trotte </form> <xpln lang="la">si<expan type="">ler</expan> et succusso/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="amble(n)">amble </form> <xpln lang="la">voluto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smell(v)">to smell </form> <xpln lang="la">Olfacio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="touch(v)">touche </form> <xpln lang="la">tango/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sob(v)">sobbe </form> <xpln lang="la">singulcio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cough(v)">kough </form> <xpln lang="la">tussio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cough(n)">for kough </form> <xpln lang="la">tussis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hear(v)">here </form> <xpln lang="la">Audio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="taste(v)">taste </form> <xpln lang="la">gusto/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smelling(n)">smellynge</form> <xpln lang="la"> si<expan type="">ler</expan> olfactus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="understand(v)">vnderstonde </form> <xpln lang="la">sentio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="touching(n)">touchynge</form> <xpln lang="la">tactus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hearing(n)">herynge </form> <xpln lang="la">Auditus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seeing(n)">i.seynge </form> <xpln lang="la">visus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="understanding(n)">i.understandynge </form> <xpln lang="la">sensus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="touching(n)">i.touchynge </form> <xpln lang="la">gustus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="see(v)">to se</form> <xpln lang="la">video<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gape(v)">gape </form> <xpln lang="la">Ossito/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="niece(n)">nese </form> <xpln lang="la">sternuto/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stutter(n)">i.stutter </form> <xpln lang="la">balbus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strut(v)">to strut </form> <xpln lang="la">balbutio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lisper(n)">i.lysper </form> <xpln lang="la">blesus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sigh(v)" lexeme="sob(v)">to syghe or sobbe </form> <xpln lang="la">Singulcio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spit(v)">spyt </form> <xpln lang="la">screo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wag(v)" lexeme="heed(n)">to wagge the heed </form> <xpln lang="la">conquinisco/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twinkle(v)">to twynkle</form> <xpln lang="la">conniuio<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goggle-eyed(a)">i.gogle eyed </form> <xpln lang="la">Strabo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goggle-eyed(a)" lexeme="woman(n)">e.a gogle eyed woman </form> <xpln lang="la">straba/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blear-eyed(a)">i.blere eyed </form> <xpln lang="la">lippus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spurblind(a)">i.spurre blynde </form> <xpln lang="la">luscus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">e.idem </form> <xpln lang="la">iunges<expan type="">que</expan> cocles </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deaf(a)">deef </form> <xpln lang="la">Et surdus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="squint(n)">squynt </form> <xpln lang="la">petus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blind(n)">blynde </form> <xpln lang="la">sic cecus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="look(v)" lexeme="asquint(a)">he that loketh a squynt</form> <xpln lang="la">cecuciens<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dumb(a)">dombe </form> <xpln lang="la">Et mutus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lame(a)">lame </form> <xpln lang="la">et claudus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crooked(a)">croked </form> <xpln lang="la">varus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">curuus<expan type="">que</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem</form> <xpln lang="la"> vietus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="long(a)">longe </form> <xpln lang="la">Longus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tall(a)">talle </form> <xpln lang="la">porcerus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="proper(a)">propre </form> <xpln lang="la">elegans/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="upright(a)">vpryght </form> <xpln lang="la">rectus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)">lytell </form> <xpln lang="la">breuis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="high(a)">hye</form> <xpln lang="la">altus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dwarf(n)">a dwarfe </form> <xpln lang="la">Honnillus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">nanus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">homunio/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem</form> <xpln lang="la">pomilio<expan type="">que</expan> </xpln></wordentry>
+
+
+
+
+
+</page>
+
+<page sig="B2r">
+<wordentry type="h"><form lang="en" lexeme="broad(a)">brode </form> <xpln lang="la">Latus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consumed(a)">consumed </form> <xpln lang="la">abesus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fat(a)">fatte </form> <xpln lang="la">crassus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">pinguis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lean(a)">lene</form> <xpln lang="la">macrilentus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fat(a)" lexeme="lean(a)">fatte or lene </form> <xpln lang="la">Sic corpulentus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small(a)">small </form> <xpln lang="la">gracilis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lean(a)">lene </form> <xpln lang="la">macer<expan type="">que</expan>/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="be(v)" lexeme="lean(a)">to be lene</form> <xpln lang="la">macresco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fatness(n)">fatnes </form> <xpln lang="la">Et pinquedo/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slow(a)" lexeme="slack(a)">slowe or slacke</form> <xpln lang="la">cessabundus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lean(a)">lene</form> <xpln lang="la">sic macies<expan type="">que</expan> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tarrying(a)">taryenge </form> <xpln lang="la">Sic cunctabundus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slow(a)">slowe </form> <xpln lang="la">et signis/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">idem </form> <xpln lang="la">tardus/</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quick(a)">quycke</form> <xpln lang="la">acutus</xpln></wordentry>
+</wordgroup1>
+</section>
+
+
+
+</page>
+</leme>
+

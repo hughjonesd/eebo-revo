@@ -1,0 +1,377 @@
+<leme no="1399">
+
+<page sig="a1r">
+<section type="Title-page">
+PHILOSOPHY 
+Reformed &amp; Improved 
+IN 
+Four Profound TRACTATES.
+
+THE 
+I. Discovering the Great and Deep 
+Mysteries of Nature: 
+By that Learned 
+Chymist &amp; Physitian 
+OSW: CROLLIUS.
+
+THE OTHER 
+III. Discovering the Wonderfull 
+Mysteries of the Creation, 
+BY 
+PARACELSUS: 
+BEING 
+His Philosophy to the ATHENIANS.
+
+Both made English by H. PINNELL, for the 
+increase of Learning and true Knowledge.
+
+LONDON: Printed by M. S. for Lodowick 
+Lloyd, at the Castle in Cornhill. 1657.
+</section>
+</page>
+
+<page no="63">
+<section type="To the Reader">
+<heading>READER,</heading>
+
+WHat I have done in the Version 
+of these two singularly emi&shy;
+nent men, Paracelsus and 
+Crollius, hath been rather as 
+a Translator than an Interpre&shy;
+ter, that the Authors sence more than mine 
+might be searched out. Although the tran&shy;
+slation be not so elegant and significant as
+the originall, yet (if my judgement faile
+not) the matter is preserved intire and 
+sound. In both Tracts thou wilt meet with
+some uncouth and unusuall words which for 
+thy better understanding (who art not ac&shy;
+quainted with such language) I have here
+alphabetically explain'd, as followeth.
+</section>
+
+<section type="Glossary">
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="un">ADECH,</form> <xpln lang="en">is
+our inward and invi&shy;
+sible man, which first shapeth
+those things in the mind that after&shy;
+ward are done with the hands.</xpln>
+<lemenote>
+"Adech," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]. )
+</lemenote>
+</wordentry>
+</page>
+
+<page no="64">
+<wordentry type="h"><form lang="en" lexeme="arcanum(n)">Arcana,</form> <xpln lang="en">secrets or mysteries. Arca&shy;
+num, a secret; or (according
+to Parac.) the hidden incorporeall vertue in na&shy;
+turall things.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Archaltes,</form> <xpln lang="en">the prop or pillars of the 
+earth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="archeus(n)">Archeus,</form> <xpln lang="en">the chiefe, exalted, invisi&shy;
+ble spirit: the occult virtue, artificer,
+Physitian of nature in every one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Astra,</form> <xpln lang="en">Stars; also the force and vir&shy;
+tue of things by preparations.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<wordentry type="h"><form lang="la">Bisemutum,</form> <xpln lang="en" lexeme="tin-glass(n)">the palest or worst sort 
+of lead; it is Tin-glasse.</xpln>
+<lemenote>
+"Bisemutum," a Latinized form of German "bismuth" (see OED, "bismuth," n.) found in
+J. Barrow, <i>Dictionarium Medicum Universal</i> (London, 1749).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="Cabbala(n)">Cabala,</form> <xpln lang="en">that most secret knowledge, 
+which the Hebrew Rabbins say was 
+given by God with the Law of Moses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Caleruth,</form> <xpln lang="en">a note or signe of the desire, 
+when a thing tendeth to its first mat&shy;
+ter and would returne whence it came.</xpln>
+<lemenote>
+"Caleruth," not in OED but from Paracesus ("Calaruth," in J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Cobaltum,</form> <xpln lang="en">a stone whereof matter is
+made behoofull to Medicine. It is a 
+Minerall.</xpln>
+<lemenote>
+"Cobaltum," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+</wordgroup1>
+</page>
+
+<page no="65">
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="un">Derses,</form> <xpln lang="en">a secret vapour of the earth 
+whence wood groweth.</xpln>
+<lemenote>
+"Derses," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Diame&aelig;,</form> <xpln lang="en">spirits living among stones
+and rocks.</xpln>
+<lemenote>
+"Diameae," not in OED but presumably from Paracesus (not found in J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote></wordentry>
+
+<wordentry type="h"><form lang="un">Divertallum,</form> <xpln lang="en">the generation that is
+from the Elements.</xpln>
+<lemenote>
+"Divertallum," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Dram&aelig;.</form> <xpln lang="en"></xpln>
+<lemenote>
+"Dramae," not in OED or in J. Barrow, <i>Dictionarium Medicum Universal</i> (London, 1749).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Duelech,</form> <xpln lang="en">a kind of tartar in
+mans bo&shy;
+dy, a spongy stone very precious.</xpln>
+<lemenote>
+"Duelech," not in OED but from Paracesus ("dulech," J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote></wordentry>
+
+<wordentry type="h"><form lang="un">Durdales,</form> <xpln lang="en">spirits that have bodies
+and live among trees.</xpln>
+<lemenote>
+"Durdales," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="un">Enur,</form> <xpln lang="en">the occult vapour of water 
+from which stones are bred.</xpln>
+<lemenote>
+"Enur," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Evestrum,</form> <xpln lang="en">is that perpetuall thing 
+of the Firmament in the Elem<emend err="">em</emend>enta&shy;
+ry world; it is taken for a Propheti&shy;
+call spirit foretelling things to come 
+by precedent signes and tokens: to 
+<term lang="un">Evestrate</term> is to speak by that spirit.</xpln>
+<lemenote>
+"Evestrum," not in OED but from Paracesus (J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="un">Flag&aelig;,</form> <xpln lang="en">spirits that know the secret 
+and hidden things of men.</xpln>
+<lemenote>
+"Flagae," presumably Paracelsus but not in OED or J. Barrow, <i>Dictionarium Medicum Universal</i> (London, 1749).
+</lemenote>
+</wordentry>
+</wordgroup1>
+</page>
+
+<page no="66">
+<wordgroup1 type="a" object="G">G</alpha>
+<wordentry type="h"><form lang="un">Gabalum, Gebalum,</form> <xpln lang="en">a thing repair'd, 
+restor'd, or curdled.</xpln>
+<lemenote>
+"Gabalum," not in OED or J. Barrow, <i>Dictionarium Medicum Universal</i> (London, 1749) but presumably from Paracelsus.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Gabalis homo,</form> <xpln lang="en">such a man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Gamah&aelig;a,</form> <xpln lang="en">is when a living thing is
+affected or wrought upon by its figure, 
+as when a Pigeon is cast dead from the 
+top of the house onely by thrusting a 
+pin through the picture of it on paper.</xpln>
+<lemenote>
+"Gamahaea," not in OED but from Paracesus (cf. "Gamatha":J. Barrow, <i>Dictionarium Medicum Universal</i> [London, 1749]).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Gnomes, Gnomi,</form> <xpln lang="en">are little men, dwarfs,
+or rather spirits with bodies living
+under the earth, Pigmies scarce halfe
+a foot high.</xpln>
+<lemenote>
+"Gnomes" antedates earliest OED citation (1714) and is presumably a term from Paracelsus.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="un">Gonetick.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H</alpha>
+<wordentry type="h"><form lang="un">Hilech; <term lang="la">astrum medicin&aelig;</term>,</form> <xpln lang="en">or the spi&shy;
+rit hid in medicine.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="un">Iliaster,</form> <xpln lang="en">the first matter of all things,
+consisting of salt, sulphur, and mercury:
+generally it is taken for the occult vir&shy;
+tue of nature, by which all things in&shy;
+crease, grow, multiply and are nourish&shy; 
+ed. <term lang="la">Vid. Lex. Chym.</term></xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="67">
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="un">Leffa, Leffas,</form> <xpln lang="en">is the juyce of the 
+earth newly drawn into the root of the 
+vegetables, by which they grow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Lemores, Lemures,</form> <xpln lang="en">are the spirits of 
+the element of water, not the shapes
+and ghosts of dead men, as the heathen 
+imagined.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Limboan, alias Lymbus,</form> <xpln lang="en">is the first 
+matter or seed of the world, or all 
+things in it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Lorind,</form> <xpln lang="en">is the moving of the waters,
+with a musicall noyse, and is a signe of 
+some change at hand.</xpln>
+<lemenote>
+Not in OED: J. Barrow, <i>Dictionarium Medicum Universal</i> (London, 1749) also explains the word differently as epilepsy
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="en" lexeme="marcasite(n)">Marcasita,</form> <xpln lang="en">the raw or unripe mat&shy;
+ter of mettalls.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Mechili.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Melosin&aelig;,</form> <xpln lang="en">despairing women, now 
+living in a pha<emend err="nsta">ntas</emend>ticall bruitish body, 
+nourished by the Elements, into which 
+at last they shall be changed, unles they 
+chance to marry with a man. <term lang="la">Vid. Lex.
+Chym.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Montans.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="68">
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="un">Nesder.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Neuferani,</form> <xpln lang="en">spirits living in the aire.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="penates(n)">Penates,</form> <xpln lang="en">spirits of heaven and the 
+element of fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pyrotechny(n)">Pyrotechney,</form> <xpln lang="en">the Art of preparing or 
+working things by fire.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="un">Relollaceus, Relolleum</form> <xpln lang="en">is the vertue
+from the complexion; there is a three 
+fold <term lang="un">Relolleum</term>, of which see <term lang="la">Lexicon 
+Chymicum</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="un">Samies.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spagyric(n)">Spagyrick.</form> <xpln lang="en">that separateth the false 
+from the true, the impure from the 
+pure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stanner(n)">Stannar,</form> <xpln lang="en">is the mother of mettalls, a 
+secret fume of which mettals <emend err="aremade">are made</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sylph(n)">Sylphs,</form> <xpln lang="en">are pigmies or dwarfs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sylvester(n)">Sylvesters,</form> <xpln lang="en">airy men, airy spirits li&shy;
+ving in woods and groves.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="siren(n)">Syrenes,</form> <xpln lang="en">sea-monsters, bred of the 
+Nymphs.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="69">
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="talcum(n)">Talcum,</form> <xpln lang="en">a bright, clear matter, of 
+which oyle of Talk is made, there are 
+four sorts of Talck of which see <term lang="la">Lex. 
+Chym.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Trarames,</form> <xpln lang="en">the actions of the spirits
+and ghosts of dead men, heard but not 
+seen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Tronum,</form> <xpln lang="en">c&aelig;lestiall dew made of the 
+aire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Truphat,</form> <xpln lang="en">the occult vertue of mine&shy;
+ralls, preferring every mettall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Tura.</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Turban,</form> <xpln lang="en">an innumerable multitude 
+of Stars in the firmament of heaven; 
+also a presage from all things which 
+the fourfold inferiour world of the 
+elements containeth.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="umbratile(n)">Umbratiles,</form> <xpln lang="en">bodies once rotted and 
+after made visible againe by the Stars
+by a magicall vertue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Unden&aelig;,</form> <xpln lang="en">airy men and earthly spi&shy;
+rits.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="70">
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="un">Woarchadumie.</form> <xpln lang="en"></xpln>
+<lemenote>
+See "in the true Cabala, Magick and Woarchadumie, there are laid up far better Treasures" (Crollius, "Admonitory Preface," p. 9). Cf. Johannes Pantheus's <i>Voarchadumia</i> (Venice, 1530).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><alpha<>Z</alpha>
+<wordentry type="h"><form lang="un">Zonnets,</form> <xpln lang="en">fantasticall bodies of the 
+Gnomes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="un">Zundell,</form> <xpln lang="en">fomes, in English, tinder.</xpln></wordentry>
+</wordgroup1>
+
+<closing>FINIS.</closing>
+</section>
+</page>
+</leme>
+      
+      

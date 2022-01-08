@@ -1,0 +1,77 @@
+<leme no="692">
+<page sig="ee7v">
+<section object="New Testament">
+<heading>
+&para; These thinges haue I added to fill 
+vp the leffe with all.
+</heading>
+
+<wordgroup1 type="t">
+&para; <wordentry type="h"><form lang="la">Infernus <term lang="en">and</term> gehenna</form> <xpln lang="en" lexeme="hell(n)" lexeme="grave(n)" lexeme="cave(n)" lexeme="sepulchre(n)">differ moche in sig<emend err="">&shy;</emend>
+nificacion / though we have none other inter&shy;
+pretacion for ether of them / then this Engly<emend err="">&shy;</emend>
+she worde / hell. For <term lang="la">gehenna</term> signifieth a pla<emend err="">&shy;</emend>
+ce of punyshement: but <term lang="la">infernus</term> is taken for 
+any maner of place beneth in <expan type="y+e">the</expan> erth / as a gra&shy;
+ve sepulchre or cave.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hell(n)">Hell:</form> <xpln lang="en" lexeme="Hennon(pn)">it is called in Hebrue the valeye of 
+Hennon. A place by Ierusalem / where they 
+burnt their chyldren in fyer vnto the ydole 
+Moloch / &amp; is vsurped &amp; taken now for a pla&shy;
+ce where the wycked and vngodlye shalbe to&shy;
+rmented both soule and bodye / after the gene&shy;
+rall iudgement.</xpln>
+<note>math. v. </note></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="wrath of God(n)">Geue Rowme to <expan type="y+e">the</expan> wrath of God.</form> <xpln lang="en" lexeme="vengeance(n)">Rom. xii
+wrath is there taken for vengeaunce. And the 
+meaninge is: let God advenge / ether by him
+selfe or by the officers that beare his rowme.</xpln>
+<note>rom. xxii</note></wordentry>
+ 
+<wordentry type="h"><form lang="en" lexeme="tarry and abide(v)">There tarye &amp; abyde tyll ye go oute.</form> <xpln lang="en">Yt is 
+in Marke the .vi. Wheresoever ye enter in 
+to an house / there abyde till ye go oute th<expan type="e+_">en</expan>ce. 
+And Luke .ix. it is / into what soever housse ye 
+enter / ther tarye / and go not oute thence: that 
+is to saye / whosoever receaveth you / there
+</page>
+
+<page sig="ee8r">
+abyde as longe as you are in the citie or tou&shy;
+ne / and go not shamefully a beggynge from 
+housse to housse as freers do.</xpln>
+<note>mat. x.</note></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dust(n)">Dust:</form> <xpln lang="en">shake of the dust of youre fete. Mat&shy;
+thew. x. Why are they c<expan type="o+_">om</expan>maunded to shake 
+of the dust? For a wytnes sayth Luke. That 
+that dede maye testifie agaynst them in the 
+daye of iudgement / that the doctrine of salva<emend err="">&shy;</emend>
+cion was offered them / but they wolde not re&shy;
+ceave it. Ye se also that soche gestures and ce<emend err="">&shy;</emend>
+remonies haue greater power with them / then 
+have bare wordes onlye / to move the harte &amp; 
+to stere vp fayth / as do the layenge on of han<emend err="">&shy;</emend>
+des and anoyntinge with oyle. &amp;c.</xpln>
+<note>mat. x.</note></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hypocrite(n)">Ypocrytes /</form> <xpln lang="en">can ye decerne the face of hea&shy;
+ven and not decerne the signe of the tymes? 
+That is to saye: they coulde iudge by the sig<emend err="">&shy;</emend>
+nes of the skye what wether shuld folowe: 
+but coulde not knowe Christ by the signes of 
+the scripture. And yet other signe myght not 
+be geven them.</xpln>
+<note>math. xvi</note></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liar(n)">He that sayth he knoweth Christ and ke&shy;
+peth not his commaundem<expan type="e+_">en</expan>tes / ys a lyar.</form> <xpln lang="en" lexeme="believe(v)">To 
+knowe Christ is to beleve in Christ. Ergo he 
+that kepeth not the commaundementes / be&shy;
+leveth not in Christ.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

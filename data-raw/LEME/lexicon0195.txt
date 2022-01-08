@@ -1,0 +1,374 @@
+
+
+<leme no="195">
+<page sig="aa1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 8 5 9 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Artillery Definitions">
+<heading>
+To the fauourable Studious Ingenious Reader
+touching these Diffinitions and Theoremes, concerning the newe
+Science of great Artillerie.</heading>
+
+THe Auncient Philosophers and Mathematicians that were either
+the first Founders or amplifiers of any Science with newe and
+rare Inuentions, were euer enforced at the first to vse manye 
+newe and vnaccustomed names to distinguish and breefely to
+expresse such seuerall subiects as the Methodes of their dis&#173;
+courses did occasion them to handell. Let no man therefore 
+marueil, if my selfe being now to Intreate of so newe and rare
+a Science as this of great Artillerie bee also enforced to vse
+sundrie strange tearmes, not vnderstande perhaps of the verye Artificers themselues
+that most Manedge that kinde of Engine. For albeit in all such vsual actions as Can&#173;
+noniers commonly practize, they haue wordes good inough to expresse their owne
+meanings. (And therein I vse also the same, except I finde them verye improper or
+misaplied) yet in the remote and hidden mysteries of Randonnes and of the seuerall
+Proportions of the mettaline Bodies and Soules or Cylinders of all seueral Peeces
+and of the strange varietie of the Circuites of all Bullets in the Ayre, by reason of the
+repugnance or variance of the violent and natural motions: In these Mysteries I say
+scarsly thought on, and farre beyond the compasse of ordinary Cannoniers without
+exquisite knowledge in the Mathematicall Sciences to intermeddle withall. I finde
+not anye wordes in vse that can serue my purpose, and haue therefore chosen such as
+in my iudgement are most proper and effectual, and to take awaye all obscuritye, 
+haue set downe euery of their Diffinitions that are not in my Pantometria, alreadye
+sufficiently explaned: which Booke together with my Stratioticos, amplyfied with
+new Additions, I haue new published as Pathes to leade y ingenious Countrimen
+to the vnderstanding also of this newe Science, when I shall publish the same in her
+best perfection. And in the meane time as many yeares sithence I propounded pub&#173;
+likely sundry Questions concerning this facultie, to stirre vp bothe Theorical and
+Practical spirites of all sortes more profoundly to searche the hidden secrets of this
+Arte. So haue I nowe thougtht good to Imprint also these halfe hundered Theoremes,
+resoluing the most part of all those my former Propositions, wherein I must neuer&#173;
+thelesse admonish the reader that I haue enterlaced a verie fewe that are not in the
+seuere examination of Geometrical Demonstration perfectly exact, albeit they ap&#173;
+proche so nighe as ordinarie experiments will hardly discouer the difference, which
+I haue of purpose doone, the rather to animate Mathematical Practisioners by tri&#173;
+all to finde them out, and thereby perhaps also to discouer other more rare Secrets
+then I haue hitherto thought vpon. For by experience my selfe haue founde manye
+rare Mysteries in that Science, which I should neuer once haue amused on, if suche
+Scales and Theorikes (as my Father by his long painefull chargeable experiences in
+great Ordinance ioyned with his Mathematicall Science first inuented) had beene
+reduced to their accomplished perfection. And yet without those first principles
+left mee I must truely confesse I might haue spent the greatest part of my life in
+meere obscuritie, albeit I had by Office or otherwise enioyed the Manedging
+
+
+
+</page>
+
+<page sig="aa1v">
+of all sorts of great Artillerie at my owne pleasure charge free. The burden where
+no doubte hath beene the cheefest cause that so many rare Mathematicians as Tarta&#173;
+lea the Italian and diuers others of these late ages in Europe haue mistaken so much,
+and performed so little toward the accomplishment of that Science. And although
+by publishing the same my Treatize of Martiall Pyrotechnie and great Artillery in
+the Latin toong, I should I knowe greatlye amplifie myne owne Fame, and the admi&#173;
+ration of such rare Mathematicians as at this daye liue in seuerall Nations of Chri&#173;
+stendome, from whome I haue for farre inferior Inuentions Imprinted in my Trea&#173;
+tize, Intituled <term lang="la">Ala seu scala Mathematica</term>, already receiued no small applause. Yet if
+I publish the same at all, I doe constantly resolue to doe it onely in my Natiue Lan&#173;
+guage: Aswell to make the benefite thereof the more priuate to my Countreymen,
+as also to make thereby other Nations to affect as much our Language as my selfe
+haue desired to learne the Highe Dutche: for the workes onely of two Famous men
+that wrote their Bookes in that toong, which cannot possiblye by anye other that
+haue not the same Spirites and perfection that was in the verie Authors be Transla&#173;
+ted: as appeareth euidently by diuerse Treatizes vtterlye peruerted by the mista&#173;
+kings and misconceauings of the Translators.
+These <term lang="la">Praeludia</term> therefore of a matter more serious and Important, good Rea&#173;
+der accept in goode parte, so shall I bee animated the more
+speedelye to imparte the rest, which some con&#173;
+trarye effect hath hitherto
+detayned from
+thee.
+
+<heading>
+Certaine Diffinitions, taken out of my thirde
+Booke of Pyrotechnie Militarie and great Artillerie, for
+explanation of the these Theoremes
+ensuing.
+</heading>
+
+<wordgroup1 type="t">
+The first Diffinition.
+<wordentry type="d"> <form lang="en" lexeme="cylinder(n)" lexeme="trunk(n)">FOrasmuch as by the direction of the hollowe Cylinder or Truncke of the
+Peece, the violence of all shot of great Artillerye is not onely directed but
+also increased I call that hollowe Cylinder of the Peece</form> <xpln lang="en" lexeme="soul(n)">her Soule.</xpln></wordentry>
+
+The 2 Diffinition.
+<wordentry type="d"> <form lang="en" lexeme="metalline(a)" lexeme="piece(n)">The Metalline substance of the Peece of what kinde, shape or proportion soeuer</form> <xpln lang="en" lexeme="body(n)">I call the
+Body of the Peece.</xpln></wordentry>
+
+The 3 Diffinition.
+<wordentry type="d"> <form lang="en" lexeme="soul(n)" lexeme="battery(n)" lexeme="circle(n)">This Soule in all principall Peeces of Batterye, is euer a perfect uniforme Cylinder, com&#173;
+prehended with a Circuler columne, and two equall Circles, whereof</form> <xpln lang="en" lexeme="head(n)" lexeme="base(n)">the one I call the Head,
+the other the Base.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="aa2r">
+The fourth Diffinition.
+<wordentry type="d"><form lang="en" lexeme="line(n)">That direct line which by Mathematicall Imagination dooth conioyne the Centers of the
+two circles and is the perfect and true direction of all Shot made out of great Ordinance,</form> <xpln lang="en" lexeme="axis(n)" lexeme="soul(n)">I 
+terme the Axis of that peeces Soule.</xpln></wordentry>
+
+The fift Diffinition.
+<wordentry type="d"><form lang="en" lexeme="powder(n)" lexeme="bullet(n)">Of this soule or hollowe Cylinder one parte is proportionally euer to be limitted for the Poul&#173;
+der and Bullet and that parte</form> <xpln lang="en" lexeme="charged(a)" lexeme="cylinder(n)">I call for distinction sake the charged Cylinder.</xpln></wordentry>
+
+The 6 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="empty(a)" lexeme="soul(n)">The other emptie parte which is more properly called the Soule, because it bothe directeth and
+according to the difference of her proportion encreaseth or deminisheth the violence and force
+of the shotte</form> <xpln lang="en" lexeme="vacant(a)" lexeme="cylinder(n)">I call also the vacant Cylinder.</xpln></wordentry>
+
+The 7 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="conical(a)" lexeme="campanal(a)">But in all such peeces as haue the Chamber for their Poulder either a lesse Cylinder or in
+forme Conicall or Campanall</form> <xpln lang="en">I terme the vacant Cylinder, onely the Soule of the peece, and
+the other her chamber be it Conicall or Campanall or Cylinder.</xpln></wordentry>
+
+The 8 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="stay(n)">Of the peeces body there is one parte of Counterpeyze called of Mathematitians <term lang="la">Centrum
+Grauitatis</term> whereabout there are to all peeces bodyes in their foundings adioyned two stayes
+which</form> <xpln lang="en" lexeme="ear(n)">I call the Peeces Eares.</xpln>
+<lemenote>
+"Eares" in this sense not found in OED.
+</lemenote>
+</wordentry>
+
+The 9 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="touc-hole(n)">That parte of the Peeces body where the touchehole is or ought to be made to geue fire in the
+discharging of all Ordenance,</form> <xpln lang="en" lexeme="coil(n)">I call the Coyle of the peece.</xpln>
+<lemenote>
+"Coyle" appears to antedate earliest OED quotation for this sense ("coil," n.4, 1706).
+</lemenote>
+</wordentry>
+
+The 10 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="head(n)" lexeme="mouth(n)">That parte where the body of the Peece is least neere the Head or Mouth.</form> <xpln lang="en" lexeme="neck(n)" lexeme="coil(n)" lexeme="ear(n)">I call the Necke
+of the peece, and at these three points the Coyle the Eares and Necke, the Bodyes mettalline of
+all peeces are to be measured to knowe whether they holde their proportion of perfection for that
+kinde and purpose they are destinate.</xpln></wordentry>
+
+The 11 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="point-blank(a)">Anye peece is saide to lye Pointe blancke with any marke,</form> <xpln lang="en">when the Axis of her Soule
+directeth perfectly to the very middell or Center of that marke.</xpln></wordentry>
+
+The 12 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="point-blank(n)">And a marke is sayde to lye within Pointe Blancke</form> <xpln lang="en">when the Peece beeing directed with
+her conuenient Bullet and charge is able to reache and strike that marke.</xpln></wordentry>
+
+The 13 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="mark(n)">A marke is said to lye within the mettall of the Peece,</form> <xpln lang="en" lexeme="cornice(n)" lexeme="upmost(a)" lexeme="ring(n)" lexeme="coil(n)">when the Peece beeing directed not by
+the Axis of the Soule, but by the Cornice or upmost ring of her head and Coyle is able to
+reache the marke.</xpln></wordentry>
+
+The 14 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="range(n)">The difference of these two ranges,</form> <xpln lang="en" lexeme="difference(n)" lexeme="level(a)" lexeme="range(n)">I call the difference of the leuell ranges of the Soule and
+Body of any peece.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="aa2v">
+The 15 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="excess(n)" lexeme="semidiameter(n)">The difference of these two measured in the body of the Peece I meane the excesse wherby the
+Semidiameter of the Ringe or Cornice of the Head dooth exceed the Cornice of the Coyle</form> <xpln lang="en" lexeme="anomaly(n)" lexeme="difference(n)" lexeme="cannonier(n)" lexeme="dispart(n)">I call
+the Anomalye or Difference of the Soule and Bodye of all Peeces truly founded, and of com&#173;
+mon Cannoniers is called the Peeces Disparte.</xpln></wordentry>
+
+The 16 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="axis(n)">The Axis of the Bodye of any peece,</form> <xpln lang="en" lexeme="straight(a)" lexeme="line(n)">I terme that straight line which passeth betweene the
+Centers of the two vtmost Circular Cornices at the coyle and Head of the Peece, the which in
+all Peeces truely founded is also the verie same Axis of the Soule.</xpln></wordentry>
+
+The 17 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="parallel(n)" lexeme="angle(n)">If the two Axes differ the Peece is false founded, and then they are either Parallele or
+make an Angle, if they be Parallele their difference</form> <xpln lang="en" lexeme="distance(n)" lexeme="axis(n)">I terme the Distance of the Axes of that
+Peeces Bodye and Soule.</xpln></wordentry>
+
+The 18 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="angle(n)" lexeme="variation(n)" lexeme="altitude(n)" lexeme="latitude(n)">If they bee not Parallele, their Angles of variation are considered two wayes, that is to say
+in Altitude and Latitude, and those Angles accordinglye named</form> <xpln lang="en" lexeme="anomaly(n)" lexeme="angle(n)">the Anomalie Angles of
+Altitude or Latitude of those Peeces.</xpln></wordentry>
+
+The 19 Diffinition.
+<wordentry type="d"><form lang="en">There is in the Axis of euery Peece one onely pointe, wherevpon if the Bodye of the Peece
+should be suspended, she shall hang in a perfect Counterpoyse, and that pointe</form> <xpln lang="en">I call the Center
+of her Grauity or pointe of Counterpoyse.</xpln></wordentry>
+
+The 20 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="perpendicular(n)">If the Peece should be deuided into two partes by a plaine Perpendiculare, cutting the Axis
+in that pointe of Counterpeyze, the section will be circular, and for Distinction shalbe</form> <xpln lang="en" lexeme="counterpoise(n)" lexeme="section(n)">called
+the Counterpeyze Section of that Peece.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+<section type="Pyrotechny Definitions">
+<heading>
+Diffinitions taken out of my fyrst Booke
+of Martiall Pyrotechnye and great
+Artillerie.
+</heading>
+
+Firste.
+
+FOr asmuch as euery Bullet violently throwne out of any peece
+of Ordinance at any Angle of Randon passeth a good distance
+directlye without anye great variation from the right line
+pointed out by the Axis, and then falleth into a Curue Arke,
+and last of all finisheth either in a right line or in a Curue, a&#173;
+proching nighe a right againe.
+
+For Distinction sake.
+
+
+
+</page>
+
+<page sig="aa3r">
+<wordgroup1 type="t">
+The first Diffinition.
+<wordentry type="d"><form lang="en" lexeme="gunner(n)" lexeme="point-blank(a)" lexeme="reach(n)">THe first parte of the violent course of Gunners, commonly termed the peeces pointe blanke
+reache,</form> <xpln lang="en" lexeme="line(n)" lexeme="circuit(n)">I call the Direct Line of the Bullets circuite.</xpln></wordentry>
+
+The 2 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="curve(a)" lexeme="circuit(n)">The second parte beeing a Curue Circuite, beginning at the foresaide declination from the
+Axis, ascending to the highest altitude aboue the Horizon, and ending at a like Altitude to his
+beginning</form> <xpln lang="en" lexeme="middle(a)" lexeme="helical(a)" lexeme="conical(n)" lexeme="arc(n)">I terme for Distinction sake his middell Helicall or Conicall Arke.</xpln>
+<lemenote>
+"Helicall" antedates earliest OED quotation (1613).
+</lemenote>
+</wordentry>
+
+The 3 Diffinition.
+<wordentry type="d"><form lang="en">The rest euen to the Horizontall plaine againe</form> <xpln lang="en" lexeme="declining(a)" lexeme="line(n)">I call his Declining Line</xpln></wordentry>
+
+The 4 Diffinition.
+<wordentry type="d"><form lang="en">The Altitude of any Bullets circuite</form> <xpln lang="en" lexeme="line(n)" lexeme="perpendicular(n)" lexeme="right-angled(a)" lexeme="triangle(n)">I call that line Perpendicular, which by Immaginati&#173;
+on Mathematicall, falleth from the Bullet at his verie highest of his Mount Perpendicularly
+downe to the plaine Horizontall: which line of Altitude coupled together, with the right lines
+from the top and foote, concurring at the center of the peeces circular Base, dooth make a right
+Angled Triangle.</xpln></wordentry>
+
+The 5 Diffinition.
+<wordentry type="d"><form lang="en">The Horizontall line of that Triangle</form> <xpln lang="en" lexeme="base(n)">I call the Base.</xpln></wordentry>
+
+The 6 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="slope(a)(n)">The other sloope line</form> <xpln lang="en" lexeme="hypotenusal(n)">is the line Hypothenusall.</xpln></wordentry>
+
+The 7 Diffinition.
+<wordentry type="d"><form lang="en">The peeces direct line of that circuite which is alwayes aboue the Hypothenusall for di&#173;
+stinction sake,</form> <xpln lang="en" lexeme="diagonal(a)" lexeme="random(n)" lexeme="angle(n)" lexeme="mount(n)">I call the line Diagonall, for that there are seuerall of these Diagonall lines to all
+Angles of Random, and together with the line Horizontall, doe comprehende the Angle of
+Mounte.</xpln></wordentry>
+
+The 8 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="horizontal(a)" lexeme="range(n)">The peeces leuell Horizontall range,</form> <xpln lang="en" lexeme="graze(n)" lexeme="bound(n)" lexeme="carriage(n)">I terme the distance betweene the Peece and the first
+graze or bounde of the Bullet, when the peece at her discharge lyeth leuell vpon her cariadge not
+mounted vpon anye loftie Platforme, but such as lyeth euen with the true Horizontall plaine
+whereon the Bullet must playe.</xpln></wordentry>
+
+The 9 Diffinition.
+<wordentry type="d"><form lang="en">All other Ranges made by the Bullet on any Horizontall plaine, when the Peece is mounted
+at any seuerall Randones,</form> <xpln lang="en" lexeme="horizontal(a)" lexeme="range(n)">I terme the Ranges Horizontall.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="aa3v">
+The 10 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="quadrant(n)">And because euery Peece hath some Grade certaine of the Quadrant wherevnto mounted
+she maketh her vtmost Horizontall Range in such sorte as if yee mounte the Peece higher the
+Bullet shall flye a shorter Distance, and the Horizontall Ranges returne lesse and lesse againe.
+That pointe of vtmost randone Horizontall,</form> <xpln lang="en" lexeme="tropic(a)" lexeme="point(n)" lexeme="range(n)">I terme the Tropike point or grade,</xpln></wordentry>
+
+The 11 Diffinition.
+<wordentry type="d"><form lang="en">And because in Mounting the Peece Higher and Higher aboue the Tropike grade, the
+Ranges growe still shorter and shorter, so that at length yee shall come to that grade which
+shall cause the Bullet to range exactly his first leuell Horizontall Range, that Grade or pointe
+for Distinction sake</form> <xpln lang="en" lexeme="&#198;quorizontal(n)">I call the Grace &#198;quorizontall.</xpln>
+<lemenote>
+"&#198;quorizontall" not found in OED.
+</lemenote>
+</wordentry>
+
+The 12 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="declining(a)" lexeme="plain(n)">A declining plaine</form> <xpln lang="en" lexeme="angle(n)" lexeme="declination(n)">I terme any plaine grounde that lyeth not Leuell with the Horizontal
+plaine but descendeth downeward, making an Acute Angle with the plaine Horizontall and
+that Angle I call the Angle of Declination.</xpln></wordentry>
+
+The 13 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="inclining(a)" lexeme="plain(n)">An Enclining plaine</form> <xpln lang="en" lexeme="angle(n)" lexeme="inclination(n)">I call that which from the Peece ascendeth vp, making likewise an
+Acute Angle with the plaine Horizontall, which Angle I call for Distinction sake the Angle
+of Inclination,</xpln></wordentry>
+
+The 14 Diffinition.
+<wordentry type="d"><form lang="en">And because the Bullet violently throwne out of the Peece by the furie of the Poulder
+hath two motions, the one violent, which endeuoreth to carry the Bullet right out in his Line
+Diagonall, according to the direction of the Peeces Axis from whence the violent motion
+proceedeth, the other Naturall in the Bullet it selfe, which endeuoureth still to carrye the same
+directly downeward by a right line Perpendiculare to the Horizon. For Distinction sake</form> <xpln lang="en" lexeme="violent(a)" lexeme="natural(a)" lexeme="mixed(a)" lexeme="helical(a)" lexeme="circuit(n)">I call
+the first his Diagonall motion Violent, and the second his Perpendicular motion Na&#173;
+turall, and the compounded motion of these two his Mixte helicall Circuite.</xpln></wordentry>
+
+The 15 Diffinition.
+<wordentry type="d"><form lang="en">And as for the discouerye of the strange varietie of the Planets courses in the Heauens,
+Astronomers are enforced to vse sundrie kindes of supposed Circles Excentricall and Concen&#173;
+tricall, with their Epicicles moouing regularly sometimes on their owne Centers, and sometimes
+on Centers of &#198;quation, which they terme that Planets Theorike. So likewise in the discoue&#173;
+ring of the Reciprocall most strange varietie of these Bullets Helicall Circuites in the Ayre,
+making continuall alteration according to the Quantitie and Qualitie of the Angles of Ran&#173;
+don or Angles of Inclination or Declination of the Plaines whereon the Bullets playe, or An&#173;
+gles comprehended betweene the Diagonall violent and Perpendicular naturall motions: Be&#173;
+ing I say likewise enforced to vse portions of Circles, some Concentricall, and some Excentrical,
+some uniformelie deuided on their owne Centers, and some from Centers Equant in more
+strange manner to discouer and finde out these Helicall motions,</form> <xpln lang="en">I doe likewise terme the same
+Theorikes or Scales.</xpln></wordentry>
+
+The 16 Diffinition.
+<wordentry type="d"><form lang="en">And that which serues to discouer the different violence of all Peeces at Pointe blanke,
+
+
+
+</page>
+
+<page sig="aa4r">
+
+howsoeuer Mounted (by me termed the lines direct of the Bullets Circuites, and lines Diago&#173;
+nall)</form> <xpln lang="en" lexeme="theoric(n)" lexeme="line(n)" lexeme="diagonal(a)">I call for Distinction sake the Theorike of lines Diagonall.</xpln></wordentry>
+
+The 17 Diffinition.
+<wordentry type="d"><form lang="en">The other that discouered how high Bullets at all Randons can Mounte possiblye aboue the
+Horizon,</form> <xpln lang="en" lexeme="scale(n)" lexeme="theoric(n)" lexeme="altitude(n)">I terme the Scale or Theorike of Altitudes.</xpln></wordentry>
+
+The 18 Diffinition.
+<wordentry type="d"><form lang="en">The thirde which discouereth the varietie of Ranges, of all Peeces at all degrees of Ran&#173;
+dome,</form> <xpln lang="en" lexeme="theoric(n)" lexeme="scale(n)" lexeme="random(n)">I call the Theorike or Scale of Randons.</xpln></wordentry>
+
+The 19 Diffinition.
+<wordentry type="d"><form lang="en">The fourth and fift which discouereth the varietie and alteration of all ranges, by reason of
+the Inclination or Declination of any markes from the plaine Horizontall of that Platforme 
+where the Peeces playe,</form> <xpln lang="en" lexeme="theoric(n)" lexeme="inclining(a)" lexeme="plain(n)">I call the Theorike of Inclining Plains.</xpln></wordentry>
+
+The 20 Diffinition,
+<wordentry type="d"><form lang="en">The sixth composed of all these, and by conference of all their partes together framing a
+Theorike of perfection, discouering in all plaines Horizontall or varrying for all kinde of Pee&#173;
+ces and Bullets, whatsoeuer their Ranges at all Randones, the Altitude of their Circuites,
+together with their lines Diagonall and Hypothenusall</form> <xpln lang="en" lexeme="theoric(n)" lexeme="general(a)" lexeme="artillery(n)">shall bee named the Theorike of Ar&#173;
+tillery generall.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+
+</page>
+</leme>

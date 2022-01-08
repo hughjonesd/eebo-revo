@@ -1,0 +1,3089 @@
+<leme no="351">
+<set tag="expression" lang="la">
+
+<page sig="200r">
+<wordgroup1 type="a" lang="en" object="a">
+
+<wordentry type="h"><form lexeme="Abigail(pn)"><f type="red">Abigall<f type="black"></form> <xpln>ffathers Ioye <class type="etymlang" lang="he">Hebrew</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Adeline(pn)">Adelyne</form>. <xpln lexeme="noble(a)">Noble, or discending from Noble</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Agatha(pn)">Agatha</form>. <xpln lexeme="good(a)">Good: <class type="etymlang" lang="gk">Greek</class> / Guth. <class type="etymlang" lang="sx">Saxon</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Agnes(pn)">Agnes</form>. <xpln lexeme="chaste(a)">Chaste</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Albert(pn)">Albert</form>, <xpln lexeme="Albright(pn)">Albright. <class type="etymlang" lang="gr">Ger<expan type="m+_:">man</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aldred(pn)">Aldred</form>. <xpln>All reverent ffeare / <class type="etymlang" lang="sx">Sax.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Alun(pn)">Alunn</form> <xpln lexeme="hound(n)">an hound / in the <class type="etymlang" lang="sl">Sclauoni<expan type="a+_">an</expan></class> tongue</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Alexander(pn)">Alexander</form>. <xpln lexeme="succourman(n)">Soccourman.  <class type="etymlang" lang="gk">Gr</class> / alij. Conquero<expan type="+r">ur</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aletheia(pn)">Aletheia</form>. <xpln lexeme="verity(n)" lexeme="truth(n)">verytie, or truthe (<class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Alexria(pn)">Alexria</form> <xpln lexeme="defendress(n)" lexeme="noble(a)">defendres, Noble, or 
+discendinge from Noble }<class type="etymlang" lang="fr">Frenche</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Alice(pn)">Alice</form>, <xpln lexeme="noble(a)">vel <xref>Adelize</xref>, Noble</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Adelize(pn)">Adelize</form>, <xpln lexeme="noble(a)">vel. <xref target="Alice">Alice</xref>, the same / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Alphone(pn)">Alphone</form>. <xpln>the .1. kinge of Spayne discended
+from the Gothes Anno. 740 /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Alwin(pn)">Alwyne</form>, <xpln lexeme="all-victorious(a)">All victoryous, or wynnynge all.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aldrian(pn)">Aldryan</form>. <xpln lexeme="gross(a)" lexeme="wealthy(a)">Grosse or welthie</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amata(pn)">Amata</form>. <xpln lexeme="beloved(a)">belouid. <class type="etymlang" lang="fr">frenche</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amy(pn)">Amye</form> <xpln lexeme="beloved(a)"><xref target="Amata">the same </xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amias(pn)">Amyas</form> <xpln lexeme="beloved(a)">the mans name / beloued</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amicicia(pn)">Amicicia</form>  <xpln lexeme="beloved(a)">in old deed<expan type="es">es</expan>. beloued</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amandus(pn)">Amandus</form>, <xpln lexeme="win-love(n)">wynlove, or to bee belouid /
+vide <xref target="Leofwyn">Leofin</xref>. &amp; <xref>Erasmus</xref>. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ambrose(pn)">Ambrose</form>, <xpln lexeme="divine(a)" lexeme="immortal(a)">devyne, Im<expan type="`">m</expan><f type="black">ortall. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Abram(pn)">Abram</form>  <xpln>an highe ffather. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Abraham(pn)">Abraham</form>. <xpln>a ffather of a great multitud, <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Absalom(pn)">Abshalome</form>, <xpln>the fathers peace. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Abel(pn)">Abell</form>  <xpln lexeme="mourning(n)" lexeme="Abel(pn)" lexeme="vanity(n)">mourninge / but habell is vanyty. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Adam(pn)">Adam</form>. <xpln lexeme="man(n)" lexeme="earthly(a)">Man, or earthely. <class type="etymlang" lang="he">Hebr</class> or livinge
+/ breathe /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Agar(pn)">Agar</form>. <xpln lexeme="stranger(n)">a Stranger. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ammon(pn)">Ammon</form>. <xpln lexeme="people(n)">a people, <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amon(pn)">Amon</form>, <xpln lexeme="faithful(a)">faithfull. <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amos(pn)">Amos</form>, <xpln lexeme="burden(n)">A burden</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amoz(pn)">Amoz</form>. <xpln lexeme="strong(a)">Stronge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Andreas(pn)">Andreas</form>. <xpln lexeme="manly(a)">Manly</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ancus(pn)">Ancus</form>, <xpln>Crooked arme</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Anchoret(pn)">Anchoret</form>. <xpln>Solitary liver, or that retireth
+him self, from the world to serve God /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Anna(pn)">Anna</form>, <xpln lexeme="gracious(a)" lexeme="merciful(a)">Gracyous or mercyfull. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Anastasia(pn)">Anastasia</form>, <xpln lexeme="Eustace(pn)">vel. <xref target="Eustacius">Eustace</xref> / in remembrance
+of Christ<expan type="es">es</expan> resurrecc<expan type="o+_">io</expan>n</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Andrew(pn)">Andrewe</form>, <xpln lexeme="manly(a)">Manly</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Amery(pn)">Amery</form> <xpln>allwayes ritche, able &amp; powerfull.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Angel(pn)">Angell</form>. <xpln lexeme="messenger(n)">Messenger. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Anselm(pn)">Anselme</form>, <xpln>defend of aucthoryty, <class type="etymlang" lang="gr">Germ<expan type="`">an</expan>.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Anthony(pn)">Anthony </form><xpln lexeme="anthose(n)" lexeme="flower(n)" lexeme="flourishing(n)">of Anthose, a flower: <class type="etymlang" lang="gk">Gr.</class>
+therefore florishing. vide <xref target="fflorence">floreus</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Anton(pn)">Anton</form>, <xpln>a companyon to hercules /</xpln>
+</wordentry>
+</page>
+
+<page sig="200v">
+<wordentry type="h"><form lexeme="Arbalaster(pn)">Arbalaster</form>. <xpln lexeme="archer(n)">Id est Archer.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Apollo(pn)">Appollo</form>, <xpln lexeme="destroyer(n)">a Distroyer. <class type="etymlang" lang="he">Hebr.</class> the 
+name also of an Idoll. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Arbel(pn)">Arbell</form>. <xpln>God hathe avenged.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Archelaus(pn)">Archelaus</form>. <xpln>prince of the People</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Asu(pn)">Asu</form> <xpln lexeme="physician(n)">a phisic<expan type="o+_">io</expan>n</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ash(pn)">Ashe</form>. <xpln><term lang="la">de Fracimus</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aron(pn)">Aron</form> <xpln>Mountayne of fortitude
+vide <xref target="Dunstan">Dunstan</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Arnold(pn)">Arnold</form>. <xpln lexeme="honest(a)">honest. / <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Arletta(pn)">Arletta</form> / <xpln lexeme="harlot(n)">Harlott</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Arthur(pn)">Arthure</form> <xpln lexeme="Arctus(pn)">derived from Arctus.
+the fixed Starre /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Arbella(pn)">Arbella</form>. <xpln lexeme="Arbell(pn)">vt <xref target="Arbell">Arbell</xref>. antea. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Asteley(pn)">Asteley</form>. <xpln lexeme="Estley(pn)">olim Estley</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Astowe(pn)">Astowe</form> <xpln>Lutinest a sculphus.  id est 
+Speedie helpe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Askwithe(pn)" lexeme="Askouthe(pn)">Askwithe  
+Askouthe</form> } <xpln><xref target="Astowe">the same</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Arondel(pn)">Arondell</form>. <xpln lexeme="swallow(pn)">Swallowe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aurelius(pn)">Aurelius</form>. <xpln lexeme="Gilbert(pn)" lexeme="gold-bright(a)" lexeme="pledge(n)">vide <xref target="Gilbert">Gilbert</xref>, Goldbright
+a pledge.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aureliamus(pn)">Aureliamus</form> <xpln lexeme="gold-bright(a)" lexeme="pledge(n)"><xref target="Aurelius">the same</xref> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Augustine(pn)">Augustine</form>, <xpln lexeme="increasing(a)" lexeme="majestical(a)">encreasinge or Maiesticall</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Awbrey(pn)">Awbrey</form>. <xpln>hope of roiall power / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aulmus(pn)">Aulm<expan type="9">us</expan></form>. <xpln>Nourished of the God<expan type="es">es</expan>. / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Awdrey(pn)">Awdrey</form>. <xpln lexeme="Etheldred(pn)">Noble adwyse vide
+<xref target="Ethelred">Etheldred</xref>. <class type="etymlang" lang="sx">Sax.</class> the same / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Aurelia(pn)">Aurelia</form>. <xpln>prettie little golden dame, <class type="etymlang" lang="la">latine</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Avice(pn)">Avice</form> <xpln lexeme="Hanisia(pn)">vel Hanisia, Ladies defence / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Helivisia(pn)">Helivisia</form>, <xpln><xref target="Avice">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Azanias(pn)">Azanias</form>. <xpln>harkeninge the lord. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Azariah(pn)">Azariah</form>. <xpln>helpe of the lord </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Astiages(pn)">Astiages</form>. <xpln>Governo<expan type="+r">ur</expan>, of the Cyttie / </xpln>
+</wordentry>
+</wordgroup1>
+</page>
+
+<page sig="201r">
+<wordgroup1 type="a" lang="en" object="b">
+
+<wordentry type="h"><form lexeme="Bache(pn)"><f type="red">Bache<f type="black"></form> <xpln lexeme="river(n)" lexeme="Becke(pn)">A Ryver. vide <f type="red"><xref target="Becke">Becke</xref>.<f type="black"> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Baldwin(pn)">Baldwyne</form> <xpln>speedy Conquero<expan type="+r">ur</expan>, victoryous
+power, alij. Bold and confident alij
+powerful in victorye / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bagot(pn)">Bagot</form>, <xpln lexeme="stay(n)" lexeme="staff, walking(n)">a Staye or walkingestaff vide <xref>Blundell</xref>. &amp; <xref target="Russell">Russell</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Balthazar(pn)">Balthazar</form>. <xpln  lexeme="treasurer(n)">Sercher of Measure ^<correction type="i">alij treasur<expan type="+u">ur</expan>.</correction> <class type="etymlang" lang="he">Hebr.</class>
+</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Banester(pn)">Banester</form>, <xpln lexeme="Bains, Master of the(n)" lexeme="Stews, Master of the(n)">Id est Balneator, Master of
+the Baynes, or Stewes. / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barbarossa(pn)">Barbarossa</form> <xpln lexeme="redbeard(a)">red<emend err="bread">beard</emend>. <class type="etymlang" lang="it">Italian</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barbara(pn)">Barbara</form>. <xpln lexeme="strange(a)">Strange, or of an unknowen
+countrey. Sainct Barbara martired
+by Maximilian the Tirant. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barrett(pn)">Barrett</form> <xpln lexeme="subtle(a)">Subtill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bardolph(pn)">Bardolphe</form>. <xpln>ffaire helpe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barrabas(pn)">Barrabas</form> <xpln>Sonne of <correction type="i" deleted="Comfort"><f type="+">confusion<f type="black"></correction> <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barnaby(pn)">Barnaby</form> <xpln><xref target="Barnabus">also. </xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bartholomew(pn)">Barthilmewe</form>. <xpln>his sonne <expan type="y+t">that</expan> maks the waters
+to mount </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Baal(pn)">Baal</form>, <xpln lexeme="lord(n)">Lord. or Lordes, the name of the
+Idole of the Sidonyans, or a generall
+name to all Idoles, becaus they were
+as the Lordes, and owno<expan type="rs">urs</expan> of all that
+worshipped them / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barnabus(pn)">Barnabus</form> <xpln>Sonne of Consola<expan type="ion+_">tion</expan> <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Baruche(pn)">Baruche</form>. <xpln lexeme="blessed(a)">Blessid <class type="etymlang" lang="he">Hebr.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Barnard(pn)">Barnarde</form>. <xpln lexeme="child(n)">Childishe disposic<expan type="on+_">ion</expan>
+Idem, Id est bona Nardus, hard child
+Barne is a child / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bassus(pn)">Bassus</form>. <xpln lexeme="fat(a)">ffatte</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Basset(pn)">Bassett</form> <xpln lexeme="fat(a)"><xref target="Bassus">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bawd(pn)">Bawde</form>. <xpln lexeme="pleasant(a)">Pleasant</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bazil(pn)">Bazill</form>. <xpln lexeme="royal(a)" lexeme="kingly(a)" lexeme="princely(a)">Royall. kingelie, or Pryncely. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beatrice(pn)" lexeme="Beatrix(pn)">Beatryce or Beatrix</form>. <xpln lexeme="blessed(a)">Blessed / <class type="etymlang" lang="la">Latina</class> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beaupres(pn)">Beaupres</form> <xpln>id est, <term lang="la">de Bello prato</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beamond(pn)">Beamonde</form>, <xpln><term lang="la">de Bello Monte</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beauchamp(pn)">Beauchampe</form>, <xpln><term lang="la">de Bello Campo</term> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beavis(pn)">Beavys</form>. <xpln lexeme="beauty(n)">Id est <term>Bellovesus</term>, A Celti<expan type="q3">que</expan>
+kinge / Beautye</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beam(pn)">Beame</form>. <xpln>A. <emend err="trouck">tronck</emend>, or Stock of a tree. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bearn(pn)">Bearne</form>. <xpln>A. wood </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Brinamine(pn)">Brinamyne</form>, <xpln>Sonne of the right hand who.
+was first called Benoni. the Sonne 
+of Sorrowe / also <term lang="la">filius Dierum</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beckvet(pn)">Beckvet</form>, <xpln>Litle sharpe Nose.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beck(pn)">Becke</form> <xpln lexeme="river(n)">a  River. vide <xref target="Bache">Bache</xref> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bede(pn)">Bede</form> <xpln>a devoute man, <class type="etymlang" lang="sx">Saxon<expan type="+r">er</expan></class>. Bedowe d.uve
+from Bede.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bell(pn)">Bell</form>. <xpln lexeme="fair(n)">ffayre</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bellot(pn)">Bellott</form>. <xpln>proper.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Begyn(pn)">Begyn</form> <xpln lexeme="building(n)">a Buildinge </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bellewe(pn)">Bellewe</form> <xpln><term lang="la">de Bella Aqua</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bennet(pn)">Bennet</form>. <xpln>Id est <xref target="Benedictus">Benedictus</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Benedictus(pn)">Benedictus</form> <xpln lexeme="blessed(a)">Blessied.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Benson(pn)">Benson</form> <xpln>deryved from Benson / </xpln>
+</wordentry>
+</page>
+
+<page sig="201v">
+<wordentry type="h"><form lexeme="Bent(pn)">Bent</form>, <xpln>A Russhie place.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bentley(pn)">Bentley</form>. <xpln>A Russhie plotte.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Beningna(pn)">Beningna</form>, <xpln lexeme="mild(a)" lexeme="gentle(a)">mylde, gentle. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Berry(pn)">Berrye</form>, <xpln lexeme="court(n)">a Courte</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bertha(pn)">Bertha</form>. <xpln lexeme="bright(a)" lexeme="famous(a)">Bright, or famous. <class type="etymlang" lang="gr">Ger.</class> vide
+<xref target="Albert">Albert</xref> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bengen(pn)">Bengen</form>. <xpln>olim Berniger </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Berta(pn)">Berta</form>. <xpln>vt <xref target="Clara">Clara</xref>. &amp; <xref target="Claricia">Claricia</xref>, <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class> bright / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Betts(pn)">Betts</form>. <xpln>Id est Beatus</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bertwin(pn)">Bertwyn</form> <xpln>famous victo<expan type="+r">ur</expan> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bewfoye(pn)">Bewfoye</form>. <xpln><term>de bella. Iago.</term> Id est.
+ffayre Beeche</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bigod(pn)">Bigod</form>, <xpln lexeme="Norman(n)">a. Norman. or Supersticious
+becaus at euery word they vsed
+to. Sweare By. god.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bilhagh(pn)">Bilhagh</form>, <xpln lexeme="fading(a)" lexeme="old(a)">old or fadinge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bye(pn)">Bye</form>, <xpln>an Habita<expan type="cou+~">cioun</expan> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bisset(pn)">Bissett</form>, <xpln lexeme="dove(n)">a dove</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blanche(pn)">Blanche</form>. <xpln lexeme="white(a)" lexeme="fair(a)">white or faire. <class type="etymlang" lang="fr">ffr.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blanc(pn)">Blanc</form>. <xpln><xref target="Blanche">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blande(pn)">Blande</form>. <xpln>ffaire spoken / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blaze(pn)">Blaze</form>. <xpln>buildinge fourth. <correction type="i" deleted="Ger."><f type="+"><class type="etymlang" lang="gk">Gr.</class><f type="black"></correction></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blithe(pn)">Blithe</form>. <xpln lexeme="merry(a)">Id est merry</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blondel(pn)">Blondell</form>, <xpln>fflaxenhayre</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blundel(pn)">Blundell</form> <xpln lexeme="stay(n)" lexeme="staff, walking(n)">a Staie or walking Staff
+vide <xref target="Bagot">Bagott</xref>. &amp; <xref target="Russell">Russell</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Blount(pn)">Blount</form>. <xpln>flanne: Id est yellowe, or flaxenhayre </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bois(pn)">Boyse</form> <xpln lexeme="wood(n)">a wood. <class type="etymlang" lang="fr">fr.</class> <term lang="la">de Bosco</term>. <class type="etymlang" lang="la">Lat.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bonaventure(pn)">Bonaventure</form>. <xpln>Good adventure</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bona(pn)">Bona</form>. <xpln lexeme="good(a)">Good. /  </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bold(pn)">Bold</form>. <xpln lexeme="ferm(n)">derived of Boll. a ferme. in <class type="etymlang" lang="du">dutche</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bolingsham(pn)">Bolingsham</form>. <xpln lexeme="baker(n)">Id est. Baker. or Baxster. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Boniface(pn)">Bonyface</form>, <xpln>welldoe, Good, or Swerteface. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bosve(pn)">Bosve</form>. <xpln lexeme="crook-back(a)">Id est Crookeback</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Boke(pn)">Boke</form>. <xpln lexeme="beech(n)">Id est Beeche</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Buck(pn)">Bucke</form>, <xpln><xref target="Boke">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Botle(pn)">Botle</form>, <xpln>a howse in the Northe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Botolph(pn)">Botolphe</form>. <xpln lexeme="helpship(n)">helpshipp. <class type="etymlang" lang="sx">Sax.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bovil(pn)">Bovill</form>. <xpln><term lang="la">de Bovis villa</term> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Boude(pn)">Boude</form>. <xpln lexeme="husband(n)">Id est <term lang="la">pater familias</term>, or husbande </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bourn(pn)">Bourne</form>, <xpln lexeme="river(n)">a Ryver.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bourcheire(pn)">Bourcheire</form>, <xpln>de Burgoch&uacute;ro </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Bowes(pn)">Bowes</form>. <xpln>Id est <term lang="la">de Aecubus</term> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Braybrook(pn)">Braybrook</form> <xpln>vide <xref target="Megges">Megge</xref>. who changed
+his name by matching <expan type="w+th">with</expan> Braybrook.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Brewyrre(pn)">Brewy<expan type="+r">er</expan>re</form>. <xpln>In healthe / </xpln>
+</wordentry>
+</page>
+
+<page sig="202r">
+<wordentry type="h"><form lexeme="Bride(pn)">Bride</form>, <xpln lexeme="Bridget(pn)">or Bridgett. <class type="etymlang" lang="ir">Irishe</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Briall(pn)">Bryall</form>. <xpln>Shrillvoice / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Brighthelm(pn)">Brighthelme</form>, <xpln>ffaire defence.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Edhelm(pn)">Edhelme</form> <xpln><xref target="Brighthelme">the same</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Brook(pn)">Brooke</form>. <xpln>Torrentius, <class type="etymlang" lang="la">Lat.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Brun(pn)">Brune</form>, <xpln lexeme="river(n)">vel. <xref target="Bourne">Bourne</xref> a River / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Butler(pn)">Butler</form>. <xpln>Cmes Ormond. so called by
+beinge Butler of Irelande.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Brand(pn)" lexeme="Brend(pn)">Brand  or Brend</form>. <xpln lexeme="stirring up(n)">a stirringe upp.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="c">
+
+<wordentry type="h"><form lexeme="Caleb(pn)"><f type="red">Caleb<f type="black"></form>. <xpln lexeme="hearty(a)">hartye. <class type="etymlang" lang="he">Hebr.</class> As a harte </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Caiaphas(pn)">Caiphas</form> <xpln>A. Srcher. <class type="etymlang" lang="he">Hebr.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Calvus(pn)">Calvus</form> <xpln lexeme="baldpate(n)">Baldpate</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Calisthenes(pn)">Calisthenes</form> <xpln>beautyfull and stronge <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cadwallader(pn)">Cadwallader</form>. <xpln>warlik name, deduced
+from Cad: <emend err="I">Id</emend> est battle. <class type="etymlang" lang="br">britt.</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Candish(pn)">Candishe</form>, <xpln>olim Cavendishe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cantelow(pn)">Cantelowe</form>. <xpln><term>de Cantelupo</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Capell(pn)">Capell</form>. <xpln><term>de Capella</term>. Chappell idem</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Capet(pn)">Capett</form> <xpln>the name of a kinge of ffrance so
+called for that beinge yonge he vsed to
+snatche of his fellowes cuppes/</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Capito(pn)">Capito</form>. <xpln lexeme="jobbernowl(n)">Iobernolle.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Caradock(pn)">Caradocke</form> <xpln>dearelie belouid. <class type="etymlang" lang="br">Britt</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Carre(pn)">Carre</form> <xpln>a fortified place or Cyttye.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cassandra(pn)">Cassandra</form>. <xpln>enflaminge men <expan type="w+th">with</expan> love
+<class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Catherine(pn)">Catherine</form> <xpln>pure, and chaste / <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Calinicus(pn)">Calinicus</form>. <xpln>Faire victor /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Caesar(pn)">Cesar</form>. / <xpln>In the <class type="etymlang" lang="mo">moores language</class> is killinge
+of an Eliphant, or that he that he was cutt out
+of his mothers wombe, or borne withe
+haire or graie eyes / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cesnis(pn)">Cesnis</form> <xpln>Catts eyes / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Chamond(pn)">Chamond</form>, <xpln><term lang="la">de Calvo monte</term>, Id est baldmount</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Champayne(pn)">Champayne</form> <xpln><term lang="la">de Campania</term> / </xpln>
+</wordentry>
+</page>
+
+<page sig="202v">
+<wordentry type="h"><form lexeme="Champernon(pn)">Champernon</form> <xpln><term>de Campo dir<doubtful>un</doubtful>lphi </term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Champelour(pn)">Champelo<expan type="+r">ur</expan></form> <xpln><term lang="la">de Campo florido</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Chaworth(pn)">Chaworthe</form>. <xpln><term>de Cadurcis</term> olim
+Casors</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Charles(pn)">Charles</form>. <xpln>from Carl. Id est stronge
+stoute, couragious &amp; vali<expan type="a+_">an</expan>t. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cheney(pn)">Cheney</form> <xpln lexeme="oak(n)"><term>de Casineto</term> &amp; <term>de Querceto</term>
+Id est Chesney an oke / grove of oks.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Chester(pn)">Chester</form>. <xpln><term lang="la">Castrum</term>, A Cittie or walled
+place, Cave, or denne /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Chilo(pn)">Chilo</form>. <xpln lexeme="flap-lips(n)">fflapplippes /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cecily(pn)" lexeme="Cecilia(pn)">Ciceley a. Cecilia</form> <xpln lexeme="gray-eyed(a)">Gray eyed. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cilo(pn)">Cilo</form>. <xpln>pettie longe pate /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cicero(pn)">Cicero</form>. <xpln lexeme="chickpea(n)">Chichepease.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ciprian(pn)">Cipryan</form> <xpln>soe named of the Ile
+Ciprus where venus was
+especiallie honored /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Chaucer(pn)">Chawcer</form>. <xpln lexeme="hosier(n)">Id est hosyer /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cirus(pn)">Cirus</form> <xpln>in the <class type="etymlang" lang="pe">persian</class> longe A dogge / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Clare(pn)">Clare</form>. <xpln lexeme="bright(a)">Bright. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Clara(pn)" lexeme="Claricia(pn)">Clara. &amp; Claricia</form> <xpln><xref target="Clare">the same</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Clement(pn)">Clement</form>, <xpln>meeke, myld &amp; gentle / <class type="etymlang" lang="la">la<expan type="t'">tin</expan></class>. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Clere(pn)">Clere</form>. <xpln lexeme="shire(n)">Id est Shire, vide <xref target="Shire">Shere</xref> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Clough(pn)">Cloughe</form> <xpln>a deepe discent betwene hills </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cob(pn)">Cob</form>. <xpln>a forced harborowe for Shippes /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cocles(pn)">Cocles</form>. <xpln>one eye.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Coign(pn)">Coigne</form>. <xpln lexeme="valiant(a)">valiant</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Comb(pn)">Combe</form>. <xpln>a valley bet. 2. hills.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Conyers(pn)">Conyers</form>. <xpln lexeme="quince(n)">Id est Qwynce /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Constable(pn)">Constable</form>. <xpln>from a Constable of a castle / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Constantine(pn)">Constantyne</form>, <xpln>fast and firme. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Constance(pn)">Constance</form> <xpln><xref lexeme="Constantine">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Conrad(pn)">Conrade</form> <xpln>Able councell</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cope(pn)">Cope</form> <xpln>the lopps of an hill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Corbel(pn)">Corbel</form> <xpln lexeme="raven(n)">a Raven</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cornelius(pn)">Cornelius</form> <xpln lexeme="horn(n)">a Cor<doubtful type="nn">nn</doubtful> / a horne /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cove(pn)">Cove</form> <xpln>a smalle creek.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Covert(pn)">Covert</form>. <xpln>a shadowed place.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cotgrave(pn)">Cotgrave</form> <xpln>vide <source>le Remaynes. 123</source>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Crevecure(pn)">Crevecure</form> <xpln><term lang="la">de Crepito Corde</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cneus(pn)"><emend err="Cueus">Cneus</emend></form>. <xpln>that had a wart /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cowlaray(pn)">Cowlaray</form>. <xpln lexeme="hazelwood(n)">haselwood</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Croft(pn)">Crofte</form> <xpln lexeme="farm(n)">a. farme.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Christopher(pn)">Christofer</form>. <xpln>Id est <term>nosce teip<expan type="m+o"><doubtful type="m">mo</doubtful></expan></term>/ <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Crisostom(pn)">Crisostome</form>. <xpln>Golden monthe. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Crispus(pn)">Crispus</form>. <xpln>Curld pate.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cripse(pn)">Crispe</form> <xpln><xref target="Crispus">also.</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Christian(pn)">Cristian</form> <xpln>soe named from our christi<expan type="a+_">an</expan> 
+profession.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Curwen(pn)">Curwen</form>. <xpln>olim Culwen</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Curson(pn)">Curson</form> <xpln>the stock of a tree /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cursy(pn)">Cursie</form> <xpln><xref target="Curson">also.</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cleopatra(pn)">Cleopatra</form>, <xpln>the glory of the Contrey</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cosby(pn)">Cosbie</form>. <xpln lexeme="liar(n)">a lyar.</xpln>
+</wordentry>
+</page>
+
+<page sig="203r">
+<wordentry type="h"><form lexeme="Cuthred(pn)">Cuthred</form> <xpln>Skilfull in Councell.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cuthbert(pn)">Cuthbert</form> <xpln>famous, bright, clere
+skill, and knowledge. <class type="etymlang" lang="sx">Sa<expan type="x'">xon</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cuth(pn)">Cuthe</form>. <xpln lexeme="knowledge(n)" lexeme="uncouth(a)" lexeme="unknown(a)">id est knowledge vncouthe
+vnknowen.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Cuthwin(pn)">Cuthwyne</form> <xpln>Skilfull victor /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="d">
+
+<wordentry type="h"><form lexeme="Daniel(pn)"><f type="red">Danyell<f type="black"></form> <xpln>Iudgement of God. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dan(pn)">Dan</form> <xpln lexeme="judgment(n)">a Iudgement. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dayrell(pn)">Dayrell</form>. <xpln>olim <term lang="fr">Le dayherell</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dallison(pn)">Dallison</form>, <xpln>olim <term>de Allison</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Davridgcourt(pn)">Davridgcourt</form> <xpln>olim damprecourt</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Davscott(pn)">Davscott</form> <xpln>the same at this daie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dathan(pn)">Dathane</form> <xpln lexeme="statute(n)" lexeme="law(n)">Statute or lawe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Daphnis(pn)">Daphnis</form> <xpln>florishin<expan type="g,">ge</expan> like a baye tree</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dalilah(pn)">Dalilah</form> <xpln lexeme="bucket(n)" lexeme="consumer(n)">a Buckett or consumer. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dalbeny(pn)">Dalbeny</form> <xpln><term>de Albendio</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="David(pn)">David</form> <xpln lexeme="beloved(n)">belovid <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Darcy(pn)">Darcye</form> <xpln>olim Adrecye</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dacres(pn)">Dacres</form> <xpln>cote was Hermethes wate /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dawbeney(pn)">Dawbeney</form> <xpln><term>de Albendio</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dawney(pn)">Dawney</form> <xpln lexeme="alder(n)"><term>de Alneto</term>. An Alder.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dawtrey(pn)">Dawtrey</form> <xpln><term>de Altaripa</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Darius(pn)">Darius</form> <xpln>in the <expan type="p-">per</expan>sian tongue, an excellent warrio<expan type="+r">ur</expan>, or he <expan type="y+t">that</expan> subdueth</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Deborah(pn)">Deborah</form>. <xpln lexeme="word(n)" lexeme="bee(n)">a word, or a bee.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Det(pn)">Det</form>. <xpln lexeme="black(n)">black. <class type="etymlang" lang="br">Britt<expan type="'">an</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dell(pn)">Dell</form> <xpln>a. Small valley</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dennis(pn)">Dennys</form>. <xpln>id est <term>dios nous</term>, devyne mynd.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Demetrius(pn)">Demetrius</form>. <xpln>belonginge to Ceres</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Demosthenes(pn)">Demosthenes</form>. <xpln>strengthe of the people</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Demas(pn)">Demas</form>. <xpln>fauouring<f type="'">e<f type="black"> the people</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dern(pn)">Derne</form> <xpln>a Standinge poole</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Devoreux(pn)">Deuoreux</form> <xpln><term>de Ebroicis</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Diana(pn)">Diana</form> <xpln>Gods daughter <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Demophon(pn)">Demophon</form> <xpln>staienge the people /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dido(pn)">Dido</form>. <xpln>a <class type="etymlang" lang="ph">phenisian</class> name. Id est a warlik 
+woman</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dionysius(pn)">Dionisius</form>. <xpln><class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>. dennys.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Denison(pn)">Denyson</form>. <xpln>derived from dennys</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dinah(pn)">Dynah</form> <xpln lexeme="judgment(n)">Iudgement /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dinham(pn)">Dynham</form>. <xpln>olim dinant</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dire(pn)">Dyre</form>. <xpln>Id est welbelouid.</xpln>
+</wordentry>
+</page>
+
+<page sig="203v">
+<wordentry type="h"><form lexeme="Doiley(pn)">Doyley</form> <xpln>olim <term>de Oileio</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Done(pn)">Done</form> <xpln lexeme="hill(n)" lexeme="mountain(n)">an hill or mountayne</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Down(pn)">Downe</form> <xpln><xref target="Done">also.</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dorcas(pn)">Dorcas</form> <xpln lexeme="roebuck(n)">a Roebuck, a name that
+amorous knights saluted. fieckled
+wartie, and wooden faced wenches</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dorcasa(pn)">Dorcas a</form>. <xpln lexeme="doe(n)">doe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dorothy(pn)">Dorothie</form> <xpln>Guifte of God. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dowze(pn)">Dowze</form>. <xpln>Id est sweet wenche</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Duchia(pn)">Duchia</form> <xpln><xref target="Dowze">the same.</xref> <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dowsabell(pn)">Dowsabell</form>. <xpln>sweete &amp; faire as Hlice<expan type="cin'">cion</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Douglas(pn)">Dowglas</form> <xpln>a Scottishe name from 
+the River dowglas</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Drew(pn)">Drewe</form> <xpln>subtile, livelie &amp; lustie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Drewry(pn)">Drewry.</form> <xpln lexeme="jewel(n)">Id est Iewell</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dun(pn)">Dun</form>. <xpln lexeme="mountain(n)">A mountayne or highe
+hill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Dunstan(pn)">Dunstan</form> <xpln>Mountayn of fortitud</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="e">
+
+<wordentry type="h"><form lexeme="Edhelm(pn)"><f type="red">Edhelme<f type="black"></form> <xpln>happie defens /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Edgar(pn)">Edgar</form>. <xpln>happie <correction type="d" deletion="of">or</correction> blessed hono<expan type="+r">ur</expan> or pou<expan type="+r">er</expan>
+<class type="etymlang" lang="la">Latine</class> <term lang="la">Felix potestas</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Edwin(pn)">Edwyne</form> <xpln>happie victo<expan type="+r">ur</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Edulph(pn)">Edulphe</form> <xpln>happie helpe <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Edmond(pn)">Edmond</form> <xpln>happie, or blessed peace <class type="etymlang" lang="sx">Sax</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Edward(pn)">Edwarde</form> <xpln>happie kee<expan type="p-">per</expan>. ward is
+a keeper. as woodward Milward</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eadeth(pn)">Eadeth</form> <xpln>happynes <class type="etymlang" lang="sx">Sax.</class> / Idonea. <class type="etymlang" lang="la">lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Egbert(pn)">Egbert</form> <xpln>famous allwayes bright</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Elfred(pn)">Elfred</form>. <xpln>all peace <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eldred(pn)">Eldred</form> <xpln>all councell. or all re<expan type="u'">uer</expan>ent feare /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ela(pn)">Ela</form>. <xpln>vt <xref target="Alice">Alice</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eleanor(pn)">Eliano<expan type="+r">ur</expan></form> <xpln>pitifull. eedured from Elena.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Elfwyn(pn)">Elfwyn</form> <xpln>victoryous helpe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Elfwold(pn)">Elfwold</form> <xpln>helpinge governo<expan type="+r">ur</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eliza(pn)">Eliza</form>. <xpln>God saveth. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Elizabeth(pn)">Elizabeth</form> <xpln>peace of the lord, or a
+quiet nest of the lord. <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Elianus(pn)">Elianus</form> <xpln>id est Alan. Sounbright</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ephraim(pn)">Ephraim</form> <xpln lexeme="fruitful(a)" lexeme="increasing(a)">frutefull or encreasing <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Esau(pn)">Esau</form>. <xpln lexeme="working(n)">workinge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ester(pn)">Ester</form>. <xpln>huld</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Emeur(pn)" lexeme="Amy(pn)">Em<expan type="e+_">me</expan> or Amy</form> <xpln lexeme="good-nurse(n)"><correction type="i" deleted="giuinge liest">Goodnurse</correction>/</xpln>
+</wordentry>
+</page>
+
+<page sig="204r">
+<wordentry type="h"><form lexeme="Erlewin(pn)">Erlewyn</form>. <xpln>glorious victor</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ethewold(pn)">Ethewold</form>. <xpln>noblie bold.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ethelred(pn)">Ethelred</form>. <xpln>noblie aduise vide <xref target="Awdrey">Awdrey</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eva(pn)">Eva</form>, <xpln>gyuinge liest. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Erasmus(pn)">Erasmus</form>, <xpln lexeme="win-love(n)">wynlove, or to bee belouid <class type="etymlang" lang="gk">Gr.</class> 
+vide <xref target="Leofwyn">Leofwin</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eustacius(pn)">Eustacius</form> <xpln>vide <xref lexeme="Anastasia">Anastacia</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eugenius(pn)">Eugenius</form>, <xpln>vide <xref target="Owen">Owen</xref> /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="f">
+
+<wordentry type="h"><form lexeme="Fabus(pn)"><f type="red">ffabus<f type="black"></form>. <xpln lexeme="bean-man(n)">Beaneman /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fairfax(pn)">ffairfax</form>. <xpln>faire locks, or white locks</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fane(pn)">ffane</form>. <xpln lexeme="slender(a)">Sclender.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Faith(pn)">ffaithe</form> <xpln><term lang="la">a fide</term> <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fell(pn)">ffell</form>. <xpln>craggie, barrein or stony hills <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Felix(pn)">ffelix</form>. <xpln lexeme="happy(a)">happie. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ferdinando(pn)">fferdinando</form>, <xpln>pure peace /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fleet(pn)">ffleete</form>, <xpln>a smalle streame</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Flishmershe(pn)">fflishmershe</form>, <xpln><term>a frisce marisu</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fenne(pn)">ffenne</form>, <xpln>id est <term lang="la">paludimus</term>. <class type="etymlang" lang="la">lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ferrers(pn)">fferrers</form>. <xpln><term lang="la">de ferrarijs</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Flacius(pn)">fflacius</form> <xpln>lolle eares, or flagge eared.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fineulx(pn)">ffineulx</form>. <xpln>fine conveyans</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fludd(pn)">ffludd</form>, <xpln lexeme="russet(a)">or lluhid, russet. <class type="etymlang" lang="br">brit.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Florence(pn)">fflorence</form>. <xpln lexeme="flourishing(a)">florishinge <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>. vide <xref>Anthony</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Font(pn)">ffont</form>. <xpln lexeme="spring(n)">a springe /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fortescue(pn)">ffortescue</form>. <xpln>id est stronge sheild /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fortune(pn)">ffortune</form> <xpln><term lang="la">a fortuna</term> <class type="etymlang" lang="la">lat<expan type="'">in</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Foster(pn)">ffoster</form>. <xpln lexeme="nourisher(n)">Id est nourisher</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Foulgiers(pn)">ffoulgiers</form>. <xpln lexeme="fern(a)">id est fferne</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Foulk(pn)">ffoulk</form> <xpln>noble &amp; galland <class type="etymlang" lang="gr">Ger.</class> people <class type="etymlang" lang="sx">Sax</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Francis(pn)">ffrancis</form> <xpln>from. fraunce, id est free, not
+servill or bond. liberius the same, <class type="etymlang" lang="la">lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fremonde(pn)">ffremonde</form>. <xpln>ffree peace. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Frediswid(pn)">ffrediswid</form> <xpln>very free, truly. free. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Freestoole(pn)">ffreestoole</form>. <xpln>id est <term lang="la">pacis Cathedra</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Frederick(pn)">ffriderick</form>. <xpln>ritch peace, or peaceable raigne /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Frith(pn)">ffrithe</form> <xpln>a plaine amiddest woods or streight
+bet. 2. lands. <class type="etymlang" lang="la">latine</class>. <term lang="la">fretum</term> /</xpln>
+</wordentry>
+</page>
+
+<page sig="204v">
+<wordentry type="h"><form lexeme="Fronto(pn)">ffronto</form>. <xpln lexeme="beetle-browed(a)">Bettlebrowed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fulbert(pn)">ffulbert</form>. <xpln>fulbright. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Fulcher(pn)">ffulcher</form>. <xpln>lorde of people. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="g">
+
+<wordentry type="h"><form lexeme="Gay(pn)"><f type="red">Gay<f type="black"></form>. <xpln lexeme="joyful(a)">Ioyfull.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Galba(pn)">Galba</form>. <xpln lexeme="maggot(n)">Magott.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Galliard(pn)">Galliard</form>. <xpln lexeme="frolic(v)">frolick. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gam(pn)">Gam</form>. <xpln lexeme="crooked(a)">crooked</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gabriel(pn)">Gabriell</form>, <xpln>Man of God or strengthe of <f type="+">God.<f type="black"> <class type="etymlang" lang="he">Hebr.</class>
+the name of an Angell.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gamaliel(pn)">Gamaliel</form> <xpln>gods reward <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Garnish(pn)">Garnishe</form>. <xpln>olim Gernous</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Garth(pn)">Garthe</form> <xpln lexeme="yard(n)">a yard.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Garnet(pn)">Garnet</form>. <xpln>a great Granary</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Garret(pn)" lexeme="Gerard(pn)" lexeme="Gerald(pn)">Garrett, Gerard, or. Gerald</form> <xpln lexeme="towardness(n)">all 
+olim fitzgerald.  towardnes</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gerrard(pn)">Gerrard.</form> <xpln>all hardye.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gawen(pn)">Gawen</form>, <xpln lexeme="conqueror(n)">id est. walwyn. a Conquero<expan type="+r">ur</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Geel(pn)">Geele</form>. <xpln lexeme="yellow(a)">yellowe. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gedeon(pn)">Gedeon</form> <xpln lexeme="breaker(n)" lexeme="destroyer(n)">a breaker or distroier. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gad(pn)">Gad</form>. <xpln lexeme="band(n)" lexeme="garrison(n)">a band or garrison / <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gehazi(pn)">Gehazi</form> <xpln>valley of vision <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gernon(pn)">Gernon</form> <xpln>by marrienge the daughter of
+Cauendish left that name to his issue /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gernous(pn)">Gernous</form>. <xpln lexeme="garnish(n)">nunc. Garnishe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Germaine(pn)">Germaine</form> <xpln>all. Man</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gernesh(pn)">Gerneshe</form>, <xpln>whose coat assinned by dacres
+is nowe holden for dacres coate /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gertend(pn)">Gertende</form> <xpln>all true and amyable</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Germin(pn)">Germyn </form> <xpln>vel. Iermyn. all victorious</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="German(pn)">German</form>. <xpln>true no counterfeit of the kinred</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="George(pn)">George</form> <xpln>husbandman. <class type="etymlang" lang="gk">Gr.</class> Agricola. <class type="etymlang" lang="la">lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Geoffrey(pn)">Geoffrey</form> <xpln>Id est ioyefull peace</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gervois(pn)">Gervois</form> <xpln>all. Sure, firme, fast alij. grave
+and auncient, or honorable /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gill(pn)">Gill</form>. <xpln>a smalle water.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gilbert(pn)">Gilbert</form>. <xpln>Goldlikebright</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Giles(pn)">Gyles</form>. <xpln>little kidde, Some derive it
+from Iulynes.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gislebert(pn)">Gislebert</form> <xpln lexeme="pledge(n)">vt <xref target="Hildebert">hilbert</xref>. id est be ane pledge
+Aurelius</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gifford(pn)">Gifford</form> <xpln>liberall. disposic<expan type="o+`">io</expan>n</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gladus(pn)">Gladus</form>, <xpln>from Clandia. <class type="etymlang" lang="br">brit<expan type="'">an</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Glynne(pn)">Glynne</form> <xpln lexeme="dale(n)">a . Dale. <class type="etymlang" lang="br">brit</class> /</xpln>
+</wordentry>
+</page>
+
+<page sig="205r">
+<wordentry type="h"><form lexeme="Godard(pn)">Godarde</form>, <xpln>god<expan type="es">es</expan> man or godlie
+disposic<expan type="o+o">io</expan>n, or towardnes.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Godfrey(pn)">Godfrey</form>. <xpln lexeme="godly(a)">godlie, or gods peace</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Godfreyt(pn)">Godfreyt</form> <xpln><xref target="Godfrey">also</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Godwin(pn)">Godwyne</form> <xpln>victorious in God. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Godith(pn)">Godithe</form> <xpln lexeme="good-wife(n)">from Goodwiefe. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Goodrich(pn)">Goodrich</form>. <xpln>ritche or powerfull 
+in God. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Goff(pn)">Goffe</form>. <xpln lexeme="smith(n)">Smithe. <class type="etymlang" lang="br">brit.</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gought(pn)">Gought</form> <xpln lexeme="red(a)">redd, <class type="etymlang" lang="br">brit.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Goodman(pn)" lexeme="Golborne(pn)">Goodman &amp; Golborne</form> <xpln>doe disceind
+from <source>Belward remayns. fo. 123.</source></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gorst(pn)">Gorste</form>. <xpln lexeme="bush(n)">Busshes.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gracchus(pn)">Gracchus</form>. <xpln lexeme="thin(a)">Thynne. vide <xref target="helder">helder</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grace(pn)">Grace</form> <xpln>of Gracia. <class type="etymlang" lang="la">lat.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grange(pn)">Grange</form>. <xpln lexeme="barm(n)">A Barme. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grave(pn)">Grave</form> <xpln lexeme="trench(n)" lexeme="ditch(n)">a trenche, a ditche or wood
+Grove /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gravenour(pn)">Graveno<expan type="+r">ur</expan></form> <xpln lexeme="hunter(n)">olim Grosveno<expan type="+r">ur</expan> / <class type="etymlang" lang="la">latine</class> <term lang="la">Gra&shy;
+ndis venator</term>. a hunter.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gregory(pn)">Gregorie</form>. <xpln lexeme="watchful(a)">Watchfull.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grigge(pn)">Grigge</form> <xpln lexeme="hoarse(a)">hoarse.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grice(pn)">Grice</form> <xpln lexeme="gray(a)">Gray.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grime(pn)">Gryme</form>. <xpln lexeme="strong(a)">Stronge.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Greystocks(pn)">Greystock<expan type="es">es</expan></form> <xpln>cote borne by Redman /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gripus(pn)">Gripus</form>. <xpln lexeme="hawk's nose(n)">id est hawkesnose.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Griffith(pn)">Griffithe</form> <xpln>stronge faithed <class type="etymlang" lang="br">britt</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grimald(pn)">Grymald</form> <xpln>power over anger. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Grishild(pn)">Grishild</form> <xpln>Gray Ladie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gernegan(pn)">Gernegan</form>, <xpln>nunc Ierningham /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gunter(pn)">Gunter</form>. <xpln>fauorable lord. Gunther.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gruffin(pn)">Gruffin</form>, <xpln lexeme="red(a)">Id est Rufinus, Redd. <class type="etymlang" lang="br">brit<expan type="'">an</expan></class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Guy(pn)">Guy</form>. <xpln lexeme="hind(n)" lexeme="leader(n)" lexeme="director(n)">Guido. <class type="etymlang" lang="la">lat.</class> A hind, leader or directo<expan type="+r">r</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gwinne(pn)">Gwynne</form>, <xpln lexeme="white(a)">white /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="h">
+
+<wordentry type="h"><form lexeme="Hamen(pn)"><f type="red">Ha<expan type="me+_">men</expan><f type="black"></form> <xpln>Id est hom<expan type="e+`">en</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hamon(pn)">Hamon</form> <xpln lexeme="faithful(a)">faithfull. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hannibal(pn)">Hannyball</form>. <xpln>gracious lord a <class type="etymlang" lang="pu">punyck</class>
+name /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Harman(pn)">Harman</form>. <xpln>Generall of an Army. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Harold(pn)">Harolde</form>. <xpln>gouerno<expan type="+r">ur</expan>. or generall of an 
+Army <class type="etymlang" lang="sx">Sax.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Handlow(pn)">Handlowe</form> <xpln>by marriage. the daught<expan type="+r">ur</expan>
+and heire of Burnell is so called</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Harrington(pn)">Harrington</form> <xpln>olim Haverington /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hector(pn)">Hector</form> <xpln>defend<expan type="+r">er</expan>. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Heyle(pn)">Heyle</form>. <xpln lexeme="healthful(a)">helthfull.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Helen(pn)">Helein</form> <xpln lexeme="pitiful(a)">pitifull. vide <xref target="Elianour">Eliano<expan type="+r">ur</expan></xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Helder(pn)">helder</form>. <xpln>Thynne vide <xref target="Gracchus">Gracchus</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Henry(pn)">Henry</form>. <xpln>riche lord, or ever ritche
+or powerfull /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hengise(pn)">Hengise</form>. <xpln lexeme="horseman(n)">horsman. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Herbert(pn)">Herbert</form> <xpln>famous lord. bright lord
+or glorie of the Armye. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Herward(pn)">Herward</form>. <xpln>conservo<expan type="+r">ur</expan> of the Army.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hercules(pn)">Hercules</form>. <xpln>glory. or Illumynac<expan type="on+~">ion</expan> of <expan type="y+e">the</expan> ayre.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Herwin(pn)">Herwyn</form> <xpln>victoryous lord, or victor in
+the Army.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hierome(pn)">Hierome</form>, <xpln lexeme="holy-man(n)">holiemanne. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hildebert(pn)">Hildebert</form>, <xpln>bright or. famous lord <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hillary(pn)">hillary</form>. <xpln lexeme="merry(a)" lexeme="pleasant(a)">merry or pleasant. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hilda(pn)">hilda</form> <xpln>a religious ladie in the 
+prymitive englishe Churche</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Holiman(pn)">Holiman</form>, <xpln>Id est Oswonder</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Horn(pn)">Horne</form> <xpln>a. Corno<expan type="+r">ur</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Horatio(pn)">Horatio</form> <xpln>well. sighted.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Horden(pn)">Horden</form>. <xpln lexeme="steward(n)">Steward</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hortensius(pn)">Hortensius</form> <xpln lexeme="gardener(n)">Gardener /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Horsey(pn)">Horscy</form> <xpln>toke that name of de la vale of
+northum<expan type="b-">be</expan>r. whose daughter he marryde</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Howard(pn)">Howard</form>, <xpln lexeme="guardian(n)">high warden, or Guardian /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Howell(pn)">Howell</form>. <xpln lexeme="sound(a)" lexeme="whole(a)">Sound or whole</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hubert(pn)">Hubert</form>, <xpln>bright, ffaire shape; or faire hope</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hugh(pn)">Hughe</form> <xpln lexeme="slasher(n)" lexeme="cutter(n)">Slassher. or cutter. alij. comsort</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Huddard(pn)">Huddard</form> <xpln>Loke. duttons name /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hussey(pn)">Hussey</form> <xpln><term>de hosut. &amp; <correction type="i" deleted="so"></correction>hosat<expan type="t'">ter</expan>  </term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Hurst(pn)">Hurste</form> <xpln lexeme="wood(n)" lexeme="hurst(n)">vel. herst. a. wood.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Humphrey(pn)">Humfrey</form>. <xpln>Howspeace <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Huttin(pn)">Huttyn</form>. <xpln lexeme="mutiner(n)">Id est Mutyner. Hutton.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="i">
+
+<wordentry type="h"><form lexeme="Jacob(pn)"><f type="red">Iacobe<f type="black"></form> <xpln lexeme="tripper(n)" lexeme="supplanter(n)">a tripper or Supplanter. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jane(pn)">Iane</form>. <xpln>vt <xref target="Iohan">Ioane</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="James(pn)">Iames</form>, <xpln>wrested from Iacob. in <class type="etymlang" lang="sp">Spanishe</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Iago(pn)">Iago</form>. <xpln>in <class type="etymlang" lang="fr">frenche</class> Iaques /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ibell(pn)">Ibell</form>. <xpln>or. Eubulus. Good councello<expan type="|r|">ur</expan>. <class type="etymlang" lang="br">brit</class> /</xpln>
+</wordentry>
+</page>
+
+<page sig="206r">
+<wordentry type="h"><form lexeme="Jeremy(pn)">Ieremye</form> <xpln>highe of the lord. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jennet(pn)">Iennet</form>. <xpln>demynytive of Ioane.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jesop(pn)">Iesop</form>. <xpln>contracted from Iosephe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jewl(pn)">Iewle</form>. <xpln lexeme="yule(n)" lexeme="Christmas(n)">vel yewle. Christinas /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jermingham(pn)">Iernyngham</form>, <xpln>olim Gernegan.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Joachim(pn)">Iochim</form> <xpln>preparac<expan type="n+_">ion</expan> of the lord. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Joas(pn)">Ioas</form>. <xpln lexeme="fatherhood(n)">fatherhood. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="John(pn)">Ioh<expan type="n+_">an</expan></form> <xpln lexeme="gracious(a)">Gracyous.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Joon(pn)">Ioon</form> <xpln><xref target="Iohan">also.</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jonathan(pn)">Ionathan</form>. <xpln>Gods guifte. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Joyce(pn)">Ioice</form> <xpln lexeme="merry(a)" lexeme="pleasant(a)">mery or pleasant / Ioice /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jocosu(pn)">Iocosu</form>. <xpln><xref target="Iocosu">the Same.</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jaquet(pn)">Iaquet</form>. <xpln>id est <xref target="Iacobe">Iacoba.</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Josias(pn)">Iosias</form>. <xpln>fier of the lord. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Josua(pn)">Iosua</form>. <xpln lexeme="saviour(n)">Savio<expan type="+r">ur</expan> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jordain(pn)">Iordaine</form> <xpln>the River of Iudgement
+this name is soe named of <expan type="y+e">the</expan> river /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Joseph(pn)">Iosephe</form>. <xpln lexeme="increasing(a)">increasing. <class type="etymlang" lang="he">Hebr.</class> vide <xref target="Iesop">Iesop</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Isabell(pn)">Isubell</form>. <xpln>as <xref target="Elizabeth">Elizabeth</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Isaac(pn)">Isaac</form>. <xpln lexeme="laughter(n)">laughter. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jaire(pn)">Iaire</form>. <xpln lexeme="lightened(a)">lightned. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Japheth(pn)">Iapheth</form> <xpln lexeme="persuading(n)" lexeme="enticing(n)">perswadinge or inticing</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Job(pn)">Iob</form>. <xpln lexeme="sorrowful(a)" lexeme="hated(a)">sorrowfull, or hated. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Jonas(pn)">Ionas</form>, <xpln lexeme="dove(n)">a dove <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Israel(pn)">Israill</form>. <xpln>the Seed of God. <class type="etymlang" lang="he">Hebr.</class> / seinge <expan type="y+e">the</expan> lord. 
+Idem a prince of God, or prevaylinge <expan type="w+t">with</expan> God</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ismael(pn)">Ismaell</form> <xpln>god hath hard <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ithell(pn)" lexeme="Euthalius(pn)">Ithell. or Euthalius</form> <xpln>verie florishing. <class type="etymlang" lang="br">brit</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Judith(pn)">Iudith</form> <xpln lexeme="praising(n)">praysinge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Judlius(pn)">Iulius</form>, <xpln>softe haired or mossie bearded <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Julian(pn)">Iulian</form> <xpln>derived from Iulius /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Juge(pn)">Ivge</form>. <xpln lexeme="meadow(n)">A medowe, or lowe ground</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="k">
+
+<wordentry type="h"><form lexeme="Kay(pn)"><f type="red">Kay<f type="black"></form> <xpln>a landinge place or wharfe /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Kemp(pn)">kempe</form> <xpln lexeme="soldier(n)">in <class type="etymlang" lang="oe">old english</class> a Soldier /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Kenard(pn)">kenard</form>, <xpln>kinde disposic<expan type="on+`">ioun</expan> &amp; affect<expan type="on+`">ioun</expan> to his 
+kinred</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Knelm(pn)">Knelme</form>, <xpln>defence of his Kinred <class type="etymlang" lang="sx">Sax.</class> helme
+is defence /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Knevet(pn)">Knevett</form>. <xpln>olim dunevet</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Knoll(pn)">Knolle</form>. <xpln>the toppe of an hill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Krich(pn)">Kriche</form>, <xpln>curld pate /</xpln>
+</wordentry>
+</wordgroup1>
+</page>
+
+<page sig="206v">
+<wordgroup1 type="a" lang="en" object="l">
+
+<wordentry type="h"><form lexeme="Lambert(pn)"><f type="red">Lambert<f type="black"></form>. <xpln>farre famous or fairlambe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Laomedon(pn)">Laomedon</form> <xpln>Ruler of the people /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Laodamas(pn)">Laodamas</form> <xpln>Tamer of the people</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Laban(pn)">Laban</form>. <xpln lexeme="white(a)">white. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lamnel(pn)">Lamnel.</form>. <xpln>with whom is God. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lamech(pn)">Lameche</form>. <xpln lexeme="poor(a)" lexeme="smitten(a)">poore or Smytten. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Levy(pn)">Levie</form> <xpln lexeme="joined(a)" lexeme="coupled(a)">ioyned or coupled. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leah(pn)">Leah</form>. <xpln lexeme="painful(a)" lexeme="wearied(a)">paynefull or weryed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lancelot(pn)">Lancelott</form> <xpln lexeme="lance(n)">a lawnce in <class type="etymlang" lang="sp">Spanishe</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Labeo(pn)">Labeo</form>. <xpln lexeme="blabber-lip(n)">blabberlippe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lade(pn)">Lade</form> <xpln>passage of water.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lancaster(pn)">Lancaster</form> <xpln>by licence of <f type="red">h.2.<f type="black"> changed his 
+name from Fitzgil<expan type="l+bt">lbert</expan> bar<expan type="o+_">on</expan> of kendall</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lath(pn)">Lathe</form> <xpln lexeme="barn(n)">a Barne</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Law(pn)">Lawe</form>. <xpln lexeme="hill(n)">an hill.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Laura(pn)">Laura</form>. <xpln lexeme="bay(n)">Baie. as <xref target="Daphnis">daphne</xref>. in <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Latimer(pn)">Latymer</form>. <xpln lexeme="interpreter(n)">Id est Interpreto<expan type="+r">ur</expan> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lawrence(pn)">Lawrence</form>, <xpln>florishinge like a bay</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lazarus(pn)">Lazarus</form>. <xpln>lords helpe. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leodegar(pn)">Leodegar</form>. <xpln>gatherer of people, or altogether
+popular. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leodpoll(pn)" lexeme="Loodpold(pn)">Leodpolle or. loodpold</form>. <xpln>defend<expan type="+r">er</expan> of the people</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leonard(pn)">Leonard</form> <xpln>lionlike disposic<expan type="on+_">ioun</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leoftan(pn)">Leoftan</form>. <xpln>moost belouid <class type="etymlang" lang="sx">Sax.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leofwin(pn)">Leofwyn</form> <xpln lexeme="win-love(n)">wynlove. or to bee belovid
+Vide <xref target="Erasmus">Erasmus</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lawnd(pn)">Lawnde</form> <xpln>a plaine amonge trees /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lee(pn)">Lee</form>. <xpln lexeme="place(n)">a place. <class type="etymlang" lang="br">britt</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Leigh(pn)" lexeme="Ley(pn)">Leighe or ley</form>. <xpln lexeme="place(n)" lexeme="pasture(n)">a place or pasture /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lenlulus(pn)">Lenlulus</form>. <xpln lexeme="lentil seed(n)">lentill seed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lenthrop(pn)">Lenthroppe</form>. <xpln>vere Leventhrop.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lettice(pn)">Lettice</form>. <xpln lexeme="mirth(n)" lexeme="joyfulness(n)"><term lang="la">de leticiu</term> <class type="etymlang" lang="la">lat<expan type="'">in</expan>.</class>  mirthe or Ioifulnes.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lewis(pn)">Lewys</form>, <xpln>wrenched from Lodwick.
+refuge of the people /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lewlin(pn)">Lewlin</form>. <xpln lexeme="lionlike(n)">lionlike</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lionel(pn)">Lyonel</form>. <xpln lexeme="lion, little(n)">litle lion. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Livia(pn)">Livia</form>. <xpln lexeme="stockdove(n)">Stockdove.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lisle(pn)">Lisle</form>. <xpln>id est <term lang="la">de Insula</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lock(pn)">Locke</form>, <xpln>a place where Rivers are
+vnstopped or a Lake /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lopp(pn)">Loppe</form> <xpln>an vneven place, not to be passed
+without leapinge /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lora(pn)">Lora</form>. <xpln lexeme="discipline(n)" lexeme="learning(n)">discipline, or learninge. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Love(pn)">Love</form>. <xpln>id est. lupus. loupe potius/</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lortie(pn)">Lortie</form>. <xpln><term>de vrtiaco</term>.</xpln>
+</wordentry>
+
+
+<wordentry type="h"><form lexeme="Lovelt(pn)">Lovelt</form> <xpln lexeme="wolf, little(n)">litle wolphe, lupettus /</xpln>
+</wordentry>
+</page>
+
+<page sig="207r">
+<wordentry type="h"><form lexeme="Lovell(pn)" lexeme="Lupellus(pn)">Lovell lupellus</form>. <xpln lexeme="pickerel, little(n)"> Id est a litle pickerell</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lucius(pn)">Lucius</form>, <xpln>borne in daie dawninge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lucia(pn)">Lucia</form> <xpln lexeme="bright(a)">bright. lightsome, or borne
+by daielight</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lucretia(pn)">Lucretia</form>. <xpln>Chaste ladie. <class type="etymlang" lang="la">lat<expan type="'">in</expan></class>. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Llohid(pn)">llohid</form> <xpln lexeme="russet(a)">russet. <class type="etymlang" lang="br">brit<expan type="'">an</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Luke(pn)">Luke</form>. <xpln lexeme="rising(n)" lexeme="lifting up(n)">risinge or liftinge vp. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lud(pn)">Lud</form>. <xpln lexeme="nativity(n)" lexeme="generation(n)">a. natyuyty or generacon <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lot(pn)">Lott</form>. <xpln lexeme="wrapped(a)" lexeme="joined(a)">wrapped or ioyned <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Lisias(pn)">Lisias</form> <xpln lexeme="dissolving(n)">dissoluinge. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="m">
+
+<wordentry type="h"><form lexeme="Madoct(pn)"><f type="red">Madocte<f type="black"></form> <xpln lexeme="good(a)" lexeme="beloved(a)">Good or beloued. <class type="etymlang" lang="br">brit</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mabel(pn)">Mabell</form>. <xpln lexeme="maid(n)" lexeme="loveable(a)" lexeme="lovely(a)">maide, or faire daughter.
+from Amabilis, loveable or lovely</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Magdalen(pn)">Magdalen</form> <xpln lexeme="majestical(a)" lexeme="magnified(a)" lexeme="exalted(a)">maiesticall <class type="etymlang" lang="he">Hebr.</class> or 
+magnified or exalted.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Magoge(pn)">Magoge</form> <xpln lexeme="melting(a)">wveringe, or meltinge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mathias(pn)">Mathias</form> <xpln>guifte of the lord <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mattan(pn)">Mattan</form> <xpln lexeme="gift(n)">a guifte. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Magnus(pn)">Magnus</form>, <xpln lexeme="doctor(n)">doctor. And a great learned man
+in his tyme. was found at Newark vpon
+Trent where he erected a grammer Schole
+and the people called him, Amonge vs. for that 
+he was there found, and profitinge in all
+learninge, his name for (amonge vs) was 
+tourned into Magnus. &amp; by that name was
+ famous not onelie in England. but in forein
+parts. where he was often Embassado<expan type="+r">ur</expan> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Macrinus(pn)">Macrinus</form>. <xpln lexeme="long(a)">longe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Maynard(pn)">Maynard</form>, <xpln>powerfull dispoisi<expan type="n+`">ioun</expan> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Malachius(pn)">Malachius</form> <xpln lexeme="messenger(n)">my Messenger. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mallet(pn)">Mallett</form> <xpln lexeme="mallet(n)" lexeme="hammer(n)">derived from a mallet, or hammer
+becaus in courage and fortitude hee
+beateth downe the enemy as <expan type="w+th">with</expan>a mallet
+or hammer /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Martell(pn)">Martell</form>. <xpln>derived vt <xref target="Mallett">Mallett</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Malduyf(pn)">Malduyf</form>. <xpln>Ill Scollership. or Ill taught.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Malivory(pn)">Malivory</form>. <xpln>Id est <term lang="la">malus leporarius</term>, or Ill
+huntinge the hare.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mallien(pn)">Mallien</form>, <xpln>vt <xref target="Malivory">Malivory</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Malovel(pn)">Malovell</form>. <xpln>Id est <term lang="la">malus lupellus</term>, an Ill
+pickerelle</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Manasses(pn)">Manasses</form>. <xpln>Not forgotten. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mainwaring(pn)">Mainwaringe</form>. <xpln lexeme="mansion house(n)">olim Mesnilwaringe / Menil
+or. mesnil. a mansion howse.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mannors(pn)">Manno<expan type="+rs">urs</expan></form>. <xpln>Id est <term lang="la">de Manerijs</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mandevil(pn)">Mandevill</form>. <xpln><term lang="la">de Magna villa</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Manius(pn)">Manius</form>, <xpln>borne in the morninge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Marcus(pn)">Marcus</form>. <xpln>borne in Marche</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mark(pn)">Marke</form>. <xpln lexeme="high(a)">highe. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Marcellus(pn)">Marcellus</form> <xpln lexeme="Mars(pn)" lexeme="martial(a)" lexeme="hammer(n)">dervied from Mars. warlik or. 
+Martiall or 
+a hammer /</xpln>
+</wordentry>
+</page>
+
+<page sig="207v">
+<wordentry type="h"><form lexeme="Margaret(pn)">Margaret</form>. <xpln lexeme="pearl(n)" lexeme="precious(a)">Pearle, or precyous <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<heading>Ma:</heading>
+
+<wordentry type="h"><form lexeme="Margarite(pn)">Margarite</form>: <xpln lexeme="daisy(n)">a daysie. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Margery(pn)">Margery</form> <xpln lexeme="majoram(n)"><term>a Marioria</term>. an herbe called Marior<expan type="u+`">um</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Marie(pn)">marie</form>. <xpln lexeme="exalted(a)">Exalted. <class type="etymlang" lang="he">Hebr.</class> alij. teachinge </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Marmaduke(pn)">Marmaduke</form>. <xpln>more mightie, <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="March(pn)">Marche</form> <xpln lexeme="limit(n)" lexeme="confine(n)">a limytt or confyne.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Macrinus(pn)">Macrinus</form> <xpln lexeme="long(a)">longe, <term>A natura <expan type="hois+_">hominis</expan></term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Marsh(pn)">Marshe</form>. <xpln><term>de Marisco</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Martin(pn)">Martyn</form>. <xpln>deduced from Martius Martin
+bushoppe of Towres made this name
+famous for his admirable pietie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Matthew(pn)">Mathewe</form>. <xpln>Godes guifte / <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mattison(pn)">Mattyson</form>, <xpln>from Mathewe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Maud(pn)" lexeme="Matild(pn)">Mawde  or Matild</form>, <xpln>late noble or
+honorable Ladie of Maides</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mawley(pn)">Mawley</form> <xpln><term lang="la">de malo. lacu</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mauritius(pn)">Mauritius</form>. <xpln>a moore. a quo <xref target="Morice">Morice</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Maximilian(pn)">Maximilian</form> <xpln>composed by friderick
+the 3. Empero<expan type="+r">ur</expan> of Maximily Emilian<expan type="9">us</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Megges(pn)">Megges</form>. <xpln>tooke the name of Braibrook
+vide <xref target="Braybrook">Braybrook</xref> his mother beinge
+one of the heires /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Melicent(pn)">Melicent</form>. <xpln lexeme="honey-sweet(a)">hony sweete. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Melanchon(pn)">Melanchon</form>. <xpln lexeme="black-land(n)">Id est blackland: <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Menelaus(pn)">Menelaus</form>. <xpln>strengthe of the people. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Menasse(pn)">Menasse</form>. <xpln lexeme="forgetting(n)">forgettinge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mered(pn)">Mered</form>. <xpln lexeme="rebellious(a)">rebellious.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Meredith(pn)">Meredith</form> <xpln>brit<expan type="'">an</expan> / Mereducius. Lat<expan type="'">in</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mercury(pn)">Mercury</form> <xpln><term lang="la">a mediat Cursito<expan type="+r">ur</expan></term> betwene God &amp; men /
+<class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Michael(pn)">Michaell</form> <xpln><expan type="p-">per</expan>fect, or like God / <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Michaias(pn)">Michaias</form> <xpln>who is like the lord. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Miles(pn)">Miles</form> <xpln lexeme="millet(n)">a grayne called millett derived thens /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Merawe(pn)">Merawe</form> <xpln lexeme="emerald(n)">or Emeraud. / Corun<expan type="b-">ber</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Menil(pn)" lexeme="Mesnil(pn)">Menil. or. Mesnil</form> . <xpln lexeme="mansion house(n)">a Mansion howse 
+vide <xref lexeme="Mainwaring">Maynwaringe</xref> / waring all
+victorious, vide <xref target="Waryn"><emend err="syr"></emend>warin</xref>. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mevus(pn)">Mevus</form> <xpln><term lang="la">de Melsa</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Minours(pn)">Myno<expan type="+rs">urs</expan></form>. <xpln><term lang="la">de Minerijs</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Moign(pn)">Moigne</form>, <xpln>Id est Monarchus</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Molius(pn)">Molius</form> <xpln><term lang="la">de Molendinis</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Molineux(pn)">Molineux</form>. <xpln>id est molendinarius</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Montchensey(pn)">Montchensey</form>. <xpln><term lang="la">de monte Caniso</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Moel(pn)">Moell</form> <xpln lexeme="bald(a)">bald.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Montjoy(pn)">Montioye</form>. <xpln><term lang="la">de MonteIovis</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Montfichet(pn)">Montfichet</form> <xpln><term>de Montefixe</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Monthermer(pn)">Monthermer</form>. <xpln><term>de monte hermdrij</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Montpesson(pn)">Montpesson</form>. <xpln><term>de Monte pessoins</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Montacute(pn)">Montacute</form>. <xpln><term lang="la">de Monte acuto</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Monthalt(pn)">Monthalt</form>. <xpln><term lang="la">de monte Alto</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Montfort(pn)">Montfort</form>. <xpln><term>de monte fortis, seu forti</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mountford(pn)">Mountford</form> <xpln>beinge lord of hatton in Co<expan type="ni+__">unti</expan>
+warwick was respect thereof
+called hatton in the posteritie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mortimer(pn)">Mortimer</form> <xpln><term lang="la">de mortuo mari</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Morgan(pn)">Morgan</form> <xpln>Seaman <class type="etymlang" lang="br">brit</class> / Mor. the Sta /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Morice(pn)">Morice</form>, <xpln lexeme="moor(n)"><term>a Mauritio</term> a Moore / Maurus.</xpln>
+</wordentry>
+</page>
+
+<page sig="208r">
+<wordentry type="h"><form lexeme="Moab(pn)">Moab</form>. <xpln>of the father. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Moses(pn)">Moses</form>. <xpln lexeme="drawn up(a)">drawen vp. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<note type="m">
+Remayns.li.125
+</note>
+
+<wordentry type="h"><form lexeme="Mowbray(pn)">Mowbray</form> <xpln>erle of Northumberli had an
+120. knight<expan type="+es">es</expan> fees in Normandy and
+an 140. knight<expan type="+es">es</expan> fees in England /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Mnemon(pn)">Mnemon</form>, <xpln lexeme="mindful(a)">Myndfull.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Muriel(pn)">Muriell</form>, <xpln><term>a Murion</term> <class type="etymlang" lang="gk">Gr.</class> a swete <expan type="p-">per</expan>fume.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Musard(pn)">Musard</form>. <xpln lexeme="delayer(n)">Id est delayer.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Musters(pn)">Musters</form>. <xpln><term lang="la">de monasterijs</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Manna(pn)">Manna</form>. <xpln lexeme="what-shall-I-call-it(n)">id est. what shall I call it</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="n">
+
+<wordentry type="h"><form lexeme="Naso(pn)"><f type="red">Naso<f type="black"></form>. <xpln lexeme="bottle-nosed(a)">Bottlenosed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nathaniel(pn)">Nathaniell</form>. <xpln>guifte of God. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Neal(pn)">Neale</form> <xpln lexeme="blackish(a)" lexeme="swart(a)">blackishe, or Swart abridged
+Nigell. .<class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Neal(pn)">Neale</form> <xpln>look. the name of Mowbray.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nelson(pn)">Nelson</form> <xpln>deduced from <xref target="Neale">Neale</xref> or <xref target="Neale">Nigell</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nessa(pn)">Nessa</form> <xpln lexeme="promontory(n)">a. promontory, as a nose of land
+into the Sea /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nero(pn)">Nero</form>. <xpln lexeme="strong(a)">Stronge. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nevil(pn)">Nevill</form>. <xpln><term lang="la">de Nova villa</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Newman(pn)">Newman</form>. <xpln>Id est Neander.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="newmarch(pn)">Newemarch</form>. <xpln><term lang="la">de Novo mercat<expan type="u+'">um</expan></term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Newton(pn)">Newton</form> <xpln>whose name was Cradock. but lost
+that name, &amp; tooke to him the name of
+his habitac<expan type="on+`">ioun</expan>, called Newton</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nicholas(pn)">Nicholas</form>. <xpln>Conquero<expan type="+r">ur</expan> of the people. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nichola(pn)">Nichola</form>. <xpln>deduced from <xref target="Nicholas">Nicholas</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nicodemus(pn)">Nicodemus</form> <xpln>vt <xref target="Nicholas">Nicholas</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Gawen(pn)">Gawen</form> <xpln><xref target="Nicholas">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Naval(pn)">Navall</form>. <xpln lexeme="fool(n)">a foole. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nathan(pn)">Nathan</form>. <xpln lexeme="given(a)">Given. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nimrod(pn)">Nimrod</form>. / <xpln lexeme="rebellious(a)">rebellious. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Noel(pn)">Noell</form>. <xpln lexeme="Christmas(n)">Id est <term lang="la">latine Natalis</term>, Christmas <hungword>tyme. <class type="etymlang" lang="fr">fr.</class></hungword></xpln> 
+</wordentry>
+
+<wordentry type="h"><form lexeme="Norman(pn)">Norman</form>. <xpln lexeme="northern man(n)">Id est Northernman.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nor(pn)">Nore</form>. <xpln lexeme="north(n)">Id est of northe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nosia(pn)">Nosia</form> <xpln lexeme="victorious(a)">victorious. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Noah(pn)">Noah</form>. <xpln>Eq<expan type="i+_"><doubtful type="u">uidem</doubtful></expan>. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Nowers(pn)">Nowers</form> <xpln><term lang="la">de Nodorijs</term>. /</xpln>
+</wordentry>
+</wordgroup1>
+</page>
+
+<page sig="208v">
+<wordgroup1 type="a" lang="en" object="o">
+
+<wordentry type="h"><form lexeme="Olimpias(pn)"><f type="red">Olimpias<f type="black"></form> <xpln lexeme="heavenly(a)">heavenlie. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Orabilis(pn)">Orabilis</form> <xpln>easilie entreated. <class type="etymlang" lang="la">Lat<expan type="'">in</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Obadiah(pn)">Obadiah</form>. <xpln>Seruant of the Lord. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Obed(pn)">Obed</form>. <xpln lexeme="servant(n)">Seruant. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Oliver(pn)">Oliver</form> <xpln>a name fetched from the
+peaceable bringinge olive</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Osberne(pn)">Osberne</form> <xpln lexeme="house-child(n)">housechild. <class type="etymlang" lang="sx">Sax</class> / <term lang="la">Filius familias</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Osbert(pn)">Osbert</form> <xpln>domesticall brightnes or.
+light of the ffamylie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Osmond(pn)">Osmond</form>. <xpln lexeme="house-peace(n)">howspeace. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Oswold(pn)">Oswold</form>. <xpln lexeme="house-ruler(n)" lexeme="steward(n)">howsruler or steward / for
+wold in <class type="etymlang" lang="oe">old englishe</class> &amp; <class type="etymlang" lang="hd">high dutch</class> 
+is a Ruler; the holie lief of Sainct
+Oswald kinge of Northumberland
+who lived in incessant contemplac<expan type="on+_">ion</expan>
+hath giuen much hono<expan type="+r">ur</expan> to this name /</xpln>
+</wordentry>
+
+<wordentry type="h"><form number ="1" lexeme="Otho(pn)" lexeme="Odo(pn)" lexeme="Endo(pn)">Otho. or Odo, or Endo</form>. <xpln>in Sax. Odun.
+a faithfull. reconciler</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Olwell(pn)" lexeme="Ottey(pn)">Olwell and Ottey</form> <xpln>are Nurse names
+drawen from Othes.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Owen(pn)">Owen</form> <xpln lexeme="Oenus(pn)">in latine <f type="i">Audoenus<f type="black">. the
+Brittains drawe this name from
+old kinge Oenus. father in lawe to
+hercules.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Eugenius(pn)">Eugenius</form>, <xpln>vt <xref target="Owen">Owen</xref> Noble or welborn
+for Ireland is called in latine records
+(Tir. Oen) id est latine <term lang="la">terra Eugenij</term>
+there is no latine of the Irish prests
+for. Oen. but Eugenius.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Owen Ogle(pn)">Owen Ogle</form>. <xpln lexeme="knight(n)">knight his name, as is
+affirmed is wrytten in latine 
+records Eugenius Ogle. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Original(pn)">Originall</form> <xpln>deduced from the <class type="etymlang" lang="gk">Greek</class>
+Origenes, that is borne in Good tyme /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Okircer(pn)">Okir<expan type="c'">cer</expan></form> <xpln>olim okeover</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Orland(pn)">Orland</form>. <xpln>id est rowland in Italian /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="p">
+
+<wordentry type="h"><form lexeme="Payne(pn)"><f type="red">Payne<f type="black"></form> <xpln>in lat<expan type="'">in</expan>. Paganus, a military Man</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pansa(pn)">Pansa</form>. <xpln lexeme="broad-foot(a)">brodefoote</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Paln(pn)">Paln</form> <xpln lexeme="marvelous(a)">marveilous <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Parnel(pn)">Parnell</form> <xpln><term>a petronella</term> prettie stone.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Palmer(pn)">Palmer</form> <xpln lexeme="pilgrim(n)">id est pilgryme, as carrienge
+palme in retourninge from Ierusa<emend err="">&shy;</emend>
+l<expan type="e+_">em</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pascal(pn)">Pascall</form> <xpln lexeme="Passover(n)">deduced from the passeover</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Patrick(pn)">Patrick</form> <xpln lexeme="peer(n)" lexeme="state(n)">from <term lang="la">Patricus</term>, a peere or state</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Paul(pn)">Pawle</form> <xpln lexeme="wonderful(a)" lexeme="rest(n)" lexeme="humble(a)">wonderfull or rest, but the learned
+Baronius drawinge it from the <class type="etymlang" lang="la">latine</class>
+maketh it litle, or humble /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pawlin(pn)" lexeme="Palyn(pn)">Pawlin or palyn</form> <xpln>from <xref target="Pawle">Pawle</xref> As Nigrin<expan type="9">us</expan>
+from Niger /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Paternoster(pn)">Paternoster</form> <xpln>so called. for devout prayinge.</xpln>
+</wordentry>
+</page>
+
+<page sig="209r">
+<wordentry type="h"><form lexeme="Pedo(pn)">Pedo</form>. <xpln lexeme="long-shanks(n)">is longeshancks.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Peche(pn)">Peche</form>. <xpln><term lang="LA">vel peccam</term>, deduced from 
+<term lang="LA">peccato</term>. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Peregrine(pn)">Peregrine</form>. <xpln lexeme="strange(a)" lexeme="outlandish(a)"><class type="etymlang" lang="la">lat<expan type="t'">tin</expan></class> strange or outlandish</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pen(pn)">Pen</form> <xpln>the top of an hill or mountayn <class type="etymlang" lang="br">brit<expan type="t'">tan</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Penelope(pn)">Penelope</form>. <xpln lexeme="chaste(a)" lexeme="constant(a)">chaste, or constant, the wief
+of Vlisses, so called for that shee fedd  <expan type="y+e">the</expan>
+birds called penelopes <expan type="w+th">with</expan> purple necks</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Perpoynte(pn)">Perpoynte</form>, <xpln><term lang="la">de petra ponte</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pertinax(pn)">Pertinax</form>, <xpln lexeme="resolute(a)">Id est resolute for that his
+father wold haue had him bene a
+Scoller when he wold haue bene a
+woodmonger</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Percival(pn)">Percivall</form>. <xpln>a place in Normandy called
+Perchevall. alij.<term lang="la"> volunt <expan type="p_">per</expan> st valdus
+per allusionem</term> / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Percy(pn)">Percy</form>. <xpln>soe named of Percy forrest in
+the Country of Maen /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Petsin(pn)">Petsin</form>, <xpln>olim Poitevin</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Petus(pn)">Petus</form>. <xpln lexeme="pink-eyed(a)">pinckeyed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pettor(pn)">Pettor</form>. <xpln>a iesto<expan type="+r">ur</expan> &amp; so named for his often
+fartinge &amp; therefore held his land <term lang="la"><expan type="p1">per</expan>
+subtum, sufflum &amp; pettum sive bumbut<expan type="u+_">um</expan></term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pharamond(pn)">Pharamond</form>, <xpln>true mouthe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Philadelphus(pn)">Philadelphus</form> <xpln>a lover of hir Susters &amp;
+brothers. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Peter(pn)">Peter</form>. <xpln lexeme="stone(n)">a Stone, a name of great
+account amonge Christians sithence
+our Sauio<expan type="+r">ur</expan> named Simon. Cephas. w<expan type="+ch">hich</expan>
+is by interpretac<expan type="on+_">ion</expan> a Stone</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Philebert(pn)">Philebert</form> <xpln>muche bright fame, or very bright
+famous <class type="etymlang" lang="gr">Ger.</class> as poliphemus is in Gr.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Philip(pn)">Philippe</form> <xpln><class type="etymlang" lang="gk">Gr.</class> a lover of horses. philippe
+Beroald conceydinge this his name
+clarklie proved, that 
+Philipp is an appostolicall name by <expan type="S+t">Saint</expan> philip
+the appostle a roiall name by philip
+kinge of Macedonia, And an im<expan type="p-">per</expan>iall
+name by philip. the first christyan
+Empero<expan type="+r">ur</expan>. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Philippa(pn)">Philippa</form>. <xpln>from <xref target="Philippe">philippus</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Phillis(pn)">Phillis</form> <xpln lexeme="lovely(a)">lovelie. <class type="etymlang" lang="gk">Gr.</class> in latine Amy.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pickering(pn)">Pickeringe</form>, <xpln>beares Mithorps coate /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Piso(pn)">Piso</form>. <xpln lexeme="peascod-man(n)">Id est pescodman /</xpln>
+</wordentry>
+
+<heading>Plantagenet</heading>
+
+<wordentry type="h"><form lexeme="Plantagenet(pn)">Plantagenet</form> <xpln>so called for wearinge in
+his bonnet a Bromestalk.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Platt(pn)">Platt</form>. <xpln>playne ground. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pigott(pn)">Pigott</form>. <xpln lexeme="specked(a)">Specked.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Poly(pn)">Poly</form>. <xpln>olim Pogly</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Polixena(pn)">Polixena</form> <xpln>an entertayno<expan type="+r">ur</expan> of many
+guests and strangers /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Porter(pn)">Porter</form>. <xpln lexeme="door-ward(n)">Id est doreward</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Posthumus(pn)">Posthum<expan type="9">us</expan></form>, <xpln>borne after his fathers deathe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pratt(pn)">Pratt</form>. <xpln lexeme="meadow(n)">a meadowe <class type="etymlang" lang="fr">fr.</class> &amp; Subtill vide
+<xref target="Barrett">Barret</xref> &amp; <xref target="Rushe">Rushe</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Prenx(pn)">Prenx</form> <xpln lexeme="long(a)">nicknamed longe, beinge full of
+Stature &amp; was therefore called longe
+henry. &amp; thence tooke his name &amp; was
+called henry longe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Prindle(pn)">Prindle</form> <xpln>vide <xref target="Crofte">Crofte</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Prisca(pn)">Prisca</form> <xpln lexeme="ancient(a)">auncyent. <class type="etymlang" lang="la">la<expan type="t'">tin</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Prisilla(pn)">Prisilla</form> <xpln><xref target="Prisca">derived thens</xref></xpln>
+</wordentry>
+</page>
+
+<page sig="209v">
+<wordentry type="h"><form lexeme="Pudsey(pn)">Pudsey</form>. <xpln><term lang="la">de Puteaco</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Pendence(pn)">Pendence</form> <xpln lexeme="wisdom(n)"><term lang="la">a prudencia</term> id est
+Sophia wisdome in <class type="etymlang" lang="gk">.Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Purfrey(pn)">Purfrey</form>. <xpln lexeme="pure-faith(a)">olim Purefoy. Id est
+purefaith. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="r">
+
+<wordentry type="h"><form lexeme="Raynsford(pn)"><f type="red">Raynsford<f type="black"></form> <xpln>olim Ravensford.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Raymond(pn)">Raymond</form> <xpln>quiet peace. <class type="etymlang" lang="gr">Ger.</class> as is
+hesechius in Gr.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Raynold(pn)" lexeme="Reynhold(pn)" lexeme="Reginald(pn)">Raynold, or Reynhold or Reginald</form> <xpln lexeme="sincere(a)" lexeme="pure-love(a)">Sincere or purelove, for the <class type="etymlang" lang="gr">germans</class>
+call theire greatest and goodliest
+rivers for purenes Rheins and <expan type="y+e">the</expan>
+<class type="etymlang" lang="oe">old english</class> vsed hold. for love. or fauo<expan type="+r">ur</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Radegond(pn)">Radegond</form> <xpln>fauorable councell. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ralph(pn)" lexeme="Ralfe(pn)">Ralphe  or Ralfe</form> <xpln lexeme="help(n)" lexeme="counsel(n)"><class type="etymlang" lang="gr">Ger.</class> contracted from
+Radulphe whiche is Rodulphe w<expan type="+ch">hich</expan> 
+signifieth help councell /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Randal(pn)">Randall</form> <xpln><class type="etymlang" lang="sx">Sax.</class> corrupted from Ranul<correction type="r" deleted="ey">f</correction>
+that is faire helpe/</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Raphael(pn)">Raphaell</form> <xpln>the phisick of. God. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rahab(pn)">Rahab</form>. <xpln lexeme="proud(a)" lexeme="strong(a)">proud or. stronge <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ram(pn)">Ram</form>. <xpln lexeme="high(a)">highe, <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ramsey(pn)">Ramsey</form>. <xpln>hi<correction type="r" deleted="n">hl</correction>e seated.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rachab(pn)">Rachab</form>. <xpln lexeme="rider(n)">a Rider <class type="etymlang" lang="he">Hebr</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rebecca(pn)">Rebecca</form>. <xpln lexeme="fat(a)" lexeme="full(a)">fatt. and full. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Redman(pn)">Redman</form> <xpln>beares Graistocks cote</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rye(pn)">Rye</form> <xpln lexeme="shore(n)" lexeme="bank(n)">a Shore. or banck. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ric(pn)">Ric</form>. <xpln>a kingedome, ritch and mightie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Richard(pn)">Richard</form> <xpln>powerfull. and riche disposic<expan type="on+_">ion</expan>
+treasure of the kingedome /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rhese(pn)">Rhese</form> <xpln>a <class type="etymlang" lang="br">brittish</class> name, Rhesi a Giant. <class type="etymlang" lang="gr">Ger.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Richer(pn)">Richer</form> <xpln>powerfull in the Army, or riche
+lord. herric reuersed treasure of
+the kingdome /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rithie(pn)">Rithie</form> <xpln lexeme="ford(n)">a foord: <class type="etymlang" lang="br">brit.</class> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ring(pn)">Ringe</form> <xpln lexeme="enclosure(n)">an enclosure.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Roc(pn)" lexeme="Rad(pn)" lexeme="Red(pn)">Roc. Rad. and Red. </form> <xpln>signifie councell
+and aduise /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Robert(pn)">Robert</form>. <xpln>but it is more aunciently written 
+Robert. famous in Councell / vide
+<xref target="Albert">albert</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Roger(pn)">Roger</form>. <xpln lexeme="quiet(a)">quiet. <class type="etymlang" lang="gr">Ger.</class> 
+tranquillus in la<expan type="t'">tin</expan>. all 
+Councell. or Strongecouncell.
+</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Roland(pn)">Roland</form> <xpln>ab antiquo Rodland id est councell
+for the land. the Italians vse Orland
+for Rowland by Mitathesis. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Romane(pn)">Romane</form> <xpln lexeme="strong(a)">Stronge in latine valdus</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Revel(pn)">Revell</form> <xpln>a Sheppard of God. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rob(pn)">Rob</form>. <xpln lexeme="heath(n)">an heathe. <class type="etymlang" lang="br">bri<expan type="t'">tan</expan></class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Roche(pn)">Roche</form> <xpln><term lang="la">de Rupe</term></xpln>
+</wordentry>
+</page>
+
+<page sig="210r">
+<wordentry type="h"><form lexeme="Rose(pn)">Rose</form>. <xpln lexeme="sweet(a)"><term lang="la">a Rosa</term>. Sweete / Susan the same 
+<class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rosamond(pn)">Rosamonde</form> <xpln>rose of peace or of
+the world.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rawe(pn)">Rawe</form> <xpln lexeme="street(n)">in the northe a Street</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rowe(pn)">Rowe</form> <xpln lexeme="renowned(a)"><expan type="w+th">with</expan> vs <xref target="Rawe">the same</xref>, also. renowmed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Rowsa(pn)">Rowsa</form>. <xpln lexeme="reill(n)">reill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ruben(pn)">Ruben</form> <xpln>Sonne of visions, <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Renifred(pn)">Renyfred</form> <xpln>pure peace. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Russell(pn)">Russell</form> <xpln>is redd or flaxen haire 
+vide <xref target="Blount">Blonte</xref> /
+Idem looke gorges name to him &amp;
+his heires, for that his mother was 
+Suster &amp; one of the heires of Gorge. 
+</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Russe(pn)" lexeme="Rushe(pn)">Russe.  &amp; Rushe</form>.<xpln lexeme="subtle(a)">is Subtill vide 
+<xref target="Barrett">Barret</xref></xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="s">
+
+<wordentry type="h"><form lexeme="Saintamond(pn)"><f type="red">SainctAmonde<f type="black"></form>.  <xpln><term>de S<expan type="+co">ancto</expan> Amando</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintclere(pn)">Sayntclere</form> <xpln><term>de Sancta Clara</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintfoster(pn)">Sainct foster</form>. <xpln><term>de Sancto vedasto</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintmaur(pn)">Sainct Mawre</form> <xpln><term>de Sancto Mauro</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Seymour(pn)">Seymor</form>. <xpln><xref target="Sainct Mawre">the same</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintleger(pn)" lexeme="Selenger(pn)">Saintleger vulgo. Selenger</form> / <xpln>Id est 
+<term lang="la">Sancto leodegario</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintlis(pn)">Saintlis</form>. <xpln><term>de Sancto lizdo / &amp; Silnan-ectensis / </term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saiglis(pn)">Saiglis</form> <xpln><term lang="la">de Sancto Helasio. in hiberina</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintloe(pn)">Saintloe</form> <xpln><term lang="la">de Sancto lando</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintlow(pn)">Saintlowe</form> <xpln><term lang="la">de Sancto lupo</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sampole(pn)">Sampole</form> <xpln><term lang="la">de Sancto paulo</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintomer(pn)">Saintomer</form>. <xpln><term lang="la">de Sancto Andamaro</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saintowen(pn)">Saintowen</form> <xpln><term lang="la">de Sancto Andoew</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saltmarsh(pn)">Saltmarshe</form> <xpln><term lang="la">de Salso marisco</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sanitpere(pn)">Sanitpere</form> <xpln><term lang="la">de Sancto peiro</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Salomon(pn)">Salomon</form> <xpln lexeme="peaceable(a)">peaceable. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Salustius(pn)">Salustius</form> <xpln lexeme="healthful(a)">helthfull.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sabridgecourt(pn)">Sabridgecourt</form>. <xpln>corrupte Sapfford.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sale(pn)">Sale</form>. <xpln lexeme="hall(n)" lexeme="entrance(n)">an hall. or entrans <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sabina(pn)">Sabina</form>, <xpln>religious as a Sabine /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saller(pn)">Saller</form>. <xpln lexeme="constable(n)" lexeme="standard-bearer(n)">Id est Constable or Standardberer.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sanchier(pn)" lexeme="Sancta(pn)">Sanchier, or Sancta</form>. <xpln lexeme="holy(a)">holie</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sara(pn)">Sara</form>. <xpln lexeme="lady(n)" lexeme="mistress(n)" lexeme="dame(n)">Ladie, Mistres, or dame <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Samnel(pn)">Samnel</form>. <xpln>placed of God. <class type="etymlang" lang="he">Hebr.</class> or hard of
+God</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Saul(pn)">Saule</form> <xpln>lent of the lord. <class type="etymlang" lang="he">Hebr.</class> or as some
+will. / fox. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sampson(pn)">Sampson</form>. <xpln>there the second tyme. <class type="etymlang" lang="he">Hebr.</class> becaus
+the Angell appeared <expan type="y+e">the</expan>. 2. tyme at his fathers praye[r]</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Scaurus(pn)">Scaurus</form>. <xpln lexeme="knob-heel(a)">knobheele.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Scarre(pn)">Scarre</form> <xpln>a craggie stony hill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Scolastica(pn)">Scolastica</form> <xpln>leasure from busines <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+</page>
+
+<page sig="210v">
+<wordentry type="h"><form lexeme="Scipio(pn)">Scipio</form> <xpln lexeme="stay(n)" lexeme="staff, walking(n)">as Bagott a Stay or walking
+staff.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Scales(pn)">Scales</form> <xpln><term lang="la">de Scalarijs</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Seamark(pn)">Seamark</form> <xpln><term lang="la">de Sancto Medardo</term>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Semartin(pn)">Semartin</form> <xpln><term lang="la">de Sancto martino</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Seabright(pn)">Seabright</form> <xpln>fame by victory</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Seward(pn)">Seward</form> <xpln>victorious presenter. vide <xref target="Sigward">Sigward</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sebastian(pn)">Sebastian</form> <xpln lexeme="honorable(a)" lexeme="majestical(a)">honorable or maiesticall.
+<class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Servius(pn)">Servius</form> <xpln>borne a Slave</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sett(pn)">Sett</form> <xpln lexeme="habitation(n)" lexeme="seat(n)">an habitac<expan type="o+_">io</expan>n or Seat / </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Seulis(pn)">Seulis</form>. <xpln>Silvanectensis &amp; <term lang="la">de S<expan type="+co">ancto</expan>. lizio /</term></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sigbert(pn)">Sigbert</form> <xpln>victorious fame</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sighere(pn)">Sighere</form> <xpln>Conquero<expan type="+r">ur</expan> of an Army
+or victorious lord.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sighelm(pn)">Sighelme</form> <xpln>victoryous defence.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sigward(pn)">Sigward</form> <xpln>victorious presenter /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sigismond(pn)">Sigismond</form> <xpln>victorious peace or
+victory w<expan type="+th">ith</expan>
+peace. <class type="etymlang" lang="gr">Ger.</class> </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sybil(pn)">Sibell</form> <xpln>God<expan type="es">es</expan> councell, or devine doctrine
+<class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Silo(pn)">Silo</form> <xpln lexeme="apesuose(n)">Apesuose</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sileto(pn)">Sileto</form> <xpln>corrupte <term>Suleto</term> to be silent.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Silvanus(pn)">Silvanus</form>. <xpln lexeme="wood-god(a)" lexeme="wood-man(n)">Woodgod, or Woodman
+vide <xref target="Walter">walter</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Silvester(pn)">Silvester</form>. <xpln><xref target="Silvanus">the same</xref> in <class type="etymlang" lang="la">la<expan type="t'">tin</expan></class>. </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Simberb(pn)">Simberb</form> <xpln><term lang="la">de Sancta barbara</term> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Simon(pn)">Simon</form> <xpln lexeme="obedient(a)" lexeme="listening(a)">obedient. listeninge. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sheal(pn)">Sheale</form> <xpln lexeme="cottage(n)" lexeme="shelter(n)">a Cottage or Sheltre.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Shaw(pn)">Shawe</form> <xpln>a. Shadoe of trees.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Spelman(pn)">Spelman</form>. <xpln>Id est learned man.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Shire(pn)">Shire</form> <xpln lexeme="clear(a)">id est clere / vide <xref>clere</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Spencer(pn)">Spencer</form>. <xpln lexeme="dispensator(n)"><term lang="fr">le dispenser</term> or dispensator.
+Steward.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Spigurnel(pn)">Spigurnell</form>. <xpln>Id est sealer of writs an
+office hereditary to the Bohuns of
+Midherst /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Slowe(pn)">Slowe</form> <xpln>a foule miry place</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Smethe(pn)">Smethe</form> <xpln>a smothe playne feild</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Suillins(pn)">Suillins</form>. <xpln>or Suellinge corrupte Swynheard</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Skell(pn)">Skell</form>. <xpln lexeme="spring(n)" lexeme="well(n)">a. Springe or well</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sody(pn)">Sody</form> <xpln lexeme="secret(n)">my secret. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Seyre(pn)">Seyre</form> <xpln lexeme="rough(a)" lexeme="hairy(a)">roughe or hayry. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Salmon(pn)">Salmon</form> <xpln>desolac<expan type="o+_">io</expan>n of the Stranger <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Shage(pn)">Shage</form>. <xpln lexeme="ignorant(a)">Ignorant <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sophronia(pn)">Sophronia</form> <xpln lexeme="modest(a)" lexeme="temperate(a)">modest and temperat <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sophia(pn)">Sophia</form> <xpln lexeme="wisdom(n)">wysdome. <class type="etymlang" lang="gk">Gr.</class> a name peculiarly
+applied by the prymytive Christians
+to our moost blessid Sauio<expan type="+r">ur</expan> who is <expan type="y+e">the</expan>
+wisdome of his father by whom all
+thing<expan type="es">es</expan> were made, and therefore some
+godlie men dislike it as more then
+ireligious that that name should be
+c<expan type="o+_">om</expan>munycated to any other /</xpln>
+</wordentry>
+</page>
+
+<page sig="211r">
+<wordentry type="h"><form lexeme="Staple(pn)">Staple</form> <xpln lexeme="storehouse(n)" lexeme="stall(n)">a Storehous or Stale /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sted(pn)">Sted</form> <xpln lexeme="station(n)">a standinge place or Station /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Stey(pn)">Stey</form>. <xpln lexeme="bank(n)">a. Banck.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Stephen(pn)">Stephen</form> <xpln lexeme="crown(n)">a. Crowne. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Stelo(pn)">Stelo</form>. <xpln lexeme="branch(n)">Branche /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Stow(pn)">Stowe</form> <xpln lexeme="place(n)">a place.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Stradling(pn)">Stradlinge</form> <xpln lexeme="Easterling(n)">Id est Esterlinge or one
+comen from the East parts of
+Germany.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Strabo(pn)">Strabo</form>. <xpln lexeme="squint-eyed(a)">Squiteyed.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Strange(pn)">Strange</form> <xpln>Id est extranens. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Strand(pn)" lexeme="Strond(pn)">Strande, or Stronde</form> <xpln lexeme="riverbank(n)">a Riverbanck</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Strowd(pn)">Strowde</form> <xpln><xref target="Strande">the same</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Surteys(pn)">Surteys</form> <xpln>Id est su<expan type="p_">per</expan> Trisam /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Sulla(pn)">Sulla</form>. <xpln>white and redd</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Susan(pn)">Susan</form>. <xpln lexeme="rose(n)" lexeme="lily(n)">a rose, or lyllie. <class type="etymlang" lang="he">Hebr.</class> vide <xref target="Rose">Rose</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Swithin(pn)">Swithin</form> <xpln>from the <class type="etymlang" lang="oe">old englishe</class> Swithehan
+<class type="etymlang" lang="sx">Sax.</class> verie highe, as is Celsus or 
+Exuperius with the Romains, this
+name hathe bene taken vp in hono<expan type="+r">ur</expan> of
+S<expan type="+t">aint</expan> Swithin the holie Busshop of winchest<expan type="+r">er</expan>
+aboute Anno 860 / and called the weeping
+S<expan type="+t">aint</expan> Swithin for that aboute his feast day
+Pr&aelig;sp<expan type="c'"><doubtful type="u">ece</doubtful></expan> and Aselli rayny constellac<expan type="on+_">ion</expan>s
+doe Cosmically arrise &amp; c<expan type="o+_">om</expan>monly cause
+rayne to fall /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="t">
+
+<wordentry type="h"><form lexeme="Tace(pn)"><f type="red">Tace<f type="black"></form>. <xpln lexeme="silent(a)">Silent</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tabitha(pn)">Tabitha</form> <xpln lexeme="roebuck(n)">Roebuck. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tailboys(pn)">Tailboys</form>. <xpln lexeme="cut-wood(n)">Id est Cutwood.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Talvas(pn)">Talvas</form> <xpln>of a Sheild soe called, whereof
+wi<expan type="ll+_">llia</expan>m the sonne of Robert de Belismo
+had his name /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tatwyna(pn)">Tatwyna</form> <xpln>learned victo<expan type="+r">ur</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tate(pn)">Tate</form>. <xpln lexeme="learned(a)" lexeme="scholar(n)">learned. Scholler</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thales(pn)">Thales</form> <xpln lexeme="flourishing(a)">florishinge <class type="etymlang" lang="gk">Gr.</class> vide <xref target="Anthony">Anthony</xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thorpe(pn)">Thorpe</form> <xpln lexeme="village(n)">a village</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thomas(pn)">Thomas</form>. <xpln>A. Twynne / Tome also. <class type="etymlang" lang="he">Hebr.</class>
+Bottomles <correction type="d" deleted="pitt"></correction> deepe </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thurne(pn)">Thurne</form> <xpln lexeme="tower(n)">a Tower.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thwaite(pn)">Thwaite</form> <xpln lexeme="pasture(n)">a pasture.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Theodosia(pn)">Theodosia</form> <xpln>Gods guifte. <class type="etymlang" lang="gk">Gr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Theodosius(pn)">Theodosius</form> <xpln>vt <xref>Theodore</xref>. Gods. guifte </xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Theodoric(pn)">Theodoric</form> <xpln lexeme="powerful(a)">powerable, or ritche in people</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Theophilus(pn)">Theophilus</form> <xpln>a lover of God</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tuder(pn)">Tuder</form>. <xpln>vt <xref>Theodore</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thurmym(pn)" lexeme="Urim(pn)">Th<doubtful type="m">urmym</doubtful> &amp; vr<doubtful type="m">im</doubtful></form> <xpln>Id est light of the knowledge of Christe &amp;
+<expan type="p__">per</expan>fect<expan type="on+__">ion</expan> of vertue so <emend err="nubrace">imbrace</emend> the same /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Theobald(pn)" lexeme="Thibald(pn)" lexeme="Tibald(pn)">Theobald, or Thibald or Tibald</form>, <xpln>god<expan type="es">es</expan>
+power, or powerfull, or bold over
+people. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Thurstan(pn)">Thurstan</form> <xpln>true &amp; trustie. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Terne(pn)">Terne</form> <xpln>vt <xref target="Derne">derne</xref> a Standinge poole /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Terentius(pn)">Terentius</form> <xpln lexeme="tender(a)">tender. <expan type="scdm+__">secundum</expan> varro /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Timothy(pn)">Timothie</form> <xpln>honoringe God <class type="etymlang" lang="gk">Gr.</class> from
+Timotheus.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tobias(pn)">Tobias</form> <xpln>the lord is Good. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tofte(pn)">Tofte</form> <xpln>a peice of ground where did
+sometymes stand a howse /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Torre(pn)">Torre</form>, <xpln lexeme="tower(n)">a tower. or highe place /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Torquatus(pn)">Torquatus</form>. <xpln lexeme="chained(a)">Chayned.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Trey(pn)">Trey</form> <xpln>a Towne, in brit<expan type="t'">tan</expan> Tref.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tristram(pn)">Tristram</form>. <xpln>a knight of prince arthurs
+order. deduced from Tristan -- Sorrod</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Turstan(pn)">Turstan</form> <xpln>for Trustan. <class type="etymlang" lang="sx">Sax.</class> moost
+true and trustie /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Trowtbeck(pn)">Trowtbeck</form>. <xpln>soe called of a Ryver.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Temperance(pn)">Temperance</form>, <xpln><class type="etymlang" lang="la">la<expan type="t'">tin</expan></class> well knowen the
+Significac<expan type="on+`">ion</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Troblefeild(pn)">Troblefeild</form> <xpln>olim Turbervill /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Tiras(pn)">Tiras</form> <xpln lexeme="destroyer(n)">a distroier</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="v">
+
+<wordentry type="h"><form lexeme="Vale(pn)"><f type="red">Vale<f type="black"></form> <xpln lexeme="dale(n)">or dale in Englishe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Valens(pn)">Valens</form> <xpln lexeme="puissant(a)">puissant <class type="etymlang" lang="la">La<expan type="t'">tin</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Valentine(pn)">Valentyne</form> <xpln><xref target="Valens">the same </xref>/</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Vaulx(pn)">Vaulx</form> <xpln lexeme="dale(n)">a dale. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Varus(pn)">Varus</form> <xpln lexeme="bow-legged(a)">Bowlegged.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Vaughan(pn)">Vaughan</form> <xpln lexeme="little(a)">litle. <class type="etymlang" lang="br">bri<expan type="t'">tan</expan>.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Udall(pn)">Vdall</form>. <xpln>olim Vuedall.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Uchelred(pn)">Uchelred</form> <xpln>highe Councell. <class type="etymlang" lang="gr">Ge<expan type="r'">rman</expan></class>.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Venus(pn)">venus</form>. <xpln lexeme="mad-folly(n)"><term>a veniendo</term>. comy<expan type="n+`">n</expan>nge to all a fitt
+name for a good wenche / Madfolly.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Verdugo(pn)">Verdugo</form> <xpln lexeme="hangman(n)"><class type="etymlang" lang="sp">in Spanishe</class> hangman, it is <expan type="y+e">the</expan>
+name of a Spanyard gen<expan type="t'">tleman</expan></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Vincent(pn)">Vincent</form> <xpln lexeme="victorious(a)">victoryous. <class type="etymlang" lang="la">Lat</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Vital(pn)">Vitall</form>. <xpln lexeme="lively(a)">livelie</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Vivian(pn)">Vivian</form> <xpln>he that may live longe.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Vipount(pn)">Vipount</form> <xpln><term lang="la">de veteri ponte</term>/</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Unwyn(pn)">Vnwyn</form>. <xpln lexeme="invincible(a)">Invincible</xpln>
+</wordentry>
+</page>
+
+<page sig="212r">
+<wordentry type="h"><form lexeme="Urbanus(pn)">Vrbanus</form> <xpln lexeme="courteous(a)" lexeme="civil(a)">Courteous, or Civill</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Uryan(pn)">Vryan</form>, <xpln>vt <xref target="George">George</xref> / danes say it /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ursula(pn)">Vrsula</form> <xpln>a litle beare, heretofore a name
+of great reputac<expan type="on+_">ion</expan> in hono<expan type="+r">ur</expan> of vesula
+the brittaine virgin Saint martired
+vnder Gods Scourge Attila /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Urim(pn)" lexeme="Thurmym(pn)">Vrim &amp; Th<expan type="u+`">ur</expan>mym</form> <xpln> vide <xref target="Thurmym">Th<expan type="my+~">rmy</expan>m </xref>/</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="w">
+
+<wordentry type="h"><form lexeme="Wald(pn)"><f type="red">Walde<f type="black"></form> <xpln lexeme="den(n)">a denne.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wild(pn)">Wild</form> <xpln><xref target="Walde">the same </xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Walburge(pn)" lexeme="Werburge(pn)">Walburge or Werburge</form> <xpln lexeme="gracious(a)">gracious</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Walker(pn)">Walker</form>. <xpln lexeme="fuller(n)">in <class type="etymlang" lang="oe">old englishe</class> a fuller.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Walter(pn)">Walter</form> <xpln lexeme="pilgrim(n)" lexeme="wood-lord(n)" lexeme="wood-man(n)">a pilgryme, woodlord or
+woodman.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Walwin(pn)">Walwyn</form> <xpln lexeme="conqueror(n)">a Conquero<expan type="+r">ur</expan>. vide <xref target="Gawen">Hawen</xref> /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Warder(pn)">Warder</form> <xpln lexeme="keeper(n)">Id est keeper /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Waryn(pn)">Waryn</form>. <xpln>Id est all victorious</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Ewaryn(pn)">Ewaryn</form> <xpln><xref target="Waryn">the same </xref></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wark(pn)">Warke</form>. <xpln lexeme="work(n)" lexeme="building(n)">a work or buildinge</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Waste(pn)">Waste</form>. <xpln lexeme="desert(n)">a desert, or solitary place /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wathe(pn)">Wathe</form> <xpln lexeme="ford(n)">a ford.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Welsborne(pn)">Welsborne</form> <xpln>yongest sonne of Simon de
+Montfort erle of Leicester. Re<expan type="m+`">maynes</expan> 123.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wenifrid(pn)">Wenefride</form>,  <xpln>wynne or gett peace, or
+faire, or beautifull countenance / <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wiche(pn)">Wiche</form>. <xpln>a Salt springe</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wick(pn)">Wick</form>, <xpln lexeme="castle(n)">a Castle or litle fort /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wibert(pn)">Wibert</form> <xpln>holie and bright /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="William(pn)" lexeme="Wilhelme(pn)">william, or wilhelme</form> <xpln><expan type="p_">per</expan> lather muche
+defence, or defence to mary, vt wilwald
+Rulinge many, alij tourne this name
+for a willinge defendo<expan type="+r">ur</expan>, <term>a tuendo</term>, as
+some affirme, <class type="etymlang" lang="it">In Italian.</class> this name is
+Haleazo. for helme, this name hathe 
+bene moost comon in England since wi<expan type="ll+_">lliam</expan>
+the Conquero<expan type="+r">ur</expan>, Insomuche that vpon a
+festivall daie in the court of.
+S<expan type="+t">aint</expan> Ioh<expan type="n+`">an</expan>, and. Sir wi<expan type="ll+_">llia</expan>m fitzhamond sp<expan type="iall+__">eciall</expan>
+officers c<expan type="o+_">om</expan>manded that none, but of that
+name should dyne in the great chamber
+w<expan type="+th">ith</expan> them Soe they were accompanied w<expan type="+th">ith</expan>
+120. williams all knight<expan type="es">es</expan> / <source>Robert Montdusis</source>
+reports it. 1173. /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wilbram(pn)">wilbram</form> <xpln>olim Wilburnham /</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wildred(pn)">wildred</form> <xpln>muche reverend feare</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wilfred(pn)">wilfred</form>. <xpln>muche peace</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Willibert(pn)">willibert</form> <xpln>muche increase</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wimond(pn)">wymond</form> <xpln>Sacred or holy peace <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+</page>
+
+<page sig="212v">
+<wordentry type="h"><form lexeme="Wischard(pn)">Wischard</form> <xpln>wilie or craftie shifter or wanderer <class type="etymlang" lang="no">Norman</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Witherington(pn)">witheringeton</form> <xpln>olim Wodringeton</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wold(pn)">wold</form> <xpln>hills without wood.</xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wolstan(pn)">Wolstan</form> <xpln lexeme="comly(a)" lexeme="decent(a)">comelie or decent <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Wolpher(pn)">Wolpher</form> <xpln lexeme="helper(n)">helper. <class type="etymlang" lang="sx">Sax.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Worth(pn)">Worthe</form>. <xpln lexeme="ferm(n)" lexeme="possession(n)" lexeme="court(n)" lexeme="place(n)" lexeme="fort(n)" lexeme="isle(n)">a ferme, or possession A corte, or place, a fort. or Ile /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="x">
+
+<wordentry type="h"><form lexeme="Xerxes(pn)">xerxes</form>. <xpln lexeme="warrior(n)">A warrio<expan type="+r">ur</expan>. darius the same /</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="z">
+
+<wordentry type="h"><form lexeme="Zachary(pn)"><f type="red">Zachary<f type="black"></form> <xpln>the memory of the lord / <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zabadiah(pn)">Zabadiah</form> <xpln>a dowry of the lord. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zeeb(pn)">Zeeb</form>. <xpln lexeme="wolf(n)">a wolphe / <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zidon(pn)">Zidon</form> <xpln lexeme="hunter(n)">a hunter <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zacheus(pn)">Zacheus</form> <xpln lexeme="pure(a)">pure. <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zebulon(pn)">Zebulon</form>. <xpln lexeme="dwelling(n)">a. dwellinge <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zephi(pn)">Zephi</form> <xpln lexeme="honeycomb(n)">an hony combe / <class type="etymlang" lang="he">Hebr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zouche(pn)">Zouche</form>, <xpln>Id est <term>de Slipite saco</term>, a drie stock
+Idem the Stock of a tree. <class type="etymlang" lang="fr">fr.</class></xpln>
+</wordentry>
+
+<wordentry type="h"><form lexeme="Zorobabell(pn)">Zorobabell</form> <xpln>free from confusion /</xpln>
+</wordentry>
+</wordgroup1>
+</page>
+</leme>

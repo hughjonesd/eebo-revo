@@ -1,0 +1,4163 @@
+
+
+<leme no="69">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 2 4 2 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+<heading>
+A treatise 
+of Schemes &#38; Tropes
+very profytable 
+for the better vnderstanding of good 
+authors, gathered out of the best 
+Grammarians &#38; Oratours
+by Rychard Sherry Lon<emend err="">&#173;</emend>
+doner.
+
+&#182; Whervnto is added a declamation,
+That chyldren euen strayt fr<expan type="">om</expan> their
+infancie should be well and gent&#173;
+ly broughte vp in learnynge.
+Written fyrst in Latin
+by the most excel&#173;
+lent and
+famous Clearke, Erasmus
+of Rotero&#173;
+dame.
+</heading>
+</section>
+
+</page>
+
+<page sig="A1v">
+<section type="Dedication">
+To the ryght worshyp<emend err="">&#173;</emend>
+ful Master Thomas Brooke 
+Esquire, Rychard Shyrrey 
+wysheth health euer&#173;
+lastynge. 
+</section>
+
+<section type="Preface">
+<note type="m">
+The tytle of
+thys worche
+straunge.
+</note>
+
+I Doubt not but 
+that the title of 
+this treatise all 
+straunge vnto 
+our Englyshe 
+eares, wil cause 
+some men at the fyrst syghte to 
+maruayle what the matter of 
+it should meane: yea, and per&#173;
+aduenture if they be rashe of 
+iudgement, to cal it some newe 
+fangle, and so casting it hasti&#173;
+ly from the<expan type="">em</expan>, wil not once vouch 
+safe to reade it: and if they do, 
+yet perceiuynge nothing to be 
+therin that pleaseth their phan<emend err="">&#173;</emend>
+sy, wyl count it but a tryfle, &#38; a
+
+</page>
+
+<page sig="A2r">
+tale of Robynhoode. But of 
+thys sorte as I doubte not to 
+fynde manye, so perhaps there 
+wyll be other, whiche moued 
+with the noueltye thereof, wyll 
+thynke it worthye to be looked 
+vpon, and se what is contained 
+therin. These words, <term lang="en">Scheme</term> and 
+<note type="m">
+Sheme and
+Trope.
+</note>
+<term lang="la">Trope</term>, are 
+not vsed in our Eng&#173;
+lishe tongue, neither bene they 
+Englyshe wordes. No more 
+<note>
+Vse maketh
+stra<expan type="">un</expan>ge thin&#173;
+ges familier.
+</note>
+be manye whiche nowe in oure 
+tyme be made by continual vse, 
+very familier to most men, and 
+come so often in speakyng, that 
+aswel is knowen amongest vs 
+the meanyng of them, as if they 
+had bene of oure owne natiue 
+broode. Who hath not in hys 
+mouthe nowe thys worde <term lang="en">Pa&#173;
+raphrasis</term>, <term lang="en">homelies</term>, <term lang="en">vsurped</term>, 
+<term lang="en">abolyshed</term>, wyth manye other 
+
+</page>
+
+<page sig="A2v">
+lyke? And what maruail is it if 
+these words haue not bene vsed 
+here tofore, seynge there was no 
+suche thynge in oure Englishe 
+t<expan type="">on</expan>gue where vnto they shuld be 
+applyed? Good cause haue we 
+therefore to gyue thankes vnto 
+certayne godlye and well lear&#173;
+ned men, whych by their greate 
+studye enrychynge our tongue 
+both wyth matter and wordes, 
+haue endeuoured to make it so 
+copyous and plentyfull that 
+therein it maye compare wyth 
+anye other whiche so euer is the 
+best. It is not vnknowen that 
+oure language for the barba&#173;
+rousnes and lacke of eloquence 
+<note>
+Oure lan&#173;
+guage falsely
+accused of
+barbarous&#173;
+nes.
+</note>
+hathe bene complayned of, and 
+yet not trewely, for anye defaut 
+in the toungue it selfe, but 
+
+</page>
+
+<page sig="A3r">
+rather for slackenes of our co<expan type="">un</expan><emend err="">&#173;</emend>
+trimen, whiche haue alwayes
+set lyght by searchyng out the 
+elegance and proper speaches 
+that be ful many in it: as plain<emend err="">&#173;</emend>
+ly doth appere not only by the 
+most excellent monumentes of 
+our a<expan type="">un</expan>ci<expan type="">en</expan>t forewriters, 
+<note type="m">
+Gower.
+Chawcer.
+Lidgate.
+</note>
+Gow&#173;
+er, Chawcer and Lydgate, but 
+also by the famous workes of 
+many other later: inespeciall 
+of <expan type="">the</expan> ryght worshipful knyght 
+<note type="m">
+Syr Thomas
+Elyot.
+</note>
+syr Thomas Eliot, which first 
+in hys dictionarye as it were 
+generallye searchinge oute the 
+copye of oure language in all 
+kynde of wordes and phrases, 
+after that setting abrode good<emend err="">&#173;</emend>
+lye monumentes of hys wytte, 
+lernynge and industrye, aswell 
+in <emend err="historycall">historycall</emend> knowledge, as 
+of eyther the Philosophies, 
+
+</page>
+
+<page sig="A3v">
+hathe herebi declared the plen&#173;
+tyfulnes of our mother tounge, 
+loue toward hys country, hys 
+tyme not spent in vanitye and 
+tryfles. What shuld I speake 
+of that ornamente Syr Tho&#173;
+mas Wyat? which beside most 
+excellente gyftes bothe of for&#173;
+tune and bodye, so flouryshed 
+in the eloquence of hys natiue 
+tongue, that as he passed ther&#173;
+in those wyth whome he lyued, 
+so was he lykelye to haue bene 
+equal wyth anye other before 
+hym, had not enuious death to 
+hastely beriued vs of thys iew<emend err="">&#173;</emend>
+el: teachyng al men verely, no 
+filicitie in thys worlde to be so 
+suer and stable, but that quick<emend err="">&#173;</emend>
+lye it may be ouerthrowen and 
+broughte to the grounde. Ma&#173;
+nye other there be yet lyuynge 
+
+</page>
+
+<page sig="A4r">
+whose excellente wrytynges do 
+testifye wyth vs to be wordes 
+apte and mete elogantly to de&#173;
+clare oure myndes in al kindes 
+of Sciences; and that, what 
+sentence soeuer we conceiue, the 
+same to haue Englyshe oracion 
+natural, and, holp<expan type="">en</expan> by art, wher<emend err="">&#173;</emend>
+by it may most eloqu<expan type="">en</expan>tly be vt&#173;
+tered. Of the whych thynge as 
+I fortuned to talke wyth you, 
+Master Brooke, among other 
+matters this present argument 
+of Schemes and Tropes came 
+in place, and offered it selfe, de&#173;
+med to be bothe profitable and 
+pleasaunte if they were gathe&#173;
+red together, and handsomelye 
+set in a playne ordre, and wyth 
+theire descriptions hansomely 
+put into our Englishe tongue. 
+
+</page>
+
+<page sig="A4v">
+And bicause longe ago, I was 
+well acquaynted wyth them, 
+when I red them to other in <expan type="">the</expan> 
+Latin, and that they holpe me 
+verye muche in the exposicion 
+of good authoures, I was so 
+muche the more ready to make 
+them speak English: partli, to 
+renew the pleasure of mine old 
+studies, and partelye to satys&#173;
+fy your request. 
+
+Beside this, I was moued al&#173;
+so wyth the authorytye of 
+<note type="m">
+Rodulphus
+Agricola.
+</note>
+that famous clarke Rodul&#173;
+phus Agricola, whyche in a 
+certeine Epistle wrytten vnto 
+a frynde of hys, exhorteth m<expan type="">en</expan> 
+what soeuer they reade in 
+straunge tongues, diligently 
+to translate the same into their 
+owne language: because that 
+in it we sonar perceiue if there 
+
+</page>
+
+<page sig="A5r">
+be any faute in our speaking, 
+and howe euerye thynge ey&#173;
+ther rightly hangeth together 
+or is darkelye, ruggishly, and 
+superfluously wrytt<expan type="">en</expan>. No ler&#173;
+ned nacion hath there bene but 
+<expan type="">the</expan> learned in it haue written of 
+schemes &#38; fygures, which thei 
+wold not haue don, except thei 
+had perceyued the valewe. 
+
+Wherfore after theyr example 
+obtaynyng a lytle lesure, I red 
+ouer sundrye treatises, as wel 
+of those which wrot long ago, 
+as of others now in our daies: 
+fyndynge amonge them some 
+to haue wrytten ouer brieflye, 
+some confuselye, and falselye 
+<note type="m">
+Mosellane
+</note>
+some. Mosellane hathe in hys 
+tables shewed a fewe fygures 
+of grammer, and so hathe con&#173;
+fo<expan type="">un</expan>ded them together, that his 
+
+</page>
+
+<page sig="A5v">
+second order called of Loquu&#173;
+cion pertayneth rather to the 
+rhetoricians then to hys pur&#173;
+<note type="m">
+Quintilian.
+</note>
+pose. Quintilian briefly hathe 
+wrytten bothe of the Grama&#173;
+tical and rhetorical Shemes, 
+but so that you may soone per&#173;
+ceyue he did it by the waye, as 
+muche as serued hys purpose. 
+<note>
+Cicero.
+</note> 
+Cicero in hys boke of an ora&#173;
+tour wyth hys incomperable 
+eloquence hathe so hid the pre&#173;
+ceptes, that scarselye they may 
+be tryed oute by theyr names, 
+<note type="m">
+Erasmus.
+</note>
+or by theyr ex<expan type="">am</expan>ples. Erasmus 
+in hys double copye of words 
+and thynges, hath made as <expan type="">the</expan> 
+tytle declareth but a comenta&#173;
+rye of them bothe, and as it 
+wer a litle bil of remembra<expan type="">un</expan>ce. 
+Wherfore to make these thin&#173;
+ges more playne to <expan type="">the</expan> students 
+
+</page>
+
+<page sig="A6r">
+that lyst to reade them in oure 
+tongue, I haue taken a lytle 
+payne, more thorowelye to try 
+the definicions, to apply the ex<emend err="">&#173;</emend>
+amples more aptly, &#38; to make 
+things defused more plaine, as 
+in dede it shal ryght wel apere 
+to the dylygente. I haue not 
+translated them orderly out of 
+anye one author, but runninge 
+as I sayde thorowe many, and 
+vsyng myne owne iudgement, 
+haue broughte them into this 
+body as you se, and set them in 
+so playne an order, that redelye 
+maye be founde the figure, and 
+the vse wherevnto it serueth. 
+Thoughe vnto greate wittes 
+occupyed wyth weightye mat&#173;
+ters, they do not greatelye per&#173;
+tayne, yet to such as percha<expan type="">un</expan>ce 
+shal not haue perfecte instruc&#173;
+ 
+
+</page>
+
+<page sig="A6v">
+toures, they may be commodi&#173;
+ous to helpe them selues for the 
+better vnderstandynge of such 
+good authors as they reade. 
+
+For thys darre I saye, no elo&#173;
+quente wryter maye be percei&#173;
+ued as he shulde be wythoute 
+the knowledge of them: for as&#173;
+muche as al togethers they be&#173;
+longe to Eloquucion, whyche 
+is the thyrde and pryncipall 
+parte of rhetorique. The com&#173;
+mon scholemasters be wont in 
+readynge, to saye vnto their 
+scholers: <term lang="la">Hic est figura</term>: and some&#173;
+tyme to axe them, <term lang="la">Per quam figu&#173;
+ram?</term> But what profit is herein 
+if they go no further? In spea&#173;
+kynge and wrytynge nothyng 
+is more folyshe than to affecte 
+or fondly to laboure to speake 
+darkelye for the nonce, sithe the 
+
+</page>
+
+<page sig="A7r">
+proper vse of speach is to vtter 
+the meaning of our mynd with 
+as playne wordes as maye be. 
+But syth it so chaunseth <expan type="">that</expan> som
+tyme ether of necessitie, or to set 
+out the matter more <emend err="plaily">plainly</emend> we 
+be compelled to speake other&#173;
+wyse then after common faci&#173;
+on, onles we wil be ignorante 
+in the sence or meaninge of the 
+mater that excellente authors 
+do wryghte of, we muste nedes 
+runne to the helpe of schemes 
+&#38; fygures: which verely come 
+no sildomer in the writing and 
+speaking of eloquente english 
+men, then either of Grecians or 
+Latins. Many thinges might 
+I brynge in to proue not one&#173;
+ly a great profyt to be in them 
+but that they are to be learned 
+euen of necessitie, for as muche 
+
+</page>
+
+<page sig="A7v">
+as not only prophane authors 
+wythout them may not be wel 
+vnderstand, but that also they 
+greatelye profit vs in the rea&#173;
+dinge of holye scripture, where 
+if you be ignoraunte in the fy&#173;
+guratiue speches and Tropes, 
+you are lyke in manye greate 
+doubtes to make to make but a slender 
+solucion: as ryght wyll do te&#173;
+<note type="m">
+Vestimerus
+</note>
+stefy <term lang="la">Castelio Vestimerus</term> and that no<emend err="">&#173;</emend>
+<note type="m">
+Augustinus
+</note>
+ble doctor saint Augustine. I 
+confesse I haue not made the 
+matter here so perfecte as my 
+wyll and desyer is it shoulde 
+haue ben, and that I haue but 
+brieflye touched, and as it were 
+with my litle fynger poynted 
+to these thinges, which require 
+a l<expan type="">en</expan>ger declaracion. For what 
+can be hasted, and absolute to? 
+But if God spare me lyfe, I 
+
+</page>
+
+<page sig="A8r">
+truste hereafter to make it an 
+introducci<expan type="">on</expan>, wherbi our youth 
+not onlye shall saue that moste 
+precious Iewell, Time, whyle 
+they wander by them selues, re<emend err="">&#173;</emend>
+adynge at all aduentures sun<emend err="">&#173;</emend>
+dry and varyous authors: but 
+that also thei shalbe able better 
+to vnderstande and iudge of 
+the goodlye gyftes and orna&#173;
+mentes in mooste famous and 
+eloquente oratoures. For as 
+<note type="m">
+And apte si&#173;
+militude.
+</note>
+lyke plesure is not to him whi&#173;
+che gooeth into a goodlye gar&#173;
+den garnyshed wyth dyuers 
+kindes of herbes and flowers, 
+and that there doeth no more 
+but beholde them, of whome it 
+maye be sayde that he wente in 
+for nothynge but that he wold 
+come out, and to hym which be<emend err="">&#173;</emend>
+syde the corporall eie pleasure, 
+
+</page>
+
+<page sig="A8v">
+knoeth of eueri one the name &#38; 
+propertye: so verelye much dif&#173;
+ference is there in readynge 
+good authors, and in sundrye 
+sortes of menne that do it: and 
+muche more pleasure, and pro&#173;
+fit hathe he whiche vseth arte 
+and iudgement, then the other, 
+whiche wyth greate studye in 
+dede turneth them ouer but for 
+lacke of the knowledge of pre&#173;
+ceptes wanteth also the fruite 
+and delectacyon that he more 
+amplye myghte obtayne. The 
+lyuynge God from whome all 
+good giftes do procede, gyue 
+vs grace so to order all oure 
+words and speache, that it may 
+be to his honour and glory for 
+euer and euer. Amen. 
+
+&#182; Geuen at London the.
+xiii. day of Decembre. 
+Anno M.D.L. 
+</section>
+
+</page>
+
+<page sig="b1r">
+<section type="Glossary">
+
+<wordgroup1 type="t" object="Elocution(n)">
+&#182; A briefe note of eloquci<expan type="">on</expan>, the third 
+parte of Rhetoricke, wherunto 
+all Figures and Tropes be 
+referred.
+
+<note type="m">
+Eloquucion
+</note>
+<wordentry type="d"><form lexeme="elocution(n)">ELoquucion</form> <xpln>, which 
+the Greekes call 
+<term>Phrase</term>, whereof 
+also the name of 
+eloquence dothe 
+ryse, as of al par&#173;
+tes it is the good<emend err="">&#173;</emend>
+lyest, so also is it the most profita&#173;
+ble and hardeste: in the whyche is 
+seene that diuine myghte and ver&#173;
+tue of an oratoure, whych as Cice&#173;
+ro in hys oratorie particions defi&#173;
+neth, is nothyng else but wisedom 
+speakyng eloquently. For vnto the 
+maruelous greate inuencion of all 
+thynges, bothe it addeth a fulnes, 
+and varietie: it setteth oute &#38; gar&#173;
+nysheth wyth lyghtes of eloquent 
+speche, the thinges that be spoken 
+of, and also wyth very graue sen&#173;
+tences, choyse wordes, proper, apt&#173;
+ly translated, and wel soundyng, it 
+bryngeth that greate fludde of elo&#173;
+quence, vnto a certein kynd of stile 
+
+</page>
+
+<page sig="B1v">
+and indyghtyng. And oute of thys 
+greate streame of eloquucion, not 
+only must we chose apte, and mete 
+wordes, but also take hede of pla&#173;
+cinge, and settinge them in order. 
+For the myghte and power of elo&#173;
+quucion consisteth in wordes con&#173;
+sidered by them selues, and when 
+they be ioyned together. Apt wor&#173;
+des by searchyng muste be founde 
+oute, and after by diligence conue&#173;
+niently coupled. For there is a gar<emend err="">&#173;</emend>
+nyshynge, euen when they be pure 
+and fyne by them selues, and an o&#173;
+ther, wh<expan type="">en</expan> they be ioyned together. 
+To chose th<expan type="">em</expan> oute finely, and hand&#173;
+somlye to bestow them in their pla<emend err="">&#173;</emend>
+ces, after the mynde of Cicero and 
+Quintilian, is no easy thynge. So 
+Marcus Antonius was wonte to 
+say, that he had knowen many wel 
+spoken men, but none eloquente. 
+
+Tullye and Quintilian thoughte 
+that inuencion and disposici<expan type="">on</expan> were 
+the partes of a wytty and prudent 
+man, but eloquence of an oratour. 
+For howe to finde out matter, and 
+set it in order, may be comen to all 
+men, whyche eyther make abridge<emend err="">&#173;</emend> 
+
+</page>
+
+<page sig="B2r">
+mentes of the excellent workes of 
+aunciente wryters, and put histo&#173;
+ries in rem<expan type="">em</expan>braunce, or that speake 
+of anye matter themselues: but to 
+vtter the mynde aptely, distinctly, 
+and ornately, is a gyft geuen to ve<emend err="">&#173;</emend>
+ry fewe. And because we haue deui<emend err="">&#173;</emend>
+ded eloquucion into two partes, 
+that is, wordes symple, or conside&#173;
+red by them selues, and compound 
+or ioyned together in speache, ac&#173;
+cordyng to thys we saye, that eue&#173;
+rye eloquente oracion must haue in 
+it thre poyntes: euidence, which be<emend err="">&#173;</emend>
+longeth to the fyrst parte of eloquu<emend err="">&#173;</emend>
+cion, composicion &#38; dignitie, which 
+belongeth to the order.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Evidence and Plainness">
+Of Euidence and plainenes. 
+
+Of these thynges that we put in 
+eloquucion, lette thys be the fyrste 
+care, to speake euidentlye after the 
+dignitye and nature of thynges, 
+and to vtter suche wordes, whych 
+as Cicero sayth in hys oratour, no 
+man may iustely reprehende. The 
+playne and euident speche is lear&#173;
+ned of Gramarians, and it kee&#173;
+peth the oracion pure, and without 
+all faute, and maketh that euerye 
+
+</page>
+
+<page sig="B2v">
+thyng may seme to be spoken pure<emend err="">&#173;</emend>
+lye apertlye, and clerelye. Euerye 
+speche standeth by vsuall wordes 
+that be in vse of daylye talke, and 
+proper wordes that belonge to the 
+thinge, of the which we shal speke. 
+Neyther be properties to be refer&#173;
+red onely to the name of the thing, 
+but much more to the strength and 
+power of the significacion: &#38; must 
+be considered not by hearyng, but 
+by vnderstandyng. So translacion 
+in the whych comonly is the grea&#173;
+test vse of eloquuci<expan type="">on</expan>, applieth wor&#173;
+des not the selfe proper thinges. 
+But yet an vnvsed worde or po&#173;
+etical, hath also somtyme in the o&#173;
+racion hys dignitie, and beyng put 
+in place (as Cicero sayeth) often&#173;
+tymes the oracion may seme grea&#173;
+ter, and of more antiquitie, for that 
+Poetes do speake in a maner as it 
+were in a nother tonge, it is righte 
+sone perceiued. Finally two fautes 
+are c<expan type="">om</expan>mitted in euerye language, 
+whereby it is not pure: <wordentry type="d"><form lexeme="barbarism(n)" lexeme="solecism(n)">Barbaris&#173;
+me, and Solecisme.</form> <xpln>Of the whych, 
+that on is committed, when anye 
+worde is fautely spoken or writen: 
+
+</page>
+
+<page sig="B3r">
+that other, when in many wordes 
+ioyned together, the worde that fo<emend err="">&#173;</emend>
+loweth is not wel applyed to that 
+that goeth before.</xpln>
+<lemenote>"Barbarism" antedates the earliest OED citation (1578), and "Solecism" antedates the earliest OED citation (1577).</lemenote>
+</wordentry> Of composicion 
+and dygnitye, we wyll speake here 
+after, when we come to the figures 
+of rethoryque. 
+</wordgroup1>
+
+<wordgroup1 type="t" object="Three Kinds of Style">
+<wordentry type="d"><form lexeme="style(n)">Of the three kyndes of style 
+or endyghtynge.</form> <xpln>
+
+Before we come to the precepts 
+of garnishing an oraci<expan type="">on</expan>, we thinke 
+good, bryeffye to shewe you of the 
+thre kyndes of stile or endyghting, 
+in the whych all the eloquucion of 
+an oratoure is occupied. For that 
+there be thre sundry kyndes, called 
+of the Grekes characters, of vs fi&#173;
+gures, I trowe there is no man, 
+though he be meanlye learned, but 
+he knoweth, namely when we se so 
+manye wryters of sciences, bothe 
+Greke and latine, whych haue ben 
+before tyme, to haue folowed for 
+the mooste parte sundrye sortes of 
+wrytyng, the one vnlyke to the o&#173;
+ther. And there hath bene marked 
+inespecially thre kyndes of endigh<emend err="">&#173;</emend>
+tynge: The greate, the small, the 
+meane.</xpln></wordentry>
+
+</page>
+
+<page sig="B3v">
+<wordentry type="d">
+<form lexeme="style, great(n)">The greate kynde. 
+</form>
+<xpln>The greate, the noble, the migh&#173;
+tye, and the full kynde of endygh&#173;
+tynge, wyth an incredible, &#38; a cer&#173;
+ten diuine power of oracion, is v&#173;
+sed in wayghty causes: for it hathe 
+wyth an ample maiestye verye gar<emend err="">&#173;</emend>
+nyshed wordes, proper, translated, 
+&#38; graue sentences, whych ar hand&#173;
+led in amplificacion, and commise&#173;
+racion, and it hathe exornacions 
+bothe of woordes and sentences, 
+wherunto in oracions they ascribe 
+verye great strength and grauitie. 
+And they that vse thys kynde, bee 
+vehement, various, copious, graue, 
+appoynted and readye thorowlye 
+to moue and turne mens myndes. 
+Thys kynd dyd Cicero vse in the o&#173;
+racion for Aulus Cluencius, for 
+Sylla, for Titus Annius Milo, 
+for Caius Rabirius: agaynste Ca&#173;
+tiline, agaynste Verres, agaynste 
+Piso. But they that can not skyll 
+of it oftentimes fall into fautes, 
+when vnto them that seemeth a 
+graue oracion, whych swelleth, and 
+is puffed vp, whych vseth straunge 
+wordes hardelye translated, or to 
+
+</page>
+
+<page sig="B4r">
+olde, and that be nowe longe sy&#173;
+thens lefte of from vse of daylye 
+talke, or more graue then the thing 
+requyreth.</xpln></wordentry>
+
+<wordentry type="d">
+<form lexeme="style, small(n)">
+The small kynde. 
+</form>
+<xpln>The small kynde of indighting, 
+is in a subtile, pressed, and fyled ora<emend err="">&#173;</emend>
+cion, meete for causes that be a ly&#173;
+tel sharper then are in the comon 
+vse of speakynge. For it is a kynde 
+of oracion that is lette downe euen 
+to the mooste vsed custume of pure 
+and clere speakyng. It hathe fyne 
+sentences, subtile, sharpe, teachyng 
+all thynges, and makynge them 
+more playne, not more ample. 
+
+And in the same kynde (as Cicero 
+sayeth in hys oratoure) some bee 
+craftye, but vnpolyshed, and of pur<emend err="">&#173;</emend>
+pose lyke the rude and vnskylfull: 
+Other in that leanes are trymme, 
+that is somwhat floryshynge also 
+and garnyshed. Cicero vsed thys 
+kynde in hys philosophicall dispu&#173;
+tacions, in the oraci<expan type="">on</expan> for Quincius 
+for Roscius <expan type="">the</expan> Comedy plaier, &#38; Te<emend err="">&#173;</emend>
+r<expan type="">en</expan>ce, &#38; Plautus in their Comedies. 
+Such as c<expan type="">an</expan> not h<expan type="">an</expan>dsomly vse them 
+
+</page>
+
+<page sig="B4v">
+selues in that mery conceyted slen&#173;
+dernes of wordes, fall into a drye 
+and feble kynde of oracion.</xpln></wordentry>
+
+<wordentry type="d">
+<form lexeme="style, mean(n)">
+The meane kynde. 
+</form> <xpln>
+The mean and temperate kynd 
+of indyghting standeth of the low&#173;
+er, and yet not of the loweste, and 
+moste comen wordes and sent<expan type="">en</expan>ces. 
+And it is ryghtly called the tempe<emend err="">&#173;</emend>
+rate kynde of speakyng, because it 
+is very nygh vnto the small, and to 
+the greate kynde, folowyng a mo&#173;
+deracion and temper betwyxt th<expan type="">em</expan>. 
+And it foloweth as we saye in one 
+tenour, distinguyshyng all the ora&#173;
+cion wyth small ornamentes both 
+of wordes, and sentences. Cicero v&#173;
+seth thys for the lawe of Manili&#173;
+us, for Aulus Cecinna, for Marcus 
+Marcellus, and moste of all in hys 
+bookes of offices. In this it is fau&#173;
+tye to come to the kynd that is nye 
+vnto it, whyche is called dissolute, 
+because it waueth hyther and thy&#173;
+ther, as it were wythout senowes 
+and ioyntes, standyng surely in no 
+poynte. And suche an oracion can 
+not cause the hearer to take anye 
+heede, when it goeth so in and out, 
+
+</page>
+
+<page sig="B5r">
+and comprehendeth not any thyng 
+wyth perfecte wordes</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Schemes and Tropes">
+Of Schemes and Tropes. 
+
+<wordentry type="d"><form lang="gkt">
+<note type="m">
+Scheme
+</note>
+Scheme</form> <xpln>is a Greke worde, and 
+signifyeth properlye the maner of 
+gesture that daunsers vse to make, 
+wh<expan type="">en</expan> they haue won the best game, 
+but by translacion is taken for the 
+fourme, fashion, and shape of anye 
+thynge expressed in wrytynge or 
+payntinge: and is taken here now 
+of vs for the fashion of a word, say&#173;
+ynge, or sentence, otherwyse wryt&#173;
+ten or spoken then after the vulgar 
+and comen vsage, and that thre s<expan type="">un</expan>&#173;
+dry waies: by figure, faute, vertue.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="figure(n)">
+Figure.</form> <xpln>
+
+Fygure, of Scheme <expan type="">the</expan> fyrst part, 
+is a behaueoure, maner, or fashion 
+eyther of sentence, oracion, or wor&#173;
+des after some new wyse, other th<expan type="">en</expan> 
+men do commenlye vse to wryte or 
+speake: and is of two sortes. Dia&#173;
+noias, that is of sentence, and Lex&#173;
+eos of worde. 
+
+Figure of Dianoias, or sen&#173;
+tence, because it properlye belon&#173;
+geth to oratoures, we wyll speake 
+of it hereafter in place conuenient,
+ 
+
+</page>
+
+<page sig="B5v">
+now wyll we entrete of the figure 
+Lexeos, or of worde, as it pertey&#173;
+neth to the Gramarians.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="figure of word(n)">
+Figure of worde.</form> <xpln>
+
+Figure <term lang="gkt">Lexeos</term>, or of worde, is 
+when in speakyng or wrytyng any 
+thynge touchynge the wordes is 
+made newe or straunge, otherwyse 
+then after <expan type="">the</expan> comen custume: &#38; is of 
+ii. kyndes, diccion, &#38; construccion.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="figure of diction(n)">
+Figure of Diccion.</form> <xpln>
+
+Figure of diccion is the transfor&#173;
+macion of one word, either written 
+or prono<expan type="">un</expan>ced: &#38; hath these partes.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="prosthesis(n)">
+<note type="m">
+Prosthesis.
+</note>
+<term lang="la">Appositio</term></form> <xpln>, apposici<expan type="">on</expan>, the putting 
+to, eyther of letter or sillable at the 
+begynnyng of a worde, as: He all 
+to bewretched hym.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="apheresis(n)">
+<note type="m">
+Apheresis
+</note>
+<term lang="la">Ablatio</term></form> <xpln lexeme="epenthesis(n)">, the takynge awaye of a 
+letter or sillable from the begyn&#173;
+nynge of a worde, of a letter, when 
+we say: The p<expan type="">en</expan>thesis of thys house 
+is to low, for the epenthesis. Wher 
+note this <expan type="">the</expan> word p<expan type="">en</expan>thesis is a greke 
+worde, &#38; yet is vsed as an englishe, 
+as many mo be, and is called a pen<emend err="">&#173;</emend>
+tis by these figures, Sincope and 
+Apheresis, the whole word beynge 
+as is before, epenthesis, so called be<emend err="">&#173;</emend> 
+
+</page>
+
+<page sig="B6r">
+cause it is betwyxt <expan type="">the</expan> lyght &#38; vs, as 
+in al occupiers shops c<expan type="">om</expan>menli it is.</xpln>
+<lemenote>
+"Epenthesis" antedates the earliest OED citation (1656); "penthesis" not found in OED. 
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="epenthesis(n)">
+<note type="m">
+Epenthesis.
+</note>
+<term lang="la">Interpositio</term></form> <xpln>, when a letter is ad&#173;
+ded betwene the fyrste sillable of a 
+word and the laste, as: Relligi<expan type="">on</expan> for 
+religion, relliques for reliques.</xpln>
+<lemenote>
+"Epenthesis" antedates the earliest OED citation (1656); "penthesis" not found in OED. 
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="syncope(n)">
+<note type="m">
+Syncope.
+</note>
+<term lang="la">Consicio</term></form> <xpln>, contrary to Epenthe&#173;
+sis, is when somewhat is cutte of 
+from the myddeste of the worde, 
+as: Idolatry for Idololatry.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="proparalepsis(n)">
+<note type="m">
+Proparalep<emend err="">&#173;</emend>
+sis.
+</note>
+<term lang="la">Preassumpcio</term></form> <xpln>, when a sillable is ad<emend err="">&#173;</emend>
+ded to a word, the significacion of 
+the worde therby nothyng altered, 
+as: He vseth to slacken his mat&#173;
+ters, for to slacke his matters.</xpln>
+<lemenote>
+"Proparalepsis" antedates the earliest OED citation (1577).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="apocope(n)">
+<note type="m">
+Apocope.
+</note>
+<term lang="la">Absissio</term></form> <xpln>, <expan type="">the</expan> cuttyng away of a let<emend err="">&#173;</emend>
+ter or sillable fr<expan type="">om</expan> the end of a word, 
+as: She is a wel fayr may, for maid</xpln>
+<lemenote>
+"Apocope" antedates the earliest OED citation (1591).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="ectasis(n)">
+<note type="m">
+Ectasis.
+</note>
+<term lang="la">Extensio</term></form> <xpln>, the making l<expan type="">on</expan>g of a sil<emend err="">&#173;</emend>
+lable whych by nature is short, as: 
+This was ordeined by acte, for or&#173;
+dined.</xpln>
+<lemenote>
+"Ectasis" antedates the earliest OED citation (1706).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="systole(n)">
+<note type="m">
+Systole.
+</note>
+<term lang="la">Contractio</term></form> <xpln>, the makynge short of 
+a sillable which bi nature is l<expan type="">on</expan>g, as 
+He is a man of good perseuera<expan type="">un</expan>ce: 
+wher some men c<expan type="">om</expan>mit .ii. fautes at 
+once, one <expan type="">that</expan> they take perseuera<expan type="">un</expan>ce 
+for knoweledge, whiche signifieth 
+
+</page>
+
+<page sig="B6v">
+alwais c<expan type="">on</expan>tinuance, an other <expan type="">that</expan> they 
+make this sillable (ue) short, where 
+it is euer longe: and so do they erre 
+in thys worde, adherentes, also, ma<emend err="">&#173;</emend>
+kyng (he) short, when it is alwayes 
+longe, as when they saye: I defye 
+hym, and all his adherentes.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="synaloephe(n)">
+<note type="m">
+Synolephe.
+</note>
+<term lang="la">Delecio</term></form> <xpln>, puttynge oute, when .ii. 
+vowels comyng together, the first 
+is as it were put out: as thone and 
+thother, for the one and the other.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="antisthecon(n)">
+<note type="m">
+Antisthecon.
+</note>
+<term lang="la">Littera pro littera</term></form> <xpln>. One letter for 
+an other, as akecorne for okecorne.</xpln>
+<lemenote>
+"Antisthecon" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="transposing of letters(n)">
+<term lang="la">Transposicio</term></form> <xpln>. Transposing of let&#173;
+ters in wrytynge, as chambre, for 
+chamber.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="figure of construction(n)">
+Figure of construccion</form> <xpln>. 
+Figure of construccion is when 
+the order of construccion is other&#173;
+wyse then after the comen maner. 
+And the kyndes be these.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="prolepsis(n)">
+<note type="m">
+Prolepsis.
+</note>
+<term lang="la">Presumpcio</term></form> <xpln>, a takynge before, or 
+generall speakynge of those thyn&#173;
+ges whych afterwardes be decla&#173;
+red more perticulerlye: as, in the 
+meane seas<expan type="">on</expan> that kyng Henry rode 
+royally to Calais on a sumpteous 
+
+</page>
+
+<page sig="B7r">
+courser, Lewes in a gorgeous cha&#173;
+riot was carted to Boloygne.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="zeugma(n)">
+<note type="m">
+Zeugma.
+</note>
+<term lang="la">Iunctio</term></form> <xpln>, ioynyng, as Linacer say&#173;
+eth, is when in lyke sentences a cer<emend err="">&#173;</emend>
+ten comen thyng that is put in the 
+one, and not chaunged in the other 
+is not expressed, but lefte out: as in 
+Vyrgyll. Before I forget Cesar, ey<emend err="">&#173;</emend>
+ther the Parthian shall drynke of 
+the flud Araris, or Germany of Ti<emend err="">&#173;</emend>
+gris: here is left out, shall drynke. 
+Or to define it more playnelye.</xpln>
+<lemenote>"Zeugma" antedates the earliest OED citation (1589).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<term lang="la">Iniunctio</term>,</form> <xpln>is when the verbe in di&#173;
+uerse lyke sentences is referred to 
+one: and that thre maner of waies.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Presozeug&#173;
+ma.</term>
+</note>
+</form> <xpln>Fyrste when it is set before, and 
+is called <term lang="la">Preiunctio</term>, as There dyd 
+ouercome in hym, lechery, his cha&#173;
+stitie, saucines his feare, madnesse 
+hys reason.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="mesozeugma(n)">
+<note type="m">
+Mesozeug&#173;
+ma.
+</note>
+</form> <xpln>Secondlye when it is set in the 
+middes, &#38; is called <term lang="la">Media iunctio</term>, 
+as bewtye, eyther by age decaieth, 
+or by syckenes. 
+</xpln>
+</wordentry>
+
+<wordentry type="d"><form lexeme="hypozeugma(n)">
+<note type="m">
+Hypozeug&#173;
+ma.
+</note>
+</form> <xpln>Thyrdly wh<expan type="">en</expan> it is put in the end 
+and is called <term lang="la">Postiunctio</term>, as dewtie 
+by syckenes, by sorowe, or by age 
+decayeth.</xpln>
+<lemenote>
+"Hypozeugma" antedates earliest OED citation (1589).
+</lemenote>
+</wordentry>
+
+</page>
+
+<page sig="B7v">
+
+<wordentry type="d"><form lexeme="disjunction(n)">
+<note type="m">
+<term lang="la">Diazeug&#173;
+ma.</term>
+</note>
+<term lang="la">Disiunctio</term>, disiunccion,</form> <xpln>when of 
+those thynges of whych we speake, 
+eyther both, or eche one of them is 
+concluded with their certen verbe, 
+thus: The people of Rome destroy&#173;
+ed Numance, ouerthrew Cartage, 
+cast downe Corinth, and raced Fre<emend err="">&#173;</emend>
+gels. Couetousnes hurteth the bo&#173;
+dye, and corrupteth the mynd.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="syllepsis(n)">
+<note type="m">
+Silepsis.
+</note>
+<term lang="la">Concepcio</term></form> <xpln>, when in vnlike clau&#173;
+ses a certeyn c<expan type="">om</expan>mon thynge that is 
+put in one of th<expan type="">em</expan>, can not agre with 
+the other, excepte it be chaunged. 
+But thys is more playne in the la&#173;
+tine because of the concordes, albe<emend err="">&#173;</emend>
+it in englyshe for the verbe we may 
+vse this example. The Nobles and 
+the Kynge was taken. Hys head 
+and hys handes were cutte of: In 
+the whyche sentences the verbe a&#173;
+greeth wyth the nexte.</xpln>
+<lemenote>
+"Silepsis" antedates earliest OED citation (1577).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="epexegesis(n)">
+<note type="m">
+Epergesis.
+</note>
+<term lang="la">Appositio</term></form> <xpln>, when two subst<expan type="">an</expan>tiues 
+are put together immediatly with 
+oute any verbe betwyxt, the one to 
+declare the other, as in Vyrgyll. 
+Corid<expan type="">on</expan> loued faire Alexis his ma&#173;
+sters darlynge.</xpln>
+<lemenote>
+"Epergesis" antedates earliest OED citation (1621). The characters "r" and "x" are often confused in black-letter type.
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="hyperbaton(n)">
+<note type="m">
+Ayperbation
+</note>
+<term lang="la">Transgressio</term></form> <xpln>, when the ryghte 
+
+</page>
+
+<page sig="B8r">
+order of wordes is troubled, &#38; hath 
+these kyndes.</xpln>
+<lemenote>
+"Ayperbation" antedates earliest OED citation (1579).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="anastrophe(n)">
+<note type="m">
+Anastrophe.
+</note>
+<term lang="la">Reuersio</term></form> <xpln>, a preposterous order 
+of the woordes contrarye to the 
+good order of speakyng, as: He fell 
+from of the wall, for he fel of from 
+the walle.</xpln>
+<lemenote>
+"Anastrophe" antedates earliest OED citation (1577).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Hysterolo&#173;
+gia</term>
+</note>
+<term lang="la">Prepostera loquutio</term></form> <xpln>, when <expan type="">that</expan> that 
+is done afterwardes, is set in spea&#173;
+king in the former place, as: plucke 
+of my bootes and spurres.</xpln>
+<lemenote>
+"Hysterologia" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="tinesis(n)">
+<note type="m">
+Tinesis
+</note>
+<term lang="la">Dissectio</term></form> <xpln lexeme="cutting(n)">, a cutting, when the ioy<emend err="">&#173;</emend>
+nyng of a compound worde is losed 
+by putting somewhat betwixt, as: 
+Hys saying was true, as here shal 
+appere after, for hereafter. He shal 
+be punyshed what man so euer off<expan type="">en</expan><emend err="">&#173;</emend>
+deth, for whatsoeuer man.</xpln>
+<lemenote>"Timesis" antedates the earliest OED citation (1592).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="parenthesis(n)">
+<note type="m">
+Parenthesis
+</note>
+<term lang="la">Interpositio</term></form> <xpln lexeme="interposition(n)">, Interposicion, is a 
+dissoluci<expan type="">on</expan> of the order of the words 
+by putting a sentence betwixt, as: 
+The man (I speke it for no harme) 
+wyl somtime haue his owne wyll.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="eclipsis(n)">
+<note type="m">
+Eclipsis.
+</note>
+<term lang="la">Defectus</term></form> <xpln>, when somewhat lac&#173;
+keth in speakyng, but c<expan type="">om</expan>menly v&#173;
+sed to be vnderstand, as: Good mo&#173;
+rowe. Good nyght.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="antiptosis(n)">
+<note type="m">
+Antiptosis.
+</note>
+<term lang="la">Casus pro casu</term></form> <xpln>, when one case is 
+
+</page>
+
+<page sig="B8v">
+putte for another, as me thynke it 
+is so.</xpln>
+<lemenote>
+"Antiptosis" antedates the earliest OED citation (1656).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Fault">
+Faute. 
+
+Of Scheme, the second parte is 
+in speach as it were a faute, which 
+though it be pardoned in Poetes, 
+yet in prose it is not to be suffered. 
+The kyndes bee these: obscure, in&#173;
+ordinate, barbarous. 
+
+<wordentry type="d"><form lexeme="obscure(n)">
+Obscure and hys partes.</form> <xpln>
+
+Obscure is, when ther is a dark&#173;
+nes thorow faut, eyther of the wor&#173;
+des, or of the settynge of them, and 
+these ben the partes.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="acprologia(n)">
+<note type="m">
+<term lang="la">Acprologia.</term>
+</note>
+<term lang="la">Improprietas</term></form> <xpln>, when a worde no&#173;
+thynge at all in hys proper signifi&#173;
+cacion is broughte into a sentence 
+as a cloude: as you shall haue syxe 
+strypes you longe for.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="pleonasmus(n)">
+<note type="m">
+Pleonasmus
+</note>
+<term lang="la">Super abundancia</term></form> <xpln>, when <expan type="">the</expan> sentence 
+is laden with superfluous wordes, 
+as, he spake it wyth his mouthe, he 
+sawe it wyth hys eyes.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="perissologia(n)">
+<note type="m">
+<term lang="la">Perissologia</term>
+</note>
+<term lang="la">Sermo superfluus</term></form> <xpln>, when a sent<expan type="">en</expan>ce 
+is added, <expan type="">the</expan> matter therby made ne&#173;
+uer the waightyer: as <expan type="">the</expan> Embassa<emend err="">&#173;</emend>
+dours obteining no peace, returned 
+backe home, fr<expan type="">om</expan> wh<expan type="">en</expan>ce they came.</xpln></wordentry>
+
+</page>
+
+<page sig="C1r">
+<wordentry type="d"><form lexeme="tautologia(n)">
+<note type="m">
+Tautologia.
+</note>
+<term lang="la">Inutilis repeticio eiusdem</term></form> <xpln>, is a 
+vayne repeting agayn of one word 
+or moe in all one sentence, whyche 
+faute by takyng lytle heede, Cicero 
+also fell into, as in the oracion for 
+Aulus Cluencius. Therefore that 
+iudgem<expan type="">en</expan>t was not lyke a iudgem<expan type="">en</expan>t 
+O Iudges.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Homiologia.</term>
+</note>
+<term lang="la">Sermo vbique sui similis</term></form> <xpln>, a grea&#173;
+ter faute then the other, is when 
+the whole matter is all alyke, and 
+hath no varietie to auoyde tedious<emend err="">&#173;</emend>
+nes, as: He came thither to <expan type="">the</expan> bath, 
+yet he saide afterwardes. Here one 
+seruant bet me. Afterwardes he 
+sayde vnto hym: I wyll consider. 
+Afterwardes he chyd wyth hym, &#38; 
+cryed more and more when manye 
+were presente. Such a folyshe tel&#173;
+lyng of a tale shall you heare in ma<emend err="">&#173;</emend>
+ny simple &#38; halfe folyshe persons.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Amphibolo&#173;
+gia.</term>
+</note>
+<term lang="la">Ambiguitas</term></form> <xpln>, when thorow faute 
+of ioynyng the wordes, it is doute&#173;
+full to whych the verbe belongeth, 
+as: Hys father loueth hym better 
+then hys mother.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="periergia(n)">
+<note type="m">
+Periergia.
+</note>
+<term lang="la">Sedulitas superflua</term></form> <xpln>, when ther is 
+in speakyng tomuch diligence and 
+
+</page>
+
+<page sig="C1v">
+curiositye, and the sentence ouerla<emend err="">&#173;</emend>
+den with superfluous wordes, whi&#173;
+che faute is the same, or verye lyke 
+<note type="m">
+<term lang="la">Macrologia</term>
+</note>
+to that, that is called <term lang="la">Macrologia</term>, 
+whych is when the sentence vpon 
+desyre to seme fyne and eloquent, is 
+longer then it shulde be.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Inordinate">
+Inordinate and his partes.
+
+<wordentry type="d"><form lexeme="inordinate(n)">Inordinate</form> <xpln> is, when eyther or&#173;
+der or dignitie lacketh in the wor&#173;
+des: and the kyndes ben these.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="tapinosis(n)">
+<note type="m">
+Tapinosis.
+</note>
+<term lang="la">Humiliatio</term></form> <xpln>, when the dygnitye 
+of the thyng is diminyshed by base&#173;
+nes of the worde: as if we shuld say 
+to a greate prynce or a kynge: If it 
+please your mastershyp.</xpln>
+<lemenote>"Tapinosis" antedates the earliest OED citation (1589).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Aschrologia.</term>
+</note>
+<term lang="la">Turpis loquutio</term></form> <xpln>, when the words 
+be spoken, or ioyned together, that 
+they may be wronge into a fylthye 
+sence. Of thys it nedeth not to put 
+any example, when lewde wanton 
+persons wyl soone fynde inowe.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Cacozelia.</term>
+</note>
+<term lang="la">Mala affectatio</term></form> <xpln lexeme="affectation, evil(n)" lexeme="following, leud(n)">, euyll affectaci<expan type="">on</expan> 
+or leude folowyng; when the wytte 
+lacketh iudgement, and fondlye fo&#173;
+lowyng a good maner of speaking, 
+runne into a faute, as when affec&#173;
+tyng copy, we fall into a vaine bab<emend err="">&#173;</emend>
+ 
+
+</page>
+
+<page sig="C2r">
+lynge, or laboryng to be brief, wax 
+bare &#38; drye. Also if we shuld saye: a 
+phrase of building, or an audi<expan type="">en</expan>ce of 
+shepe, as a cert<expan type="">en</expan> homely felow dyd.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Aschematist<expan type="">on</expan></term>
+</note>
+<term lang="la">Male figuratum</term></form> <xpln>, when the oraci&#173;
+on is all playne and symple, &#38; lac&#173;
+keth his figures, wherby as it wer 
+wyth starres it might shyne: which 
+faute is counted of wryters, not a&#173;
+monge the leaste.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Cacosinthe&#173;
+ton.</term>
+</note>
+<term lang="la">Male collocatum</term></form> <xpln>, when wordes 
+be naughtelye ioyned together, or 
+set in a place wher thei shuld not be
+</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Soraismus.</term>
+</note>
+<term lang="la">Cumulatio</term></form> <xpln>, a mynglyng and hea<emend err="">&#173;</emend>
+pyng together of wordes of diuerse 
+languages into one speche: as of 
+Frenche, welche, spanyshe, into en&#173;
+glyshe: and an vsynge of wordes be 
+they pure or barbarous. And al&#173;
+though great authors somtyme in 
+long workes vse some of these fau&#173;
+tes, yet must not their examples be 
+folowed, nor brought into a c<expan type="">om</expan>mon 
+vsage of speakyng.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Barbary">
+Barbarie and hys partes.
+
+<wordentry type="d"><form lexeme="barbary(n)">
+Barbarie</form> <xpln> is a faute, whych tur&#173;
+neth the speche fr<expan type="">om</expan> his purenes, and 
+maketh it foule and rude, and the 
+partes be these.</xpln></wordentry>
+
+</page>
+
+<page sig="C2v">
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Barbaris&#173;
+mus.</term>
+</note>
+Barbarismus</form> <xpln> is, when a worde 
+is either naughtely wrytten or pro<emend err="">&#173;</emend>
+no<expan type="">un</expan>ced c<expan type="">on</expan>trary to the ryght law &#38; 
+maner of speakinge. And it is done 
+by addicion, detracci<expan type="">on</expan>, chaunging, 
+transposynge, eyther of a letter, a 
+syllable, tyme, accent, or aspiraci<expan type="">on</expan>. 
+Hereof we haue shewed exampels 
+partly wher they be called figures, 
+and partly, doute ye not, but both 
+the speakynge and wrytyng of bar<emend err="">&#173;</emend>
+barouse men, wyll gyue you inow. 
+Hytherto be referred the fautes of 
+euil pronouncing certein letters, &#38; 
+of tomuch gapyng, or contrarye of 
+speakyng in the mouth.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Solecismus.</term>
+</note>
+<term lang="la">Inconueniens structura</term></form> <xpln>, is an vn&#173;
+mete and vnconuenient ioynynge 
+together the partes of spech in con&#173;
+struccion, whych is marked by all 
+thynges that belong to the partes 
+of speche: as when one parte is put 
+for another, when gender for gen&#173;
+der, case for case, tyme for tyme, 
+mode for mode, number for num&#173;
+ber, aduerbe for aduerbe, preposi&#173;
+cion for preposici<expan type="">on</expan>: whych because 
+it is vsed of famous authores, in 
+stede of fautes, be called figures.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="C3r">
+<wordgroup1 type="t" object="Virtue">
+<wordentry type="d"><form lexeme="virtue(n)">Vertue.</form> <xpln>
+Vertue, or as we saye, a grace &#38; 
+dygnitye in speakynge, the thyrde 
+kynde of Scheme, is when the sen&#173;
+tence is bewtyfied and lyfte vp a&#173;
+boue the comen maner of speaking 
+of the people. Of it be two kyndes: 
+Proprietie, and garnyshyng.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="propriety(n)">Proprietie and his partes.</form> <xpln lexeme="proposition(n)" lexeme="accenting(n)">
+Proprietie, is when in wryting 
+and pronunciacion ther be no fau&#173;
+tes committed, but thynges done 
+as they shulde be. The partes bee 
+proposicion, and accenting.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Analogia.</term>
+</note>
+<term lang="la">Proportio</term></form> <xpln lexeme="proportion(n)">, proporcion is, where&#173;
+by the maner of true wrytynge is 
+conserued. By thys the barbarous 
+tonge is seperated from the verye 
+true and naturall speche, as be the 
+fyne metals from the grosser. To 
+speke is no lawe, but an obserua&#173;
+cion or markyng, not leanyng vp<expan type="">on</expan> 
+cause, but vpon example. For in e&#173;
+loquence, the iudgement of excell<expan type="">en</expan>t 
+men standeth for reason, as saythe 
+Quintilian in hys fyrst boke.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Tasis.</term>
+</note>
+<term lang="la">Extensio</term></form> <xpln>, is that wherby a swete 
+and pleasaunt modulacion or tuna<emend err="">&#173;</emend> 
+
+</page>
+
+<page sig="C3v">
+blenes of wordes is kepte, because 
+some are spoken wyth a sharpe te&#173;
+nure or accent, some wyth a flatte, 
+some strayned out. This grace spe&#173;
+cially perteineth to a turnyng of <expan type="">the</expan> 
+voyce in pleasaunte pronunciacion.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="garnishing(n)">
+Garnyshyng and his kyndes.</form> <xpln>
+
+Garnishyng as the word it selfe 
+declareth, is wh<expan type="">en</expan> the oraci<expan type="">on</expan> is gay&#173;
+lye set oute and floryshed <expan type="">with</expan> diuerse 
+goodly figures, causyng much plea<emend err="">&#173;</emend>
+sauntnes and delectaci<expan type="">on</expan> to the hea<emend err="">&#173;</emend>
+rer: and hath two kyndes, compo&#173;
+sicion, and exornacion.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="synthesis(n)" lexeme="composition(n)">
+<note type="m">
+Sinthesis.
+</note>
+Composicion</form> <xpln> is an apte settinge 
+together of wordes, whych causeth 
+all the partes of an oracion to bee 
+trymmed al alyke. And in it muste 
+be considered that we so order our 
+wordes, that the sentence decrease 
+not by puttynge a weaker word af<emend err="">&#173;</emend>
+ter a stronger, but that it styl go vp<emend err="">&#173;</emend>
+warde and increase. There is also 
+a naturall order, as to saye: men &#38; 
+women, daye and nyght, easte, and 
+weste, rather then backewardes. 
+
+In thys muste be auoyded also to 
+often comyng together of vowels, 
+which make the oracion wyde and 
+
+</page>
+
+<page sig="C4r">
+gapyng. To muche repetyng of all 
+one letter in the beginning of wor&#173;
+des, to much repeting of one word, 
+and that they ende not to much all 
+alyke, that the sentence be not held 
+on to longe, which werieth the hea<emend err="">&#173;</emend>
+rer, and the speaker: nor that ma&#173;
+nye conson<expan type="">an</expan>tes run not to harshely 
+together, wyth many other, which 
+Cicero speaketh of in hys thyrde 
+booke of hys oratour, and Quinti&#173;
+lian in hys nynth, wherof here to 
+put examples were to longe.</xpln>
+<lemenote>
+"Synthesis" antedates the earliest OED citation (1611).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="exornation(n)">
+Exornacion</form> <xpln> is a fyne polyshinge 
+of wordes and sentences by disseue<emend err="">&#173;</emend>
+ryng th<expan type="">em</expan> <expan type="">with</expan> diuerse goodly colours 
+and tropes or cha<expan type="">un</expan>gings of speach.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Trope">
+Tropes.
+
+<wordentry type="d"><form lexeme="trope(n)">
+Emonge authors manye tymes 
+vnder the name of figures, Tropes 
+also be comprehended:</form> <xpln> Neuerthe&#173;
+lesse ther is a notable difference be&#173;
+twixt th<expan type="">em</expan>. In figure is no alteraci&#173;
+on in the wordes fr<expan type="">om</expan> their proper 
+significacions, but only is the ora&#173;
+cion &#38; s<expan type="">en</expan>tence made by th<expan type="">em</expan> more ple<emend err="">&#173;</emend>
+asa<expan type="">un</expan>t, sharpe &#38; vehem<expan type="">en</expan>t, after <expan type="">the</expan> affec<emend err="">&#173;</emend>
+ci<expan type="">on</expan> of him that speketh or writeth: 
+to <expan type="">the</expan> which vse although tropes al&#173;
+so do serue, yet properlye be they so 
+
+</page>
+
+<page sig="C4v">
+called, because in them for necessi&#173;
+tye or garnyshynge, there is a mo&#173;
+uynge and chaungynge of a worde 
+and sentence, from theyr owne sig&#173;
+nificaci<expan type="">on</expan> into another, whych may 
+agre wyth it by a similitude. The 
+former parties ben these.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="metaphora(n)">
+<note type="m">
+Metaphora.
+</note>
+<term lang="la">Translatio</term></form> <xpln lexeme="translation(n)">, translacion, that is a 
+worde translated from the thynge 
+that it properlye signifieth, vnto a<emend err="">&#173;</emend>
+nother whych may agre with it by 
+a similitude. And amonge all ver&#173;
+tues of speche, this is the chyefe. 
+None perswadeth more effecteous<emend err="">&#173;</emend>
+lye, none sheweth the thyng before 
+oure eyes more euidently, none mo<emend err="">&#173;</emend>
+ueth more mightily the affeccions, 
+none maketh the oraci<expan type="">on</expan> more good<emend err="">&#173;</emend>
+lye, pleasaunt, nor copious. 
+
+Translacions be diuerse. 
+
+<note type="m">
+i.
+</note>
+
+Some fr<expan type="">om</expan> the body to the mynd, 
+as: I haue but lately tasted the He<emend err="">&#173;</emend>
+brue tonge, for newely begunne it. 
+Also I smell where aboute you go, 
+for I perceyue. 
+
+<note type="m">
+ii.
+</note>
+From the reasonable to the vnre<emend err="">&#173;</emend>
+sonable, as Vyrgill in hys Geor&#173;
+gere applyed the counselles and 
+fashion of warres belongynge to 
+
+</page>
+
+<page sig="C5r">
+men, to bees. 
+
+<note type="m">
+iii.
+</note>
+From the vnreasonable to the re<emend err="">&#173;</emend>
+sonable. What whinest thou? what 
+chatterest thou? That one taken of 
+a wolfe, that other of a pye. 
+
+<note type="m">
+iiii.
+</note>
+From the liuinge to the not li&#173;
+uyng. The mouthe of the well, the 
+fatnes of the earth. The lande wyl 
+spewe them oute. 
+
+<note type="m">
+v.
+</note>
+From the not lyuynge to the li&#173;
+uyng. Cicero florisheth in eloqu<expan type="">en</expan>ce. 
+
+<note type="m">
+vi.
+</note>
+From the liuyng, to the liuynge. 
+The iews winched against Moses. 
+
+<note type="m">
+vii.
+</note>
+From the not liuinge to the not 
+liuynge. The wordes flowe oute of 
+hys mouth. He is good for a grene 
+wounde.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="catachresis(n)">
+<note type="m">
+Catachresis.
+</note>
+<term lang="la">Abusio</term></form> <xpln>, when for a certeyne and 
+proper worde, we abuse a lyke, or 
+that is nie vnto it, as when we say: 
+longe counsel, lytle talke, smal mat<emend err="">&#173;</emend>
+ter. Here maye we soone perceyue 
+that by abusion wee take wordes 
+that be somwhat nye, whych pro&#173;
+perly do belong to vnlyke thinges.</xpln>
+<lemenote>"Catachresis" antedates the earliest OED citation (1589).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="metalepsis(n)">
+<note type="m">
+Metalepsis.
+</note>
+<term lang="la">Transs<expan type="">um</expan>ptio</term></form> <xpln lexeme="transsumption(n)">, Transsumpcion, is 
+when by degrees we go to <expan type="">that</expan> that is 
+shewed as: he hyd hym selfe in the 
+blacke dennes. By blacke, is vnder<emend err="">&#173;</emend>
+ 
+
+</page>
+
+<page sig="C5v">
+stand ful of darkenes &#38; consequent<emend err="">&#173;</emend>
+ly stepe downe, and verye depe.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Metonomia</term>
+</note>
+Metonomya</form> <xpln lexeme="transnomination(n)">, Transnominacion, 
+when a worde that hathe a proper 
+significacion of hys owne, beynge 
+referred to another thing, hath ano<emend err="">&#173;</emend>
+ther: &#38; this is done diuerse waies. 
+
+<note type="m">
+i.
+</note>
+When the chiefe master or doar 
+of a thyng is put for <expan type="">the</expan> thing it self, 
+as: Put vpon you the Lorde Iesus 
+Christ. Also: You play Iudas <expan type="">with</expan> me 
+
+<note type="m">
+ii.
+</note>
+When the place, or that that c<expan type="">on</expan>&#173;
+teineth, is put for the thyng that is 
+in it, as: All the round earthe pray&#173;
+seth God. Oxforth (some say) hath 
+not forsaken all popery, for the stu&#173;
+dentes therin. 
+
+<note type="m">
+iii.
+</note>
+When that that is conteyned is 
+put for that that doth conteine, as: 
+The fryer Austens is goodly buyl&#173;
+ded, for <expan type="">the</expan> house wher <expan type="">the</expan> fryers wer. 
+
+<note type="m">
+iiii.
+</note>
+When the doer is put for <expan type="">that</expan> <expan type="">that</expan> 
+is done, as: God brought the Isra&#173;
+elites out of Egypte wyth a stret&#173;
+ched out arme, and stronge hande. 
+Also: Is gods hand drawen in? for 
+power and strength. 
+
+<note type="m">
+v.
+</note>
+When <expan type="">that</expan> is done is put for <expan type="">the</expan> doer.</xpln>
+<lemenote>"Transnomination" antedates the earliest OED citation (1561).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="synecdoche(n)">
+<note type="m">
+Synecdoche
+</note>
+<term lang="la">Intellectio</term></form> <xpln lexeme="intellection(n)">, Intelleccion wh<expan type="">en</expan> one 
+
+</page>
+
+<page sig="C6r">
+thyng is vnderstand by another <expan type="">that</expan> 
+is of the same maner and kynd, and 
+this is done many wayes. 
+
+<note type="m">
+i.
+</note>
+When bi the whole is vnderst<expan type="">an</expan>d 
+a parte, as: Abraham set a calfe be&#173;
+fore them, for calues fleshe. 
+
+<note type="m">
+ii.
+</note>
+By a parte the whole, as: He re&#173;
+ceyued the stra<expan type="">un</expan>gers vnder the suc<emend err="">&#173;</emend>
+cour of hys house rofe, for into hys 
+house. 
+
+<note type="m">
+iii.
+</note>
+By one many, as: The Frenche&#173;
+m<expan type="">an</expan> in <expan type="">the</expan> batail had the ouerthrow. 
+
+<note type="m">
+iiii.
+</note>
+By a kynd <expan type="">the</expan> general, as: If thou 
+se thyne enemies Asse fal vnder his 
+burden, for cattell. 
+
+<note type="m">
+v.
+</note>
+By the general the kynd: Eue the 
+mother of al liuing things, for of al 
+m<expan type="">en</expan>: Preach to al creaturs, to al m<expan type="">en</expan>. 
+
+<note type="m">
+vi.
+</note>
+By that goeth before, the thynge 
+that foloweth, as: Defer hys spur&#173;
+res to hys horse, for he rode a pace, 
+or fled faste awaye. 
+
+<note type="m">
+vii
+</note>
+By that <expan type="">that</expan> foloweth, the thinge 
+wente before, as: I got it wyth the 
+swete of my face, for <expan type="">with</expan> my labour. 
+
+<note type="m">
+viii.
+</note>
+By the matter, <expan type="">the</expan> thynge <expan type="">that</expan> is 
+made of it, as: Fleshe and bloude 
+shewed the not it. 
+
+<note type="m">
+ix.
+</note>
+By the signe, <expan type="">the</expan> thyng <expan type="">that</expan> is signified 
+
+</page>
+
+<page sig="C6v">
+as: Lo, now the toppe of the chym&#173;
+neyes in the villages smoke a farre 
+of: wherby Vyrgyl signifieth night 
+to be at hande.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="antonomasia(n)">
+<note type="m">
+<term lang="la">Pronominia&#173;
+cio.</term>
+</note>
+Antonomasia</form> <xpln>, is, whych for <expan type="">the</expan> pro&#173;
+per name putteth some other word
+As the Archebyshop confuted the 
+errour, for Cranmer. The Philoso<emend err="">&#173;</emend>
+pher lyed that the worlde was eter<emend err="">&#173;</emend>
+nall, for Aristotle. The Apostle say&#173;
+eth wee be iustified by faythe, for 
+Paule.</xpln>
+<lemenote>"Antonomasia" antedates the earliest OED citation (1553).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="periphrasis(n)" lexeme="etymology(n)" lexeme="sign(n)" lexeme="definition(n)">
+<note type="m">
+Periphrasis.
+</note>
+<term lang="la">Circuicio</term></form> <xpln>, is a larger descripcion 
+eyther to garnyshe it, or if it bee 
+foule to hyde it, or if it be bryefe to 
+make it more playn: by etimology, 
+by sygnes, by definicion 
+Example of the fyrste. The proui&#173;
+d<expan type="">en</expan>ce of Scipio, ouerthrew <expan type="">the</expan> might 
+of Carthago. Here saue onlye for 
+garnyshyng sake he myghte haue 
+sayde playnlye: Scipio ouerthrew 
+Carthage: Of the nexte. When 
+Saule was doyng his busines, Da<emend err="">&#173;</emend>
+uid might haue killed hym. Doyng 
+hys busines, ye wot what it mea&#173;
+neth. Of <expan type="">the</expan> thyrd, you haue the lar&#173;
+ger exposicions vpon the Gospels 
+called by the name of thys figure. 
+
+</page>
+
+<page sig="C7r">
+By Etymologie or shewyng the 
+reas<expan type="">on</expan> of the name. Well maye he be 
+called a parasite, for a parasite is 
+<expan type="">the</expan> loueth other because of his meat. 
+
+By sygnes, as: when by certeine 
+notes we describe anye thynge, as 
+if a man underst<expan type="">an</expan>dyng anger wyll 
+saye that it is the boylynge of the 
+mynde, or color, whych bryngeth in 
+palenes into the co<expan type="">un</expan>tena<expan type="">un</expan>ce, fierse<emend err="">&#173;</emend>
+nes in the eies, and tr<expan type="">em</expan>blyng in the 
+members. 
+
+By definicion. The arte of well 
+indyghting, for Rhetorique.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Trope, Part 2">
+The second parte of Trope. 
+
+<wordentry type="d"><form lexeme="allegoria(n)">
+Allegoria</form> <xpln>, the seconde parte of 
+Trope is an inuersion of wordes, 
+where it is one in wordes, and ano<emend err="">&#173;</emend>
+ther in sentence or meanynge.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="enigma(n)">
+<note type="m">
+Aenigma.
+</note>
+<term lang="la">Sermo obscurus</term></form> <xpln lexeme="riddle(n)">, a riddle or darke 
+allegorie, as: The halfe is more th<expan type="">en</expan> 
+the hole.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="adagium(n)">
+<note type="m">
+<term lang="la">Parenna.</term>
+</note>
+Adagium</form> <xpln>, a sayinge muche vsed 
+and notable for some noueltye, as: 
+The wolfe is in our tale.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="ironia(n)">
+<note type="m">
+Ironia.
+</note>
+<term lang="la">Dissimulatio</term></form> <xpln>, is a mockyng whi&#173;
+che is not perceiued by the wordes 
+but eyther by the pron<expan type="">un</expan>ciacion, or 
+
+</page>
+
+<page sig="C7v">
+by the behaueour of the person, or 
+by the nature of the thyng, as: You 
+are an honest man in deede.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Sarcasmis.</term>
+</note>
+<term lang="la">Amara irrisio</term></form> <xpln>, is a bitter sporting 
+a mocke of our enemye, or a maner 
+of iestyng or scoffinge bytynglye, a 
+nyppyng tawnte, as: The Iewes 
+sayde to Christ, he saued other, but 
+he could not saue hymselfe.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Astysmus.</term>
+</note>
+<term lang="la">Festina urbanitas</term></form> <xpln>, is a certen mery 
+conceyted speakyng, as on a tyme 
+a mery felow metynge <expan type="">with</expan> one that 
+had a very whyte head, axed him if 
+he had lyen in the snowe al nyght.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Mycteris&#173;
+mus.</term>
+</note>
+<term lang="la">Subsannatio</term></form> <xpln>, a skornyng by some 
+iesture of the face, as by wrythinge 
+the nose, putting out the tonge, pe&#173;
+tyng, or suche lyke.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="antiphrasis(n)">
+<note type="m">
+Antiphrasis.
+</note>
+<term lang="la">Dictio c<expan type="">on</expan>trari<expan type="">um</expan> significans</term></form> <xpln lexeme="fustilugs(n)">, when 
+the mock is in a worde by a contra<emend err="">&#173;</emend>
+rye sence, as when we call a fusti<emend err="">&#173;</emend>
+lugges, a minion.</xpln>
+<lemenote>"Fustilugges" antedates the earliest OED citation (1607).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Charientis&#173;
+mus.</term>
+</note>
+<term lang="la">Graciosa nugatio</term></form> <xpln>, when wordes 
+toughly spok<expan type="">en</expan> be molified by plea&#173;
+saunt wordes: as when we saye to 
+hym that threatneth vs: I praye 
+you be good master to me.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="C8r">
+<wordgroup1 type="t" object="Rhetorical Figures">
+
+The fyrst order of the fi&#173;
+gures Rethoricall. 
+
+<wordentry type="d"><form lexeme="epanaphora(n)">
+<note type="m">
+Epanaphora
+</note>
+<term lang="la">Repeticio</term></form> <xpln lexeme="repetition(n)">, repeticion, when in 
+lyke and diuerse thynges, we take 
+our begynnyng c<expan type="">on</expan>tinually at one &#38; 
+the selfe same word, thus: To you 
+this thyng is to be ascribed, to you 
+thanke is to be geuen, to you thys 
+thynge shal be honour. In this ex&#173;
+ornacion is much pleasantnes, gra&#173;
+uitie, and sharpnes, &#38; it is much v&#173;
+sed of al oratours &#38; notably setteth 
+oute, and garnysheth the oracion.</xpln>
+<lemenote>"Epanaphora" antedates the earliest OED citation (1678).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="antistrophe(n)">
+<note type="m">
+Antistrophe.
+</note>
+<term lang="la">Conuersio</term></form> <xpln lexeme="conversion(n)">, conuersion is whych 
+taketh not hys begynnynges at al 
+one and the same worde, but <expan type="">with</expan> all 
+one worde styll closeth vp the sen&#173;
+tence, &#38; it is contrary to that other 
+before, as: Sence the time <expan type="">that</expan> c<expan type="">on</expan>cord 
+was tak<expan type="">en</expan> awaye from the citie, ly&#173;
+berty was tak<expan type="">en</expan> awai: fidelity was 
+tak<expan type="">en</expan> away: fr<expan type="">en</expan>ship was tak<expan type="">en</expan> away</xpln>
+<lemenote>"Antistrophe" antedates the earliest OED citation (1605).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="symploce(n)">
+<note type="m">
+Symploce.
+</note>
+<term lang="la">C<expan type="">om</expan>plexio</term></form> <xpln lexeme="complexion(n)">, complexion c<expan type="">om</expan>priseth 
+both two exornacions, both this, &#38; 
+that whych we declared before, <expan type="">that</expan> 
+both all one fyrste worde shulde be 
+oft<expan type="">en</expan> repeted, &#38; we shuld turne often 
+to all one laste word, as: Who toke 
+Sidechias prisoner, &#38; put out both 
+
+</page>
+
+<page sig="C8v">
+hys eyes? Nabuchodonozer. Who 
+put Daniell and hys felowes into 
+the burnyng furnace? Nabuchodo&#173;
+nozer. Who was transformed fr<expan type="">om</expan> a 
+man into a beast, &#38; eate haye wyth 
+oxen? Nabuchodonozer.</xpln>
+<lemenote>"Symploce" antedates the earliest OED citation (1577).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="anadiplosis(n)">
+<note type="m">
+Anadiplosis.
+</note>
+<term lang="la">Reduplicatio</term></form> <xpln>, is a continent re&#173;
+hearsyng agayne of all one worde, 
+or wordes, for the more vehemence, 
+and some effect of the mynde. Cice&#173;
+ro agaynst Catiline. Yet he liueth, 
+liueth? yea commeth also into the 
+counsel house. It is thou, it is thou 
+that troublest all the houshold. 
+Also, dareste thou nowe come into 
+our syght, <expan type="">thou</expan> traitour of thy c<expan type="">on</expan>trey? 
+Thou traitour I say of thy contrei, 
+darest thou come into oure syghte?</xpln>
+<lemenote>"Anadiplosis" antedates the earliest OED citation (1589).</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Epanodus.</term>
+</note>
+<term lang="la">Traduccio</term></form> <xpln lexeme="traduction(n)">, Traduccion is, why&#173;
+che maketh that wh<expan type="">en</expan> all one word 
+is oftentymes vsed, that yet it doth 
+not onlye not displease the mynde, 
+but also make <expan type="">the</expan> oracion more trim 
+in this wyse: Suffer ryches to be&#173;
+longe to riche men but prefer thou 
+vertue before ryches: For if <expan type="">thou</expan> wylt 
+compare ryches wyth vertue, thou 
+shalte scarse thynke them meete to 
+be called ryches, whych at but h<expan type="">an</expan>d 
+
+</page>
+
+<page sig="D1r">
+maydens to vertue. Also, we are vn<emend err="">&#173;</emend>
+to God the swete sauour of Christ. 
+To the one part are we the sauour 
+of death vnto deathe, and vnto the 
+other part are we the sauour of lyfe 
+vnto lyfe. ii. Cor. ii.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Sinonimia</term>
+</note>
+<term lang="la">Nominis c<expan type="">om</expan>munio</term></form> <xpln lexeme="communion(n)">, c<expan type="">om</expan>munion of 
+the word, when we renewe not the 
+selfe same worde by rehearsyng a&#173;
+gayn, but chaunge that that is put 
+wyth an other word of the same va<emend err="">&#173;</emend>
+lewe, thus: Thou hast ouerthrow&#173;
+en the comon wealth euen from the 
+foundacion, and cast downe the ci&#173;
+tye, euen from the roote. The iuste 
+man shall floryshe as the palme tre, 
+and shall be multiplyed as the Ce&#173;
+der tre. Cicero for Q. Ligarius. 
+Whose syde wolde that poynte of 
+thy swerd haue pricked? what mea<emend err="">&#173;</emend>
+ned thy weapons? what was thy 
+mynde? what meante thyne eyes? 
+handes, that burning of thy mynd? 
+what desiredst <expan type="">thou</expan>? what wyshedste 
+thou? Lytle differeth thys figure 
+from the other before, only because 
+the wordes be cha<expan type="">un</expan>ges, the sent<expan type="">en</expan>ce 
+remayning.</xpln></wordentry>
+
+</page>
+
+<page sig="D1v">
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Sinathris&#173;
+mus.</term>
+</note>
+<term lang="la">Frequentacio</term></form> <xpln lexeme="frequentation(n)">, frequentacion is, 
+when the thynges that be dispersed 
+thorowout all the cause, are gathe<emend err="">&#173;</emend>
+red together into one place, that <expan type="">the</expan> 
+oracion shulde be the wayghtier, &#38; 
+rebukefuller, thus: What faute is 
+he without? why shuld you O Iud&#173;
+ges be mynded to deliuer hym? He 
+is an harlot of hys owne bodye, he 
+lyeth in wayte for others, gredy, in<emend err="">&#173;</emend>
+temperate, wanton, proud, vnnatu<emend err="">&#173;</emend>
+ral to his parentes, vnkynd to hys 
+frindes, troubleous to hys kynse&#173;
+folke, stubburn to hys betters, dys&#173;
+daynful to his equals, cruel to hys 
+inferiours, finally, intollerable to 
+all men.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="ecphonesis(n)">
+<note type="m">
+Epiphonesis
+</note>
+<term lang="la">Exclamacio</term></form> <xpln lexeme="exclamation(n)">, exclamaci<expan type="">on</expan> is, whi&#173;
+che sheweth the significacion of so&#173;
+rowe, or of anger, by callyng vpon 
+eyther a man, a place, or a thynge? 
+Cicero in hys oratour: O deceitful 
+hope of men, and frayle fortune: &#38; 
+our vayne contencions, whych oft<expan type="">en</expan> 
+tymes are broken in the myd way, 
+rushe downe, and in the fal ar quite 
+ouerthrowen before they can se the 
+hauen. Hereunto bel<expan type="">on</expan>geth expecta<emend err="">&#173;</emend>
+ci<expan type="">on</expan>, obtestaci<expan type="">on</expan>, wishyng, rebuking.</xpln>
+<lemenote>"Epiphonesis" antedates the earliest OED citation (1589).</lemenote>
+</wordentry>
+
+</page>
+
+<page sig="D2r">
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Areia.</term>
+</note>
+<term lang="la">Execracio</term></form> <xpln lexeme="execration(n)">, execracion: O fye vp<emend err="">&#173;</emend>
+on Idolatry, that taketh away the 
+honoure due vnto God alone, and 
+geueth it to synfull creatures, and 
+Images made by mans hand.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Deesis.</term>
+</note>
+<term lang="la">Obtestacio</term></form> <xpln lexeme="obtestation(n)">, obtestacion, wh<expan type="">en</expan> for 
+God, or for mannes sake we vehe&#173;
+mently desyre to haue any thynge 
+As Cicero for Publius Sestius: O 
+I praye you, &#38; for the Gods sakes 
+most herteli besech you, <expan type="">that</expan> as it was 
+your wylles to saue me, so you wyl 
+vouchsaf to saue th<expan type="">em</expan> thorow whose 
+helpe you receiued me agayne.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Euche.</term>
+</note>
+<term lang="la">Votum</term></form> <xpln lexeme="wishing(n)">, wyshynge: O wolde God 
+that the adulterer had bene drow&#173;
+ned in the ragyng sea, whan wyth 
+hys nauye of shyppes he sayled to 
+Lacedemonia.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="epiplexis(n)">
+<note type="m">
+Epiplexis,
+</note>
+<term lang="la">Increpacio</term></form> <xpln>, Cicero agaynst Cati<emend err="">&#173;</emend>
+line. Thynkest thou that thy coun&#173;
+selles are not knowen? and that we 
+knowe not what thou dyddest the 
+laste nyghte? and what the nyghte 
+before?</xpln>
+<lemenote>
+"Epiplexis" antedates the earliest OED citation (1678).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="erotesis(n)">
+<note type="m">
+Erotesis.
+</note>
+<term lang="la">Interrogacio</term></form> <xpln lexeme="interrogation(n)">, Euerye interro&#173;
+gaci<expan type="">on</expan> is not of grauity, neither yet 
+a Scheme, but thys whyche when 
+
+</page>
+
+<page sig="D2v">
+those thinges be rehearsed vp whi&#173;
+che hurte oure aduersaryes cause, 
+strengthneth that thynge that is 
+gone before, thus seynge then that 
+he spake all these wordes, and dyd 
+all these thynges, whether dyd he 
+put away our felowes myndes fr<expan type="">om</expan> 
+the c<expan type="">om</expan>mon wealthe or not?</xpln>
+<lemenote>
+"Erotesis56" antedates the earliest OED citation (1656).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="erotema(n)">
+<note type="m">
+Erotema.
+</note>
+<term lang="la">Raciocinatio</term></form> <xpln lexeme="ratiocination(n)">, raciocinacion is, 
+by the whych we our selues axe a 
+reason of our selfe, wherefore eue&#173;
+rye thynge shulde be spoken, &#38; that 
+oftentymes we demaund of our sel<emend err="">&#173;</emend>
+ues a declaracion of euery proposi<emend err="">&#173;</emend>
+cion after thys maner: Thys was 
+well ordeined of oure elders to de&#173;
+pryue no kynge of hys lyfe whome 
+they had taken in batayl. Why so? 
+for the power whyche fortune had 
+geuen vs, it to consume in the pu&#173;
+nyshement of them whom the same 
+fortune a lytle before had set in hy&#173;
+este degree, were agaynste reason. 
+Yea but he brought a greate army 
+agaynst you? I wyl not remember 
+it. Why so? For it is the poynte of 
+a valiaunte man, such as contend 
+for the vyctorye, them to counte ene<emend err="">&#173;</emend>
+myes: suche as be ouercome, those 
+
+</page>
+
+<page sig="D3r">
+to count m<expan type="">en</expan>: so that fortitude maye 
+diminishe war, humanitie increase 
+peace. But he if he had ouercome, 
+wolde he haue done so? Verelye he 
+wolde not haue bene so wyse. Why 
+shulde ye spare hym then? because 
+such foly I am wont to despise, not 
+to folowe.</xpln>
+<lemenote>
+"Erotema" antedates the earliest OED citation (1589).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Prosapodo&#173;
+sis.</term>
+</note>
+<term lang="la">Subiectio</term></form> <xpln>, when we axe of oure 
+selfe what can be saide agaynst vs, 
+and answere to our selues thus: 
+Shall we tary in synne? God for&#173;
+byd. Or compell our aduersarye to 
+answer thus: O Iewes, what can 
+you say for denyall of Christe. Wyl 
+you saye that you haue not youre 
+Messias? but your prophets say the 
+contrarye. Your Types are confo<expan type="">un</expan><emend err="">&#173;</emend>
+ded. Whom wyl you be iudged by? 
+by Hystories? Oures declare that 
+you be out of the way, &#38; shall come 
+agayne to Christ.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Antiphora.</term>
+</note>
+<term lang="la">Tacite obiectioni responsio.</term></form> <xpln>Wh<expan type="">en</expan> 
+we make answere to a thynge that 
+myght priuely be obiected agaynst 
+vs, as in the fyrst epystle of Ouide, 
+Penelope wylling her husband V&#173;
+lysses to come home hymselfe, and 
+wryte nothyng vnto her. Wher he 
+
+</page>
+
+<page sig="D3v">
+myght haue layed for hys tarying 
+the warres, she priuely toke awaye 
+<expan type="">the</expan> excuse, saying: Troy is destroied.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="aporia(n)">
+<note type="m">
+Aporia.
+</note>
+<term lang="la">Dubitatio</term></form> <xpln lexeme="dubitation(n)">, dubitacion, when wee 
+doute of two thynges, or of many, 
+whych we shuld inespecially speke 
+of. Much hurted the c<expan type="">om</expan>mon wealth 
+at that tyme, whether I shuld saye 
+the folyshenesse of the consulles, or 
+the malyce, or bothe, I can not tell.</xpln>
+<lemenote>
+"Aporia" antedates the earliest OED citation (1589).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="apophasis(n)">
+<note type="m">
+Apophasis.
+</note>
+<term lang="la">Expeditio</term></form> <xpln lexeme="expedition(n)">, expedicion, when ma<emend err="">&#173;</emend>
+ny reasons rehearsed vp, wherby a 
+thynge myghte be done or not, the 
+other are taken away, and one left 
+that we entende, thus: It muste 
+needes bee that thys controuersie 
+touching the sacrament must stand 
+eyther vpon the much pressyng and 
+rigour of the wordes, or vpon the 
+meanynge and vnderstandynge of 
+them. The wordes as they stande, 
+brynge wyth them greate inconue&#173;
+nience, to wytte, to expositoures, 
+and the other textes. The meaning 
+doth not so, but auoydeth al these in<emend err="">&#173;</emend>
+c<expan type="">on</expan>ueniences, &#38; satisfieth reason, ex<emend err="">&#173;</emend>
+positours, &#38; texts of the scripture: 
+wherfore wyt, expositour, &#38; scrip&#173;
+ture thinketh it better to take the 
+sentence, then the worde.</xpln>
+<lemenote>
+"Apophasis" antedates the earliest OED citation (1656).
+</lemenote>
+</wordentry>
+
+</page>
+
+<page sig="D4r">
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Epilogus.</term>
+</note>
+<term lang="la">Conclusio</term></form> <xpln lexeme="conclusion(n)">, conclusi<expan type="">on</expan> is, which by 
+a brief argum<expan type="">en</expan>tacion of these thin&#173;
+ges that be spoken before or done, 
+inferreth that thynge that necessa&#173;
+rilye shulde folowe, thus: And if 
+a reuelacion wer geuen to the Tro<emend err="">&#173;</emend>
+ianes, <expan type="">that</expan> Troy myght not be taken 
+without <expan type="">the</expan> arowes of Philectetes, 
+and thei did nothing else but strike 
+Alexander to kyl him that in dede 
+was Troy to be taken.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="epitrope(n)">
+<note type="m">
+Epitrope.
+</note>
+<term lang="la">Permissio</term></form> <xpln lexeme="permission(n)">, permission, when we 
+shew <expan type="">that</expan> we geue &#38; gra<expan type="">un</expan>t any thyng 
+altogether to a mans wyll, thus: 
+Because al thynges tak<expan type="">en</expan> away, on<emend err="">&#173;</emend>
+ly is left vnto me my body &#38; mynd, 
+these thynges, whych only at leste 
+vnto me of many, I graunte th<expan type="">em</expan> to 
+<emend err="to"></emend>you and to your power.</xpln>
+<lemenote>
+"Epitrope" antedates the earliest OED citation (1656).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Anacinosis.</term>
+</note>
+<term lang="la">C<expan type="">om</expan>municacio</term></form> <xpln lexeme="communication(n)">, c<expan type="">om</expan>municacion is, 
+when we leaue sumwhat to <expan type="">the</expan> Iud&#173;
+ges to be estemed, thus: I leaue vn<emend err="">&#173;</emend>
+to you o iudges to be thought what 
+hurt <expan type="">the</expan> c<expan type="">om</expan>m<expan type="">on</expan> welth shal take hereof</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="dialysis(n)">
+<note type="m">
+Dialisis.
+</note>
+<term lang="la">Diuisio</term></form> <xpln lexeme="division(n)">, diuision is which diuiding 
+one thyng fr<expan type="">om</expan> another, endeth th<expan type="">em</expan> 
+both by shewing a reas<expan type="">on</expan>, thus: why 
+shuld I lay ani thing to thi charge? 
+if <expan type="">thou</expan> bee good, <expan type="">thou</expan> hast not deserued 
+
+</page>
+
+<page sig="D4v">
+it, if thou be naught, thou carest not 
+for it. Also, what shuld I speake of 
+myne owne good turnes towarde 
+the. If thou do remember them, I 
+shuld but trouble you: If you haue 
+forgotten them, when by deede I 
+haue profited nothyng, what good 
+can I do in wordes?</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="antithet(n)">
+<note type="m">
+Antitheton.
+</note>
+<term lang="la">Contentio</term></form> <xpln lexeme="contention(n)">, contencion, when the 
+reason st<expan type="">an</expan>deth by contrary wordes 
+or contraries be rehearsed by c<expan type="">om</expan>pa<emend err="">&#173;</emend>
+rison, thus: Flattery hath pleasa<expan type="">un</expan>t 
+begynnynges, but the same hathe 
+verye bytter endynges. Cicero a<emend err="">&#173;</emend>
+gaynst Catiline: when they coulde 
+not lyue honestlye, they had rather 
+dye shamefully. They that be after 
+the fleshe, care for these thynges <expan type="">that</expan> 
+be of the fleshe. They that be after 
+the spirite, care for the thynges of 
+the spirite.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="antithesis(n)">
+<note type="m">
+Antithesis.
+</note>
+<term lang="la">Contrarium</term></form> <xpln lexeme="contrary(n)">, contrary is, that of 
+two diuerse thynges confirmeth <expan type="">the</expan> 
+one bryefely and easelye, thus: For 
+he that alwayes wyll be an enemy 
+to hys owne rekenyngs, how shuld 
+a man trust that he wold be a frind 
+to other mens matters? He that in 
+familiare c<expan type="">om</expan>municacion and com&#173; 
+
+</page>
+
+<page sig="D5r">
+pany of hys friendes wyl neuer say 
+truth, thinkest th<expan type="">em</expan> <expan type="">that</expan> he wil absteine 
+from a lye in a c<expan type="">om</expan>mon audience.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="colon(n)">
+<note type="m">
+Colon.
+</note>
+<term lang="la">Membrum oracionis</term></form> <xpln>, a m<expan type="">em</expan>ber of 
+the reas<expan type="">on</expan> is so called when a thinge 
+is shewed perfitely in fewe wordes 
+the whole sentence not shewed, but 
+receyued agayne <expan type="">with</expan> an other parte, 
+thus: Thou dyddest bothe profite 
+thyne enemie, and hurte thy frynd. 
+Thys exornacion may be made of 
+two partes only, but the perfiteste 
+is made of thre, thus: Thou diddest 
+profite thine enemy, hurt thi frind, 
+and dydst no good to thy selfe.</xpln>
+<lemenote>
+"Colon" antedates the earliest OED citation (1589).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="dialyton(n)">
+<note type="m">
+Dialyton.
+</note>
+<term lang="la">Articulus</term></form> <xpln lexeme="article(n)">, article is, when eche 
+word is set a sunder by cutting the 
+oracion thus. By sharpnes, voyce, 
+countenaunce, thou madeste thyne 
+enemyes afrayd. Thou destroyedst 
+thyne enemyes wyth enuye, wron&#173;
+ges, power, falsehead.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="isocolon(n)">
+<note type="m">
+Isocolon.
+</note>
+<term lang="la">Compar</term></form> <xpln lexeme="even(n)" lexeme="equal(n)">, euen or equall, is when 
+the oracion hath in it the partes of 
+the whyche we spake before, &#38; that 
+they be made of euen number of sil<emend err="">&#173;</emend>
+lables: but thys equalitie must not 
+stand by numbryng of them, but by 
+perceyuyng of it in <expan type="">the</expan> mynd. Christe 
+
+</page>
+
+<page sig="D5v">
+afore the Iudge was led, &#38; on hys 
+head a croune of thorne was putte, 
+in token that in dede, the kynge of 
+Iews he was borne. Here be some 
+mo wordes in on m<expan type="">em</expan>ber then in an 
+other, yet sound they to the eare of 
+lyke lengthe.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="homoeoptoton(n)">
+<note type="m">
+Homioptot<expan type="">on</expan>
+</note>
+<term lang="la">Similiter cadens</term></form> <xpln lexeme="falling all alike(n)">, fallyng al alike 
+is, when in the same construcci&#173;
+on of wordes ther be two wordes 
+or mo which be spoken alyke in the 
+selfe same cases, thus: Thou pray&#173;
+sest a man nedye of vertue, plente&#173;
+ful of money. Cicero for Flaccus: 
+There is in th<expan type="">em</expan> no varietie of opini<emend err="">&#173;</emend>
+on, none of wyll, none of talke.</xpln>
+<lemenote>
+"Homioptoton" antedates the earliest OED citation (1678)).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Homoteleto.</term>
+</note>
+<term lang="la">Similiter desinens</term></form> <xpln lexeme="ending all alike(n)">, endynge al a&#173;
+lyke, when words or sent<expan type="">en</expan>ces haue 
+alyke endyng, as: Thou dareste do 
+fylthely, and studiest to speke bau&#173;
+dely. Content thy selfe <expan type="">with</expan> thy state, 
+in thy herte do no man hate, be not 
+the cause of stryfe and hate.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="climax(n)">
+<note type="m">
+Climax.
+</note>
+<term lang="la">Gradacio</term></form> <xpln>, is wh<expan type="">en</expan> we rehearse a 
+gain the word <expan type="">that</expan> goth next before, &#38; 
+dest<expan type="">en</expan>d to other thinges by degrees 
+thus: To Affrican industry gat ver<emend err="">&#173;</emend>
+tue, vertue glory, glory hatered.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Orismus.</term>
+</note>
+<term lang="la">Definicio</term></form> <xpln lexeme="definition(n)">, definici<expan type="">on</expan>, wherby <expan type="">the</expan> pro&#173;
+ 
+
+</page>
+
+<page sig="D6r">
+per effect of any thynge is declared 
+briefely &#38; absolutely in this wyse: 
+This is not dilig<expan type="">en</expan>ce but couetous&#173;
+nes, because <expan type="">the</expan> dilig<expan type="">en</expan>ce is a nedy sa&#173;
+uing of thine own: couetousnes is 
+a wrongful desyre of othermens.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="metabasis(n)">
+<note type="m">
+Metabasis.
+</note>
+<term lang="la">Transicio</term></form> <xpln lexeme="transition(n)">, transici<expan type="">on</expan> is, wherby brief<emend err="">&#173;</emend>
+ly we monyshe what hath ben spo&#173;
+ken, &#38; what may folowe, as: What 
+he hath ben to hys contrey I haue 
+told, now ye shal hear how he hath 
+shewed him self to hys par<expan type="">en</expan>tes. Al&#173;
+so Cicero for the law of Manilius: 
+Because we haue spoken of <expan type="">the</expan> kind 
+of the warre, now wyll we shewe a 
+fewe thynges of the greatnes of it.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="paralepsis(n)">
+<note type="m">
+Paralepsis.
+</note>
+<term lang="la">Occupatio</term></form> <xpln lexeme="occupation(n)">, occupacion is, when we 
+make as though we do not knowe, 
+or wyl not know of <expan type="">the</expan> thyng <expan type="">that</expan> wee 
+speke of most of al, in this wyse: I 
+wyl not say that <expan type="">thou</expan> tokest money of 
+our felowes, I wyl not stand much 
+in thys that <expan type="">thou</expan> robbedst kingdoms, 
+cityes, and al mens houses: I passe 
+ouer thy theftes, &#38; al thy rauyns.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="asindeton(n)">
+<note type="m">
+Asindeton.
+</note>
+<term lang="la">Dissolutio</term></form> <xpln>, when the oracion lacketh 
+coni<expan type="">un</expan>ccions, thus: Obey thy par<expan type="">en</expan>&#173;
+tes, be ruled by thi kinsfolke, folow 
+thy fryndes, obey the lawes.</xpln>
+<lemenote>"Asyndeton" antedates the earliest OED citation (1589).</lemenote>
+</wordentry>
+
+</page>
+
+<page sig="D6v">
+<wordentry type="d"><form lexeme="apostrophe(n)">
+<note type="m">
+Apostrophe.
+</note>
+<term lang="la">Auersio</term></form> <xpln lexeme="aversion(n)">, auersion, when we turne 
+our speche from them to whom we 
+dyd speake to another personne, ey&#173;
+ther present or absent, or to a thing 
+to the whych we fayne a person, as 
+a precher, speaking of priestes, that 
+feede not the flocke, may fytly turn 
+hys speche vnto Peter, sayinge: O 
+Peter, I wold thou liuedst, &#38; saw&#173;
+est what thy brethren do, howe far 
+they be gone fr<expan type="">om</expan> that thou prescri&#173;
+bedst them to do. Againe: O world, 
+howe pleasant be the thynges that 
+thou dost promyse, how bytter ben 
+they that thou geuest.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Anangeon.</term>
+</note>
+<term lang="la">Necessum</term></form> <xpln lexeme="necessity(n)">, necessitie, when we c<expan type="">on</expan><emend err="">&#173;</emend>
+fesse the thynge to be done, but ex&#173;
+cuse it by necessitye, eyther of <expan type="">the</expan> per<emend err="">&#173;</emend>
+son or tyme, thus: I confesse that 
+thys I dyd. But the woman that 
+thou gauest me, dyd deceyue me. 
+Also, somtyme I was in that opi&#173;
+nion, but the tyme so required.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="anaclasis(n)">
+<note type="m">
+Anaclasis.
+</note>
+<term lang="la">Refractio</term></form> <xpln>, that is the turninge 
+backe agayne of a worde into a c<expan type="">on</expan>&#173;
+trary significacion, thus: I knowe 
+kynge Ezechias that all thys lyfe 
+is but bitternes, but I praye thee 
+gyue me suche bytternes.</xpln>
+<lemenote>"Anaclasis" antedates the earliest OED citation (1784) but also has a quite different sense.</lemenote>
+</wordentry>
+
+</page>
+
+<page sig="D7r">
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Bomphiolo&#173;
+gia.</term>
+</note>
+<term lang="la">Verborum bombus</term></form> <xpln>, when small &#38; 
+triflyng thynges are set out wyth 
+great gasyng wordes. Example of 
+this haue you in Terence of <expan type="">the</expan> boa&#173;
+sting souldiar, &#38; creping smel feast.</xpln></wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Miosis.</term>
+</note>
+<term lang="la">Diminutio</term></form> <xpln>, when greate matters 
+are made lyghte of by wordes, as 
+when he was wel beat<expan type="">en</expan> bi a knaue, 
+that knaue wyll saye he dyd but a 
+lytle stryke hym.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="liptote(n)">
+<note type="m">
+Liptote.
+</note>
+<term lang="la">Extenuatio</term></form> <xpln>, the makyng lesse of a 
+thynge to auoyde arrogance, thus: 
+If I haue any wit O Iudges, if a&#173;
+ny exercyse of endyghtyng, al may 
+I thanke Archias the Poete of. 
+Cicero for Archias.</xpln>
+<lemenote>
+"Liptote" antedates the earliest OED citation (1589).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Diasirmus.</term>
+</note>
+<term lang="la">Eleuacio</term></form> <xpln>, when we make lyghte 
+of, and dyspyse great argumentes 
+brought agaynst vs, whych to aun<emend err="">&#173;</emend>
+swer vnto it is labour, and we saye 
+they perteyne not to the purpose, 
+or that they are vnworthy to be an<emend err="">&#173;</emend>
+swered vnto, or that we kepe them 
+tyll another tyme: Of thys ther ne<emend err="">&#173;</emend>
+deth none example</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="D7v">
+<wordgroup1 type="t" object="Figures of Sentence">
+
+AS oute of lytle springs 
+ariseth greate fluddes: 
+so now these preceptes 
+of grammer finyshed, 
+and the fyrste order of 
+the Rethorical figures: We nowe 
+come vnto that greate declaracion 
+of eloquence, called of Quintilian &#38; 
+Cicero, the <emend err="orname">ornamen</emend>tes of sentence.
+
+Figures of sentence.
+
+<wordentry type="d"><form lexeme="partition(n)">
+<note type="m">
+<term lang="la">Particio.</term>
+</note>
+Particion</form> <xpln lexeme="division(n)"> called also diuision &#38; 
+distribucion rethoricall, is when a 
+thing that mai be generally spok<expan type="">en</expan>, 
+is more largely declared, and diui&#173;
+ded into partes. Example: He is 
+perfitely seene in all the sciences. 
+This s<expan type="">en</expan>tence spoken as it were in a 
+s<expan type="">um</expan>me, may be enlarged, if seuerally 
+you reherse vp al the kindes of lear<emend err="">&#173;</emend>
+ning. There is no kynd of doctrine 
+at al but he is exquisitely sene in it. 
+There is no science, but he hathe 
+learned it thorowly, and so learned 
+it, that you wolde thynke he had la<emend err="">&#173;</emend>
+bored onely in it. So maruelouslye 
+he knoweth all the fables of al the 
+Poetes, he so aboundeth in the 
+floures of the Rethoricians: He 
+hath so boulted oute the paynefull 
+
+</page>
+
+<page sig="D8r">
+rules of the gramarians. So per&#173;
+fitely knoweth he the subtilnesse of 
+the Logicians, and hath so soughte 
+oute the priuities of natural thyn&#173;
+ges, and ouercome the harde poyn&#173;
+tes of supernaturall wisedome: he 
+hathe passed thorowe the secretes 
+of the diuines, and hath thorowlie 
+perceyued the mathematical dem<expan type="">on</expan><emend err="">&#173;</emend>
+stracions. He so knoweth the mo&#173;
+cions of the starres, the reasons of 
+numbers, the measurynges of the 
+earth, the situacions, names &#38; spa&#173;
+ces of cities, mountaynes, fluddes, 
+and fountaynes, he so knoweth the 
+difference and harmonies of tunes: 
+He so rem<expan type="">em</expan>breth all hystoryes olde 
+and late: So knoweth all good au&#173;
+thors, all antiquities &#38; nouelties, 
+and also is perfitelye well seene as 
+wel in Greke as latyne. Finallye 
+whatsoeuer learnynge hathe bene 
+found and taught of good authors, 
+al that thorowlie hath he percey&#173;
+ued, knowen and rem<expan type="">em</expan>bred. Here 
+these wordes, he is perfitelye seene 
+in all the sciences, bee declared in 
+theyr partes.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="enumeration(n)">
+<note type="m">
+<term lang="la">Enumeracio</term>
+</note>
+Enumeracion</form> <xpln> is much lyke vn&#173;
+to thys, when not beynge contente 
+
+</page>
+
+<page sig="D8v">
+<note type="m">
+Enumeraci<expan type="">on</expan>
+of thynges
+that go before
+</note>
+at once to declare the ende of the 
+matter, we rehearse vp all <expan type="">that</expan> went 
+before it was done. Example: Cice<emend err="">&#173;</emend>
+ro oppressed the mischeuous purpo<emend err="">&#173;</emend>
+ses of Catiline. Thus maye you set 
+it forth: The myscheuous enterpry<emend err="">&#173;</emend>
+ses of Catiline by most vngracious 
+yonge men, whych went about the 
+destruccion of the citie of Rome, M 
+Tullius the consull dyd quickelye 
+smell out by hys foresyghte, and by 
+hys singuler vigilancye sought th<expan type="">em</expan> 
+oute, by his hyghe prudence espyed 
+them, by his incredible eloquence 
+conuinced them, and by hys graue 
+authoritie repressed th<expan type="">em</expan>, by force of 
+armes subdued them, &#38; with great 
+happines toke them quyte awaye. 
+
+Hitherto also apperteineth, wh<expan type="">en</expan> 
+we expo<expan type="">un</expan>d a thyng not barely, but 
+<note type="m">
+Enumeraci<expan type="">on</expan>
+of the causes.
+</note>
+repete the causes also sumwhat be&#173;
+fore, and of what begynnynges it 
+came of. As if not contente to haue 
+sayd, that the Frenchmen made ba<emend err="">&#173;</emend>
+taile with the Neapolitans, we re&#173;
+hearse also what wer the causes of 
+theyr stryfe, who was the setter for<emend err="">&#173;</emend>
+ward, and what was the occasion 
+of the warre, what hope and truste 
+
+</page>
+
+<page sig="E1r">
+eyther of them had to the victorye. 
+Of these ar many examples in Sa<emend err="">&#173;</emend>
+luste &#38; Liuie. From thys differeth 
+<note type="m">
+Enumeraci<expan type="">on</expan>
+of effectes, &#38;
+consequ<expan type="">en</expan>ces.
+</note>
+not when we do not simplye shewe 
+forthe the matter, but reherse also 
+those thynges that eyther go with 
+it, or folowe it, as thus: We thanke 
+the of thys warre. Thus maye you 
+dilate the matter. The treasure 
+spente vpon the Barbariens, the 
+youthe broken wyth laboures, the 
+corne troden downe, the cattel dri&#173;
+uen awaye, stretes and vyllages e&#173;
+uery where set on fyre, fieldes lefte 
+desolate, walles ouerthrowen, hou<emend err="">&#173;</emend>
+ses robbed, temples spoyled, so ma&#173;
+ny olde men chylderles, so manye 
+orphanes, so manye wyddowes, so 
+many virgins shamefully defiled, <expan type="">the</expan> 
+maners of so many yong m<expan type="">en</expan> made 
+worse by leude liberty, so many m<expan type="">en</expan> 
+slayne, so great mourning, so many 
+good artes loste, lawes oppressed, 
+religion blotted, al thynges of god 
+and man confounded, all good or&#173;
+der of the citie corrupted: I say all 
+this heape of myschiefs that riseth 
+of war, we mai th<expan type="">an</expan>ke the only of it, 
+which wast <expan type="">the</expan> beginner of this war</xpln></wordentry>
+
+</page>
+
+<page sig="E1v">
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Euergia.</term>
+</note>
+Enargia</form> <xpln lexeme="evidence(n)" lexeme="perspicuity(n)" lexeme="description rhetorical(n)">, euidence or perspicui&#173;
+tie called also descripcion rethori&#173;
+call, is when a thynge is so descri&#173;
+bed that it semeth to the reader or 
+hearer <expan type="">that</expan> he beholdeth it as it were 
+in doyng. Of thys figure ben many 
+kyndes.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="effiguration(n)" lexeme="description(n)">
+The fyrste, called effiguracion 
+or descripcion of a thynge,</form> <xpln>where&#173;
+by the figure and forme of it is set 
+out: as of the vniuersall flud.</xpln>
+<lemenote>
+"Effiguration" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="prosopopoeia(n)">
+The seconde,</form> <xpln>the descripcion of 
+a personne, when a man is descri&#173;
+bed, as are the noble menne in Plu<emend err="">&#173;</emend>
+tarch, and the Emperours in Sue&#173;
+tonius. Howe be it the rethorici&#173;
+anes vse thys worde Prosopopeia, 
+that is descripcion of a personne 
+to comprehende the sixe kyndes fo&#173;
+lowinge.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="charactirismus(n)">
+<note type="m">
+Charactirs&#173;
+mus.</note>The thyrde kinde is called Cha&#173;
+ractirismus</form> <xpln lexeme="effiction(n)">, that is the efficcion or 
+pycture of the bodye or mynde, as 
+Dauus described Crito, &#38; Mino 
+describeth Demea.</xpln>
+<lemenote>
+"Effiction" antedates the earliest OED citation (1656).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Prosopogra&#173;
+phia.</term>
+</note>
+The .iiii is the fainyng of a pers<expan type="">on</expan> 
+called Prosopographia,</form> <xpln lexeme="prosopopey(n)">and is of .ij 
+sorts. Fyrst <expan type="">the</expan> descripci<expan type="">on</expan> of a fained 
+
+</page>
+
+<page sig="E2r">
+person, as Vyrgyl in the syxt of E<emend err="">&#173;</emend>
+neid, faineth Sibil to be mad, &#38; fay<emend err="">&#173;</emend>
+neth the persons in hell. An other 
+forme is wh<expan type="">en</expan> we fayne pers<expan type="">on</expan>, c<expan type="">om</expan>mu<emend err="">&#173;</emend>
+nicacion, or affecte of a man or of a 
+beaste, to a dumme thynge, or that 
+hath no bodye, or to a dead man: as 
+to the Harpies, furies, deuils, slepe 
+hongar, enuie, fame, vertue, iustice, 
+and suche lyke, the poetes fayne a 
+person, and communicacion. This 
+seconde fashion the Poetes do call 
+Prosopopey.</xpln></wordentry> <wordentry type="d"><form>The fyrst kind is called 
+<note type="m">
+Aetopeia.
+</note>
+AEtopeia,</form> <xpln>that is an expressi<expan type="">on</expan> of ma<emend err="">&#173;</emend>
+ners or mylde affeccions, and hath 
+thre kyndes: of the whych the fyrst 
+is a significacion or expressi<expan type="">on</expan> of 
+<emend err="of"></emend>maners somewhat longer, as of 
+wittes, artes, vertues, vices. Thus 
+we expresse Thraso a boster, and 
+Demea a sowre felowe.
+
+The seconde forme, is an expres<emend err="">&#173;</emend>
+sion of naturall propensitie, and 
+inclinacions to naturall affecci&#173;
+ons, as of the fathers loue toward 
+the chyldren. &#38;c. of fryendshyppe, 
+neyghbourhod &#38; cete. as you maye 
+se in hystoryes. 
+
+</page>
+
+<page sig="E2v">
+The thyrd kynde is the expression 
+of lighter affeccions, as when wee 
+go about by fayre meanes to gette 
+the mery affeccions of meane to vs 
+ward or to other, &#38; when the mynd 
+is lyft vp into hope, myrth, &#38; laugh<emend err="">&#173;</emend>
+ter, and as be louyng salutations, 
+promises, &#38; c<expan type="">om</expan>munynges together 
+in familiar epistles and dialogues, 
+and the getting of loue and fauour 
+in the begynnynges, and finallye 
+thys figure doth teach, that Retho<emend err="">&#173;</emend>
+rique is a part of flattery.</xpln></wordentry> <wordentry type="d"><form lexeme="pathopeia(n)">The sixt
+kynde of rethoricall descripcion is 
+<note type="m">
+Pathopeia.
+</note>
+</form> <xpln>Pathopeia, that is expressyng of ve&#173;
+hement affeccions and perturbaci&#173;
+ons, of <expan type="">the</expan> whych ther be two sortes. 
+</xpln></wordentry> 
+
+<wordentry type="d"><form lexeme="intension(n)" lexeme="imagination(n)">The fyrste called <term lang="la">Donysis</term></form> <xpln>, or inten&#173;
+cion, and some call it imaginacion, 
+wherby feare, anger, madnes, hate<emend err="">&#173;</emend>
+red, enuye, and lyke other perturba<emend err="">&#173;</emend>
+cions of mynde is shewed and de&#173;
+scribed, as in Ciceros inuectiues.</xpln></wordentry>
+
+<wordentry type="d">
+<form lexeme="commiseration(n)">Another forme is called <term lang="la">Oictros</term></form> <xpln>, 
+or c<expan type="">om</expan>miseracion, wherby teares be 
+pyked out, or pyty is moued, or for&#173;
+geuenes, as in Ciceros peroraci<expan type="">on</expan>s, 
+and complaintes in Poets: And to 
+
+</page>
+
+<page sig="E3r">
+be shorte ther is gotten no greater 
+admiracion or commendacion of e&#173;
+loquence then of these two, <term lang="la">AEtope&#173;
+ia</term>, and Pathopeia, if they be vsed in 
+<note type="m">
+dialogismus
+</note>
+place.</xpln></wordentry> <wordentry type="d"><form lexeme="dialogismus(n)">The .vii. kind is Dialogismus</form> <xpln> 
+whych is how often a short or long 
+communicacion is fayned to a per<emend err="">&#173;</emend>
+son, accordyng to the comelines of 
+it. Such be the concions in Liuie, &#38; 
+other historians.</xpln></wordentry> <wordentry type="d"><form lexeme="mimisis(n)">The .viii. kynd is 
+<note type="m">
+Mimisis.
+</note>
+called Mimisis,</form> <xpln>that is a folowing 
+eyther of the wordes or manoures 
+whereby we expresse not onlye the 
+wordes of the person, but also the 
+gesture: and these foresayd sixe kin&#173;
+des Quintiliane dothe put vnder 
+Prosopopeia.</xpln></wordentry> <wordentry type="d"><form lang="en">The .ix. kynde is the 
+descripcion of a place,</form> <xpln>as of Car&#173;
+thage in the fyrst of Eneid. Referre 
+hither Cosmographie and Geogra<emend err="">&#173;</emend>
+phie.</xpln></wordentry> <wordentry type="d"><form lexeme="topotesia(n)">The .x. kynd is called Topote&#173;
+sia</form> <xpln>, that is ficcion of a place, when 
+a place is described such one perad<emend err="">&#173;</emend>
+uenture as is not, as of the fieldes 
+called Elisii in Virgil:</xpln></wordentry> <wordentry type="d"><form lexeme="atrothesiam(n)">refer hither 
+Atrothesiam,</form> <xpln>that is the descripci<expan type="">on</expan> 
+of starres.</xpln></wordentry> <wordentry type="d"><form>The .xi. kinde is <term lang="la">Chrono&#173;, 
+
+</page>
+
+<page sig="E3v">
+graphia</term>,</form> <xpln>that is the descripcion of 
+the tyme, as of nyght, daye, and the 
+foure tymes of the yere.</xpln></wordentry> 
+
+<wordentry type="d"><form>
+<note type="m">
+<term lang="la">Amplificacio</term>
+</note>
+A greate parte of eloquence is 
+set in increasing and diminyshing, 
+and serueth for thys purpose, that 
+the thyng shulde seme as great as 
+it is in dede, lesser or greater then it 
+seemeth to manye. For the rude 
+people haue commonly a preposte&#173;
+rous iudgem<expan type="">en</expan>t, and take the worst 
+thynges for the beste, and the beste 
+for the worst. Al amplificacion and 
+diminucion</form> <xpln lexeme="amplification(n)" lexeme="diminution(n)">is taken eyther of thin<emend err="">&#173;</emend>
+ges, or of wordes. Of thynges ryse 
+effeccions, of words those fashions 
+that nowe I wyll shewe. The first 
+waye of increasyng or diminishing 
+is by chaungynge the worde of the 
+thynge, when in encreasynge we 
+vse a more cruell worde, and a sof&#173;
+ter in diminyshynge, as when we 
+call an euyll man a thiefe, and saye 
+he hathe kylled vs, when he hathe 
+beaten vs. And it is more vehem<expan type="">en</expan>te 
+if by correccion we compare grea&#173;
+ter wordes wyth those that we put 
+before: As thou haste broughte not 
+a thyefe, but an extorcioner, nor 
+
+</page>
+
+<page sig="E4r">
+an adulterer, but a rauysher. &#38;c.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="hyperbole(n)">
+Lyke vnto this is Hyperbole</form> <xpln>, why&#173;
+che saythe more then the truthe is 
+in deede, as when we saye: The 
+crye was hearde to heauen, mea&#173;
+nyng it was a greate crye. An o&#173;
+ther kynde is by increase, whyche 
+is when the thynges goyng before 
+beynge exaggerate, we come from 
+them to the hyeste: As agaynste 
+Verres. It is a myscheuous deede 
+to bynde a Citizen of Rome, hay&#173;
+nous to beate hym, what? shall I 
+saye to hange hym? An other waye 
+of increase is, when wythoute dis&#173;
+tinccion in the context and course 
+of the oracion, the circumstaunces 
+sette in order, somewhat alwayes 
+is added bygger then the fyrste, 
+and that we come to the hyest by a 
+swyfte pace. As he was not asha&#173;
+med to playe at dyce wyth iesters 
+in the common cokerye, beynge a 
+prieste, a Person, a Diuine, and a 
+Monke. There is another kynde 
+of amplyfienge that is by compa&#173;
+rison contrary to increase. For as 
+in increase the thynges that go be&#173;
+fore beyng exaggerat, we go from 
+
+</page>
+
+<page sig="E4v">
+them to the hyest, so comparison ta<emend err="">&#173;</emend>
+keth increase of the lesser, whych if 
+they be greater in all mens opini&#173;
+ons, that must nedes appeare verie 
+greate that we wyll haue amplifi&#173;
+co: And comparison is made by fic&#173;
+cion, &#38; by puttynge to an example. 
+By ficcion, eyther in one degree, or 
+in many. As in the fyrst part of the 
+amplifiyng of Antonies vomite, for 
+he fayneth it had happened vnto 
+hym at supper beyng but a priuate 
+person. If at supper in these great 
+bowles of thine thys happened vn<emend err="">&#173;</emend>
+to thee, who wolde not haue coun&#173;
+ted it a shame: But now in <expan type="">the</expan> syght 
+of the people of Rome beynge a c<expan type="">om</expan>&#173;
+mon officer, master of the horse, to 
+whom it was shame once to belch, 
+he wyth hys gobbets of meat that 
+stanke al of wyne, fylled al his lap, 
+and the iudgement seate. Here am<emend err="">&#173;</emend>
+plificacion is taken of smaller thin<emend err="">&#173;</emend>
+ges, and is made by one degree of 
+many degrees, this maye be an ex&#173;
+ample. If a m<expan type="">an</expan> gaue the euery yere 
+xl. po<expan type="">un</expan>d, woldest <expan type="">thou</expan> not thanke him? 
+If a friend had redemed the out of 
+prison <expan type="">with</expan> hys money, woldest thou 
+
+</page>
+
+<page sig="E5r">
+not loue hym? If eyther in battell 
+or shypwracke a man by hys vali&#173;
+antnes had saued the, woldest thou 
+not worshyp hym as God, and saye 
+thou were neuer able to make hym 
+amendes? What ingratitude is it 
+then that Christ God &#38; man, which 
+hathe made the, to whom thou dost 
+owe al that thou hast, &#38;c. so to dis&#173;
+pyse hym, so wyth dayely fautes to 
+anger him, &#38; for so great beniuol<expan type="">en</expan>ce 
+to geue hym agayn so great contu&#173;
+melye and despyte? Neyther skyl&#173;
+leth it that we haue rehearsed ficci<emend err="">&#173;</emend>
+on and comparicion amonge argu<emend err="">&#173;</emend>
+mentes, for there is no cause why 
+that amplificacion and ornacion 
+shuld not be taken out of the same 
+places from whence ther commeth 
+probacion. Nor it is no newes 
+the selfe same thynges to be apply&#173;
+ed to diuerse vses. As of all circum&#173;
+staunces both of the thyng, and of 
+the person are taken argumentes, 
+but euen oute of the selfe same are 
+fet affeccions and exaggeracions, 
+whych is manifest in the kynde de&#173;
+monstratiue: As when we prayse 
+chastitie in a yonge man, we go not 
+
+</page>
+
+<page sig="E5v">
+aboute to perswade that he was 
+chaste, but that that vertue shulde 
+appeare greater in floryshyng age. 
+To lyke vse serue examples and si&#173;
+militudes, as in Esaye: The Oxe 
+knewe hys owner, and the Asse the 
+maunger of hys master, but Isra&#173;
+el hathe not knowen me. The ex&#173;
+ample of the Oxe &#38; the Asse is not 
+vsed for this to proue that the He&#173;
+brewes dyd not knowe their God, 
+but that the impietie and folishnes 
+of that nacion shulde be amplified. 
+The same may be applied to profe 
+after thys maner. If the Oxe and 
+Asse knowledge theyr masters, of 
+wh<expan type="">om</expan> they are norished and do serue 
+them, how much more conueniente 
+is it, that m<expan type="">an</expan> shuld knowledge hys 
+maker and norisher, and serue him 
+bothe in bodye and mynd. Contra&#173;
+rye, when Paul sayth: no man ser&#173;
+ueth in warre on his owne wages, 
+be proueth by similitudes, that it 
+is not comelye, that they that war 
+vnder the gospell, shulde be compel<emend err="">&#173;</emend>
+led to be carefull for their liuynge. 
+He shuld haue applied it to ampli&#173;
+fiyng, if he had propouned it thus. 
+
+</page>
+
+<page sig="E6r">
+They that serue vnder a capteine 
+be not careful for their liuyng, but 
+lokinge for the sustenaunce of their 
+capteine, only studye for thys to do 
+hym faythful seruice, howe muche 
+more shame is it that some menne 
+that haue promised to fyght vnder 
+Christ in the gospel, to distrust such 
+a capteyne, and studye all they can 
+to gather riches. C<expan type="">om</expan>parison by put<emend err="">&#173;</emend>
+tyng to example is, wh<expan type="">en</expan> by setting 
+out as it were a lyke example, wee 
+brynge to passe that that we exag&#173;
+gerate may be thought either very 
+lyke, eyther equal, either bygger. 
+And in this kynd both the whole is 
+c<expan type="">om</expan>pared to the whole, &#38; the partes 
+to partes: as in the oracion of Ci&#173;
+cero for Milo. Did I pray you <expan type="">the</expan> no<emend err="">&#173;</emend>
+ble m<expan type="">an</expan> Scipio being a priuat pers<expan type="">on</expan> 
+kil Tiberius Gracchus whych sha<emend err="">&#173;</emend>
+ked the c<expan type="">om</expan>m<expan type="">om</expan> wealthe but a lytle, &#38; 
+shall wee beynge consulles suffer 
+Catiline, that gothe aboute to wast 
+the whole worlde wyth murther 
+and fyre? Here bothe Catiline is 
+compared to Gracchus, and the 
+estate of the common wealthe to 
+the whole world, &#38; a lytle shakyng 
+
+</page>
+
+<page sig="E6v">
+to slaughter, fyer and wastyng, and 
+a priuate person to the consuls. 
+Ther is an amplificacion also wh<expan type="">en</expan> 
+contraries be set together, wherby 
+bothe the partes seme bygger, and 
+more euidente. As when exhorting 
+men to liberalitie, we shewe howe 
+foule a faute couetousenes is, that 
+the foulnes of the faute being exag<emend err="">&#173;</emend>
+gerate, the goodlines of the vertue 
+shulde be more encreased. There is 
+another kynd of amplifiyng called 
+reasonynge, when of those thinges 
+that eyther folowe or go before, the 
+hearer doth gather how great that 
+thynge is that we wolde to be am&#173;
+plified. By thynges that go before, 
+as when Homer armeth Achylles, 
+or Hector to batayle, by the greate 
+preparacion, we gather how sore <expan type="">the</expan> 
+sight shal be. Of thinges <expan type="">that</expan> folowe: 
+How much wyne Antony dranke, 
+when <expan type="">that</expan> hauyng such a strong body 
+he was not able to digeste it, but 
+spewed it vp the nexte daye after. 
+Of thynges ioyned to: as wh<expan type="">en</expan> Ma<emend err="">&#173;</emend>
+ro sayeth to Poliphemus: He had 
+the bodye of a pineapple tree for a 
+staffe in hys hande. Manye other 
+
+</page>
+
+<page sig="E7r">
+kyndes ben there of amplifynge, 
+which who so wyl se more at large, 
+may read that right excellent boke 
+of the famouse doctor Erasmus, 
+whych be intituled the preacher. 
+</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="invention(n)">
+The inuencion of many proposi<emend err="">&#173;</emend>
+cions</form> <xpln>is, when the chyefe state or 
+principal proposition of the cause is 
+declared and proued by manye o&#173;
+ther proposicions and argum<expan type="">en</expan>tes, 
+so set in iuste order that there be no 
+confusion of proposions. And pro&#173;
+posicions be taken partely of those 
+that be comm<expan type="">on</expan>, and partly of those 
+thynges that belonge properlye to 
+the cause: As if a man wolde coun&#173;
+sell Tullye not to take the condi&#173;
+cion offered of Antony, that is, that 
+by burnynge of hys bookes called 
+philippia, he shulde haue hys lyfe, 
+he myght vse commonly these pro&#173;
+posicions. Fyrste <expan type="">that</expan> no man oughte 
+to by his life so dere, that therby he 
+shulde lose hys immortall name. 
+To thys generall may serue a per&#173;
+ticuler taken oute of circumstaun&#173;
+ces, that it oughte not to be done, 
+inespecialy of Cicero, whych by so 
+many laboures hathe gotten vnto 
+
+</page>
+
+<page sig="E7v">
+hym selfe an excellente and euerla&#173;
+styng name, and that hath shewed 
+moste eloquently by putting out so 
+manye noble workes that deathe 
+ought to be despised, inespeciallye 
+seynge that now he hath not much 
+tyme to lyue beynge an olde man. 
+Agayn, another principall proposi&#173;
+cion shall be taken of the circ<expan type="">um</expan>sta<expan type="">un</expan>&#173;
+ces. That nothynge is worse, then 
+that Cicero beyng a very good m<expan type="">an</expan> 
+shulde owe his lyfe to Antonye the 
+worst man of the world. The third 
+proposicion shal be c<expan type="">on</expan>iectural: how 
+that Antony craftely goeth about 
+that the bookes beynge burned, in 
+the whych he perceiueth bothe hys 
+owne immortal glory of Cicero, wh<expan type="">en</expan> 
+he hath afterwardes taken awaye 
+hys lyfe, he maye vtterlye extin&#173;
+guyshe Cicero.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Probation">
+&#182; A copious heaping of probacions. 
+
+<wordentry type="d"><form lexeme="argumentation(n)" lexeme="proof(n)">
+<note type="m">
+Proues.
+</note>
+So when proposicions be found, 
+remaineth argum<expan type="">en</expan>taci<expan type="">on</expan> or proues, 
+called in Greke <term lang="gkt">Pistis</term>, because they 
+make suretye of a doutefull thyng.</form> <xpln>
+<note type="m">
+Two sortes
+of proues.
+</note>
+Of proues some be artificiall, some 
+vnartificial. Vnartificial be, fore&#173;
+
+</page>
+
+<page sig="e8r">
+iudgementes, rumoures, tormen&#173;
+tes, tabelles, othe, wytnesses, diui&#173;
+nacion, oracles. To these be refer&#173;
+red whych the Greekes cal Symeia 
+<note type="m">
+Signes be re&#173;
+ferred to pro&#173;
+ues vnartifi&#173;
+cial, &#38; whyt
+</note>
+or sygnes: For they also common&#173;
+lye are not set by the wytte of hym 
+that disputeth, but are ministred 
+<note type="m">
+Signes
+wherfore.
+</note>
+otherwyse. They be called signes 
+properlye, whyche rysynge of the 
+thynge it selfe that is in question 
+<note type="m">
+Signes be re&#173;
+ferred to
+tyme.
+</note>
+come vnder the sences of menne, as 
+threatninges, whych be of the time 
+that is paste, cryinge herde oute of 
+a place, whyche is of the tyme pre&#173;
+sente, palenesse of hym whyche is 
+axed of the murther, whyche is of 
+the tyme folowynge, or that bloud 
+leapte oute of the bodye latelye 
+slayne, when he came that dyd the 
+<note type="m">
+Two maner
+of signes.
+</note>
+murther. Also of signes some bee 
+necessary, as that he liueth whiche 
+dothe breathe, and some probable, 
+as bloude in the garmente, whych 
+myghte also come oute of the nose, 
+<note type="m">
+Proues tak<expan type="">en</expan>
+oute of circ<expan type="">um</expan>&#173;
+staunces.
+</note>
+or otherwyse. Also proues and ar&#173;
+gumentes are taken oute of circ<expan type="">um</expan>&#173;
+staunces, partly of the person, part<emend err="">&#173;</emend>
+lye of the cause or thyng it self, and 
+be called also of the Rethoricians 
+
+</page>
+
+<page sig="E8v">
+<note type="m">
+How proues
+of circ<expan type="">um</expan>sta<expan type="">un</expan>&#173;
+ces differ fr<expan type="">om</expan>
+Aristotels
+places.
+</note>
+places, neyther cleane contrarie to 
+those that Aristotle hath taughte, 
+neyther the very same: for some a&#173;
+gree wyth them, some be all one, 
+and some diuerse. Onlye differeth 
+the manour of teachynge, because 
+the Rethoricianes do teache a pa&#173;
+trone, the philosopher generally 
+<note type="m">
+Circ<expan type="">um</expan>st<expan type="">au</expan>ces
+of person.
+</note>
+helpeth iudgement. Circumstaun&#173;
+ces of the person ben these. Kinred, 
+nacion, contrey, kynde, age, bryng&#173;
+ynge vp, or discipline, hauioure of 
+the body, fortune, condicion, nature 
+of the mynde, studies, affectacion, 
+wordes forespoken, &#38; deedes done 
+before, commocion, counsell, name. 
+Kynred monisheth vs to c<expan type="">on</expan>sider of 
+<note type="m">
+Kynred.
+</note>
+what progeny a man dothe come. 
+For it is semely, and happeneth c<expan type="">om</expan>&#173;
+monlye that the sonnes be lyke the 
+forefathers, and thereof procedeth 
+<note type="m">
+Nacion
+</note>
+causes to lyue well or euyll: Naci<expan type="">on</expan> 
+sheweth what disposicion and ma&#173;
+ners euery nacion hath peculiarly 
+<note type="m">
+Kynd.
+</note>
+of theyr owne. The difference of 
+kynde is knowen to euerye man: 
+To diuerse ages diuerse thyngs be 
+<note type="m">
+Age.
+</note>
+conueniente. It skylleth more by 
+<note type="m">
+Educacion.
+</note>
+whom, and by what wayes men be 
+
+</page>
+
+<page sig="F1r">
+brought vp, then of whom they be 
+begotten. The hauioure of the bo&#173;
+dye comprehendeth fayrnes or foul<emend err="">&#173;</emend>
+<note type="m">
+Hauiour of
+the bodye.
+</note>
+nes, strength or weaknes: For more 
+credible is the accusacion of leche&#173;
+rye in a fayre body then in a foule, 
+and violence more probable in the 
+strong, then in the weake. Fortune 
+<note type="m">
+Fortune
+</note>
+perteineth to ryches, kynred, frien&#173;
+des, seruitures, dignities, honours. 
+<note type="m">
+Condicion.
+</note>
+Condicion comprehendeth manye 
+thynges: as whether he be noble or 
+not noble, an officer, or a priuate 
+person, a father or a sonne, a citizen 
+or a straunger, a fre man, or a ser&#173;
+uaunt, a maried manne, or a single 
+man, a father or none, hauinge had 
+<note type="m">
+The nature
+of the mynd
+</note>
+but one wyfe, or two. The nature 
+of the mynde hath manifold varie&#173;
+ties in men. Some be fearful, some 
+strong, some gentle, some vehem<expan type="">en</expan>t, 
+chaste, lecherous, glorious, modeste 
+<note type="m">
+Studies
+</note>
+&#38;c. Studies, for other be the ma&#173;
+ners of the rustical, then of the law<emend err="">&#173;</emend>
+yer, of the marchaunte, then of the 
+Soldier, of the shipman then of the 
+phisicion. To these they adde affec<emend err="">&#173;</emend>
+<note type="m">
+Affectacion.
+</note>
+tacion: For it skylleth muche what 
+maner man euerye one wolde seme 
+
+</page>
+
+<page sig="F1v">
+to be, whether he be <expan type="">the</expan> same or not: 
+as ryche, or eloquent, iuste or migh&#173;
+tie, mery or sad, a fauorer of the peo<emend err="">&#173;</emend>
+ple, or of the great men. Both wor&#173;
+des that be spoken before time, and 
+<note type="m">
+Wordes spo<emend err="">&#173;</emend>
+ken, &#38; deedes
+done before
+Commocion
+</note>
+dedes that be done, be also conside&#173;
+red. For of thynges that be paste, 
+the present be estemed, &#38; also thin&#173;
+ges that be to come. C<expan type="">om</expan>mocion in 
+thys differeth from the nature of 
+the mynde, because that one is per&#173;
+petuall, that other for a whyle: as 
+anger is commocion, rancour the 
+nature of the mynde, and feare a c<expan type="">om</expan><emend err="">&#173;</emend>
+mocion, fearefulnesse nature.
+<note type="m">
+Name.
+</note>
+To these they adde the name of the 
+person, of whence many tymes an 
+argument is tak<expan type="">en</expan>: as Cicero iesteth 
+muche vpon Verres, or sweepers 
+name, because beyng a strong thief, 
+he swepte altogether. Thus haue 
+we shewed that much matter may 
+be taken of thynges belongyng to 
+a personne, so maye be also of those 
+that belonge to a thynge or cause, 
+whiche places bee so handeled of 
+Quintiliane, that he myngleth th<expan type="">em</expan> 
+wyth the places whyche Aristotle 
+hathe comprehended in hys eyghte 
+
+</page>
+
+<page sig="F2r">
+bookes of Topyckes.</xpln></wordentry> 
+
+<wordentry type="d"><form lexeme="circumstance(n)">
+<note type="m">
+Circ<expan type="">um</expan>staun&#173;
+ces of things
+be these.
+</note>Circumstan&#173;
+ces of the thynges be these:</form> <xpln>Cause, 
+place, tyme, chaunce, facultie, in&#173;
+strumente, manour. And fyrste of e&#173;
+uerye thinge there be foure causes, 
+efficient, materiall, formall and fi&#173;
+nall. Matter is the receptacle of al 
+formes. The forme causeth it to be 
+thys, and not another thynge: as 
+the reasonable soule geueth to the 
+body that it is a man, and the soule 
+because it is a substaunce hathe her 
+vnnamed forme, whereby she is a 
+
+<note type="m">
+Fine or ende.
+</note>
+
+soule, and not an aungel. And what 
+soeuer is made, is made to a certen 
+ende, and one thynge maye haue di<emend err="">&#173;</emend>
+uerse endes: as nature hathe geuen 
+brestes vnto women to geue milke, 
+and also for comlynesse of theyr bo&#173;
+dies, neyther doth any man that is 
+of a sounde mynde take vpon hym 
+anye businesse, but for that he desy&#173;
+reth to haue some thynge: nor there 
+is nothynge desyred, but under the 
+consideracion of good or profite. 
+So the ende <emend err="why che">whyche</emend> is laste in ef&#173;
+fecte, and fyrste in intencion, lo&#173;
+keth vpon the gettinge of profites, 
+increase, and c<expan type="">on</expan>firmacion of them, 
+
+</page>
+
+<page sig="F2v">
+and also vpon them, eschuynge of 
+disprofites, diminyshynge, or put&#173;
+tyng them awaye. But in chosyng 
+them, false perswacion deceyueth 
+manye, whylest by errour they be&#173;
+leue that to be good <expan type="">that</expan> is naughte. 
+This place therfore serueth for ma<emend err="">&#173;</emend>
+ny thynges, to make more or lesse. 
+Greatly happy shulde men be, if e&#173;
+uerye man wolde looke vpon the 
+marke, not the whych desyre hathe 
+sette before hym, but whyche God 
+and honest reason hath prefixed. 
+And of such strengthe is the ende, 
+that hereof is taken the felicitie of 
+euery thyng. To fast that the body 
+maye obeye the mynde, to do good 
+workes is an holy deede. To fast to 
+be counted holye, is hypocrisie. To 
+faste to encrease thy good, is coue&#173;
+tousenesse. To faste to be whole in 
+thy bodie is phisycke, and so of prai<emend err="">&#173;</emend>
+ynge, almose, and other laudable 
+workes. After lyke maner must be 
+wayed the secondarie endes. An o&#173;
+ther circumstaunce of a thynge, is 
+<note type="m">
+Place.
+</note>
+the place, whose qualitie often&#173;
+times maketh the faute either gre&#173;
+ter or lesser: as to steale an holye 
+
+</page>
+
+<page sig="F3r">
+thing out of an holy place, is worse 
+then some other kynde of theft. No 
+lesse matter of argumentacion mi&#173;
+nistreth the qualitie of time, which 
+<note type="m">
+Tyme.
+</note>
+signifieth two thynges. Fyrst it is 
+taken playnly for the time present, 
+<note type="m">
+Tyme hathe
+two significa&#173;
+cions.
+</note>
+past, or to come: Seconde it signifi&#173;
+eth oportunitie to do a thynge, and 
+so when a man cometh as we wold 
+haue it, we saye he cometh in time. 
+And in the seuenth of Ihon, when 
+Christ sayth: My tyme is not yet 
+come, tyme is taken for oportuni&#173;
+tie of tyme. And lykewyse in the 
+syxt to the Galat. Therfore whyle 
+<note type="m">
+Chaunce.
+</note>
+we haue tyme &#38;c. The Rethorici&#173;
+anes put chaunce vnder tyme, be&#173;
+cause the ende of a thynge pertey&#173;
+neth to the time that foloweth: but 
+of thys wyll we speke in the place 
+called Euent. Facultie is a power 
+to do the thynge that is taken in 
+hand: and in coniectures two thin&#173;
+ges speciallye be considered: whe&#173;
+ther he could or wold. Wyll is ga&#173;
+thered of hope to performe it, and 
+is made more probable wh<expan type="">en</expan> the na<emend err="">&#173;</emend>
+ture of the mynde is ioyned to it: 
+as it is not like he wyl abide in his 
+
+</page>
+
+<page sig="F3v">
+glorye, because he is enuious and 
+ambicious. Also when we counsell 
+one to leaue of vayne mournynge, 
+when it is not in his power to get 
+agayne that is gone.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="instrument(n)">
+<note type="m">
+Instrument.
+</note>
+Instrument</form> <xpln>semeth to be a part 
+of facultie: for instrumentes some&#173;
+tyme are cause of oure hablenes to 
+do a thinge: and it is a more mische<emend err="">&#173;</emend>
+uous deede to kyl with venome th<expan type="">en</expan> 
+with swearde. And to instrum<expan type="">en</expan>t 
+some is the manour of doyng, that 
+almoste it is all one. But more pro&#173;
+perlye perteyne to the manour or 
+fashion, those thynges that be ey&#173;
+ther excused, or made greater by 
+wyl: As lesse faute is it to fall into 
+a vice by ignorance or frailtie, then 
+of a purpose and full deliberacion. 
+The vse of circ<expan type="">um</expan>stances profiteth to 
+amplifie, to extenuate, to euidence, 
+to confirmacion, and probabilitie. 
+And hytherto be referred also the 
+common places that indifferentlye 
+apperteyne to all kyndes and par&#173;
+tes of causes, of the whyche Ro&#173;
+dulphe entreateth, and Aristotle 
+in his Topyckes.</xpln></wordentry> <wordentry type="d"><form lexeme="commonplace(n)">But before we 
+speake of them, it is to be noted, 
+
+</page>
+
+<page sig="F4r">
+that thys woorde place, is taken 
+foure maner of wayes.</form> <xpln>They are 
+called common places, because thei 
+be entreated of, of bothe partes, al&#173;
+thoughe not in all one cause: as he 
+that is sore spoken agaynste by wit<emend err="">&#173;</emend>
+nesses, swadeth that we shulde not 
+geue credite to witnesses. Contra&#173;
+rye, he that is holpen by them spea<emend err="">&#173;</emend>
+keth in defence of wytnesses, and 
+so of other that we spake of before, 
+when we entreated of vnartificial 
+argumentes. Lyke to thys sorte be 
+sentences, whyche wee exaggerate 
+as it were wythoute the cause, but 
+so that they serue to the cause whi&#173;
+che wee haue in hande: as bee the 
+amplificacions of vertues, and the 
+exaggeracions of vices. As when 
+wee accuse anye manne that by e&#173;
+uyll companions he was broughte 
+to do also the mischeuouse deede, 
+A common place shall bee, wyth 
+wordes to exaggerate howe much 
+it profiteth to keepe goodnesse, to 
+bee in companye wyth good men, 
+and contrarye howe greate mys&#173;
+chyefe the companye of euyll men 
+dothe cause. 
+
+</page>
+
+<page sig="F4v">
+In the third sence places be called 
+seates of argumentes, whyche the 
+Rethoricianes do applie to eche 
+kyndes of causes: As in the kynde 
+suasorie, honest, profitable, pleasa<expan type="">un</expan>t 
+easye, necessarie .&#38;c. In demonstra&#173;
+tiue kynde, kynred, contrey, goodes 
+of the bodye and of the mynde. In 
+the Iudiciall kynde, inespecial de&#173;
+niall, those that we spake of euen 
+nowe. The fourth places be gene&#173;
+ral, whych declare what belongeth 
+to euerye thynge, and howe oute of 
+eche of them there be taken argu&#173;
+mentes, partly necessary, and part&#173;
+lye probable. These be commen to 
+the Oratours with the Logicians, 
+albeit Aristotle hathe seperatelye 
+written of them in hys Topickes, 
+and in his Rethorickes hathe not 
+touched th<expan type="">em</expan>, and they profite much 
+both to iudgement, and to endigh&#173;
+tynge, but the varietie of authors 
+hath made the handlynge of them 
+sumwhat darke, because amonge 
+them selues they can not wel agre, 
+neyther of the names, neyther of 
+the number, neyther of the order. 
+</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="example(n)">
+<note type="m">
+Examples.
+</note>
+An example</form> <xpln>is a rehearsall of a 
+
+</page>
+
+<page sig="F5r">
+thynge that is done, and an apply&#173;
+<emend err="ynge">nge</emend> of it vnto our cause, eyther for 
+similitude or dissimilitude, profi&#173;
+table to perswade, garnyshe, and 
+delyght. Examples, some be taken 
+out of hystories, some of tales, some 
+of fayned argum<expan type="">en</expan>tes, in comedies, 
+and bothe sortes be dilated by pa&#173;
+rable and comparicion. Compara<emend err="">&#173;</emend>
+cion sheweth it equall, lesse, or byg&#173;
+ger. Parable is a feete similitude, 
+whych sheweth <expan type="">the</expan> example that is 
+brought, ether like, vnlyke or c<expan type="">on</expan>tra<emend err="">&#173;</emend>
+rye. Lyke as Camilius restored the 
+common wealth of the Romaines 
+that was oppressed by the French&#173;
+men, and when it was brought in&#173;
+to extreme losse, by theyr valiaunt&#173;
+nesse expelled the Barbariens: So 
+Valla, whan thorowe the ignor<expan type="">an</expan>ce 
+of <expan type="">the</expan> Barbarians, learnyng was de<emend err="">&#173;</emend>
+stroyed, restored it agayn, as it wer 
+from death into hys former bright<emend err="">&#173;</emend>
+nes. Vnlike. As not lyke thanke is 
+done to Laurence and Camilius, be<emend err="">&#173;</emend>
+cause that the one moued by vertue 
+wyth the ieopardie of hys lyfe de&#173;
+liuered his contrey from the vngra<emend err="">&#173;</emend>
+cious, that other styrred vp by de&#173;
+
+</page>
+
+<page sig="F5v">
+syre of fame, or rather wyth an e&#173;
+uyll luste to checke manye, not resto<emend err="">&#173;</emend>
+red agayn the latt<expan type="">en</expan> tong oppressed, 
+but brought it as it were into cer&#173;
+ten rules. C<expan type="">on</expan>trary, Brutus kylled 
+hys chyldren goyng about treason, 
+Manlius punished by death the va<emend err="">&#173;</emend>
+liauntnes of hys sonne. Compara<emend err="">&#173;</emend>
+cion sheweth <expan type="">the</expan> thing <expan type="">that</expan> is brought, 
+eyther equall, lesse, or bigger: Lesse, 
+as our elders haue warred often&#173;
+tymes, because theyr marcha<expan type="">un</expan>tes 
+and mariners wer euyl entreated. 
+What mynd ought you to be in, so 
+many thousande citizens of Rome 
+slaine at one message, and one time? 
+Equall, as in the same Cicero. 
+For it happed unto me to stand for 
+an offyce wyth two gentlemenne, 
+that one very naughte, that other 
+very gentle, yet ouercame I Cati&#173;
+line by dignitie, and Galba by fa&#173;
+uoure. Bygger: As for Milo, they 
+saye he shulde not lyue that confes&#173;
+seth he hathe kylled a man, when 
+M. Horacius was quitte, whyche 
+kylled hys owne syster. 
+</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="parable(n)" lexeme="similitude(n)" lexeme="comparation(n)">
+<note type="m">
+Parable.
+</note>
+Parable, which some call simili<emend err="">&#173;</emend>
+tude, some c<expan type="">om</expan>paracion,</form> <xpln>is a compa&#173; 
+
+</page>
+
+<page sig="F6r">
+ryng of a thyng <expan type="">that</expan> hath no life, or no 
+bodye to our cause and purpose, for 
+some thyng that is lyke or vnlyke. 
+And as example is taken of <expan type="">the</expan> dede 
+of a man, and the person of an hy&#173;
+storye, or that is fabulous and fay&#173;
+ned, so is comparison taken of thin&#173;
+ges that be done, or that be ioyned 
+to them by nature, or by chaunce. 
+As Attilius retournyng agayne to 
+hys enemies is an example of ke&#173;
+pynge faythe and promise: But a 
+shyp in the whych the sayles be hoy<emend err="">&#173;</emend>
+sed vp, or tak<expan type="">en</expan> down after the blow<emend err="">&#173;</emend>
+yng of the winde, is a parable whi&#173;
+che teacheth a wyse man to geue 
+place to tyme, and applye hymselfe 
+to the world that is presente. And 
+lyke fashion is of dilatyng a para&#173;
+ble, as we haue shewed in example. 
+For sometime it is noted in a word 
+as: Doest thou not vnderstand that 
+the sayles muste be turned? Some&#173;
+tyme it is more largelye declared, 
+as in the oracion for Murena. And 
+if vnto menne that sayle out of the 
+hauen. &#38;c. Analogia. 
+</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="icon(n)" lexeme="image(n)">
+Icon</form> <xpln>, called of the latines <term lang="la">Imago</term>, 
+an Image in Englyshe, is muche 
+
+</page>
+
+<page sig="F6v">
+lyke to a similitude, and if you de&#173;
+clare it is a similitude: as if you 
+saye: As an Asse wyll not be driuen 
+from her meat, no not with a club, 
+vntyl she be full: no more wil a war<emend err="">&#173;</emend>
+riour reste from murther vntyll he 
+hath fylled his mynd with it. This 
+is a similitude: but if you saye that 
+a man flewe vpon his enemies like 
+a dragon, or lyke a lyon, it is an I&#173;
+mage. Howbeit an Image serueth 
+rather to euidence or grauitie, or io<emend err="">&#173;</emend>
+cunditie, then to a profe. There is 
+also a general comparacion, speci&#173;
+allye in the kynde demonstratiue, 
+person wyth person, and one thing 
+with an other, for praise or dispraise</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="authority(n)" lexeme="sentence, moral(n)" lexeme="dignity(n)" lexeme="proverb(n)" lexeme="chria(n)" lexeme="enthymeme(n)">
+<note type="m">
+Indicacio.
+</note>
+Indicacio, or authoritie,</form> <xpln>is the c<expan type="">om</expan>&#173;
+paring of an other mans saying or 
+sentence vnto our cause: of the whi&#173;
+che ther be seuen principal kyndes. 
+The fyrst a comon morall sentence, 
+as a common principle perteyning 
+to maners: as continuall laboure 
+ouercommeth all thynges, and as 
+be the sentences of Salomon and 
+Cato: and all morall philosophy is 
+ful of suche sentences. The seconde 
+are common rules, whych be called 
+
+</page>
+
+<page sig="F7r">
+dignities in euery science. The .iii. 
+a prouerb. The fourth called Chria, 
+which is a very short exposicion of 
+any dede or worde wyth the name 
+of the author recited. The fyfte an 
+Enthimeme, whyche is a 
+sentence of 
+contraries: as if it be a great praise 
+to please good men, surely to please 
+euyl men it is a greate shame. The 
+syxte called <term lang="la">AEnos</term>, that is a saying 
+or a sentence, taken out of a tale, as 
+be the interpretacions of fables, 
+and theyr allegories. The seuen is 
+any answere tak<expan type="">en</expan> out of the mouth 
+of God, or taken out of the c<expan type="">om</expan>maun&#173;
+dement of God.</xpln>
+<lemenote>
+"Chria" antedates the earliest OED citation (1612), as does "enthymeme" (1588).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="expolition(n)">
+<note type="m">
+<term lang="la">Exergasia.</term>
+</note>
+Expolicion</form> <xpln> is, when we tarye in 
+one thynge, speakynge the same in 
+diuerse wordes and fashions, as 
+though it were not one matter but 
+diuerse. A goodlye example of the 
+moste largest expolicion is rehear&#173;
+sed in Erasmus, whych, because it 
+is very profitable, I wyll wholye 
+rehearse it. A wyse man for the c<expan type="">om</expan>&#173;
+mon wealthe sake shall eschue no pe<emend err="">&#173;</emend>
+ryll: euen for thys cause that it hap<emend err="">&#173;</emend>
+peneth oft<expan type="">en</expan>, that wher he wold not 
+
+</page>
+
+<page sig="F7v">
+dye for the common wealth, he pe&#173;
+rysheth yet of necessitie wyth the 
+c<expan type="">om</expan>mon wealth. And because all the 
+commodities we haue be taken of 
+our contrey, ther ought no incommo&#173;
+ditie to be counted paynfull, tak<expan type="">en</expan> 
+for our contrey. They therfore that 
+flye that peryll which must be tak<expan type="">en</expan> 
+for the c<expan type="">om</expan>mon wealth, do folyshely: 
+for neither can they auoyde it, and 
+they be found vngrate to the citie. 
+But they that by their owne peril 
+put away the perils of their c<expan type="">on</expan>trei, 
+they are to be counted wyse, seyng 
+that bothe they geue to <expan type="">the</expan> c<expan type="">om</expan>mon 
+wealth that honour <expan type="">that</expan> they shulde 
+geue, and had rather dye for many, 
+th<expan type="">en</expan> <expan type="">with</expan> many. For it is much against 
+reason that receiuing thy naturall 
+lyfe by thy contrey, to deliuer it a&#173;
+gayne to nature when she compel&#173;
+leth the, and not to geue it to thy c<expan type="">on</expan><emend err="">&#173;</emend>
+trey when she desyreth the. And 
+where <expan type="">thou</expan> mayst wyth hye valiaunt&#173;
+nes &#38; honour die for thy contrei, to 
+haue rather lyke a cowarde to liue 
+in shame. And for thy fryndes and 
+parentes, and other acquayntance 
+to put thy selfe in peryll: for the co&#173;
+
+</page>
+
+<page sig="F8r">
+mon wealth in the whyche both it 
+&#38; that most reuerende name of the 
+contrey is conteyned, not to be wil<emend err="">&#173;</emend>
+lynge to come in ieopardye. Wher<emend err="">&#173;</emend>
+fore as he is to be dyspised whyche 
+being vpon the sea had rather haue 
+hym selfe safe, then the ship: so is he 
+to be rebuked, whych in ieopardye 
+of the commen wealthe, prouideth 
+more for his own then for <expan type="">the</expan> c<expan type="">om</expan>mon 
+wealthe. When the shyppe hathe 
+ben broken, many haue ben saued: 
+But after the shypwrake of the c<expan type="">on</expan>&#173;
+trey no man can escape. Whyche 
+thynge me thynketh Decius dyd 
+wel perceiue, whych reported who<emend err="">&#173;</emend>
+ly to haue bestowed hym selfe, and 
+for the sauegard of his men of war 
+to haue run amonge the myddest 
+of hys enemyes. Wherfore he loste 
+not hys lyfe, but let it go: for he re&#173;
+demed for a thynge of verye small 
+pryce, a ryght dere thyng. He gaue 
+his life, but he receiued his contrei. 
+He loste his life, but he inioyed glo<emend err="">&#173;</emend>
+rye, whyche written to his greate 
+prayse, shyneth euerye daye more 
+and more. Wherefore if we haue 
+proued both by reason &#38; by ex<expan type="">am</expan>ple, 
+
+</page>
+
+<page sig="F8v">
+that we be bounde to put oure selfe 
+in peryll for the common wealthe, 
+they are to be counted wyse men, 
+whych for the sauegarde of the con<emend err="">&#173;</emend>
+trey auoyde no peryll. It wolde be 
+meete to exercyse chyldren in suche 
+themes, wherby shal be gott<expan type="">en</expan> bothe 
+wysedome and eloquence. And here 
+me thynketh I maye ryghte well 
+ende these Rethoricall preceptes, 
+although I be not ignoraunt that 
+much helpeth bothe to persuasions 
+and copye, the proper handlyng of 
+tales taken oute of the nature of 
+beastes, dreames, fayned narraci&#173; 
+ons, sumwhat lyke vnto the truth, 
+<expan type="">with</expan> allegories much vsed of diuines. 
+But because they requyre a longer 
+treatie, for this tyme I leaue them 
+of, addynge vnto these before writ&#173;
+ten rules of oratory, a declamacion 
+bothe profitable and verye elo&#173;
+quente, wrytten by Erasmus 
+vnto the moste noble Duke 
+of Cleue, as here appe&#173;
+reth after. 
+</xpln>
+<lemenote>
+"Expolition" antedates the earliest OED citation (1589).
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+
+</page>
+</leme>
+

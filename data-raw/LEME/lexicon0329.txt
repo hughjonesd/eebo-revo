@@ -1,0 +1,1740 @@
+<leme no="329">
+
+<page sig=a1r>
+<section type="Title-page">
+THE 
+SVURGIONS 
+MATE, 
+OR 
+A TREATISE DISCO&shy;
+uering faithfully and plainely the due 
+contents of the SVRGIONS Chest, the vses of the
+Instruments, the vertues and operations of the 
+Medicines, the cures of the most frequent 
+diseases at SEA: 
+
+Namely 
+Wounds, Apostumes, Vlcers, Fistulaes, Frac&shy
+tures, Dislocations, with the true maner of Amputation, 
+the cure of the Scuruie, the Fluxes of the belly, 
+of the Collica and Illiaca Passio, Tenasmus, 
+and exitus Ani, the Callenture; 
+
+WITH A BRIEF EXPLANATION
+of Sal, Sulphur, and Mercury; with certaine 
+Characters, and tearmes of Arte. 
+
+Published chiefly for the benefit of young Sea-Surgions, 
+imployed in the East-India Companies affaires.
+
+By Iohn Woodall <expan type="M+r">Master</expan> in Chirurgery.
+
+LONDON
+
+Printed by EDWARD GRIFFIN for Laurence Lisle,
+at the Tygers-head in Panis Church-yard. 1617.
+</section>
+</page>
+
+<page no="1">
+<section type="Dictionary">
+<wordgroup1 type="t">
+<heading>
+CERTAINE BREIFE
+Remembrances touching the par&shy;
+ticular Instruments for the SVRGIONS
+CHEST,and the vses of the same.
+</heading>
+
+<wordentry type="h"><form lang="en" lexeme="incision-knife(n)">And first of the vses of the Incision
+Knife.</form> <xpln lang="en" lexeme="incision-knife(n)" lexeme="surgeon's mate(n)" lexeme="incision(n)" lexeme="patient(n)" lexeme="cutis(n)"> 
+THe vses of the incision knife are many:
+namely, to enter the cutis or skin vpon
+euery iust cause, wherein I aduise the 
+Surgions Mate not to be too forward,
+or too rash, but to take good aduise,
+namely, if the Patient may by any bet&shy;
+ter way else receiue health, that he for&shy;
+beare incision, if not, let him proceed in the name of God.</xpln></wordentry>
+...
+</page>
+
+<page no="2">
+...
+<wordentry type="h"><form lang="en" lexeme="dismembering-knife(n)" lexeme="catling(n)">Of the dismembring knife, and of the 
+Catlinge.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="dismembering(n)" lexeme="amputate(v)" lexeme="offensive(a)" lexeme="member(n)" lexeme="fleshy(a)" lexeme="incise(v)">
+THese two instruments are to be vsed in dismembring:
+as namely, they are to amputate, or to take of any of&shy;
+fensiue member or part of mans body: I meane all the 
+fleshie part, or whatsoeuer may bee incised euen to the
+bone.</xpln>
+<lemenote>
+"Amputate" antedates the earliest OED citation ("amputate," v., 1; 1638).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="3">
+<wordentry type="h"><form lang="en" lexeme="rasor(n)">Of the Rasor.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="chiefly(adv)">
+THere needeth little to be spoken of the vse of this in&shy;
+strument, for that all men know well the vse thereof,
+which is chiefly to shaue away haire where neede requi&shy;
+reth ...</xpln></wordentry>
+...
+<wordentry type="h"><form lang="en" lexeme="trepan(n)">Of the Trapan.</form> <xpln lang="en" lexeme="trepan(n)" lexeme="instrument(n)" lexeme="consequent(n)" lexeme="occasion(n)" "lexeme="fracture(n)" lexeme="cranium(n)" lexeme="patient(n)" lexeme="incision(n)" lexeme="cutis(n)" lexeme="fleshly(a)" lexeme="membrane(n)" lexeme="pericranium(n)" lexeme="panicle(n)" lexeme="bore(v)" lexeme="borer(n)" lexeme="middest(n)" lexeme="fractured(a)" lexeme="depressed(a)" lexeme="elevate(v)" lexeme="scale(v)" lexeme="method(n)" lexeme="medicine(n)" lexeme="ligature(n)">
+THe Trapan is an instrument of great consequent,
+where there is iust occasion of the vse thereof: but it
+</page>
+
+<page no="4">
+is seldome well vsed, and it onely attendeth the fractures
+of Cranium, and yet scarse one in ten haue iust occasion
+of the vse thereof. 
+...
+</page>
+
+<page no="5">
+....
+All things therefore in readinesse, and the Patient pla&shy;
+ced close and warme from the ayre, and hauing two ap&shy;
+pointed to stay his head, your incision is either to be made 
+directly crosse, or in the forme of this Romane T: and
+when the cutis is diuided, together with <term lang="la">membrana carnosa</term>,
+or fleshly membran,the Pericrani<expan type="u_">um</expan> or Panicle couering the
+scull is also to be tak<expan type="e_">en</expan> away,that the fractured part be bare,
+then set the Trapan thereon, namely the pin thereof is al&shy;
+waies to be set on the whole part of the Crani<expan type="u_">um</expan>, wherby the 
+most part of the Trapan by consequent standeth on the
+whole bone,but so that almost halfe may stand on the fra&shy;
+ctured part of the bone. This being thus warily set, begin
+easily to turne about the instrument till all the teeth haue
+taken good hold round, then take vp your Trapan againe,
+and take out the pin in the midst, and set on the other part
+againe as before, boring and turning still till you haue bo&shy;
+red through both Tables,which is easily to be felt by the
+borer : then gently take out the peece, which commonly 
+commeth away in the middest of the instrument, not re&shy;
+garding that all the fractured part be bored out or be com&shy;
+ming away: neither shall it alwaies be needfull that the 
+depressed part be presently eleuated, except it may very
+safely and easily be done ; for nature will admirably bring 
+to passe the eleuating &amp; scaling of the rest of the fractured
+</page>
+
+<page no="6">
+or depressed bone in due time, if thou follow onely a
+good method of applying comforting and conuenient 
+medicines to the wound, with apt Ligature. Neither 
+striue in setting the Trapan,without good reason,to vse the
+greatest head of the Trapan,which hath commonly 3 or 
+4 heads...</xpln>
+<lemenote>
+"Panicle" in the sense of "pericranium(n)" is not found in the OED.
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="7">
+<wordentry type="h"><form lang="en" lexeme="levatory(n)">Of the Levatorie.</form> <xpln lang="en" lexeme="levatory(n)" lexeme="instrument(n)" lexeme="elevate(v)" lexeme="depressed(a)" lexeme="cranium(n)">
+THe Levatory is a necessary instrument to eleuate the 
+depressed Cranium ....</xpln>
+<lemenote>
+This is the earliest OED citation for "levatory," n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="head-saw(n)">Of the Head-sawe.</form> <xpln lang="en" lexeme="head-saw(n)" lexeme="instrument(n)" lexeme="cranium(n)" lexeme="trepan(n)" lexeme="to give vent(v)">
+THe Head sawe is an instrument with which a vent
+may be giuen sometimes through the Cranium, and 
+thereby the vse of the Trapan may be happily forborne ....</xpln>
+<lemenote>
+"Head-saw(n)" is not defined in the OED, and this citation antedates the earliest OED citation, from Woodall's "Viaticum" (1639): "the circumferent tooth-head-saw."
+</lemenote>
+</wordentry>
+...
+
+<wordentry type="h"><form lang="en" lexeme="dismembering-saw(n)">Of the dismembring Sawe.</form> <xpln lang="en" lexeme="terrible(a)" lexeme="instrument(n)" lexeme="ordain(v)" lexeme="amputation(n)" lexeme="dismembering(n)">
+THis great and terrible instrument onely ordeined for
+amputation or dismembring ....</xpln>
+<lemenote>
+This is the earliest citation of "dismembring-saw" found in the OED (see "dismembring," n. 3).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="8">
+<wordentry type="h"><form lang="en" lexeme="dismembering(a)" lexeme="nippers(n)" lexeme="dismembering-nippers(n)" lexeme="mallet(n)" lexeme="chisel(n)" lexeme="dismembering(n)">Of the dismembring Nippers, and of the Mallet
+and Chizell for dismembring.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="coherence(n)" lexeme="precedent(a)" lexeme="saw(n)" lexeme="amputation(n)" lexeme="chiefly(adv)">
+THese instruments hauing coherence with the prece&shy;
+dent, namely the Sawe, are meerely invented, as the
+former, for amputation chiefly, and are appointed to the 
+fingers and toes, as thother is to the leggs and Armes.</xpln>
+<lemenote>
+The compound "dismembring-nippers" is not found in the OED.
+</lemenote>
+</wordentry>
+....
+
+<wordentry type="h"><form lang="en" lexeme="speculum oris(n)" lexeme="plain(a)">Of the Speculum oris plaine.</form> <xpln lang="en" lexeme="speculum oris(n)" lexeme="medicine(n)">
+THis Speculum oris is that which taketh hold on the 
+tongue and vnder the chin at once, and is very neces&shy;
+sary to hold open the mouth for the better applying me&shy;
+dicines to the throat ...</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speculum oris(n)" lexeme="screw(n)">Of the Speculum oris with a screw.</form> <xpln lang="en" lexeme="speculum(n)" lexeme="screw(v)" lexeme="lethargy(n)" lexeme="scurvy(n)" lexeme="convey(v)" lexeme="nourishment(n)" lexeme="medicine(n)" lexeme="patient(n)" lexeme="several(a)" lexeme="surgeon(n)">
+THis Speculum serueth to screw open the mouth,which
+is often very needfull at Sea, as well in the cure of 
+Lythargy and Scuruey, as in many other dangerous cases,
+and namely sometimes for the conueying nourishment 
+into the mouth of the Patient: sometime also for the 
+</page>
+
+<page no="9">
+bringing in medicines of seuerall kindes too long to write 
+of, wherefore it may not well be missing in the Surgeons 
+chest.</xpln>
+<lemenote>
+"Screw" is the earliest OED citation of "screw" in the sense of "a tool with a helical ridge used to adjust position" ("screw," n.1, I.1.c).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speculum(n)" lexeme="speculum linguae(n)">Of the Speculum <term lang="la">lingu&aelig;.</term></form> <xpln lang="en" lexeme="speculum(n)" lexeme="instrument(n)" lexeme="splatter(n)" lexeme="spatula(n)" lexeme="fever(n)" lexeme="fur(v)" lexeme="inject(v)" lexeme="liquor(n)">
+THis speculum <term lang="la">lingu&aelig;</term> is a small instrument which may
+be carried in a plaster box : It is formed like a splatter
+or spatula at one end, onely it is hollow and cut through,
+and the other being formed for scraping the tongue : and
+is very fitting in feuers , and furring of the tongue , the
+broad is vsed to hold downe the tongue at such times as
+you desire, either to iniect any liquor into the throate, or
+to apply any other medicine to the mouth or throate,
+though some vse in place thereof a splatter, yet this instru&shy;
+ment is farre steddier, better, and cleaner; and being 
+through hollow,as is said, the tongue is not apt to slip or 
+slide from vnder it any way.</xpln>
+<lemenote>
+"Speculum linguae" is not found in the OED, but see "speculum," n., 1 (1671).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speculum(n)" lexeme="speculum ani(n)">Of the speculum <term lang="la">Ani</term>.</form> <xpln lang="en" lexeme="speculum(n)" lexeme="fundament(n)" lexeme="occasion(n)" lexeme="griefe(n)" lexeme="disease(n)" lexeme="thereunto(adv)">
+THe <term lang="en">speculum Ani</term> declareth his vse by his name, belon&shy;
+ging only to <term lang="la">ano</term> or the fundament , to open the same
+as occasion shall be offered , vpon euery griefe or disease
+happening thereunto, and cannot well be forborne in 
+the Surgeons chest. </xpln>
+<lemenote>
+"Speculum ani" is not found in the OED, but see "speculum," n., 1.
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="10">
+...
+<wordentry type="h"><form lang="en" lexeme="cauterizing iron(n)">Of the cautrizing Irons.</form> <xpln lang="en" lexeme="ancient(a)" lexeme="chirurgeon(n)" lexeme="instrument(n)" lexeme="terror(n)" lexeme="patient(n)" lexeme="cauterize(v)" lexeme="vein(n)" lexeme="artery(n)" lexeme="flux(n)" lexeme="epilepsy(n)" lexeme="falling sickness(n)" lexeme="fontanelle(n)" lexeme="issue(n)" lexeme="lethargy(n)" lexeme="apoplexy(n)" lexeme="surgeon(n)" lexeme="apostume(n)">
+THe auncient Chirurgeons of former ages vsed these
+instruments farre more then these in our times; but
+the necessarie vse of them in many cures is now forborne
+by reason the terror thereof to the Patient is great, yet the 
+vse of them is very needfull, as namely, to cauterize any
+veine or Arterie in strong fluxes of blood which cannot 
+otherwise be staied. And in the Epilepsie or falling sick&shy;
+nesse they are often used with good successe: also they are
+good to make a funtanell or Issue in the hinder part of the
+head, or in the necke; or else where in the cure of the Le&shy;
+thargie or Apoplexie, if vpon learned &amp; good aduice there
+be held iust cause so to do. But they haue been vsed com&shy;
+monly of the ancient Surgeons of former ages for the o&shy;
+pening of the Apostumes.</xpln>
+<lemenote>
+This is the first OED citation of "funtanell" in the sense of "an artificial issue for discharging humours" ("fontanelle | fontanel," n., 2.a).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="11">
+...
+<wordentry type="h"><form lang="en" lexeme="stork's bill(n)" lexeme="raven's bill(n)" lexeme="crow-bill(n)" lexeme="terebellum(n)">Of Storkes bills, Rauens bills, Croes bills,
+Goose bills, and the Terebellum.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="bullet(n)" lexeme="arrowhead(n)" lexeme="several(a)">
+THese last recited instruments haue their seuerall vses, 
+to draw out bullets , arrow heades, broken bones,or
+whatsoeuer else of vnnaturall things are gotten into any
+part of man body.</xpln>
+<lemenote>
+"Storkes bill" in the surgical sense antedates the earliest OED citation ("stork's bill," n., 3, 1671).
+"Goose bill" antedates the earliest OED citation ("goose-bill," n., 2; 1676).
+"Terebellum" antedates the earliest OED citation ("terebelum," n., 1; 1678).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="12">
+<wordentry type="h"><form lang="en" lexeme="incision(n)" lexeme="shear(n)" lexeme="incision-shear(n)">Of incision sheires.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="surgeon(n)" lexeme="incision-shear(n)" lexeme="incision-knife(n)" lexeme="dilate(v)" lexeme="enlarge(v)">
+THere is in euery Arte or Science a due respect to ob&shy;
+serue the hauing of some things for forme and order
+sake,and if any instruments in the Surgeons chest may bee
+tearmed for forme sake to bee placed there, the Incision 
+sheires are of that kinde, for they are generally desired,but
+scarce once in a mans life worth the vsage; for admit there 
+were an occasion to delate or inlarge a wound, it is farre
+better done with the incision knife ...</xpln>
+<lemenote>
+The compound "incision-sheire" ("incision-shear") is not found in the OED. Elswhere, Woodall uses "incision kniues" (1617: 2).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="probe(n)" lexeme="several(a)" lexeme="size(n)">Of the vse of Probes of seuerall sizes.</form> <xpln lang="en" lexeme="probe(n)" lexeme="surgeon(n)" lexeme="chirurgical(a)" lexeme="artificially(adv)" lexeme="occasion(n)" lexeme="lint(n)" lexeme="lotion(n)" lexeme="liquor(n)" lexeme="mundify(v)" lexeme="corrode(n)" lexeme="ulcer(n)" lexeme="fistula(n)" lexeme="unconscionable(a)" lexeme="ignorant(a)" lexeme="inquire(v)" lexeme="patient(n)" lexeme="conscience(n)" lexeme="endanger(v)">
+THe vse of a Probe can no way be forborne in the Sur&shy;
+geons chest, for no chirurgicall worke is well and ar&shy;
+tificially effected without some occasion of the vse thereof
+more or lesse, as namely, oftentimes it is to be armed with
+dry soft lint to clense a wound: sometimes againe, as is a&shy; 
+foresaid, armed with drie lint and dipped into some lotion,
+oyle or liquor, therewith to mundifie corrode or heale the
+greife according to the due occasion thereof, and will of 
+the Artist: sometimes to inquire the depth of a wound,
+vlcer, or fistula, in which worke many times great wrong
+is done by vnconscionable or ignorant Surgeons, to their
+Patients by forcing to farre the Probe, thereby to make
+the greife appeare deeper, which I aduise young Surgeons 
+to make a conscience of, for by such abuse the Patient is 
+many times greatly indangered of his life.</xpln></wordentry>
+...
+</page>
+
+<page no="13">
+...
+<wordentry type="h"><form lang="en" lexeme="spatula(n)" lexeme="great(a)" lexeme="small(a)">Of spatulaes great and small.</form> <xpln lang="en" lexeme="spatula(n)" lexeme="splatter(n)" lexeme="surgeon(n)" lexeme="unguent(n)" lexeme="emplaster(n)"lexeme="compound(v)" lexeme="medicine(n)" lexeme="variety(n)">
+<emend err="SPlatulaes">SPatulaes</emend> or splatters as they commonly tearme them
+are most needfull instruments to spread vnguent, and
+emplasters withall, and also to stirre about, and the better
+to compound any medicine on the fire: and to this latter
+worke the Artist may make wooden splatters which will 
+be farre fitter and cleaner than those of Iron, and the Sur&shy;
+geons chest cannot well be without both sorts, and variety
+</page> 
+
+<page no="14">
+will does well, wherefore they cannot be forborne in the 
+chest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spathula(n)" lexeme="spathula mundani(n)">Spathula <term lang="la">mundani</term>.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="occasion(n)" lexeme="costiveness(n)" lexeme="purging(a)" lexeme="medicine(n)" lexeme="fundament(n)" lexeme="excrement(n)" lexeme="powdered(a)" lexeme="diligent(a)" lexeme="speculum ani(n)" lexeme="anointed(a)" lexeme="greased(a)">
+THis instrument is newly deuised by my selfe, to serue
+vpon any occasion of extreame costiuenesse, which of&shy;
+ten happeneth to sea men, so that no purging medicine
+neither vpward nor dowenward administred or taken will
+worke, which my selfe haue more then once seen, in which 
+case the fundament, with the speculum <term lang="la">ani</term> aforesaid, if oc&shy;
+casion vrge, is to be opened, and the spoone end of this
+instrument put in and the hard excrements therewith 
+drawne out, which in some bodies are so drie that they 
+may be poudered. This disease killeth many, and may by 
+the diligent Artist be easily cured as aforesaid. This reci&shy;
+ted instrument may bee easily forced into the fundament
+without the speculum <term lang="la">ani</term> to conduct it, being annointed or
+greased, and first warmed a little....</xpln>
+<lemenote>
+"Spathula mundani" is not found in the OED, but see "spatula," n., 1.b (1684).
+</lemenote>
+</wordentry>
+...
+
+<wordentry type="h"><form lang="en" lexeme="pacis(n)" lexeme="pelican(n)" lexeme="punch(n)" lexeme="forcer(n)" lexeme="crow-bill(n)" lexeme="fleam(n)" lexeme="graver(n)" lexeme="file(n)" lexeme="tooth(n)">Pacis, Pullicans, Punches or forcers, Croes bills,
+stemes, Grauers and files for teeth.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="surgeon(n)" lexeme="fleam(n)" lexeme="compass(v)" lexeme="grinder(n)" lexeme="pelican(n)" lexeme="pacis(n)" lexeme="hazard(v)" lexeme="punch(n)" lexeme="forcer(n)" lexeme="concerning(pp)" lexeme="crow-bill(n)" lexeme="snag(n)" lexeme="occasion(n)" lexeme="launch(v)" lexeme="superfluous(a)" lexeme="scurvy(n)" lexeme="graver(n)" lexeme="substance(n)" lexeme="offend(v)" lexeme="reasonable(a)" lexeme="abate(v)" lexeme="fractured(a)" lexeme="file(n)">
+ALl these recited instruments, and each of them are
+needful in the Surgeons chest, and cannot bee well
+forborne for the drawing of teeth, as also the clensing of
+</page> 
+
+<page no="15">
+the teeth and gummes, and the letting of the gums bloud
+are often no small things for keeping men in health at sea,
+and sometimes doe saue the liues of men both at sea and
+land ...
+...
+For drawing of teeth the true manner is, first well to di&shy;
+uide the Gumme from the tooth, in which worke if you
+be wary you neede not launch or cut the gumme at all,but
+onely with the round sharpe pointed end of the phleme to
+compasse the tooth close, pearcing by little and little still
+somewhat deeper, but euer keeping round and close to 
+the tooth till you feele your phleme be as low as the iaw
+bone, in which time you may be; then consider well what 
+kinde of instrument you will take to draw it, and if it bee
+the furthest tooth of the iaw either aboue or below, or that
+it be a stumpe, except it bee of the foremost teeth, the pul&shy;
+licans are the fittest instruments to draw with; if it bee any
+other of the great grinders, and that there be reasonable 
+hold on the inner side, be it on the vpper or lower iaw it is
+best done with the pacis, but you must be wary you draw
+not a large tooth with a narrow pacis, for so you hazard the 
+breaking thereof; wherefore two sorts of pacis at least are
+needfull in a chest, and the like of pullicans and punches or
+forcers, for you must fit a large tooth with a large instru&shy;
+ment. Concerning the foremost teeth and the eye teeth
+they are safest done with the forcers, or punch, prouided
+that they be vpon the vpper iaw, and for them of the lower
+iaw being strong, with narrow pacis.
+...
+</page>
+
+<page no="17">
+...
+Concerning the Crowes bills, they are only vsed to take
+hold of any snagg of a tooth or bone loose in the iawe, or
+else where in the body where occasion may vrge.
+Phlemes haue not only their vses in teeth drawing, but
+also to launch &amp; cut the Gummes to let them bloud, or to
+cut oftentimes the superfluous flesh of the gummes away,
+it being too ranke, as in cases of the scuruy, the cure where&shy;
+of (God willing) shall in another place be spoken of.
+And for Grauers they are vsed to take scales of, a hard
+substance which vse to fix themselues to the teeth, causing 
+them to become loose and stinke, or be blacke in the 
+mouth, or to help to scrape or clense a bone in any other
+part of the body, as iust occasion is offered.
+The small Files are vsed either to file a small snagg of a 
+tooth, which offendeth the tongue or lipps, or to abate 
+any end of a bone else-where in the body which is fra&shy;
+ctured.</xpln>
+<lemenote>
+"Pacis" in the sense of "a dental instrument" is not found in the OED. The term seems to come from the "pax" or "kiss of peace," an object extended to the worshipper's mouth.
+"Punch" in the sense of "a dental instrument" antedates the earliest OED citation ("punch," n.1, I.3.b, 1826).
+"Forcer" in the sense of "an instrument or means for forcing" antedates the earliest OED citation ("forcer," n.2, 2.a, 1649).
+"Snag" in the sense of "a stump of a tooth" is the earliest OED citation ("snag," n.1, 2.b).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mullet(n)" lexeme="forceps(n)" lexeme="hamulus(n)" lexeme="hook(n)" lexeme="ear-picker(n)" lexeme="sike(n)" lexeme="spatula(n)">One Bundle of small Instruments vsually brought from Ger&shy;
+manie conteyning diuers kindes, as Mulletts, For&shy;
+ceps, Hamules or Hookes, Eare-pickers, 
+Sikes, Small spatulas, &amp;c.</form>
+...
+<xpln lang="en" lexeme="divers(a)" lexeme="casualty(n)" lexeme="surgeon(n)" lexeme="instrument(n)" lexeme="unfortunately(adv)" lexeme="furnish(v)" lexeme="on the sudden(adv)">Wherefore for that a heare or a mote in the eye, a stone
+in the eare or nostrels, a pin or bone in the throat, a spill
+</page>
+
+<page no="18">
+in the finger, and diuers like casualties vnfortunately hap&shy;
+pen on the sodaine, it is very necessary for the Surgeon to
+be furnished with such like needfull instruments ...</xpln>
+<lemenote>
+"Forceps" antedates the earliest OED citation ("forceps," n., 1; 1634).
+"Hamules" antedates the earliest OED citation ("hamulus," n., b; 1728).
+"Sike" in the sense of "a surgical instrument" is not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syringe(n)" lexeme="clyster-syringe(n)" lexeme="wine-pint(n)">Of the large Siringe conteyning one wine pinte, com&shy;
+monly called the Glister Siringe.</form>
+...
+</page>
+
+<page no="19">
+...
+<xpln lang="en" lexeme="instrument(n)" lexeme="tow(n)" lexeme="staff(n)" lexeme="mentioned(a)" lexeme="syringe(n)" lexeme="clyster(n)" lexeme="liquor(n)" lexeme="pewter(n)" lexeme="brass(n)" lexeme="pint(n)" lexeme="funnel(n)" lexeme="medicine(n)" lexeme="substance(n)">The principall things to be obserued in fitting the in&shy;
+strument is that the towe, within the staffe mentioned, be
+euen and full and close put on, that no drop of liquor can
+come out behinde at the staffe end, which is as easie to do
+as in a small Sirring. And you must also haue a glyster
+pot of pewter, but one of brasse were better for feare of
+melting. Your glyster pot should be made with a snout or
+lipp, and containing one pinte and a halfe, the better to
+deliuer in the liquor at the narrow hole of the siring with&shy;
+out a funnell. When you would put in your medicine, 
+you must draw downe your staffe as low as you can, that 
+there may be the whole roome to containe the substance
+which you haue ready, namely your Glyster, which put in,
+haue ready a corke to stop the hole you put it in by: then 
+may you lay downe your instrument till you be ready to
+vse it.</xpln>
+<lemenote>
+This entry is cited in the OED under "syringe(n)" (1617).
+"Glister Siringe" antedates the earliest OED citation ("clyster, n.; 1654).
+"Wine pinte" antedates the earliest OED citation ("wine," n.1, C2: "wine-pint," n.; 1770).
+"Tow" in the sense of "the contents of a syringe" is not found in the OED; see "tow," s.4, 1, for a similar non-medical usage. Also see "tow plunger" in "Antique Medical Instruments" (1979), by Elisabeth Bennion, p. 172.
+"Staff" in the sense of "the piston of a syringe" antedates the earliest OED citation ("staff," n.1, 12.a; 1653).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="21">
+<wordentry type="h"><form lang="en" lexeme="syringe(n)" lexeme="small(a)">Of the small Siringe.</form>
+... 
+<xpln lang="en" lexeme="observe(v)" lexeme="syringe(n)" lexeme="galling(n)" lexeme="tow(n)" lexeme="steady(a)" lexeme="deliver(v)" lexeme="reason(n)">First therfore obserue that when you vse a siring,
+let it be cleane; that it be smooth at the end for gauling;
+that it be euen armed with towe; that it go not by iumps
+nor too stiffe; and that you carry a steedy &amp; euen hand in 
+deliuering it, &amp; force it not ouer strongly, except vpon 
+great reas<expan type="o_">on</expan>.</xpln></wordentry>
+...
+</page>
+
+<page no="22">
+...
+<wordentry type="h"><form lang="en" lexeme="catheter(n)" lexeme="wax-light(n)" lexeme="conduit(n)" lexeme="bladder(n)">Of the Cathetor, with also the waxe lights to search
+the conduit of the bladder.</form> <xpln lang="en" lexeme="number(v)" lexeme="instrument(n)" lexeme="surgeon(n)" lexeme="obstruction(n)" lexeme="passage(n)" lexeme="urine(n)" lexeme="bladder(n)" lexeme="syringe(n)" lexeme="wire(n)" lexeme="gravel(n)" lexeme="artificial(a)">
+THe Cathetor may well bee numbered one amongst
+the needfull instruments in the Surgeons Chest; for
+</page>
+
+<page no="23">
+if obstructions happen, either in the passage of the vrine 
+or necke of the bladder through slime, grauell, the stone,
+or like accident which by the artificiall vse of a siring
+cannot be remoued, then is this needfull instrument to bee
+vsed, as also to make search for the stone in the bladder.
+... then draw out the inner wier and 
+the vrine will come forth ...</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="searching-candle(n)">Of the searching candle.</form> <xpln lang="en" lexeme="searching-candle(n)" lexeme="caruncle(n)" lexeme="ulceration(n)" lexeme="bladder(n)" lexeme="medicine(n)" lexeme="agrieved(a)" lexeme="deliberation(n)" lexeme="disease(n)" lexeme="spongy(a)" lexeme="occasion(n)" lexeme="depressed(a)" lexeme="wax-light(n)" lexeme="injection(n)">
+THe searching candle is chiefly to be vsed when there is
+a carunkell or vlceration in the necke of the blader or
+passage of the vrine,and then it is vsed both to find out the 
+place where the said griefe is, and also to bring apt medi&shy;
+cines to the place agrieued; but that worke requireth good
+</page>
+
+<page no="24">
+deliberation well to effect it : for a good workeman may
+easily erre herein except he take good regard. Wherefore
+when by the candle you haue found the place certaine of 
+the griefe with, is commonly found by the stoppes or 
+staies which the said candle findeth in the passage, which
+found, obserue the iust length to the further end of the 
+said stop or place agrieued, and there if you marke your
+candle well, you shall by the same perceiue the full length
+and breadth of the disease, then vpon the said light or can&shy;
+dle fasten your medicine which you intend to heale the 
+griefe, with; as namely if the disease be a kinde of spungie
+flesh as often it is, a little burnt <term lang="la">aluminis vsti</term>, or <term lang="la">vitriolum
+vsti</term> will be fitting medicines, or what else you know best
+for such occasions, and print it according to the depressed
+part of the waxe into the waxe candle, and conueigh it wa&shy;
+rily to the place, and let the waxe light remaine for a short
+time in the yard, then hauing a care you keepe it not till
+the waxe melt too much draw it out, and doe so againe,
+and alter your medicine vpon the searching candle as you
+see cause, and forget not to vse good iniections also, which
+helpe much.</xpln>
+<lemenote>
+"Searching candle" antedates the earliest OED citation ("searching," n., C2; 1672).
+</lemenote>
+</wordentry>
+...
+
+<wordentry type="h"><form lang="en" lexeme="salvatory(n)" lexeme="necessary(a)" lexeme="appurtenance(n)">The Saluaterie and the necessarie appurtenances.</form> <xpln lang="en" lexeme="salvatory(n)" lexeme="several(a)" lexeme="unguent(n)" lexeme="sufficient(a)">
+THe Saluatory if it containe vj. seuerall vnguents it is
+sufficient for any present vse ...
+</page>
+
+<page no="25">
+...
+But if the Saluatorie haue eight roomes ...</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plaster box(n)" lexeme="emplaster(n)">Of the Plaster Box and what belongeth thereto
+and first of the Emplasters.</form> <xpln lang="en" lexeme="plaster box(n)" lexeme="several(a)" lexeme="emplaster(n)">
+THe Plaster boxe ought to containe at the least three
+kindes of seuerall Emplasters ...</xpln></wordentry>
+...
+</page>
+
+<page no="26">
+...
+<wordentry type="h"><form lang="en" lexeme="forceps(n)">Of the Forceps.</form> <xpln lang="en" lexeme="forceps(n)" lexeme="medicine(n)" lexeme="disease(n)" lexeme="offensive(a)" lexeme="patient(n)">
+THe Forceps are onely to be vsed to take off medicines
+from diseases, or sometimes to take out a spill, a haire,
+or a loose bone, or else ought which is offensiue, from a 
+wound,or to draw out ought that may by chance come in&shy;
+to the eare, nostrills, the mouth, or throte, to the danger of 
+the Patient.</xpln></wordentry>
+...
+
+<wordentry type="h"><form lang="en" lexeme="spatula(n)">Spatulaes.</form> <xpln lang="en" lexeme="spatula(n)" lexeme="unguent(n)" lexeme="lint(n)" lexeme="patient(n)">
+THe vse or abuse of the spatula, as it hath his office to
+take out an vnguent &amp; spread it on lint, can do no of&shy;
+fence to the Patient greatly.</xpln></wordentry>
+...
+
+<wordentry type="h"><form lang="en" lexeme="probe(n)">Of the Probe.</form> <xpln lang="en" lexeme="probe(n)" lexeme="plaster box(n)" lexeme="ulcer(n)" lexeme="fistula(n)">
+... the small Probe being a necessarie, meerely
+belonging to the plaster box, serueth not onely for the a&shy;
+foresaid vses, but also to clense wounds,vlcers,fistulaes &amp;c.</xpln></wordentry>
+...
+</page>
+
+<page no="27">
+...
+<wordentry type="h"><form lang="en" lexeme="stitching quill(n)" lexeme="stitching needle(n)">Of the stitching quill, and stitching needles.</form> <xpln lang="en" lexeme="several(a)" lexeme="orifice(n)" lexeme="awry(adv)" lexeme="obligne(a)" lexeme="deformed(a)" lexeme="threaded(a)" lexeme="coloured(a)" lexeme="waxed(a)" lexeme="comeliness(n)" lexeme="occasion(v)" lexeme="rolling(a)" lexeme="stitching quill(n)" lexeme="convenient(a)" lexeme="ligature(n)" lexeme="ulcer(n)">
+...for&shy;
+get not to haue at the least three ready needles well armed
+and pointed of seuerall sizes, I meane threded with strong
+coulored silke well waxed, and when you stitch beware
+you draw not the orifice awry, obligne or deformed, but
+that you haue great respect to the true beauty and former
+comelinesse of the wounded part, neither let your stitches
+be too neere one another, neither tie your silke too close,
+which will occasion the stitches to breake before their
+time, for Nature will not be forced.
+... Note also that rowling
+needles be put into the said stitching quill to be ready: al&shy;
+so thred to sow rowled together for making the readier and 
+conuenienter ligature in wounds, and vlcers as occasion is.</xpln>
+<lemenote>
+"Stitching quill" antedates the earliest OED citation ("stitching," n., Compounds; 1674).
+"Rolling needle" is not found in the OED.
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="28">
+...
+<wordentry type="h"><form lang="en" lexeme="lancet(n)">Of the Lancet.</form> <xpln lang="en" lexeme="lancet(n)" lexeme="orifice(n)" lexeme="overlarge(a)" lexeme="tumble(v)" lexeme="vein(n)" lexeme="spirit(n)" lexeme="puffed(a)" lexeme="head vein(n)" lexeme="signify(v)" lexeme="middle vein(n)" lexeme="principal(a)" lexeme="indifferent(a)" lexeme="liver vein(n)" lexeme="respect(v)" lexeme="rheum(n)" lexeme="distillation(n)" lexeme="squinancy(n)" lexeme="angina(n)" lexeme="inflammation(n)" lexeme="amygdal(n)" lexeme="saphena(n)">
+...That 
+his Lancets be not too spere pointed, I meane small poin&shy;
+ted, for the broadest pointed Lancets make the best work.
+</page> 
+
+<page no="29">
+Likewise that the orifice be large not deepe, yet not ouer&shy;
+large, for it is ouerlarge when the bloud tumbleth out 
+without a streame, for that spendeth too much the spirits,
+and it is also too narrow when the streame is small, and
+that the vaine is puffed vp with winde.
+...
+</page>
+
+<page no="30">
+... The vaines commonly opened
+are sixe in number, namely, one in the forehead, one vn&shy;
+der the tongue, 3 in the arme, and one in the foote: The
+three in the arme are most in vse, whose names are <term lang="la">Cepha&shy;
+lica</term> the vppermost, or head vaine, so called of the Greeke
+word <term lang="gkt">cephalus</term> which signifieth a head, and is commonly
+opened in all griefes of the head where it can be taken, in
+want whereof it is almost as good to take the middle
+vaine.
+The next is the <term lang="la">median</term> or the middle vaine, it is the se&shy;
+cond principall vaine which is generally taken as indiffe&shy;
+rent for the whole body.
+The third is the <term lang="la">Basillica</term> or the liuer vaine, being the 
+lowest in the arme, and more respecteth the liuer then the 
+two former. 
+...
+The vaine in the forehead is also often taken for paines
+in the head, as rumes, distillations of humors, and the 
+like.
+The vaines vnder the tongue in the squinancie or angine,
+infl<expan type="a_">am</expan>mations and swellings of the Amigdalls of the throte,
+or of the roote of the tongue, the liuer vaine called saphane
+chiefly is taken for womens sicknesses, not seene at Sea...</xpln></wordentry>
+</page>
+
+<page no="31">
+...
+<wordentry type="h"><form lang="en" lexeme="incision-knife(n)">Incision Knife.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="incision-knife(n)">
+This instrument is mentioned in the beginning of the
+vses of instruments vnder the title Incision Knife.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burras-pipe(n)">The Burras Pipe.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="surgeon(n)" lexeme="goldsmith(n)" lexeme="silversmith(n)" lexeme="burras-pipe(n)" lexeme="corroding(a)" lexeme="vitriol(n)" lexeme="alum(n)" lexeme="precipitate(n)" lexeme="caustic(a)" lexeme="medicine(n)">
+THis Instrument thus named doubtlesse was by a 
+Surgeon borrowed at the first from sone Gold or 
+Siluer-smith, and neuer paid him againe; for the 
+Goldsmiths vse it daily,and cannot performe their workes
+without a Burras pipe, but the Surgeons make other vse
+thereof, namely for the most part to reteyne coroding 
+powders in, as Vitrioll, burnt Allom pr&aelig;cipitate, and such
+other causticke medicines, which well vsed performe very 
+much in healing ...</xpln>
+<lemenote>
+"Burras pipe" antedates the earliest OED citation ("burras-pipe, n.; 1676).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="32">
+...
+<wordentry type="h"><form lang="en" lexeme="levatory(n)">The Levatory.</form> <xpln lang="en" lexeme="instrument(n)">
+This Instrument is set downe else-where.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="uvula spoon(n)">Of the Vvula spoone.</form> <xpln lang="en" lexeme="instrument(n)" lexeme="medicine(n)" lexeme="uvula(n)" lexeme="bole(n)" lexeme="concavity(n)" lexeme="surgery(n)">
+THis instrument is made to put pepper and salt in, or
+fine bole, pepper, or salt in, or some other the like me&shy;
+</page>
+
+<page no="33">
+dicine, and to hold the same right vnder the Vvula, which
+is for to blow vp into the concavity behinde the same and 
+no other great or especiall vse I know it hath in Surgery,
+except it may be vsed to warme a medicine in.</xpln>
+<lemenote>
+"Uvula spoone" antedates the earliest OED citation ("uvula," n., Compounds; 1678).
+</lemenote>
+</wordentry>
+...
+
+<wordentry type="h"><form lang="en" lexeme="cupping-glass(n)" lexeme="ventose(n)">The Cupping Glasses or Ventoses.</form> <xpln lang="en" lexeme="surgery(n)" lexeme="cupping-glass(n)" lexeme="bubo(n)" lexeme="botch(n)" lexeme="noddle(n)" lexeme="shoulder-blade(n)" lexeme="humour(n)" lexeme="oppress(v)" lexeme="lethargy(n)" lexeme="sciatica(n)" lexeme="member(n)" lexeme="withering(a)" lexeme="benumbed(a)" lexeme="divers(a)">
+THere is many necessary workes in Surgery performed
+by Cupping glasses, namely, sometimes they are vsed
+to set vpon a Bubo or botch to bring it forward, and there&shy;
+in they are very good. Sometimes also to set in the nodell,
+and on the vpper part of the shoulder blades to draw back
+humours which oppresse the head, the eyes, or teeth.
+Or against Lethargy; or on the thighes against aches or 
+paines there; or for the cure of the Sciatica they are very
+good; or sometimes to draw bloud and spirits to a mem&shy;
+ber withering or benummed: in all these and diuers more 
+griefes the Cupping glasses are very needfull.</xpln></wordentry>
+...
+</page>
+
+<page no="34>
+...
+<wordentry type="h"><form lang="en" lexeme="brass(n)" lexeme="basin(n)">Of the Brasse Bason.</form> <xpln lang="en" lexeme="concerning(pp)" lexeme="surgeon's mate(n)" lexeme="liquor(n)">
+I Haue nothing to write concerning it, but that at the
+least the Surgeons Mate haue one if not two, and if he
+finde no vse for it let him sell it for good liquor at Ban&shy;
+tham, as a Surgeons Mate lately did one of mine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blood(n)" lexeme="porringer(n)" lexeme="blood porringer(n)">Of the Bloud Porringers.</form> <xpln lang="en" lexeme="blood(n)" lexeme="porringer(n)" lexeme="blood porringer(n)" lexeme="quantity(n)" lexeme="precious(a)" lexeme="surgeon(n)" lexeme="basin(n)" lexeme="surgeon's mate(n)" lexeme="imitate(v)">
+BLood porringers are necessary at Sea, to be the more
+certaine of the quantity of blood which is taken, since
+</page>
+
+<page no="35">
+the blood of man is so pretious a thing, as it is to bee well
+weighed what quantitie is taken. 
+Although the German Surgeons doe euer let blood
+into a Bason, which I hold not good for the Surgeons
+Mate to imitate at first, except he be of good iudgement
+indeed to iudge of the quantity: the blood porringers
+which are made for that purpose being full, hold iust three
+ounces, and somewhat more ....</xpln>
+<lemenote>
+Neither the phrase "blood porringer" nor "porringer" in this surgical sense is found in the OED. See the Edinburgh Medical and Surgical Journal (1849): 494.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diet-pot(n)">Of the Dyet Pot.</form> <xpln lang="en" lexeme="diet-drink(n)" lexeme="seething(a)" lexeme="pox(n)">
+THe Dyet Pot is not alone to be vsed in cases of dyet
+drinke seething for the pox, and not otherwise ...</xpln>
+<lemenote>
+Woodall here is the earliest citation for "Dyet Pot" in the OED.
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="37">
+... 
+<wordentry type="h"><form lang="en" lexeme="weight(n)" lexeme="scale(n)">Of weights and scales.</form> <xpln lang="en" lexeme="surgeon(n)" lexeme="grain(n)">
+.... Wherefore two paire of weights
+and scales are very needfull for the Surgeons Chest,name&shy;
+</page>
+
+<page no="38">
+ly one for ounces, and one for graines ....</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="close-stool(n)" lexeme="pail(n)" lexeme="brass(n)" lexeme="brick(n)">Of the Close-stoole, with the Paile of Brasse,
+and the Bricks.</form> <xpln lang="en" lexeme="foment(v)" lexeme="fumigate(v)" lexeme="comfort(v)" lexeme="patient(n)" lexeme="extremities(n)" lexeme="continually(adv)" lexeme="shroud(n)" lexeme="beak-head(n)" lexeme="noisome(a)" lexeme="instrument(n)" lexeme="comfort(n)" lexeme="pitiful(a)" lexeme="distress(n)" lexeme="heartily(adv)" lexeme="compassionate(v)" lexeme="whelm(v)" lexeme="vinegar(n)" lexeme="fitting(a)" lexeme="medicine(n)" lexeme="experience(n)" lexeme="sprinkle(v)">
+.... I hold it
+my duty to aduise euen the good of a close stoole: and I 
+haue caused the stoole to haue one doore on the one side,
+that thereby either things to foment, fumigate, or other&shy;
+wise to comfort the weake part, might be the better ap&shy;
+plied, the Patient sitting at his ease thereon.
+Also one especiall reas<expan type="o_">on</expan> why I haue appointed it is; that
+a poore weake man in his extremities should not continu&shy;
+ally go to the shrouds or beake head to ease himselfe, nor
+be noysome to his fellowes, but might by the help of his
+Mate through this meane instrument finde comfort in his
+most pitifull distresse, whose miseries I hartily compassio&shy;
+nate. 
+...
+</page>
+
+<page no="39">
+...
+The paile of brasse vnder the stoole was chiefly appoin&shy;
+ted for neatnesse, cleanlinesse, strength, and other good
+vses it hath alwaies to belong thereto, and not to any o&shy;
+ther vse: It may also sometimes be whelmed downe, and
+on the toppe thereof a hotte bricke be set, or the bricke if
+you finde it too neere may stand lower, or put into the
+paile, which hotte bricke with wine and vineger or any o&shy;
+ther like fitting medicine of experience may be sprinkled
+to comfort the part agreeued withall ...</xpln>
+<lemenote>
+"Beake head" in the sense of "The part of a ship in front of the forecastle" antedates the earliest OED citation ("beak-head," n., 1.c; 1627).
+</lemenote>
+</wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="125">
+<section type="Medical Procedures">
+<heading>
+Of Wounds.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="wound(n)">A Wound</form> <xpln lang="en" lexeme="solution of continuity(n)" lexeme="division(n)" lexeme="putrefaction(n)" lexeme="organic(a)" lexeme="internal(a)" lexeme="malice(n)" lexeme="humour(n)" lexeme="denomination(n)" lexeme="punction(n)" lexeme="dagger(n)" lexeme="rapier(n)" lexeme="contusion(n)" lexeme="violently(adv)" lexeme="appellation(n)" lexeme="incision(n)" lexeme="instrument(n)" lexeme="detriment(n)" lexeme="substance(n)" lexeme="several(a)" lexeme="divers(a)" lexeme="profound(a)" lexeme="superficial(a)" lexeme="facile(a)" lexeme="difficile(a)" lexeme="mortal(a)"> being a recent solution of a
+continuitie; or a diuision of that which
+was knit together without putrefacti&shy;
+on; and common as well to the soft
+and organicke parts, as also to the har&shy;
+der: it may (thoughs seldome it doth)
+arise from an internall cause,as the ma&shy;
+lice of bad humors, but more commonly it comes from 
+an externall cause, namely by the violence of some instru&shy;
+ment. For which cause a wound is said to differ in his de&shy;
+nomination: for sometimes it is called a thrust or pun&shy;
+ction, which is made by stabbing with any thing sharpe
+pointed, as a Dagger, Rapier, or the like: sometimes it is
+named a contusion, when a weighty thing offending (as
+timber) falling downe or violently cast downe (as a stone)
+the flesh being bruised and broken : sometimes also it
+hath the appellation of incision or an incised wound, for
+that it is done by an edged instrument, as a knife or sword.
+And these wounds are either simple or compound: the
+simple being onely in the vpper skin or flesh without de&shy;
+triment or losse of substance, which also haue their seuerall
+species or kindes, because of their diuers formes: some
+being greater or smaller, profound or superficiall, long or 
+litle, straight, round, or crooked; of a facile cure, or diffi&shy;
+cile, or mortall.</xpln></wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="147">
+<section type="Medical Procedures">
+<heading>
+The cure of Apostumes.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="apostume(n)">First what an Apostume is.</form> <xpln lang="en" lexeme="apostume(n)" lexeme="tumour(n)" lexeme="disease(n)" lexeme="intemperature(n)" lexeme="incommoderation(n)" lexeme="solution of continuity(n)" lexeme="magnitude(n)">
+AN Apostume is a tumour composed of three
+kindes of diseases, as Auicen affirmeth, namely,
+Intemperature, Incommoderation, and Solu&shy;
+tion of continuity, all gathered into one mag&shy;
+nitude: and Tagaltius in his institutions affirmeth, euery
+tumour against nature is an Apostume: The differences
+of tumours are many, and are by many learned writers
+handled at large, of which my leasure will not permit me 
+now to write.</xpln>
+<lemenote>
+This entry contains the first and only OED citation under "incommoderation."
+</lemenote>
+</wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="157">
+<section type="Medical Procedures">
+<heading>
+Of the Cure of Ulcers, and
+Fistulaes.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="ulcer(n)" lexeme="fistula(n)">FOR haste I haue mixed Ulcers and Fistu&shy;
+laes together</form> <xpln lang="en" lexeme="affinity(n)" lexeme="definition(n)">, for that they are of affinitie
+in shew and cure: whole severall defini&shy;
+tions I also forbeare for want of time, and
+enter into the Cure at the first.</xpln></wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="177">
+<section type="Medical Procedures">
+<heading>
+Of the Scuruy called in Latine
+<term lang="la">Scorbutum</term>.
+</heading>
+...
+</page>
+
+<page no="178">
+...
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="scurvy(n)">What the disease called the Scuruy is. </form> <xpln lang="en" lexeme="disease(n)" lexeme="spleen(n)" lexeme="distempered(a)" lexeme="scyrros(n)" lexeme="divers(a)" lexeme="particularly(adv)" lexeme="leady(a)" lexeme="infectious(a)" lexeme="offend(v)">
+The Scuruy is a disease of the spleene, whereby it is
+sometimes wholly stopped, sometimes onely distem&shy;
+pered, sometimes also appearing with hard <emend err="feyrros">scyrros</emend>, swel&shy;
+lings, beginning and shewing themselues in diuers parts
+of the body, but more particularly on the thighes and
+legges, causing them to seeme of a leady colour, the sharp&shy;
+nesse of which infectious humor oft offendeth the mouth
+and gummes of the diseased, and causeth the flesh thereof
+to rot and stinke.</xpln>
+<lemenote>
+"scyrros" is not found in the OED but may be related to "scorbuch," n. (1598-).
+</lemenote>
+</wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="202">
+<section type="Medical Procedures">
+<heading>
+Concerning the Fluxes of
+the bellie.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="lienteria(n)">Leienteria</form> <xpln lang="en" lexeme="flux(n)" lexeme="sustenance(n)" lexeme="digested(a)" lexeme="lienteria(n)" lexeme="imbecility(n)" lexeme="occasion(v)" lexeme="retentive(a)" lexeme="apostemation(n)" lexeme="crude(a)" lexeme="humidity(n)" lexeme="oppress(v)"> is distinguished to be that Fluxe which either
+passeth the sustenance taken, wholy vndigested, and that
+without any bloud at all, and without great paine, or as
+it were halfe digested. The true causes of Leienteria pro&shy;
+ceede chiefly through imbecility and weaknesse of the
+stomake, which may be occasioned many waies, whereby
+the vertue retentiue is weakened; yea and sometimes the
+stomake reseruing apostumation is either wholly weake&shy;
+ned, and cold and broken, or sometimes by crude humi&shy;
+dities is oppressed...</xpln></wordentry>
+...
+</page>
+
+<page no="204">
+...
+<wordentry type="h"><form lang="en" lexeme="diarrhoea(n)">Of Diarrhea.</form> <xpln lang="en" lexeme="flux(n)" lexeme="waterish(a)" lexeme="humour(n)" lexeme="disease(n)" lexeme="manifest(v)">
+<term lang="en">DIarrhea</term> is a Flux of the belly which is either meerely
+watrish, or with humors and with slime mixed, for the
+signes of the disease are manifest, the causes too many for
+my leasure to note vnto you ...</xpln></wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="232">
+<section type="Medical Procedures">
+<heading>
+Of <term lang="la">Laudanum Opiat Paracelsi,</term> and
+the Vertues thereof.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="ileos(n)">ILeos</form> <xpln lang="en" lexeme="painful(a)" lexeme="wringing(n)" lexeme="oppress(v)" lexeme="perish(v)" lexeme="miserable(a)" lexeme="feces(n)" lexeme="excrement(n)" lexeme="obstruction(n)" lexeme="disease(n)" lexeme="infectious(a)"> or <term lang="la">Illiaca Passio</term> is a most painefull disease, procee&shy;
+ding from an obstruction of the small guts, which suf&shy;
+fering nothing to passe downewards causeth a great wrin&shy;
+ging and paine, so that many which are oppressed with
+this disease doe perish, and die a very miserable death, en&shy;
+ding their daies with their feces, or their owne excrements
+issuing out at their mouths, and it is many times noted
+for a disease infectious.</xpln>
+<lemenote>
+"Feces" in the sense of "Waste matter that is discharged from the bowels, excrement" antedates the earliest OED citation ("faeces," n., 2; a1625).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="236">
+...
+<wordentry type="h"><form lang="en" lexeme="colic(n)"><term lang="la">Collica passio</term> is called in English the Collicke</form> <xpln lang="en" lexeme="passion(n)" lexeme="vehement(a)" lexeme="patient(n)" lexeme="disease(n)" lexeme="colon(n)" lexeme="excrement(n)" lexeme="retain(v)">, and it is
+called a passion, because the paine thereof is so great
+and vehement, that many times the patient desireth ra&shy;
+ther to die then to liue in that vehement paine. This dis&shy;
+ease hath his name of a gut called Colon, and happeneth
+very often when the excrements are retained beyond their
+naturall times and Customes.</xpln>
+</wordentry>
+...
+</page>
+
+<page no="241">
+...
+<wordentry type="h"><form lang="en" lexeme="tenesmus(n)">TEnesmus or Tenasmus,</form> <xpln lang="en" lexeme="diesase(n)" lexeme="intension(n)" lexeme="straining(n)" lexeme="oppilate(a)" lexeme="costiveness(n)" lexeme="provocation(n)" lexeme="vehement(a)" lexeme="void(v)" lexeme="quantity(n)" lexeme="substance(n)" lexeme="slimy(a)" lexeme="egestion(n)"> as Hypocrates calleth it in his
+sixth Aphorisme and in the seueneth booke, is a disease,
+intention, of straining about the right gut called <term lang="la">intestinum
+rectum</term>, being opilate or stopped, and of some English wri&shy;
+</page>
+
+<page no="242">
+ters it is called Costiuenesse. This disease as Galen saith
+in his second booke <term lang="la">De methodo medendi</term> is when a man
+hath an extraordinary prouocation, lust, or desire, and a
+vehement straining to go to the stoole, but cannot voide
+any thing at all, except sometimes some small quantity of 
+slimy matter, which now and then is mixed with bloud, or
+a bloudy substance, and the extraordinary desire of egesti&shy;
+on or going to the stoole not ceasing.</xpln></wordentry>
+...
+</page>
+
+<page no="244">
+...
+<wordentry type="h"><form lang="en" lexeme="exitus(n)" lexeme="falling(n)" lexeme="fundament(n)">Concerning exitus, <term lang="la">velprogressus,</term> <term lang="la">vel procidentia Ani,</term> in En&shy;
+glish, the falling of the fundament.</form> <xpln lang="en" lexeme="disease(n)" lexeme="accidental(a)" lexeme="flux(n)" lexeme="humour(n)" lexeme="manifest(v)" lexeme="divers(a)" lexeme="several(a)" lexeme="occasion(n)" lexeme="resolution(n)" lexeme="relaxation(n)" lexeme="muscle(n)">
+THis disease for the most part is accidentall to our nati&shy;
+on in hot countries, and the cheefely after or in the
+time of a great fluxe of bloud or humours, although it is
+manifest it also happeneth in all countries and places, both
+to young and olde, but cheefely to children vpon diuers
+seuerall occasions...
+</page>
+
+<page no="245">
+...the signe thereof is manifest, that it is a resolution or a
+relaxation of the muscles of those parts: whereby the gut
+slippeth or slideth downe lower then the naturall place
+therof, namely out of the body.</xpln>
+<lemenote>
+"Exitus(n)" in the sense of "prolapse(of the anus, uterus, etc.)" antedates the earliest OED citation ("exitus," n., 3.a; 1797).
+</lemenote>
+</wordentry>
+...
+</page>
+
+<page no="427>
+...
+<wordentry type="h"><form lang="en" lexeme="calenture(n)">Of the Callenture.</form> <xpln lang="en" lexeme="calenture(n)" lexeme="contagious(a)" lexeme="assault(v)" lexeme="paroxysm(n)">
+THe Callenture by all my experience, or what I can
+gather from others, is no other thing then a contagi&shy;
+ous feuor, for the most part suddenly assaulting Sea-men,
+sometimes it is with paroxismes, sometimes continuall,
+and hath fits hot and colde in some, and that very violent,
+euen to the losse of sences and life also. </xpln></wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="292">
+<section type="Medical Procedures">
+<heading>
+Of SVLPHVR.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="sulphur(n)">SVlphur</form> <xpln lang="en" lexeme="fatty(a)" lexeme="oily(a)" lexeme="combustible(a)" lexeme="animal(a)" lexeme="vegetable(a)" lexeme="mineral(a)"> is generally taken for euery fatty,
+oilie, or any way combustible part of any
+creature, whether it be Animall, Vegita&shy;
+ble, or Minerall...</xpln></wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="298">
+<section type="Medical Procedures">
+<heading>
+Of MERCVRIE
+in Generall.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="mercury(n)">MErcurie</form> <xpln lang="en" lexeme="chemist(n)" lexeme="principle(n)" lexeme="fugitive(a)" lexeme="vagrant(a)" lexeme="substance(n)"> is generally taken by Chymists
+for one of the three principles whereof
+each compleat creature is framed by na&shy;
+ture, and it is also the first which forsa&shy;
+keth his fellowes, being assailed by Vul&shy;
+cane, it is in truth a fugitive and vagrant substance...</xpln></wordentry>
+...
+</wordgroup1>
+</section>
+</page>
+
+<page no="338">
+<section type="Dictionary">
+<heading>
+THE 
+TERMES OF ART
+RECITED FOR&shy;
+MERLY IN VERSE, ARE 
+heere againe repeated Al&shy;
+phabetically, and more plainely 
+interpreted.
+</heading>
+
+<wordgroup1 type="a" object="A">
+<wordentry type="h"><form lang="en" lexeme="albation(n)">ALbation</form> <xpln lang="en" lexeme="abstraction(n)" lexeme="grit(n)" lexeme="hare's-foot(n)" lexeme="spather(n)"> is the abstraction of dust moths, gret,
+adhering to a thing with an hares foot, fea&shy;
+ther, spather, knife, or the like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ablution(n)">Ablution</form> <xpln lang="en" lexeme="exaltation(n)" lexeme="infusion(n)"> is exaltation, cleansing vncleane
+things by often infusion, reducing them to purity.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alcolismus(n)">Alcolismus</form> <xpln lang="en" lexeme="calcination(n)" lexeme="ribellation(n)" lexeme="alcohol(n)"> is an operation by calcination, ribellation,
+and other meanes, which reduceth a matter into Alcool,
+the finest powder that is.</xpln>
+<lemenote>
+"Alcolismus" is not defined in the OED. See "alcohol," n., 1.a (1543-): the 1657 citation contains the term "alcolismus," evidently taken from Woodall.
+"Ribellation" is not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="amalgamation(n)">Amalgamation</form> <xpln lang="en" lexeme="solution(n)" lexeme="calcination(n)"> is the putting together, solution, or cal&shy;
+cination of familiar mettals, by <term lang="la">Argentum viuum</term>, &amp;c,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aromatization(n)">Aromatization</form> <xpln lang="en" lexeme="medicament(n)" lexeme="suaveolent(a)" lexeme="odoriferous(a)" lexeme="oblectation(n)" lexeme="palate(n)"> is an artificiall manner of preparation,
+whereby medicaments are made more suaueolent and o&shy;
+doriferous for the oblectation and strength of the palate,
+and vitall faculty.</xpln>
+<lemenote>
+"Suaueolent" antedates the earliest OED citation ("suaveolent," adj.; 1657).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="attrition(n)">Attrition</form> <xpln lang="en" lexeme="humidity(n)"> is a certaine manner of preparation, like grin&shy;
+ding on a conuenient stone with some humidity, wherby
+<term lang="la">Lapis Iudaicus</term>, <term lang="la">Collyria</term>, and the like are prepared.</xpln></wordentry>
+</page>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<page no="339">
+<wordentry type="h"><form lang="en" lexeme="buccellation(n)">Buccellatio</form> <xpln lang="en" lexeme="gobbet(n)" lexeme="piecemeal(adv)"> is diuiding into gobbets, or by peece meale.</xpln>
+<lemenote>
+"Buccellatio" antedates the earliest OED citation ("buccellation," n.; 1657), which copies Woodall.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="en" lexeme="calcination(n)">Calcination</form> <xpln lang="en" lexeme="solution(n)" lexeme="calx(n)" lexeme="alcohol(n)" lexeme="desiccation(n)" lexeme="humidity(n)" lexeme="reverberate(a)" lexeme="ignition(n)" lexeme="amalgamation(n)" lexeme="vitriol(n)"> is solution of bodies into Calx or Alcool, by
+desiccation of the natiue humidity, by reuerberate Igniti&shy;
+on, by Amalgamation, by <term lang="la">Aqua fortis</term>, the spirit of salt vi&shy;
+trioll, Sulphur, or the like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calefaction(n)">Calfaction</form> <xpln lang="en" lexeme="medicament(n)"> is a certaine manner of preparing simple and
+compound medicaments, not by boyling or burning, but
+by the moderate heat of the sunne, fire, <term lang="la">fimus equinus, vel
+eius vicarius.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cementation(n)">Cementation</form> <xpln lang="en" lexeme="gradation(n)" lexeme="cementation(n)"> is gradation by cementing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cementum(n)">Cementum</form> <xpln lang="en" lexeme="lute(n)" lexeme="reverberate(v)"> is a minerall matter like lute, and penetra&shy;
+ting, wherewith mettals spred ouer are reuerberated to
+cement.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ceration(n)">Ceratio</form> <xpln lang="en" lexeme="mollification(n)"> is the mollification of an hard thing, vntill it be
+like wax at the fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cinefaction(n)">Cinefaction</form> <xpln lang="en" lexeme="ignition(n)" lexeme="vehement(a)"> is ignition conuerting Vegitables and Ani&shy;
+mals by a very vehement heat into <term lang="la">Cineres</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="circulation(n)">Circulation</form> <xpln lang="en" lexeme="exaltation(n)" lexeme="solution(n)" lexeme="coagulation(n)" lexeme="pelican(n)"> is the exaltation of pure liquour, as spirit of 
+wine by circular solution, and coagulation in a Pelican, a 
+moderate heat forcing it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clarification(n)">Clarification</form> <xpln lang="en" lexeme="expurgation(n)" lexeme="medicament(n)"> is the expurgation of <emend err="sodide">solide</emend> grosse matter
+from liquid medicaments.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coadunation(n)">Coadunation</form> <xpln lang="en" lexeme="coagulation(n)" lexeme="disgregated(a)"> (sometimes termed by the name of a more
+excellent species, Coagulation) is a perfect and skilful wor&shy;
+king, whereby disgregate things are vnited.</xpln>
+<lemenote>
+"Disgregate" antedates the earliest OED citation (1726) of the adjectival form of "disgregate," v.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coagmentation(n)">Coagmentation</form> <xpln lang="en" lexeme="glutination(n)" lexeme="liquated(a)" lexeme="dissolve(v)" lexeme="evaporate(v)" lexeme="humidity(n)"> like to glutination, is by liquate things,
+on which dissoluing powders are cast, and afterwards are
+made concrete by laying them in a colde place, or by eua&shy;
+porating their humidity.</xpln>
+<lemenote>
+"Liquated" antedates the earliest OED citations of both "liquate" (v. 1; 1669) and its adjectival form (1874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coagulation(n)">Coagulation</form> <xpln lang="en" lexeme="coaction(n)" consistence(n)" lexeme="privation(n)"> is the coaction of things agreeing in nature
+from a thin and a fluid consistence into a sollid masse, by
+the priuation of moisture.</xpln>
+<lemenote>
+"Consistence" in the sense of "degree of density" antedates the earliest OED citation ("consistence," n., 4.a; 1626).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coction(n)">Coction</form> <xpln lang="en" lexeme="alteration(n)" lexeme="commutation(n)"> is the alteration or commutation of a thing to
+be boyled.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cohobation(n)">Cohobation</form> <xpln lang="en" lexeme="abstraction(n)" lexeme="liquor(n)" lexeme="affuse(v)" lexeme="feces(n)" lexeme="distillation(n)"> is frequent abstraction of liquour often&shy;
+times affused vpon a dead head or drie feces by distilla&shy;
+tion.</xpln>
+<lemenote>
+"Affuse" antedates the earliest OED citation ("affuse," v., 1; 1649).
+</lemenote>
+</wordentry>
+</page>
+
+<page no="340">
+<wordentry type="h"><form lang="en" lexeme="colation(n)">Colation</form> <xpln lang="en" lexeme="transmission(n)"> is the transmission of that which is humid tho&shy;
+rough a strainer, that the liquour may bee had separated
+from the drier substance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colliquation(n)" lexeme="colliquefaction(n)">Colliquation, or Colliquefaction,</form> <xpln lang="en" lexeme="conjunction(n)" lexeme="fusil(n)" lexeme="liquable(n)" lexeme="eliquation(n)"> is the coniunction of many
+fusils or liquables to make one compound by eliquation
+on the fire.</xpln>
+<lemenote>
+"Eliquation(n)" antedates the earliest OED citation ("eliquation," n., 1; 1651).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coloration(n)">Coloration</form> <xpln lang="en" lexeme="philosopher's lead(n)" lexeme="sulphurious(a)" lexeme="maceration(n)" lexeme="ablution(n)" lexeme="argol(n)" lexeme="acute(a)"> is, whereby the perfect colour of golde, sil&shy;
+uer, Philosophers lead, &amp;c. obscured by any sulphurious
+vapour, is renouated and illustrated by maceration, fre&shy;
+quent ablution, in sharpe liquour of Salt, Argal, spirit of 
+wine, wine-vineger, or by an acute paste layd on the sayd
+mettals.</xpln>
+<lemenote>
+The phrase "philosophers lead" is not defined in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="combustion(n)">Combustion</form> <xpln lang="en" lexeme="ignition(n)" lexeme="calx(n)"> is ignition, conuerting bodies by burning
+them into calx.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="comminution(n)">Comminution</form> <xpln lang="en" lexeme="deletion(n)" lexeme="filtration(n)" lexeme="exsiccation(n)" lexeme="contusion(n)" lexeme="calcination(n)" lexeme="cribration(n)" lexeme="corpulency(n)" lexeme="alcohol(n)"> is the reducing of any matter into such
+fine powder by delution, filteration, exiccation, contusion,
+calcination, cribration, or any other meanes, that no
+roughnesse or corpulency be felt, as Alcool.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="complexion(n)">Complexion</form> <xpln lang="en"> is the nature of a part hot, colde, moyst, or
+drie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="composition(n)">Composition</form> <xpln lang="en" lexeme="coadunation(n)" lexeme="divers(a)"> is the coadunation of diuers things.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="concretion(n)">Concretion</form> <xpln lang="en" lexeme="divaporation(n)" lexeme="humidity(n)" lexeme="decoction(n)"> is diuaporation of humidity in fluid things,
+by gentle decoction on fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="confriction(n)">Confriction</form> <xpln lang="en" lexeme="attrition(n)" lexeme="pulverable(a)" lexeme="levigate(v)"> is a certaine light <term lang="en">Attrition,</term> by which puluera&shy;
+ble things, with the rubbing of the fingers, or a more sol&shy;
+lid body, are quickly leuigated, as <term lang="la">Cerusa Amylum</term>, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="confusion(n)">Confusion</form> <xpln lang="en" lexeme="divers(a)" lexeme="eliquation(n)"> is properly a mixture of such liquid things as
+are fluid, and of one and the same nature (as of diuers wa&shy;
+ters by themselues, and so of oyles) liquid things (as wax, 
+rosin, pitch, &amp;c.) may likewise bee confused, but by Eli&shy;
+quation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="congelation(n)">Congelation</form> <xpln lang="en" lexeme="decoction(n)" lexeme="consistence(n)" lexeme="congeal(v)" lexeme="copperas(n)" lexeme="saltpetre(n)"> is often performed by a precedent decocti&shy;
+on of things to a certaine height or iust consistence, which
+after set into a celler or colde place, doe congeale into a
+transparent substance, not vnlike ice, as is seene in the ma&shy;
+king of Coperas, Salt-peeter, or the like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conglutination(n)">Conglutination</form> <xpln lang="en" lexeme="ferrumination(n)" lexeme="compaction(n)" lexeme="conglutinated(a)"> is the ferrumination or compaction of
+</page> 
+
+<page no="341">
+mettals, iewels, glasses, &amp;c. by gummes, glue, whites of 
+egges, and the like, the nature of the conglutinated re&shy;
+maining.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contusion(n)">Contusion</form> <xpln lang="en" lexeme="gross(a)" lexeme="subtile(a)"> is the beating of grosse bodies into smaller or
+very subtill part.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corrosion(n)">Corrosion</form> <xpln lang="en" lexeme="calcination(n)" lexeme="coagulated(a)" lexeme="corroding(a)" lexeme="calx(n)"> is calcination, reducing things coagulated, by
+the corroding spirits of salt, sulphur, wine-vineger di&shy;
+stilled, <term lang="la">Aqua fortis</term>, &amp;c. into calx.</xpln>
+<lemenote>
+"Coagulated" antedates the earliest OED citation ("coagulated," adj.; 1633; see "coagulate," v., c1550).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cribration(n)">Cribration</form> <xpln lang="en" lexeme="medicament(n)" lexeme="sieve(n)" lexeme="searce(n)"> is the preparation of medicaments by a siue,
+or searce.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">
+<wordentry type="h"><form lang="en" lexeme="deliquation(n)">Deliquation</form> <xpln lang="en" lexeme="preparation(n)"> is a preparation of things by melting on the 
+fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deliquium(n)">Deliquium</form> <xpln lang="en" lexeme="liquation(n)" lexeme="calcined(a)" lexeme="humidity(n)" lexeme="siccity(n)" lexeme="tartar(n)"> is the liquation of a concrete (as salt, pow&shy;
+der calcined, &amp;c. set in an humid and frigid place (exter&shy;
+ternall humidity, resoluing the siccitie) that it flow, ha&shy;
+uing a watery forme, as is apparant in the preparation of 
+salt of Tarter.</xpln>
+<lemenote>
+"Deliquium" antedates the earliest OED citation ("deliquium," n.2, 1; 1651; n.1 dates from 1597).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="descension(n)">Descension</form> <xpln lang="en" lexeme="dissolved(a)" lexeme="distil(v)" lexeme="subduct(v)"> is when the essentiall iuyce dissolued from
+the matter to be distilled, is subducted and doth descend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="despumation(n)">Despumation</form> <xpln lang="en" lexeme="spume(n)" lexeme="colation(n)"> is when spume or froth floating on the top,
+is taken away with a spoone, feather, or by colation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distillation(n)">Distillation</form> <xpln lang="en" lexeme="coagulate(v)" lexeme="translate(v)" lexeme="sublocate(v)"> is, whereby an essence is extracted in the 
+forme of liquour, and being coagulated, is carried by the 
+<term lang="la">stellidium</term>, translated out of the vessell of the matter, into
+the <term lang="la">excipulium</term> sublocated.</xpln>
+<lemenote>
+"Sublocate" is not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="difflation(n)">Difflation</form> <xpln lang="en" lexeme="folles(n)" lexeme="coagulated(a)" lexeme="camera(n)"> is, when through heat, spirits arising, are with
+a kinde of folles blowen into the aduerse camera, and there
+are found coagulated.</xpln>
+<lemenote>
+This entry is the earliest OED citation under "difflation," n., 2; "folles" is quoted here, but is not found elsewhere in the OED. 
+"Camera" in the sense of "a small cavity" antedates the earliest OED citation ("camera," n., 3; 1664). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="digestion(n)">Digestion</form> <xpln lang="en" lexeme="maturation(n)" lexeme="unconcocted(a)" lexeme="digestory(a)"> is simple maturation, whereby things vncon&shy;
+cocted in artificiall digestory heat (as food by a naturall
+heat in the stomacke) are digested.</xpln>
+<lemenote>
+This entry is the earliest OED citation under "digestory(a)."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dissolution(n)">Dissolution</form> <xpln lang="en" lexeme="medicament(n)" lexeme="humidity(n)" lexeme="consistence(n)"> is a preparation of medicaments simple, and
+compounded by some conuenient humidity to a certaine
+consistence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distraction(n)">Distraction</form> <xpln lang="en" lexeme="divulsion(n)" lexeme="disunition(n)" lexeme="divers(a)"> is a certaine diuulsion or disunition of diuers
+things before vnited &amp; agreeing together (no respect of
+one existing or comprehended in another had) euery one
+remaining in his own nature.</xpln></wordentry>
+</page>
+
+<page no="342">
+<wordentry type="h"><form lang="en" lexeme="divaporation(n)">Divaporation</form> <xpln lang="en" lexeme="exhalation(n)" lexeme="aquosity(n)" lexeme="fume(v)" lexeme="torrefaction(n)"> is exhalation by fire of vapour, remaining
+in liquid substances, till all aquosity bee consumed or in
+more drie, but fumed by torrefaction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dulcification(n)">Dulcification</form> <xpln lang="en" lexeme="medicament(n)" lexeme="ablution(n)"> is the correction of minerall medicaments
+by ablutions, and the like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="duration(n)">Duration</form> <xpln lang="en" lexeme="mollify(v)" lexeme="consistence(n)" lexeme="admixtion(n)"> is either when things mollified at the fire are
+set in a colde place to harden: or by boiling to an high
+consistence or admixtion of dry powder with them, doe
+wax hard.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E">
+<wordentry type="h"><form lang="en" lexeme="elaboration(n)">Elaboration</form> <xpln lang="en" lexeme="ignoble(a)"> is a manuall operation, whereby we extract
+from a substance the most excellent matter, the ignoble
+parts remooued.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="election(n)">Election</form> <xpln lang="en" lexeme="simple(n)" lexeme="vigour(n)"> is of simples according to time &amp; season wherin
+they are gathered, and according to the region wherin they
+grow, that so the best may be had, and their vigor appeare
+in vse according to expectation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elevation(n)">Eleuation</form> <xpln lang="en" lexeme="subtiliation(n)" lexeme="spiritual(a)" lexeme="corporal(a)" lexeme="subtile(a)" lexeme="gross(a)" lexeme="alembic(n)"> is subtiliation, when spirituall parts from the
+corporall, subtill from the grosse, the not fixt from the 
+fixed, like smoke by the force of fire are eleuated, and ad&shy;
+hering to the colde concaues of the Alymbecke, doe thic&shy;
+ken and conuert into water.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elixation(n)">Elixation</form> <xpln lang="en" lexeme="coction(n)"> is coction <term lang="la">in humido</term> by a moderate heat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elution(n)">Elution</form> <xpln lang="en" lexeme="bole(n)" lexeme="pulverization(n)" lexeme="calcination(n)" lexeme="lotion(n)"> is the preparation of common Bole, <term lang="la">Talcum</term>,
+<term lang="la">Crocus Martis</term>, <term lang="la">Terra Lemnia</term>, &amp;c. by puluerization, calci&shy;
+nation, lotion, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evaporation(n)">Evaporation,</form> <xpln lang="en" lexeme="divaporation(n)"> See <term lang="en">Divaporation.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exaltation(n)">Exaltation</form> <xpln lang="en" lexeme="medicament(n)" lexeme="affection(n)" lexeme="dissolution(n)"> is an operation, whereby a medicament
+changed in his affections by gentle dissolution, is produ&shy;
+ced to an higher dignity of substance and vertue, and a
+greater degree of purity.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="exhalation(n)">Exhalation</form> <xpln lang="en"> is when the spirit of anie matter sollid, or in
+powder (being put into a platter, or any other conuenient
+vessell set on coales) is eleuated through heat, and vani&shy;
+sheth into the aire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="expression(n)">Expression</form> <xpln lang="en" lexeme="extraction(n)" lexeme="amygdal(n)" lexeme="compress(v)"> is extraction by a presse, wherein hearbes, a&shy;
+migdales, &amp;c. compressed, powre foorth their substances 
+(as iuyces and oyle) in a liquid forme.</xpln></wordentry>
+</page>
+
+<page no="343">
+<wordentry type="h"><form lang="en" lexeme="extinction(n)">Extinction</form> <xpln lang="en" lexeme="suffocation(n)" lexeme="humidity(n)"> is the suffocation of a matter fiery and hot
+into some humidity.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extraction(n)">Extraction</form> <xpln lang="en" lexeme="segregation(n)" lexeme="corporeous(a)" lexeme="concretion(n)" lexeme="digestion(n)" lexeme="faeces(n)"> is a segregation of an essence from a corpo&shy;
+reous concretion, by digestion in <term lang="la">Balneo</term> his feces, left <term lang="la">in
+fundo</term>, as <term lang="la">Rhabarbarum</term> in spirit of wine infused, manife&shy;
+steth.</xpln>
+<lemenote>
+"Corporeous" antedates the earliest OED citation ("corporeous," adj; 1669).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">
+<wordentry type="h"><form lang="en" lexeme="fermentation(n)">Fermentation</form> <xpln lang="en" lexeme="exaltation(n)" lexeme="massy(a)"> is the exaltation of a massie substance, by
+the admission of <term lang="la">Fermentum</term>, which doth penetrate it
+wholly (his vertue distributed by a spirit) and inuerteth it
+into his owne nature.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ferrumination(n)">Ferrumination</form> <xpln lang="en" lexeme="fracture(n)" lexeme="divers(a)" lexeme="flux(n)"> is the ioining together of a fracture in one
+&amp; the same mettall, or of diuers mettals, by a minerall flux.</xpln>
+<lemenote>
+"Fracture" in the sense of "The result of breaking; a crack" antedates the earliest OED citation("fracture," n., 2.a; 1641).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="filtration(n)">Filteration</form> <xpln lang="en" lexeme="percolation(n)" lexeme="chemical(a)" lexeme="column(n)" lexeme="subduction(n)" lexeme="aquosity(n)"> called percolation, by <term lang="la">Filtrum</term> a chymicall
+colum is subduction of thin aquosity in humid things, the
+thicke and oyly substances resisting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fission(n)">Fission,</form> <xpln lang="en" lexeme="section(n)"> see <term lang="en">Section</term>.</xpln>
+<lemenote>
+"Fission" antedates the earliest OED citation("fission," n., 1; 1865).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fixation(n)">Fixation</form> <xpln lang="en" lexeme="assuefaction(n)" lexeme="volatile(a)" lexeme="calcination(n)" lexeme="decoction(n)" lexeme="sublimation(n)" lexeme="solution(n)" lexeme="coagulation(n)"> is the assuefaction of volatill and spirituall bo&shy;
+dies to fire by calcination, gentle and continuall decocti&shy;
+on, frequent sublimation, solution, and coagulation often
+iterated, or by addition of a matter fixed, that so they may
+endure fire and not flie away.</xpln>
+<lemenote>
+"Assuefaction" antedates the earliest OED citation ("assuefaction," n; 1644).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fraction(n)">Fraction</form> <xpln lang="en"> is the breaking of some matter with ones hand,
+or with an instrument,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frixion(n)">Frixion</form> <xpln lang="en" lexeme="medicament(n)"> is the preparation of some medicaments, with
+oyle, butter, wine, vineger, &amp;c. in a conuenient vessell, for
+the correcting of bad qualities in them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fulmination(n)">Fulmination,</form> <xpln lang="en" lexeme="metallical(a)" lexeme="gradation(n)" lexeme="excoction(n)" lexeme="effulgent(a)"> deriued of <term lang="la">fulmen</term> a Lattin word, signifying 
+fire breaking out of the clowdes, causing a sudden light 
+great and bright, is a metallicall gradation, with excoction
+to an absolute perfection in <term lang="la">Cineritio</term>, whose purity is de&shy;
+clared by an effulgent splendor.</xpln>
+<lemenote>
+"Excoction" antedates the earliest OED citation ("excoction," n; 1640); "excoct," v., dates from 1570.
+"Effulgent" antedates the earliest OED citation ("effulgent," adj.; 1737).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fumigation(n)">Fumigation</form> <xpln lang="en" lexeme="calcination(n)" lexeme="corroding(a)" lexeme="mercury(n)" lexeme="Philosopher's lead(n)" lexeme="crucible(n)" lexeme="fume(n)"> is calcination of mettals, by the sharp corro&shy;
+ding vapour of <term lang="en">Mercury</term>, <term lang="en">Philosophers leade</term>, &amp;c. boyling
+in a crucible, the mettals cut into plates, &amp; either laid ouer
+the <term lang="la">Orificium</term> of the crucible, or hanged ouer the fume.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fusion(n)">Fusion</form> <xpln lang="en" lexeme="liquation(n)"> is liquation by heat violent or moderate, for the 
+separation of the pure from the impure.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="344">
+<wordgroup1 type="a" object="G">
+<wordentry type="h"><form lang="en" lexeme="gradation(n)">Gradation</form> <xpln lang="en" lexeme="exaltation(n)" lexeme="affection(n)" lexeme="rubify(v)" lexeme="constancy(n)"> is an exaltation of mettals in the degree of 
+affections, whereby waight, colour, and constancy are
+brought to an excellent measure, but the substance vnalte&shy;
+red: so golde is rubified, fixed and purified.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="granulation(n)">Granulation</form> <xpln lang="en" lexeme="infusion(n)" lexeme="effusion(n)" lexeme="comminution(n)"> proper to mettals, by infusion on fire, and
+effusion into water is their comminution into <term lang="la">granula</term>, or
+very small drops like <term lang="la">Grana Paradisi</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">
+<wordentry type="h"><form lang="en" lexeme="humectation(n)">Humectation,</form> <xpln lang="en" lexeme="irrigation(n)"> see <term lang="en">Irrigation</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">
+<wordentry type="h"><form lang="en" lexeme="ignition(n)">Ignition</form> <xpln lang="en" lexeme="calcination(n)" lexeme="calx(n)"> is calcination, the fire reducing violent bodies 
+into calx.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="illiquation(n)">Illiquation</form> <xpln lang="en" lexeme="commistion(n)" lexeme="terrene(a)" lexeme="metalline(a)"> is the commistion of terrene bodies with met&shy;
+talline (as of <term lang="la">Lapis cadmia</term> with <term lang="la">cuprum</term>) but so as each re&shy;
+taines his owne substance.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imbibition(n)">Imbibition,</form> <xpln lang="en"lexeme="ablution(n)" lexeme="liquor(n)" lexeme="adjoined(a)" lexeme="vent(n)" lexeme="humectation(n)" lexeme="coagulated(a)"> a philosophicell operation is ablution, when
+liquour adioyned to a body is eleuated, and not finding 
+vent, doth fall backe vpon the same, and often washeth it
+with humectations, so long as it being coagulated, can no
+more ascend, but remaineth wholly fixt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imbution(n)">Imbution,</form> <xpln lang="en" lexeme="infusion(n)" lexeme="amceration(n)"> see <term lang="en">Infusion</term> and <term lang="en">amceration</term>.</xpln>
+<lemenote>
+"Imbution" antedates the earliest OED citation ("imbute," v., derivatives; 1657).
+"Amceration " is not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inceration(n)">Inceration</form> <xpln lang="en" lexeme="humidity(n)" lexeme="combibition(n)" lexeme="mollified(a)"> is the mixture of humidity with that which is 
+dry, by a gentle and not hasty combibition to the consi&shy;
+stence of mollified wax.</xpln>
+<lemenote>
+"Combibition" is not found in the OED; see "bibition," n. (1853).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incineration(n)"><emend err="Iucineration">Incineration</emend>,</form> <xpln lange="en" lexeme="cinefaction(n)"> see <term lang="en">Cinefaction</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incorporation(n)">Incorporation</form> <xpln lang="en" lexeme="addition(n)" lexeme="humidity(n)" lexeme="siccate(a)" lexeme="consistence(n)"> is a sudden addition of so much humidity
+to siccate matters as is required in the true consistence of a 
+mixt body, past, or a masse.</xpln>
+<lemenote>
+"Siccate" as the adjectival form of "siccate," v. (1570-1657) is not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infection(n)">Infection</form> <xpln lang="en" lexeme="tincture(n)" lexeme="medicament(n)" lexeme="immersion(n)"> is the giuing of a tincture or colour to a medi&shy;
+cament by immersion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infusion(n)"><emend err="Infusion">Infusion</emend></form> <xpln lang="en" lexeme="medicament(n)" lexeme="humidity(n)"> is the preparation of medicaments, cut or brui&shy;
+sed in some humidity conuenient for the purpose, a little
+or longer time, whether it be an houre, one day or many,
+a weeke or a moneth, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="inhumation(n)">Inhumation</form> <xpln lang="en" lexeme="luted(a)" lexeme="pinhole(n)" lexeme="distillatory(a)" lexeme="transudation(n)"> is the setting of two pots (the head of the 
+vppermost being very well couered and luted, but his bot&shy;
+tome boared full of little pin-holes, and sure fastened to 
+that which is vnderneath in the ground, and burying them
+with earth to a certaine depth, hauing a circular fire made
+</page>
+
+<page no="345">
+for distallatory transudation <term lang="la">per descensum.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="onsolation(n)">Insolation</form> <xpln lang="en"> is the preparation of simple compound things
+by the heat of sunne in the summer, a gentle fire in the
+winter, <term lang="la">in Balneo</term>, or <term lang="la">in fimo equino</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="irrigation(n)">Irrigation</form> <xpln lang="en" lexeme="immersion(n)" lexeme="aspersion(n)" lexeme="dissolve(v)" lexeme="deliquate(v)"> not much vnlike immersion is an aspersion of 
+humidity vpon things that are to be dissolued, that so they
+may the more easily deliquate.</xpln>
+<lemenote>
+"Deliquate" antedates the earliest OED citation ("deliquate," v., 2; 1669).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">
+<wordentry type="h"><form lang="en" lexeme="levigation(n)">Leuigation</form> <xpln lang="en" lexeme="reduction(n)" lexeme="ponderous(a)" lexeme="comminution(n)" lexeme="diligent(a)" lexeme="alcohol(n)"> is the reduction of any hard and ponderous
+matter by comminution, and diligent collision into fine
+powder, like Alcool.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="limation(n)">Limation</form> <xpln lang="en" lexeme="divers(a)"> proper to mettals (as steele, iron, brasse, leade,
+&amp;c.) is a preparation with a file, whereby they yeelde dust
+for diuers vses.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liquation(n)">Liquation</form> <xpln lang="en" lexeme="dissolve(v)"> is when as that which shall bee made into one
+body, is dissolued, that it can flow abroad like waues.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="liquefaction(n)">Liquefaction</form> <xpln lang="en" lexeme="dissolution(n)"> is the dissolution of a minerall body, by the 
+force of a very gentle fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lotion(n)">Lotion</form> <xpln lang="en" lexeme="medicament(n)" lexeme="liquor(n)"> is a preparation of medicaments in water, or some
+other liquour to remooue some euill and hurtfull, and to 
+procure some good and profitable quality in them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lutation(n)">Lutation</form> <xpln lang="en" lexeme="continuance(n)"> right worthy the name of <term lang="la">Sapientia</term>, is a medi&shy;
+cine thin or thicke according to the heate and continu&shy;
+ance of the fire, which stoppeth most exactly the <term lang="la">olrificium</term> 
+of the vessell, if no vapour must passe out.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">
+<wordentry type="h"><form lang="en" lexeme="maceration(n)">Maceration</form> <xpln lang="en" lexeme="humectation(n)"> is preparation of things not vnlike to <term lang="en">Hume&shy;
+ctation</term> in the manner of working, but in time, for some are
+infused 3. 4. or moe moneths, and some a shorter space.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maturation(n)">Maturation</form> <xpln lang="en" lexeme="exaltation(n)"> is exaltation of a substance, rude and crude
+to that which is mature and perfect.</xpln>
+<lemenote>
+This entry is the earliest OED citation of "maturation" in the sense of "the conversion of a base metal into gold; purification" ("maturation," n., II.8).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mistion(n)">Mistion</form> <xpln lang="en" lexeme="composition(n)" lexeme="inceration(n)" lexeme="incorporation(n)" lexeme="colliquation(n)" lexeme="confusion(n)" > is such a composition of bodies, as inceration, 
+incorporation, colliquation, and confusion doe declare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mollition(n)">Mollition</form> <xpln lang="en" lexeme="liquation(n)" lexeme="mollify(v)" lexeme="ungula(n)" lexeme="liquate(v)"> is the beginning of liquation, yet some things
+are mollified (as onions, conch&aelig;, corrall, iuory, vngul&aelig;,
+&amp;c.) which cannot liquate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="multiplication(n)" lexeme="projection(n)">Multiplication by proiection,</form> <xpln lang="en" lexeme="amalgamated(a)" lexeme="tincture(n)"> is of a body amalgamated
+from 7. to 10. from 10, to 50. from 50. to an 100. &amp;c. ac&shy;
+cording to the force and quality of the tincture.</xpln>
+</wordentry>
+
+</page>
+
+<page no="346">
+<wordentry type="h"><form lang="en" lexeme="mundification(n)">Mundification</form> <xpln lang="en" lexeme="purgation(n)" lexeme="sordid(a)"> is the purgation of any matter by few or
+many operations from that which is sordid &amp; vicious, that
+onely the most excellent may be admitted to the worke in 
+hand.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N">
+<wordentry type="h"><form lang="en" lexeme="nutrition(n)">Nutrition</form> <xpln lang="en" lexeme="permission(n)" lexeme="humidity(n)" lexeme="medicament(n)"> is the permission of humidity by little and 
+little, for the alteration of the quality of the medicament.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">
+<wordentry type="h"><form lang="en" lexeme="precipitation(n)">Precipitation</form> <xpln lang="en" lexeme="corroded(a)" lexeme="dissolve(v)" lexeme="abstraction(n)" lexeme="corroding(a)" lexeme="reverberate(v)" lexeme="calx(n)"> is when bodies corroded by <term lang="la">aqua for&shy;
+tis</term>, or <term lang="la">aqua Regia</term>, and dissolued into water, Salt Armo-
+niacke or <term lang="en">Mercury</term> cast vpon then, either by the abstra&shy;
+ction of the corroding vapour, are reuerberated into
+calx.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="probation(n)">Probation</form> <xpln lang="en" lexeme="examination(n)" lexeme="discern(v)"> is the examination of any matter, whereby 
+we discerne what is excellent and perfect, and what cor&shy;
+rupt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="projection(n)">Proiection</form> <xpln lang="en" lexeme="exaltation(n)" lexeme="transfigurate(v)" lexeme="tincture(n)"> is an exaltation cheefely in mettals, by a me&shy;
+dicine cast vpon them which will suddenly penetrate and 
+transfigurate, giuing them another tincture.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prolectation(n)">Prolectation</form> <xpln lang="en" lexeme="extraction(n)" lexeme="attenuation(n)" lexeme="subtile(a)" lexeme="inclination(n)" lexeme="rarefied(a)" lexeme="gross(a)" lexeme="contrary(a)"> is extraction by attenuation of subtill parts,
+so that by the inclination of their rarified nature, they may
+be carried from the more grosse parts into a contrary place
+and there consist.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purgation(n)">Purgation</form> <xpln lang="en" lexeme="separation(n)" lexeme="clarification(n)" lexeme="liquor(n)" lexeme="sediment(n)" lexeme="spume(n)" lexeme="decoction(n)"> like to separation, is the clarification of im&shy;
+pure liquour, hauing a thicke sedement ans spume by de&shy;
+coction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="putrefaction(n)">Putrifaction</form> <xpln lang="en" lexeme="resolution(n)" lexeme="putritude(n)"> is the resolution of a mixt body by a natu&shy;
+rall putritude in <term lang="la">callido humido</term>, or <term lang="la">fimo equino</term>, &amp;c. whereby
+it may be made more excellent.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q">
+<wordentry type="h"><form lang="en" lexeme="quartation(n)">Quartation</form> <xpln lang="en" lexeme="separation(n)"> is the separation of golde and siluer mixt to&shy;
+gether by foure vnequall parts.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quintessence(n)">Quinta essentia</form> <xpln lang="en" lexeme="absolute(a)" lexeme="digested(a)"> is an absolute, pure and wel-digested me&shy;
+dicine drawen from any substance, either animall, vegita&shy;
+ble, or minerall.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">
+<wordentry type="h"><form lang="en" lexeme="rasion(n)">Rasion</form> <xpln lang="en" lexeme="scrape(v)" lexeme="pare(v)" lexeme="expurgation(n)" lexeme="pulverization(n)"> is the scraping or paring of a thing, either for ex&shy;
+purgation of that which is vnprofitable or for easier pulue&shy;
+rization.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reduction(n)">Reduction</form> <xpln lang="en" lexeme="operation(n)" lexeme="estate(n)" lexeme="condition(n)"> common to many operations doth restore a
+thing changed to his <emend err="fomer">former</emend> estate and condition.</xpln></wordentry>
+</page>
+
+<page no="347">
+<wordentry type="h"><form lang="en" lexeme="repurgation(n)">Repurgation</form> <xpln lang="en" lexeme="purge(v)" lexeme="superfluity(n)"> is, whereby mettals and other substances
+are purged from superfluities of another nature, adhering
+to them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resolution(n)">Resolution</form> <xpln lang="en" lexeme="operation(n)" lexeme="alchemy(n)" lexeme="celestial(a)" lexeme="commix(v)"> (the way to most excellent operations of Al&shy;
+chymie, causing both elements and c&oelig;lestiall essences to
+separate from their elementarie composition) of things
+commixt, is when the parts one with another (the vessell
+wherein they are, being very close stopped) depart; heat
+working, and resoluing them by moisture.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="restinction(n)">Restinction</form> <xpln lang="en" lexeme="gradation(n)" lexeme="candefy(v)"> is a gradation, whereby mettals or the like,
+candefied by fire, are restinguished in liquor of exaltation,
+and thereby made more noble, by how much a more ex&shy;
+cellent tincture and glosse is set vpon them.</xpln>
+<lemenote>
+"Candefy(v)" antedates the earliest OED citation ("candefy | candify," v.; 1656).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reverberation(n)">Reuerberation</form> <xpln lang="en" lexeme="ignition(n)" lexeme="reverberate(v)" lexeme="refect(v)" lexeme="subtile(a)" lexeme="calx(n)"> is ignition reducing bodies (the fire quick
+reuerberating and refecting) into a very subtill calx.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S">
+<wordentry type="h"><form lang="en" lexeme="section(n)">Section</form> <xpln lang="en"> is the cutting of things great into lesser parts, for
+the present occasion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="segregation(n)">Segregation</form> <xpln lang="en" lexeme="solution(n)" lexeme="colliquable(n)"> is the solution of that which was whole and
+perfect into parts diuided, which flow not together as col&shy;
+liquables dissolued</xpln>
+<lemenote>
+"Colliquable" antedates the earliest OED citation of its adjectival form ("colliquable," adj; 1666); as a noun, it is not defined in the OED. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="separation(n)">Separation</form> <xpln lang="en" lexeme="distracted(a)" lexeme="separated(a)" lexeme="several(a)"> is, whereby parts distracted are separated e&shy;
+uery one alike hauing his seuerall being in himselfe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="siccation(n)">Siccation</form> <xpln lang="en" lexeme="excremental(a)" lexeme="humidity(n)"> is the drying vp of excrementall humiditie in
+bodies, before the fire, sunne, in the shade, or the like con&shy;
+uenient place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="solution(n)">Solution,</form> <xpln lang="en" lexeme="chemical(a)" lexeme="incorporation(n)" lexeme="coagulated(a)" lexeme="dissolve(v)" lexeme="attenuate(v)"> a principall part of chymicall practice, wherby
+the incorporation of things coagulated, is dissolued and 
+attentuated.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subduction(n)">Subduction</form> <xpln lang="en" lexeme="abstraction(n)" lexeme="percolation(n)" lexeme="filtration(n)"> is an abstraction of iuyces, oyles, and other
+liquid matters downeward by percolation, filteration, and
+the like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sublimation(n)">Sublimation</form> <xpln lang="en" lexeme="sublime(a)" lexeme="sublime(v)" lexeme="extract(v)" lexeme="subsist(v)" lexeme="aery(a)" lexeme="intercede(v)"> is when that which is extracted is driuen to
+the sublime part of the vessell, and there subsisteth, or when
+as betweene that which is sublimed, and the dead head an
+a&euml;ry space doth intercede.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subtiliation(n)">Subtiliation</form> <xpln lang="en" lexeme="dissolution(n)" lexeme="subtile(a)" lexeme="gross(a)"> is dissolution, separating the subtill parts
+from the grosse.</xpln></wordentry>
+</page>
+
+<page no="348">
+<wordentry type="h"><form lang="en" lexeme="stratification(n)">Stratification,</form> <xpln lang="en" lexeme="chemist(n)" lexeme="cementation(n)" lexeme="strew(v)" lexeme="corroding(a)" lexeme="powder(n)" lexeme="by course(pp)"> <term lang="la">stratum superstratum</term> well knowen to
+Chymists, and vsed in cementation, is strewing of corro&shy;
+ding powder, or the like, vpon plates of mettall by course.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">
+<wordentry type="h"><form lang="en" lexeme="torrefaction(n)">Torrefaction</form> <xpln lang="en" lexeme="siccation(n)" lexeme="violent(a)" lexeme="operation(n)" lexeme="speedily(adv)" lexeme="parch(v)" lexeme="scorch(v)"> like siccation, but more violent, is an opera&shy;
+tion drying, speedily, parching and scorching that which
+is to be dryed before, or ouer the fire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transmutation(n)">Transmutation</form> <xpln lang="en" lexeme="mutation(n)"> is the mutation of a thing in substance,
+colour, or quality.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transudation(n)">Transudation</form> <xpln lang="en" lexeme="descensory(a)" lexeme="distillation(n)" lexeme="provoke(v)" lexeme="sweat(v)" lexeme="receiver(n)"> is when in descensory distillation, the essence
+prouoked, sweateth through, and is carried <term lang="la">guttatim</term> into
+the receiuer.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V">
+<wordentry type="h"><form lang="en" lexeme="vitrification(n)">Vitrification</form> <xpln lang="en" lexeme="combustion(n)" lexeme="calx(n)" lexeme="convert(v)" lexeme="transparent(a)"> is <term lang="en">Combustion</term>, conuerting calx and cineres
+into transparant glasse.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="U">
+<wordentry type="h"><form lang="en" lexeme="ustion(n)">Vstion</form> <xpln lang="en" lexeme="pulverization(n)" lexeme="mutation(n)" lexeme="crucible(n)"> is a preparation of things for easier puluerization,
+mutation of colour, faculty, &amp;c. by burning them in a cru&shy;
+cible, or in the fire.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+
+</leme>
+
+
+
+
+
+

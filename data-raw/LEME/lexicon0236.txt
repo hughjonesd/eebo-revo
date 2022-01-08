@@ -1,0 +1,306 @@
+<leme no="236">
+
+<page>
+<section type="titlepage">
+The
+Boock of Physicke
+<f type="i">Wherin<f type="r">
+Throughe commaundement of 
+the most Illustrious, &amp; renoumned Duke &amp;
+Lorde, Lorde Lodewijcke, Duke of 
+Wirtenberghe, &amp; of Teck, Earle
+of Mompelgart, &amp;c.
+
+Most of them selected, and approued remedyes, for all corporall
+diseases, and sicknesses, which out of manye highe, and com&shy;
+mon Persons written Physick-boockes, are com&shy;
+pacted, and vnited together.
+
+Through his renoumned Graces most famous 
+Physition <expan type="M+r">Mr.</expan> Doctour Oswaldus Gabelhouer.
+
+Faithfullye translated out of High-duche by the right
+worshipfull <expan type="M+r">Mr.</expan> Doctour Charles Battus, ordi&shy;
+narye Physitione of the Citye of Dorte.
+
+And now nuelye translatede out of Low-duche
+into Englishe by A. M.
+
+IMPRINTED
+At Dorte by Isaacke Caen,
+1599.
+</section>
+</page>
+
+<page sig="Kk6r">
+<section type="dictionary">
+<heading>
+The expositione of such wordes which are in this Booke deriued of 
+the Latines, which for the common, and vulger poeple is made, because they should the 
+better vnderstande the meaninge of the harde wordes. Therfore I will explaine one 
+worde, and so forth may you reade (gentle Reader) whersoeuer that worde shall shew it
+selfe agayne in other places of this sayed Booke.
+</heading>
+
+<wordgroup1 type="u">
+<wordentry type="h"><form lexeme="pulverisated(a)">Puluerisated, </form><xpln lexeme="beaten(a)">reade beaten, <xref type="ex_page">p.1. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="frigify(v)">Frigifye, </form><xpln lexeme="cool(v)">reade coole <xref type="ex_page">p.2. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="madify(v)">Madefye, </form><xpln lexeme="dip(v)">reade dipp. <xref type="ex_page">ibid. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calify(v)">ca&shy;
+lefye, </form><xpln lexeme="heat(v)">reade heat, <xref type="ex_page">ibid. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumligate(v)">circumligate, </form><xpln lexeme="bind(v)">reade binde. <xref type="ex_page">ibid. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="insparge(v)">Insparge, </form><xpln lexeme="sprinkle(v)">read sprinckle. <xref type="ex_page">ibid. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="infuse(v)">infuse,
+</form><xpln lexeme="power(v)">reade power. <xref type="ex_page">p.2. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ebullient(a)">ebullient, </form><xpln lexeme="seething(a)">reade seething, <xref type="ex_page">p 4. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exsiccated(a)">Exsiccated, </form><xpln lexeme="dried(a)">reade dried, <xref type="ex_page">p.4. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obdurate(v)">obdurate, </form><xpln lexeme="harden(v)">read
+harden, <xref type="ex_page">ibid. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ebulliated(a)">ebulliated, </form><xpln lexeme="boiled(a)">reade boyled, <xref type="ex_page">p. 3. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="immature(a)">immature, </form><xpln lexeme="unripe(a)">reade vnripe. <xref type="ex_page">p.5. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fervid(a)">feruide, </form><xpln lexeme="hot(a)">read hott,
+<xref type="ex_page">p.6. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumvolve(v)">circumuolue, </form><xpln lexeme="roll(v)">reade rowle, <xref type="ex_page">p.7. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="combure(v)">combure, </form><xpln lexeme="burn(v)">reade, burne, <xref type="ex_page">p.8. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lixivy(v)">lixiuye, </form><xpln lexeme="lie(v)">reade Lye, <xref type="ex_page">p.9. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="liquify(v)">Li&shy;
+quefye, </form><xpln lexeme="melt(v)">reade melt, <xref type="ex_page">p.10. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acetosity(n)">acetositye, </form><xpln lexeme="sharpness(n)">reade sharpnes, <xref type="ex_page">p. 12. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vertiginousness(n)">vertiginousnes, </form><xpln lexeme="lightness of the head(n)">read lightnes of
+the head. <xref type="ex_page">ibid. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="virulent(a)">virulent, </form><xpln lexeme="strong(a)">read stronge, <xref type="ex_page"><emend err="d">p</emend>, 13. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perfricated(a)">perfricated, </form><xpln lexeme="rubbed(a)">read rubbed, <xref type="ex_page">p.15. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="discide(v)">discide, </form><xpln lexeme="cut(v)">read cutt,
+<xref type="ex_page">p.16. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imbecile(a)">imbicille, </form><xpln lexeme="weak(a)">read weake, <xref type="ex_page">p.17. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amaritude(n)">amaritude, </form><xpln lexeme="bitterness(n)">reade bitternes, <xref type="ex_page">p.18. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ossicle(n)">ossicle, </form><xpln lexeme="bone(n)">reade bone <xref type="ex_page">p.18</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cibary(n)">cibaries, </form><xpln lexeme="meat(n)">reade meates, <xref type="ex_page">p.20. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adustion(n)">adustion, </form><xpln lexeme="burning(n)">read burninge, <xref type="ex_page">p.21. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diurnally(adv)">diurnallye, </form><xpln lexeme="daily(adv)">reade daylye, <xref type="ex_page">p.22. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seclude(v)">seclude, </form><xpln lexeme="shut(v)">reade shutt, <xref type="ex_page">pap.23, </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="humid(a)">humide, </form><xpln lexeme="wet(a)">reade wett, <xref type="ex_page">p.25. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rubicund(a)">rubicunde </form><xpln lexeme="red(a)">read redde, <xref type="ex_page">p.27. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foraminated(a)">forami&shy;
+nated, </form><xpln lexeme="holed(a)">read holed <xref type="ex_page">p.28. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pulver(n)">puluers, </form><xpln lexeme="powder(n)">reade pouders <xref type="ex_page">p.28. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pinguidity(n)">pingueditye, </form><xpln lexeme="fat(n)">read fatt, <xref type="ex_page">p.28. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acute(a)">acute, </form><xpln lexeme="sharp(a)">read
+sharpe, <xref type="ex_page">p.29. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="defude(v)">defude, </form><xpln lexeme="pour out(v)">read power owte, <xref type="ex_page">p.29. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="occluding(a)">occludinge, </form><xpln lexeme="shutting(a)">reade shuttinge <xref type="ex_page">p.30. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="effodicated(a)">effodicated
+</form><xpln lexeme="digged(a)">read digged <xref type="ex_page">p.34. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perforation(n)">perforationes, </form><xpln lexeme="hole(n)">reade holes <xref type="ex_page">p.34. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jentation(n)">ientatione, </form><xpln lexeme="breakfast(n)">read breack fast, <xref type="ex_page">p.36. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="innoculated(a)">inocu&shy;
+lated, </form><xpln lexeme="unholed(a)">read vnholed <xref type="ex_page">p.36. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reduplicated(a)">reduplicated, </form><xpln lexeme="doubled(a)">read dubbled <xref type="ex_page">p. 36. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ligate(v)">ligate, </form><xpln lexeme="tie(v)">reade tye <xref type="ex_page">p.37. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meliorization(n)">melioriza&shy;
+tion, </form><xpln lexeme="amending(n)">reade amendinge <xref type="ex_page">p.38. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impose(v)">impose, </form><xpln lexeme="put(v)">reade put <xref type="ex_page">p.40. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="respire(v)">respire, </form><xpln lexeme="breath(v)">read breath. <xref type="ex_page">ibid-</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="floscle(n)">floscles, </form><xpln lexeme="flower(n)">reade
+flowers <xref type="ex_page">p.41. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cenation(n)">cenation, </form><xpln lexeme="supper(n)">read supper <xref type="ex_page">p.42. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fervor(n)">feruor, </form><xpln lexeme="heat(n)">read heat, <xref type="ex_page">[p.42] </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vigor(n)">vigor </form><xpln lexeme="strength(n)">reade strength <xref type="ex_page">p.43. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="agitate(v)">agi&shy;
+tate, </form><xpln lexeme="stir(v)">read stirre <xref type="ex_page">p.44. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eradicated(a)">eradicated, </form><xpln lexeme="rooted out(a)">reade rooted out <xref type="ex_page">p.46. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pluviatile(n)">pluuiatile, </form><xpln lexeme="rain(n)">read raine <xref type="ex_page">p.47. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="periclitation(n)">periclita&shy;
+tione, </form><xpln lexeme="danger(n)">reade daunger <xref type="ex_page">p.49. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inscend(v)">inscende, </form><xpln lexeme="kindle(v)">reade kindle <xref type="ex_page">p.50. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="concavity(n)">concauitie, </form><xpln lexeme="hollowness(n)">reade hollownes <xref type="ex_page">p.51. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sepult(v)">sepult, </form><xpln lexeme="bury(v)">read burie <xref type="ex_page">p.54. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="domicile(n)">domicilles, </form><xpln lexeme="house(n)">read houses <xref type="ex_page">p.55. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mature(a)">mature, </form><xpln lexeme="ripe(a)">read ripe <xref type="ex_page">p.58. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="claritude(n)">claritude, </form><xpln lexeme="clearness(n)">read
+clearnes <xref type="ex_page">p.58. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="angust(a)">angust, </form><xpln lexeme="narrow(a)">read narrow <xref type="ex_page">p.61. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="permutated(a)">permutated, </form><xpln lexeme="changed(a)">read chaunged <xref type="ex_page">p.61. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pulviscle(n)">puluiscle, </form><xpln lexeme="powder(n)">reade 
+powder <xref type="ex_page">p.62. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pistated(a)">pistated, </form><xpln lexeme="baked(a)">read baked <xref type="ex_page">p.63. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vivificent(a)">viuificent, </form><xpln lexeme="live(a)">read liue <xref type="ex_page">p.65. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corroded(a)">corroded, </form><xpln lexeme="gnawed(a)">reade gnawed
+<xref type="ex_page">p.71. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carnosity(n)">carnositie, </form><xpln lexeme="flesh(n)">read flesh <xref type="ex_page">p.85. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="minutely(adv)">minutlye, </form><xpln lexeme="smally(adv)">read smalely <xref type="ex_page">p.69. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crassitude(n)">crassitude, </form><xpln lexeme="thickness(n)">read thicknes <xref type="ex_page">p.93</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="excavate(v)">excauate, </form><xpln lexeme="hollow, make(v)">read make hollowe <xref type="ex_page">p.95. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resudate(v)">resudate, </form><xpln lexeme="sweat(v)">read sweate <xref type="ex_page">p.97. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gustation(n)">gustatione, </form><xpln lexeme="taste(n)">read taste <xref type="ex_page">p.106</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imperated(a)">imperated, </form><xpln lexeme="commanded(a)">read commaunded <xref type="ex_page">p. 109. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="debile(a)">debile, </form><xpln lexeme="weak(a)">read weake <xref type="ex_page">p.110. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="curvify(v)">curuefye, </form><xpln lexeme="crooked(a)">read be crooked
+<xref type="ex_page">p.111. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gibbosity(n)">gibbositie, </form><xpln lexeme="crookedness(n)">read croockednes <xref type="ex_page">p.114. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dulcor(n)">dulcor, </form><xpln lexeme="sweetness(n)">read sweetnes <xref type="ex_page">p 616. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pellicle(n)">pellicles, </form><xpln lexeme="skin(n)">read sk<expan type="i+_">in</expan>&shy;
+nes <xref type="ex_page">p.118. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="project(v)">proiect, </form><xpln lexeme="cast(v)">reade cast <xref type="ex_page">p.125. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fulvid(a)">fuluide, </form><xpln lexeme="yellow(a)">read yellow <xref type="ex_page">p.132. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="snippering(n)">snipperinges, </form><xpln lexeme="paring(n)">read par<expan type="i+_">in</expan>ges
+<xref type="ex_page">p 143. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dulcify(v)">dulcifye, </form><xpln lexeme="sweeten(v)">reade sweeten <xref type="ex_page">p.152. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="victitation(n)">victitations, </form><xpln lexeme="meat(n)">read meates <xref type="ex_page">p.155. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foetid(a)">foetide, </form><xpln lexeme="filthy(a)">reade filthye
+<xref type="ex_page">p.159. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="altitude(n)">altitude, </form><xpln lexeme="height(n)">reade highth <xref type="ex_page">p.169. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ana(pr)">ana, </form><xpln lexeme="each, of(pr)">reade of each in all places whersoeuer you shall
+finde it sit downe,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="genitals(n)">genitalles, </form><xpln lexeme="privities(n)">read priuities <xref type="ex_page">p.175. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tumor(n)">tumor, </form><xpln lexeme="swelling(n)">reade swellinge <xref type="ex_page">p.181. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ternal(a)" lexeme="reduplicated(a)">ternalle
+reduplicated, </form><xpln lexeme="trebled(a)">read trebled. <xref type="ex_page">p 193. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aridity(n)">ariditie, </form><xpln lexeme="drying(a)">reade dryinge <xref type="ex_page">p.199. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fermentated(a)">fermentated, </form><xpln lexeme="leavened(a)">reade leauened
+<xref type="ex_page">p.209. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="menstruosities(n)">menstruosities, </form><xpln lexeme="terms(n)">read tearmes <xref type="ex_page">p.220. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="preterlapsed(a)">pr&aelig;terlapsed, </form><xpln lexeme="passed(a)">read passed <xref type="ex_page">p.216. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suffocated(a)">suffocated, </form><xpln lexeme="choked(a)">read
+choacked <xref type="ex_page">p.231. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illiquifacted(a)">illiquifacted, </form><xpln lexeme="unmelted(a)">read vnmelted <xref type="ex_page">p.267. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fastidiousness(n)">fastidiousnes, </form><xpln lexeme="loathing(n)">reade loothinge <xref type="ex_page">p.267. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crugh(n)">crughe, </form><xpln lexeme="cough(n)">read coughe <xref type="ex_page">p.284. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elevation(n)">eleuatione, </form><xpln lexeme="swelling(n)">read swellinge <xref type="ex_page">p.288. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contaminous(a)">c<expan type="o+_">on</expan>taminous, </form><xpln lexeme="infectious(a)">read infectious
+<xref type="ex_page">p.154. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contamination(n)">contaminatione, </form><xpln lexeme="infection(n)">read infection <xref type="ex_page">p,296. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="interpellate(v)">interpellate, </form><xpln lexeme="hinder(v)">reade hinder <xref type="ex_page">p.302. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="combine(v)">combine,
+</form><xpln lexeme="heal(v)">reade heale <xref type="ex_page">p.308. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orifice(n)">orifice, </form><xpln lexeme="mouth(n)">reade mouth <xref type="ex_page">p.311. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="demonstrate(v)">demonstrate, </form><xpln lexeme="show(v)">reade showe <xref type="ex_page">p.312. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="intrude(v)">intrude,
+</form><xpln lexeme="thrust(v)">reade thrust <xref type="ex_page">p.315. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polus(n)">Polus, </form><xpln lexeme="piles(n)">read piles <xref type="ex_page">p.332. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contusion(n)">contusion, </form><xpln lexeme="bruising(n)">read brusinge <xref type="ex_page">p.336. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="distended(a)">distended, </form><xpln lexeme="out of joint(a)">read
+out of ioynte <xref type="ex_page">p.341. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="supranominated(a)">supranominated, </form><xpln lexeme="aforesaid(a)">read, aforesayed <xref type="ex_page">344. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subsequent(a)">subsequent </form><xpln lexeme="following(a)">reade <xref type="ex_page">followinge
+p.446. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oppugn(v)">oppugneth, </form><xpln lexeme="resist(v)">read resisteth <xref type="ex_page">p.355. </xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contund(v)">contunde, </form><xpln lexeme="beat(v)">read beate, &amp; </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="unguent(n)">vnguent, </form><xpln lexeme="ointment(n)">reade ointment,
+whersoeuer in this booke you shall finde it.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

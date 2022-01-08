@@ -1,0 +1,116 @@
+<leme no="710">
+<page no="b1r"> 
+<section type="Title-page">
+<heading>
+1577
+
+THE
+Historie of Irelande
+from the first inhabitation
+thereof, vnto the yeare 1509.
+Collected by Raphaell Holinshed,
+and continued till the yeare 1547.
+by Richard Stanyhurst.
+</heading>
+
+AT LONDON,
+&para; Imprinted for Iohn
+Hunne.
+
+God saue the Queene.
+</section>
+</page>
+
+<page no="1">
+<section type="Treatise">
+&para; A Treatise contayning a playne and perfect Description 
+of Irelande, with an Introduction, to the better vnderstanding of 
+the Hystories, appartayning to that Islande: compyled by 
+Richard Stanyhurst, and written to the Ryght Honorable, Syr Henry Sydney 
+Knight, Lorde Deputie of Irelande, Lorde president of Wales, 
+Knight of the most noble order of the Garter, and 
+one of hir Maiesties priuie Counsell with&shy;
+in hir realme of England.
+</page>
+
+<page no="a3r">
+There was of late dayes one of the Peeres 
+of England sent to Weiseford as Commissi&shy;
+oner, to decide the controuersies of that cou~&shy;
+trey, and earing in affable wise the rude com&shy;
+plaintes of the countrey clownes, he concey&shy;
+ued here and there, sometyme a worde, other 
+whyles a sentence. The noble man beyng ve&shy;
+ry glad that vpon hys first commyng to Ire&shy;
+land, he vnderstood so many wordes, told one 
+of hys familiar frends, that he stoode in very 
+great hope, to become shortly a well spoken 
+man in the Irishe, supposing that the blunte
+people had pratled Irishe, all the while they 
+iangled Englishe. Howbeit to this day, the 
+dregs of the olde auncient Chaucer English, 
+are kept as well there as in Fingall. As they 
+terme 
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en">a spider,</form> <xpln lang="ir">an attercop,</xpln></wordentry> 
+<wordentry type="h"><form lang="en">a wispe,</form> <xpln lang="ir">a wad,</xpln></wordentry> 
+<wordentry type="h"><form lang="en">a lumpe of bread,</form> <xpln lang="ir">a pocket or a pucket,</xpln>
+<lemenote>
+"pocket" and "pucket" not found in OED in this sense.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="en">a Sil&shy;
+libuck,</form> <xpln lang="ir">a copprouse,</xpln>
+<lemenote>
+"copprousse" not found in OED in this sense.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="en">a faggot,</form> <xpln lang="ir">a blease, or a 
+blaze, for the short burning of it, as I iudge,</xpln></wordentry> 
+<wordentry type="h"><form lang="en">a Phisition,</form> <xpln lang="ir">a leache,</xpln></wordentry> 
+<wordentry type="h"><form lang="en">a gappe,</form> <xpln lang="ir">a sharde,</xpln>
+<lemenote>
+"gappe" not found in OED in this sense.
+</lemenote>
+</wordentry> 
+<wordentry type="h"><form lang="en">a 
+base court or quadrangle</form> <xpln lang="ir"> 
+a bawen, or rather, 
+as I suppose, a barton:</xpln></wordentry> 
+<wordentry type="h"><form lang="en"><expan type="">the</expan> household or folkes, 
+</form> <xpln lang="ir">meany:</xpln></wordentry> 
+<wordentry type="h"><form lang="en">Sharppe,</form> <xpln lang="ir">keene,</xpln></wordentry> 
+<wordentry type="h"><form lang="en">estraunge,</form> <xpln lang="ir">vncouth,</xpln></wordentry> 
+<wordentry type="h"><form lang="en">easie,</form> <xpln lang="ir">eeth or eefe,</xpln></wordentry>
+<wordentry type="h"><form lang="en">a dunghill,</form> <xpln lang="ir">a mizen,</xpln></wordentry> 
+<wordentry type="h"><form lang="ir">as for 
+the worde bater,</form> <xpln lang="en">that in English purporteth 
+a lane, bearing to an high way, I take it for a 
+meere Irishe worde, that crepte vnawares
+into the English, thorough the daily enter&shy;
+course of the English and Irish inhabitants.</xpln></wordentry> 
+</wordgroup1>
+And where as commonly in all countreys, 
+the women speake most neately and pertely, 
+whiche Tully in hys thirde booke <term lang="la">de Oratore</term>, 
+speakyng in the person of Grassus, seemed to 
+haue obserued, yet notwithstandyng in Ire&shy;
+land it fall<emend err="o">e</emend>th out contrary. For the women 
+haue in theyr English tongue an harrish and 
+broade kynd of pronunciation, with vtteryng 
+their wordes so peeuishly &amp; faintly, as though 
+they were halfe sicke, and ready to call for a 
+possette. And most commonly in wordes of 
+two sillables, they giue the last the accent. As 
+they say, Markeate, Baskeate, Gossoupe, 
+Pussoate, Robart, Niclase, &c. which doubt&shy;
+lesse doth disbeautifie their Englishe aboue 
+measure. And if they could be weaned from 
+that corrupt custom, there is none that could 
+dislyke of their English.
+</section>
+</page>
+
+</leme>
+
+  

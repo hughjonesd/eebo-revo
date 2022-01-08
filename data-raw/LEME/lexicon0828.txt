@@ -1,0 +1,32 @@
+<leme no="828">
+<page no="47">
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="la">FOrum Iulium;</form> <xpln lang="en">a Town seated in <term lang="la">Lit&shy;
+tore Narbonensi</term>.</xpln></wordentry><br>
+
+<wordentry type="h"><form lang="la">Ordovices;</form> <xpln lang="en" lexeme="North Wales(pn)">North-Wales.</xpln></wordentry><br>
+
+<wordentry type="h"><form lang="la">Brigantes;</form> <xpln lang="en" lexeme="Yorkshire(pn)" lexeme="Lancashire(pn)" lexeme="Westmorland(pn)" lexeme="Cumberland(pn)" lexeme="Durham(pn)">York-shire, Lancashire, West&shy;
+morland, and Cumberland, with the 
+Bishoprick of Durham.</xpln></wordentry><br>
+
+<wordentry type="h"><form lang="en">The Isle of Mona;</form> <xpln lang="en" lexeme="Anglesey(pn)">Anglesey.</xpln></wordentry><br>
+
+<wordentry type="h"><form lang="la">Taus;</form> <xpln lang="en" lexeme="Tweed(pn)">Tweed.</xpln></wordentry><br> 
+
+<wordentry type="h"><form lang="la">Glota;</form> <xpln lang="en" lexeme="Frith of Dunbritton(pn)">the Frith of Dunbritton.</xpln></wordentry><br> 
+
+<wordentry type="h"><form lang="la">Bodotria;</form> <xpln lang="en" lexeme="Edinburgh Frith(pn)">Edenburgh-Frith.</xpln></wordentry><br> 
+
+<wordentry type="h"><form lang="la">Silures;</form> <xpln lang="en" lexeme="South Wales(pn)" lexeme="Cornwall(pn)">South-Wales, and Cornwall.</xpln></wordentry><br> 
+
+<wordentry type="h"><form lang="la">Grampius;</form> <xpln lang="en">now called, <term lang="la">Gratabanie</term>.</xpln></wordentry><br> 
+
+<wordentry type="h"><form lang="la">Horrestians;</form> <xpln lang="en" lexeme="Angus(pn)">now called, Angus.</xpln></wordentry><br> 
+
+<wordentry type="h"><form lang="la">Trutulensis;</form> <xpln lang="en" lexeme="Richborough(pn)" lexeme="Sandwich(pn)">now Richborow, near Sand&shy;
+wich.</xpln></wordentry>
+</wordgroup1>
+</page>
+</leme>

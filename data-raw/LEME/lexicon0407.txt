@@ -1,0 +1,530 @@
+ <leme no="407">
+<page sig="a2r">
+<section type="Title-page">
+<term lang="gk"></term> PLATONICA: OR 
+A Platonicall Song 
+of the 
+SOUL, 
+Consisting of foure severall Poems; 
+<term lang="la">viz.</term>
+
+<term lang="gk"></term>
+<term lang="gk"></term>
+<term lang="gk"></term>
+<term lang="gk"></term>
+
+Hereto is added a Paraphrasticall Interpretation 
+of the answer of Apollo consulted by Ame&shy;
+lius, about Plotinus soul depar&shy;
+ted this life.
+
+By H. M. Master of Arts, and Fellow of 
+Christs Colledge in Cambridge.
+
+<term lang="la">Nullam majorem afferre solet ignaris inscitia voluptatem 
+quam expeditum factidios&uacute;mque contemptum.</term> Scal.
+
+CAMBRIDGE 
+Printed by Roger Daniel, Printer to the Univer&shy;
+sitie. 1642.
+</section>
+</page>
+
+<page sig="q1r">
+<section type="Glossary">
+<heading>The interpretation of the more unusuall 
+names or words that occurre in 
+the foregoing Poems.</closing>
+
+IF any man conceive I have done amisse in using such ob&shy;
+scure words in my writings, I answer, That it is some&shy;
+time fit for Poeticall pomp sake, as in my Psychozoia: 
+Othersome time necessitie requires it, 
+
+<term lang="la">
+<lemeformat>
+Propter egestatem linguae, &amp; rerum novitatem,
+</lemformat>
+</term>
+
+as Lucretius pleads for himself in like case. Again, there 
+is that significancie in some of the barbarous words (for the 
+Greeks are Barbarians to us) that, although not out of su&shy;
+perstition, yet upon due reason I was easily drawn to fol&shy;
+low the Counsel of the Chaldee Oracle, <term lang="gk"></term>, 
+Not to change those barbarous terms 
+into our English tongue. Lastly, if I have offended in using 
+such hard names or words, I shall make amends now by 
+interpreting them.
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="het">AHad.</form> <xpln lang="en"><term lang="he"></term> , One, or, The One. The Platonists 
+call the first Originall of all things <term lang="gk"></term> and <term lang="gk"></term>, 
+for these reasons: <term lang="gk"></term> or One, because the multitude or 
+pluralitie of Beings is from this One, as all numbers from 
+an unite: <term lang="gk"></term> or The Good, <term lang="gk"></term>, or <term lang="gk"></term>, because all things are driven drawn or make haste to 
+partake of it. <term lang="gk"></term>, <term lang="la">Procl. Theolog. Plat. lib. 2. cap 4.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Abinoam.</form> <xpln lang="en"><term lang="he"></term>, <term lang="la">Pater amoenitatis,</term> Father of de&shy;
+light.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Autocalon,</form> <xpln lang="en"><term lang="gk"></term>, The very beauty.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Arachnea</form> <xpln lang="en">hath its name from <term lang="gk"></term>, a spider.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Adonai.</form> <xpln lang="en"><term lang="he"></term>. The Lord, or the sustainer of all things, from 
+<term lang="he"></term>, the Basis or foot of a pillar.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Autaestthesid,</form> <xpln lang="en"><term lang="gk"></term>, Self sensednesse.</xpln></wordentry> 
+</page>
+
+<page sig="q1vV">
+<wordentry type="h"><form lang="het">Adamah.</form> <xpln lang="en"><term lang="he"></term> Earth, The earthly or naturall man<damage>s</damage>
+abode. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Autophilus,</form> <xpln lang="en"><term lang="gk"></term>, a lover of himself.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Anthropion,</form> <xpln lang="en">The same with Adamah: Onely Adamah 
+signifies earthlinesse; Anthropion from <term lang="gk"></term>, upright&shy;
+nesse of body or looking up.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Alopecopolis,</form> <xpln lang="en"><term lang="gk"></term>. The fo<damage></damage>es citie or politie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Autaparnes,</form> <xpln lang="en"><term lang="gk"></term>, from <term lang="gk"></term> and <term lang="gk"></term>. 
+Simon, Autaparnes and Hypomene are but the soul, thrice 
+told over. Autaparnes is the soul denying it self; Hypomone 
+the soul bearing the anguish and agonie of this deniall of it 
+self: From these two results Simon, the soul obedient to 
+the spirit of Christ. Now there is no self-deniall where there is no corrupt or evil life to be supprest and unsatisfied; nor any Patience or Hypomone, where there 
+is no agonie from the vexation of self-deniall. So that the soul, so long as it 
+is Autaparnes or Hypomone, is a thing complex or con&shy;
+crete, necessarily including the corruption of that evil life 
+or spirit, which is the souls self for a time. Hence is that 
+riddle easily opened, How the strength of Autaparnes is the 
+weakning of Simon; and the destruction of him and 
+Hypomone in the valley of Ain Simons consummation and 
+perfection, or rather his translation or <term lang="gk"></term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Anautaesthetus,</form> <xpln lang="en"><term lang="gk"></term>, One that feels not him&shy;
+self, or at least relisheth not himself.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Aelpon,</form> <xpln lang="en"><term lang="gk"></term>, not hoping, or without hope.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Apterie,</form> <xpln lang="en"><term lang="gk"></term>, from a negative, and <term lang="gk"></term>, a wing. 
+It signifies the want of wings.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Apathie,</form> <xpln lang="en"><term lang="gk"></term>, To be without passion.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Autopathie,</form> <xpln lang="en"><term lang="gk"></term>, denotates the being self-struck&shy;
+en, to be sensible of what harms us, rather then what is ab&shy;
+solutely evil.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Ain,</form> <xpln lang="en">Not to be, To be nothing; from <term lang="he"></term> <term lang="la">Non, nihil</term>, or 
+<term lang="la">nemo</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Anautaestthesie,</form> <xpln lang="en"><term lang="gk"></term>, Without self-sensednesse, 
+or relishing ones self.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Aeon,</form> <xpln lang="en"><term lang="gk"></term>, Eternitie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">&AElig;ther,</form> <xpln lang="en"><term lang="gk"></term>, from <term lang="gk"></term> to burn. The fluid fier<damage>y</damage>
+nature of heaven, the same that <term lang="he"></term> which signifie 
+as much. viz. a fierie fluour, or a fluid fire.</xpln></wordentry> 
+</page>
+
+<page sig="q2r">
+<wordentry type="h"><form lang="gkt">Aides.</form> <xpln lang="en"><term lang="gk"></term>, It ordinarily signifies Orcus or Pluto;
+here the winter Sunne: the etymon fits both, <term lang="gk"></term>. 
+Hell is dark, and the Sunne in winter leaves us to 
+long nights. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Apogee,</form> <xpln lang="en"><term lang="gk"></term>, is that absis or ark of the circle of a 
+Planet, in which the Planet is further off from the earth, as 
+the word it self intimates.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Autocineticall,</form> <xpln lang="en"><term lang="gk"></term>, That which moves it self.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Africk Rock.</form> <xpln lang="en">See Pompon. <term lang="la">Mel. lib. 1. cap. 8.</term> Rom. 9. 33. 
+1. Cor. 10. 4. 1. Pet. 2. 5. Revel. 5. 10. Psal. 105. 15.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Ananke,</form> <xpln lang="en"><term lang=""></term>, The same that Hyle is. But the proper 
+signification of the word is Necessitie. See Hyle.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Alethea-land,</form> <xpln lang="en">That is, the land of truth, <term lang="gk"></term>, 
+as the Platonists call it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Acronychall.</form> <xpln lang="en">See Cronychall.</xpln></wordentry> </ul> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="het">BEirah <term lang="en">or</term> Beiron,</form> <xpln lang="en">The brutish life, from <term lang="he"></term>. <term lang="la">brutum.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Bacha,</form> <xpln lang="en">Weeping. Bacha vale is the valley of tears; 
+from <term lang="he"></term> <term lang="la">flevit.</term></xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en">CHaos.</form> <xpln lang="en">In our blew Chaos, that is, In our corporeall 
+spirit. For that is the matter that the soul raiseth her 
+phantasmaticall forms in, as the life of the world doth bo&shy;
+dily shapes in the heavens or aire.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Cronychall <term lang="en">or</term> Acronychall,</form> <xpln lang="en">that is, <term lang="gk"></term>, vespertine, 
+or at the beginning of night. So a starre is said to rise or set 
+Acronychall when it riseth or setteth at the sunne-setting; 
+For then is the beginning of night.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Clare.</form> <xpln lang="en">Claros a citie of Ionia, famous for Apollo's tem
+ple and answers, amongst which was this, which I have in
+terpreted in Psychathanasia: 
+<term lang="gk">
+<lemeformat>
+</lemeformat>
+</term>
+<term lang="la">Macrob. Saturnal. lib. 1. cap. 18.</term>
+</xpln></wordentry>
+</wordgroup1> 
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="gkt">DIzoia,</form> <xpln lang="en"><term lang="gk"></term>, Double-livednesse.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">D&aelig;mon,</form> <xpln lang="en">any particular life, any divided spirit; or ra&shy;
+ther the power ruling in these. This is <term lang="gk"></term> 
+<term lang="la">divido.</term></xpln></wordentry>
+</page>
+
+<page sig="q2v">
+<wordentry type="h"><form lang="la">Duessa,</form> <xpln lang="en">division or dualitie. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Daemoniake,</form> <xpln lang="en">That which is according to that divided life 
+or particular spirit, that rules for it self.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Dic&aelig;osyne,</form> <xpln lang="en"><term lang="gk"></term>, Justice or morall righteousnesse.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Diana,</form> <xpln lang="en">the Moon, by which is set out the dead light or 
+letter of the law.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Deuteropathie,</form> <xpln lang="en"><term lang="gk"></term>, is a being affected at se&shy;
+cond rebound, as I may so say. We see the Sunne not so pro&shy;
+perly by sympathie as deuteropathie. As the mundane spi&shy;
+rit is affected where the Sunne is, so am I in some manner; 
+but not presently, because it is so affected, but because in my 
+eye the Sunne is vigorously represented. Otherwise a man 
+might see the Sunne if he had but a body of thin aire.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="gkt">EIdos,</form> <xpln lang="en"><term lang="gk"></term>, Form or Beautie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Eloim <term lang="en">or</term> Eloah,</form> <xpln lang="en"><term lang=""></term> signifie, properly 
+the strong God.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Entelechia,</form> <xpln lang="en"><term lang="gk"></term>: It is nothing else but <term lang="la">forma,</term> or 
+<term lang="la">actus,</term> and belongs even to the most contemptible forms, 
+as for example to Motion, which is defined by Arist in the 
+third of his Physicks, <term lang="gk"></term>. 
+Scaliger in his 307 exercitation against Cardan descants ve
+ry curiously upon this word: <term lang="la">C&ugrave;m igitur Formam dixeris</term> 
+(that is <term lang="gk"></term>) <term lang="la">intelliges immaterialitatem, simplici&shy;
+tatem, potestatem, perfectionem, informationem. Hoc enim 
+est</term> <term lang=""></term>: <term lang="la">quod innuit maximus Poetarum, Tot&oacute;sque infusa per 
+artus. Hoc est,</term> <term lang=""></term>: <term lang="la">quia est ultima forma sub c&oelig;lestibus, 
+&amp; princeps inferiorum, finis &amp; perfectio. Hoc est</term> <term lang="gk"></term>, 
+<term lang="la">posse.</term> This goodly mysterie and fit significancie seems plainly for&shy;
+ced or fictitious, if you compare it with what was cited out 
+of Arist, about Motion, so that when we have made the 
+best of <term lang=""></term>, it is but the form of any thing in an ordi&shy;
+nary and usuall sense. If we stood much upon words, <term lang=""></term> 
+would prove more significant of the nature of the 
+soul, even according to Scaligers own etymon, from <term lang="gk"></term> and <term lang="gk"></term>: 
+from its permeation and colligation or 
+keeping together the bodie from defluxion into its ancient 
+principles, which properties be included in <term lang="gk"></term> and <term lang="gk"></term> 
+moves forward the body thus kept together: <term lang="gk"></term> in&shy;
+timates the possession or retention of the body thus mov'd,
+</page>
+
+<page sig="q3r">
+that it is rather promov'd by the soul then amov'd from the 
+soul. But of these words enough, or rather too much. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Energie,</form> <xpln lang="en"><term lang="gk"></term>. It is the operation, efflux or activity 
+of any being: as the light of the Sunne is the energie of the 
+Sunne, and every phantasm of the soul is the energie of the 
+soul.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Euphrona,</form> <xpln lang="en"><term lang="gk"></term>, The Night.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="het">GAbriel,</form> <xpln lang="en">The strength of God; from <term lang="he"></term> <term lang="la">robustus fuit,</term> 
+and <term lang="he"></term> <term lang="la">Deus.</term></xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="gkt">HYle, <term lang="la">Materia prima</term></form> <xpln lang="en">or that dark fluid potentiality of the 
+Creature; the straitnesse, repugnancy and incapacity 
+of the Creature: as when its being this, destroyes or debili&shy;
+tates the capability of being something else, or after some 
+other manner. This is all that any wary Platonist will un&shy;
+derstand by <term lang="gk"></term>. 
+in Plutarchs <term lang="gk"></term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Hattove,</form> <xpln lang="en"><term lang="he"></term>, the Good, or that eminent 
+Good or first Good from whence all good is derived. See 
+Ahad.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Haphe,</form> <xpln lang="en"><term lang="gk"></term>, The touch.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Hypomone,</form> <xpln lang="en"><term lang="gk"></term>, Patience. See <term lang="la">Autaparnes.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Har-Eloim,</form> <xpln lang="en"><term lang="he"></term>. The mount of Angels, Genii, 
+or particular Spirits.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Helios,</form> <xpln lang="en"><term lang="gk"></term>, The Sunne.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Heterogeneall,</form> <xpln lang="en">is that which consists of parts of a diverse 
+nature or form: as for example, a mans body of flesh, bones, 
+nerves, &amp;c.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Homogeneall,</form> <xpln lang="en">That whose nature is of one kind.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en">IDea-Lond,</form> <xpln lang="en">The Intellectuall world.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Idothea,</form> <xpln lang="en">The fleet passage of fading forms; from <term lang="gk"></term>, 
+<term lang="la">Forma,</term> and <term lang="gk"></term>, <term lang="la">curro.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Ida.</form> <xpln lang="en">See <term lang="la">Pompon. Mel. lib.</term> 1. <term lang="la">cap.</term> 17.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Isosceles,</form> <xpln lang="en">A triangle with two sides equall.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Idiopathie,</form> <xpln lang="en"><term lang="gk"></term>, is ones proper peculiar <term lang=""></term>, 
+mine or thine, being affected thus or so upon this or that oc&shy;
+casion; as <term lang="gk"></term>, is this or that mans proper tem&shy;
+per. But this property of affection may also belong unto  
+</page>
+
+<page sig="q3v">
+kinds. As an Elephant hath his idiopathy and a man his, 
+at the hearing of a pipe; a cat and an Eagle at the sight of 
+the Sunne; a dogge and a Circopithecus at the sight of the 
+Moon, &amp;c. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Iao.</form> <xpln lang="en">A corruption of the Tetragrammaton. Greek wri&shy;
+ters have strangely mash'd this word <term lang="he"></term>, some calling it 
+<term lang="gk"></term>, others <term lang="gk"></term>, some <term lang="gk"></term>. It is very likely that from this 
+<term lang="gk"></term> came Bacchus his appellation <term lang="gk"></term>, and the M&aelig;na&shy;
+des acclamations <term lang="gk"></term> in his Orgia. Which sutes well with 
+the Clarian Oracle, which saith that in Autumne, the Sun 
+is called <term lang=""></term>, which is the time of vintage.
+
+<lemeformat>
+<term lang=""></term>. See Fullers Miscel. 
+2. Book. 
+</lemeformat>
+</xpln></wordentry>
+</wordgroup1> 
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="gkt">LOgos,</form> <xpln lang="en"><term lang="gk"></term>, The appellation of the Sonne of God. 
+It is ordinarily translated, the Word, but hath an am&shy;
+ple signification. It signifieth Reason, Proportion, Form, 
+Essence, any inward single thought or apprehension; Is any 
+thing but matter, and matter is nothing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Leontopolis,</form> <xpln lang="en"><term lang="gk"></term>, The Lions city or Politie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Lypon,</form> <xpln lang="en">from <term lang="gk"></term>, sorrow.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="gkt">MOnocardia,</form> <xpln lang="en"><term lang="gk"></term>, from <term lang="gk"></term> and <term lang="gk"></term>, single-&shy;
+heartednesse.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Myrmecopolis,</form> <xpln lang="en"><term lang="gk"></term>, The City or Polity of Pis&shy;
+mires.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Michael,</form> <xpln lang="en">Who like unto God? from <term lang="he"></term> <term lang="la">Quis</term>, and <term lang="he"></term> 
+<term lang="la">similitudinis,</term> and <term lang="he"></term> <term lang="la">Deus.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Monad,</form> <xpln lang="en"><term lang="gk"></term>, is <term lang="la">unitas,</term> the principle of all numbers, 
+an emblem of the Deity; And so the Pythagoreans call it 
+<term lang="gk"></term>, God. It is from <term lang="gk"></term>, because it is <term lang="gk"></term>, stable 
+and immoveable, a firm Cube of it self. One time one time 
+One remains still one. See Ahad.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="gkt">NEurospast,</form> <xpln lang="en"><term lang="gk"></term>, a Puppet or any Machina that's 
+moved by an unseen string or nerve.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+<wordentry type="h"><form lang="gkt">ON,</form> <xpln lang="en"><term lang="gk"></term>, The Beeing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Ogdoas,</form> <xpln lang="en"><term lang="gk"></term>, <term lang="la">numerus octonarius,</term> the number of 
+eight.</xpln></wordentry> 
+</page>
+
+<page sig="q4r">
+<wordentry type="h"><form lang="gkt">Onopolis,</form> <xpln lang="en"><term lang="gk"></term>, The asses City or Politie. </xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="gkt">PSyche,</form> <xpln lang="en"><term lang="gk"></term>, Soul or spirit.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Penia,</form> <xpln lang="en"><term lang="gk"></term>, Want, or poverty.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Physis,</form> <xpln lang="en"><term lang="gk"></term>, Nature vegetative.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Proteus,</form> <xpln lang="en"><term lang="la">Vertumnus</term>, changeablenesse.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Psychania,</form> <xpln lang="en">The land of Souls.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Philosomatus,</form> <xpln lang="en"><term lang="gk"></term>, A lover of his body.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Psittacusa,</form> <xpln lang="en">The land of Parots.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Pithecusa,</form> <xpln lang="en">The land of Apes.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Pithecus,</form> <xpln lang="en"><term lang="gk"></term>, an Ape.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Phobon,</form> <xpln lang="en">from <term lang="gk"></term>, Fear.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Phrenition,</form> <xpln lang="en">Anger, impatiency, fury; from <term lang="gk"></term>, phren&shy;
+sie or madnesse. <term lang="la">Ira furor brevis est.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Pantheothen,</form> <xpln lang="en"><term lang="gk"></term>, All from God. Which is true 
+in one sense, false in another. You'll easly discern the sense 
+in the place you find the word. This passage of Panthcothen 
+contains a very savory &amp; hearty reproof of all, be they what 
+they will, that do make use of that intricate mystery of fate 
+and infirmity, safely to guard themselves from the due re&shy;
+prehensions and just expostulations of the earnest messen&shy;
+gers of God, who would rouse them out of this sleep of sin, 
+and stirre them up seriously to seek after the might and spirit 
+of Christ, that may work wonderfully in their souls to a 
+glorious conquest and triumph against the devil, death and 
+corruption.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Pandemoniothen,</form> <xpln lang="en"><term lang="gk"></term>, All from the devil; 
+<term lang="la">viz.</term> all false perswasions and ill effects of them.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Panoply,</form> <xpln lang="en"><term lang="gk"></term>, Armour for the whole body.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Pteroessa,</form> <xpln lang="en"><term lang="gk"></term>, The land of winged souls; from 
+<term lang=""></term> a wing.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Perigee,</form> <xpln lang="en"><term lang="gk"></term>, Is that absis or ark of a Planets circle, 
+in which it comes nearer the earth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Psychicall,</form> <xpln lang="en">Though <term lang="gk"></term> be a generall name and belongs 
+to the souls of beasts and plants, yet I understand by life 
+Psychicall, such centrall life as is capable of Aeon and 
+Ahad.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Parelies,</form> <xpln lang="en"><term lang="gk"></term>, are rorid clouds which bear the image 
+of the Sunne.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Psittaco,</form> <xpln lang="en">Don Psittaco, from <term lang="la">Psittacus</term> a Parot, a bird
+</page>
+
+<page sig="q4v">
+that speaks significant words, whose sense notwithstanding 
+it self is ignorant of. The dialogue betwixt this Parot and 
+Mnemon sets out the vanity of all superficiall conceited 
+Theologasters, of what sect soever, having but the surface 
+and thin imagination of divinity, but truly devoid of the 
+spirit and in ward power of Christ, the living well-spring of 
+knowledge and virtue, and yet do pride themselves in prat&shy;
+ling and discoursing of the most hidden and abstruse myste&shy;
+ries of God, and take all occasions to shew forth their good&shy;
+ly skill and wonderfull insight into holy truth, when as they 
+have indeed scarce licked the out-side of the glasse wherein 
+it lies. </xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Plastick,</form> <xpln lang="en"><term lang="gk"></term>, is that efformative might in 
+the seed that shapes the body in its growth</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Phantasme,</form> <xpln lang="en"><term lang="gk"></term>, Any thing that the soul con&shy;
+ceives in it self, without any present externall object.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Parallax,</form> <xpln lang="en"><term lang="gk"></term>, is the distance betwixt the true and 
+seeming place of a starre; proceeding from the sensible dif&shy;
+ference of the centre, and the height of the superficies of the 
+earth in reference to the starre, and from the stars declining 
+from the Zenith.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Protopathy,</form> <xpln lang="en"><term lang=""></term>. It is a suffering or being affe&shy;
+cted at first, that is, without circulation. If any man strike 
+me I feel immediately; because my soul is united with this 
+body that is struck: and this is protopathy. If the aire be 
+struck aloof off, I am sensible also of that, but by circulation 
+or propagation of that impression unto my eare; and this is 
+deuteropathy. See, Deuteropathy.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Periphere, Peripheria,</form> <xpln lang="en">it is the line that terminates 
+a circle.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+<wordentry type="h"><form lang="en">QUadiate,</form> <xpln lang="en">A figure with foure 
+equall sides and foure right angles. The rightnesse of the angles, is a plain 
+embleme of erectnesse or uprightnesse of mind: The num&shy;
+ber of the sides, as also of the angles, being <term lang="la">pariter par,</term> that 
+is equally divisible to the utmost unities (<term lang="gk"></term>, 
+as it is in Aristotle) intimates equity or justice. The sides 
+are equall one with another and so are the angles; and the 
+number of the sides and angles equall one with another. 
+Both the numbers put together are a number <term lang="la">pariter par</term> a&shy;
+</page>
+
+<page sig="q5r">
+gain, and constitute the first cube which is eight: That addes 
+steddinesse and perseverance in true justice and uprightnesse 
+toward God and man. Hypomone bears all this, that is, 
+all that dolour and vexation that comes from the keeping 
+our perverse heart to so strait and streight a rule. </xpln></wordentry> 
+</wordgroup1> 
+
+R<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en">RHomboides,</form> <xpln lang="en">is a parallelogrammicall figure with une&shy;
+quall sides, and oblique angles.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en">SPerm.</form> <xpln lang="en">It signifies ordinarily seed. I put it for the <term lang="gk"></term>, 
+the <term lang="la">ratio seminalis,</term> or the invisible plasti&shy;
+call form that shapes every visible creature.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Solyma,</form> <xpln lang="en">or Salem from <term lang="he"></term>, Peace.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Simon,</form> <xpln lang="en">intimates obedience from <term lang="he"></term>, <term lang="la">obedivit.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="het">Semele,</form> <xpln lang="en">Imagination; from <term lang="he"></term>, <term lang="la">imago.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Scalen,</form> <xpln lang="en">a triangle with all sides unequall.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="gkt">TAsis,</form> <xpln lang="en"><term lang="gk"></term>, extension.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="gkt">Tagathon,</form> <xpln lang="en"><term lang="gk"></term>, The Good; the same with Hat&shy;
+tove.</xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="U"><alpha>U</alpha>
+<wordentry type="h"><form lang="gkt">URanore,</form> <xpln lang="en">The light or beauty of heaven, from <term lang="gk"></term>, and 
+<term lang="he"></term> <term lang="la">lux,</term> or <term lang="gk"></term> <term lang="la">pulchritudo.</term></xpln></wordentry> 
+</wordgroup1> 
+
+<wordgroup1 type="a" object="Z"><alpha>Z</alpha>
+<wordentry type="h"><form lang="gkt">ZEus,</form> <xpln lang="en"><term lang="gk"></term>, Jupiter, from <term lang="gk"></term>, <term lang="la">ferveo,</term> or <term lang="gk"></term>, <term lang="la">vivo.</term>
+</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+</leme>

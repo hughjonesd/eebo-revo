@@ -1,0 +1,393 @@
+<leme no="588">
+
+<page no="43">
+<heading>
+An Alphabetical TABLE of the more
+<f type="i">Obsolete English Words<f type="r"> to be found in the
+Treatise, with their Significations.
+</heading>
+
+<wordgroup1 type="a" object="a"><alpha>A.</alpha>
+<wordentry type="h" joinnext="1"><form>AGens,</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form>Aghe,</form> <xpln lexeme="against(pp)">against.</xpln></wordentry>
+<wordentry type="h"><form>Agenbie,</form> <xpln lexeme="redeem(v)">redeem.</xpln></wordentry>
+<wordentry type="h"><form>Agens metith,</form> <xpln lexeme="oppose(v)">opposeth.</xpln></wordentry>
+<wordentry type="h"><form>Algatis,</form> <xpln>in all respects.</xpln></wordentry>
+<wordentry type="h"><form>Aligting,</form> <xpln lexeme="facilitating(n)">facilitating.</xpln></wordentry>
+<wordentry type="h"><form>Anentis,</form> <xpln lexeme="concerning(pp)">concerning.</xpln></wordentry>
+<wordentry type="h"><form>Anoon,</form> <xpln lexeme="presently(adv)">presently.</xpln></wordentry>
+<wordentry type="h"><form>Apocrisis,</form> <xpln lexeme="apocryphal(a)">Apocryphal.</xpln></wordentry>
+<wordentry type="h"><form>Apower,</form> <xpln lexeme="able(a)">able.</xpln></wordentry>
+<wordentry type="h"><form>Ari,</form> <xpln lexeme="arlus(?)">Arlus.</xpln></wordentry>
+<wordentry type="h"><form>Assoilid,</form> <xpln lexeme="refuted(a)">refuted.</xpln></wordentry>
+<wordentry type="h"><form>A this side,</form> <xpln lexeme="since(adv)">since.</xpln></wordentry>
+<wordentry type="h"><form>Auter,</form> <xpln lexeme="altar(n)">Altar.</xpln></wordentry>
+<wordentry type="h"><form>Aviseable,</form> <xpln lexeme="deliberate(a)">deliberate.</xpln></wordentry>
+<wordentry type="h"><form>Avisement,</form> <xpln lexeme="deliberation(n)">deliberation.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B.</alpha>
+<wordentry type="h"><form>Bede,</form> <xpln lexeme="commanded(a)">commanded.</xpln></wordentry>
+<wordentry type="h"><form>Benefetis,</form> <xpln lexeme="benefit(n)">benefits.</xpln></wordentry>
+<wordentry type="h"><form>Berith,</form> <xpln lexeme="behave(v)">behaveth.</xpln></wordentry>
+<wordentry type="h"><form>Bi,</form> <xpln lexeme="by(pp)">by.</xpln></wordentry>
+<wordentry type="h"><form>Bifelle,</form> <xpln lexeme="befell(v)">befel.</xpln></wordentry>
+<wordentry type="h"><form>Biknows,</form> <xpln lexeme="acknowledge(v)">acknowledgeth.</xpln></wordentry>
+<wordentry type="h"><form>Bileeve,</form> <xpln lexeme="belief(n)">belief.</xpln></wordentry>
+<wordentry type="h"><form>Birden,</form> <xpln lexeme="burden(n)">burden.</xpln></wordentry>
+<wordentry type="h"><form>Biried,</form> <xpln lexeme="buried(a)">buried.</xpln></wordentry>
+<wordentry type="h"><form>Bisi,</form> <xpln lexeme="busy(a)">buisie.</xpln></wordentry>
+<wordentry type="h"><form>Bisidis,</form> <xpln lexeme="besides(adv)">besides.</xpln></wordentry>
+<wordentry type="h" joinnext="1"><form>Bitaken,</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form>Bitooke,</form> <xpln lexeme="delivered(a)">delivered.</xpln></wordentry>
+<wordentry type="h"><form>Boondis,</form> <xpln lexeme="contents(n)">contents.</xpln></wordentry>
+<wordentry type="h"><form>Boonys,</form> <xpln lexeme="gift(n)" lexeme="grace(n)">gifts, graces.</xpln></wordentry>
+<wordentry type="h"><form>Brennyng,</form> <xpln lexeme="burning(n)">burning.</xpln></wordentry>
+<wordentry type="h"><form>Brent,</form> <xpln lexeme="burnt(a)">burnt.</xpln></wordentry>
+<wordentry type="h"><form>Bindingis,</form> <xpln lexeme="command(n)">commands.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C.</alpha>
+<wordentry type="h"><form>Cast him,</form> <xpln lexeme="set(v)">set himself.</xpln></wordentry>
+<wordentry type="h"><form>Certis,</form> <xpln lexeme="certainly(adv)">certainly.</xpln></wordentry>
+<wordentry type="h"><form>Chargeose,</form> <xpln lexeme="expensive(a)">expensive.</xpln></wordentry>
+<wordentry type="h"><form>Chauncis,</form> <xpln lexeme="accident(n)">accidents.</xpln></wordentry>
+<wordentry type="h"><form>Cheffe,</form> <xpln lexeme="superior(a)">superior.</xpln></wordentry>
+<wordentry type="h"><form>Clepid,</form> <xpln lexeme="called(a)">called.</xpln></wordentry>
+<wordentry type="h"><form>Comberose,</form> <xpln lexeme="cumbersome(a)">cumbersom.</xpln></wordentry>
+<wordentry type="h"><form>Combre,</form> <xpln lexeme="loud(a)">loud.</xpln></wordentry>
+<wordentry type="h"><form>Comonute,</form> <xpln lexeme="society(n)">society.</xpln></wordentry>
+<wordentry type="h"><form>Conicacioun,</form> <xpln lexeme="examination(n)">examination.</xpln></wordentry>
+<wordentry type="h"><form>Coude,</form> <xpln lexeme="could(v)">could.</xpln></wordentry>
+<wordentry type="h"><form>Courseli,</form> <xpln lexeme="hastily(adv)">hastily.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D.</alpha>
+<wordentry type="h"><form>Deed,</form> <xpln lexeme="dead(a)">dead.</xpln></wordentry>
+<wordentry type="h"><form>Deeme,</form> <xpln lexeme="judge(v)">judge.</xpln></wordentry>
+<wordentry type="h"><form>Dekene,</form> <xpln lexeme="deacon(n)">Deacon.</xpln></wordentry>
+<wordentry type="h"><form>Demed,</form> <xpln lexeme="considered(a)">considered.</xpln></wordentry>
+<wordentry type="h"><form>Departid,</form> <xpln lexeme="divided(a)">divided.</xpln></wordentry>
+<wordentry type="h"><form>Departith,</form> <xpln lexeme="divide(v)">divideth.</xpln></wordentry>
+<wordentry type="h"><form>Dewe,</form> <xpln lexeme="due(a)">due.</xpln></wordentry>
+<wordentry type="h"><form>Discencioun,</form> <xpln lexeme="dissention(n)">dissention.</xpln></wordentry>
+<wordentry type="h"><form>Doome,</form> <xpln lexeme="judgment(n)">judgment.</xpln></wordentry>
+<wordentry type="h"><form>Dougten,</form> <xpln lexeme="doubtful(a)">doubtful.</xpln></wordentry>
+<wordentry type="h"><form>Dowte,</form> <xpln lexeme="doubt(n)">doubt.</xpln></wordentry>
+<wordentry type="h"><form>Dressing,</form> <xpln lexeme="beating(n)">beating.</xpln></wordentry>
+<wordentry type="h"><form>Dunte,</form> <xpln lexeme="fame(n)">fame.</xpln></wordentry>
+<wordentry type="h"><form>Durid,</form> <xpln lexeme="lasted(a)">lasted.</xpln></wordentry>
+<wordentry type="h"><form>Dwelliden,</form> <xpln lexeme="dwelt(v)">dwelt.</xpln></wordentry>
+<wordentry type="h"><form>Dymme,</form> <xpln lexeme="dim(a)">dim.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="e"><alpha>E.</alpha>
+<wordentry type="h"><form>Ellis,</form> <xpln lexeme="else(adv)">else.</xpln></wordentry>
+<wordentry type="h"><form>Ennok,</form> <xpln lexeme="Enoch(pn)">Enoch.</xpln></wordentry>
+<wordentry type="h"><form>Eny,</form> <xpln lexeme="any(pr)">any.</xpln></wordentry>
+<wordentry type="h"><form>Erthe,</form> <xpln lexeme="earth(adv)">earth.</xpln></wordentry>
+<wordentry type="h"><form>Esili,</form> <xpln lexeme="easily(adv)">easily.</xpln></wordentry>
+<wordentry type="h"><form>Evene,</form> <xpln lexeme="equal(a)">equal.</xpln></wordentry>
+<wordentry type="h"><form>Expowne,</form> <xpln lexeme="expound(v)">expound.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="f"><alpha>F.</alpha>
+<wordentry type="h"><form>Fadir,</form> <xpln lexeme="father(n)">father.</xpln></wordentry>
+<wordentry type="h"><form>Fadris,</form> <xpln lexeme="father(n)">fathers.</xpln></wordentry>
+<wordentry type="h"><form>Feende,</form> <xpln lexeme="devil(n)">devil.</xpln></wordentry>
+<wordentry type="h"><form>Felle,</form> <xpln lexeme="happened(a)">happened.</xpln></wordentry>
+<wordentry type="h"><form>Fer,</form> <xpln lexeme="far(a)">far.</xpln></wordentry>
+<wordentry type="h"><form>Ferthe,</form> <xpln lexeme="forth(adv)">forth.</xpln></wordentry>
+<wordentry type="h"><form>Fier,</form> <xpln lexeme="fire(n)">fire.</xpln></wordentry>
+<wordentry type="h"><form>Finucius,</form> <xpln lexeme="Paphnutius(pn)">Paphnutius.</xpln></wordentry>
+<wordentry type="h"><form>Folowing,</form> <xpln lexeme="consequence(n)">consequence.</xpln></wordentry>
+<wordentry type="h"><form>Folowingli,</form> <xpln lexeme="consequently(adv)">consequently.</xpln></wordentry>
+<wordentry type="h"><form>Forheed,</form> <xpln lexeme="foregoing(n)" lexeme="part(n)">foregoing part.</xpln></wordentry>
+<wordentry type="h"><form>Foundement,</form> <xpln lexeme="foundation(n)">foundation.</xpln></wordentry>
+<wordentry type="h"><form>Fro,</form> <xpln lexeme="from(pp)">from.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="g"><alpha>G.</alpha>
+<wordentry type="h"><form>Gede,</form> <xpln lexeme="went(v)">went.</xpln></wordentry>
+<wordentry type="h"><form>Gendrid,</form> <xpln lexeme="born(a)">born.</xpln></wordentry>
+<wordentry type="h"><form>Goostli,</form> <xpln lexeme="spiritual(a)">spiritual.</xpln></wordentry>
+<wordentry type="h"><form>Govun,</form> <xpln lexeme="given(a)">given.</xpln></wordentry>
+<wordentry type="h"><form>Grete,</form> <xpln lexeme="great(a)">great.</xpln></wordentry>
+<wordentry type="h"><form>Groundeli,</form> <xpln lexeme="fundamentally(adv)">fundamentally.</xpln></wordentry>
+<wordentry type="h"><form>Groundier,</form> <xpln lexeme="firmer(a)">firmer.</xpln></wordentry>
+<wordentry type="h"><form>Grow in,</form> <xpln lexeme="intervene(v)">intervene.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="h"><alpha>H.</alpha>
+<wordentry type="h"><form>Hadde,</form> <xpln lexeme="had(v)">had.</xpln></wordentry>
+<wordentry type="h"><form>Han,</form> <xpln lexeme="have(v)">have.</xpln></wordentry>
+<wordentry type="h"><form>Hangement,</form> <xpln lexeme="hanging(n)">hanging.</xpln></wordentry>
+<wordentry type="h"><form>Han,</form> <xpln lexeme="have(v)">have.</xpln></wordentry>
+<wordentry type="h"><form>Heed,</form> <xpln lexeme="head(n)">head.</xpln></wordentry>
+<wordentry type="h"><form>Heere,</form> <xpln lexeme="hear(v)">hear.</xpln></wordentry>
+<wordentry type="h"><form>Hemsilf,</form> <xpln lexeme="themselves(pn)">themselves.</xpln></wordentry>
+</page>
+
+<page no="43">
+<wordentry type="h"><form>Her,</form> <xpln lexeme="their(pr)">their.</xpln></wordentry>
+<wordentry type="h"><form>Herden,</form> <xpln lexeme="heard(v)">heard.</xpln></wordentry>
+<wordentry type="h"><form>Here that,</form> <xpln lexeme="whereas(c)">whereas.</xpln></wordentry>
+<wordentry type="h"><form>Heres,</form> <xpln lexeme="heir(n)">heirs.</xpln></wordentry>
+<wordentry type="h"><form>Hige,</form> <xpln lexeme="high(a)">high.</xpln></wordentry>
+<wordentry type="h"><form>Hise,</form> <xpln lexeme="his(pn)">his.</xpln></wordentry>
+<wordentry type="h"><form>Holde,</form> <xpln lexeme="hold(v)">hold.</xpln></wordentry>
+<wordentry type="h"><form>Holi,</form> <xpln lexeme="holy(a)">holy.</xpln></wordentry>
+<wordentry type="h"><form>Hondis,</form> <xpln lexeme="hand(n)">hands.</xpln></wordentry>
+<wordentry type="h"><form>Hool,</form> <xpln lexeme="whole(a)">whole.</xpln></wordentry>
+<wordentry type="h"><form>Hyve,</form> <xpln lexeme="company(n)">company.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="i"><alpha>I.</alpha>
+<wordentry type="h"><form>Igen,</form> <xpln lexeme="eye(n)">eyes.</xpln></wordentry>
+<wordentry type="h"><form>Impresseli,</form> <xpln lexeme="implicitly(adv)">implicitly.</xpln></wordentry>
+<wordentry type="h" joinnext="1"><form>Ion,</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form>Ioon,</form> <xpln lexeme="John(pn)">John.</xpln></wordentry>
+<wordentry type="h"><form>Iugis,</form> <xpln lexeme="judge(n)">Judges.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="k"><alpha>K.</alpha>
+<wordentry type="h"><form>Kinde,</form> <xpln lexeme="nature(n)">nature.</xpln></wordentry>
+<wordentry type="h"><form>Kindeli,</form> <xpln lexeme="natural(a)" lexeme="ordinary(a)">natural or ordinary.</xpln></wordentry>
+<wordentry type="h"><form>Kirke,</form> <xpln lexeme="church(n)">Church.</xpln></wordentry>
+<wordentry type="h"><form>Kunne,</form> <xpln lexeme="can(v)">can.</xpln></wordentry>
+<wordentry type="h"><form>Kunnyng,</form> <xpln lexeme="knowledge(n)">knowledg.</xpln></wordentry>
+<wordentry type="h"><form>Kuntre,</form> <xpln lexeme="country(n)">countrey.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="l"><alpha>L.</alpha>
+<wordentry type="h"><form>Leefir,</form> <xpln lexeme="more(adv)" lexeme="willing(n)">more willing.</xpln></wordentry>
+<wordentry type="h"><form>Lesingis,</form> <xpln lexeme="lie(n)">lies.</xpln></wordentry>
+<wordentry type="h"><form>Lettris,</form> <xpln lexeme="letter(n)">letters.</xpln></wordentry>
+<wordentry type="h"><form>Liggist,</form> <xpln lexeme="lie(v)">lyeth.</xpln></wordentry>
+<wordentry type="h"><form>Likli,</form> <xpln lexeme="likely(adv)">likely.</xpln></wordentry>
+<wordentry type="h"><form>Litil,</form> <xpln lexeme="little(a)">little.</xpln></wordentry>
+<wordentry type="h"><form>Longid to,</form> <xpln lexeme="belonged(a)">belonged.</xpln></wordentry>
+<wordentry type="h"><form>Lyf,</form> <xpln lexeme="life(n)">life.</xpln></wordentry>
+<wordentry type="h"><form>Lyk,</form> <xpln lexeme="like(v)">like.</xpln></wordentry>
+<wordentry type="h"><form>Lyvyng,</form> <xpln lexeme="living(n)">living.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="m"><alpha>M.</alpha>
+<wordentry type="h"><form>Maad,</form> <xpln lexeme="made(v)">made.</xpln></wordentry>
+<wordentry type="h"><form>Mannys,</form> <xpln lexeme="many(a)">many.</xpln></wordentry>
+<wordentry type="h"><form>Mawle,</form> <xpln lexeme="male(n)">male.</xpln></wordentry>
+<wordentry type="h"><form>Mede,</form> <xpln lexeme="salvation(n)">Salvation.</xpln></wordentry>
+<wordentry type="h"><form>Mennys,</form> <xpln lexeme="men(n)">mens.</xpln></wordentry>
+<wordentry type="h"><form>Mensioun,</form> <xpln lexeme="mention(v)">mention.</xpln></wordentry>
+<wordentry type="h"><form>Mete agens,</form> <xpln lexeme="oppose(v)">oppose.</xpln></wordentry>
+<wordentry type="h"><form>Mo,</form> <xpln lexeme="more(a)">more.</xpln></wordentry>
+<wordentry type="h"><form>Moche,</form> <xpln lexeme="much(a)">much.</xpln></wordentry>
+<wordentry type="h"><form>Money,</form> <xpln lexeme="many(a)">many.</xpln></wordentry>
+<wordentry type="h"><form>More,</form> <xpln lexeme="greater(a)">greater.</xpln></wordentry>
+<wordentry type="h"><form>Morewe,</form> <xpln lexeme="morrow(n)">morrow.</xpln></wordentry>
+<wordentry type="h"><form>Mowe,</form> <xpln lexeme="may(v)">may.</xpln></wordentry>
+<wordentry type="h"><form>Myche,</form> <xpln lexeme="much(a)">much.</xpln></wordentry>
+<wordentry type="h"><form>Mygte,</form> <xpln lexeme="power(n)">power.</xpln></wordentry>
+<wordentry type="h"><form>Mygten,</form> <xpln lexeme="might(v)">might.</xpln></wordentry>
+<wordentry type="h"><form>Mynystriden,</form> <xpln lexeme="administered(a)">administred.</xpln></wordentry>
+<wordentry type="h"><form>Myraclus,</form> <xpln lexeme="miraculous(a)">miraculous.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="n"><alpha>N.</alpha>
+<wordentry type="h"><form>Namelich,</form> <xpln lexeme="namely(adv)">namely.</xpln></wordentry>
+<wordentry type="h"><form>Ne,</form> <xpln lexeme="neither(adv)">neither.</xpln></wordentry>
+<wordentry type="h"><form>Nede,</form> <xpln lexeme="necessity(n)">necessity.</xpln></wordentry>
+<wordentry type="h"><form>Nedis,</form> <xpln lexeme="necessarily(adv)">necessarily.</xpln></wordentry>
+<wordentry type="h"><form>Ni lasse,</form> <xpln lexeme="unless(c)">unless.</xpln></wordentry>
+<wordentry type="h"><form>Noon,</form> <xpln lexeme="none(n)">none.</xpln></wordentry>
+<wordentry type="h"><form>Notabili,</form> <xpln lexeme="notably(adv)">notably.</xpln></wordentry>
+<wordentry type="h"><form>Noumbre,</form> <xpln lexeme="number(n)">number.</xpln></wordentry>
+<wordentry type="h"><form>Nylling,</form> <xpln lexeme="nulling(n)">nulling.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="o"><alpha>O.</alpha>
+<wordentry type="h"><form>Omelies,</form> <xpln lexeme="homily(n)">Homilies.</xpln></wordentry>
+<wordentry type="h"><form>Oold,</form> <xpln lexeme="old(a)">old.</xpln></wordentry>
+<wordentry type="h"><form>Oon,</form> <xpln lexeme="one(n)">one.</xpln></wordentry>
+<wordentry type="h"><form>Oonli,</form> <xpln lexeme="only(adv)">only.</xpln></wordentry>
+<wordentry type="h"><form>Oonys,</form> <xpln lexeme="once(adv)">once.</xpln></wordentry>
+<wordentry type="h"><form>Openli,</form> <xpln lexeme="manifestly(adv)">manifestly.</xpln></wordentry>
+<wordentry type="h"><form>Othre,</form> <xpln lexeme="other(pr)">other.</xpln></wordentry>
+<wordentry type="h"><form>Overer,</form> <xpln lexeme="superiour(n)">superiours.</xpln></wordentry>
+<wordentry type="h"><form>Owen,</form> <xpln lexeme="ought(v)">ought.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="p"><alpha>P.</alpha>
+<wordentry type="h"><form>Pacchis and cloutis,</form> <xpln lexeme="addition(n)">addi&shy;
+tions.</xpln></wordentry>
+<wordentry type="h"><form>Parischens,</form> <xpln lexeme="parishioner(n)">Parishioner.</xpln></wordentry>
+<wordentry type="h"><form>Paske,</form> <xpln lexeme="Passeover(n)">Passeover.</xpln></wordentry>
+<wordentry type="h"><form>Peces mele,</form> <xpln lexeme="piecemeal(adv)">piecemeal.</xpln></wordentry>
+<wordentry type="h"><form>Perfit,</form> <xpln lexeme="perfect(a)">perfect.</xpln></wordentry>
+<wordentry type="h"><form>Persoonys,</form> <xpln lexeme="person(n)">persons.</xpln></wordentry>
+<wordentry type="h"><form>Physisien,</form> <xpln lexeme="physician(n)">Physitian.</xpln></wordentry>
+<wordentry type="h"><form>Poulis,</form> <xpln lexeme="Paul's(pn)">Pauls.</xpln></wordentry>
+<wordentry type="h"><form>Prechiden,</form> <xpln lexeme="preached(v)">preached.</xpln></wordentry>
+<wordentry type="h"><form>Premyssis,</form> <xpln lexeme="proposition(n)">propositions.</xpln></wordentry>
+<wordentry type="h"><form>Pretense,</form> <xpln lexeme="pretended(v)">pretended.</xpln></wordentry>
+<wordentry type="h"><form>Prie,</form> <xpln lexeme="pray(v)">pray.</xpln></wordentry>
+<wordentry type="h"><form>Privey,</form> <xpln lexeme="private(a)">private.</xpln></wordentry>
+<wordentry type="h"><form>Processe,</form> <xpln lexeme="passage(n)">passage.</xpln></wordentry>
+<wordentry type="h"><form>Proficied,</form> <xpln lexeme="prophesied(a)">prophesied.</xpln></wordentry>
+<wordentry type="h"><form>Prologgis,</form> <xpln lexeme="prologue(n)">prologues.</xpln></wordentry>
+<wordentry type="h"><form>Puplischid,</form> <xpln lexeme="published(a)">published.</xpln></wordentry>
+<wordentry type="h"><form>Purveied,</form> <xpln lexeme="provided(a)">provided.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="r"><alpha>R.</alpha>
+<wordentry type="h"><form>Radde,</form> <xpln lexeme="read(v)">read.</xpln></wordentry>
+<wordentry type="h"><form>Recleimed,</form> <xpln lexeme="opposed(a)">opposed.</xpln></wordentry>
+<wordentry type="h"><form>Redi,</form> <xpln lexeme="ready(a)">ready.</xpln></wordentry>
+<wordentry type="h"><form>Releef and rescall,</form> <xpln>poorer and meaner sort.</xpln></wordentry>
+<wordentry type="h"><form>Renne,</form> <xpln lexeme="run(v)">run.</xpln></wordentry>
+<wordentry type="h"><form>Rennyng,</form> <xpln lexeme="running(a)" lexeme="current(a)">running or cur&shy;
+rent.</xpln></wordentry>
+<wordentry type="h"><form>Rennyng herewith,</form> <xpln lexeme="concurring(a)">concur&shy;
+ing to it.</xpln></wordentry>
+<wordentry type="h"><form>Resoned,</form> <xpln lexeme="learned(a)">learned.</xpln></wordentry>
+<wordentry type="h"><form>Resoun,</form> <xpln lexeme="reason(n)">reason.</xpln></wordentry>
+<wordentry type="h"><form>Reule,</form> <xpln lexeme="rule(n)">rule.</xpln></wordentry>
+<wordentry type="h"><form>Rewine,</form> <xpln lexeme="room(n)">room.</xpln></wordentry>
+<wordentry type="h"><form>Rightwisnesse,</form> <xpln lexeme="justice(n)">justice.</xpln></wordentry>
+<wordentry type="h"><form>Roos,</form> <xpln lexeme="rose(v)">rose.</xpln></wordentry>
+<wordentry type="h"><form>Route,</form> <xpln lexeme="multitude(n)">multitude.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="s"><alpha>S.</alpha>
+<wordentry type="h"><form>Saaf,</form> <xpln lexeme="safe(a)">safe.</xpln></wordentry>
+<wordentry type="h"><form>Sad,</form> <xpln lexeme="grave(n)">grave.</xpln></wordentry>
+<wordentry type="h"><form>Sadnesse,</form> <xpln lexeme="gravity(n)">gravity.</xpln></wordentry>
+<wordentry type="h"><form>Save the caase,</form> <xpln>solve the 
+question.</xpln></wordentry>
+<wordentry type="h"><form>Scant,</form> <xpln lexeme="scarce(adv)">scarce.</xpln></wordentry>
+<wordentry type="h"><form>Schal,</form> <xpln lexeme="shall(v)">shall.</xpln></wordentry>
+<wordentry type="h"><form>Schapide,</form> <xpln lexeme="prepared(a)">prepared.</xpln></wordentry>
+<wordentry type="h"><form>Sche,</form> <xpln lexeme="she(pn)">she.</xpln></wordentry>
+<wordentry type="h"><form>Schewe,</form> <xpln lexeme="shew(v)">shew.</xpln></wordentry>
+<wordentry type="h"><form>Schipp,</form> <xpln lexeme="ship(n)">ship.</xpln></wordentry>
+<wordentry type="h"><form>Schope,</form> <xpln lexeme="intended(a)" lexeme="ordered(a)">intended or ordered.</xpln></wordentry>
+<wordentry type="h"><form>Schortli,</form> <xpln lexeme="shortly(adv)">shortly.</xpln></wordentry>
+<wordentry type="h"><form>Schotte,</form> <xpln lexeme="slew(v)">slew.</xpln></wordentry>
+<wordentry type="h"><form>Schulde,</form> <xpln lexeme="should(v)">should.</xpln></wordentry>
+<wordentry type="h"><form>Scole,</form> <xpln lexeme="school(n)">school.</xpln></wordentry>
+<wordentry type="h"><form>Se,</form> <xpln lexeme="see(v)">see.</xpln></wordentry>
+<wordentry type="h"><form>Seche,</form> <xpln lexeme="seek(v)">seek.</xpln></wordentry>
+<wordentry type="h"><form>Seie,</form> <xpln lexeme="say(v)">say.</xpln></wordentry>
+<wordentry type="h"><form>Servage,</form> <xpln lexeme="bondage(n)">bondage.</xpln></wordentry>
+<wordentry type="h"><form>Settid,</form> <xpln lexeme="resolved(a)">resolved.</xpln></wordentry>
+<wordentry type="h"><form>Settiden,</form> <xpln lexeme="placed(a)">placed.</xpln></wordentry>
+</page>
+
+<page no="44">
+<wordentry type="h"><form>Seyntis,</form> <xpln lexeme="saint(n)">Saints.</xpln></wordentry>
+<wordentry type="h"><form>Sigen,</form> <xpln lexeme="did(v)" lexeme="see(n)">did see.</xpln></wordentry>
+<wordentry type="h"><form>Sikir,</form> <xpln lexeme="secure(a)">secure.</xpln></wordentry>
+<wordentry type="h"><form>Sikirli,</form> <xpln lexeme="securely(adv)">securely.</xpln></wordentry>
+<wordentry type="h"><form>Sithen,</form> <xpln lexeme="since(adv)">since.</xpln></wordentry>
+<wordentry type="h"><form>Slider,</form> <xpln lexeme="uncertain(a)">uncertain.</xpln></wordentry>
+<wordentry type="h"><form>Sone,</form> <xpln lexeme="son(n)">Son.</xpln></wordentry>
+<wordentry type="h"><form>Sooth,</form> <xpln lexeme="truth(n)">truth.</xpln></wordentry>
+<wordentry type="h"><form>Sothe,</form> <xpln lexeme="certain(a)">certain.</xpln></wordentry>
+<wordentry type="h"><form>Sotheli,</form> <xpln lexeme="certainly(adv)">certainly.</xpln></wordentry>
+<wordentry type="h"><form>Sowdan,</form> <xpln lexeme="soldan(n)">Soldan.</xpln></wordentry>
+<wordentry type="h"><form>Stabili,</form> <xpln lexeme="firmly(adv)">firmly.</xpln></wordentry>
+<wordentry type="h"><form>Stirid,</form> <xpln lexeme="stirred(a)">stirred.</xpln></wordentry>
+<wordentry type="h"><form>Suffraunce,</form> <xpln lexeme="permission(n)">permission.</xpln></wordentry>
+<wordentry type="h"><form>Sugget,</form> <xpln lexeme="subject(n)">subject.</xpln></wordentry>
+<wordentry type="h" joinnext="1"><form>Sum,</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form>Summe,</form> <xpln lexeme="some(pr)">some.</xpln></wordentry>
+<wordentry type="h"><form>Sunken in,</form> <xpln lexeme="drawn in(a)">drawn in.</xpln></wordentry>
+<wordentry type="h"><form>Synnys,</form> <xpln lexeme="sin(n)">Sins.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="t"><alpha>T.</alpha>
+<wordentry type="h"><form>Take mark,</form> <xpln lexeme="shew(v)">be shewed.</xpln></wordentry>
+<wordentry type="h"><form>Takun,</form> <xpln lexeme="assumed(a)">assumed.</xpln></wordentry>
+<wordentry type="h"><form>Teche,</form> <xpln lexeme="teach(v)">teach.</xpln></wordentry>
+<wordentry type="h"><form>Thanne,</form> <xpln lexeme="then(adv)">then.</xpln></wordentry>
+<wordentry type="h"><form>Thei,</form> <xpln lexeme="they(pr)">they.</xpln></wordentry>
+<wordentry type="h"><form>Thennes,</form> <xpln lexeme="thence(adv)">thence.</xpln></wordentry>
+<wordentry type="h"><form>Thenke,</form> <xpln lexeme="meditate(v)">meditate.</xpln></wordentry>
+<wordentry type="h"><form>Thi,</form> <xpln lexeme="thy(pr)">thy.</xpln></wordentry>
+<wordentry type="h"><form>Thilk,</form> <xpln lexeme="that(pr)" lexeme="said(n)">that, or the said.</xpln></wordentry>
+<wordentry type="h"><form>Tho,</form> <xpln lexeme="those(pr)">those.</xpln></wordentry>
+<wordentry type="h"><form>Thorug,</form> <xpln lexeme="through(pp)">through.</xpln></wordentry>
+<wordentry type="h"><form>Tho that,</form> <xpln lexeme="who(pr)">who.</xpln></wordentry>
+<wordentry type="h"><form>Til to,</form> <xpln lexeme="unto(pp)">unto.</xpln></wordentry>
+<wordentry type="h"><form>Togidere,</form> <xpln lexeme="together(adv)">together.</xpln></wordentry>
+<wordentry type="h"><form>Tre,</form> <xpln lexeme="three(nu)">three.</xpln></wordentry>
+<wordentry type="h"><form>Trenys,</form> <xpln lexeme="lamentation(n)">lamentations.</xpln></wordentry>
+<wordentry type="h"><form>Tretid,</form> <xpln lexeme="treated(a)">treated.</xpln></wordentry>
+<wordentry type="h"><form>Treuli,</form> <xpln lexeme="truly(adv)">treuly.</xpln></wordentry>
+<wordentry type="h"><form>Trew,</form> <xpln lexeme="true(a)">true.</xpln></wordentry>
+<wordentry type="h"><form>Trouthis,</form> <xpln lexeme="truth(n)">truths.</xpln></wordentry>
+<wordentry type="h"><form>Trowe,</form> <xpln lexeme="believe(v)">believe.</xpln></wordentry>
+<wordentry type="h"><form>Tungis,</form> <xpln lexeme="tongue(n)">tongues.</xpln></wordentry>
+<wordentry type="h"><form>Twey,</form> <xpln lexeme="two(nu)">two.</xpln></wordentry>
+<wordentry type="h"><form>Twies,</form> <xpln lexeme="twice(adv)">twice.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="v"><alpha>V.</alpha>
+<wordentry type="h"><form>Vce,</form> <xpln lexeme="use(v)">use.</xpln></wordentry>
+<wordentry type="h"><form>Verri,</form> <xpln lexeme="very(adv)">very.</xpln></wordentry>
+<wordentry type="h"><form>Veyn,</form> <xpln lexeme="vain(a)">vain.</xpln></wordentry>
+<wordentry type="h"><form>Videwite,</form> <xpln lexeme="widowhood(n)">widowhood.</xpln></wordentry>
+<wordentry type="h"><form>Vnbigilefulnesse,</form> <xpln lexeme="veracity(n)">veracity.</xpln></wordentry>
+<wordentry type="h" joinnext="1"><form>Vndeptabili,</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form>Vndoutabili,</form> <xpln lexeme="undoubtedly(adv)">undoubtedly.</xpln></wordentry>
+<wordentry type="h"><form>Vnto tyme,</form> <xpln lexeme="until(c)">until.</xpln></wordentry>
+<wordentry type="h"><form>Vnwist,</form> <xpln lexeme="unknown(a)">unknown.</xpln></wordentry>
+<wordentry type="h"><form>Veri,</form> <xpln lexeme="true(a)">true.</xpln></wordentry>
+</wordgroup1>
+        
+<wordgroup1 type="a" object="w"><alpha>W.</alpha>
+<wordentry type="h"><form>Waast,</form> <xpln lexeme="vain(a)">vain.</xpln></wordentry>
+<wordentry type="h"><form>Waisching,</form> <xpln lexeme="washing(n)">washing.</xpln></wordentry>
+<wordentry type="h"><form>Weel,</form> <xpln lexeme="well(adv)">well.</xpln></wordentry>
+<wordentry type="h"><form>Weie,</form> <xpln lexeme="way(n)">way.</xpln></wordentry>
+<wordentry type="h"><form>Wel prisid,</form> <xpln lexeme="esteemed(a)">well esteemed.</xpln></wordentry>
+<wordentry type="h"><form>Weren,</form> <xpln lexeme="were(v)">were.</xpln></wordentry>
+<wordentry type="h"><form>Werkis,</form> <xpln lexeme="work(n)">works.</xpln></wordentry>
+<wordentry type="h"><form>Werre,</form> <xpln lexeme="war(n)">War.</xpln></wordentry>
+<wordentry type="h"><form>Weved,</form> <xpln lexeme="complained(a)">complained.</xpln></wordentry>
+<wordentry type="h"><form>Whanne,</form> <xpln lexeme="when(adv)">when.</xpln></wordentry>
+<wordentry type="h"><form>Whicchecraft,</form> <xpln lexeme="witchcraft(n)">witchcraft.</xpln></wordentry>
+<wordentry type="h"><form>Whilis,</form> <xpln lexeme="whilst(c)">whilst.</xpln></wordentry>
+<wordentry type="h"><form>100 Wintre,</form> <xpln lexeme="year(n)">100 years.</xpln></wordentry>
+<wordentry type="h"><form>Wiste,</form> <xpln lexeme="know(v)">know.</xpln></wordentry>
+<wordentry type="h"><form>Withoute forth,</form> <xpln lexeme="external(a)">external.</xpln></wordentry>
+<wordentry type="h"><form>Withynne forth,</form> <xpln lexeme="internal(a)">internal.</xpln></wordentry>
+<wordentry type="h"><form>Witti,</form> <xpln lexeme="learned(a)">learned.</xpln></wordentry>
+<wordentry type="h"><form>Wittis,</form> <xpln lexeme="understanding(n)">undirstanding.</xpln></wordentry>
+<wordentry type="h"><form>Wittyngis,</form> <xpln lexeme="testimony(n)">testimonies.</xpln></wordentry>
+<wordentry type="h"><form>Wolden,</form> <xpln lexeme="would(a)">would.</xpln></wordentry>
+<wordentry type="h"><form>Wole,</form> <xpln lexeme="will(a)">will.</xpln></wordentry>
+<wordentry type="h"><form>Worching,</form> <xpln lexeme="working(n)">working.</xpln></wordentry>
+<wordentry type="h" joinnext="1"><form>Worschipid,</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form>Worschipid,</form> <xpln lexeme="esteemed(a)">esteemed.</xpln></wordentry>
+<wordentry type="h"><form>Wyf,</form> <xpln lexeme="wife(n)">Wife.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="y"><alpha>Y.</alpha>
+<wordentry type="h"><form>Y,</form> <xpln lexeme="I(pr)">I.</xpln></wordentry>
+<wordentry type="h"><form>Ydel,</form> <xpln lexeme="idle(a)">idle.</xpln></wordentry>
+<wordentry type="h"><form>Ye,</form> <xpln lexeme="you(pr)">you.</xpln></wordentry>
+<wordentry type="h"><form>Yere,</form> <xpln lexeme="year(n)">year.</xpln></wordentry>
+<wordentry type="h"><form>Yhe,</form> <xpln lexeme="yea(adv)">yea.</xpln></wordentry>
+<wordentry type="h"><form>Yitt,</form> <xpln lexeme="yet(adv)">yet.</xpln></wordentry>
+<wordentry type="h"><form>Ynoug,</form> <xpln lexeme="enough(adv)">enough.</xpln></wordentry>
+<wordentry type="h"><form>Ysidir,</form> <xpln lexeme="Isidore(pn)">Isidore.</xpln></wordentry>
+<wordentry type="h"><form>Yvel,</form> <xpln lexeme="evil(a)">evil.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+F##sp##I##sp##N##sp##I##sp##S.
+</closing>
+</page>
+
+</leme>

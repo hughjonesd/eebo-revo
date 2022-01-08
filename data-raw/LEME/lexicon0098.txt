@@ -1,0 +1,59 @@
+
+
+<leme no="98">
+<page sig="s7v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 5 3 8 9
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+The way to vnderstande
+Tryckyng.
+</heading>
+
+THe olde order in Tricking of all maner of Ar&#173;
+mes, is to vse one letter for one woorde. It is
+necessarie for heroicall Artificers. As by ens<expan type="">am</expan>ple.
+The Queenes maiestie of England beareth quar&#173;
+terly Fraunce and Englande. The first, B.iii. Flo&#173;
+wers de Leus O. The second. G.iii. Lyons passaun<emend err="">&#173;</emend>
+tes O. The third as the seconde, the fowerth as the
+fyrste.
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="or(n)">O. Or.</form> <xpln lexeme="yellow(n)">Yelow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="argent(n)">A. Argent.</form> <xpln lexeme="white(n)">whyghte.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gules(n)">G. Geules.</form> <xpln lexeme="red(n)" lexeme="tenny(n)">betwene Red and Tenne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="azure(n)">B. Azure.</form> <xpln lexeme="blue, bright(n)">bright Blewe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vert(n)">V. Vert.</form> <xpln lexeme="green(n)">Grene.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="purpur(n)">P. Purpure.</form> <xpln lexeme="purple(n)">Purple.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ermin(n)">E. Ermyn.</form> <xpln lexeme="white powdered with black(n)">white poudred with Blacke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ermines(n)">Es. Ermines.</form> <xpln lexeme="black powdered with white(n)">Blacke powdred white</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tenny(n)">T. Tenne.</form> <xpln lexeme="orange(n)">Orynge coloure.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sanguine(n)">M. Sangwine.</form> <xpln lexeme="murrey(n)">Murreye.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proper colour(n)">Pr. Proper coloure.</form> <xpln lexeme="natural(n)">Naturall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blue(n)">BB. Blewe.</form> <xpln lexeme="sad blue(n)">Sad Blewe.</xpln></wordentry>
+</wordgroup1>
+
+<term lang="la">
+FINIS
+</term>
+
+</page>
+</leme>

@@ -76,6 +76,16 @@ And a sample metadata:
 <measure type="pp">31</measure>
 </bibl>
 
+# Lemmatizing
+
+* There's VARD (unmaintained, doesn't work out of the box)
+* And MorphAdorner (unmaintained, runs but errors out of the box)
+* And a paper by 2 guys explaining what they did in papers/
+* Simplest version might be just "create embeddings on the raw
+  variants", if you get very close variants with very close
+  spellings, lemmatize". Or even don't bother, perhaps it isn't
+  relevant? (What if you did letter-based prediction?)
+
 # The code will look like:
 
 * For each item:

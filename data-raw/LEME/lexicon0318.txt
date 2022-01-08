@@ -1,0 +1,1546 @@
+<leme no="318">
+
+<page sig="k4r">
+<section type="To the Reader">
+<heading>
+<f type="r">To the Reader.
+</heading>
+
+<f type="bk">I<f type="I">n the reading of the Orientall histo&shy;
+ries, I finde two things oft times to trou&shy;
+ble euen those that would seeme to bee
+great schollers; to wit, the Names of ho&shy;
+nour, dignity, office, &c. and the Ti&shy;
+tles or inscriptions of the Chapters of the Alkoran. For
+these both being for the most part called and cited as they
+are termed by the Turks and Arabians, are not easily vn&shy;
+derstood of any, but such as are skilfull of that language.
+How oft, I pray you, in the histories and writers of their
+affairs, & in what page almost shal you not meet with some
+exoticke and strange terme or other, as Mussleman, Al&shy;
+kade, Hakkim, Alfaqui, Azoara, and others like? And
+what one amongst many hundreds is there that doth con&shy;
+ceiue what is meant by them? For the better vnderstan&shy;
+ding therefore not onely of this present Treatise of ours,
+but generally of all histories of the Saracens, Persians, In&shy;
+dians, Turks, & Africans : as also of all bookes and trea&shy;
+tises written of their superstition and ceremonies, I have,
+for thy good, gentle Reader, in the midst of my many and
+great troubles, procured by the fraudulent practises of the 
+wicked, according to my best ability, and small helpe that I 
+haue, out of those kinde of writings gathered and com&shy;
+posed these two Treatises ensuing; The one containing a
+</page>
+
+<page sig="k4v">
+Catalogue of all such Arabicke termes and words vsed by
+historians: The other an Index of the Chapters of the Al&shy;
+koran. But some man may say, That in those histories there
+are many other strange words found that here I haue not
+mentioned; I answer, it is true. But those being for the 
+most part Turkish or Persian, that is, barbarous and out
+of the compasse of my skill, I leaue them to be handled by 
+others. Againe, if any man shall finde that we haue omit&shy;
+ted diuerse, euen of this nature here by vs nominated, let
+him know, that we could not seriously reade ouer all books
+of that argument; onely wee did for this purpose but
+lightly cast our eye ouer some of the principallest, and such
+as we could haue the vse of at this time.Our studies at this
+time are imployed otherwise. If any thing be wanting
+I doubt not but ere long we shall supply it abundantly,
+and I hope, to the satisfaction of all.
+Farewell.
+</section>
+</page>
+
+<page sig="L1r">
+<section type="Lexicon">
+<heading>
+<f type="i">The Arabian Trudgman.<f type="r">
+</heading>
+
+<wordgroup1 type="a" object="A"><f type="r">A
+
+<wordentry type="h">
+<form lang="ar" lexeme="Aba'lkibla"> <f type="bk">A<f type="r">BA'LKIBLA, </form> <xpln lang="en">was an idoll in the <f type="i">Alcaaba<f type="r"> or
+temple of Mecha; which before Moham&shy;
+meds time the Arabians did all generally wor&shy;
+ship, and offer sacrifice vnto. See the booke <f type="i">De
+generatione Mohammedis.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Abassini"><f type="r">ABASSINI,</form> <xpln lang="en">looke <f type="i">Alhabassi.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Abelkibla"><f type="r">ABELKIBLA,</form> <xpln lang="en">and <f type="i">Abel,<f type="r"> the same that Aba'lkibla.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Admirans"><f type="r">ADMIRANS,</form> <xpln lang="en"><xref>see <f type="i">Amir</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Admirallius"><f type="r">ADMIRALLIVS,</form> <xpln lang="en"><xref target="amiralivs">see <f type="i">Amirallius</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Agbal"><f type="r">AGBEL,</form> <xpln lang="en" lexeme="mountain(n)">or <f type="i">Agbal,<f type="r"> signifieth a mountaine, as some do
+affirme, and is the same with <f type="i">Gabel, Gebel,<f type="r"> or <f type="i">Gibel.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alambeli"><f type="r">ALAMBELI,</form> <xpln lang="en">a sect of Saracens professing Moham&shy;
+meds superstitious lawes. <xref>See <f type="i">Melici</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alcaaba"><f type="r">ALCAABA,</form> <xpln lang="en"><f type="i">Alkaaba,<f type="r"> or <f type="i">Alkaba,<f type="r"> is the name of that
+Church, Temple, or Mesgid in the city Mecha in Arabia
+Felix, which the Mohammetanes do from all parts yearly
+visit. Of this that forenamed booke doth thus write: <f type="i">An&shy;
+no vicesimo quinto fundatum est Alkaba: Anno ver&ograve; quadra&shy;
+gesimo Machumet Propheta datus est.<f type="r"> In the 25 yeare, the
+Alcaaba was begun to be built; and in the 40 yeare Mo&shy;
+hammed our Prophet was borne. And like as we reade
+that Daniel, and other of the Saints of God, being in exile
+or in forraine countries, did make their prayers and ori&shy;
+sons toward Ierusalem: so the Turks, in imitation of them,
+do vsually pray with their faces toward this temple.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="alcabir"><f type="r">ALCABIR,</form> <xpln lang="en" lexeme="great(a)"><f type="i">elcabir, elguibir,<f type="r"> signifieth Great, as <f type="i">Gua&shy;
+da'lcabir,<f type="r"> The great riuer, <f type="i">Casar elcabir,<f type="r"> The great palace,
+<f type="i">Marsa'lcabir,<f type="r"> The great hauen.
+</xpln></wordentry>
+</page>
+
+<page sig="L1v">
+<wordentry type="h">
+<form lang="ar" lexeme="Alcasar"><f type="r">ALCASAR,</form> <xpln lang="en" lexeme="palace(n)"><f type="i">Alkazar,<f type="r"> The Palace, the kings house:
+There are diuerse places of this name in Africa. <xref>See <f type="i">Casar</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alcair"><f type="r">ALCAIR,</form> <xpln lang="en"><f type="i">Alkair, Alchaira,<f type="r"> The citie. The name of a
+great city of Egypt, so called, <f type="i">Cat'hexochen:<f type="r"> although Leo
+be of another opinion. <f type="i">Cairo, Cairus, oppidum &AElig;gypti
+prope Memphis ruinas &aelig;dificauit Muauias. <f type="r">Muauias, a Chalife
+of Egypt, saith mine author, built the city Cayro, neare
+vnto the place, where somtime Memphis did stand.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alcasava"><f type="r">ALCASAVA,</form> <xpln lang="en"><xref target="kasava">see <f type="i">Kasaua</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alefrangi"><f type="r">ALEFRANGI,</form> <xpln lang="en" lexeme="Frenchmen(n)"><f type="i">Alfrangi, Frangi,<f type="r"> or <f type="i">Phrangi,<f type="r"> are pro&shy;
+perly those people, which now do inhabite that king&shy;
+dome, which the Romanes and all ancient historians did
+call <f type="i">Gallia Celtica,<f type="r"> which at this day are called <f type="i">Franci,<f type="r"> The
+Frenchmen: But in the histories of the Saracans and Turks
+it hath a larger acceptation. <f type="i">Franci enim in recentiorum
+Gr&aelig;corum historijs, qu&aelig; res fefellit plurimos, non Galli sol&ugrave;m
+intelligendi sunt, sed Itali & Siculi: E&ograve; quod Sicili&aelig; regnum
+illis temporibus, & pars Itali&aelig; &agrave; Francis tenebatur.<f type="r"> By the
+<f type="i">Franci,<f type="r"> saith Iunius, in the histories of the latter Greeke
+writers, which is a matter that hath deceiued many, are
+not vnderstood the French-men onely, but the Italians &
+Sicilians: because that at that time the kingdome of Sici&shy;
+lia, yea & a part of Italy too, was possessed by the French.
+Yea in the letters of the king of Achem vnto our king, it
+signifieth the Spaniards: And I doubt not but generally
+they include in it all the Christians of the West.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alesalem"><f type="r">ALESALEM,</form> <xpln lang="en" lexeme="Alkoran(n)"><f type="i">Lex Dei salutaris,<f type="r"> Thus they say the Sa&shy;
+racens call the Alkoran. <f type="i">Ipsi autem Saraceni vocant eam
+(suba. legem) denominatiu&egrave; Elesalem, quod interpretatur Lex
+salutaris Dei, <expression lang="gk">[GREEK]</expression> The Saracens
+themselues do call their law <f type="i">Elesalem,<f type="r"> which by inter&shy;
+pretation is as much to say, as the law of saluation, or
+the law of God. If he had said, the law of damnation, and
+of the deuell, he had said well. <f type="i">Cydon. 131.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alfakih"><f type="r">ALFAKIH,</form> <xpln lang="en"><f type="i">Alfaqui, Fakih, Faqui,<f type="r"> or <f type="i">Faquinus,<f type="r"> as the
+learned Viues conceiueth it, is in the Mosquits or temples
+</page>
+
+<page sig="L2r">
+of the Mohametanes, one, that in the manner of a Priest,
+doth their diuine Seruice, readeth the Law, and doth in&shy;
+terpret and expound the same. In the plurall number they
+call them <f type="i">Elfocowah. <expression lang="gk">[GREEK]</expression>
+<expression lang="gk">[GREEK]</expression> <expression lang="la"><f type="r"><expan type="h.e.">hoc est</expan></expression> <f type="i">Elphocaa, id est, magni doctores, &
+expositores, Cydon.<f type="r"> 142. <f type="i">Summi apud eos,<f type="r"> saith Cantacuze&shy;
+nus, <f type="i">perditissimorum dogmatum doctores, <expression lang="gk">[GREEK]</expression>
+<expression lang="gk">[GREEK]</expression> <expression lang="la"><expan type="h.e.">hoc est</expan></expression> <f type="i">quos illi Helphocaa, id est, eximios
+nominant. Cantacu.orat.ij. Now what manner of men these
+be, the historians shall tell thee: <f type="i">Turcici sacerdotes, &agrave; laicis
+haud multum differunt: Satis enim illis est, si Alcoranum legere,
+& Turcic&egrave; ad verbum interpretari norint.<f type="r"> The Turkish priests
+do not much differ from their lay-men: For it is enough
+for them, if they can reade the Alkoran, and also interpret
+it word for word into Turkish. Which also M. Syluaticus
+doth affirme: <f type="i">Alfachi, est qui docet matrimonium contrahere
+Arabes; & qualiter debeant orare. Et est doctor legis, qui non
+probat quicqu<expan type="a+_">am</expan>. Nam pr&aelig;ceptis legis credere oportet sine argu&shy;
+mentatione.<f type="r"> Mutali <f type="i">ver&ograve; est philosophus, qui probat quod docet
+necessarijs argumentis.<f type="r"> An <f type="i">Alfakih,<f type="r"> saith Matt. Syluaticus, is
+he that amongst the Arabians doth solemnise mariages,
+and teacheth them how they ought to pray. He is a doctor
+or teacher of their law, but he need not prooue or de&shy;
+monstrate ought that he teacheth. For a man ought to be&shy;
+leeue the grounds of the law without any proofe. Now
+the <f type="i">Mutaali<f type="r"> is a Philosopher or scholar, which prooueth
+by necessary consequences that which he goeth about to
+teach.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alfaqvi"><f type="r">ALFAQVI,</form> <xpln lang="en"><xref>see <f type="i">Alfakih</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alfurkan"><f type="r">ALFVRKAN,</form> <xpln lang="en"><f type="i">Alphorkan, Furkan, Forchan,<f type="r"> the booke
+of the Law of Mohammed, that is the same that Alkoran
+is. Heare the Author of the booke intituled, <f type="i">De doctrina
+Mohammedis; Dic, inquit, si placet, quid misit Deus scriptum?
+Respondit sic, Quod? dicit, Alfurkan. Cur dictum Alfurkan?
+Dixit, quia discret&aelig; sunt sententi&aelig;, & figure eius. Est
+liber legis Arabum Alchoran,<f type="r"> saith Cardinall Cusa, <f type="i">ob pr&aelig;&shy;
+</page>
+
+<page sig="L2v">
+ceptorum collectionem: Atque Alfurkan, ob discretam capitum
+serparationem nominatus. pag. xxvi.<f type="r"> These lawes written by
+Mohammed, as they say, in schedules & litle scroles, were
+afterward by Omar digested into one volume; which by
+Othoman was reuised, corrected, & reduced into that or&shy;
+der and forme, as now we see to this day: For thus saith 
+mine Author: <f type="i">Omar collegit schedas Muamedis: Othmenus
+ver&ograve; in meliorem ordinem redegit, in capita distribuit, exijsque
+librum, qui Alkoran, siue Alfurkan vocatur, componi curauit,
+in quo omnia Muamedic&aelig; sect&aelig; dogmata & instituta conti&shy;
+nentur.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Algarbii"><f type="r">ALGARBII,</form> <xpln lang="en">or <f type="i">Garbij,<f type="r"> are a people belonging to the
+kingdome of Portugall, whose countrey or prouince
+where they dwel is called <f type="i">Regnum Algarbiorum.<f type="r"> The word
+signifieth, the Western-men. And indeed they possesse
+the vttermost part of Spaine toward the West. And for
+the same reason was the whole countrey called Spaine, of the
+Greeks, called <f type="i">Hesperia;<f type="r"> because it lieth not onely on the
+West of Italy; but is also of all the maine land or conti&shy;
+nent of Europe, the most Westerly part: yea of the whole
+world, I meane of that which was at that time knowne to 
+the Romanes or Greeks. This kingdome is bounded, as
+we haue said, vpon the West and South by the Ocean sea,
+vpon the East by the riuer Guadiana: how farre it exten&shy;
+ded Northward, he doth not tell, neither dare I deter&shy;
+mine. <f type="i">Sub Portugallia hoc tempore, ait doctissimus Ortelius,
+<f type="r">ALGABIAE <f type="i">regnum, qu&aelig; eius pars maritima est versus Me&shy;
+ridiem, pertinet. Eius enim Rex se Regem Portugalli&aelig; Al&shy;
+garbi&aelig;, Guine&aelig;, &AElig;thiopi&aelig;, Arabi&aelig;, Persi&aelig;, & Indi&aelig;, scribit.
+Hoc regnum prim&ugrave;m circa annum 1100 initium habuit. Ad ea
+enim vsque tempora sub Hispani&aelig; nomine, vti & antiquitus,
+censebatur Sic autem de eo Marineus scribit: Henricus quidam
+Lotharingi&aelig; Comes, vir in bello fortissimus, &egrave; Gallia veniens,
+magnas aduersus Mauros res gessit. Pro quibus Alfonsus VI,
+Castell&aelig; rex permotus, filiam suam notham, nomine Tiresiam,
+ei matrimonio collocauit: & Galleci&aelig; partem, qu&aelig; in regno Por&shy;
+</page>
+
+<page sig="L3r">
+tugalli&aelig; continetur, nomine dotis assignauit. Ex eo postea matri&shy;
+monio natus est Alphonsus, qui primus Portugalli&aelig; Rex est ap&shy;
+pellatus: Primus qui Vlixbonam &agrave; Mauris recepit. Quorum
+quinque simul regibus vno pr&aelig;lio superatis, quinque scutorum
+insigne facti monumentum reliquit.<f type="r"> To Portugal at this time,
+saith the learned Ortelius, doth belong the kingdome of
+the <f type="i">Algarbij,<f type="r"> which is the sea coast of it toward the South.
+For that king doth stile himselfe, King of Portugallia, Al&shy;
+garbia, Guinea, &AElig;thiopia, Arabia, Persia and India.
+This kingdome did first begin in the yeare of our Lord
+1100. For euen vnto that time, as anciently it hath bene,
+it was accounted as a part of Spaine. For thus doth Mari&shy;
+neus describe this history: One Henry Earle of Loraine, a
+valiant man, well experienced in warlike affaires, coming
+thither out of France, did great seruice against the Sara&shy;
+cens. For the which Alphonsus the VI , king of Castile
+gaue him in mariage a bastard daughter of his, called Ti&shy;
+resia, & withall did assigne in lieu of a dowrie, that part of
+Gallecia, which is contained within the kingdome of
+Portugall. Of this mariage did afterward spring Alphon&shy;
+sus which ws the first king of Portugall, and was he that
+recouered Lisbone out of the hands of the Moores. Who
+also ouercoming in one set battaile fiue of their kings in
+one day, left vnto his successors for the armes of that
+kingdome fiue scutcheons, for a memoriall of that hono&shy;
+rable atchieuement of his.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alhabasi"><f type="r">ALHABASI,</form> <xpln lang="en" lexeme="Abassini(pn)">or <f type="i">Alhaba&euml;s,<f type="r"> are those people which the
+Geographers commonly call Abassini, that is, the &AElig;thi&shy;
+opians, which at this day are for the most part vnder the
+gouernment and command of Prester Iohn, as they vul&shy;
+garly call him.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alhaccam"><f type="r">ALHACCAM,</form> <xpln lang="en"><xref>see <f type="i">Haccam</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alhage"><f type="r">ALHAGE,</form> <xpln lang="en">is a title of honour and dignitie amongst
+the Turkes, and is giuen to all such as haue visited the Al&shy;
+caaba or sepulcher of Mohammed: And therefore is an&shy;
+swerable to that degree of knight-hood amongst the
+</page>
+
+<page sig="L3v">
+Christians which they call <f type="i">Sancti sepulchri.<f type="r"> We may call
+them <f type="i">Knights of Mecha.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alhegira"><f type="r">ALHEGIRA,</form> <xpln lang="en" lexeme="flight(n)"><f type="i">Alhegire,<f type="r"> and <f type="i">Taricha'lhegira,<f type="r"> is the <f type="i">Epo&shy;
+cha<f type="r"> of the Mohammetists, or beginning of time from
+whence they beginne their account, as the Iewes do from
+the Creation, and the Christians from the birth of Christ.
+This <f type="i">&aelig;ra<f type="r"> or <f type="i">epocha<f type="r"> of the Arabians beginneth, as many do
+thinke, from the time that Mohammed their Prophet fled
+from Mecha, to Iethrab: ( following herein, as seemeth,
+the nature of the word, which signifieth a flight, or run&shy;
+ning away: ) or from the time of the first publication of 
+his cursed law, which the learned do rather applaud.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alkabis"><f type="r">ALKABIS,</form> <xpln lang="en"><xref>see <f type="i">Kabis</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alkibla"><f type="r">ALKIBLA,</form> <xpln lang="en"><xref>see <f type="i">Aba'lkibla</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Alkoran"><f type="r">ALKORAN,</form> <xpln lang="en"><f type="i">Alchoranus, Alchoranum, & sine articulo
+Korranus, Chorranum ,<f type="r"> the booke of the law of the false
+Prophet Mohammed: <expression lang="gk">[GREEK]</expression> saith Canta&shy;
+cuzenus, <expression lang="gk">[GREEK]</expression>
+<expression lang="la"><expan type="h.e.">hoc est</expan></expression> <f type="i">Liber Arabic&egrave; Korr&agrave;n nominatur: Latin&egrave;; ver&ograve; Lex Dei
+salutaris. Item alibi, <expression lang="gk">[GREEK]</expression> 
+hoc est, Retinense interprete, Collectionem Pr&aelig;ceptorum: Clu&shy;
+niacense autem, Collectaneum pr&aelig;ceptorum.<f type="r"> All of them do
+thus interpret the word; although falsly, as the learned
+can beare mee witnesse. For grammer doth teach vs,
+That the thema is not <f type="r">KARANA ,<f type="i">coniunxit , collegit ,<f type="r"> as
+they would make vs beleeue: but <f type="r">KARA ,<f type="r"> which signi&shy;
+fieth, to reade: So that <f type="i">Alkoran<f type="r"> in Arabicke is iust as much
+as <f type="i">Hammikr&agrave;<f type="r"> is in Ebrew; that is, The text , <f type="i">corpus iuris,<f type="r">
+the authenticall body of their law. As the Psalmes of Da&shy;
+uid in our Church , are read ouer euery moneth, that is,
+euery thirtie daies: and in the ancient Churches of the
+Greeks and Syrians, euery 20 daies: So is the Alkoran, by
+the decree of Omar, in their Mosquits read ouer once in a 
+moneth; <f type="i">Doctr. Mohammedis. Omar primus legem tu&shy;
+lit , vt in omnibus templis<f type="r"> (Mercitas, <f type="i">ipsi vocant<f type="r">) <f type="i">per totum
+Septembrem mensem supplicationes fierent.<f type="r"> Omar was the first
+</page>
+
+<page sig="l4r">
+that made a law, that in all their synagogues( <f type="i">Mesgids, <f type="r">they 
+call them ) prayers should bee read euery day through&shy;
+out the moneth of September. This moneth they call 
+<f type="i">Ramadhan, <f type="r">which also is their Lent: <f type="i">Ieiunium mensem totum
+seruari voluit , tantum<expan type="`q">que</expan> noctibus cibum capi.<f type="r"> They fast an
+whole moneth together, eating nothing all day long, but 
+in the night onely.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Almeden"><f type="r">ALMEDEN,</form> <xpln lang="en"><xref>see <f type="i">Elmeden</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="almohalla"><f type="r">ALMOHALLA,</form> <xpln lang="en" lexeme="camp(n)" lexeme="army(n)">signifieth the Campe, or an armie, that
+is, a company of souldiers led and conducted by one Ge&shy;
+nerall, and lodging within the same trenches.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Amir"><f type="r">AMIR,</form> <xpln lang="en" lexeme="commander(n)" lexeme="lieutenant(n)" lexeme="president(n)"><f type="i">Amira, Amiras,<f type="r"> or <f type="i">Admirans,<f type="r"> as some haue it,
+signifieth a commander, lieutenant or president. <f type="i">Imperium
+obinens,<f type="r"> or <f type="i">admirans regni,<f type="r"> as others interpret it. <f type="i">Athemate
+<f type="r">AMARA<f type="i">pr&aelig;cepit. Quidam Calyfa, creauit quatuor tribunos
+militum, vulgo Admirantes appellatos, quibus singulis multos
+duces & Centuriones at tribuit: Eosque quatuor duces Acutos
+Dei gladios nuncupauit.<f type="r"> One of the Chalifs created & made
+as the historians do testifie, foure lieutenants, (Amir's
+they call them,) which had the command and leading of 
+many Captaines and Centurions. These he called The
+sharpe swords of God. Herehence is that title of the kings
+of Barbary, one of whose titles is, <f type="i">Amira'lmowminin,<f type="r"> or as
+Leo Africanus doth conceiue and write it, <f type="i">Miralmumi&shy;
+nus, <f type="r">that is, <f type="i">Pr&aelig;ses fidelium,<f type="r"> The prouost of the faithfull. Of
+which one speaketh, <f type="i">Miralmuminus, qu&aelig; vox Princi&shy;
+pem credentium significat: Historici nostri corrupt&egrave; vocant Mi&shy;
+ramulinum. Primus omnium qui se hoc titulo insigniuit fuit A&shy;
+bedramon, qui Maroci vrbem maximam condidit.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="amiralius"><f type="r">AMIRALIVS,</form> <xpln lang="en">the Admirall. A title of honour, or
+name of an office hauing command and charge of sea bu&shy;
+sinesses, or of the Kings nauie. And therefore is compoun&shy;
+ded, as generally all the learned do affirme, of the Ara&shy;
+bicke word <f type="i">Amir,<f type="r"> aforesaid: and of <expression lang="gk">[GREEK]</expression> a greeke word,
+which signifieth <f type="i">Marinus,<f type="r"> of or belonging to the sea.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Antiochia"><f type="r">ANTIOCHIA</form> <xpln lang="en"><f type="i">Syri&aelig;,<f type="r"> one of the foure cities, which at
+</page>
+
+<page sig="l4v">
+this wicked impostor would haue the world beleeue, did
+come from hell into this world. <xref>See <f type="i">Elmeden</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Arabs"><f type="r">ARABES,</form> <xpln lang="en" lexeme="Arabian(n)"><f type="i">Arabes, Larbes,<f type="r"> are those people which 
+from the confusion of tongues inhabited that countrey
+of Asia, which is called Arabia. As the countrey is large,
+so haue these people spred themselues into many coun&shy;
+tries, made many conquests, and planted sundrie colonies,
+both in Asia and Africa. The Arabians, as Leo testifieth,
+are of three sorts: For either they are <f type="i">Arabi araha,<f type="r"> or
+<f type="i">Arabes arabici,<f type="r"> that is, true and naturall Arabians: or else
+they are <f type="i">Arabi mostaaraba, Arabes inarabati,<f type="r"> that is, <f type="i">Ara&shy;
+bes per accidens: quia non sunt Arabes natiui.<f type="r"> Or lastly they
+are <f type="i">Arabi Mustehgeme, Arabes Barbari.<f type="r"> Item, <f type="i">Mozarabes,<f type="r">
+are Arabians mingled with other nations. Item <f type="i">Mozara&shy;
+bica, hoc est,<f type="r"> as mine author doth informe me, <f type="i">cum Arabico
+mixta.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Asafii"><f type="r">ASAFII,</form> <xpln lang="en">a sect of Saracens subiecting themselues to
+Mohammeds lawes. <xref>See <f type="i">Melici</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Azzekom"><f type="r">AZZEKOM,</form> <xpln lang="en">or as it is sometime ignorantly written,
+<f type="i">Alzekom,<f type="r"> it is a tree whose fruite is exceeding bitter; of
+which the blasphemer saith, that the wicked shall feed on
+in hell. <f type="i">Mansio eorum ( intellige infidelium ) puteus Abyssi:
+Potus omni felle amarior: Cibus de arbore qu&aelig; appellatur A&shy;
+zachum [ali&acirc;s, Alzekon] & est omni pessimo sapore deterior:
+Author libri do H&aelig;res. Heraclij, &c. Item infra, Arbor Aza&shy;
+chum data est pro delectatione impijs. Ipsa est enim qu&aelig; in pro&shy;
+fundo Abyssi nascitur , cuius fructus quasi d&aelig;moniorum. De
+quo manducantes ventrem suum implebunt.<f type="r"> This is cited 
+out of the 37 Chapter of the Alkoran, which is intituled
+<f type="i">Assora Assaphet;<f type="r"> The words there according to Retinensis
+are these, <f type="i">Arbor Ezetus (tu scribe, Ezecus, vel recti&ugrave;s, Ez&shy;
+zecum ) ob malos plantata cyros, sicut diabolor<expan type="u+_">um</expan> capita gestans,
+& ex suaradice Gehenn&aelig; focum emittens. Vnde cibandi incre&shy;
+duli, ventres suos farciunt. pag.<f type="r">139.<f type="r"> Here you see one rare
+plant, to be added as a supplement vnto Clusius, or Mo&shy;
+nardus, which haue written of this argument.
+</xpln></wordentry>
+</page>
+
+<page sig="m1r">
+<wordentry type="h">
+<form lang="ar" lexeme="Azzoara"><f type="r">AZOARA,</form> <xpln lang="en"><f type="i">Azzoara, Assora,<f type="r"> is as much as a Chapter or
+section. See the Treatise following.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><f type="r">B
+
+<wordentry type="h">
+<form lang="ar" lexeme="Babe'lmandes"><f type="r">BABE'LMANDEB,</form> <xpln lang="en" lexeme="flood-gate(n)">(falsly written in all mappes, <f type="i">Ba&shy;
+belmandel<f type="r">) is the mouth of the Arabian gulfe, ( <f type="i">sinus Ara&shy;
+bicus,<f type="r"> or as the Arabians call it, <f type="i">Bahri'lkulzom<f type="r"> ) by which
+it openeth & falleth into the Red sea. See <f type="i">Nubiensis<f type="r"> Geo&shy;
+graphy. The word signifieth, The flood-gate.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Barak"><f type="r">BARAK,</form> <xpln lang="en"><f type="i">Borak, Albarak,<f type="r"> or as the Greeks do write it
+<expression lang="gk">[GREEK]</expression> <f type="i">Elmparac,<f type="r"> was the beast which Mohammed 
+rode vpon when he receiued his commission. <f type="i">Asserebat,<f type="r">
+saith Ricoldus, <f type="i">quod &agrave; Deo ad eum missus est Gabriel, ducens
+ad eum quoddam animal, maius quidem asino: minus autem
+mulo. Nomen autem animali erat Elmaparac. Loquebatur au&shy;
+tem animal, ambul&aacute;bat<expan type="q3">que</expan> in hora viam quinque millium anno&shy;
+rum; & h&aelig;c faciebat in nocte.cap.vij. See more of this beast&shy;
+ly fable, at the 14. Chapter of Ricold. Florent. Item see
+the 4 cration of Cantacuzenus.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="bar"><f type="r">BAR,</form> <xpln lang="en" lexeme="desert(n)">signifieth a desert or solitary place. It is the same
+that <f type="i">Sarra.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="bazestan"><f type="r">BAZESTAN,</form> <xpln lang="en" lexeme="hortyard(n)" lexeme="garden(n)">is an hortyard, or garden, as Bellonius 
+testifieth.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Bebe'lbahar"><f type="r">BEBE'LBAHAR,</form> <xpln lang="en">that is, <f type="i">Porta marina.<f type="r"> It is one of the
+suburbs of the city Tunis in Africa.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Bebe'lmanera"><f type="r">BEBE'LMANERA,</form> <xpln lang="en">is one of the suburbs of the citie
+Tunis.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Bebe'lsvvaica"><f type="r">BEBE'LSVVAICA,</form> <xpln lang="en">is one of the suburbs of the citie
+Tunis in Africa, which standeth neare vnto the place
+where sometimes Carthage stood.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="beld"><f type="r">BELD,</form> <xpln lang="en" lexeme="country(n)" lexeme="shire(n)" lexeme="province(n)"><f type="i">Belid, Bled,<f type="r"> or as the Spaniards do pronounce
+it, <f type="i">Velez,<f type="r"> signifieth, a countrey, shire or prouince ; and is
+preposed, as you see in the examples following, contrary
+to the vse of our English word shire.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Beld"><f type="r">BELD<f type="i">huneb, </form> <xpln lang="en">hoc est, ciuitas vel regio Zizyphorum,<f type="r"> a ci&shy;
+tie in Africa, so called, as Leo Africanus doth testifie, of 
+</page>
+
+<page sig="m1v">
+the abundance of Iuiubes which do grow thereabout.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Belidv'lgerid"><f type="r">BELIDV'LGERID,</form> <xpln lang="en" lexeme="locust(n)" lexeme="grasshopper(n)" lexeme="date(n)" lexeme="tamarind(n)"><f type="i">vel Bellidulgerida regio, hoc est,
+Locustarum regio;<f type="r"> not as some would haue it, and which 
+you shall find approoued generally by all Cosmogra&shy;
+phers, <f type="i">Dactylifera regio.<f type="r"> For <f type="i">Gerid<f type="r"> signifieth, a Locust or
+Grashopper. Truth it is, that here do grow the best and
+greatest plenty of Dates in the world, which the same
+Author doth auerre in these words: <f type="i">Secunda pars Afric&aelig;,
+qu&aelig; Latinis Numidia dicta erat, Arabibus bodi&egrave; Belidulgerid
+vocatur. H&aelig;c ea regio est qu&aelig; dactylos producit.<f type="r"> Yet it taketh
+not the name or denomination from thence: For then it
+should haue bene called <f type="i">Bleda'ttamar,<f type="r"> or <f type="i">Bleda'nnachel.<f type="r">
+For as in Ebrew, so in Arabicke, <f type="i">Tamar<f type="r"> with <f type="i">tau,<f type="r"> signifi&shy;
+eth a Date: so that the fruite that is called a Tamarind, is
+nothing else but a Date of India. It<expan type="e+_">em</expan>, the same fruit is in
+Arabicke named <f type="i">Nachel,<f type="r"> not <f type="i">Gerid,<f type="r"> as they would haue 
+vs beleeue.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Beitha'lmikdas"><f type="r">BEITHA'LMIKDAS,</form> <xpln lang="en" lexeme="Jerusalem(pn)"><f type="i">Domus sanctuarij.<f type="r"> Thus the Ara&shy;
+bians do vulgarly call Ierusalem. Neither do I remember 
+it called by any other name, but by the Christians, who
+do follow the steps of the writers of the bookes of the 
+holy Scripture.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="beithe'lmel"><f type="r">BEITHE'LMEL,</form> <xpln lang="en" lexeme="exchequer(n)" lexeme="treasury(n)"><f type="i">Bitelmel,<f type="r"> The exchequer, the treasury.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="beni"><f type="r">BENI,</form> <xpln lang="en" lexeme="son(n)" lexeme="nephew(n)" lexeme="grandchildren(n)">or <f type="i">Bani,<f type="r"> signifieth sonnes, or nephewes, that is,
+grandchildren. It is a word often read preposed before
+other words: which therefore do not properly signifie
+any set place: but rather some name of a family, nation,
+kindred, or <f type="i">cast<f type="r"> as they call it.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="bvanifi"><f type="r">BVANIFI,</form> <xpln lang="en">is one of the sects of Mohammetists. See
+<f type="i">Melici.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><f type="r">C
+
+<wordentry type="h">
+<form lang="ar" lexeme="Caaba"><f type="r">CAABA,</form> <xpln lang="en"><xref>see <f type="i">Alcaaba</xref>.
+</xpln></wordentry>
+</page>
+
+<page sig="m2r">
+<wordentry type="h">
+<form lang="ar" lexeme="caffila"><f type="r">CAFFILA,</form> <xpln lang="en" lexeme="convoy(n)">is the same almost that <f type="i">Karawan<f type="r"> is: that is
+to say, a conuoy, or company of men, with weapons hired
+to defend and gard others from the violence of theeues
+and robbers.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Cairo"><f type="r">CAIRO,</form> <xpln lang="en"><f type="i">Cairus,<f type="r"> <xref>see <f type="i">Alcair</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Carteia"><f type="r">CARTEIA,</form> <xpln lang="en">a citie in the South part of Spaine, neare
+to the promontory Calpe, now called <f type="i">Tarifa.<f type="r"> <xref target="tarifa">See <f type="i">Tarif</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="caravannaa"><f type="r">CARAVANNA,</form> <xpln lang="en" lexeme="caravan(n)">est frequens mulionum turma. A Carauan,<f type="r">
+is a great company of such as do driue Mules and Camels
+loden with some merchandise or other, saith Bellonius.
+<f type="i">Item<f type="r"> in another place he saith, <f type="i">Turc&aelig; magno numero per
+turmas, quas ipsi Carauannas nominant, incedunt.<f type="r"> The Turks
+do trauell and go together by great companies, which
+they call Carauans.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Casar"><f type="r">CASAR,</form> <xpln lang="en"><xref>see <f type="i">Alcasar</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Casar"><f type="r">CASAR <f type="i">elcabir,</form> <xpln lang="en">that is, <f type="i">Palatium magnum<f type="r"> or as Leo's
+interpreter hath, <f type="i">Palatium regium,<f type="r"> a great large towne,
+built as the same Author saith, by Mansor the King of
+Marocco. <xref>See <f type="i">Alcasar</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Casar"><f type="r">CASAR <f type="i">ezzaghir,</form> <xpln lang="en">that is, <f type="i">Pal&aelig;tium minus,<f type="r"> a citie in
+Barbarie built in the time of the aboue named Mansor, or 
+Almansor, king of Marocco.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Chalifa"><f type="r">CHALIFA,</form> <xpln lang="en" lexeme="successor(n)">Califa, Chalibas,<f type="r"> is the title of honor attri&shy;
+buted to the successors of Mohammed; it is commonly
+interpreted by the Historiographers <f type="i">Pontifex,<f type="r"> that is, Bi&shy;
+shop: The word signifieth a successour. <f type="i">Moriens Muame&shy;
+des Alim generum,<f type="r"> saith the history, <f type="i">successorem suum decla&shy;
+rauit, & Calyfam, hoc est, Pontificem, sect&aelig; su&aelig; esse voluit. I&shy;
+tem, Salinus (fort&egrave; Saladinus) &AElig;gypti imperium adeptus,
+edixit vt Calyf&aelig; &AElig;gypti vocarentur Sultani, qu&aelig; vox sum&shy;
+mum principem & regum regem significat.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Choran"><f type="r">CHORAN,</form> <xpln lang="en"><xref>see <f type="i">Alkoran</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Cudsi Mubarrak"><f type="r">CVDSI <f type="i">mubarrak,</form> <xpln lang="en" lexeme="Jersualem(pn)">that is, <f type="i">Sanctuarium benedictum,<f type="r"> is
+one of the names of Ierusalem; and is &aelig;quipollent to that
+which is more commonly vsed amongst them, <f type="i">Beith al&shy;
+mikdas,<f type="r"> that is, <f type="i">Domus sanctuarij.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><f type="r">D
+
+<wordentry type="h">
+<form lang="ar" lexeme="Dhi'lhagia"><f type="r">DHI'LHAGIA,</form> <xpln lang="en"><f type="i">Dilhaia, Dulhage,<f type="r"> the name of the
+twelfth moneth of the Arabian yeare, containing com&shy;
+monly but 29 dayes.
+</xpln></wordentry>
+</page>
+
+<page sig="m2v">
+<wordentry type="h">
+<form lang="ar" lexeme="Dhi'lkaada"><f type="r">DHI'LKAADA,</form> <xpln lang="en"><f type="i">Dilkada, Dulcada, Dulkada,<f type="r"> the name
+of the eleuenth moneth of the Arabian yeare, containing
+alwaies 30 daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Dhi'lkarnain"><f type="r">DHI'LKARNAIN,</form> <xpln lang="en"><f type="i">Duorum cornuum,<f type="r"> thus the Arabi&shy;
+ans do call the <f type="i">&AElig;ra<f type="r"> or <f type="i">Epocha<f type="r"> of Alexander the Great,
+that is, the computation of yeares from this time. See
+Caluisius, or Scalig. <f type="i">de Emend. tempor.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="diwar"><f type="r">DIWAR,</form> <xpln lang="en"><f type="i">Dwar,<f type="r"> a company of tents orderly placed in
+forme of a towne, in which a nation, family, or stocke
+descended from the same father, do dwell.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><f type="r">E
+
+<wordentry type="h">
+<form lang="ar" lexeme="Ehberam"><f type="r">EHBERAM,</form> <xpln lang="en">a city of Armenia, one of the foure which 
+came out of hell into this world. <xref>See <f type="i">Elmeden</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Elesalem"><f type="r">ELESALEM,</form> <xpln lang="en"><xref>see <f type="i">Alesalem</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Elmeden"><f type="r">ELMEDEN <f type="i">Chald&aelig;&aelig; ,</form> <xpln lang="en">one of the foure wicked cities,
+as the false Prophet Mohammed doth auerre, which came
+from hell into this world: <f type="i">Vastat,<f type="r"> saith he, <f type="i">ciuitas &AElig;gyp&shy;
+ti, Antiochia Syr&aelig;, Ehberam Armeni&aelig;, & Elmeden Chald&aelig;&aelig;,
+sunt quatuor ciuitates qu&aelig; in hunc mundum venerunt ex Infer&shy;
+no. Doctrin. Moham pag.<f type="r"> 196.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Elmvdevvana"><f type="r">ELMVDEVVANA,</form> <xpln lang="en"><f type="i">est magnum quoddam Saracenic&aelig; le&shy;
+gis volumen, quod Legum farraginem interpretantur. Item
+infr&agrave;,<f type="r">Elmudeuuana <f type="i">totius iuris corpus est: Vide Leonem.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Elmadina"><f type="r">ELMADINA,</form> <xpln lang="en"><f type="i">vel Elmedina, hoc est ciuitas,<f type="r"> as Leo in&shy;
+terpreteth it. <xref>See <f type="i">Medina</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Elphocaa"><f type="r">ELPHOCAA,</form> <xpln lang="en"><xref>see <f type="i">Alfakih</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><f type="r">F
+
+<wordentry type="h">
+<form lang="ar" lexeme="Frangi"><f type="r">FRANGI,</form> <xpln lang="en"><xref target="alefrangi">see <f type="i">Alephrangi</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Fokaa"><f type="r">FOKAA,</form> <xpln lang="en"><xref>see <f type="i">Alfakih</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Furkan"><f type="r">FVRKAN,</form> <xpln lang="en"><xref target="alfvrkan">see <f type="i">Alfurkan</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><f type="r">G
+
+<wordentry type="h">
+<form lang="ar" lexeme="Gabel"><f type="r">GABEL,</form> <xpln lang="en" lexeme="hill(n)">is a mountaine in Arabia. The word signifieth
+as Curio testifieth, an hill, and so it is the same with <f type="i">Gibel.
+</xpln></wordentry>
+</page>
+
+<page sig="m3r">
+<wordentry type="h">
+<form lang="ar" lexeme="Garbii"><f type="r">GARBII,</form> <xpln lang="en"><xref target="algarbii">see <f type="i">Algarbij</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Gezira"><f type="r">GEZIRA,</form> <xpln lang="en" lexeme="island(n)">or <f type="i">Giesera,<f type="r"> signifieth, as Leo testifieth, an
+Iland. Herehence do many and sundry places take their
+denomination, as <f type="i">Gezirat Eldeheb, Insula aurea,<f type="r"> in Egypt.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Geseir"><f type="r">GESEIR,</form> <xpln lang="en"><f type="i">hoc est, Algira. Geseir autem Afris, atque nobis,<f type="r">
+saith <f type="r">Leo, <f type="i">insulam sonat, sic dicta quod insulis Maioric&aelig;,
+Minoric&aelig; & Geuis&aelig; adi&aelig;ceat.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Gezira"><f type="r">GEZIRA <f type="i">Taref,</form> <xpln lang="en">(not <f type="i">Gelzira,<f type="r"> as there you shall find it
+falsly written) <f type="i">est insula parua in sinu Calp&aelig;, qu&aelig; &agrave; Tarife di&shy;
+cta est.<f type="r"> <xref target="tarifa">See <f type="i">Taref</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Giebel"><f type="r">GIEBEL,</form> <xpln lang="en" lexeme="mountain(n)">or <f type="i">Gibel,<f type="r"> the name of diuerse places in Eu&shy;
+rope, Africa, and Asia. The word signifieth a mountaine. 
+Herehence the name of the mouth of the narrow seas,
+( <f type="i">Fretum Gaditanum,<f type="r"> the Straights ) is after the Arabicke
+name vulgarly, by the seamen & others called <f type="i">Estrecho de
+Gibraltar, strictum Zibeltar, <f type="r">or <f type="i">Zibeltara, <f type="r">as some call it. See
+<f type="i">Tarif.<f type="r"> The famous hill in Sicilia, of the ancients called
+&AElig;tna, is now called <f type="i">Mon-gibello.<f type="r"> &c. Item, <f type="i">Gabel elhadi&shy;
+dus<f type="r"> (not <f type="i">Gebelehadichus,<f type="r"> as it is there falsly written) that
+is, <f type="i">Mons ferreus,<f type="r"> is an hill in Arabia Felix, as I remember.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Giumaa"><f type="r">GIVMAA,</form> <xpln lang="en">is in Arabicke the name of the Turkes sab&shy;
+bath, which alwaies is our Friday. The word signifieth
+<f type="i">Conuentum, congregationem; quasi dicas, Diem conuentus. Di&shy;
+em veneris,<f type="r"> saith a learned man, <f type="i">Arabes appellant Diem con&shy;
+gregationis, qu&ograve;d ea die in templis suis ad sacra peragenda, con&shy;
+gregari soleant.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Annus Aliema"><f type="r">ANNVS <f type="i">Aliema,</form> <xpln lang="en">is a certaine yeare, much celebrated
+amongst the Mohammetanes or Turks, of which yeare
+their Chronographers do thus speake, <f type="i">Hic Moauui pace
+firmata, communi fauore sublimatus, omnia redegit in melius.
+Ad quem omnes Orientales & Occidentales confluxerunt, illi
+parentes. Annum autem in quo contigit illud, annum Aliema, id
+est, annum congregationis, appellarunt.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Giumadi ewel"><f type="r">GIVMADI <f type="i">ewel ,</form> <xpln lang="en">the first <f type="i">Giumadi ,<f type="r"> that is, the fifth
+moneth of the Arabian yeare, containing 30 dayes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Giumadi achar"><f type="r">GIVMADI <f type="i">achar,</form> <xpln lang="en">The latter <f type="i">Giumadi, <f type="r">that is, the sixth
+</page>
+
+<page sig="M3v">
+moneth of the Arabian yeare, containing but 29 dayes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Algezira"><f type="r">ALGEZIRA <f type="i">d'alfrada,</form> <xpln lang="en">(or as it is written, <f type="i">Alzira Dal&shy;
+frada<f type="r">)that is, as I conceiue it, <f type="i">Insula freti,<f type="r"> is the Il<expan type="a+_">an</expan>d Gadiz
+on the cost of Spaine. <f type="i">Est insula qu&aelig; olim Gades, in exteriore
+Oceano, prop&egrave; fretum, sita.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Gwadi"><f type="r">GWADI,</form> <xpln lang="en">signifieth a riuer: And hereof the riuer B&aelig;tis,
+which runneth by Siuill in Spaine, is to this day called
+<f type="i">Guadi'lkebir,<f type="r"> that is to say, The great riuer.	<emend err="Item"></emend>,
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Gwadi"><f type="r">GWADI,</form> <xpln lang="en">and <f type="i">Gwadiana,<f type="r"> The riuer Anas, that runneth
+along by the east of te Algarbij.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Guadalagira"><f type="r">GVADALAGIRA,<f type="r"> </form> <xpln lang="en">a place neare to Medina.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Guadalgvibir"><f type="r">GVADALGVIBIR,</form> <xpln lang="en">the same that <f type="i">Guadalkebir<f type="r"> is.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><f type="r">H
+
+<wordentry type="h">
+<form lang="ar" lexeme="haccam"><f type="r">HACCAM,</form> <xpln lang="en"><f type="i">Alhaccam, <f type="r">a Iudge; It answereth to that of&shy;
+fice which we do call the Maior and Bayliffe of a towne
+or corporation. It differeth much from <f type="i">Kadi,<f type="r"> or <f type="i">Alkadi,<f type="r">
+which signifieth also a Iudge: For this is an honourable
+title, giuen onely vnto the Nobility. The Haccams oft&shy;
+times are men of meaner degree.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Haleb"><f type="r">HALEB,</form> <xpln lang="en"><f type="i">Heleb, Halep,<f type="r"> is that famous city or mart&shy;
+towne, which we commonly call <f type="i">Haleppo, <f type="r">or <f type="i">Aleppo. Haleb
+vel Halep, <f type="r">saith Bellonius, <f type="i">totius orientis maximum empori&shy;
+um, est caput Comagenes. Ex neotericis nonnulli, veterum Hie&shy;
+rapolim esse existimant. At P. Gillius Berrh&oelig;am esse censet.<f type="r">
+And in deed the Arabian paraphrast of the new Testa&shy;
+ment, for Berrh&aelig;a, wheresoeuer he found it, did translate
+it <f type="i">Haleb.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Haram"><f type="r">HARAM,</form> <xpln lang="en"><f type="i">Haran, Elharam, Elaram,<f type="r"> is a temple in Me&shy;
+cha, built as they do verily beleeue, by Abraham the Pa&shy;
+triarch. Of which the deceiuer speaketh in the Chapter A&shy;
+braham, on this manner: <f type="i">Templum Haram &aelig;dificatum est in
+terra Aman.<f type="r"> Where Bookman in the margent hath these
+words; <f type="i">Amonitidi attribuit Mecham, Geographi&aelig; imperitus.<f type="r">
+But if I be not deceiued, in the Arabicke it is <f type="i">Ayaman,<f type="r">
+which is the name whereby Arabia Felix is knowne to 
+</page>
+
+<page sig="m4r">
+these people. Item, the authour of the booke intituled <f type="i">De
+Gener. Moham.<f type="r"> of this place writeth thus; <f type="i">Fibeit Alharam
+( hoc est, in domo, Haram ) idolum adorans, repent&egrave; resonante va&shy;
+lido fragore perterritus est.<f type="r"> That is, worshiping the idoll A&shy;
+bel in the temple Haram, hee was affrighted at a great
+cracke of thunder, which suddeinly then happened.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Helaram"><f type="r">HELARAM,</form> <xpln lang="en"><xref>see <f type="i">Haram</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Helphocaa"><f type="r">HELPHOCAA,</form> <xpln lang="en"><xref>see <f type="i">Alfakih</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Hierusalem"><f type="r">HIERVSALEM,</form> <xpln lang="en">was one of the three cities, which, as
+the impostour feigneth, came from Paradise, into this
+world. <f type="i">De doctr. Moham. pag. 196.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><f type="r">I
+
+<wordentry type="h">
+<form lang="ar" lexeme="Iesrab"><f type="r">IESRAB,</form> <xpln lang="en">or more truly <f type="i">Iethrab, Ietripum, <f type="r">and sometime
+<f type="i">Itraripum, Mecc&aelig; vrbis agri oppidum,<f type="r"> as the historians do
+tell vs, was one of the three cities, which as Mohammed 
+would haue vs beleeue, came out of Paradise into this
+world. <f type="i">De doctrin. Moham. pag. 196.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Iersalem"><f type="r">IERVSALEM,</form> <xpln lang="en">see <f type="i"><xref target="hiervsalem">Hierusalem</xref>,<f type="r"> and <f type="i"><xref target="beitha'lmikdas">Beita'lmikdas</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Iethrab"><f type="r">IETHRAB,</form> <xpln lang="en"><xref>see <f type="i">Iesrab</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><f type="r">K
+
+<wordentry type="h">
+<form lang="ar" lexeme="Kabis"><f type="r">KABIS,</form> <xpln lang="en">or <f type="i">Alkabis,<f type="r"> is a mountaine in Arabia Felix, not
+farre from Mecha.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Kadi"><f type="r">KADI,</form> <xpln lang="en"><f type="i">Cadi, Alkadi, Alkad,<f type="r"> The Lord chiefe Iustice. A
+title of honour and high esteeme amongst the Arabians
+of Barbary. It is of greater honour then that of the Alhac&shy;
+cam; which is like as is with vs the Maior of a city. All the
+noblemen, as I take it, are thus stiled. For all of them haue
+this kind of authority giuen vnto them from the King. In
+the history of the warres of Barbary, it is taken for the
+kings lieutenant, and commander of his forces by land.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="kantar"><f type="r">KANTAR,</form> <xpln lang="en"><f type="i">Kintar, Cantarus,<f type="r"> an hundred weight. The
+greatest weight amongst the Arabians of Barbary, c<expan type="o+_">on</expan>tai&shy;
+ning an hundred pound weight; so called as I take it, of 
+the latine word <f type="i">Centum. Vncia illis,<f type="r"> saith mine Author, <f type="i">est
+qualis est Italis: ver&ugrave;m libra octo & decem capti vncias, voca&shy;
+</page>
+
+<page sig="m4v">
+tur<expan type="'q3">que</expan> eorum lingua<f type="r"> Rethl. <f type="i">Centum ver&ograve; Rethl<f type="r"> Cantarum <f type="i">v&shy;
+num efficiunt.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Kaph"><f type="r">KAPH,</form> <xpln lang="en">is a mountaine I know not where situate; but
+heare our fablers description of it. <f type="i">Procede,<f type="r"> inquit, <f type="i">& ex&shy;
+pone, ( hoc est, perge mentiri ) cur c&oelig;lum dictum est c&oelig;lum? R.
+Ideo quidem quia de fumo creatum: Fumus ver&ograve; vaporis ma&shy;
+ris, &c. Quid ergo habet quod viride est? R. Ex monte Kaf.
+Mons enim Kaf ex Smaragdis Paradisi, qui mons orbem terr&aelig;
+cingens, c&oelig;lum sustinet, &c. De doct. Moham. pag. <f type="r">192.<f type="I"> &
+Cydon.<f type="r"> 128. is not this a strange kind of Philosophy?
+Moreouer &AElig;thicus, I am sure, hath not recorded this
+mountaine amongst those famous hils of the world.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="karawan"><f type="r">KARAWAN,</form> <xpln lang="en" lexeme="caraban(n)"><f type="i">Caraban, <f type="r">a company of merchants going
+together for trading, with a great number of Horses, Ca&shy;
+mels, and Mules, loden with merchandise or other com&shy;
+modities. <xref target="caravanna">See <f type="i">Carawan</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Kasava"><f type="r">KASAVA,</form> <xpln lang="en"><f type="i">Alcasaua,<f type="r"> is the name of the kings house in
+Marocco.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Korran"><f type="r">KORRAN,</form> <xpln lang="en"><xref>see <f type="i">Alkoran</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><f type="r">M
+
+<wordentry type="h">
+<form lang="ar" lexeme="mamaluchi"><f type="r">MAMALVCHI,</form> <xpln lang="en" lexeme="servant(n)" lexeme="slave(n)">were the souldiers of the Souldan of
+Babylon. <f type="i">Sultani milites, <f type="r">saith Cardinall Cusa, <f type="i">Mamaluchi
+vocabantur.<f type="r"> The word signifieth seruants or slaues : that
+is, the kings vassals.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="marsa"><f type="r">MARSA,</form> <xpln lang="en" lexeme="haven(n)">saith mine Author, signifieth an hauen, or
+port. Herehence <f type="i">Mersa'lcabir, id est, latissimus portus,<f type="r"> is the
+name of a large and capacious hauen in Africa, <f type="i">qu&aelig;tamen
+est male fida carinis,<f type="r"> as Leo testifieth.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Portus Marsa"><f type="r">PORTVS <f type="i">Marsa,</form> <xpln lang="en">vel Burgi, <f type="r">that is, <f type="i">Turris portus, <f type="r">a port
+in Alexandria.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Marsa essilsela"><f type="r">MARSA <f type="i">essilsela, </form> <xpln lang="en">Portus caten&aelig;,<f type="r"> The chaine port: Ano&shy;
+ther port there.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Mecha"><f type="r">MECHA,</form> <xpln lang="en">a city of Arabia Felix ( <f type="i">Ayamen<f type="r"> they call it )
+to which from all places of Turky, they make their yearly
+peregrinations, to visite the tombe of Mohammed. In
+this city is the temple Haram, so often mentioned in the
+</page>
+
+<page sig="n1r">
+Alkoran, and in the histories of the Turks and Saracens.
+<xref>See <f type="i">Haram</xref>.<f type="r"> Here also is the Alcaaba. It is one of the three
+cities which, as our fabler doth affirme, came out of Pa&shy;
+radise into this world. Iethrab and Ierusalem were the o&shy;
+ther two. <f type="i">De doctr. Moham. pag. 196.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Medina"><f type="r">MEDINA <f type="i">Almeid&aelig;,</form> <xpln lang="en">a citie in Spaine, so called, as Leo
+affirmeth of a strange table which was kept there. <f type="i">Medina
+Almeid&aelig;, vrbs &agrave; mensa quadam, qu&aelig; ex vnica gemma viridi,
+instar smaragdi, constabat, in ea reperta, Arabum lingua nomen
+accepit.<f type="r"> see <f type="i">Almedina,<f type="r"> and <f type="i">Assora'lmaida.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Medinata'lnaby"><f type="r">MEDINATA'LNABY,</form> <xpln lang="en">or more truly <f type="i">Medinata'nnaby,<f type="r">
+that is, the city of the Prophet, is a city of Arabia Felix.
+But whether it be Iethrab, or Mecha, or a third city diffe&shy;
+rent from both, I dare not for certaine affirme.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Melici"><f type="r">MELICI,</form> <xpln lang="en">are a sect or faction of Mohammetans , or
+Saracens professing Mohammeds religion. <f type="i">Melici,<f type="r"> saith
+Curio, <f type="i">Alafij, Alambeli, & Buanifi sunt quatuor sect&aelig; Sara&shy;
+cenorum. Afri sunt, Melici: Arabes & Damasceni, Asafij:
+In Cairo ver&ograve; maxima &AElig;gypti vrbe omnes sect&aelig;, nemine re&shy;
+pugnante, vigent.<f type="r"> In this Cair is like vnto Amsterdam.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="mesgied"><f type="r">MESGIED,</form> <xpln lang="en"><f type="i">Mesged, Mescita, Meskita, Mesquita, Mos&shy;
+quita,<f type="r"> signifieth a Church, Temple, or Synagogue of the
+Mohammetanes , where they meete & performe all their
+superstitious seruice vnto their idoll. <f type="i">Turcarum phanum si&shy;
+ue templum Mesquita dicitur.<f type="r"> In Arabia Felix there is a 
+temple neare vnto Cufa, where Aly, one of the successors
+of Mohammed was buried; Which therefore is called 
+<f type="i">Masged-Aly,<f type="r"> that is, <f type="i">templum Aly.<f type="r"> The historians do falsly
+write it <f type="i">Massadale.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Mesquita"><f type="r">MESQVITA,</form> <xpln lang="en"><f type="i">Mosquita,<f type="r"> <xref>see <f type="i">Mesgied</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Mohammed"><f type="r">MOHAMMED,</form> <xpln lang="en">( <f type="i">Mem<f type="r"> being doubled by <f type="i">Teshdid<f type="r">) Mo&shy;
+hammed, Muhammedes, Muamedes, MOhammetus, Macho&shy;
+med, Moammetus ,<f type="r"> was the name of that famous impo&shy;
+stour and seducer of the Arabians or Saracens, the first au&shy;
+thor I meane and inuentor of the Alkoran and lawes of
+</page>
+
+<page sig="n1v">
+that superstitious faction. He was borne in Arabia, as the
+Historiographers do report, on the 22 day of Aprill ( <f type="i">x.
+Kal. Maij<f type="r"> ) in the yeare after the birth of Christ 596 : He
+died on the 13 of March ( <f type="i">3. Id. Martij<f type="r"> ) in the yeare of
+our Lord 637 , being of the age of 41 yeares, and hauing
+reigned 10. He was buried in Mecha, a city of Arabia
+Felix.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Moharram"><f type="r">MOHARRAM,</form> <xpln lang="en"><f type="i">Muharam, <f type="r">and with the article, <f type="i">Almu&shy;
+haram, <f type="r">the name of the first moneth of the Arabian Kalen&shy;
+dar, containing 30 daies. <f type="i">Amir autem filius lezid illud per&shy;
+cipiens, obuius illum deuicit, & in Alcuph&aelig; confinio peremit,
+die decimo Almuharan.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Mosquita"><f type="r">MOSQVITA,</form> <xpln lang="en"><xref>see <f type="i">Mesgied</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Muley"><f type="r">MVLEY,</form> <xpln lang="en"><f type="i">Muleius,<f type="r"> a title of honour signifying as much
+as Lord, or Commander. I do not find it giuen or attri&shy;
+buted to any but those of the kings stocke.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Muslim"><f type="r">MVSLIM,</form> <xpln lang="en">or <f type="i">Mussliman, <expression lang="gk">[GREEK]</expression> Mussulmannus,<f type="r"> is
+one that is instructed in the beleefe of the Mohamme&shy;
+tanes. <f type="i">Terrore perculisi multi mandato paruerunt,<f type="r"> saith Can&shy;
+tacuzenus, <f type="i">& salui facti &agrave; sanguinis effusione, & rapina, &
+nominabantur Saluati, seu Musselmani; p. 64. Item alibi, Om&shy;
+nes hanc fidem tenentes, Mussilmannos, scilicet san&aelig; fidei homi&shy;
+nes nominantur.<f type="r"> Yet I confesse that the learned Bellonius,
+who had conuersed long with this sect, telleth vs that this
+name is giuen to euery one that is circumcised, and that
+at the time of the performance of this ceremony: But
+so, as none is to be admitted before he shall be able to an&shy;
+swer vnto certaine questions, which then are demanded
+of him: His words, to this purpose, are these: <f type="i">Circumci&shy;
+duntur Turc&aelig;, non octauo die, quemadmodum Ind&aelig;i: Sed octa&shy;
+uo anno, duodecimo, vel decimoquinto &aelig;tatis anno, vel maturi&shy;
+&ugrave;s, vel seri&ugrave;s, pro rei opportunitate. Pueri enim non circumci&shy;
+duntur donec tam grandes sint, vt circumcisori respondere que&shy;
+ant. Eos in templo circumcidere non licet: sed in parentum &aelig;di&shy;
+bus. Quoniam incircumcisi templ<expan type="u+_">um</expan> ingredi non possunt, &c. C&aelig;&shy;
+ter<expan type="u+_">um</expan> a circumcisione nomen pueri non immutatur: sed id reti&shy;
+</page>
+
+<page sig="n2r">
+net quod illi in natiuitate inditum fuerat, addita sol&ugrave;m voce
+Mussulma, hoc est, Verus Turca circumcisiss. Musslim, <f type="r">there&shy;
+fore, or <f type="i">Musliman, <f type="r">is vsed amongst them in the same sence,
+as we vse the word <f type="i">Christianus, vel Catholicus,<f type="r"> whereby we
+do signifie a member of the Church, one ingrafted or in&shy;
+corporated into the mysticall body of Christ.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Mussliman"><f type="r">MVSSLIMAN,</form> <xpln lang="en"><f type="i">Musslimannus,<f type="r"> <xref target="mvslim">see <f type="i">Muslim</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Mushwart"><f type="r">MVSHWART,</form> <xpln lang="en">or <f type="i">Mushward,<f type="r"> is the king of Maroccos
+hall, or Great chamber. where the Lords, Gentlemen, &
+Gard do attend the seruice and command of their Soue&shy;
+raigne.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><f type="r">N
+
+<wordentry type="h">
+<form lang="ar" lexeme="nadir"><f type="r">NADIR,</form> <xpln lang="en" lexeme="nadir(n)" lexeme="zenith(n)"><f type="i">Nathir,<f type="r"> is that point in the heauen, which is
+opposite vnto the <f type="i">Zenith,<f type="r"> or that point which is directly 
+ouer our head. <f type="i">Zenith,<f type="r"> saith Christmannus, <f type="i">quem Arabes
+scribunt Semith, vertex capitis est, seu polus horizontis: Punct<expan type="u+_">um</expan> 
+vertici oppositum appellant Nathir, quasi dicas, punctum simile:
+Est enim illud quasi alter polus horizontis, nobis depressus.<f type="r">
+That is, Zenith, which the Arabians do write Semith, is
+the point ouer our heads, or pole of the Horizont. The
+point that is opposite to this, they call <f type="i">Nathir<f type="r"> ( or Nadir)
+as one would say, The like point. For that is as it were the 
+other pole of the Horizont vnder vs.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><f type="r">O
+
+<wordentry type="h">
+<form lang="ar" lexeme="Osmenus"><f type="r">OSMENVS,</form> <xpln lang="en">a proper name of a man amongst the Ara&shy;
+bians; which is diuersly conceiued of the historians, some
+writing <f type="i">Vsmen<f type="r">; others <f type="i">Othman,<f type="r"> or <f type="i">Othoman.<f type="r"> It was the
+name of the first Emperour of the Turks , which first
+wrung the scepter out of the hands of the Saracens.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><f type="r">P
+
+<wordentry type="h">
+<form lang="ar" lexeme="Phatimi"><f type="r">PHATIMI,</form> <xpln lang="en">one of the titles of the kings of Barbary.
+The word signifieth <f type="i">Ablactatus,<f type="r"> wained, one newly taken
+from the mothers or nources breast. But in this place I
+suppose it to bee deriued from Phatima, the name of a 
+woman of the posterity of Mohammed, from whom these
+</page>
+
+<page sig="n2v">
+kings do fetch their pedigree. I determine nothing , let
+those which are more conuersant in these stories bee
+iudge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Phrangi"><f type="r">PHRANGI,</form> <xpln lang="en"><xref target="alefrangi">see <f type="i">Alphrangi</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Phurkan"><f type="r">PHVRKAN,</form> <xpln lang="en"><xref target="alfvrkan">see <f type="i">Alfurkan</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><f type="r">R
+
+<wordentry type="h">
+<form lang="ar" lexeme="Ramadhan"><f type="r">RAMADHAN ,</form> <xpln lang="en">the ninth moneth of the Arabian Ka&shy;
+lendar, containing 30 daies. This moneth they fast, as we
+do in Lent.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Rabie ewel"><f type="r">RABIE<f type="i">ewel,</form> <xpln lang="en">Rabie the first ; The name of the third
+moneth of the Kalendar of the Arabians, containing 30
+daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Rabie achar"><f type="r">RABIE<f type="i">achar,</form> <xpln lang="en">Rabie the latter. The name of the fourth
+moneth of the Arabian yeare, containing 29 daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Regiab"><f type="r">REGIAB ,</form> <xpln lang="en">the seuenth moneth of the Arabians, con&shy;
+taining 30 daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="rethl"><f type="r">RETHL,</form> <xpln lang="en" lexeme="rethl(n)" lexeme="cantar(n)" lexeme="kintar(n)">is a kind of weight which answereth to our
+pound; it containeth 18 ounces. <f type="i">Libra,<f type="r"> saith Curio, <f type="i">capit
+18 uncias, Tethlam ( male, pro Rethlam ) illi vocant. Vncia il&shy;
+lis est,<f type="r"> saith Bellonius, <f type="i">qualis est Italis : Ver&ugrave;m libra octo &
+decem capit Vncias, vocatur<expan type="q3">que</expan> eorum lingua Rethl. Centum ve&shy;
+r&ograve; Rethl Cantarum vnum efficiunt.<f type="r"> A pound weight which
+they call Rethel, containeth 18 ounces. Their ounce, saith
+Bellonius, is the same with the Italian ounce. But their
+pound containeth 18 ounces. This they call in their lan&shy;
+guage Rethel. Now an hundred Rethels do make a Can&shy;
+tar, or Kintar as some do pronounce it, that is, an hundred
+weight.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><f type="r">S
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sahara"><f type="r">SAHARA,</form> <xpln lang="en" lexeme="sands(n)" lexeme="wilderness(n)" lexeme="desert(n)">The stonie countrey, the sands: the same al&shy;
+most that <f type="i">Sarra<f type="r"> is: that is, a wildernesse or desart, vntilled
+and vnhabited, by reason that it is nothing but rocks, and
+ouerspread with sand.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="saliba"><f type="r">SALIBA,</form> <xpln lang="en" lexeme="cross(n)" lexeme="cross-staff(n)"> <expression lang="gk">[GREEK]</expression>, <expression lang="la">claua militaris, quia dentes vel cultri</expression> 
+<expression lang="gk">[GREEK]</expression>, <expression lang="la">scapo adharentes in omnes partes vulnerant.</expression> <f type="r">Saliba is
+</page>
+
+<page sig="n3r">
+a kind of souldiers weapons, or holy water sprinkle, as we
+call it, a kinde of club , which hauing diuerse spikes put
+crosse wise into the staffe , woundeth and hurteth which
+way soeuer you strike. We might call the crosse staffe by
+this name: For <f type="i">Salib<f type="r"> in this language signifieth a crosse.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Salie"><f type="r">SALIE,</form> <xpln lang="en" lexeme="orison(n)">The Orisons. The Turks in 24 houres, do go
+sixe times to prayers: The first time is, as they write, about
+two houres before day, and is called <f type="i">Sallie :<f type="r"> When as the
+Moudon from the top of the steeple cryeth with a loud
+voice <f type="i">Allah cabir, la allah, illa ilellah,<f type="r"> that is, God is almigh&shy;
+ty , there is no God, but the Lord. The second they call
+<f type="i">Sabaha'lhhair:<f type="r"> The third, <f type="i">Dahour:<f type="r"> The fourth, <f type="i">Lashour:<f type="r"> The
+fift, <f type="i">Mogrubey:<f type="r"> The sixth, <f type="i">Lashahara.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sarra"><f type="r">SARRA,</form> <xpln lang="en" lexeme="desert(n)" lexeme="wilderness(n)"><f type="i">Serra ,<f type="r"> or as the Spaniards do pronounce it,
+<f type="i">Sierra,<f type="r"> a desart place, a wildernesse. Diuerse places in A&shy;
+frica , and elsewhere, are called by this name: but espe&shy;
+cially that which was formerly called Lybia, is now na&shy;
+med Sarra , as the Cosmographers with one consent do
+teach vs. <f type="i">Tertia pars Afric&aelig;,<f type="r"> saith our Author, <f type="i">qu&aelig; Lybia La&shy;
+tinis. Arabica lingua non aliter quam Sarra appellatur, qu&aelig;
+vox idem quod desertum significat.<f type="r"> The third part of Africa,
+which the Latines called Libya, in the Arabicke tongue
+is called no otherwise then Sarra, which word in that lan&shy;
+guage signifieth a desert or wildernesse.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sarraceni"><f type="r">SARRACENI ,</form> <xpln lang="en" lexeme="rob(v)" lexeme="steal(v)"><f type="i">Sarazins, Sarrasins,<f type="r"> are those people
+which otherwise of the Ancients were called <f type="i">Arabes,<f type="r"> A&shy;
+rabians. Neither were they so named of <f type="i">Sara,<f type="r"> Abrahams
+wife, as some men do thinke, but of <f type="i">Saraka,<f type="r"> which signi&shy;
+fieth <f type="i">Furari,<f type="r"> to rob or steale. And indeed the Arabians
+haue bene and are to this day accounted great sharkers
+and robbers.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Scecus"><f type="r">SCECVS,</form> <xpln lang="en"><xref>see <f type="i">Sheich</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sharif"><f type="r">SHARIF,</form> <xpln lang="en"><xref target="sherif">see <f type="i">Scherif</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Seedi"><f type="r">SEEDI,</form> <xpln lang="en" lexeme="lord, my(n)">a name or title of honour, yet attributed vnto
+meane persons. It signifieth, My lord. The word is vsed in
+all respects as <f type="i">Monsieur,<f type="r"> the French word, or <f type="i">Sir,<f type="r"> the En&shy;
+glish.
+</xpln></wordentry>
+</page>
+
+<page sig="n3v">
+<wordentry type="h">
+<form lang="ar" lexeme="Seeda"><f type="r">SEEDA,</form> <xpln lang="en">a Lady, Madame. The same that <f type="i">Seedi<f type="r"> is, one&shy;
+ly differing in gender.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Semith"><f type="r">SEMITH,</form> <xpln lang="en"><xref>see <f type="i">Zenith</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sephar"><f type="r">SEPHAR ,</form> <xpln lang="en">the second moneth of the Arabian yeare,
+containing 29 daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Shaaben"><f type="r">SHAABEN ,</form> <xpln lang="en">the eight moneth of the Arabian Kalen&shy;
+dar, containing 29 daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sheich"><f type="r">SHEICH,</form> <xpln lang="en" lexeme="old(a)" lexeme="ancient(a)"><f type="i">Scechus, Scechus,<f type="r"> or after the Spanish man&shy;
+ner of writing and pronuntiation , <f type="i">Xechus ,<f type="r"> and <f type="i">Xaichus:<f type="r">
+a title of honour attributed to none but men of desert.
+<f type="i">Sceci,<f type="r"> saith Honiger, <f type="i">sunt Reguli, qui regiones & vrbes insig&shy;
+niores, circa oram pr&aelig;sertim, possident. Schech's<f type="r"> are the kings
+lieutenants, which haue the gouernment of countries and
+chiefe cities, especially those which are vpon the sea coast.
+Another saith, that it is a title giuen alwaies to the eldest
+of the kings sonnes. This I dare not for truth affirme: <f type="i">sit
+fides penes authores.<f type="r"> This is certaine, that the first of this fa&shy;
+mily that now reigneth in Barbary was stiled, <f type="i">Muley Mo&shy;
+hammed Sheich.<f type="r"> The word signifieth as much as <f type="i">Senex,
+<expression lang="gk">[GREEK]</expression>,<f type="r"> old, ancient.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sherif"><f type="r">SHERIF,</form> <xpln lang="en" lexeme="noble(a)" lexeme="honourable(a)" lexeme="seriph(n)"><f type="i">Sharif, Sharifius,<f type="r"> or as the Spaniards do
+write it, <f type="i">Xerif, Xerifius, Xarifius.<f type="r"> It was the name of the
+great-grandfather, as I take it, of Muley Seedan that now
+reigneth in Fesse and Marocco, who by his wealth and
+wisedome did aduance his family vnto the height and
+dignity of kings. Hereupon, if I be not deceiued, it hath
+bene euer since taken for an honourable title, and, as farre
+as I remember, attributed to none but such as are descen&shy;
+ded fr<expan type="o+_">om</expan> the kings stocke. The word signifieth Noble, ho&shy;
+nourable, <f type="i">illustrissimus. Seriphus,<f type="r"> or <f type="i">Seriphes,<f type="r"> saith the histo&shy;
+rian, <f type="i">hoc est, Nobilis. <f type="r">A noble man, or a Lord. Item, Leo A&shy;
+fricanus doth often stile a great man, whose company he
+did much frequent, <f type="i">Seriphus Princeps.<f type="r"> Item, <f type="i">Summ&aelig; digni&shy;
+tatis vir Seriphes appellatur. Qu&aelig; dignitas ea apud illos est, vt
+Califa mortua, Seriphes succedat.<f type="r"> A man of great honour is
+called Seriphes: which honour amongst them is that, that
+</page>
+
+<page sig="n4r">
+when the Calif is dead, the Seriph must succeed: so that it
+should seeme to be as much to them, as the Heire appa&shy;
+rant: the Dolphin, they call him in France: the Infanta, in
+Spaine. Yet whether this be true or not, I dare not a&shy;
+uouch.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Shewal"><f type="r">SHEWAL,</form> <xpln lang="en">the tenth moneth of the Arabian Kalendar,
+containing but 29 daies.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sultan"><f type="r">SVLTAN,</form> <xpln lang="en"><f type="i">Soultan, Souldan, Sultanus,<f type="r"> and with the arti&shy;
+cle <f type="i">Assultan,<f type="r"> the name of supreme honor amongst the A&shy;
+rabians, and seemeth to bee as much as <f type="i">Imperator<f type="r"> was a&shy;
+mongst the Romans, or <expression lang="gk">[GREEK]</expression>, omnium augustissi&shy;
+mus,<f type="r"> was to the Greeks. For thus they now call the Great
+Turke, <f type="i">Sultan de Stamboli,<f type="r"> The Souldan of Stamboli. It is
+more th<expan type="e+_">en</expan> <f type="i">Melic,<f type="r"> that is King. The first, as I thinke, that did
+assume this title, was the Generall and leader of the Sara&shy;
+cens or Arabians which conquered Egypt, and the coun&shy;
+tries neare adioyning, whose successours afterward were
+called <f type="i">Soultans of Babylon. Salinus ( fort&egrave; Saladinus) &AElig;&shy;
+gypti imperium adeptus, edixit vt Calyf&aelig; &AElig;gypti vocarentur
+Sultani, qu&aelig; vox summum Principem & regum regem signifi&shy;
+cat. Item infr&agrave;, &AElig;gypti pontifex Sultanus appellatur , hoc est,
+summus imperator, siue regum rex.<f type="r"> Saladinus hauing obtai&shy;
+ned the Empire of Egypt, commanded by Proclamation,
+That the Chalifs of Egypt should euer after that be called
+<f type="i">Souldans:<f type="r"> which word doth signifie, The cheefe Prince, or
+King of kings. Item, The Byshop of Egypt is called <f type="i">the
+Souldan,<f type="r"> that is, the great Emperor, or King of kings. The
+word is the same in nature and signification, that the He&shy;
+brew <f type="i">Shilton<f type="r"> is, which in Daniel signifieth <expression lang="gk">[GREEK]</expression>, po&shy;
+testatem,<f type="r"> a soueraigne power or command.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Sultanee, a"><f type="r">A SVLTANEE</form> <xpln lang="en" lexeme="royal(n)">is a peece of gold of the value of 7s.6.d.
+It hath the denomination of the former word Sultan, and
+signifieth as much as <f type="i">Regalis,<f type="r"> a royall, the kings coine.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><f type="r">T
+
+<wordentry type="h">
+<form lang="ar" lexeme="talby"><f type="r">A TALBY,</form> <xpln lang="en">is amongst the Arabians of Barbary as much
+</page>
+
+<page sig="n4v">
+as a Scriuener or publike notary is with vs; For these one&shy;
+ly are authorized to draw writings betweene man and
+man, as bils of debt, contract, couenant, bargaine and sale,
+and such like, which they call bils of <f type="i">Shuh&ugrave;ds,<f type="r"> that is, of
+witnesses. Of these kinde of writings I haue seene very
+many, and yet haue neuer seene any containing aboue fiue
+or sixe very short lines. This breuity fauoureth of the an&shy;
+cient simplicity of former ages, yea euen of the Lawyers
+of this our nation, as may appeare in all the deeds & con&shy;
+ueiances by them then drawne, and continued, remai&shy;
+ning to be seene at this day. Amongst those which I haue
+seene, I haue especially obserued two; The one was for a 
+great house in Cheapside, abutting on the one side vpon
+Iremonger lane, purchased by the Earle of Lancaster of a 
+Iew, in the time, as I remember, of Richard the first, with
+diuerse prouisos and reseruations of rent, &c. signed with
+the hands of the Maior, & diuerse of the Nobility & Al&shy;
+dermen: Besides the licence & approbation of the Prince
+of the Synagogue of the Iewes, written in Ebrew in a 
+strange exoticke character; All contriued into a peece of
+parchment, not any whit bigger then an ordinary single 
+obligation. The other was all in Ebrew, betweene two
+Iewes, for an house in Colnchester, in the tinme of K. Iohn,
+containing but sixe very short lines. This I translated for
+the office of the Records in the Towre well neare thirtie
+yeares since: There as I am informed it is still to be seene.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="tarich"><f type="r">TARICH ,</form> <xpln lang="en"><f type="i">Terich ,<f type="r"> is the same that <f type="i">Epocha<f type="r"> is to the
+Greeks: or <f type="i">&AElig;ra,<f type="r"> to the Latines: The Astronomers, fol&shy;
+lowing the interpretors of the Arabian writers, do call it
+<f type="i">Radix,<f type="r"> whereby they vnderstand some set and certaine
+time beginning at some memorable action, ( as the Crea&shy;
+tion, the Flood, the Birth of Christ ) from which they ac&shy;
+count and reckon backward or forward all other times
+and actions whatsoeuer.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="tarifa"><f type="r">TARIFA,</form> <xpln lang="en">signifieth the end, outside, or outmost bound
+of any thing. Hereupon many places in Arabia, and in
+</page>
+
+<page sig="o1r">
+places where the Arabian colonies haue bene seated, do
+take their name. In Spaine the city which was anciently 
+called Carteia, in the outmost skirts of Andalusia, is now
+called Tarifa. <f type="i">Carteia in Hispania ad Calpe promontorium
+sita, post dicta est Tarifa.<f type="r"> Carteia, a city in Spaine, situate vp&shy;
+on the forel<expan type="a+_">an</expan>d called Calpe, was afterward named Tarifa.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Gibel"><f type="r">GIBEL <f type="i">Tarif.</form> <xpln lang="en">Calpes promontorium,<f type="r"> saith mine Author,
+<f type="i">&agrave; Tarife duce dicta est Gibel Tarif, hoc est, mons Tarifius est ap&shy;
+pellatus, & nunc Gibel terra nuncupatur.<f type="r"> There is also a foun&shy;
+taine or spring neare vnto this place which is called of the
+Geographers <f type="i">Fons Tarifius.<f type="r"> The historian was deceiued.
+For these places were not so named of Tarif, a Captaine:
+but of their position and situation, as I haue said. For so
+that foreland or promontory in Cornwall, which we call
+The Lands end, the Arabian Geographer calleth <f type="i">Tarfi'l&shy;
+garbi mina' lgezira,<f type="r"> the West bound of the Island.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="turgman"><f type="r">TVRGMAN,</form> <xpln lang="en" lexeme="trudgeman(n)" lexeme="interpretor(n)" lexeme="translation(n)" lexeme="interpretation(n)"><f type="i">Trudgman, <expression lang="gk">[GREEK]</expression>,<f type="r"> in the
+latter Greeke writers, signifieth, an interpretor ; deriued
+from the Ebrew <f type="i">Thirgem,<f type="r"> which signifieth to interpret or
+expound out of one language into another. Fr<expan type="o+_">om</expan> whence
+also <f type="i">Thargum, <f type="r">or <f type="i">Targum,<f type="r"> a translation, an interpretation,
+hath the denomination.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><f type="r">V
+
+<wordentry type="h">
+<form lang="ar" lexeme="Vastat"><f type="r">VASTAT,</form> <xpln lang="en">a city of Egypt, one of the foure, which as
+Mohammed doth feigne, did come out of hell into this
+world. <f type="i">De Doctrin. Moham. pag. 196.<f type="r"> <xref>See <f type="i">Elmeden</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Velez"><f type="r">VELEZ,</form> <xpln lang="en"><xref target="beld">see <f type="i">Beled</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Velez Malaga"><f type="r">VELEZ<f type="i">Malaga,</form> <xpln lang="en">is a prouince in Spaine, which I take
+to be the city and territories of Malaca: see <f type="i">Monardus.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><f type="r">W
+
+<wordentry type="h">
+<form lang="ar" lexeme="Wadi"><f type="r">WADI,</form> <xpln lang="en"><xref target="gwadi">see <f type="i">Guadi</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="X"><f type="r">X
+
+<wordentry type="h">
+<form lang="ar" lexeme="Xaichus"><f type="r">XAICHVS,</form> <xpln lang="en"><xref target="sheich">see <f type="i">Scheich</xref>,
+</xpln></wordentry>
+</page>
+
+<page sig="o1v">
+<wordentry type="h">
+<form lang="ar" lexeme="Xarifius"><f type="r">XARIFIVS,</form> <xpln lang="en"><xref>see <f type="i">Sherif</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Xechus"><f type="r">XECHVS,</form> <xpln lang="en"><xref>see <f type="i">Sheich</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Xerifius"><f type="r">XERIFIVS,</form> <xpln lang="en"><f type="i">Xerif,<f type="r"> <xref>see <f type="i">Sherif</xref>.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><f type="r">Z
+
+<wordentry type="h">
+<form lang="ar" lexeme="Zibeltar"><f type="r">ZIBELTAR,</form> <xpln lang="en"><xref>see <f type="i">Gibel</xref>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lang="ar" lexeme="Zenith"><f type="r">ZENITH,</form> <xpln lang="en">saith Christmannus, &c.
+</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

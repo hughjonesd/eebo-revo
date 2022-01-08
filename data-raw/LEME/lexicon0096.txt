@@ -1,0 +1,754 @@
+
+
+<leme no="96">
+<page sig="1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 9 1 4 9 r e e l 5 1 5 : 0 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+The firste 
+syxe bokes of the mooste
+christian Poet Marcellus Pa&#173;
+lingenius, called the zodiacke
+of life.
+Newly translated out of Latin
+into English by Barnabe 
+Googe.
+
+&#182; Imprinted at London
+by Ihon Tisdale, for
+Rafe Newbery.
+
+Anno. 1561.
+</heading>
+
+</page>
+
+<page sig="t7v">
+<heading>
+&#182; A Table brefely decla&#173;
+rynge the signification and mea&#173;
+nynge of all suche Poetical wordes
+as are conteined wythin this
+boke, for the better vnder
+standing thereof.
+</heading>
+
+<wordgroup1 type="a" lang="en" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Achelous(pn)">AChelous,</form> <xpln lang="en">was of the Poets fayned
+to be the sonne of Tethis and Oce&#173;
+anus, who for the loue of Deianyra, 
+fought wyth Hercules, and per&#173;
+ceiuinge Hercules to strong for hym, he 
+transfourmed hym selfe into a Bull, at
+whyche tyme Hercules brake one of his 
+hornes. Wherefore beynge ouercome,
+he hidde him selfe in a riuer. The verye
+truthe is. It was a certaine riuer run&#173;
+nynge from the hil Pindus, wherof Her<emend err="">-</emend>
+cules dried vp an arme, that manye ty&#173;
+mes drowned the country, and there by 
+obtained Deianyra. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Aganippe(pn)">Aganippe,</form> <xpln lang="en">a certayne wel consecrated 
+to the muses, in the country of Boetia. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Acheron(pn)">Acheron,</form> <xpln lang="en">one of the riuers in Hel. Of
+Seruius taken for a place, wherin Ne&#173;
+
+</page>
+
+<page sig="t8r">
+cromancy was vsed. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Aristaeus(pn)">Aristeus,</form> <xpln lang="en">the sonne of Apollo, whyche
+for it inuented the vse of hony, and dres&#173;
+syng of hiues. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Amphitryon(pn)">Amphitrion,</form> <xpln lang="en">the husband of Alcumena
+and father in law to Hercules. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Alcinous(pn)">Alcinous,</form>  <xpln lang="en">king of the Corciri<expan type="">an</expan>s, whose
+whole study and plesure was in keping
+of gardens, and also in graffing. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Alcides(pn)">Alci<emend err="a">d</emend>es,</form>  <xpln lang="en">one of the names of Hercules
+so called of his graund father Alceus. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Arion(pn)">Arion,</form> <xpln lang="en">a conning harper, and a Gre&#173;
+cian born, hauing gained much monye
+in Italy by musik, sailed toward grece.
+In which iourny by the shipm<expan type="">en</expan> he was
+throwen ouer bourd, but for hys swete
+melody receiued vpon the back of a Dol<emend err="">-</emend>
+phin, was set safe on the land. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Atlas(pn)">Atlas,</form> <xpln lang="en">kynge of the blacke Moores,
+who fyrst as the Poetes doo affyrme, in&#173;
+uented the excellent arte of Astronomy,
+and was feygned of them to susteine the 
+heauens vppon hys shulders. Atlas,
+is called in deede a hylle of a wonde&#173;
+rous heyght. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Arete(pn)">Arete,</form> <xpln lang="en">vertwe, the doughter of Iu&#173;
+pyter. </xpln></wordentry>
+
+</page>
+
+<page sig="t8v">
+
+<wordentry type="h"><form lang="en" lexeme="Amphion(pn)">Amphion</form> <xpln lang="en">the sonne of Iupyter, and
+kyng of Thebes, whom the Poets fai&#173;
+ned first to inuent musike, and there by
+to raise the wals of Thebes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Antaeus(pn)">Antheus</form> <xpln lang="en">a greate Giaunt that fought
+wyth Hercules, who as ofte as hee was
+throwen to the ground, recouered dou&#173;
+ble hys strength, whyche Hercules per&#173;
+ceaued, held hym hye from the grounde
+and crushed hym to death. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Antiphates(pn)">Antiphates,</form>  <xpln lang="en">was king of the Lestrigo&#173;
+nians, a people liuinge by mans fleshe:
+amonge whome Vlisses men were de&#173;
+uoured. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Aonia(pn)">Aone fieldes</form> <xpln lang="en">a hilly place in the coun<emend err="">-</emend>
+try Boetia, where springeth the Muses
+wel Aganippe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Apelles(pn)">Apelles</form>  <xpln lang="en">a notable man an Ephesyan
+borne, who excelled in the Art of payn&#173;
+tynge. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Alps(pn)">Alpes</form>  <xpln lang="en">exceading hie mountaines and
+rockes. Separating Fraunce and Ger&#173;
+many from Italy. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Bacchus(pn)">Bacchus,</form>  <xpln lang="en">the son of Iupiter &#38; Semele,
+who first inuented making of wynes, &#38;
+counted therfore for the God of wine. </xpln></wordentry>
+
+</page>
+
+<page sig="v1r">
+
+<wordentry type="h"><form lang="en" lexeme="Belides(pn)">Beledes</form> <xpln lang="en"> were the daughters of one Da&#173;
+naus brother to Agiptus in n<expan type="">om</expan>bre fiftie.
+The story is thus: Agiptus hauing fifty
+sonnes required of Danaus his l. daugh<emend err="">-</emend>
+ters in mariage which Danaus first de&#173;
+nied bycause he was tolde by Prophesye
+that one of his brothers issue should be
+his death. Notwithstanding after ther&#173;
+vnto enforced he agrede &#38; commaunded
+his doughters secretely to kyl their hus&#173;
+b<expan type="">an</expan>des which they all dyd one only excep<emend err="">-</emend>
+ted whose husband after slew Danaus. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Bupalus(pn)">Bubalus</form> <xpln lang="en"> a certai paynter who hating
+one Hipponar a Poet, paynted his face
+his pycture lyuly expressed, to be seene
+&#38; laughed at of all men. The Poete (not
+wel cont<expan type="">en</expan>ted with this malitious deade)
+with Iambick verses soo vehementlye
+inueied against his sonne that he caused
+him to hange him self. The lyke story is
+written of Archilochus and Licambes. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="Caphareum(pn)">Caphare,</form> <xpln lang="en">a meruailous great rocke in
+the Ilande of Euboia <emend err="vpvon">vpon</emend> the whiche
+the Grecians perceyuing by night as it 
+were a fyre, sayled therunto, and lost di&#173;
+uers shippes. </xpln></wordentry>
+
+</page>
+
+<page sig="v1v">
+
+<wordentry type="h"><form lang="en" lexeme="Cadmus(pn)">Cadmus,</form> <xpln lang="en">the sonne of Agenor, who
+fyrst buylte Thebes, and was father
+to Semele, of whom Iupiter begatte
+Bacchus. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Castalia(pn)">Castaly,</form> <xpln lang="en">a welle at the bottome of the
+great hyll Pernassus, where the Muses
+dyd commonly vse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Charon(pn)">Charon,</form> <xpln lang="en">an olde deformed knaue, wh<expan type="">om</expan>
+the Poetes fayned to be feryman of the 
+ryuers in hell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Capua(pn)">Capua,</form> <xpln lang="en">a notable cytie in Italy, geuen
+in the olde tyme all togyther to be<emend err=""> </emend>a<emend err=""> </emend>ly&#173;
+chere and wantonnesse. It hath beene
+twyse destroyed: and as Blondus testi&#173;
+fieth, is at this daye situated two Ita&#173;
+lyan myles from his fyrst place. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Charybdis(pn)">Charibdis</form> <xpln lang="en"> a daungerous goulf betwene
+Calabre and Cicile. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Cerastes(pn)">Cerastes,</form> <xpln lang="en">a venimous serpent, hauing 
+viii. hornes, who couering his bodye in
+sandes, destroieth many men vnwares. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Colchis(pn)">Colchos, </form> <xpln lang="en">a countreye in Scythia, be&#173;
+twene the seas Caspium, and Pontus,
+wher bredeth a great n<expan type="">om</expan>bre of Fesants. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Circe(pn)">Circes,</form> <xpln lang="en">a great witche dwellyng in an
+Ilande aboute Catupania, who trans&#173;
+fourmed men into beastes. </xpln></wordentry>
+
+</page>
+
+<page sig="v2r">
+
+<wordentry type="h"><form lang="en" lexeme="Kirra(pn)">Cirha,</form> <xpln lang="en">a town at the bottome of the hyl
+Pernassus, dedicated to Apollo. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Cyzicus(pn)">Cyzicus,</form> <xpln lang="en">a famous cytie in Asia, where
+in was great store of oysters. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Cybele(pn)">Cybele,</form> <xpln lang="en">wyfe vnto Saturne, and mo&#173;
+ther to all the Ethnikes goddes, who
+caused an amorous childe, called Atys
+a Phrigian, to kepe her churche, com&#173;
+manding hym to lyue chast, but he inc<expan type="">on</expan>&#173;
+tinente brake chastitie, whereat she ta&#173;
+kynge displeasure, punished him with
+madnes. In which fury, he gelded him
+self with a flynt, addyng these woordes.
+
+Lo here for my desartes,
+With bloude I pay the pains:
+O cursed be the partes
+That so prouoked my brayns.
+
+He was after transformed into a pyne,
+Cytheron, a woddy hyll in Boetia, dedica&#173;
+ted to Poetes and Muses for the plea&#173;
+santnes thereof. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Calp(pn)">Calpe</form> <xpln lang="en"> a great hil in the vttermost part
+of Spain that lieth toward Affricke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Calliope(pn)">Calliope</form> <xpln lang="en"> the worthiest sister among the
+muses. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cannibal(pn)">Canibals</form> <xpln lang="en"> a monstrous kynde of people,
+feadynge onlye wyth mans flesh, lately
+
+</page>
+
+<page sig="v2v">
+discouered by Colonus the spaniarde. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Calanus(pn)">Calanus</form> <xpln lang="en"> a Philosopher who in despite
+of the world burned him self. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chimera(pn)">Chimera</form> <xpln lang="en"> a horrible beast imagined of
+the Poets hauing thre heds, a Lions, a
+dragons, and a serpents slain at the last
+by Bellerophon. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="circus(n)">Circus plaies,</form> <xpln lang="en">were certaine marcyall
+feates practised in Rome, not much vn&#173;
+like to our Turnay and barriers, wher<emend err="">-</emend>
+in was fighting with fistes, throwinge
+of dartes, runninge with horses, and o&#173;
+ther like. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Corinth(pn)">Corinthe</form> <xpln lang="en"> a citye wherein was framed
+most excellent vessels of brasse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cyclops(n)">Cyclops</form> <xpln lang="en"> a huge kind of giants hauing
+but one eie, inhabiting the countrye of
+Sicill. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="driad(n)">Driades,</form> <xpln lang="en">certaine wood nimphes, De&#173;
+dalus, a notable good carpenter, borne
+in Athens, whome the Poetes fayned 
+by art to make winges, by the which he
+with his sonne flew into Sicilie, and o&#173;
+ther partes: In which fighte hys sonne 
+named Icarus was drowned. The ve&#173;
+ry trouthe was, he fyrst inuented sailes
+of ships. </xpln></wordentry>
+
+</page>
+
+<page sig="v3r">
+
+<wordentry type="h"><form lang="en" lexeme="Dionysius(pn)"> Dionise,</form> <xpln lang="en">a great tyrant in Sicilie. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Demosthenes(pn)"> Demesthenes,</form> <xpln lang="en">a famous oratoure in A&#173;
+thens. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Democritus(pn)"> Democritus,</form> <xpln lang="en">a Philosopher, that put out
+his owne eyes, to eschewe the vanities
+of the worlde. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Delphos(pn)">Delphos,</form> <xpln lang="en">a town where Apollos chefest
+church did stand, and where the subtyll
+deuil did geue <expan type="">an</expan>swer to blind prophets. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Dana&#235;(pn)">Danae</form> <xpln lang="en"> the daughter of Acrisius, wh<expan type=""></expan>om
+(her kepers wyth golde corrupted) that
+lecherous merchant Iupiter got wyth
+chylde. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="E"><alpha>E.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Erymanthos(pn)">Erimanthus,</form> <xpln lang="en">a wylde forest in Arcadia,
+where as Hercules ouerecame a mon&#173;
+strous bore. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Etna(pn)">Etna,</form> <xpln lang="en">a meruaylus hylle in Sicilie, c<expan type="">on</expan>&#173;
+tinually bourning, named at this day
+Monte Cibello.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Eos(pn)">Eos,</form> <xpln lang="en">the sprynging of the daye, some&#173;
+time taken for the day sterre, and some&#173;
+tyme for the easte. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Echidna(pn)">Echidna,</form> <xpln lang="en">a foule serpente that Hercu&#173;
+les slewe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Euceladus(pn)">Euceladus</form> <xpln lang="en"> a mighty giant who darrai&#173;
+ning battail with the Gods, was consu&#173;
+
+</page>
+
+<page sig="v4v">
+med with lightning, and cast vnder the
+flaming hil Etna. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Elisius(pn)">Elisius fieldes</form> <xpln lang="en"> a pleasant place imagy&#173;
+ned to be in hel where the soules of ver&#173;
+tuous men remaine. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="F"><alpha>F.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="alerne(pn)">Falerne fieldes,</form> <xpln lang="en">a place in Italie, reple&#173;
+nyshed with vines, whereof came three
+kindes of notable wynes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ferraria(pn)">Ferraria,</form> <xpln lang="en">a famous dukedome in Italy,
+called at this day Ferrer, vnder the pro&#173;
+tection of the escension howse. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="G"><alpha>G.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Ganymede(pn)">Ganymedes,</form> <xpln lang="en">the soonne of Tros, kyng of 
+Phrygia, a boye of passyng beautie and 
+feminine countenance, taken vp into
+the skies by an Egle at Iupiters com&#173;
+maundement, and made his butlar. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Gorgon(pn)">Gorgons</form> <xpln lang="en"> were thre sisters vile &#38; hor&#173;
+rible furies in hel with heares of crau&#173;
+ling snakes wherof <expan type="">the</expan> one called Medusa
+was slain by Perseus, Iupiters bastard. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ganges(pn)">Ganges</form> <xpln lang="en"> a mighty riuer in India. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="I"><alpha>I.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Icarus(pn)">Icarus,</form> <xpln lang="en">the soonne of D&#230;dalus, who
+presuminge to flye to hye, fell into the
+sea. </xpln></wordentry>
+
+</page>
+
+<page sig="v4r">
+
+<wordentry type="h"><form lang="en" lexeme="Idalium(pn)">Idale woddes,</form> <xpln lang="en">a pleasant woddy place
+in Ciprus, wherevnto Venus ofte re&#173;
+sorted. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Itys(pn)">Itys,</form> <xpln lang="en">the son of Tereus, kyng of Thrace
+transfourmed into a Fesant. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ixion(pn)">Ixion,</form> <xpln lang="en">kyng of Thessalie, who beinge
+of Iupiter bidden to a banket, attemp&#173;
+ted the honestie of his hostesse, whiche
+Iupiter perseauinge, left hym the pic&#173;
+ture of Iuno in a clowde, of whiche he 
+begate the Centaures, and for his bo&#173;
+stinge therof, was after punished in hell
+vpon a wheele, of adders. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ister(pn)">Ister</form> <xpln lang="en"> the greatest riuer in all Europ,
+running betwene Germany &#38; Scithya,
+called commonly the riuer of Danubye. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="L"><alpha>L.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Lethe(pn)">Lethe,</form> <xpln lang="en">a riuer in hell, of whiche who
+soeuer tasteth, forgetteth al things past. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Lydia(pn)">Lidia,</form> <xpln lang="en">a countreye, in the whiche ren&#173;
+neth the pleasant, ryuer Pactolus, full of 
+golde. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Leucothea(pn)">Leucothea</form> <xpln lang="en"> a goddesse of the seas. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="M"><alpha>M.</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Megaera(pn)">Megera,</form> <xpln lang="en">one of the furies in hell. Midas
+sonne to Gordius kyng of the Phrygi&#173;
+ans, who desyred of Bacchus, that all
+
+</page>
+
+<page sig="v4v">
+that he touched, might be golde, whiche
+Bacchus graunted, whereby his meate
+and drynke turning into golde, he was
+nere famished tyl Bacchus released his
+graunt. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Molorchos(pn)">Molorchus</form> <xpln lang="en"> a shephard in the wode Ne&#173;
+mea, who desyred Hercules to destroy a 
+Lion, which he performed with Molor&#173;
+chus club. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Muses(pn)">Muses,</form> <xpln lang="en">the nine daughters of Iupiter
+and memory, ladies of learning. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Melicert(pn)">Melicert</form> <xpln lang="en"> a God of the sea otherwise cal<emend err="">&#173;</emend>
+led Palemon. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="N"><alpha>N</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Nisus(pn)">Nisus,</form> <xpln lang="en">kinge of Megarenses, hauynge
+in his heade a Purple heare, whiche
+caused him to be inuincible, whose dau&#173;
+ghter for the loue of Minos stale awaye
+the heare, wherby he was vanquyshed 
+of Minos, and after transformed into a 
+hoby, and his doughter into a larke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nectar(n)">Nectar,</form> <xpln lang="en">a pleasaunte wyne vsed of the 
+Ethnike Gods. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Nile(pn)">Nilus</form> <xpln lang="en"> a famous riuer in Egipte that
+many times ouerfloweth the country &#38;
+maketh it fertill. </xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="v5r">
+<wordgroup1 type="a" lang="en" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Orpheus(pn)">Orpheus,</form> <xpln lang="en">a Thracian, sonne of Apollo,
+so farre excelling in Musike, that he mo&#173;
+ued stones, trees, &#38; blocks, with his plea<emend err="">-</emend>
+saunte harmonie. By Musike also hee
+brought his wife out of hell, &#38; was after
+torne in pieces by women, some thinke
+destroyed with lightning. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Orion(pn)">Orion,</form> <xpln lang="en">the sonne of Neptune, a famous
+hunter, who desyryng the companye of 
+Diana, was slayne of a Scorpion, and
+after canonised amonge the starres. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ogyges(pn)">Oryges,</form> <xpln lang="en">an auncient kyng in the coun&#173;
+trey of Boetia, who buylt Thebes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Orestes(pn)">Orestes</form> <xpln lang="en"> the sonne of Agamemnon, who
+slue his mother, for murdringe of hys
+father, he afterward was mad: In whi&#173;
+che rage he was neuer forsaken of Pyla<emend err="">&#173;</emend>
+des his frend. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orgy(n)" lexeme="thiasus(pn)">Orgies and Thyase,</form> <xpln lang="en">certaine songes
+and daunces celebrated to the honour of 
+Bacchus. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Ossa</form> <xpln lang="en"> a great hil in Thessaly. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ossa(pn)">Olimpus</form> <xpln lang="en"> a hil of wonderful highnes in
+Grece the toppe whereof ascendeth the
+cloudes Paros an Ile where groweth 
+plenty of marble. </xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="v5v">
+<wordgroup1 type="a" lang="en" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Palestine(pn)">Palestine,</form> <xpln lang="en">a country in Siria, wher&#173;
+in was the great cities Gaza Ascalonus
+Gethe, Acharon, Asotum, geuen all to 
+couetousnesse and beastlynes: som think
+they were destroyed with Sodome and
+Gomorra. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Parnassus(pn)">Pernassus,</form> <xpln lang="en">a goodly hyll, hauing two
+toppes: thys hyll was in the olde tyme
+dedicated to the muses. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pallas(pn)">Pallas,</form> <xpln lang="en">doughter of Iupiter, goddesse
+of battayle. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Panomplee(pn)">Panomphes,</form> <xpln lang="en">one of the names of Iu&#173;
+piter. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pergamus(pn)">Pergamus,</form> <xpln lang="en">the famous city of Troy. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Phoebus(pn)">Phebus,</form> <xpln lang="en">otherwise called Apollo, the
+god of eloquence and Poetry. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Plutus(pn)">Plutus,</form> <xpln lang="en">the God of richesse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pluto(pn)">Pluto,</form> <xpln lang="en">the god of hell, otherwyse cal&#173;
+led the deuil. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Progne(pn)">Progne,</form> <xpln lang="en">the wife of Tereus, kynge of 
+Thrace, who slue her owne sonne, and
+serued hym in at table to her husbande:
+for the whiche deede she was tourned in
+to a swallow, her husband to a lapwing
+and the child into a fesant. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Polyphemus(pn)">Polyphemus,</form> <xpln lang="en">a great giant in Sicilie
+whose eies Hercules put out. </xpln></wordentry>
+
+</page>
+
+<page sig="v6r">
+
+<wordentry type="h"><form lang="en" lexeme="Philomela(pn)">Philomela,</form> <xpln lang="en">doughter to Pandion, whom
+Tereus, her brothere defyled, and after
+cutte oute her tongue, which shamefull
+acte her sister <emend err="ruenged">reuenged</emend>: She was after
+transfourmed into a Nyghtingale.
+
+Kinge Teres actes of shamefull force
+Dothe Philomele bewayle,
+A birde she swetely synges her sawes:
+A mayde her tongue did fayle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Proserpine(pn)">Proserpine,</form> <xpln lang="en">wife to Pluto &#38; lady of hell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Phlegrean(pn)">Phlegreus fieldes,</form> <xpln lang="en">was a certayne place
+in Thessalye, where Iupiter foughte
+with gyantes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Phlegethon(pn)">Phlegeton,</form> <xpln lang="en">a ryuer in hell contynually
+flamynge. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pyracmona(pn)">Pyracmona</form> <xpln lang="en"> Cyclope, maker of thunder
+boltes and lyghtning. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Paros(pn)">Paros,</form> <xpln lang="en">an Ile wher groweth plentye of 
+Marble. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pyros(pn)">Pyros</form> <xpln lang="en"> a fiery horse that the Poetes fai&#173;
+ned to drawe the sonne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Phocis(pn)">Phocidos</form> <xpln lang="en"> a lyttle countreye in Grece
+where standeth the cytie Delphi. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Plaeton(pn)">Ph&#230;ton</form> <xpln lang="en"> borne of Climenes the nimphe
+and gotten of Apollo a yonge man of a 
+hawty courage who desiring to rule the
+sonne for a day not able to discharge his
+
+</page>
+
+<page sig="v6v">
+office was destroyde with fire. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Padus(pn)">Padus</form> <xpln lang="en"> a notable ryuer in Italye sprin&#173;
+ging oute of the hyll Vesulo &#38; running
+(beinge augmented with xxx. other ry&#173;
+uers) by vii. mouthes into the sea Adria&#173;
+tycke it is called at this Po. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pelion(pn)">Pelion,</form> <xpln lang="en">a hyll in Thessaly full of wood</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Prometheus(pn)">Promotheus</form> <xpln lang="en"> an excellent connyng man
+in the arte of grauing &#38; making of pyc&#173;
+tures who for making of men &#38; stealing
+of fyre from Iupiter wherby he mighte
+gyue them lyfe was punyshed with an
+Egle contynually eatynge hys hart be&#173;
+yng bound fast to ther great hyll Cawca&#173;
+sus. If he were thus punyshed for ma&#173;
+kyng of men what paynes dothe he de&#173;
+serue that attempteth the makyng, <term lang="la">c&#339;te&#173;
+ra taceo</term>. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="Q">
+
+<wordentry type="h"><form lang="en" lexeme="Quirinus(pn)">Quirinus</form> <xpln lang="en"> otherwyse called Romulus, 
+sonne to Ears, who first builte Rome. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="satyr(n)">Satirs</form> <xpln lang="en"> certayne beastes in Ethiope in
+shape lyke a manne, except theyr two
+hornes, and goates houses, they were
+taken in olde time for goddes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Saturn(pn)">Saturne,</form> <xpln lang="en">the sonne of heauen &#38; earthe:
+who begate of his owne sister, Iupiter,
+
+</page>
+
+<page sig="v7r">
+Iuno, Neptune, and Pluto. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Sardanapalus(pn)">Sardanapalus,</form> <xpln lang="en">the last kyng of the Assy&#173;
+rians, a man of so filthy a life, to be re&#173;
+hersed. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Semele(pn)">Semele,</form> <xpln lang="en">daughter of Cadmus, and mo&#173;
+ther to Bacchus. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Scylla(pn)">Scylla,</form> <xpln lang="en">the doughter of Nisus, kyng of 
+the Megarenses. It is also a greate and
+dangerous rocke in the sea by Sicile. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Sinon(pn)">Sinon,</form> <xpln lang="en">a vylanous traytour amongest
+the Grekes, who vnder the pretence of 
+coloured frendship, brought the noble ci<emend err="">&#173;</emend>
+ty of Troy to destruction. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Sisyphus(pn)">Sysiphus</form> <xpln lang="en"> the s<emend err="o+_">on</emend>ne of Eolus, a horrible
+thefe, slaine by Theseus, and fayned of 
+the Poets for hys punishmente in hell,
+continually to rolle a stone to the toppe
+of a hyll, whych falleth euer backwarde
+againe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Symplegades(pn)">Symplegades,</form> <xpln lang="en">two dangerous rockes in
+the sea Helespont. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Sidon(pn)">Sidon,</form> <xpln lang="en">a plentyfull citye in the greater
+Asia, where was first inuented the ma&#173;
+king of glasse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Stymphalides(pn)">Stymphalides,</form> <xpln lang="en">certaine foule byrdes in 
+Arcadia, which Hercules destroyed. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Stygian(pn)">Stygian,</form> <xpln lang="en">a riuer or lake in hel, by <expan type="">the</expan> 
+
+</page>
+
+<page sig="v7v">
+which the gods alwaies did sweare. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Strongylos(pn)">Strongylos,</form> <xpln lang="en">a litle Iland betwene Si<emend err="">-</emend>
+cilie and Salerne. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Tagus(pn)">Tagus,</form> <xpln lang="en">a riuer in Spaine or Portugale
+ful of golden sandes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tantalus(pn)">Tantalus,</form> <xpln lang="en">the sonne of Iupiter, who for
+reueling the secretes of god to men was 
+punished standing in pleasaunte water
+vp to the chin, and ouer his nose, honge
+goodly apples. But when he assayed ei&#173;
+ther to eate or drynke, they bothe fledde
+from him. Ouide,
+
+In waters, water sekes,
+False apples him allures:
+These painful pains, sir Tantalus
+His babbling tongue procures
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tartessos(pn)">Tartesse,</form> <xpln lang="en">a towne in Spaine, harde by
+the pillers of Hercules. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tartarus(pn)">Tartarus</form> <xpln lang="en"> the depest and darkest place in
+hel, wher sinners be tormented. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Thaumantis(pn)">Thaumantis</form> <xpln lang="en"> the rainbow, the messenger
+of the gods in euil thynges. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tisiphone(pn)">Tisyphone,</form> <xpln lang="en">one of the furies of hel. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tyrinthus(pn)">Tyrinthus,</form> <xpln lang="en">one of Hercules names. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Triton(pn)">Triton,</form> <xpln lang="en">a god of the seas, and trumpet&#173;
+tour of Neptune. </xpln></wordentry>
+
+</page>
+
+<page sig="t8r">
+<wordentry type="h"><form lang="en" lexeme="Tempe(pn)">Tempe</form> <xpln lang="en">a plesant paradise in Thessaly. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tyrtaeus(pn)">Tirteus.</form> <xpln lang="en">The Lacedemonians being e&#173;
+nemies to <expan type="">the</expan> Messenians, Through Apol<emend err="">-</emend>
+los co<expan type="">un</expan>sel required a captain of the men
+of Athens. The Athenians as it wer dis<emend err="">-</emend>
+daining the Lacedemonians gaue them
+for a captaine this Tirteus a poet beyng
+lame &#38; impotent, vnder whose ensygne
+they lost iii. notable batailes, wherwith
+being discouraged, they intended neuer&#173;
+more to fight, and fled homewards, had
+not Tirteus stayed them, who resityng
+certain verses that he made, so enflamed
+the hartes of his souldioures, that lyfe
+with them was nothinge regarded, but
+all their care and thought was for theyr
+burial, wher vpon tying certain things
+to theyr armes, wherby thei after death
+be knowne, they marched forward, and
+discomfited their enemies. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" lang="en" object="V"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="Vulcan(pn)">Vulcane,</form> <xpln lang="en">sonne of Iupiter, and God of
+fire, father vnto Cacus, that great thefe
+a deformed villaine, and yet maried to
+the fair Lady Venus. </xpln></wordentry>
+
+<term lang="la">FINIS.</term> 
+
+</wordgroup1>
+
+</page>
+</leme>
+

@@ -1,0 +1,2670 @@
+<leme no="749">
+
+<page no="39">
+<heading>
+An Alphabetical Table.
+</heading>
+
+<wordgroup1 type="a" object="a"> <alpha object="a"></alpha>
+
+<wordentry type="h"><form lexeme="abandon(v)"><f type="bk">A<f type="r">Bandon,</form> <xpln lexeme="put away(v)">put away.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abase(v)">Abase,</form> <xpln>bring low.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abet(v)">Abet,</form> <xpln lexeme="maintain(v)">to maintain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abel(pn)">Abel,</form> <xpln>the second son of
+Adam.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="able(a)">Able,</form> <xpln lexeme="sufficient(a)">sufficient.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="absolute(a)">absolute,</form> <xpln>without excep&shy;
+tion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abreviate(v)">Abreviate,</form> <xpln lexeme="shorten(v)">to shorten.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abortive(a)">abortive,</form> <xpln>a child born be&shy;
+fore its time.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abrupt(n)">abrupt,</form> <xpln lexeme="disorder(n)">disorder, out of frame.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abrupt(a)">abrupt,</form> <xpln lexeme="disorderly(a)">disorderly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="absolve(v)">Absolve,</form> <xpln lexeme="quit(v)" lexeme="free(v)" lexeme="forgive(v)">to quit, free, for&shy;
+give.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="absurd(a)">absurd,</form> <xpln>against reason.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acute(a)">acute,</form> <xpln lexeme="quick(a)" lexeme="witty(a)">quick, witty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accurate(a)">accurate,</form> <xpln lexeme="exact(a)" lexeme="curious(a)">exact, curious.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="achieve(v)">Atchieve,</form> <xpln>to get the up&shy;
+perhand.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="atchieved(a)">Atchieved,</form> <xpln>obtain'd the
+conquest.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obsolete(a)">obsolete,</form> <xpln>of use.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acceptance(n)">acceptance,</form> <xpln lexeme="entertainment(n)">entertainment</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accidence(n)">accidence,</form> <xpln>introduction to
+Grammar.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accident(n)">accident,</form> <xpln lexeme="change(n)">change.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incident(n)">incident,</form> <xpln>subject to casu&shy;
+alty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="account(n)">account,</form> <xpln lexeme="esteem(v)">esteem.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Achor(pn)">Achor,</form> <xpln lexeme="valley(n)">a valley.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acorn(n)">Acorn,</form> <xpln>that grows on
+Oaks,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acre(n)">Acre of land,</form> <xpln>160 Pole.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adage(n)">Adage,</form> <xpln lexeme="proverb(n)">a proverb, an old
+saying.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adopt(v)"><f type="i">Adopt,<f type="r"></form> <xpln><f type="r">to make one his
+heir.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="addicted(a)">addicted,</form> <xpln lexeme="devoted(a)">devoted.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adult(n)">adult,</form> <xpln>grown to full years.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alias(adv)">alias,</form> <xpln lexeme="otherwise(adv)">otherwise.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="all(n)">All,</form> <xpln>all things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="awl(n)">Awl</form> <xpln>the shoe-makers <f type="i">awl.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ale(n)"><f type="r">Ale,</form> <xpln>to drink.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ail(n)">ail,</form> <xpln lexeme="trouble(n)">some trouble.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alley(n)">alley</form> <xpln>a narrow passage.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ally(v)">ally,</form> <xpln lexeme="associate(n)">associate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aloud(a)">aloud,</form> <xpln>when one speaks
+so.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="allowed(a)">Allowed,</form> <xpln lexeme="approved(a)">approved.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="altar(n)">Altar,</form> <xpln>on which they sa&shy;
+crifice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alter(v)">alter,</form> <xpln lexeme="change(v)">to change,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="annual(a)">annual,</form> <xpln lexeme="yearly(a)">yearly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="annal(n)">Annal,</form> <xpln lexeme="chronicle(n)">Chronocle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arrow(n)">arrows,</form> <xpln>to shoot with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arouse(v)">arrowse,</form> <xpln lexeme="stir up(v)">to stir up.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arras(n)">arrass,</form> <xpln>rich cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="harrass(v)">harrass,</form> <xpln lexeme="toil(v)">to toil.</xpln></wordentry>
+</page>
+
+<page no="40">
+<wordentry type="h"><form lexeme="astronomy(n)">Astronomy,</form> <xpln>art of C&aelig;le&shy;
+stial bodies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ascent(n)">ascent,</form> <xpln>going upwards.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ass(n)">Ass,</form> <xpln>a dull beast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ash(n)">ash,</form> <xpln lexeme="tree(n)">a tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ask(v)">ask,</form> <xpln lexeme="enquire(v)">to enquire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asp(n)">Asp,</form> <xpln lexeme="serpent(n)">a serpent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hasp(v)">Hasp,</form> <xpln>to fasten the door.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="axe(n)">Ax,</form> <xpln lexeme="cut with(v)">to cut with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="act(n)">acts,</form> <xpln>great deeds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ant(n)">Ant,</form> <xpln lexeme="pismire(n)">a pismire.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aunt(n)">Aunt,</form> <xpln>mothers sister.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arrant(a)">arrant,</form> <xpln lexeme="very(a)">very,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="errand(n)">errand,</form> <xpln>business one goes
+on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attach(v)">attach,</form> <xpln>to take hold of a body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="atheism(n)">Athiesme,</form> <xpln>denying the
+Godhead.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attaint(v)">attaint,</form> <xpln lexeme="corrupt(v)">to corrupt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attack(v)">Attaque,</form> <xpln>to face about in
+a sea-fight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="austere(a)">austere,</form> <xpln>a fierce grim man</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oyster(n)">Oyster,</form> <xpln lexeme="fish(n)">a fish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attentive(a)">attentive,</form> <xpln>to give diligent
+heed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="audacity(n)">audacity,</form> <xpln lexeme="boldness(n)">boldness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="auger(n)">augre,</form> <xpln lexeme="piercer(n)">a Piercer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="augment(v)">augment,</form> <xpln lexeme="increase(v)">encrease.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="authentic(a)">authentick,</form> <xpln lexeme="undoubted(a)" lexeme="authority(n)">undoubted au&shy;
+thority.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="awry(v)">awry,</form> <xpln>to go awry.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B.</alpha>
+
+<wordentry type="h"><form lexeme="babble(n)">Bable,</form> <xpln lexeme="toy(n)">a toy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="babel(n)">Babel,</form> <xpln lexeme="confusion(n)">confusion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="babble(v)">Babble,</form> <xpln lexeme="prate(v)">to prate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="batchelor(n)">Batchelor,</form> <xpln>one unmarried.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bachelor of Arts(n)">Bachelour of Arts.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bacon(n)">bacon,</form> <xpln>swines flesh dryed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barrester(n)">barrester,</form> <xpln>a Lawyer that
+pleads at the bar.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beacon(n)">Beocon</form> <xpln>on a hill.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beckon(v)">beckon,</form> <xpln lexeme="nod at(v)">to nod at.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beatify(v)">beatifie,</form> <xpln lexeme="adorn(v)">adorn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="badge(n)">badge,</form> <xpln lexeme="mark(n)">a mark.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="batch(n)">batch,</form> <xpln>so many loaves as
+is baked at once.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bailiff(n)">Bailiff,</form> <xpln lexeme="sergeant(n)">or Sergeant.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bail(v)">bail;</form> <xpln>to put in security.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bald(a)">bald,</form> <xpln>that hath lost his hair</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ball(n)">ball;</form> <xpln>to play with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bawl(v)">bawl,</form> <xpln lexeme="cry(v)">to cry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="baal(n)">Baal,</form> <xpln lexeme="idol(n)">an Idol.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="balm(n)">baulm,</form> <xpln lexeme="herb(n)">an herb.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="band(n)">band;</form> <xpln>for the neck.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bond(n)">bond,</form> <xpln>for money.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Barbara(pn)"><f type="i">Barbara<f type="r">,</form> <xpln>a womans name</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Barbary(pn)"><f type="i">Barbary<f type="r">,</form> <xpln>a part of <f type="i">Africa.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barbarism(n)"><f type="r">Barbarism,</form> <xpln lexeme="cruelty(n)">cruelty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bark(n)">bark</form> <xpln>of a tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barque(n)">Barque,</form> <xpln>a little ship.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Berkshire(pn)"><f type="i">Berk-shire.</form> <xpln> <f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="base(a)"><f type="r">base,</form> <xpln lexeme="dishonourable(a)">dishonourable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bas-viol(n)">Bas-Viol.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bear(n)">Bear,</form> <xpln>a beast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beer(n)">beer,</form> <xpln>to drink.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bier(n)">bier,</form> <xpln>to carry corps.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bellows(n)">bellows,</form> <xpln>to blow with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="belly(n)">bellies,</form> <xpln lexeme="paunch(n)">paunches.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bewray(v)">beray,</form> <xpln lexeme="defile(v)"> defile.</xpln></wordentry>
+</page>
+
+<page no="41">
+<wordentry type="h"><form lexeme="bewray(v)">bewray,</form> <xpln lexeme="discover(v)">discover.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beseech(v)">beseech,</form> <xpln lexeme="entreat(v)">to entreat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="besiege(v)">besiege,</form> <xpln>to beset souldiers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bin(n)">bin,</form> <xpln>to keep bread in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="been(v)">been,</form> <xpln lexeme="were(v)" lexeme="wast(v)">were; or wast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="biggin(n)">biggin,</form> <xpln>to wear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="begin(v)">begin,</form> <xpln>to enter on busi&shy;
+ness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bittern(n)">bittour,</form> <xpln lexeme="wild-fowl(n)">a wild-fowl.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bitter(a)">bitter,</form> <xpln lexeme="sweet(a)">not sweet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bigamy(n)">Bigamy,</form> <xpln>Marriage of two
+wives at once.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="baudy(a)">baudy,</form> <xpln lexeme="obscene(a)" lexeme="filthy(a)">obscene, filthy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="body(n)">body,</form> <xpln lexeme="substance(n)">a substance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bodice(n)">bodies</form> <xpln>of a gown.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bowl(n)">boll,</form> <xpln>to wash in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bowl(n)">bowl,</form> <xpln>to drink in, or to
+play with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blanch(v)">To blanch,</form> <xpln>to pull of the
+rind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bleach(v)">To bleach,</form> <xpln>or whiten
+clothes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="boar(n)">boar,</form> <xpln lexeme="swine(n)">a swine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bore(v)">bore,</form> <xpln>to pierce a hole.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bough(n)">bough</form> <xpln>of a tree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bow(v)">bow,</form> <xpln lexeme="bend(v)">to bend.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bow(n)">bowe</form> <xpln>to shoot.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="boy(n)">boy,</form> <xpln lexeme="lad(n)">a lad.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brachygraphy(n)">Brachygraphy,</form> <xpln lexeme="short-writing(n)">short-
+writing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bread(n)">bread;</form> <xpln lexeme="eat(v)">to eat</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bred(a)">bred</form> <xpln lexeme="reared up(a)" lexeme="brought up(a)">reard up, or brought
+up.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brain(n)">brain;</form> <xpln lexeme="skull(n)">or skull.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bran(n)">bran</form> <xpln>of wheat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="breach(n)">breaches,</form> <xpln lexeme="division(n)">divisions.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="breeches(n)">breeches;</form> <xpln>men wear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bruit(n)">bruite,</form> <xpln lexeme="rumour(n)">a rumour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brute(a)">brute,</form> <xpln lexeme="rude(a)">rude.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bury(v)">bury,</form> <xpln>to lay in the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="berry(n)">berry</form> <xpln>of rabbets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="buy(v)">buy</form> <xpln lexeme="purchase(v)">to purchase.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="me, by(adv)">by me,</form> <xpln>or by and by.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="burglary(n)">Burglary,</form> <xpln>breaking into a
+house.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bombast(n)">Bumbast,</form> <xpln lexeme="cotton(n)" lexeme="wool(n)">cotten; wool.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C.</alpha>
+
+<wordentry type="h"><form lexeme="cable(n)"><f type="bk">C<f type="r">Able,</form> <xpln lexeme="rope(n)">a rope.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cabal(n)">Cabal,</form> <xpln>private con&shy;
+sultation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="call(v)">call,</form> <xpln lexeme="name(v)">to name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caul(n)">caul,</form> <xpln>sewet that covers the
+bowels.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="capable(a)">capable,</form> <xpln>fit to receive.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carol(n)">Carol,</form> <xpln lexeme="song(n)">a Song.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coral(n)">Coral;</form> <xpln>for children.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carriage(n)">carriage,</form> <xpln lexeme="behaviour(n)">behaviour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carrier(n)">Carryer,</form> <xpln>one that carries.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="career(n)">carriere,</form> <xpln>a horse-race, full-
+speed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carret(n)">carrets</form> <xpln>to eat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chariot(n)">Chariots</form> <xpln>to ride in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="casual(a)">casuals</form> <xpln>that happens by
+chance.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="causey(n)">causey,</form> <xpln lexeme="made-way(n)">a made-way.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="channel(n)">A channel;</form> <xpln lexeme="gutter(n)">or gutter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kennel(n)">A kennel</form> <xpln>for dogs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cease(v)">cease;</form> <xpln lexeme="leave off(v)">to leave of.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="celestial(a)"><f type="i">Celestial<f type="r">;</form> <xpln lexeme="heavenly(a)">heavenly.</xpln></wordentry>
+</page>
+
+<page no="42">
+<wordentry type="h"><form lexeme="seize(v)">seise,</form> <xpln>to lay hold on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="size(n)">size,</form> <xpln lexeme="bigness(n)">bigness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cellar(n)">cellar;</form> <xpln>to lay drink in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seller(n)">sellar,</form> <xpln>one that selleth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cement(v)">cement,</form> <xpln>to fasten together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="censure(n)">censure,</form> <xpln lexeme="judgment(n)">a judgment.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="censor(n)">censor,</form> <xpln lexeme="reformer(n)">a reformer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="centaury(n)">centorie,</form> <xpln>a plant.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="century(n)">centurie,</form> <xpln>a hundred years</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sentry(n)">sentry,</form> <xpln>a souldier on watch</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chafe(v)">chafe,</form> <xpln lexeme="fret(v)">to fret.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chaff(n)">chaff</form> <xpln>of wheat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chattel(n)">chattel,</form> <xpln lexeme="goods(n)" lexeme="leases(n)">all goods; leases.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cattle(n)">cattel,</form> <xpln>beasts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cheer(v)">chear,</form> <xpln>to make merry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cheer(n)">cheer,</form> <xpln>good food.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="charwoman(n)">A chare woman.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chair(n)">chair;</form> <xpln>to sit in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="child-blain(n)">child-blain,</form> <xpln>sores from
+chilness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cittern(n)" lexeme="cithern(n)">Cittern, or cithern,</form> <xpln>an in&shy;
+strument of musick.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumspect(a)">circumspect,</form> <xpln lexeme="wary(a)">wary.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="citron(n)">Citron;</form> <xpln>to eat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumference(n)">circumference,</form> <xpln>a round
+compass about a centre</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumlocution(n)">circumlocution,</form> <xpln>one word
+expressed by many.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="clause(n)">clause,</form> <xpln>a piece of a sen&shy;
+tence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="clarify(v)">clarifie,</form> <xpln>to make clear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="claw(n)">Claws,</form> <xpln lexeme="nail(n)">nails.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cloathe(v)">To cloathe</form> <xpln>with cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coat(n)">Coat,</form> <xpln lexeme="garment(n)">a garment.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cote(n)">cote,</form> <xpln>a plate of inclosed
+ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coif(n)">coife,</form> <xpln>for womens head-
+attire</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="could(v)">could,</form> <xpln lexeme="be able(v)">be able.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cogitation(n)">cogitation,</form> <xpln lexeme="thought(n)">thought.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cold(n)">coold;</form> <xpln>or made cold.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="collar(n)">collar;</form> <xpln>for a doublet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="choler(n)">choler,</form> <xpln lexeme="humor(n)">a humor.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="collier(n)">Collier,</form> <xpln>that carrieth coals</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scholar(n)">Scholar,</form> <xpln>one that learneth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colour(n)">colour</form> <xpln>in the cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colure(n)">colures</form> <xpln>in the Globe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="comet(n)">Comet,</form> <xpln lexeme="blazing-star(n)">a blazing-star.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="common(a)">common,</form> <xpln>free for any.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="complex(a)">complex,</form> <xpln>join'd together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="commune(v)">commune,</form> <xpln lexeme="converse(v)">to converse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="comfort(n)">comfort,</form> <xpln>matter of joy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="confect(n)">confects</form> <xpln>made with Sugar.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consumption(n)">consumption,</form> <xpln>a wasting
+disease.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="condole(v)">condole,</form> <xpln lexeme="mourn over(v)">to mourn over.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coop(n)">coop</form> <xpln>for hens.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cope(v)">cope,</form> <xpln lexeme="change(v)">to change.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="copse(n)">cops</form> <xpln>of wood.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="concise(a)">concise;</form> <xpln lexeme="brief(a)">brief.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="concomitant(a)">concomitant,</form> <xpln>that accom&shy;
+panies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colonel(n)"><f type="i">Colonel<f type="r"></form> <xpln><f type="r">over a regiment.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compendious(a)">compendious,</form> <xpln lexeme="short(a)">short.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colony(n)"><f type="i">Colony<f type="r">,</form> <xpln lexeme="plantation(n)">a Plantation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colander(n)">colander;</form> <xpln lexeme="strainer(n)">or strainer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coroner(n)"><f type="i">Coroner<f type="r">,</form> <xpln lexeme="crowner(n)">or <f type="i">Crowner.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corroborate(v)"><f type="r">corroborate,</form> <xpln lexeme="strengthen(v)">to strengthen</xpln></wordentry>
+</page>
+
+<page no="43">
+<wordentry type="h"><form lexeme="connection(n)">A connexion,</form> <xpln>a tying to&shy;
+gether.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consanguinity(n)">consanguinity,</form> <xpln>kindred by
+blood.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consolidate(v)">consolidate,</form> <xpln>to make firm.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conserve(v)">conserve,</form> <xpln lexeme="keep(v)">to keep.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conspicuous(a)">conspicuous;</form> <xpln lexeme="clear(a)" lexeme="notable(a)">clear; notable</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="constellation(n)">A constellation,</form> <xpln>a compa&shy;
+ny of stars.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consummate(v)">consumate,</form> <xpln lexeme="finish(v)">to finish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="counsel(n)">counsel,</form> <xpln lexeme="advice(n)">advice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="council(n)">council,</form> <xpln>to take counsel in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coarse(n)">course,</form> <xpln lexeme="rough(a)" lexeme="gross(a)">rough, gross.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cormorant(a)">cormorant,</form> <xpln lexeme="glutton(n)">glutton.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corse(n)">corse,</form> <xpln>a dead body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="costermonger(n)">Costarmonger,</form> <xpln>an apple
+seller.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="costive(a)">costive,</form> <xpln>bound in body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cousin(n)"><f type="i">Cousin<f type="r">,</form> <xpln>a near relation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cozen(v)">cousen,</form> <xpln lexeme="cheat(v)">to cheat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="countermand(v)">countermand,</form> <xpln>to bid con&shy;
+trary.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="current(n)">current,</form> <xpln lexeme="stream(n)">a stream.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="current(a)">currant,</form> <xpln lexeme="passable(a)">passable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="currant(n)">corants,</form> <xpln lexeme="plum(n)">plums.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cravat(n)">cravet</form> <xpln>to be worn about
+the neck.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crevet(n)">crevet,</form> <xpln> a Goldsmiths mel&shy;
+ting-pot.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D.</alpha>
+
+<wordentry type="h"><form lexeme="dam(n)"><f type="bk">D<f type="r">Am,</form> <xpln>a stopping of the
+water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="damn(v)">Damn,</form> <xpln lexeme="condemn(v)">to condemn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="damsel(n)">Damsel,</form> <xpln>a brave lass.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="damson(n)">damsin,</form> <xpln>a black plum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dandruff(n)">Dandruff,</form> <xpln>or scurf in the
+head.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="darling(n)">A darling,</form> <xpln>one that's dear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dandiprat(n)">dandeprat,</form> <xpln lexeme="dwarf(n)">dwarf.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dear(a)">dear,</form> <xpln lexeme="beloved(a)">beloved.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cost(v)">it cost</form> <xpln>dear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="deer(n)">deer,</form> <xpln lexeme="hart(n)" lexeme="buck(n)">an hart, buck.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="defer(v)">defer,</form> <xpln lexeme="delay(v)">to delay.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="differ(v)">differ,</form> <xpln lexeme="vary(v)">to vary.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="demur(v)">demur,</form> <xpln lexeme="debate(v)" lexeme="doubt(v)">debate, doubt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="deambulation(n)">deambulation,</form> <xpln>walking
+abroad.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="demure(a)">demure,</form> <xpln lexeme="modest(v)">modest.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="desert(n)">Desart,</form> <xpln lexeme="wilderness(n)">wildernese.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="desert(v)">desert,</form> <xpln lexeme="forsake(v)">to forsake.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="descent(n)">descent,</form> <xpln lexeme="genealogy(n)">genealogie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="decent(a)">decent,</form> <xpln lexeme="comely(a)" lexeme="handsome(a)">comly, hansom.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dissent(v)">dissent,</form> <xpln lexeme="disagree(v)">to disagree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="device(n)">devices,</form> <xpln lexeme="trick(n)">tricks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Devizes(pn)"><f type="i">Devizes,<f type="r"></form> <xpln><f type="r">a Towns name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diary(n)">diary,</form> <xpln>a daily calender.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dairy(n)">dairy,</form> <xpln>where cheese is
+made.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dilate(v)">Dilate,</form> <xpln lexeme="enlarge(v)">enlarge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="discomfit(v)">discomfit,</form> <xpln>to make com&shy;
+fortless.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dine(v)">Dine,</form> <xpln>to eat a dinner.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="digest(v)">Digest,</form> <xpln>to set in order.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dissolute(a)">dissolute,</form> <xpln lexeme="debaucht(a)" lexeme="loose(a)">debaucht, loose.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="desolate(a)">dissolate,</form> <xpln lexeme="uncomfortable(a)">uncomfortable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="doer(n)">doer,</form> <xpln lexeme="maker(n)">a maker.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="door(n)">door</form> <xpln>of a house.</xpln></wordentry>
+</page>
+
+<page no="44">
+<wordentry type="h"><form lexeme="domestic(a)">Domestick,</form> <xpln lexeme="household(n)">houshold.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dough(n)">dough,</form> <xpln>unbaked bread.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="done(a)">done,</form> <xpln lexeme="finished(a)">finished.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dun(a)">dun,</form> <xpln>a dark colour.</xpln></wordentry>
+
+<wordentry type="h"><form>Doest thou blow the dust.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dollar(n)">doller,</form> <xpln>a Dutch-coine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dolour(n)">dolour,</form> <xpln lexeme="grief(n)">grief.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drain(v)">drain,</form> <xpln>to draw ponds dry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drawn(a)">drawn,</form> <xpln lexeme="pulled(a)">pull'd.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="draught(n)">draught</form> <xpln>of drink.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drought(n)">drought,</form> <xpln lexeme="dryness(n)">driness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="driblet(n)">driblets,</form> <xpln>small sums.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dray(n)">dray,</form> <xpln>a Brewers sled.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="draw(v)">draw,</form> <xpln lexeme="pull(v)">to pull.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dew(n)">dew,</form> <xpln>small drops.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="due(a)">due,</form> <xpln lexeme="owing(a)">or owing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dunce(n)">dunce,</form> <xpln>an unapt boy.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E.</alpha>
+
+<wordentry type="h"><form lexeme="ear(n)"><f type="bk">E<f type="bk"><f type="r">Ar,</form> <xpln)">a mans ear.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ere(adv)">ere,</form> <xpln lexeme="before(adv)">before.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="err(v)">to erre</form> <xpln>in judgement.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="year(n)">Year,</form> <xpln>12 moneths.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="early(adv)">early,</form> <xpln lexeme="betimes(adv)">betimes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yearly(adv)">Yearly,</form> <xpln>year by year.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="edge(n)">edge,</form> <xpln lexeme="brim(n)">or brim.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hedge(n)">Hedge,</form> <xpln lexeme="fence(n)">or Fence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="earn(v)">Earn,</form> <xpln>to get money.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yearn(v)">yern,</form> <xpln>moved with com&shy;
+passion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yarn(n)">Yarn,</form> <xpln lexeme="thread(n)">thread.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="earth(n)">Earth</form> <xpln>we tread on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hearth(n)">hearth,</form> <xpln>the chimney floor.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="east(n)">East,</form> <xpln>where the sun riseth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="effeminate(a)">Effeminate,</form> <xpln lexeme="woman-like(a)">woman-like.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="egrimony(n)">Egrimony,</form> <xpln lexeme="sickness(n)" lexeme="grief(n)">sickness, grief.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emerald(n)">Emeraud,</form> <xpln>a precious-
+stone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="haemorrhoids(n)">Emeroids,</form> <xpln lexeme="piles(n)">Piles.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emulate(v)">Emulate,</form> <xpln lexeme="strive(v)" lexeme="exceed(v)">to strive to ex&shy;
+ceed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imminent(a)">imminent,</form> <xpln>hanging over.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elegancy(n)">Elegancy,</form> <xpln>finesse in
+speech.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Esther(pn)"><f type="i">Esther<f type="r">,</form> <xpln>a Queens name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Easter(pn)">Easter</form> <xpln>a times name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hester(pn)">Hester,</form> <xpln>an Idols name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yesterday(n)">Yesterday,</form> <xpln>a day past.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eye(n)">eyes,</form> <xpln>to see with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ice(n)">Ice,</form> <xpln>frozen water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inter(v)">interr,</form> <xpln lexeme="bury(v)">bury.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enter(v)">enter,</form> <xpln>to go in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="entire(a)">intire,</form> <xpln lexeme="whole(a)">whole.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="endorse(v)">Endorse,</form> <xpln>to write on the
+backside.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epidemical(a)">Epidemical,</form> <xpln lexeme="universal(a)">universal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="etymology(n)">Etimology,</form> <xpln>a true expo&shy;
+sition.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exasperate(v)">exasperate</form> <xpln>to make angry</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="extirpate(v)">Extirpate,</form> <xpln lexeme="root out(v)">to root out.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F.</alpha>
+
+<wordentry type="h"><form lexeme="fame(n)"><f type="bk">F<f type="r">Ame,</form> <xpln lexeme="rumour(n)">rumour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="facility(n)">facility,</form> <xpln lexeme="ease(n)" lexeme="facile(a)" lexeme="easy(a)">ease, facile,
+easie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="feign(v)">feign,</form> <xpln lexeme="counterfeit(v)">to counterfeit.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fanatic(a)">fanatick,</form> <xpln>a distracted per&shy;
+son.</xpln></wordentry>
+</page>
+
+<page no="45">
+<wordentry type="h"><form lexeme="fair(a)">fair,</form> <xpln lexeme="beautiful(a)">beautiful.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fare(v)">fare,</form> <xpln lexeme="feed on(v)">to feed on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="feat(a)">feat,</form> <xpln lexeme="fine(a)" lexeme="neat(a)">fine, neat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fell(v)">fell,</form> <xpln>to hew timber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="feofee(n)">A <f type="i">Feofee<f type="r">,</form> <xpln>one intrusted
+in an estate for another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="felicity(n)">felicity,</form> <xpln lexeme="happiness(n)">happiness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fined(a)">fin'd</form> <xpln>for Alderman.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="find(v)">finde,</form> <xpln>to get again.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fiend(n)">fiends,</form> <xpln>evil spirits.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fin(n)">fins</form> <xpln>on fish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fillip(n)">fillip</form> <xpln>with a finger.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Philip(pn)"><f type="i">Philip<f type="r">,</form> <xpln>a mans name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flay(v)">flea,</form> <xpln>to pull off the skin.
+or that breeds in beds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flee(v)">flee,</form> <xpln lexeme="escape(v)">to escape.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flitch(n)">flitch</form> <xpln>of Bacon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flagrant(a)">flagrant,</form> <xpln lexeme="burning(a)" lexeme="ardent(a)">burning, ardent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="floor(n)">flour</form> <xpln>of a chamber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flower(n)">flower</form> <xpln>of a plant.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flower(n)">flower,</form> <xpln>fine meal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flock(n)">flocks</form> <xpln>of wool.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bloody-flux(n)">Bloody-flux.</form> <xpln> </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fool(n)">fool,</form> <xpln>a silly fellow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foal(n)">foal,</form> <xpln>a young colt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foil(n)">foil,</form> <xpln lexeme="repulse(n)">a repulse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fomentation(n)">fomentation,</form> <xpln>a warm me&shy;
+dicine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foul(a)">foul,</form> <xpln lexeme="dirty(a)">dirty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fowl(n)">fowl,</form> <xpln lexeme="bird(n)">a bird.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fore(adv)">fore,</form> <xpln lexeme="before(adv)" lexeme="former(adv)">before, former.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="four(n)">four,</form> <xpln>a number, or 4 ones.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="forth(adv)">forth,</form> <xpln lexeme="without(adv)">without.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fourth(n)">fourth</form> <xpln>day of <f type="i">June.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="frieze(n)"><f type="r">frize,</form> <xpln>shagged cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="freeze(v)">freeze,</form> <xpln lexeme="congeal(v)">to congeal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="froise(n)">froise,</form> <xpln>a sort of pancake.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phrase(n)">phrase,</form> <xpln>a quaint expression</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fur(n)">furres,</form> <xpln>fine hairy skins.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furze(n)">furze,</form> <xpln>prickly shrubs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="frugal(a)">frugal,</form> <xpln lexeme="thrifty(a)">thrifty.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G.</alpha>
+
+<wordentry type="h"><form lexeme="galley(n)"><f type="bk">G<f type="r">Allies,</form> <xpln>great boats.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gallows(n)">Gallows,</form> <xpln>to hang
+rogues.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gard(n)">gard,</form> <xpln>a great hem of a
+garment.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guard(n)">Guard,</form> <xpln>a company of men
+that guard a person.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gargle(v)">Gargle,</form> <xpln>to wash the mouth
+and throat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="garden(n)">garden</form> <xpln>where plants grow</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guardian(n)">Guardian,</form> <xpln>One trusted
+with a fatherless child.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="garrulity(n)">Garrulity,</form> <xpln>or vain babling.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gentle(a)">gentle,</form> <xpln lexeme="mild(a)">mild.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gentile(n)">Gentile,</form> <xpln lexeme="heathen(a)">Heathen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gesture(n)">Gestures,</form> <xpln>the carriage of
+the body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jester(n)">Jester,</form> <xpln>one that breaks a
+jest.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="genius(n)">Genius,</form> <xpln>a natural inclina&shy;
+tion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="geography(n)">Geography,</form> <xpln>a description
+of the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="glitter(v)">glitter</form> <xpln>as gold.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="glyster(n)">glyster,</form> <xpln>given to a sick
+man.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gay(a)">Gay,</form> <xpln>a fine suit of clothes.</xpln>
+<lemenote>Sense not in OED</lemenote></wordentry>
+</page>
+
+<page no="46">
+<wordentry type="h"><form lexeme="gout(n)">gout,</form> <xpln>a disease in the joints</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="grass(n)">grass</form> <xpln>of the earth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="graze(v)">grase,</form> <xpln>to eat grass,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="grace(n)">Grace</form> <xpln>infused into the soul</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gray(a)">Gray,</form> <xpln>a colour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="greyhound(n)">Grey-hound.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="groan(v)">groan,</form> <xpln>to make a doleful
+cry.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="grown(a)">grown,</form> <xpln lexeme="thriven(a)">thriven.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="groat(n)">groat,</form> <xpln>four pence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="grot(n)">grot,</form> <xpln lexeme="cave(n)">a cave.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gross(n)">a gross,</form> <xpln>12 dozen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gross(a)">gross,</form> <xpln lexeme="fat(a)">fat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guess(v)">guess,</form> <xpln lexeme="conjecture(n)">a conjecture.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guest(n)">guest,</form> <xpln lexeme="conjecture(v)">to conjecture.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guest(n)">guest,</form> <xpln>whom we entertain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="guilt(n)">guilt,</form> <xpln>or guilty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gilt(a)">gilt,</form> <xpln lexeme="gilded(a)">gilded.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gun(n)">gun,</form> <xpln>to shoot.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gone(v)">gone,</form> <xpln>went away.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H.</alpha>
+
+<wordentry type="h"><form lexeme="hack(v)"><f type="bk">H<f type="r">Ach,</form> <xpln>to hach cold
+meat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hatch(n)">hatch</form> <xpln>for a door.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hatch(v)">hatch</form> <xpln>up the chicken.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hatch(n)">hatches</form> <xpln>of a ship.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hale(v)">hale,</form> <xpln lexeme="lug(v)">to lug</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hail-stone(n)">Hail-stones</form> <xpln> </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hare(v)">hare,</form> <xpln>we hunt</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hair(n)">Hair,</form> <xpln>of the head</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="haunch(n)">A haunch</form> <xpln>of Venison</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="heir(n)">heir,</form> <xpln>the eldest son</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="harbinger(n)">an harbinger,</form> <xpln>one that
+goes before</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hawser(n)">Halser,</form> <xpln>that which haleth a
+ <damage> </damage></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hie(v)">hye,</form> <xpln>to make hast</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="high(a)">high,</form> <xpln lexeme="lofty(a)">lofty</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoy(n)">hoy,</form> <xpln lexeme="vessel(n)"><emend err="avessel">a vessel</emend></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="heart(n)">heart</form> <xpln>in the breast</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hart(n)">hart,</form> <xpln lexeme="deer(n)">a Deer</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hear(v)">hear,</form> <xpln lexeme="hearken(v)">hearken</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="here(adv)">here,</form> <xpln>in this place</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="herring(n)">herring,</form> <xpln lexeme="fish(n)">a fish</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="heard(v)">heard,</form> <xpln>I did hear</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="herd(n)">Herd,</form> <xpln>a drove of Cattel</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hard(a)">hard,</form> <xpln lexeme="solid(a)">solid</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hearse(n)">Herse,</form> <xpln>to lay over the dead</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hippocras(n)">Hippocras,</form> <xpln>a kind of
+sweet wine compounded.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoarse(a)">hoarse</form> <xpln>with a cold</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horse(n)">Horse,</form> <xpln>to ride on</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hollow(a)">Hollow,</form> <xpln lexeme="empty(a)">empty</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hollo(v)">hollo,</form> <xpln>to cry aloud</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hallow(v)">hallow,</form> <xpln>to make holy</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="holly(n)">holly,</form> <xpln>a tree</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="holy(a)">holy,</form> <xpln lexeme="devout(a)">devout</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hole(n)">hole</form> <xpln>that is bored</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="whole(n)">whole,</form> <xpln lexeme="total(n)">the total</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="honeymoon(n)">Honny-moon,</form> <xpln>a proverb
+applied to som that love
+well at first, and not so
+well afterward</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="home(n)">home</form> <xpln>at his house</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="whom(r)">whom,</form> <xpln>that which</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoop(n)">hoop</form> <xpln>of a barrel</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="whoop(v)">whoop,</form> <xpln>or cry aloud</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoar(n)">hoar,</form> <xpln lexeme="frost(n)">a frost</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="whore(n)">whore,</form> <xpln lexeme="harlot(n)">a harlot</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horehound(n)">hore-hound</form> <xpln>a plant</xpln></wordentry>
+</page>
+
+<page no="47">
+<wordentry type="h"><form lexeme="hue(n)">hue,</form> <xpln lexeme="visage(n)" lexeme="physiognomy(n)"><emend err="avisage">a visage</emend>, Physiogno&shy;
+my</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hue(n)">hue and cry</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hew(v)">hew,</form> <xpln lexeme="cut(v)">to cut</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="huff(n)">hough,</form> <xpln>a suddain pet</xpln><lemenote>Antedates first OED citation</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="hurly-burly(n)">hurly burly,</form> <xpln lexeme="tumult(n)">a tumult</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hierarchy(n)">Hirarchy,</form> <xpln>Principality in
+subordination</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i"><alpha>I.</alpha>
+
+<wordentry type="h"><form lexeme="jamb(n)">Jambs,</form> <xpln>side posts of a door</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="James(pn)">James,</form> <xpln>a mans name</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idol(n)">Idol,</form> <xpln>a false God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="idle(a)">idle,</form> <xpln lexeme="slothful(a)">slothfull</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="isle(n)" lexeme="island(n)">Isle or Island,</form> <xpln lexeme="oil(n)" lexeme="olive(n)">oyl Olive</xpln><lemenote>This explanation does not make sense.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="employ(v)">employ,</form> <xpln>to set to work</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ignominy(n)">Ignominie,</form> <xpln lexeme="infamy(n)">infamy</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illegitimate(a)">Illegitimate,</form> <xpln lexeme="base-born(a)">base born</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incite(v)">incite,</form> <xpln lexeme="provoke(v)">to provoke</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="insight(n)">insight,</form> <xpln>skill in any thing</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impugn(v)">impugne,</form> <xpln lexeme="stir against(v)" lexeme="resist(v)">to stir against,
+resist</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impenetrable(a)">impenetrable,</form> <xpln>that which
+cannot be pierced</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impregnable(a)">impregnable,</form> <xpln lexeme="invincible(a)">invincible</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imprecation(n)">imprecation,</form> <xpln lexeme="cursing(n)">cursing</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imbecility(n)">imbecility,</form> <xpln lexeme="weak(a)" lexeme="infirm(a)">weak, infirm</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ingenuous(a)">ingenuous,</form> <xpln lexeme="free(a)" lexeme="good-natured(a)">free, good na&shy;
+tur'd</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inflexible(a)">inflexible,</form> <xpln>not to be mov'd</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ingenious(a)">ingenious,</form> <xpln>good parts</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inn(n)">Inne,</form> <xpln>a house of entertain&shy;
+ment</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="in(pp)">in,</form> <xpln>in this place</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inculcate(v)">inculcate,</form> <xpln lexeme="press(v)">to press, to teach
+by often repetition.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="interpellation(n)">interpellation,</form> <xpln lexeme="interruption(n)">a let in ones
+business, an interruption</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inviolable(a)">inviolable</form> <xpln>that cannot be
+broken</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Job(pn)">Job,</form> <xpln>a patient man</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="job(n)">jobs,</form> <xpln>an odd piece of work</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jowl(n)">joul</form> <xpln>of Salmon</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Joyce(pn)">Joice,</form> <xpln>a womans name</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="joist(n)">joist,</form> <xpln>a little beam</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jointure(n)">jointure,</form> <xpln>wifes dowry</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="juice(n)">juice,</form> <xpln>liquor squeezed out</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="iterate(v)">iterate,</form> <xpln>to repeat a thing</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="itch(n)">itch,</form> <xpln lexeme="humour(n)">a humour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hitch(v)">hitch,</form> <xpln lexeme="entangle(v)">entangle</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jug(n)">jug,</form> <xpln lexeme="bottle(n)">a bottle</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jurisdiction(n)">Jurisdiction,</form> <xpln lexeme="power(n)" lexeme="authority(n)" lexeme="mastership(n)" lexeme="dominion(n)">power, autho&shy;
+rity, mastership, domi&shy;
+nion</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k"><alpha>K.</alpha>
+
+<wordentry type="h"><form lexeme="kill(v)">kill,</form> <xpln lexeme="destroy(v)">to destroy</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kiln(n)">kiln,</form> <xpln>to dry malt in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kayles(n)">kailes,</form> <xpln lexeme="nine pins(n)">nine pins</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chyle(n)">chyle,</form> <xpln>meat first digested</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="keel(n)">keel,</form> <xpln>the bottom of a ship</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="keen(a)">keen,</form> <xpln lexeme="sharp(a)">or sharp</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kin(n)">kin,</form> <xpln>one nearly related</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knead(v)">knead</form> <xpln>the dough</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nave(n)">The nave</form> <xpln>of a cart wheel</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knave(n)">knave,</form> <xpln>a vile fellow</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L.</alpha>
+
+<wordentry type="h"><form lexeme="legerdemain(n)">leger de main,</form> <xpln>crafty con&shy;
+veyance</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lamb(n)">lamb,</form> <xpln>that a sheep brings</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lame(n)">lame,</form> <xpln>one that halts</xpln></wordentry>
+</page>
+
+<page no="48">
+<wordentry type="h"><form lexeme="launch(v)">launch,</form> <xpln>to put out a ship
+from harbour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lass(n)">lass,</form> <xpln>a young maid</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="last(n)">last,</form> <xpln>to make shoes upon</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Latin(n)">Latin,</form> <xpln>the latin tongue</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="latten(n)">Latten,</form> <xpln lexeme="tin(n)">tinne</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="line(n)">line</form> <xpln>in writing</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="loin(n)">loyn</form> <xpln>of mutton</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leaden(a)">Leaden,</form> <xpln>made of Lead</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Leiden(pn)">Leyden</form> <xpln>a University in
+Holland</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="led(a)">led,</form> <xpln>was led by another</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lead(v)">lead,</form> <xpln lexeme="guide(v)">to guide</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="league(n)">league,</form> <xpln>a covenant of
+peace</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leg(n)">leg,</form> <xpln>that one goes upon</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leaper(n)">leaper,</form> <xpln>one that leapeth</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leper(n)">Leper,</form> <xpln>one that hath the
+Leprosie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leopard(n)">Leopard,</form> <xpln>a spotted beast</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lease(v)">lease,</form> <xpln>to pick up shattered
+corn</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leash(n)">a leash</form> <xpln>of hounds</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lease(n)">lease,</form> <xpln lexeme="indenture(n)">an indenture</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="least(a)">least,</form> <xpln>that which is least</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="less(a)">less,</form> <xpln lexeme="small(a)">small</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lessee(n)">lessee;</form> <xpln>he that takes a leas</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lest(c)">lest;</form> <xpln>a note of forbidding ;</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="legion(n)">Legion;</form> <xpln>six thousand men</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="legend(n)">legends;</form> <xpln>Popish fables</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leman(n)">Leman;</form> <xpln lexeme="strumpet(n)">a strumpet</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lemon(n)">Lemons,</form> <xpln>or Oranges</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lessen(v)">lessen;</form> <xpln>to make less</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lesson(n)">lesson;</form> <xpln>that Scholars learn</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Letice(pn)">Letice,</form> <xpln>a womans name</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lettyce(n)">lettice;</form> <xpln>an herb</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lattice(n)">lattices;</form> <xpln>cross barrs in
+windows</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lice(n)">lice,</form> <xpln>filthy vermin</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lie(n)">lies;</form> <xpln>false tales</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lighter(n)">lighter</form> <xpln>of Coals</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="limber(a)">limber;</form> <xpln lexeme="weak(a)">weak; easily bent</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="limner(n)">limner</form> <xpln>that draws pictures</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="liturgy(n)">liturgy,</form> <xpln>the common prayer</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lethargy(n)">lethargy;</form> <xpln>a drowsie disease</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="loathe(v)">loath;</form> <xpln lexeme="disdain(v)">to disdain</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="loath(a)">loth;</form> <xpln lexeme="unwilling(a)">unwilling</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lunatic(a)">Lunatick;</form> <xpln lexeme="frantic(a)">frantick</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lustre(n)">lustre;</form> <xpln lexeme="shining(a)">shining</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="luxurious(a)">luxurious;</form> <xpln lexeme="riotous(a)">riotous; given to
+pleasure</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M.</alpha>
+
+<wordentry type="h"><form lexeme="mail(n)">Mail;</form> <xpln>a coat of mail to
+pack up things</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="magazine(n)">megazine;</form> <xpln>a store-house
+for war</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maugre(pp)">Maugre;</form> <xpln lexeme="in spite(pp)">in spite ; against
+ones will</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="male(n)">Male;</form> <xpln lexeme="he(pr)" lexeme="masculine(a)">the he; or Masculine</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="melancholy(n)">melancholy;</form> <xpln lexeme="sad(a)" lexeme="heavy(a)" lexeme="sullen(a)" lexeme="solitary(a)">sad; heavy;
+sullen; solitary</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="major(n)">major;</form> <xpln>a commander in
+the Army</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metropolitan(n)">metropolitan;</form> <xpln>chief city or
+town</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="major(n)" lexeme="city(n)">maior of a city,</form> <xpln>Lord
+Major</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maturity(n)">Maturity,</form> <xpln lexeme="ripeness(n)">ripeness, fulne
+ <damage> </damage></xpln></wordentry>
+</page>
+
+<page no="49">
+<wordentry type="h"><form lexeme="mare(n)">mare,</form> <xpln>that bears colt</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mark(n)">A mark,</form> <xpln>two nobles, thir&shy;
+teen shillings 4d.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="main(n)">main,</form> <xpln lexeme="might(n)" lexeme="chiefest(n)">might, chiefest</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mane(n)">mane</form> <xpln>of a horse</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="manchet(n)">manchet,</form> <xpln>fine white bread</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mansion(n)">mansion,</form> <xpln>a Lords chief
+house</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="manner(n)">manner,</form> <xpln lexeme="fashion(n)">fashion</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="manners(n)">manners,</form> <xpln>good carriage</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="manor(n)">mannour,</form> <xpln lexeme="lordship(n)">a Lordship</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="manure(v)">manure,</form> <xpln>to dung-ground</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maranatha(a)">maranatha,</form> <xpln lexeme="accursed(n)">accursed</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="marred(a)">marred,</form> <xpln lexeme="spoiled(a)" lexeme="corrupted(a)">spoiled, corrupted</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="married(a)">married,</form> <xpln>joyned in marri&shy;
+age</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="marshal(n)">marshal,</form> <xpln>the name of an
+Officer</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="martial(a)">martial,</form> <xpln>belonging to war</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="martin(n)">martin,</form> <xpln>a bird</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="martyr(n)">martyr,</form> <xpln>Christs witness</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Merton(pn)">Merton,</form> <xpln>a Town in <f type="i">Surrey<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mass(n)"><f type="r">mass,</form> <xpln>the Popish letany</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mast(n)">mast,</form> <xpln>the mast of a ship</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mast(n)">maste,</form> <xpln lexeme="acorn(n)">acorn</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="medlar(n)">medlar,</form> <xpln>a sort of fruit</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meddler(n)">medlar,</form> <xpln lexeme="busy-body(n)">a busie body</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="melon(n)">melon,</form> <xpln>a kind of pompion</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="million(n)">million,</form> <xpln>ten hundred thou&shy;
+sand</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mete(a)">meet,</form> <xpln lexeme="fit(a)" lexeme="convenient(a)">fit, convenient</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meat(n)">meat,</form> <xpln>that we eat</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="message(n)">message,</form> <xpln lexeme="errand(n)">errand</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="messuage(n)">messuage,</form> <xpln lexeme="tenement(n)">tenement</xpln></wordentry>
+
+<wordentry type="h"><form> <damage> </damage></form> <xpln> <damage> </damage></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meeter(a)">meeter,</form> <xpln lexeme="fitter(a)">fitter</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="meter(n)">meter,</form> <xpln lexeme="verse(a)" lexeme="rhyme(a)">verse, rhime</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="methridate(n)">Methridate;</form> <xpln>a convection
+in Physick</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="might(n)">might,</form> <xpln lexeme="power(n)">power</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mile(n)">mile,</form> <xpln>1760 yards in length</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mite(n)">mite,</form> <xpln lexeme="worm(n)">small coine, a worm</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moat(n)">moat,</form> <xpln>a pond about a house</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mote(n)">mote,</form> <xpln>the least dust or that
+which breeds in wool</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Moore(pn)">Moore,</form> <xpln>a mans name</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="more(a)">more;</form> <xpln>that exceedeth</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moor(n)">moor;</form> <xpln>a fenny ground</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mortar(n)">mortar</form> <xpln>that we pound in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="morter(n)">morter;</form> <xpln>made of lime and
+sand</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moiety(n)">Moyety,</form> <xpln>the one half</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mo(a)">mo.</form> <xpln lexeme="more(a)">for more</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mow(v)">mowe;</form> <xpln>to cut grass</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mow(n)">mow,</form> <xpln>a rick of corn</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="muzzle(v)">muzzle,</form> <xpln>to stop the mouth</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="muscle(n)">muscle,</form> <xpln>a small shell fish</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="muscle(n)">muscle,</form> <xpln>a moving part of
+the body</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N.</alpha>
+
+<wordentry type="h"><form lexeme="naught(a)"><f type="bk">N<f type="r">Aught,</form> <xpln lexeme="bad(a)" lexeme="wicked(a)">bad, wicked</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nought(n)">Nought,</form> <xpln lexeme="nothing(n)">nothing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nether(a)">Neather,</form> <xpln lexeme="lower(a)">lower.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="neither(a)">neither,</form> <xpln>none of them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nesh(a)">nesh,</form> <xpln lexeme="tender(a)" lexeme="effeminate(a)">tender, effeminate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nice(a)">nice,</form> <xpln lexeme="curious(a)" lexeme="delicate(a)">curious, delicate.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="niece(n)">Neece,</form> <xpln>a brother or sisters
+daughter</xpln></wordentry>
+</page>
+
+<page no="50">
+<wordentry type="h"><form lexeme="nephew(n)">Nephew,</form> <xpln>a brothers son.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="neigh(v)">neigh</form> <xpln>as horses do.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nay(adv)">nay,</form> <xpln lexeme="no(adv)">not so, or no.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nigh(adv)">nigh,</form> <xpln lexeme="near(adv)">near.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="noble(n)">A Noble,</form> <xpln>six shillings 8 <f type="i">d.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nose(n)"><f type="r">nose</form> <xpln>on the face.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="noise(n)">Noise,</form> <xpln lexeme="stir(n)" lexeme="clamour(n)">stir, clamour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="news(n)">News,</form> <xpln lexeme="report(n)" lexeme="things(n)">report of things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nonage(n)">nonnage;</form> <xpln>one not come to
+age.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="notorious(a)">notorious,</form> <xpln>noted for some
+vice.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o"><alpha>O.</alpha>
+
+<wordentry type="h"><form lexeme="obscene(a)"><f type="bk">O<f type="r">Bscene,</form> <xpln lexeme="filthy(a)">filthy.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oar(n)">Oar,</form> <xpln>to row with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ore(n)">Ore,</form> <xpln>unrefined metal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oyer and terminer(n)">Oyer and terminer.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="one(n)">One,</form> <xpln>the first number.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="own(v)">own,</form> <xpln>to acknowledg with
+propriety.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="omniscient(a)">Omniscient,</form> <xpln lexeme="all-seeing(a)">All-seeing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ominous(a)">ominous,</form> <xpln>portending good
+or hurt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="once(adv)">Once,</form> <xpln>one time.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="one, of(pr)">One's,</form> <xpln>of one, as one's
+body, one's right</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ounce(n)">Ounce</form> <xpln>in weight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="onion(n)">Onion,</form> <xpln>a plant</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="union(n)">Union,</form> <xpln lexeme="agreement(n)">agreement.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oh(ex)">Oh,</form> <xpln>a note of bemoaning.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="opprobrious(a)">Opprobrious,</form> <xpln lexeme="reproachful(a)">reproachful</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="owe(v)">Owe,</form> <xpln>to be in debt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oppugn(v)">Oppugne,</form> <xpln lexeme="assault(v)" lexeme="batter(v)">to assault, to
+batter.</xpln></wordentry>
+
+<wordentry type="h"><form> <damage> </damage></form> <xpln> <damage> </damage></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orthography(n)">Orthography,</form> <xpln>true writ&shy;
+ing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ostentation(n)">Ostentation,</form> <xpln>vain boasting</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p"><alpha>P.</alpha>
+
+<wordentry type="h"><form lexeme="pace(n)">A Pace, or</form> <xpln>step, 2 feet 1/2.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pail(n)">Pail,</form> <xpln>to carry milk in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pale(a)">pale,</form> <xpln lexeme="wan(a)">or wan.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pale(n)">pale,</form> <xpln>or pales to a garden.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paragraph(n)">Paragraph;</form> <xpln>that which is
+contain'd in one sen&shy;
+tence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pair(n)">Pair,</form> <xpln>a pair of hose.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pare(v)">pare,</form> <xpln lexeme="cut off(v)">to cut off.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="repair(v)">repair,</form> <xpln>to mend what is
+decay'd, or to go to a
+place.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="palate(n)">palate,</form> <xpln>the roof of the
+mouth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pallet(n)">Pallet,</form> <xpln>a little bed</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="palliate(v)">palliate,</form> <xpln>to cloak a busi&shy;
+ness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pavilion(n)">Pavilion,</form> <xpln lexeme="tent(n)">a tent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pain(n)">pains,</form> <xpln lexeme="labour(n)">labour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pane(n)">panes</form> <xpln>of glass.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pan(n)">pans</form> <xpln>of Brass.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parson(n)">Parson</form> <xpln>of a Parrish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="penetrate(v)">penetrate,</form> <xpln lexeme="pierce(v)">to pierce,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="person(n)">person,</form> <xpln>a man or <emend err="moman">woman</emend></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="penury(n)">penury,</form> <xpln lexeme="want(n)">want.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="partition(n)">partition,</form> <xpln>as a wall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="petition(n)">petition,</form> <xpln>an humble re&shy;
+quest.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="permanent(a)">Permanent,</form> <xpln lexeme="durable(a)">durable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="patent(a)">Patent</form> <xpln lexeme="open(a)">open, as a letter. </xpln></wordentry>
+
+<wordentry type="h"><form> <damage> </damage></form> <xpln> <damage> </damage></xpln></wordentry>
+</page>
+
+<page no="51">
+<wordentry type="h"><form lexeme="patten(n)">Patins,</form> <xpln>that women walk
+upon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="patience(n)">patience,</form> <xpln>that grace of
+suffering.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="patient(n)">Patient,</form> <xpln>a sick person.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pause(n)">Pause,</form> <xpln>a stop in speaking.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paw(n)">paws</form> <xpln>of a Lion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="piece(n)">peice,</form> <xpln>a peice of cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="peas(n)">pease,</form> <xpln lexeme="pulse(n)">pulse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pear(n)">Pear,</form> <xpln>a sort of fruit.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="peer(n)">Peer,</form> <xpln>a Noble man.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pebble(n)">pebble,</form> <xpln>a little stone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="people(n)">people,</form> <xpln>a multitude of
+men.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pen(n)">pens</form> <xpln>for writing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pence(n)">pence, as</form> <xpln>six pence.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pestle(n)">pestil,</form> <xpln>wherewith we
+pound, something.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pestle(n)">Pestle</form> <xpln>of Pork.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epistle(n)">Epistle,</form> <xpln lexeme="letter(n)">a letter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pistol(n)">Pistol,</form> <xpln>a little gun.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pizzle(n)">pizzle</form> <xpln>of a beast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="phlebotomy(n)">Phlebotomy,</form> <xpln>letting blood</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pilate(pn)"><f type="i">Pilate<f type="r">,</form> <xpln>who condemned
+Christ.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pilot(n)">Pilot,</form> <xpln>a guide of a ship.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="place(n)">place,</form> <xpln lexeme="room(n)" lexeme="space(n)">room, space.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plaice(n)">plaice,</form> <xpln>a flat fish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plat(n)">plat,</form> <xpln>a parcel of ground.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plait(v)">plait,</form> <xpln>to set the hair in
+order.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="play(n)">play</form> <xpln lexeme="game(n)" lexeme="comedy(n)">a game, or comedie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plea(n)">plea,</form> <xpln lexeme="defence(n)" lexeme="excuse(n)">a defence, excuse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="poach(v)">To poach</form> <xpln>an egg. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pottage(n)">Pottage,</form> <xpln lexeme="porridge(n)">or porrage to
+eat.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="portage(n)">Portage,</form> <xpln lexeme="carriage(n)">carriage.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pole(n)">Pole,</form> <xpln>a long stick.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="poll(v)" lexeme="head(n)">poll the head,</form> <xpln>or to cut the
+hair.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="poor(a)">poor,</form> <xpln>in want.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pore(v)">pore,</form> <xpln>to fix the eyes on a
+thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="potion(n)">potion,</form> <xpln lexeme="parcel(n)" lexeme="quantity(n)">a parcel or quan&shy;
+tity given.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="portion(n)">portion,</form> <xpln>a daughters por&shy;
+tion.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="power(n)">power,</form> <xpln lexeme="might(n)">might.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pour(v)">powr</form> <xpln>out of a vessel.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pragmatical(a)">pragmatical,</form> <xpln>a practitio&shy;
+ner in the Law, or one
+expert in many things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pray(v)">Pray,</form> <xpln>to put up requests
+to God.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prey(n)" lexeme="prey(v)">Prey,</form> <xpln lexeme="spoil(v)" lexeme="devour(v)">a spoil, to devour.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pry(v)">Pry,</form> <xpln lexeme="search into(v)">to search into.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="precedent(n)">precedent;</form> <xpln lexeme="fore-going(n)">fore-going.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="president(n)">President,</form> <xpln lexeme="chief-ruler(n)">chief-ruler, or
+example.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press(n)" lexeme="people(n)">Press of people.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prest-money(n)">Prest-money.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press(n)">Press</form> <xpln>for books.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="price(n)">price,</form> <xpln lexeme="value(n)" lexeme="worth(n)">value, worth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prize(n)">prize,</form> <xpln>taken from an ene&shy;
+my, or to value goods</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praise(v)">Praise,</form> <xpln lexeme="commend(v)">to commend.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="principal(a)">principal,</form> <xpln lexeme="chief(n)">chief.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="principle(n)">principle,</form> <xpln>a fundamental
+ <damage> </damage></xpln></wordentry>
+</page>
+
+<page no="52">
+<wordentry type="h"><form lexeme="propensity(n)">propensity,</form> <xpln lexeme="towardness(n)" lexeme="inclination(n)">towardness,
+inclination</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="profit(n)">profit,</form> <xpln lexeme="advantage(n)">advantage.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="profundity(n)">Profundity,</form> <xpln lexeme="depth(n)">depth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="profound(a)">profound,</form> <xpln lexeme="deep(a)">deep.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prophet(n)">Prophet,</form> <xpln>one that foretells
+things.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="puissant(a)">Puissant,</form> <xpln lexeme="mighty(a)" lexeme="strong(a)"> mighty, strong.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q"><alpha>Q.</alpha>
+
+<wordentry type="h"><form lexeme="quadripartite(a)">Quadripartite,</form> <xpln>of four
+parts</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quadruple(a)">Quadruple;</form> <xpln>four times as
+much.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarrel(n)">quarrel,</form> <xpln lexeme="strife(n)" lexeme="bickering(n)">strife, bickering</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarry(n)">quarie</form> <xpln>of glass</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarrt(n)">quarrie</form> <xpln>of stones</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="query(n)">querie,</form> <xpln lexeme="question(n)">a question</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarter(n)">quarter,</form> <xpln>the fourth part</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quartan(a)">quartan,</form> <xpln>belonging to the
+4th. part</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quench(a)">quench,</form> <xpln>to put out fire</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quince(n)">quince;</form> <xpln>a fruit</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quean(n)">quean;</form> <xpln lexeme="strumpet(n)">a strumpet</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="queen(n)">Queen;</form> <xpln>the Kings wife</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R.</alpha>
+
+<wordentry type="h"><form lexeme="raca(pn)">Raca;</form> <xpln lexeme="empty(a)" lexeme="silly(a)">empty, silly</xpln> <lemenote>not found</lemenote> </wordentry>
+
+<wordentry type="h"><form lexeme="rachal(pn)">Rachal;</form> <xpln lexeme="place(n)">a place</xpln><lemenote>not found</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="radiation(n)"><emend err="Radition">Radiation</emend>:</form> <xpln lexeme="brightness(n)">brightness</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rachel(pn)">Rachel,</form> <xpln>Jacobs wife</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="radical(a)">radical;</form> <xpln lexeme="inbred(a)">inbred</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rake-hell(n)">rake-hell;</form> <xpln>a notorious
+rogue</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="race(n)">race;</form> <xpln lexeme="descent(n)" lexeme="horse-race(n)">descent; or horse-race</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="raze(v)">rase,</form> <xpln lexeme="demolish(v)">to demolish</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rack(v)">rack,</form> <xpln lexeme="torment(v)">to torment men</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rack(n)">rack,</form> <xpln>for horses hay</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wreck(n)">wreck,</form> <xpln lexeme="ruin(n)">ruin</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shipwreck(n)">shipwrack,</form> <xpln>a ship cast a&shy;
+way</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="raise(v)">raise,</form> <xpln lexeme="lift up(v)">to lift up</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ray(n)">rays,</form> <xpln lexeme="sun-beam(n)">sun-beams</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rise(v)">rise,</form> <xpln lexeme="rise up(v)">to rise up</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="razor(n)">Razor,</form> <xpln>to shave with</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="raiser(n)">A raiser</form> <xpln>of taxes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rice(n)">rice,</form> <xpln>a sort of corn</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rosin(n)">rosen,</form> <xpln>a binding gum</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="read(v)">read,</form> <xpln>as to read a book</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="red(a)">red,</form> <xpln>a colour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reed(n)">reed,</form> <xpln>that grows</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="real(a)">real,</form> <xpln lexeme="sincere(a)">sincere, in earnest</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="royal(a)">royal,</form> <xpln lexeme="kingly(a)" lexeme="noble(a)">Kingly, noble</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rear(v)">rear,</form> <xpln lexeme="lift up(v)">to lift up</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rare(a)">rare,</form> <xpln>something excellent</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rere(a)">rere,</form> <xpln>behind as rere-ward</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reciprocal(a)">reciprocal,</form> <xpln lexeme="mutual(a)">mutual</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reign(v)">reign,</form> <xpln>to rule as soveraign</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rain(n)">rain,</form> <xpln>drops from the sky</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rainbow(n)">rain-bow</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rein(n)">rain</form> <xpln>of a bridle</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reins(n)">reins,</form> <xpln>of the back</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rinse(v)">to rinse</form> <xpln>linnen</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="recapitulate(v)">recapitulate,</form> <xpln>to rehearse
+briefly</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="retch(v)">retch,</form> <xpln lexeme="stretch(v)">to stretch</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reach(v)">reach,</form> <xpln>to fetch a thing to
+one</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wretch(n)">wretch,</form> <xpln lexeme="miserable(a)">miserable</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="repugn(v)">to repugne,</form> <xpln lexeme="resist(v)">to resist</xpln></wordentry>
+</page>
+
+<page no="53">
+<wordentry type="h"><form lexeme="right(a)">right,</form> <xpln lexeme="equal(a)" lexeme="just(a)">equal; just</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="right hand(n)">right hand</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rite(n)">rite,</form> <xpln lexeme="ceremony(n)">ceremony</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="write(v)">write</form> <xpln>with a pen</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Wright(pn)">Wright,</form> <xpln>a mans name</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rhetoric(n)">rhetorick</form> <xpln>the art of speak&shy;
+ing eloquently</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="roan(n)">roan,</form> <xpln lexeme="reddish(a)">reddish in colour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rouen(pn)">Rouen,</form> <xpln>a city in France</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rome(pn)">Rome;</form> <xpln>a City</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="room to rage(n)">rome to rage,</form> <xpln>tear all be&shy;
+fore one</xpln><lemenote>not found</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="room(n)">room;</form> <xpln lexeme="space(n)" lexeme="chamber(n)">a space, a chamber</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rough(a)">rough;</form> <xpln lexeme="rugged(a)" lexeme="coarse(a)">rugged, course</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="roof(n)">roof</form> <xpln>of an house</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ruff(n)">ruff;</form> <xpln>plaited as a ruff band</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="row(n)">row;</form> <xpln>of Trees</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="row(v)">row;</form> <xpln>in a boat</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="roe(n)">roe;</form> <xpln lexeme="wild-goat(n)">a wild-goat</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rowel(n)">rowel</form> <xpln>of a spur</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rule(n)">rule;</form> <xpln>that we should walk
+by</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S.</alpha>
+
+<wordentry type="h"><form lexeme="safeguard(n)">safeguard;</form> <xpln>sure custody</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sage(n)">sage;</form> <xpln>a herb</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sage(a)">sage;</form> <xpln lexeme="grave(a)" lexeme="wise(a)">grave, wise;</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sageness(n)">sageness;</form> <xpln lexeme="gravity(n)" lexeme="weightiness(n)">gravity, weighti&shy;
+ness</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="safe-guard(n)">saveguard,</form> <xpln>that women
+ride in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sale(n)">sale;</form> <xpln>to be sold</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sail(n)">sayl</form> <xpln>of a ship</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="salve(n)">salve;</form> <xpln lexeme="plaster(n)">a plaister</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="save(v)">save;</form> <xpln lexeme="defend(v)" lexeme="deliver(v)">to defend; or deliver</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="saviour(n)">saviour,</form> <xpln>one that saves</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scarce(adv)">scarce,</form> <xpln lexeme="hardly(adv)">hardly</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scar(n)">scars;</form> <xpln>cuts healed up</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scent(n)">scent,</form> <xpln lexeme="smell(n)">smell; that hounds
+do follow.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="since(adv)">since;</form> <xpln>since the time</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sense(n)">senses;</form> <xpln lexeme="hearing(n)" lexeme="seeing(n)" lexeme="smelling(n)" lexeme="tasting(n)" lexeme="feeling(n)">5 senses; hearing;
+seeing; smelling; tasting;
+feeling</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sent(v)">sent;</form> <xpln>I did send</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="school(n)">school;</form> <xpln>where boys are
+taught</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="skull(n)">scull;</form> <xpln lexeme="brain pan(n)">the brain pan</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scholar(n)">scholars;</form> <xpln>such as do learn</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sculler(n)">scullers;</form> <xpln>little boats</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sea(n)">Sea,</form> <xpln lexeme="ocean(n)">the Ocean</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="say(v)">say;</form> <xpln lexeme="speak(v)">to speak</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="see(v)">see;</form> <xpln lexeme="behold(v)">to behold</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seal(v)">seal;</form> <xpln>as to seal a letter</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ciel(v)">ciel;</form> <xpln)">to make a cieling</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seer(n)">seer;</form> <xpln lexeme="prophet(n)">a prophet</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shire(n)">Scir;</form> <xpln lexeme="country(n)">a country</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="senior(n)">senior;</form> <xpln lexeme="elder(n)">the elder</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="junior(n)">junior,</form> <xpln lexeme="younger(n)">the younger</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seignior(n)">Seignior;</form> <xpln>the chief man in
+Turky</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seisin(v)">seasin;</form> <xpln>as to make livery,
+to give the right to a&shy;
+nother</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seisin(n)">seisin</form> <xpln lexeme="possession(n)">possession</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="season(n)">season;</form> <xpln lexeme="opportunity(n)">opportunity</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sex(n)">Sex;</form> <xpln lexeme="male(n)" lexeme="female(n)">as male or female</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sect(n)">sects;</form> <xpln lexeme="faction(n)">factions</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="surgeon(n)">Surgeon,</form> <xpln lexeme="chirurgeon(n)">or Chirurgeon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sergeant at mace(n)">Sergeant at Mace,</form> <xpln>that Ar&shy;
+ <damage> </damage></xpln></wordentry>
+</page>
+
+<page no="54">
+<wordentry type="h"><form lexeme="shear(n)">Shear,</form> <xpln>that we cut.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheer(a)">sheer</form> <xpln>quite off.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shire(n)">shire,</form> <xpln lexeme="county(n)">a County.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="share(v)">share,</form> <xpln>part with another.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shave(v)">shave,</form> <xpln>as Barbers do.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheaf(n)">sheaves</form> <xpln>of corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheathe(v)">sheathe,</form> <xpln>to put into the
+sheath.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheep(n)">sheep,</form> <xpln>that bears wool.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ship(n)">Ship,</form> <xpln>that goes to Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sinister(a)">sinister,</form> <xpln lexeme="unjust(a)">unjust, not equal.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shekel(n)">shekel of the sanctuary,</form>
+<xpln>two shillings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sickle(v)">sickle,</form> <xpln>to reap with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shoot(n)">shoot,</form> <xpln>a young sprig.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shoot(v)">shoot,</form> <xpln>bulletes, arrows.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shout(v)">shout,</form> <xpln>make a noise.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shut(a)">shut</form> <xpln>the door.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Shute(pn)"><f type="i">Shute<f type="r">,</form> <xpln>a mans name.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="soldier(n)">Souldier</form> <xpln>that fights.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shoulder(n)">shoulder</form> <xpln>of the body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shrew(n)">shrew,</form> <xpln lexeme="field mouse(n)">a field mouse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shrew(n)">shrew,</form> <xpln>a curst woman.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shuttle(v)">shuttle,</form> <xpln>to weave with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subtle(a)">subtile,</form> <xpln lexeme="cunning(a)">cunning.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sight(n)">sight</form> <xpln>of the eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cite(v)">cite,</form> <xpln>to quote an author.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sign(n)">sign,</form> <xpln lexeme="mark(n)">a mark.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sing(v)">sing</form> <xpln>with the voice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="singe(v)">singe,</form> <xpln>in the flame.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sink(n)">sink,</form> <xpln lexeme="gutter(n)">a gutter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cinque-port-town(n)">cinque-port-town.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sigh(v)">sigh,</form> <xpln lexeme="mourning(n)">a mourning.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sith(c)">sith,</form> <xpln>seeing that.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sithe(n)">sithe;</form> <xpln>that we mow with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seethe(v)">seethe;</form> <xpln lexeme="boil(v)">to boyl.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sled(n)">slead;</form> <xpln>to drag things on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sledge(n)">sledge;</form> <xpln>a huge hammer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="slow(a)">slow;</form> <xpln>not quick.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="slough(n)">slough;</form> <xpln>a dirty pool.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="so(c)">so;</form> <xpln>as in that manner.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sow(n)" lexeme="corn(n)">to sow corn;</form> <xpln>seed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sew(v)">sew;</form> <xpln>with needle and
+thread.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="saw(v)">I saw;</form> <xpln>or have seen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="saw(v)">to saw</form> <xpln>timber.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sole(n)">Soal;</form> <xpln>of the foot.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sole(n)">sole;</form> <xpln lexeme="only(a)">onely; a fish.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="soul(n)">soul;</form> <xpln>or body.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="soar(v)">soar;</form> <xpln>to fly higher.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sore(a)">sore;</form> <xpln lexeme="painful(a)" lexeme="tender(a)">painful, tender.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sour(a)">sowre,</form> <xpln>contrary to sweet.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="some(pr)">some,</form> <xpln lexeme="few(a)" lexeme="certain(a)" lexeme="somebody(n)">few; certain ; some
+body .</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sum(n)">sum;</form> <xpln>a sum of money.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sun(n)">sun;</form> <xpln>the sun that shines.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="son(n)">son;</form> <xpln>a fathers son.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spear(n)">spear;</form> <xpln>a sharp pointed
+weapon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sphere(n)">sphear;</form> <xpln>the circle wherein
+the stars move.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stair(n)">stairs;</form> <xpln lexeme="steps(n)">steps to go up.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stare(n)">stares;</form> <xpln>birds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stare(v)">stare,</form> <xpln>to look stedfastly on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="star(n)">Stars,</form> <xpln>in the firmament.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="staple(n)">staple</form> <xpln>of the door.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="staple(n)">staple;</form> <xpln>a firm commodity.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stable(n)">stable;</form> <xpln>for horses.</xpln></wordentry>
+</page>
+
+<page no="55">
+<wordentry type="h"><form lexeme="stopple(n)">stopple</form> <xpln>of a bottle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stature(n)">stature;</form> <xpln lexeme="proportion(n)" lexeme="bigness(n)">proportion; big&shy;
+ness.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="statute(n)">Statute;</form> <xpln>Law made.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="statue(n)">Statue;</form> <xpln lexeme="effigy(n)">an Effigies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stead(n)">stead;</form> <xpln lexeme="room(n)" lexeme="lieu(n)" lexeme="instead of(pp)">room; lieu; in stead
+of.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="steed(n)">Steed;</form> <xpln>a stately horse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bedstead(n)">bed-stead;</form> <xpln>that we lye
+upon.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="steel(n)">steel;</form> <xpln>to edge tools with&shy;
+all.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="style(n)">stile;</form> <xpln>a faculty in writing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="steer(n)">Steer,</form> <xpln lexeme="bullock(n)">a Bullock</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="steer(v)">steer;</form> <xpln>to guide a Ship.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stood(v)">stood;</form> <xpln>did stand.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stud(n)">stud;</form> <xpln>a small post.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="straight(a)">straight;</form> <xpln lexeme="even(a)" lexeme="quickly(adv)">even; quickly.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="streight(a)">streight;</form> <xpln lexeme="distress(n)" lexeme="strait(n)">distress, strait.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="succour(n)">succour;</form> <xpln lexeme="aid(n)" lexeme="relief(n)">aid; relief.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sucker(n)">sucker;</form> <xpln lexeme="sprig(n)">a sprig.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suit(n)">Suit</form> <xpln>in Law</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suit(n)">suit</form> <xpln>of clothes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suet(n)">Sewet;</form> <xpln>fat of Beef,
+or mutton</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="swound(v)">swound;</form> <xpln lexeme="faint(v)">to faint.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sound(a)">sound;</form> <xpln lexeme="entire(a)">intire.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T.</alpha>
+
+<wordentry type="h"><form lexeme="taber(n)"><f type="bk">T<f type="r">Aber;</form> <xpln lexeme="timbrel(n)">timbrel, a little
+drum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="taper(n)">taper;</form> <xpln>a stately wax can&shy;
+dle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="entail(n)"><damage type="cropped">I</damage>ntail;</form> <xpln>an inheritance in
+fee</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tail(n)">Tail;</form> <xpln>of a beast.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tale(n)">tale,</form> <xpln>an idle story.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tall(a)">tall,</form> <xpln>high in stature.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="teal(n)">Teal;</form> <xpln>a fowl.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tares(n)">Tares,</form> <xpln>weeds in the corn.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tear(n)">tears,</form> <xpln>that we do weep.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="taint(v)">Taint,</form> <xpln lexeme="infect(v)">to infect.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="taunt(v)">Taunt,</form> <xpln lexeme="flout(v)" lexeme="jeer(v)">to flout; jeer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="attaint(v)">attaint;</form> <xpln>to convict by Law</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thames(pn)">Thames,</form> <xpln>a river.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="team(n)">Team,</form> <xpln>of Horses.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="teem(v)">teem,</form> <xpln>to be with child.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="teat(n)">teat,</form> <xpln>which a child sucks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tit(n)">Tit,</form> <xpln>a little horse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tenor(n)">Tenor;</form> <xpln>in musick.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tenor(n)">Tenor,</form> <xpln>the purport of a
+thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tenure(n)">Tenure</form> <xpln>the manner of
+holding tenements</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thorough(adv)">thorow;</form> <xpln>as to pierce tho&shy;
+row</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="through(pp)">through;</form> <xpln>by means of</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="throw(v)">throw;</form> <xpln lexeme="cast off(v)">to cast off</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thrush(n)">Thrush</form> <xpln>a singing bird</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="truss(v)">truss;</form> <xpln lexeme="tie up(v)">to tye up</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thyme(n)">thyme;</form> <xpln>a herb</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="time(n)">time;</form> <xpln>continuation of hours</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="title(n)">Title</form> <xpln>of honour; or right to
+a thing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tittle(n)">tittle;</form> <xpln lexeme="point(n)" lexeme="speck(n)">a point; a speck</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="toe(n)">toe,</form> <xpln>the toe of the foot</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="too(adv)">too,</form> <xpln>too much or too little</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tow(v)">towe;</form> <xpln lexeme="ockam(n)">Ockam; combing
+of <damage type="cropped">flax</damage></xpln></wordentry>
+</page>
+
+<page no="56">
+<wordentry type="h"><form lexeme="two(n)">two,</form> <xpln>two things</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="to(pp)">to;</form> <xpln>to a place</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tow(v)">tow;</form> <xpln lexeme="hale(v)">to hale a boat</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tomb(n)">tomb;</form> <xpln lexeme="monument(n)" lexeme="sepulchre(n)">a monument, sepul&shy;
+chre</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tome(n)">tome;</form> <xpln>a section part of a
+folio</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tongue(n)">tongue;</form> <xpln>that we speak with</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tong(n)">tongs;</form> <xpln>to take up coals
+with</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="torn(n)">torn;</form> <xpln>that torners do make</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="turn(v)">turn;</form> <xpln>to move to and fro</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="torn(a)">torne;</form> <xpln lexeme="rent(a)">or rent</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="track(n)">track;</form> <xpln lexeme="footsteps(n)">footsteps</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tract(n)">tract;</form> <xpln lexeme="treatise(n)">or treatise</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="treaty(n)">treaty;</form> <xpln>parley concerning
+peace</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="treatment(n)">treatment;</form> <xpln lexeme="entertainment(n)">entertainment</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tripartite(a)">tripartite,</form> <xpln>of three parts</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tray(n)">trey,</form> <xpln lexeme="vessel(n)">a vessel</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trey(n)">tray,</form> <xpln lexeme="three(n)">number of three</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v"><alpha>V.</alpha>
+
+<wordentry type="h"><form lexeme="vacant(a)">vacant,</form> <xpln lexeme="empty(a)">empty</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vacation(n)">vacation,</form> <xpln>a respite time</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vocation(n)">vocation,</form> <xpln lexeme="calling(n)" lexeme="employment(n)">calling or im&shy;
+ployment</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vain(a)">vain,</form> <xpln lexeme="empty(a)" lexeme="foolish(a)">empty , foolish</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vein(n)">vein</form> <xpln>in the body</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vail(n)">vail,</form> <xpln>covering of the face</xpln></wordentry>
+
+
+<wordentry type="h"><form lexeme="vale(n)">vale,</form> <xpln lexeme="put off(v)" lexeme="submit(v)">to put off, submit</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vale(n)">vale,</form> <xpln lexeme="valley(n)">or valley</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vale(v)">vale,</form> <xpln lexeme="farewell(v)">farewell</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Venice(pn)">Venice,</form> <xpln>a great City</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Venus(pn)">Venus,</form> <xpln lexeme="goddess(n)" lexeme="text(n)" lexeme="cut(n)">the goddess of  <damage>love </damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vial(n)">vial,</form> <xpln lexeme="phial(n)">phial, a wide mouth&shy;
+ed pot, or cup</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="viol(n)">Viol,</form> <xpln>an instrument of mu&shy;
+sick</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vice(n)">vice,</form> <xpln lexeme="wickedness(n)">wickedness</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="voice(v)">voice,</form> <xpln lexeme="sing with(v)">to sing with</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="visage(n)">visage</form> <xpln lexeme="feature(n)" lexeme="face(n)">feature in the face</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vizzard(v)">vizzard</form> <xpln>to hide the face
+with</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vital spirits(n)">vital spirits</form> <xpln>wherein life is
+seated</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="victuals(n)">victuals,</form> <xpln lexeme="food(n)" lexeme="provision(n)">food, provision</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="voucher(n)">Voucher,</form> <xpln lexeme="advocate(n)">advocate.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="u"><alpha>U.</alpha>
+
+<wordentry type="h"><form lexeme="umbles(n)">Umbles,</form> <xpln>of a Deer</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="humble(a)">humble;</form> <xpln lexeme="low(a)" lexeme="submissive(a)">low, submissive</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="umpire(n)">Umpire;</form> <xpln>that decides a
+controversie</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="use(n)">use,</form> <xpln lexeme="custom(n)">custom</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="usury(n)">usury,</form> <xpln>money upon inter&shy;
+est</xpln></wordentry>
+
+<wordentry type="h"><form>us;</form> <xpln>we</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Uz(pn)">Uz,</form> <xpln>Jobs Countrey</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="utensils(n)">utensils,</form> <xpln>things necessary
+for our use</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vulgar(a)">vulgar,</form> <xpln lexeme="common(a)">common</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w"><alpha>W.</alpha>
+
+<wordentry type="h"><form lexeme="wane(a)">Wain,</form> <xpln>declining of the
+Moon</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wan(a)">wan,</form> <xpln lexeme="pale(a)">pale, of a sickly look</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wand(n)">wand,</form> <xpln lexeme="riding rod(n)">a riding rod</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="waist(n)">waist,</form> <xpln>ones middle</xpln></wordentry>
+</page>
+
+<page no="57">
+<wordentry type="h"><form lexeme="waste(a)">waste,</form> <xpln lexeme="desolate(a)" lexeme="useless(a)">desolate, useless</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="waits(n)">waits,</form> <xpln>the City musicians</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wast(v)">wast,</form> <xpln lexeme="wert(v)">or wert</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wait(v)">waites,</form> <xpln>he waiteth </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="weights(n)">weights,</form> <xpln>as <f type="i">Troy<f type="r"> <f type="r">weight
+12 ounces to a pound,
+or <f type="i">Avoir de pois<f type="r"> <f type="r">weight
+16 ounces to a pound</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Wight(pn)">wight,</form> <xpln>an Island</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Wales(pn)">wales</form> <xpln>a Countrey</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wall(n)">walls</form> <xpln>of a City</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wale(n)">wale,</form> <xpln>great thread in stuff</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bewail(v)">bewail,</form> <xpln lexeme="bemoan(v)">to bemoan</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wake(n)">Wakes,</form> <xpln>country feasts</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wake(v)">a wake,</form> <xpln lexeme="rowse up(v)">to rowse up</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="walk(v)">walk,</form> <xpln>to go by leisure</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="walk(n)">walks,</form> <xpln>where people do
+walk</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wardship(n)">wardship,</form> <xpln lexeme="guardianship(n)">the guardian&shy;
+ship of Orphan</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="worship(n)">worship,</form> <xpln>an Esquires dig&shy;
+nity</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="warp(v)">warp,</form> <xpln lexeme="chap(v)">to chap as boards
+do</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="warp(n)">warp,</form> <xpln lexeme="yarn(n)">yarn; woven</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="woof(n)">woof yarn,</form> <xpln>that goeth
+athwart the cloth</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hoof(n)">hoof</form> <xpln>of a Horse</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="way(n)">way,</form> <xpln>that we walk in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="weigh(v)">weigh,</form> <xpln>to try in a balance</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wey(n)">wey,</form> <xpln>a wey of Cheese</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="whey(n)">whey,</form> <xpln>and butter milk</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wear(v)">wear,</form> <xpln lexeme="put on(v)">to put on</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="were(v)">were,</form> <xpln>they were</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ware(n)">ware,</form> <xpln lexeme="commodity(n)">a commodity</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wire(n)">wier,</form> <xpln>Iron thread</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="weel(n)">weel,</form> <xpln>to catch fish</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="will(v)">wee'l,</form> <xpln>for we will</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="weal(n)">weal,</form> <xpln lexeme="wealth(n)" lexeme="pimple(n)">wealth; a pimple</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wield(v)">weild,</form> <xpln>to turn a sword a&shy;
+bout</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wild(a)">wild,</form> <xpln lexeme="untame(a)">untame</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wicked(a)">wicked,</form> <xpln lexeme="debauched(a)">ill given, debaucht</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wicket(n)">wicket;</form> <xpln lexeme="half-door(n)">an half door</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="win(v)">win,</form> <xpln>to get a wager</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wind(n)">wind,</form> <xpln>that blows</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wine(n)">wine,</form> <xpln>squeezed out of
+grapes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="witch(n)">witch,</form> <xpln>that bewitcheth</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="which(r)" >which,</form> <xpln lexeme="that(r)" lexeme="who(r)">that, who</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="woad(n)">woad,</form> <xpln>dying stuff</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wood(n)">wood,</form> <xpln lexeme="fuel(n)" lexeme="timber(n)">fewel; timber</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="woe(n)">wo,</form> <xpln lexeme="alas(ex)" lexeme="misery(n)">alass misery</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="woo(v)">woe,</form> <xpln>to be a suitor</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wrap(v)">wrap,</form> <xpln lexeme="fold in(v)">to fold in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rap(v)">rap,</form> <xpln>to give a small blow</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rape(v)">rape;</form> <xpln lexeme="force(v)">to force</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wring(v)">wring,</form> <xpln>to squeeze hard</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ring(n)">ring,</form> <xpln>on the finger</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wrote(v)">wrote;</form> <xpln>I have written</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wrought(v)">wrought,</form> <xpln>I did work</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rote, by(adv)">by rote,</form> <xpln>without book</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wrong(v)">wrong,</form> <xpln>to do wrong</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="x"><alpha>X.</alpha>
+
+<wordentry type="h"><form lexeme="Xpian(n)"><f type="bk">X<f type="r">pian,</form> <xpln lexeme="Christian(n)">Christian,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="x(nu)">X</form> <xpln lexeme="ten(nu)">ten</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="58">
+<wordgroup1 type="a" object="y"><alpha>Y.</alpha>
+
+<wordentry type="h"><form lexeme="yea(ex)"><f type="bk">Y<f type="r">Ea,</form> <xpln lexeme="yes(ex)">yes</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yet(adv)">yet,</form> <xpln lexeme="nevertheless(adv)">nevertheless</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wit, to(adv)">to wit,</form> <xpln lexeme="viz(adv)" lexeme="videlicet(adv)">viz. or videlicet,
+that is to say</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yeast(n)">yest,</form> <xpln lexeme="barm(n)">barm, to mix with
+meal for bread</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="it is(v)">it's,</form> <xpln>for it is</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tis(v)">tis,</form> <xpln>for it is</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="you(pr)">you,</form> <xpln lexeme="thou(pr)" lexeme="ye(pr)">thou, ye</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ewe(n)">an ewe,</form> <xpln lexeme="sheep(n)">or sheep</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="irksome(a)">yrksom,</form> <xpln lexeme="tedious(a)">tedious</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yellow(n)">yellow</form> <xpln>of colour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="year(n)">year,</form> <xpln>12 months, or 365
+dayes, and 6 hours</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inkhorn(n)">ynkhorn,</form> <xpln>to put ynk in, to
+write withal</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yield(v)">yeeld,</form> <xpln lexeme="render up(v)" lexeme="submit(v)">to render up, to sub&shy;
+mit</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yew(n)">yew,</form> <xpln>tree</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yolk(n)">yolk,</form> <xpln>of eggs</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yoke(n)">yoak,</form> <xpln>that oxen draw in</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oak(n)">Oak,</form> <xpln>a tree</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="yore(adv)">yore,</form> <xpln>in old time</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ewer(n)">ewer,</form> <xpln>a small necked pot</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="your(pr)">your,</form> <xpln>as your book</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="z"><alpha>Z.</alpha>
+
+<wordentry type="h"><form lexeme="zedary(n)"><f type="bk">Z<f type="r">Edary,</form> <xpln lexeme="wormfeed(n)">wormfeed</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="zeal(n)">zeal,</form> <xpln>great love, ar&shy;
+dent affection</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="zodiac(n)">The Zodiack,</form> <xpln lexeme="firmament(n)">that of the
+firmament, underwhich
+the planets move</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zion(pn)">Zion,</form> <xpln lexeme="Mount Zion(pn)">or Mount Zion,
+the Church of God,
+whom he hath chosen
+to dwell in for ever.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="59">
+<heading>
+These proper names, with what they signifie,
+Are here added, for you to learn thereby.
+</heading>
+
+<wordgroup1 type="a" object="proper names">
+<wordentry type="h"><form lexeme="Bel(pn)"><f type="bk">A<f type="i">Bel<f type="r">,</form> <xpln lexeme="mourning(n)">mourning</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abiah(pn)"><f type="i">Abiah<f type="r">,</form> <xpln>the will of
+God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abraham(pn)"><f type="i">Abraham<f type="r">,</form> <xpln>father of a great
+multitude</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Adam(pn)"><f type="i">Adam<f type="r">,</form> <xpln lexeme="man(n)" lexeme="earthly(a)">man, earthly</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abigail(pn)"><f type="i">Abigail<f type="r">,</form> <xpln>the fathers joy</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Andrew(pn)"><f type="i">Andrew<f type="r">,</form> <xpln lexeme="strong(a)" lexeme="manly(a)">strong, or manly</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Barnabas(pn)"><f type="i">Barnabas<f type="r">,</form> <xpln>the son of con&shy;
+solation</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Baruch(pn)"><f type="i">Baruch<f type="r">,</form> <xpln lexeme="blessed(a)">blessed</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Benjamin(pn)"><f type="i">Benjamin<f type="r">,</form> <xpln >the son of the
+right hand</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bethel(pn)"><f type="i">Bethel,<f type="r"></form> <xpln><f type="r">the house of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Caleb(pn)"><f type="i">Caleb<f type="r">,</form> <xpln lexeme="hart(n)">as a Hart</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Daniel(pn)"><f type="i">Daniel<f type="r">,</form> <xpln>judgement of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="David(pn)"><f type="i">David<f type="r">,</form> <xpln lexeme="beloved(n)">beloved</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eleazar(pn)" lexeme="Eliezer(pn)"><f type="i">Eleazar 
+Eliezer</form> <xpln><f type="r">the help of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Elijah(pn)"><f type="i">Elijah<f type="r">,</form> <xpln lexeme="God(n)">God the Lord, or
+a strong Lord</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Elisha(pn)"><f type="i">Elisha,<f type="r"></form> <xpln><f type="r">my God saveth or
+the health of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Emanuel(pn)"><f type="i">Emanuel<f type="r">,</form> <xpln>God with us</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ephraim(pn)"><f type="i">Ephraim<f type="r">,</form> <xpln lexeme="fruitful(a)">fruitful</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eunice(pn)"><f type="i">Eunice<f type="r">,</form> <xpln>good victory</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ezekiel(pn)"><f type="i">Ezekiel<f type="r">,</form> <xpln>the strength of
+God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Enoch(pn)"><f type="i">Enoch<f type="r">,</form> <xpln lexeme="taught(a)" lexeme="dedicate(a)">taught or dedicate</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ezra(pn)"><f type="i">Ezra,<f type="r"></form> <xpln lexeme="helper(n)"><f type="r">an helper</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gabriel(pn)"><f type="i">Gabriel<f type="r">,</form> <xpln>a man of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Habakuk(pn)"><f type="i">Habakuk,<f type="r"></form> <xpln lexeme="wrestler(n)"><f type="r">a wrestler</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hilkiah(pn)"><f type="i">Hilkiah<f type="r">,</form> <xpln>the Lords gentle&shy;
+ness</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jacob(pn)"><f type="i">Jacob<f type="r">,</form> <xpln lexeme="supplanter(n)">a supplanter</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="James(pn)"><f type="i">James<f type="r">,</form> <xpln lexeme="maintainer(n)">a maintainer</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ichabod(pn)"><f type="i">Ichabod<f type="r">,</form> <xpln>the glory is de&shy;
+parted</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jedidah(pn)"><f type="i">Jedidah,<f type="r"></form> <xpln lexeme="beloved(a)"><f type="r">beloved</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jehosaphat(pn)"><f type="i">Jehosaphat,<f type="r"></form> <xpln>the Lord is
+the judge</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jesus(pn)"><f type="i">Jesus<f type="r"></form> <xpln lexeme="saviour(n)"><f type="r">a Saviour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Job(pn)"><f type="i">Job,<f type="r"></form> <xpln lexeme="sorrowful(a)">sorrowful</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Joseph(pn)"><f type="i">Joseph<f type="r">,</form> <xpln lexeme="increase(n)">encrease</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Israel(pn)"><f type="i">Israel,<f type="r"></form> <xpln><f type="r">a prince with God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Isaac(pn)"><f type="i">Isaac<f type="r">,</form> <xpln lexeme="laughing(n)">laughing</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lazarus(pn)"><f type="i">Lazarus<f type="r">,</form> <xpln>the help of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Levi(pn)"><f type="i">Levi<f type="r">,</form> <xpln lexeme="joined(a)">joyned</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lot(pn)"><f type="i">Lot<f type="r">,</form> <xpln lexeme="wrapped(a)" lexeme="joined(a)">wrapped, joyned</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Melchizedek(pn)"><f type="i">Melchizedek<f type="r">,</form> <xpln>king of
+righteousness</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mehetabel(pn)"><f type="i">Mehetabel<f type="r">,</form> <xpln>how good is
+God, or God doing well</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Michael(pn)"><f type="i">Michael<f type="r">,</form> <xpln>who is God, or
+who is like God !</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Moses(pn)"><f type="i">Moses<f type="r">,</form> <xpln lexeme="drawn up(a)" lexeme="taken out(a)">drawn up, or taken
+out</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Nehemiah(pn)"><f type="i">Nehemiah<f type="r">,</form> <xpln lexeme="comfort(n)">comfort, or the
+Rest of the Lord</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Noah(pn)"><f type="i">Noah<f type="r"></form> <xpln lexeme="ceasing(n)" lexeme="rest(n)"><f type="r">a ceasing or rest</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Paul(pn)"><f type="i">Paul,<f type="r"></form> <xpln lexeme="marvelous(a)"><f type="r">marvellous</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Peniel(pn)"><f type="i">Peniel<f type="r">,</form> <xpln>seeing God</xpln></wordentry>
+</page>
+
+<page no="60">
+<wordentry type="h"><form lexeme="Peter(pn)"><f type="i">Peter<f type="r">,</form> <xpln lexeme="stone(n)" lexeme="rock(n)">a stone, or rock</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phoebe(pn)"><f type="i">Phebe,<f type="r"></form> <xpln lexeme="clear(a)" lexeme="bright(a)"><f type="r">clear, or bright</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phineas(pn)"><f type="i">Phinehas<f type="r">;</form> <xpln>a bold counte&shy;
+nance</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Philip(pn)"><f type="i">Philip,<f type="r"></form> <xpln lexeme="warrior(n)"><f type="r">a warriour</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rachel(pn)"><f type="i">Rachel<f type="r">,</form> <xpln lexeme="sheep(n)">a sheep</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Rebecca(pn)"><f type="i">Rebecca,<f type="r"></form> <xpln lexeme="blunt(a)" lexeme="contention(n)"><f type="r"> <damage>sed </damage>, or blunt, con&shy;
+tention , or contention
+hindred</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sabbath(pn)"><f type="i">Sabbath<f type="r">,</form> <xpln lexeme="rest(n)">Rest</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Samuel(pn)"><f type="i">Samuel,<f type="r"></form> <xpln><f type="r">heard of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sarah(pn)"><f type="i">Sarah<f type="r">,</form> <xpln lexeme="lady(n)" lexeme="dame(n)">a Lady, or dame</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Shem(pn)"><f type="i">Shem,<f type="r"></form> <xpln lexeme="renowned(a)"><f type="r">renowned</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Simon(pn)"><f type="i">Simon<f type="r">,</form> <xpln lexeme="hearing(n)" lexeme="obeying(n)">hearing, or obeying</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Theophilus(pn)"><f type="i">Theophilus<f type="r">,</form> <xpln>a friend of God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thomas(pn)"><f type="i">Thomas<f type="r">,</form> <xpln lexeme="deepness(n)">deepness, without
+bottom</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Timothy(pn)"><f type="i">Timothy<f type="r">,</form> <xpln>the honour of
+God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Titus(pn)"><f type="i">Titus,<f type="r"></form> <xpln lexeme="honorable(a)"><f type="r">honourable</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Uziel(pn)"><f type="i">Uzziel<f type="r">,</form> <xpln>the strength of
+God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zabdiel(pn)"><f type="i">Zabdiel,<f type="r"></form> <xpln><f type="r">the dowry of
+God</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zachariah(pn)"><f type="i">Zachariah<f type="r">,</form> <xpln>mindful of the
+Lord</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zephaniah(pn)"><f type="i">Zephaniah<f type="r">,</form> <xpln>the hiding of
+the Lord</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS
+</closing>
+</page>
+</leme>

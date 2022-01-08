@@ -1,0 +1,70 @@
+<leme no="1290">
+
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+A  N o t e  o f  S a x o n  W o r d s
+H a r v a r d  U n i v e r s i t y  H o u g h t o n  L i b r a r y  M S  E n g l i s h  f  E n g  1 0 1 5 
+v e r . 1 . 0  ( 2 0 2 1 ) 
+</term>
+</lemepagenote>
+
+<page fol="16v">
+<section type="A Note of Saxon Words"><alpha>A note of Saxon wordes</alpha>
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="sx">Soke.</form> <xpln lang="en">is a shutt <expan type="y+t">that</expan> men owe to courte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">sake.</form> <xpln lang="en">is a ple, and amendes made for transgression founde <expan type="i+_">in</expan> courte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">sake.</form> <xpln lang="en">is termed Encheson. <expan type="y+t">that</expan> is for faite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Tol.</form> <xpln lang="en">a dwtye for thinges bowght &amp; soulde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Theam.</form> <xpln lang="en">is to have all the Sonnes &amp; daughtrs of bondmen called 
+vilaines except <expan type="y+t">that</expan> any of them have dwelt <emend err="ayere">a yere</emend> &amp; a daye 
+in any priviledge toune, so <expan type="y+t">that</expan> hee or any of them bee 
+taken into thate companye or gilde, &amp; bee restored as one of <expan type="y+m">them</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Infangenethef.</form> <xpln lang="en">where Theves are taken <expan type="w+t">with</expan>in a Lordship 
+or a see &amp; ought to be Iudgd within the libertye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Outfagenethef.</form> <xpln lang="en">That thefte donne is to be tried <expan type="w+t">with</expan>in 
+that Lordship where in it was comitted.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Hamsoken.</form> <xpln lang="en">To bee acquit from mercementes, for violently 
+entering into any mans hovse, to have liberty to trye them 
+in the same.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">grithbrich.</form> <xpln lang="en">breakeng of the peace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Blodyite.</form> <xpln lang="en">Draweng of bloode or fraye makeng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">philtvigt.</form> <xpln lang="en">To hold pley. philtwight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">fvhlitvyt.</form> <xpln lang="en">To bee free of Brauleng &amp; revenge &amp; to bee 
+free to holde plea. &amp; to receyve the mercements when an
+ovtlawe is restorid.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">flemenefrith.</form> <xpln lang="en">To have goodes or amercementes of a 
+fvgetive.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Hildvite.</form> <xpln lang="en">awtorite to take of abo<expan type="u+_">un</expan>d woman <expan type="w+t">with</expan> childe / or gressai.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">forstavle.</form> <xpln lang="en">to have cattaile arestid in the Lordship.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">schot.</form> <xpln lang="en">to bee acquit of a custom.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Hyaige.</form> <xpln lang="en">to bee free from the tax of the kinge fr<expan type="o+_">om</expan> all plowgh londes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Danegeld.</form> <xpln lang="en">to bee free from Dane tribute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Hornegeld.</form> <xpln lang="en">A paiment ratid for every horned beaste</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">lestage.</form> <xpln lang="en">a dwtye in faires &amp; markates.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sx">Bvrgbriche.</form> <xpln lang="en">To bee free fr<expan type="o+_">om</expan> transgression made against 
+the kinges peace.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

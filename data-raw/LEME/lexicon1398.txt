@@ -1,0 +1,243 @@
+<leme no="1398">
+<page sig="a1r">
+<section type="Title-page">
+THE 
+Royal Charter 
+OF 
+Confirmation 
+Granted by KING 
+Charles II. 
+To the CITY of 
+LONDON.
+
+Wherein are Recited Verbatim, All the 
+CHARTERS to the said CITY, granted by 
+His Majesties Royal Predecessors, KINGS and 
+QUEENS of ENGLAND.
+
+Taken out of the RECORDS, 
+And exactly Translated into English 
+By S. G. Gent.
+
+TOGETHER 
+With an Index or Alphabetical Table, and 
+a Table explaining all the Obsolete and Difficult 
+Words in the said CHARTER.
+
+LONDON, Printed for Samuel Lee and Benjamin Alsop, at 
+the Feathers in Lombard-street, near the Post-Office, and at 
+the Angel in the Poultrey over against the Stocks-market.
+</section>
+</page>
+
+<page sig="*1r">
+<section type="Glossary">
+<heading>
+A 
+TABLE 
+OF 
+Obsolete and Difficult words
+contained in the Charter.
+</heading>
+
+<wordgroup1 type="a" object="A">
+<wordentry type="h"><form lang="en"lexeme="amerciament(n)">AMerciament,</form> <xpln lang="en">a pecuniary punishment in 
+Court of an Offender against the King, 
+or any other Lord.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="avoirdupois(n)">Avoir-du-pois,</form> <xpln lang="en" lexeme="troy weight(n)">a French word
+signifying in 
+our Common Law two things: 1. A kind of 
+Weight different from that called Troy&shy;
+weight, which contains but twelve ounces to 
+the pound, whereas this contains sixteen. 
+2. It signifies such Merchandizes as are 
+weighed by this Weight.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<wordentry type="h"><form lang="en" lexeme="bridge toll(n)">Brid-toll (or Bridgetoll)</form> <xpln lang="en">a Duty or Tax for
+passing over a Bridge.</xpln>
+<lemenote>
+"Brid-toll" and "Bridgetoll" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blank-sterling(n)">Blank-sterling,</form> <xpln lang="en">from the French word <term lang="fr">Blanch</term>, 
+i. e. white, a Coin that was coined in the 
+parts of France by King Henry the fifth, 
+when they were subject to England, the 
+value whereof was 8 d. These were for&shy;
+bidden to be currant within this Realm 
+2 H. 6. The reason why they were called
+Blanks, was to distinguish this Coin by its
+colour from a certain piece of Gold which 
+was then coined at 22 s.</xpln>
+<lemenote>
+"Blank-sterling" not found in OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="en" lexeme="childwite(n)">Childwite,</form> <xpln lang="en">an
+old Saxon word signifying a 
+power to take a Fine of your Bond-woman 
+begotten with child without your consent.</xpln></wordentry>
+</page>
+
+<page sig="*1v">
+<wordentry type="h"><form lang="en" lexeme="corrody(n)">Corody,</form> <xpln lang="en">A sum of money, or allowance of 
+meat and drink due to the King out of an 
+Abby or Religious House whereof he is
+Founder, towards the maintenance of such 
+one of his servants as he shall think fit to 
+make a Pentioner there.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">
+<wordentry type="h"><form lang="en" lexeme="danegeld(n)">Dane-guilt,</form> <xpln lang="en">a Tribute laid upon our Ancestors
+of 12 d. for every Hide of Land through&shy;
+out the Realm, by the Danes, for clearing
+the Seas (as they pretended) of Pirates.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="denizen(n)">Denizen,</form> <xpln lang="en">i. e. an Alien born, enabled by the 
+King's Letters Patents to purchase Lands, 
+hold Offices, &amp;c. and his Heirs to in&shy;
+herit. But this difference lies, That a per&shy;
+son naturalized by Act of Parliament, may 
+inherit Lands by descent, which a Denizen 
+cannot, though his Heirs may inherit from 
+him.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deodand(n)">Deodand,</form> <xpln lang="en">In Latine, signifies a thing given
+or forfeited to God for the pacification of 
+his wrath, for any accident whereby a Chri&shy;
+stian comes to his death without the default 
+of any reasonable creature. As if a Horse 
+kill his Keeper, or a Cart run over a man, 
+the Creatures and Instruments are forfeited
+to the King to be distributed to the poor.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">
+<wordentry type="h"><form lang="en" lexeme="folkmote(n)">Flackmote, or Folkmote,</form> <xpln lang="en">a Saxon word, sig&shy;
+nifying a Court holden in London, wherein 
+all the people of the City did complain of 
+Irregularities and Mis-governments with&shy;
+in the City.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frank-pledge(n)">Frank-pledge,</form> <xpln lang="en">a Pledge or Surety for Free&shy;
+men of fourteen years of age (except Clerks
+and Knights) their finding Sureties to&shy;
+wards the King and His Subjects, or else
+</page>
+
+<page sig="*2r">
+they were to be sent to prison.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">
+<wordentry type="h"><form lang="en" lexeme="guild(n)">Guild,</form> <xpln lang="en">a Fraternity or Company combined to&shy;
+gether by Orders and Laws made among 
+themselves by the Prince's Licence.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">
+<wordentry type="h"><form lang="en" lexeme="husting(n)">Husting,</form> <xpln lang="en">a French word, signifying the prin&shy;
+cipal or highest Court in London.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I/J">
+<wordentry type="h"><form lang="en" lexeme="yeresyeve(n)">Jeresgive,</form> <xpln lang="en">an antient Tax or Toll in the time 
+of the Saxons.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infang thief(n)">Infangtheft,</form> <xpln lang="en">a Saxon word, signifying a Liber&shy;
+ty granted to certain Lords of Mannors
+to judge any Thief taken within their Fee.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K">
+<wordentry type="h"><form lang="en" lexeme="kiddle(n)">Keddals,</form> <xpln lang="en">Wares for Fishing.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">
+<wordentry type="h"><form lang="en" lexeme="lastage(n)">Lastage, or Lestage,</form> <xpln lang="en">i. e. a Burthen, a Custom 
+challenged in Fairs and Markets for car&shy;
+rying of things. Whence comes a Last of 
+Herrings, a Last of Pitch and Tar, &amp;c.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">
+<wordentry type="h"><form lang="en" lexeme="miskenning(n)">Miskenning,</form> <xpln lang="en">Changing of Speech in Court.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="murage(n)">Murage,</form> <xpln lang="en">a Contribution gathered for repair&shy;
+ing old Edifices or Walls.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O">
+<wordentry type="h"><form lang="en" lexeme="outfangthief(n)">Outfangtheft,</form> <xpln lang="en">a Liberty granted to the 
+Lord to try any Thief taken out of his Fee.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">
+<wordentry type="h"><form lang="en" lexeme="passage(n)">Passage,</form> <xpln lang="en">The Hire a man pays for Transport 
+over the Seas.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="portsoken(n)">Portsoken,</form> <xpln lang="en">The Liberties within the Port of 
+London.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pannage(n)" lexeme="pawnage(n)" lexeme="herbage(n)">Pannage, or Pawnage, or Herbage,</form> <xpln lang="en">A Duty 
+given to the King for Pasturage of Cattle; 
+as also for Fruits, Trees, Masts, Hedge&shy;
+rowes, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pontage(n)">Pontage,</form> <xpln lang="en">Contribution towards the repairing
+of a Bridge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piepowder(n)">Pypowder,</form> <xpln lang="en">In Latine, <term lang="la">Curia Pedis pulveri&shy;
+zati</term>, a Court held in Fairs for redressing
+all Disorders committed therein.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="*2v">
+<wordgroup1 type="a" object="S">
+<wordentry type="h"><form lang="en" lexeme="soke(n)">Soke,</form> <xpln lang="en">The Liberty in Court allowed to Te&shy;
+nants.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scot-ale(n)">Scotale,</form> <xpln lang="en">Punishment of an Officer who doth 
+keep an Ale-house, causing men to come to 
+his house, and spend their money for fear of
+displeasure.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">
+<wordentry type="h"><form lang="en" lexeme="tallage(n)">Taillage,</form> <xpln lang="en">From the French word <term lang="fr">Taille</term>, i. e. 
+a piece cut out of the whole, signifying the 
+paying a part or share of a man's substance 
+by way of Tribute, Toll or Tax.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Tewkesbury(pn)">Toke,</form> <xpln lang="en">Seems to come from the River Teuke,
+unde Teukesbury.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="treasure-trove(n)">Treasure-trove,</form> <xpln lang="en">All Treasure found which 
+hath no lawful Owner, belongs to the King, 
+in whose grounds soever the same is taken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tronage(n)">Tronage,</form> <xpln lang="en">Toll or Duty for weighing Goods.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W">
+<wordentry type="h"><form lang="en" lexeme="withernam(n)">Withernam,</form> <xpln lang="en">In the Common Law is the tak&shy;
+ing or driving a Distress to a hold, or out 
+of the County where the Sheriff cannot come, 
+upon a Replevin to make deliverance there&shy;
+of to the party distreined.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>
+
+      

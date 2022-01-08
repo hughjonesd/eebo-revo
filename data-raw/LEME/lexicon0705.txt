@@ -1,0 +1,3338 @@
+<leme no="705">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+A l e x a n d e r  B a r c l a y ' s  I n t r o d u c t o r y  t o  . . .  F r e n c h e  (  1 5 2 1 ) 
+
+s t c  1 3 8 6
+
+v e r . 1 . 0  ( 2 0 2 1 )
+</term>
+</lemepagenote>
+
+<section type="Title-page">
+
+<page sig="a1r">
+<heading>
+<term lang="en">
+&#182; Here begynneth the introductory to wryte / and to
+pronounce Frenche compyled by Alexander Bar&#173;
+cley compendiously at the comma<expan type="u+_">un</expan>dem<expan type="e+_">en</expan>t
+of the ryght hye excellent and
+myghty prynce Thomas
+duke of Northfolke.
+</term>
+</heading>
+
+<term lang="en">
+R. Coplande to the whyte lyon.
+</term>
+
+<term lang="fr">
+&#182; Ballade.
+</term>
+
+<term lang="fr">
+<lemeformat>
+Lyon tresdigne des bestes souuerain
+R<damage>eluisanc</damage> / et pur / en couleur dargent
+Ton renom sespand es pais loingtain
+Redoubte est ta fureur rugient
+Monstre tu as ta gloire excellent
+Triumphant victor sus les albanois
+Le lyon vermail a prins deffinement
+Par ta noblesse desoubz la rouge crois
+
+Duc puiss<expan type="a+_">an</expan> / dhonneur magnifique
+Autentique / en / noblesse triumphant
+Tresuoillant / darmes politique
+Pacifique / en vertus flourissant 
+Lion bruyant / et vray defendant
+De lesglise / &#38; la sainte foy
+Chescun te voyant / te vont appellant
+Amy de dieu / amateur de ton toy.
+</lemeformat>
+</term>
+</section>
+</page>
+
+<page sig="a1v">
+</page>
+
+<page sig="a2r">
+<section type="Prologue">
+<heading>
+<term lang="en">
+&#182; The prologue of the auctour.
+</term>
+</heading>
+
+<term lang="en">
+MAny and dyuers lettred men experte in sondry scy<expan type="e+_">en</expan>ces haue done
+theyr deuoyr to inclere <expan type="y+e">the</expan> dulnesse &#38; wylfull ignoraunce of theyr
+countrees natyfe: And to brynge this theyr entrepryse to effect /
+some haue wryten in solute langage maternall of our englyshe
+tonge: some in the same langage hath coarted theyr style in meter and balades
+of dyuers kynde: some hath compyled / some translated / and some deuysede /
+dyuers maters to dyuers purposes / and some for temporall lucre or fauoure:
+Some be magnyfyed and renomed: some to eschewe ydlenes / and to profyte
+a c<expan type="o+_">om</expan>mon well. Amonges whiche sorte my selfe haue also often employed my ba&#173;
+rayne dylygence / but lyke as the naked trees depryued of fruyte and leaf stop&#173;
+peth the byrdes tune: &#38; al that the w<expan type="y+_">yn</expan>ter depryueth <expan type="y+e">the</expan> somer restoreth agayne/
+ryght so though dyuers causes haue withdrawen my pen from my olde dyly&#173;
+gence / the mocyon of certayne noble gentylmen hath renued and excyted me
+agayne to attempt my accustumed besynesse. &#182; Wherefore at the c<expan type="o+_">om</expan>a<expan type="u+_">un</expan>dem<expan type="e+_">en</expan>t
+of the ryght noble / myghty / &#38; excellent prynce aforesayd I purpose to compy&#173;
+le a playne and a compendyous introductory to lerne to wryte and to speke fre&#173;
+che. And though the sayd treatyse hath ben att<expan type="e+_">em</expan>pted of dyuers men before my
+dayes: yet I trust with the ayde of god to make the same more clere / playne / &#38;
+easy / parte by reason that I haue lene the draughtes of other made before my
+tyme: and parte for that I haue ben in my youth and hytherto accustomed &#38;
+excercysed in two langages of Frenche and Englysshe. But who wolde vnder
+stande the cause whiche hath moeued my sayd honourable lorde to haue suche
+treatyse compyled / brefely to answere / it is for the c<expan type="o+_">om</expan>mon wele and pleasure
+of all englysshe men / aswel gentylmen / marchauntes / as other c<expan type="o+_">om</expan>men people
+that are not expert in the sayd langage. And forthermore syth it hath pleased al
+myghty god to reconsyle the peas betwene the two realmes of Englande and
+Fraunce and to confederate them in loue &#38; amyte my sayd lorde hath thought
+it expedyent that our people accompanyenge with theym of fra<expan type="u+_">un</expan>ce sholde not
+be vtterly ignorant in <expan type="y+e">the</expan> frenche tunge: whiche in times past hath ben so moche
+set by in Englande that who hath ben ygnorant in the same langage hath not
+be reputed to be of gentyll blode. In somoche (that as the cronycles of englan&#173;
+de recorde) in all the gr<expan type="a+_">am</expan>mer scoles throughout englande small scolers expoun<emend err="">&#173;</emend>
+ded theyr construccyons bothe in Frenche and Englysshe. And moreouer <expan type="y+e">the</expan> sa<emend err="">&#173;</emend> 
+me tunge is not a lytell c<expan type="o+_">om</expan>mended amonge the infydeles/ as turkes/ and sara&#173;
+syns for the pleasaunt compendyous ordre and conueyaunce of the same / than
+how moche more sholde it be pleasaunt to vs whiche are ioyned with the same
+nacyon aswell by neyghbourhode / &#38; confederacyon / as by alyaunce: but what
+euer profyte or pleasure that the reder may fynde in the same treatyse / lete h<expan type="y+_">ym</expan>
+gyue laude and thankes to god &#38; to my sayd moost honourable lorde/ by whose
+c<expan type="o+_">om</expan>maundement as sayd is this treatyse is compyled / of certayne pronownes &#38;
+how they ought to be dyuersly vsed in frenche.
+</term>
+</section>
+
+<section type="Grammar">
+&#182;<term lang="fr">Ie</term> <term lang="en">in frenche is as moche to say in englisshe as I.</term> <term lang="fr">Tu.</term> <term lang="en">thou.</term> <term lang="fr">il.</term> <term lang="en">he.</term> <term lang="fr">nous.</term> <term lang="en">we.</term> <term lang="fr">
+vous.</term> <term lang="en">ye.</term> <term lang="fr">ilz.</term> <term lang="en">they. or els we may vse somtyme /</term> <term lang="fr">ceux</term> <term lang="en">/ for this worde.</term> <term lang="fr">ilz.</term> <term lang="en">
+
+&#182; Yf we answere to a questyon by this worde. I / ioynynge no verbe withall /</term>
+</page>
+
+<page sig="a2v">
+<editoraddition>Text from here to midway through a4v is not included.</editoraddition>
+</page>
+
+<page sig="a3r">
+</page>
+
+<page sig="a3v">
+</page>
+
+<page sig="a4r">
+</page>
+
+<page sig="a4v">
+</section>
+
+<section type="Introduction of Orthography">
+<term lang="en">
+HEre after foloweth a smal treatyse or <expan type="i+_">in</expan>troductory of ortography 
+or true wryt<expan type="y+_">yn</expan>ge, wherby <expan type="y+e">the</expan> dyligent reder may be infourmed tru<emend err="">&#173;</emend>
+ly, and perfytely to wryte &#38; <expan type=",p">pro</expan>nounce the frenche tunge after <expan type="y+e">the</expan> dy&#173;
+uers customes of many co<expan type="u+_">un</expan>trees of fra<expan type="u+_">un</expan>ce. For lykewyse as our 
+englysshe tunge is dyuersly spoken &#38; varyeth in certayne countrees &#38; shyres 
+of Englande / so in many countrees of fra<expan type="u+_">un</expan>ce varyeth theyr langage as by this 
+treatyse euidently shall appere to <expan type="y+e">the</expan> reder.
+</term>
+</section>
+
+<section type="Sounding the Alphabet">
+<term lang="en">
+&#182; First how the lettres of the A. b. c. are <expan type=",p">pro</expan>no<expan type="u+_">un</expan>ced or sounded in frenche. 
+
+&#182; Lettres in the. A. b. c. be. xxii. whiche in frenche ought thus to be sounded. 
+</term>
+
+<wordgroup1 type="a" object="ABC sounded">
+	
+<wordentry type="h"><form lang="fr">a</form> <xpln lang="fr">A</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">b</form> <xpln lang="fr">boy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">c</form> <xpln lang="fr">coy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">d</form> <xpln lang="fr">doy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">e</form> <xpln lang="fr">e</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">f</form> <xpln lang="fr">af</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">g</form> <xpln lang="fr">goy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">h</form> <xpln lang="fr">asshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">i</form> <xpln lang="fr">it</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">k</form> <xpln lang="fr">ka</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">l</form> <xpln lang="fr">el</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">m</form> <xpln lang="fr">am</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">n</form> <xpln lang="fr">an</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">o</form> <xpln lang="fr">oo</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">p</form> <xpln lang="fr">poy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">q</form> <xpln lang="fr">cu</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">r</form> <xpln lang="fr">aar</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">s</form> <xpln lang="fr">ces</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">t</form> <xpln lang="fr">toy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">v</form> <xpln lang="fr">v</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">x</form> <xpln lang="fr">yeux</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">y</form> <xpln lang="fr">ygregois</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">z</form> <xpln lang="fr">zedes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">&#38;<expan type="p-_">par</expan>le</form> <xpln lang="fr">&#38;<expan type="p-_">par</expan>lui</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">9<expan type="p-_">par</expan>se.</form> <xpln lang="fr">9<expan type="p-_">par</expan>lui. or. <expan type="p-_">par</expan>soy. </xpln></wordentry>
+</wordgroup1>
+ 
+<term lang="en">
+&#182; And albeit that this lettre .h. be put amonge the lettres of the alphabete / yet 
+it is no lettre / but a note of asperacyon / or token of sharpe <expan type=",p">pro</expan>no<expan type="u+_">un</expan>cynge of a wor<emend err="">&#173;</emend>
+de. Also .&#38;. and .9. are not counted amonge the lettres: and so remayneth. xxii. let<emend err="">&#173;</emend>
+tres in the alphabete besyde .h. &#38; .9. as sayd is.
+
+&#182; These sayd: xxii. lettres be deuyded all in to vowels &#38; conson<expan type="a+_">an</expan>tes .v. of th<expan type="e+_">em</expan> 
+be called vowels / whiche be these, a. e. i. o. u. these fyue be called vowels for eche 
+of them by themself ioyned <expan type="w+t">with</expan> none other lettre maketh a full &#38; parfect worde. 
+Y. is a greke vowell and is not wryten in latyn wordes / but in greke wordes. 
+</term>
+</page>
+
+<page sig="a5r">
+<term lang="en">And wordes of other langages <expan type="w+t">with</expan>out one of these vowels: no lytteral voyce 
+may be pronunced of these .v. vowels .ii. leseth theyr strength s<expan type="o+_">om</expan>tyme: and be
+come consonantis whiche .ii. be these. I. &#38; v. whiche ar c<expan type="o+_">on</expan>sonantis whan they 
+are put in the begynnynge of a syllable ioyned with another vowel and sylla&#173;
+blyd or spellid with the same / as in these wordes in frenche</term> <term lang="fr">Iouer</term> <term lang="en">to play</term> <term lang="fr">van<emend err="">&#173;</emend>
+ter /</term> <term lang="en">to boste: and so in other lyke.
+ 
+&#182; The other .xvi. letters called be consonantis: for they be soundyd with the 
+vowels and make no syllable nor worde by them selfe excepte they be ioyned 
+with some vowel, consonantis be these. b. c. d. f. g. k. 1. m. n. p. q. r. s. t. x. z. 
+
+&#182; These consonantis be deuydyd agayne into mutes liquides &#38; semy vowels 
+of whom nedyth not to speke for our purpose. A dyptonge is a ioynynge to gy<emend err="">&#173;</emend>
+ther of .ii. vowels kepyng eche of them his strength in one self syllable: of them 
+be .iiii. / that is to say / au / eu / ei / 4 oy. In latyn tunge / au / and /cu be bothe wryten &#38;
+sounded .ay / and / oy / be wryten but not sounded. but in frenche &#38; englysshe tun<emend err="">&#173;</emend>
+ge bothe ay oy au and eu be wryten and sounded / as in these examples in fren&#173;
+che of au.</term> <term lang="fr">voycy vng beau filz</term> <term lang="en">here is a fayre sone. of eu /</term> <term lang="fr">deux homes font plus 
+que vng:</term> <term lang="en">two men dooth more th<expan type="a+_">an</expan> one. of ay /</term> <term lang="fr">ie ne diray point ma p&#233;ce a toutz 
+gentz.</term> <term lang="en">I shall not tell my thought to all folkes. Of oy as /</term> <term lang="fr">toy mesmes ma fait ie 
+le tort.</term> <term lang="en">thy self hast none me the wronge. That the same dyptonges be both wry<emend err="">&#173;</emend>
+ten and sounded in englysshe it appereth by the examples. As a maw / strawe /  
+tawe / dewe / sewe / fewe / fray / tray / lay / may / pay / noy / boy / toy / ioy. And thus haue 
+we more lyberte bothe in frenche and englysshe in wrytynge and soundynge 
+than in latyn as touchynge the .iiii. dyptonges. 
+
+&#182; Also here is to be noted that of lettres we make syllabes: of syllabes we fra&#173;
+me wordes / &#38; and of wordes we combyne reasons / and by reasons all scyences and 
+speches be vttred. thus resteth the grounde of all scyences in lettres / syllabes / 
+wordes / and reasons. Wherfore (as of the fyrst foundacyon of frenche tunge &#38; 
+also of al other langages) fyrst I intende by the ayde &#38; socour of the holy goost 
+to treate how the lettres be wryten &#38; sounded in frenche. 
+
+&#182; Of the soundynge of this lettre .A. in frenche. 
+
+THis lettre .A. in fr<expan type="e+_">en</expan>che somtyme is put onely for a lettre. And somtyme 
+it is put for this englysshe worde. hath. Whan it is put but for a lettre it 
+is often sounded as this lettre e. as in this frenche worde /</term> <term lang="fr">staues vous:</term> <term lang="en">in en&#173;
+glysshe / can ye. In whiche worde &#38; many other as / barbe / and fayre. <expan type="w+t">with</expan> other ly<emend err="">&#173;</emend>
+ke this lettre. A. hath his sounde of this lettre .e. But in some co<expan type="u+_">un</expan>trees .A. is so<expan type="u+_">un</expan><emend err="">&#173;</emend>
+ded with full so<expan type="u+_">un</expan>de in lyke maner as it is wryten as / fayre &#38; suche other whan 
+this lettre .A. is put for a worde it betokeneth as moche <expan type="i+_">in</expan> englysshe as this wor<emend err="">&#173;</emend>
+de .hath. But some frenche men than ad nex .d. withall as / ad. as</term> <term lang="fr">il ad</term> / <term lang="en">he hath. 
+But suche maner of wrytynge is false. for this lettre. d. is not sounded nor pro&#173;
+no<expan type="u+_">un</expan>ced in frenche / nor fo<expan type="u+_">un</expan>de often wryten in <expan type="y+e">the</expan> ende of ony worde. And though 
+some wolde say in these frenche wordes /</term> <term lang="fr">viande</term> / <term lang="en">meate</term> / <term lang="fr">demande</term> / <term lang="en">enquyre or 
+aske. and <expan type="y+t">that</expan> .d. is sounded in ende of the worde / it is not so. for in these wordes &#38; 
+other lyke / suche as truly pronounce frenche resteth the sounde on the last let&#173;
+ter of the worde whiche is .e. and not .d.</term>
+</page>
+
+<page sig="a5v">
+<term lang="en">&#182; Also in true frenche these wordes /</term> <term lang="fr">auray</term> / <term lang="en">I shal haue. &#38; /</term> <term lang="fr">auroy</term> <term lang="en">/ I had: be 
+wryten <expan type="w+t">with</expan>out e in myddes of the worde / &#38; in lykewyse be they so<expan type="u+_">un</expan>ded <expan type="w+t">with</expan>out / e 
+but in certayne countrees of fraunce in suche maner of wordes this lettre e is 
+sounded &#38; wryten in the myddes as thus /</term> <term lang="fr">aueroy / aueroie:</term> <term lang="en">whiche is contrary 
+bothe in the true wrytynge / &#38; also to the true <expan type=",p">pro</expan>nuncyacion of perfyte frenche.  
+
+&#182; How this lettre b ought to be wryten &#38; sounded in frenche themperour 
+for the emperou<expan type="r'">re</expan>, and so of other lyke. 
+
+&#182; Also this worde</term> <term lang="fr">auec</term> <term lang="en">may be wryten in dyuers maners after the custome &#38; 
+vsage of dyuers co<expan type="u+_">un</expan>trees of fraunce as thus,</term> <term lang="fr">auecques: aue<expan type="q3">que</expan>.</term> <term lang="en">And some <expan type="w+t">with</expan>out 
+reas<expan type="o+_">on</expan> or ortography wryte it <expan type="w+t">with</expan> .s. <expan type="i+_">in</expan> <expan type="y+e">the</expan> myddes as</term> <term lang="fr">auesque.</term> <term lang="en">but how so euer</term> <term lang="fr">aue<expan type="q3">que</expan></term> <term lang="en">
+be wryten in fr<expan type="e+_">en</expan>che it soundeth as moche in englysshe as this <expan type="p+_">pre</expan>posycyon with. 
+And also this worde</term> <term lang="fr">solonc</term> <term lang="en">may be wryten <expan type="w+t">with</expan>c / or els <expan type="w+t">with</expan>out c at <expan type="y+e">the</expan> as</term> <term lang="fr">solonc</term>
+<term lang="en">or</term> <term lang="fr">solon</term> <term lang="en">/ but than o ought not to be so<expan type="u+_">un</expan>ded / yf a c<expan type="o+_">on</expan>sonant immedyatly folowe.
+
+&#182; Of gendres.
+
+&#182; Also fr<expan type="e+_">en</expan>che men make dyuersyte in theyr gendres / as</term> <term lang="fr">ton pere /</term> <term lang="en">thy father. </term> <term lang="fr">ta
+mere /</term> <term lang="en">thy moder.</term> <term lang="fr">mon espce /</term> <term lang="en">my swerde.</term> <term lang="fr">ma robe /</term> <term lang="en">my gowne.
+</term> <term lang="fr">vng home /</term> <term lang="en">a m<expan type="a+_">an</expan>
+</term> <term lang="fr">vne f<expan type="e+_">em</expan>me /</term> <term lang="en">a woman.</term> <term lang="fr">le maistre de lostel /</term> <term lang="en">the mayster of the house.</term> <term lang="fr">la dame de lo&#173;
+stel /</term> <term lang="en">the lady or good wyfe of the hous. And so before wordes of the masculyne
+gendre they vse:</term> <term lang="fr">ton / mon / ung /</term> <term lang="en">and</term> <term lang="fr">le</term> <term lang="en">But before wordes of the femynyne g<expan type="e+_">en</expan><emend err="">&#173;</emend>
+dre they vse /</term> <term lang="fr">ta/</term> <term lang="en">for thyne.</term> <term lang="fr">ma /</term> <term lang="en">myne.</term> <term lang="fr">vne /</term> <term lang="en">for one. &#38; /</term> <term lang="fr">la</term> <term lang="en">/ for the. how be in en&#173;
+glysshe varye for no gender / And in lykewyse in fr<expan type="e+_">en</expan>che these wordes neuer va&#173;
+ry in the plural nomber. The neuter gender &#38; the femynine moste c<expan type="o+_">om</expan>mynly be in<emend err="">&#173;</emend>
+cludyd both in one so that the same adiectyue is set before a nowne of <expan type="y+e">the</expan> gender.
+
+&#182; Also here is to be notyd that oft tymes that thynge whiche cometh before <expan type="y+e">the</expan>
+verbe in englysshe c<expan type="o+_">om</expan>myth after the verbe in fr<expan type="e+_">en</expan>che / as</term> <term lang="fr">Il ma fait tort /</term> <term lang="en">he hathe 
+done me wronge.</term> <term lang="fr">Ie ne me puis leuer</term> <term lang="en">/ I may not lyfte my selfe vp.
+
+&#182; Many maner of spekynges be in frenche whiche may not be spoken in en&#173;
+glysshe worde by worde: but by varyenge of termes / and in lyke wyse many s<expan type="e+_">en</expan>&#173;
+tences be in englysshe whiche may not be spoken in frenche without transpo&#173;
+synge or alterynge of wordes.
+
+&#182; Many mo rules be concernynge wrytynge and spekynge of frenche / which 
+were to longe to expres in this small treatyse: but the moste perfytenes of this 
+langage is had by custome and vse of redynge and spekynge by often enquy&#173;
+rynge: and frequentynge of company of frenchemen and of suche as haue per<emend err="">&#173;</emend>
+fytenes: in spekynge the sayd langage.
+</term>
+</section>
+</page>
+
+<page sig="a6r">
+<section type="Glossary">
+<term lang="en">
+&#182; Here foloweth a small treatyse of dyuerse frenche wordes after order of the
+Alphabete. In which treatyse are firste set nownes or names of thynges most
+vsed in c<expan type="o+_">om</expan>mon speche / after th<expan type="e+_">em</expan> are set adiectyues / than verbes. And last of all
+aduerbys / and all by order of letter as after shall appere.</term>
+
+<wordgroup1 type="a" object="Nouns beginning A"><alpha><term lang="en">&#182; Frenche wordes begynnynge
+with this letter A.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Ame.</form>  <xpln lang="en">a soule</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ange.</form> <xpln lang="en">an angell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Amitie.</form> <xpln lang="en">frendshyp</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Amy.</form> <xpln lang="en">a frende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Amys.</form> <xpln lang="en">a woman frende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">An.</form> <xpln lang="en">a yere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Anee</form> <xpln lang="en">yerely</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aulne.</form> <xpln lang="en">an elne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Asne.</form> <xpln lang="en">an asse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Auoir.</form> <xpln lang="en">hauynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Amour.</form> <xpln lang="en">loue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aneau.</form> <xpln lang="en">a rynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aygnel.</form> <xpln lang="en">a lambe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ausmoue.</form> <xpln lang="en">almysdede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arc.</form> <xpln lang="en">a bowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Archier.</form> <xpln lang="en">an archer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arche.</form> <xpln lang="en">an arche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aronde.</form> <xpln lang="en">a swallowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arbre.</form> <xpln lang="en">a tre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Araigne.</form> <xpln lang="en">aloppe or a spider</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Alumelle.</form> <xpln lang="en">blad or sceu<expan type="y+_">yn</expan>g</xpln>
+
+</wordentry>
+
+<wordentry type="h"><form lang="fr">Ante.</form> <xpln lang="en">an aunte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Alayne.</form> <xpln lang="en">brethe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Alesne.</form> <xpln lang="en">an alle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Assemblee.</form> <xpln lang="en">a gatherynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Anguille.</form> <xpln lang="en">an ele</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arciller.</form> <xpln lang="en">a bowyer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arlure.</form> <xpln lang="en">a brennynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Abbe.</form> <xpln lang="en">an abbot</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Abbesse.</form> <xpln lang="en">an abbesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Abbaye.</form> <xpln lang="en">an abbay</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Argent.</form> <xpln lang="en">syluer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Acier.</form> <xpln lang="en">steele</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Auoine.</form> <xpln lang="en">otes</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning B"><alpha><term lang="en">Of. B.</term></alpha>
+
+<wordentry type="h"><form lang="fr">&#182; Bonte.</form>
+<xpln lang="en">goodnes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Besoin.</form>
+<xpln lang="en">nede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Boys.</form>
+<xpln lang="en">wodde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Baston.</form>
+<xpln lang="en">a staffe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Buisson.</form>
+<xpln lang="en">a busshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bryde.</form>
+<xpln lang="en">a brydell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bourde.</form>
+<xpln lang="en">a borde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Boiste.</form>
+<xpln lang="en">a box</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Berbis.</form>
+<xpln lang="en">a shepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bergier.</form>
+<xpln lang="en">a shepeherde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Beuf.</form>
+<xpln lang="en">a beef or ox</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Beste.</form>
+<xpln lang="en">a beeste</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bout.</form>
+<xpln lang="en">an ende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Branche.</form>
+<xpln lang="en">a boughe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Barbe.</form>
+<xpln lang="en">a berde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Beure.</form>
+<xpln lang="en">butter</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Balais.</form>
+<xpln lang="en">a besome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Buffe.</form>
+<xpln lang="en">a bouffet</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Banc.</form>
+<xpln lang="en">benche.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+<section type="Sounding the Alphabet (contd.)">
+<term lang="en">
+&#182; This lettre. B. set in the myddes of a frenche worde ought to be soundyd
+in maner as it is wryt<expan type="e+_">en</expan> / as</term> <term lang="fr">debriler.</term> <term lang="en">to brule /</term> <term lang="fr">troubler.</term> <term lang="en">to trouble / but in these
+wordes folowynge. b. is wryten in the myddes &#38; not soundyd as / debte. dette</term> 
+<term lang="fr"><damage>e</damage>ndebter. desoubz.</term> <term lang="en">vnderneth /</term> <term lang="fr">desubz.</term> <term lang="en">aboue /</term> <term lang="fr">coubte.</term> <term lang="en">a ribbe.</term> <term lang="fr">vng subget.</term> <term lang="en">Also
+these verbes</term> <term lang="fr">doubter</term>. <term lang="en">to dout /</term> <term lang="fr">tresdoubter.</term> <term lang="en">greatly to dout /</term> <term lang="fr">substiner</term> <term lang="en">with all
+theyr modes &#38; tensys aswell synguler as plurell with all nownes &#38; <expan type="p-_">par</expan>ticyples
+dissendynge of them / must haue. b. wryten in the myddes of them and not so<expan type="u+_">un</expan><emend err="">&#173;</emend>
+dyd / as wryten</term> <term lang="fr">doubte tresdoubte.</term> <term lang="en">and soundyd</term> <term lang="fr">doute</term> / <term lang="en">and</term> <term lang="en">tresdoute.</term> 
+</page>
+
+<page sig="a6v">
+<term lang="en">Of. C. &#182; This letter. C. wryten in myddes of a worde hathe somtyme the sounde of
+this letter .s. or .z. as these worde.</term> <term lang="fr">ca.</term> <term lang="en">on this half.</term> <term lang="fr">picca.</term> <term lang="en">a whyle agone.</term> <term lang="fr">r<expan type="a+_">an</expan>con</term>
+<term lang="en">a ranson.</term> <term lang="fr">francois.</term> <term lang="en">frenche. and in many other lyke wordes whiche so<expan type="u+_">un</expan>dyth
+thus with. s.</term> <term lang="fr">sa piesa ranson francois.</term> <term lang="en">Also this letter .c. somtyme hath <expan type="y+e">the</expan> sonde
+of .k. as in these wordes in frenche</term> <term lang="fr">crou. cru. cause</term> <term lang="en">/ and</term> <term lang="fr">car.</term> <term lang="en">Also these wordes</term>
+<term lang="fr">donc</term> <term lang="en">and</term> <term lang="fr">iour</term> <term lang="en">are wryten with .c. in the ende in synguler nombre, but in <expan type="y+e">the</expan> plur&#173;
+rell nomber the .c. in them is tournyd in to .x. as in</term> <term lang="fr">doux ioux.</term>
+
+<term lang="en">Of. E. &#182; E. for the moste parte is soundyd almost lyke .a. and that namely in <expan type="y+e">the</expan> ende
+of a worde. as in this example.</term> <term lang="fr">A mon premier c<expan type="o+_">om</expan>encement soit dieu le pere
+omnipotent.</term> <term lang="en">At my fyrste begynnynge be god the father almyghty.</term> <term lang="fr">Il a vng
+bon entendement.</term> <term lang="en">these wordes</term> <term lang="fr">commencement omnipotent entendement vent</term> <term lang="en">
+with other lyke. be soundyd with a. as</term> <term lang="fr">c<expan type="o+_">om</expan>m<expan type="e+_">en</expan>cemant. omnipotant. ant<expan type="a+_">an</expan>dem<expan type="a+_">an</expan>t
+vant</term> <term lang="en">and other lyke. and all suche wordes must haue a short and sharpe attent
+or pronounciacion at the ende.
+
+&#182; And here is to be notyd <expan type="y+t">that</expan> al maner nownes of the masculyne gender endyn<emend err="">&#173;</emend>
+ge in the synguler nomber in .c. g. or .f. as</term> <term lang="fr">blanc.</term> <term lang="en">whyt.</term> <term lang="fr">vyf.</term> <term lang="en">quicke.</term> <term lang="fr">long.</term> <term lang="en">longe. 
+shall be wryten in the plurell n<expan type="o+_">om</expan>bre with .s. hauynge .c. g. or .f. put awaye from
+them, as</term> <term lang="fr">blans. vis. lons.</term>
+
+Of G. &#182; <term lang="en">G. Whan this letter .g. is wryten in fr<expan type="e+_">en</expan>che in myddes of a worde bytwene a vo<emend err="">&#173;</emend>
+well and a c<expan type="o+_">on</expan>son<expan type="a+_">an</expan>t/ than shal it be soundyd lyke .n. and .g. As</term> <term lang="en">compaigon, cow&#173;
+paige.</term> <term lang="en">How be it some wryte suche wordes as they muste be sonndyd with .g.
+and .n. as</term> <term lang="fr">compagnon.</term> <term lang="en">a felawe. compaigne. a company.
+
+Of. H. &#182; H. is no letter but a tokyn of asperacion or sharpynge of a worde / as in these
+wordes /</term> <term lang="fr">hors.</term> <term lang="en">out /</term> <term lang="fr">dehors.</term> <term lang="en">without /</term> <term lang="fr">honte.</term> <term lang="en">shame /</term> <term lang="fr">haut.</term> <term lang="en">hye /</term> <term lang="en">and in other lyke in 
+whiche wordes and lyke .h. is sounded. other wordes be in whiche. h. is wryten
+and not soundyd as</term> <term lang="fr">heure.</term> <term lang="en">an houre /</term> <term lang="fr">helas.</term> <term lang="en">alas /</term> <term lang="fr">h<expan type="o+_">om</expan>me.</term> <term lang="en">a man / <expan type="w+t">with</expan> other lyke.
+
+Of. I &#38; E &#182; I. and E. or ony other two vowels ioyned togyder in myddes or in the en&#173;
+de of a worde. whan they are put bytwene two c<expan type="o+_">on</expan>sonan<expan type="t'">tes</expan> / or bytwene a vowell
+and a c<expan type="o+_">on</expan>sonant. than eyther of them shall haue his <emend err="f">s</emend>ounde / as in these wordes</term> 
+<term lang="fr">biens.</term> <term lang="en">goodes</term> / <term lang="fr">riens.</term> <term lang="en">nothynge/</term> <term lang="fr">Ioie.</term> <term lang="en">Ioy /</term> <term lang="fr">voie.</term> <term lang="en">a way / And suche lyke wor&#173;
+des. yet some holde oppynyon that in these wordes / and in suche other .I. or E
+shall not be soundyd.
+
+&#182; Also in true frenche these wordes.</term> <term lang="fr">Ie. ce /</term> <term lang="en">are. wryt<expan type="e+_">en</expan> without o. in theyr ende
+but in pycard / or gascoygne / they are wryten with o. at <expan type="y+e">the</expan> ende, as thus</term> <term lang="fr">ieo ceo</term>
+
+<term lang="en">Of. K. &#182; K. This letter .K. in dyuerses speches is put for. ch. As</term> <term lang="fr">kinal. kien. vak.</term> <term lang="en">but in
+true frenche it is not / but these wordes and suche lyke be wryt<expan type="e+_">en</expan> with ch. as</term> <term lang="fr">che&#173;
+ual.</term> <term lang="en">a hors /</term> <term lang="fr">chien.</term> <term lang="en">a dogge,</term> <term lang="fr">vache.</term> <term lang="en">a cowe / Also in certaynes countres of Fra<expan type="u+_">un</expan>&#173;
+ce for c. is wryt<expan type="e+_">en</expan> ch. as</term> <term lang="fr">piecha.</term> <term lang="en">for a</term> <term lang="fr">pieca /</term> <term lang="en">a whyle ago /</term> <term lang="fr">tresdoulche</term> <term lang="en">for</term> <term lang="fr">tresdoul&#173;
+ce.</term> <term lang="en">ryght swete. And so of other lyke.</term>
+
+                     
+</page>
+
+<page sig="b1r">
+<term lang="en">&#182; In lykewyse in some countrees of Fraunce names of dygnyte and offyce whi<emend err="">&#173;</emend>
+che are the synguler nombre are wryten plurell <expan type="w+t">with</expan> / s / at the ende, as </term> <term lang="fr">luy papes
+de Rome, luy toys de trance, luy sains esperis</term>: <term lang="en">but in true frenche these names
+be wryten <expan type="w+t">with</expan>out / s. as</term> <term lang="fr">le pape de ronie,</term> <term lang="en">the pope of rome.</term> <term lang="fr">Ie roy de france, /term> <term lang="en">the k<expan type="y+_">yn</expan>&#173;
+ge of fraunce.</term> <term lang="fr">le saint esperit,</term> <term lang="en">the holy goost. and so of lyke.
+
+Of. L. &#182; L. This lettre .L. set in myddes of a worde immedyatly before a vowell shall
+kepe his full sounde / as</term> <term lang="fr">nouellem<expan type="e+_">en</expan>t,</term> <term lang="en">newly.</term> <term lang="fr">annuelement /</term> <term lang="en">yerely.</term> <term lang="fr">c<expan type="o+_">on</expan>tinuelem<expan type="e+_">en</expan>t</term> <term lang="en">
+contynually</term> <term lang="fr">parl<expan type="a+_">an</expan>t /</term> <term lang="en">spekynge.</term> <term lang="fr">egallement,</term> <term lang="en">egally. But yf a consonant folowe. l 
+immedyatly than / l / shall be sounded as  / u / as</term> <term lang="fr">oyalment / principalment /</term> <term lang="en">whi&#173;
+che are sounded thus.</term> <term lang="fr">loyalment /</term> <term lang="en">faythfully.</term> <term lang="fr">principallment /</term> <term lang="en">pryncipally. Ex<emend err="">&#173;</emend>
+cept this worde /</term> <term lang="fr">ilz.</term> <term lang="en">/ in whiche worde / l / and .z / hath no sounde somtyme. as</term> <term lang="fr">ilz
+vont ensemble /</term> <term lang="en">they go togyder. and somtyme 1 / hath his sounde and / z /, leseth
+the sounde whan /</term> <term lang="fr">ilz /</term> <term lang="en">cometh before a worde begynnynge with a vowell / as</term> <term lang="fr">ilz 
+ont fait:</term> <term lang="en">they haue done. Whan / l / is wryten in the ende of a worde / and that the 
+worde folowyng begyn with a consonant than shall .l. in suche wordes lese his 
+owne sounde and be sounded lyke an .u. as</term> <term lang="fr">ladmiral dengleterre /</term> <term lang="en">the admyrall
+of englande / but yf <expan type="y+e">the</expan> worde folowynge / l / begyn with a vowell than / l / shall ke<emend err="">&#173;</emend>
+pe his owne so<expan type="u+_">un</expan>de: as</term> <term lang="fr">nul home /</term> <term lang="en">no man.</term> <term lang="fr">nul aultre /</term> <term lang="en">none other,</term> <term lang="fr">nul vsage,</term> <term lang="en">no
+vsage. Also / 1 / put in the ende of a worde of one syllable shal haue no so<expan type="u+_">un</expan>de at all
+as</term> <term lang="fr">il sen est ale /</term> <term lang="en">he is gone.</term> <term lang="fr">ie le veul bien /</term> <term lang="en">I wyll it well. In suche wordes</term> <term lang="fr">il</term> <term lang="en">and
+</term> <term lang="fr">veul</term> <term lang="en">/ and other lyke / l / leseth his sounde .ll. double in myddes of a worde must
+be sounded with hole &#38; full voyce. as</term> <term lang="fr">fille /</term> <term lang="en">a doughter.</term> <term lang="fr">fillette /</term> <term lang="en">a lytell mayde.
+</term> <term lang="fr">oraille /</term> <term lang="en">an eere. and so other lyke.
+
+Of. N. &#182; N. This lettre. N. put betwene a vowell and a consonant in ende of ony worde
+whiche is a verbe of <expan type="y+e">the</expan> thyrde persone plurell / and the indycatyf / or optatyf mo<emend err="">&#173;</emend>
+de what tens so euer it be / it shall not be sounded in true pronouncynge of fren&#173;
+che / as</term> <term lang="fr">ilz ayment</term> / <term lang="en">they loue.</term> <term lang="fr">ilz lisent</term> <term lang="en">/ they rede, whiche wordes and all other
+lyke must be sounded thus without / n.</term> <term lang="fr">ilz aymet. ilz liset.</term> <term lang="en">&#182; Out of this rule be 
+excepte verbes of one syllable in whiche / n / must haue the sounde. as</term> <term lang="fr">ilz vont /</term> 
+<term lang="en">they go:</term> <term lang="fr">ilz ont</term> <term lang="en">/ they haue: </term> <term lang="fr">ilz sont</term> <term lang="en">/ they are:</term> <term lang="fr">ilz font /</term> <term lang="en">they make / <expan type="w+t">with</expan> all theyr mo&#173;
+des: tens: and compoundes. in whiche / n shall kepe his ryght sounde.
+
+Of. P. &#182; Whan .P. is wryten in the ende of a worde in frenche, and <expan type="y+e">the</expan> next worde im<emend err="">&#173;</emend> 
+medyatly folowynge begynnynge with a consonant than shall it lese the soun&#173;
+de / as thus,</term> <term lang="fr">il a trop grant auoir /</term> <term lang="en">he hath to grete goodes.</term> <term lang="fr">il vient trop tard /</term> <term lang="en">he 
+cometh to late.</term> <term lang="fr">trop hault /</term> <term lang="en">to hye.</term> <term lang="fr">trop bas /</term> <term lang="en">to lowe. in whiche worde</term> <term lang="fr">trop</term> <term lang="en">p /
+hath not his sounde / but it must be sounded thus/.</term> <term lang="fr">tro hault. tro bas. tro tard.</term> <term lang="en">
+
+&#182; Of this rule be except <expan type=",p">pro</expan>pre names end<expan type="y+_">yn</expan>ge in / p. in whiche / p / must haue his 
+full sounde / as philip. But yf a worde ende in / p / and the worde nexte folowynge
+begyn with a vowell than / p / shall haue his full sounde. as</term> <term lang="fr">mieulx vault assez <expan type="q+_">que</expan>
+trop auoir</term> / <term lang="en">better is ynough than to haue to moche. Also these wordes </term> <term lang="fr">sempai&#173;
+ne /</term> <term lang="en">a weke.</term> <term lang="fr">temps.</term> <term lang="en">tyme. </term> <term lang="fr">corps</term> <term lang="en">/ a body, and this verbe</term> <term lang="fr">escripre,</term> <term lang="en">to wryte with</term> 
+</page>
+
+<page sig="b1v">
+<term lang="en">all nownes and participles c<expan type="o+_">om</expan>mynge therof / indiffer<expan type="e+_">en</expan>tly may be wryten with
+p. or without p. but though p. be wryten in them it shall nat be so<expan type="u+_">un</expan>dyd: as</term> <term lang="fr">se&#173;
+maine, tems, cors escrire.</term> <term lang="en">
+
+Of. Q. &#182; Q. in prono<expan type="u+_">un</expan>synge muste haue a softe and lyght sounde /And it shall nat be
+wryten in any frenche worde / without two vowels, <expan type="i+_">im</expan>medyatly folowynge: of
+whiche two vowels the fyrste shalbe u. as</term> <term lang="fr">qui que</term> / <term lang="en"><expan type="y+e">the</expan> whiche /</term> <term lang="fr">quar</term> <term lang="en">/ for.</term> <term lang="fr">querir /</term> <term lang="en">
+to seke /</term> <term lang="fr">qu<expan type="a+_">an</expan>t /</term> <term lang="en">whan / and suche other / but some be whiche wryte q. in suche wor<emend err="">&#173;</emend>
+des without this vowell .u. folowynge as</term> <term lang="fr">qi. qe.</term> <term lang="en">&#38;c. whiche maner of wryt<expan type="y+_">yn</expan>ge
+is vnsemely: And also it is c<expan type="o+_">on</expan>trary to all rules of ortography or true wrytyng
+aswell in frenche / as in other langages and no reason haue they whiche wryte
+suche wordes without u. to assyst th<expan type="e+_">em</expan> saue theyr vnresonable vse agaynst all ru<emend err="">&#173;</emend>
+les / and good custome. More ouer these wordes</term> <term lang="fr">quar / querir / qu<expan type="a+_">an</expan>at.</term> <term lang="en">&#38;c. maye
+be wryten indifferently: with / q. k. or c / as</term> <term lang="fr">quar</term> <term lang="en">/ or car</term> <term lang="en">/ or els</term> <term lang="fr">kar.</term> <term lang="en">&#38;c.
+
+Of. R. &#182; R. This letter. R. put in the ende of a worde shall kepe his owne full sounde /as 
+</term> <term lang="fr">cueur /</term> <term lang="en">as thus</term> <term lang="fr">Iay grant mal au cueur, </term> <term lang="en">I haue graet dysease at my herte: </term> <term lang="fr">Ie
+vous prie pour me consailler /</term> <term lang="en">I pray you counsell me: but in some co<expan type="u+_">un</expan>tres .r.
+is soundyd / as this letter / z. as</term> <term lang="fr">compere /</term> <term lang="en">a gossyp / is somtyme soundyd thus 
+</term> <term lang="fr">compez /</term> <term lang="en">and so of other wordes endynge in this letter. R.
+
+Of. s. syn<emend err="">&#173;</emend>
+gle. &#182; A syngle .s. in myddes of a worde ought nat to be soundyd if a consonant fo&#173;
+lowe immedyatly: as</term> <term lang="fr">tresdoulce /</term> <term lang="en">ryght swete:</term> <term lang="fr">tresnoble /</term> <term lang="en">ryght noble:</term> <term lang="fr">tresgraci<emend err="">&#173;</emend>
+ous /</term> <term lang="en">ryght gracyous: but .s. in myddes of these wordes folowyng hath his full
+sounde: as thus:</term> <term lang="fr">prosperite / chestien / substance / esperance /meschant / Institu<emend err="">&#173;</emend>
+er / escharuir / transglouter / Augustynes / Inspirer / descharger / estaincher / 
+estandre / peschies / constrayndre / despenser / escuser /</term> <term lang="en">with al nownes / and ad&#173;
+uerbes c<expan type="o+_">om</expan>mynge of them. In whiche .s. must be soundyd / if a consonant imme&#173;
+dyatly folowe .s. But if a vowel folowe this letter. s. in the myddes of a worde
+and no letter betwene .s. and the vowell / than shall .s. haue his full sounde / as 
+it is wryten /</term> <term lang="fr">tresexcellent /</term> <term lang="en">ryght excellent:</term> <term lang="fr">treshault /</term> <term lang="en">ryght hye:</term> <term lang="fr">treshonore /</term> <term lang="en">ryght honoured:</term> <term lang="fr">treshumble /</term> <term lang="en">ryght humble.
+
+Of dou<emend err="">&#173;</emend>
+ble. ss. &#182; Whan this letter .ss. double is wryten in myddes of a worde it must alway
+be soundyd: as puiss<expan type="a+_">an</expan>t / myghty with such lyke. More ouer if this letter .s. syn<emend err="">&#173;</emend>
+gle / be wryten in the ende of a worde / whiche is a pronowne c<expan type="o+_">on</expan>iunccion verbe
+or preposicion / if the worde folowynge .s. begyn with a consonant /than .s. shal 
+nat be soundyd: as</term> <term lang="fr">dieu vous sauue,</term> <term lang="en">god saue you.</term> <term lang="fr">dieu vous gard /</term> <term lang="en">god kepe 
+you.</term> <term lang="fr">voules vous boire /</term> <term lang="en">Wyl ye drynke.</term> <term lang="fr">nous s<expan type="o+_">om</expan>mes beaucoup des gens /</term> <term lang="en">we
+be moche folke / in which wordes .s. shal nat be soundyd. But whan this letter
+.s. is wryten in the ende of a worde in frenche and that <expan type="y+e">the</expan> next worde folowynge 
+begyn with a vowel than must .s. haue his full sounde. as</term> <term lang="fr">Ie vous ayme,</term> <term lang="en">I loue you.</term> <term lang="fr">Ie vous emprie,</term> <term lang="en">I pray you.</term> <term lang="fr">estes vous icy,</term> <term lang="en">be ye here, &#38;  <expan type="i+_">in</expan>suche other
+wordes. But in these wordes folowynge. s. shall haue no sounde / all if the wor<emend err="">&#173;</emend></term>
+</page>
+
+<page sig="b2r">
+<term lang="en">de folowynge begyn with a vowell.</term> <term lang="fr">vous ditez vray /</term> <term lang="en">ye say trouth.</term> <term lang="fr">vous ditez 
+vraym<expan type="e+_">en</expan>t /</term> <term lang="en">ye say truely. In whiche wordes .s. shall lese his sounde. And in this 
+worde</term> <term lang="fr">dis</term> <term lang="en">/ whan it is a nowne of nombre &#38; taken for ten. if there folowe a con<emend err="">&#173;</emend>
+son<expan type="a+_">an</expan>t .s. shall not be so<expan type="u+_">un</expan>dyd / as to say </term> <term lang="fr">dis liures</term> <term lang="la">.x. li.</term> <term lang="en">it muste be soundyd</term> <term lang="la">di. li.</term> <term lang="en">
+But this n<expan type="o+_">om</expan>bre ten in. frenche moost vsually is spelled <expan type="w+t">with</expan> .x. as</term> <term lang="fr">.dix.</term> <term lang="en">&#38; not <expan type="w+t">with</expan> . s .
+as</term> <term lang="fr">dis.</term> <term lang="en">But wh<expan type="a+_">an</expan></term> <term lang="fr">ditz</term> <term lang="en">is a <expan type="p-_">par</expan>ticiple / &#38; betokeneth asmoche as sayd th<expan type="a+_">an</expan> in <expan type="y+e">the</expan> same
+worde .s. or .z. shall kepe his sounde. as</term> <term lang="fr">les heures sont ditez</term> <term lang="en"><expan type="y+e">the</expan> houres be sayde
+
+Of T. &#182; This letter T. put in <expan type="y+e">the</expan> ende of a worde beynge a <expan type="v'">er</expan>be of the thirde <expan type="p-_">per</expan>sone syn&#173;
+guler &#38; present or <expan type="pre">pre</expan>teryt tens of the indicatyf mode if the worde folowyng begyn with 
+a vowell / it shall be soundyd. as</term> <term lang="fr">est il prest /</term> <term lang="en">is he redy.</term> <term lang="fr">Il estoit alostel /</term> <term lang="en">he was 
+at home. But if <expan type="y+e">the</expan> worde folowynge begyn <expan type="w+t">with</expan> a c<expan type="o+_">on</expan>sonant / th<expan type="a+_">an</expan> T. shal nat be so<expan type="u+_">un</expan><emend err="">&#173;</emend>
+dyd. as</term> <term lang="fr">quest ce quil dist /</term> <term lang="en">what is <expan type="y+t">that</expan> he sayth</term> <term lang="fr">Il est prest /</term> <term lang="en">he is redy.</term> <term lang="fr">il fust tout es&#173;
+bahy /</term> <term lang="en">he was al abasshed</term> <term lang="fr">Il ny a <expan type="q+_">que</expan> vanite en cest m<expan type="o+_">on</expan></term> <term lang="en">There is nought but va<emend err="">&#173;</emend>
+nyte in this worlde. Also all nownes &#38; participles / whiche ende in <expan type="y+e">the</expan> synguler 
+n<expan type="o+_">om</expan>bre in t, in the plurell nombre muste be wryten with. s. or with z. the same t. put away
+from the ende of the word as thus worde,</term> <term lang="fr">saynt,</term> <term lang="en">holy, is wryten in the synguler no&#173;
+bre with t. in <expan type="y+e">the</expan> plurell n<expan type="o+_">om</expan>bre muste de wryten <expan type="w+t">with</expan> .s. or <expan type="w+t">with</expan> .z. the same t. put away
+from <expan type="y+e">the</expan> ende of <expan type="y+e">the</expan> word as thus worde /</term> <term lang="fr">saynt /</term> <term lang="en">holy. is thus wryt<expan type="e+_">en</expan>. as </term> <term lang="fr">sainz.</term> <term lang="en">or</term> <term lang="fr">sains</term> <term lang="en"><expan type="w+t">with</expan>out .t. but in so&#173;
+me places of fraunce they wryte suche wordes in <expan type="y+e">the</expan> plurel n<expan type="o+_">om</expan>bre <expan type="w+t">with</expan> t. e. &#38; z. or s.
+at the ende after the moste vsed Ortography of frenche. For amonge frenche men 
+this is a general rule, that as ofte as t. is put in myndes of a worde beynge a now&#173;
+ne of the femynyne gender it shall not be wryten without a vowell imedyatly folo&#173;
+wynge. as</term> <term lang="fr">les saintez vierges du ciel ne cessent de louer dieu /</term> <term lang="en"><expan type="y+e">the</expan> holy virgyns of
+heu<expan type="e+_">en</expan> cesseth not to laude god.</term> <term lang="fr">Il ya des femmes que sont bien riches march<expan type="a+_">an</expan>&#173;
+des,</term> <term lang="fr">there be women whiche be well ryche march<expan type="a+_">an</expan>des. And so may other fren&#173;
+che wordes endynge in tes. be wryten <expan type="w+t">with</expan> t. and es. or <expan type="w+t">with</expan> z. or s. <expan type="w+t">with</expan>out t. but it ac&#173;
+cordeth not to reason to wryte these wordes thus</term> <term lang="fr">saintz toutz march<expan type="a+_">an</expan>tz</term> <term lang="en">in <expan type="y+e">the</expan> 
+plurell n<expan type="o+_">om</expan>bre. all if they be wryten <expan type="w+t">with</expan> t. in <expan type="y+e">the</expan> synguler n<expan type="o+_">om</expan>bre. for in <expan type="y+e">the</expan> plurell nom<emend err="">&#173;</emend>
+bre they ought nat to be writen with t. for ony of these two letters s. or z. in fr<expan type="e+_">en</expan>&#173;
+che stande for asmoche as ts. or tz. But for a c<expan type="o+_">on</expan>clusion though suche wordes in 
+<emend err="in"></emend> certayne countres of Fraunce be wryten with ts. or with tz. in the ende. as thus 
+</term> <term lang="fr">mon amy sont no<expan type="9">us</expan> litz faitz /</term> <term lang="en">my frende are our beddes made.</term> <term lang="fr">Beau sir s<expan type="o+_">on</expan>t mez 
+pourpointz faitz /</term> <term lang="en">faire sir be my doublettes made. yet after true ortography of 
+frenche these wordes and other suche muste be bothe wryten and so<expan type="u+_">un</expan>dyd with
+out t. as</term> <term lang="fr">lis fais pourpoins.</term> <term lang="en">&#182; Also these wordes</term> <term lang="fr">filz /</term> <term lang="en">a sone.</term> <term lang="fr">mieulz</term> <term lang="en">better.</term> <term lang="fr">fois</term> <term lang="en">
+one tyme.</term> <term lang="fr">assez /</term> <term lang="en">ynoughe.</term> <term lang="fr">vous poues /</term> <term lang="en">ye may.</term> <term lang="fr">vous prenes /</term> <term lang="en">ye take.</term> <term lang="fr">vous en&#173;
+seignes /</term> <term lang="en">ye teche.</term> <term lang="en">vous lisez /</term> <term lang="fr">And suche other ought to be wryt<expan type="e+_">en</expan> without t. but 
+some be whiche wrongly wryte these wordes with t. As</term> <term lang="fr">filtz, mieultz / foitz, as&#173;
+setz / pouetz / prenetz /</term> <term lang="en">&#38;c. whiche wordes in ryght frenche haue no t. neyther in 
+so<expan type="u+_">un</expan>dynge nor in wrytynge. 
+
+&#182; Also this coniunccion. betokeneth the same thynge in frenche that it doth in 
+latyn. that is to say / and / in englysshe in whiche coniunccion t. is neuer so<expan type="u+_">un</expan>dyd 
+though it be wryten <expan type="w+t">with</expan> et. as</term> <term lang="fr">et Ie vous fais a scauoir,</term> <term lang="en">And I make you to 
+wytte or knowe.</term>
+</page>
+
+<page sig="b2v">
+<term lang="en">Of. V. &#182; V. wryten in myddes of a worde shall often haue no sounde / bothe in latyn
+frenche and other l<expan type="a+_">an</expan>gages. And that whan it is wryten immedyatly after ony
+of these thre letters / that is to say. q. g. or. s. As</term> <term lang="fr">qui que /</term> <term lang="en">l<expan type="a+_">an</expan>guage /</term> <term lang="fr">langue /</term> <term lang="en">a ton&#173;
+ge.</term> <term lang="fr">querir /</term> <term lang="en">to seke: </term> <term lang="fr">guerre /</term> <term lang="en">warre, &#38; suche other. In whiche wordes u. is wryt<expan type="e+_">en</expan>
+but not soundyd. Neuerthe<emend err="r"></emend>les in dyuers Countres after the foresayd letters 
+they so<expan type="u+_">un</expan>de w / doubled as</term> <term lang="la">quater / quare</term> / <term lang="en">quaysy. Englysshe men / and Scott<expan type="es">es</expan> 
+alway sounde u. after the letters both in Latyn and in theyr Vulgayre or c<expan type="o+_">om</expan>&#173;
+mon langage. In lyke wyse do dutche men / and almayns. As </term> <term lang="du">quare / quatuor 
+quart / quayre / qwade.</term> <term lang="en">and suche lyke.
+
+Of. X. &#182; This letter X. put in thende of a worde. may eyther kepe his owne so<expan type="u+_">un</expan>de, or 
+els it may be soundyd as. z. as</term> <term lang="fr">cheualx /</term> <term lang="en">or</term> <term lang="fr">cheualz. hors / doulx /</term> <term lang="en">or</term> <term lang="fr">doulz. </term> <term lang="en">swete</term> <term lang="fr">
+mieulx /</term> <term lang="en">or</term> <term lang="fr">mieulz.</term> <term lang="en">better which wordes may indyffer<expan type="e+_">en</expan>tly be wryten with. x. or 
+with z. Also this worde</term> <term lang="fr">dieulz</term> /<term lang="en">ought not to be wryten with x. in <expan type="y+e">the</expan> ende except 
+it be in the nominatyf / or vocatyfe case. but by cause of ryme somtyme it hath 
+x. in other cases. And whan x. is wryten in suche cases somtyme it is soundyd
+and somtyme not. As if</term> <term lang="fr">dieux</term> <term lang="en">be wryten in the nominatyf case and a conson<expan type="a+_">an</expan>t
+folowe immediatly than x. shal not be so<expan type="u+_">un</expan>dyd. as</term> <term lang="fr">dieux vous sauue /</term> <term lang="en">god saue 
+you.</term> <term lang="fr">dieux yous garde /</term> <term lang="en">god kepe you. but if this worde</term> <term lang="fr">dieux</term> <term lang="en">be set in the voca<emend err="">&#173;</emend>
+tyfe case: than shall x. kepe his so<expan type="u+_">un</expan>de. </term> <term lang="fr">As benoit dieux ais pitie de moy /</term> <term lang="en">O bles&#173;
+syd god haue pyte on me.
+
+Of. Y. &#182; This letter y. hath the sounde of this letter I and in many wordes of Fren&#173;
+che it ought to be wryten in stede of I by cause of comelynes of wrytynge. In
+latyn wordis y. ought not to be wryt<expan type="e+_">en</expan> / but wh<expan type="a+_">an</expan> ony greke worde is myngled 
+with latyn wordes for curyosite of the wryter or diffyculte of interpretacion in 
+suche greke wordes y. muste be wryten in stede of I. in Englysshe wordes y.
+is moste c<expan type="o+_">om</expan>monly wryten in stede of I / soo that the englysshe worde be not de&#173;
+ducte of ony latyn worde: but specyally y: muste be wryten for I/ in <expan type="y+e">the</expan> ende of 
+englysshe w<emend err="ro">or</emend>des / and whan n: m / or u / is wryten before /or behynde it.
+
+Of. z. &#182; z. Put in the ende of a worde muste be so<expan type="u+_">un</expan>ded lyke s. as</term> <term lang="fr">querez /</term> <term lang="en">seke ye.</term> <term lang="fr">auez</term> <term lang="en">haue ye.</term> <term lang="fr">lisez /</term> <term lang="en">rede ye. And lyke wyse as s. in the ende of a frenche worde is som
+tyme pronounced / &#38; s<expan type="o+_">om</expan>tyme not / ryght so / z. put in <expan type="y+e">the</expan> ende of a worde foloweth 
+<expan type="y+e">the</expan> same rule: s<expan type="o+_">om</expan>tyme to be soundyd / &#38; somtyme not as aperyth in the rule of .s.
+
+&#182; Here is also to be noted for a generall rule / that if a worde of one syllabe en&#173;
+de in a vowell / and the worde folowynge begynne also with another vowell /
+th<expan type="a+_">an</expan> both these wordes shalbe ioyned to gyther / as one worde: both in wrytyn<emend err="">&#173;</emend>
+ge and soundynge. As</term> <term lang="fr">dargent:</term> <term lang="en">for</term> <term lang="fr">de argent, ladmiral /</term> <term lang="en">for</term> <term lang="fr">le admiral /</term> <term lang="en">whiche
+rule also is obseruid in englysshe / as thexchetour / for the exchetour: thexpery&#173;
+ence /the experyence.</term>
+</term>
+</section>
+
+<section type="Glossary (contd.)">
+</page>
+
+<page sig="b3r">
+<heading>
+<term lang="en">
+&#182; Englyshe and Frenche.
+</term>
+</heading>
+
+<wordgroup1 type="a" object="Nouns beginning M"><alpha></alpha>
+	
+<wordentry type="h"><form lang="fr">MEre.</form> <xpln lang="en">a moder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Macastre.</form> <xpln lang="en">a stepmoder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Martell.</form> <xpln lang="en">a hammer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Marraine.</form> <xpln lang="en">a godmoder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Main.</form> <xpln lang="en">a hande</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mauuys.</form> <xpln lang="en">a thrusshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Marche.</form> <xpln lang="en">cheape</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Marchandise.</form> <xpln lang="en">marchaundyse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Meure.</form> <xpln lang="en">a molbery</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mer.</form> <xpln lang="en">the see</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mensonge.</form> <xpln lang="en">lesynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Merle.</form> <xpln lang="en">an ousle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Moys.</form> <xpln lang="en">a moneth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Myll.</form> <xpln lang="en">hony</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Molyn.</form> <xpln lang="en">a mylle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mort.</form> <xpln lang="en">deth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mouche.</form> <xpln lang="en">a flye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Moustrolle.</form> <xpln lang="en">a wesell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Moucheron.</form> <xpln lang="en">a gnatte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mur.</form> <xpln lang="en">a wall</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Moylou.</form> <xpln lang="en">a sparowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Monton.</form> <xpln lang="en">a shepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Manche.</form> <xpln lang="en">a sieue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maladie.</form> <xpln lang="en">lykenes</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning N"><alpha>&#182; <term lang="en">Of nownes begynnynge with. N.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Nees.</form> <xpln lang="en">a nose</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nerf.</form> <xpln lang="en">a synowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Neueu.</form> <xpln lang="en">a broder/ or systres sone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Net.</form> <xpln lang="en">a shyppe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nolces.</form> <xpln lang="en">a brydale</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nouelles.</form> <xpln lang="en">tydynges</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nuit.</form> <xpln lang="en">a nyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nauiron.</form> <xpln lang="en">an ore</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Naure.</form> <xpln lang="en">hurte/ or woundyd.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning O">
+	
+<wordentry type="h"><form lang="fr">Oysel</form> <xpln lang="en">a byrde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ostone</form> <xpln lang="en">a goshauke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ortel</form> <xpln lang="en">a too</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ost</form> <xpln lang="en">an ost</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Os</form> <xpln lang="en">a bone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oraille.</form> <xpln lang="en">an eere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oyson.</form> <xpln lang="en">a goslynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ouie.</form> <xpln lang="en">herynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ouurage.</form> <xpln lang="en">warke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oignon.</form> <xpln lang="en">an onyon</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Orgueil.</form> <xpln lang="en">pryde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Or.</form> <xpln lang="en">golde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oye.</form> <xpln lang="en">a gander</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning P"><alpha>&#182; <term lang="en">Of nownes begynnynge with. P.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Pere.</form> <xpln lang="en">a fader</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Parastre.</form> <xpln lang="en">a stepfader</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pareyn.</form> <xpln lang="en">a godfader</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Parauet.</form> <xpln lang="en">a kynsman</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pucelle.</form> <xpln lang="en">a mayde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puissance.</form> <xpln lang="en">myght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puelle.</form> <xpln lang="en">a mayde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourchasse.</form> <xpln lang="en">a purchase</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Payllart.</form> <xpln lang="en">a harlot</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puce.</form> <xpln lang="en">a flee</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pouille.</form> <xpln lang="en">a lowse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pierre.</form> <xpln lang="en">a stone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Porte.</form> <xpln lang="en">a gate</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poing.</form> <xpln lang="en">a fyste</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourpoint.</form> <xpln lang="en">doublet</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourneant.</form> <xpln lang="en">a fornought</xpln>
+
+</wordentry>
+
+<wordentry type="h"><form lang="fr">Poisson.</form> <xpln lang="en">a fysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Prestre.</form> <xpln lang="en">a preest</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Porte.</form> <xpln lang="en">a gate</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poire.</form> <xpln lang="en">a pere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poys.</form> <xpln lang="en">a pese</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pre.</form> <xpln lang="en">a medowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Plombe.</form> <xpln lang="en">lead</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pomon.</form> <xpln lang="en">the longes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pain.</form> <xpln lang="en">brede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Peigne.</form> <xpln lang="en">a combe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Point.</form> <xpln lang="en">a styche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pluie.</form> <xpln lang="en">rayne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Prune.</form> <xpln lang="en">a plome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pertuis.</form> <xpln lang="en">a hole</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pays.</form> <xpln lang="en">a countre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Plate.</form> <xpln lang="en">a mounde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poursell.</form> <xpln lang="en">a pygge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poulayn.</form> <xpln lang="en">a colte</xpln></wordentry>
+ 
+</page>
+
+<page sig="b3v">
+<wordentry type="h"><form lang="fr">Pillier.</form> <xpln lang="en">a pyller</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poll.</form> <xpln lang="en">an here</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning R"><alpha>&#182; <term lang="en">Of nownes begynnynge with. R.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Roy.</form> <xpln lang="en">a kynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Royne.</form> <xpln lang="en">a quene</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Roser.</form> <xpln lang="en">the dewe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Raine.</form> <xpln lang="en">a frogge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Roye.</form> <xpln lang="en">a stryke, or a clyft</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Regarde.</form> <xpln lang="en">a beholdynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Royaulme.</form> <xpln lang="en">a kyngdome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Roigne.</form> <xpln lang="en">a scabbe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rue.</form> <xpln lang="en">a strete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ruelle.</form> <xpln lang="en">a lane</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Response.</form> <xpln lang="en">an answere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ronget.</form> <xpln lang="en">a gornarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Regnart.</form> <xpln lang="en">a fox</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning S"><alpha><term lang="en">Of nownes begynnyne with .S.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Sa<emend err="iu">ui</emend>uer.</form> <xpln lang="en">Sauyoure</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Seignour.</form> <xpln lang="en">a lorde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sang</form> <xpln lang="en">blode</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sens.</form> <xpln lang="en">wytte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Scavoir. <damage/></form> <xpln lang="en">knowlege</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sapience.</form> <xpln lang="en">wysdome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Selle.</form> <xpln lang="en">a sadyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Souspirer.</form> <xpln lang="en">a syghynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Souper.</form> <xpln lang="en">a supper</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sel.</form> <xpln lang="en">salte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Seliere. <damage/></form> <xpln lang="en">a salte seller</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S  u.</damage></form> <xpln lang="en">talowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sole.</form> <xpln lang="en">a halle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Singe. <damage/></form> <xpln lang="en">an ape</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S  ment</damage>  nient</form> <xpln lang="en">an othe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S ur</damage></form> <xpln lang="en">a syster</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S ur. </damage></form> <xpln lang="en">meat</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S nge. </damage></form> <xpln lang="en">a dream</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S rure.</damage></form> <xpln lang="en">a locke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S englier. </damage></form> <xpln lang="en">a boore</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><damage>S ye.</damage></form> <xpln lang="en">sylke</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning T"><alpha>&#182; <term lang="en">Nownes begynnynge with T.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Tonnerre.</form> <xpln lang="en">thunder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tonnel.</form> <xpln lang="en">a tunne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tison.</form> <xpln lang="en">a fyrebronde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tace.</form> <xpln lang="en">a powche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tasse.</form> <xpln lang="en">a pece</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tamine.</form> <xpln lang="en">a ceue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trau.</form> <xpln lang="en">a shot, or a draught</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Torchon.</form> <xpln lang="en">a wyspe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trefe.</form> <xpln lang="en">a sayle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Toyle.</form> <xpln lang="en">lynnyn clothe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tailleur.</form> <xpln lang="en">a tayler</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tozel.</form> <xpln lang="en">a bullocke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tignon.</form> <xpln lang="en">a stalle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Temps.</form> <xpln lang="en">tyme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tour.</form> <xpln lang="en">a stepyll, or a toure</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tromprer.</form> <xpln lang="en">a begyler</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tort.</form> <xpln lang="en">wronge.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning V"><alpha>&#182; <term lang="en">Of nownes begynnynge with. V.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Voysin.</form> <xpln lang="en">a neybeure</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Voysine.</form> <xpln lang="en">a wom<expan type="a+_">an</expan> neyboure</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Venire.</form> <xpln lang="en">a wombe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vin.</form> <xpln lang="en">wyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vi ier</form> <xpln lang="en">an herber</xpln>
+
+</wordentry>
+
+<wordentry type="h"><form lang="fr">Verge.</form> <xpln lang="en">a yerde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Viuter.</form> <xpln lang="en">a ponde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vigne.</form> <xpln lang="en">a vyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vers.</form> <xpln lang="en">wormis</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vespre.</form> <xpln lang="en">an euenynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vespres.</form> <xpln lang="en">the euensonge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Variet.</form> <xpln lang="en">yong man</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Verre.</form> <xpln lang="en">a glasse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vetrier.</form> <xpln lang="en">a glasse wyndowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Viute.</form> <xpln lang="en">a lyuynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vache.</form> <xpln lang="en">a cowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Verd<damage>ie gre es</damage></form> <xpln lang="en"><damage></damage></xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Here begynneth nownes adecti&#173;
+ues in Fr<expan type="e+_">en</expan>che tunge ordred by letter
+</term>
+
+<wordgroup1 type="a" object="Nouns adjectives beginning A"><alpha>&#182; <term lang="en">Adiectyues begynnynge with A.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Aultre.</form> <xpln lang="en">another</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aveugle.</form> <xpln lang="en">blynde</xpln></wordentry>
+</page>
+
+<page sig="b4r">
+<wordentry type="h"><form lang="fr">Accuse.</form> <xpln lang="en">accusyd</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arragie.</form> <xpln lang="en">woode</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aimee.</form> <xpln lang="en">louyd</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Agu.</form> <xpln lang="en">sharpe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aisne.</form> <xpln lang="en">eldest</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Annuel.</form> <xpln lang="en">yerely</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Amer.</form> <xpln lang="en">bytter</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns adjectives beginning B"><alpha>&#182; <term lang="en">Of adiectyues begynnynge with B.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Bon.</form> <xpln lang="en">good</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bel.</form> <xpln lang="en">fayre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bas.</form> <xpln lang="en">lowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Brief.</form> <xpln lang="en">short</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Boeteux.</form> <xpln lang="en">lame</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Benoist.</form> <xpln lang="en">blessyd</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Besoigneux.</form> <xpln lang="en">besy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Borgne.</form> <xpln lang="en">gogle iyed</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns adjectives beginning C"><alpha>&#182; <term lang="en">Of adiectiues begynnynge with C.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Courtois.</form> <xpln lang="en">courteys</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Court.</form> <xpln lang="en">short</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Carre.</form> <xpln lang="en">square</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cler.</form> <xpln lang="en">bryght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cruel.</form> <xpln lang="en">cruell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Coueteux.</form> <xpln lang="en">couetous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chault.</form> <xpln lang="en">hote.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning C"><alpha>&#182; Of wordes begynnynge with C.</alpha>
+
+<wordentry type="h"><form lang="fr">Ciel.</form> <xpln lang="en">the heuen, or the skye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cite.</form> <xpln lang="en">a cyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chemin.</form> <xpln lang="en">a way</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chasteau.</form> <xpln lang="en">a castell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cheual.</form> <xpln lang="en">a hors</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cheualter.</form> <xpln lang="en">a knyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Conte.</form> <xpln lang="en">an erle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Contesse.</form> <xpln lang="en">an erles wyfe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chief.</form> <xpln lang="en">an hede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chaperon.</form> <xpln lang="en">a hode</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Champ.</form> <xpln lang="en">a felde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chien.</form> <xpln lang="en">a dogge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Coller.</form> <xpln lang="en">a coler</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chat.</form> <xpln lang="en">a cat</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Clou.</form> <xpln lang="en">a nayle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cheuille /</form> <xpln lang="en">a wedge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chieure.</form> <xpln lang="en">a gote</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cloche.</form> <xpln lang="en">a bell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Clochier.</form> <xpln lang="en">a steple</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cornet.</form> <xpln lang="en">a horne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cornette.</form> <xpln lang="en">a typpet</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cuisse.</form> <xpln lang="en">a thyghe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cuir.</form> <xpln lang="en">a ledder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Corps.</form> <xpln lang="en">a body</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Couteau.</form> <xpln lang="en">a knyfe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ceruoise.</form> <xpln lang="en">ale</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cueur.</form> <xpln lang="en">the herte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cuiller.</form> <xpln lang="en">a spone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chatbon.</form> <xpln lang="en">a cole</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chardon.</form> <xpln lang="en">a thystel</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Corbeau.</form> <xpln lang="en">a raven</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Corbeille.</form> <xpln lang="en">a basket</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Corneille.</form> <xpln lang="en">a crowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chanteur.</form> <xpln lang="en">a synger</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chanson.</form> <xpln lang="en">a songe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ceinture.</form> <xpln lang="en">a gyrdell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chesne.</form> <xpln lang="en">an oke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chiene.</form> <xpln lang="en">a bycche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chausse.</form> <xpln lang="en">an hose</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Charrette.</form> <xpln lang="en">a carte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Charetter.</form> <xpln lang="en">a carter</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cherrue.</form> <xpln lang="en">a plughe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chartuier.</form> <xpln lang="en">a ploughm<expan type="a+_">an</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ciuiere.</form> <xpln lang="en">a battone</xpln>
+<lemenote>
+Possibly "batten": "ciuiere" carries the sense of a litter or stretcher.	
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="fr">Croye.</form> <xpln lang="en">chalke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Croys.</form> <xpln lang="en">a crosse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cher.</form> <xpln lang="en">flesshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chabriere.</form> <xpln lang="en">a wom<expan type="a+_">an</expan> serua<expan type="u+_">un</expan>t</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning D"><alpha>&#182; <term lang="en">Of nownes begynnynge w<damage>ith. D.</damage></term></alpha>
+
+<wordentry type="h"><form lang="fr">Dieu.</form> <xpln lang="en">god</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dame.</form> <xpln lang="en">a lady</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nostre dame.</form> <xpln lang="en">our lady</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Damoysselle.</form> <xpln lang="en">a damlet or a lytell<damage></damage></xpln>
+
+</wordentry>
+
+<wordentry type="h"><form lang="fr">Domage.</form> <xpln lang="en">a harme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dague.</form> <xpln lang="en">a dagger</xpln></wordentry>
+</page>
+
+<page sig="b4v">
+<wordentry type="h"><form lang="fr">Dos.</form> <xpln lang="en">a backe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Droit.</form> <xpln lang="en">ryght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Drap.</form> <xpln lang="en">a clothe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Denier.</form> <xpln lang="en">a peny</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Doy.</form> <xpln lang="en">a fynger</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dain.</form> <xpln lang="en">a doo</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deul.</form> <xpln lang="en">sorowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deel.</form> <xpln lang="en">a thymble</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deduit.</form> <xpln lang="en">myrthe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dedans.</form> <xpln lang="en">within</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dehors.</form> <xpln lang="en">without</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Daler.</form> <xpln lang="en">to go</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Drapier.</form> <xpln lang="en">a clothyer</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning E"><alpha> &#182; <term lang="en">Of nownes begynnynge with. E.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Esglise.</form> <xpln lang="en">a chyrche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enseigne.</form> <xpln lang="en">a tokyn</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Erbe.</form> <xpln lang="en">a grasse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Encre.</form> <xpln lang="en">ynke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Eguille.</form> <xpln lang="en">a nedyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Escu.</form> <xpln lang="en">a shelde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Euf.</form> <xpln lang="en">an egge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Eure.</form> <xpln lang="en">an houre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Elpee.</form> <xpln lang="en">a swerde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Elpingue.</form> <xpln lang="en">a pyn</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Espaule.</form> <xpln lang="en">a shulder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Eseuelle.</form> <xpln lang="en">a dysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Espyne.</form> <xpln lang="en">a thorne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enfant.</form> <xpln lang="en">a childe</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning F"><alpha>&#182; <term lang="en">Of nownes begynnynge with. F.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Foy.</form> <xpln lang="en">fayth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Feme.</form> <xpln lang="en">a woman <damage/></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Filz.</form> <xpln lang="en">a sone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fille.</form> <xpln lang="en">a doughter</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fillette.</form> <xpln lang="en">a yonge gyrle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Filleulle.</form> <xpln lang="en">a goddoughter</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fiel.</form> <xpln lang="en">a galle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Foye.</form> <xpln lang="en">a lyuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fysel.</form> <xpln lang="en">a spyndell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fyler.</form> <xpln lang="en">to synne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fume.</form> <xpln lang="en">smoke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fons.</form> <xpln lang="en">a botome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Frontel.</form> <xpln lang="en">a fylet</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fenestre.</form> <xpln lang="en">a wyndowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Faucille.</form> <xpln lang="en">a sykell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">faulx.</form> <xpln lang="en">a sythe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">fosse.</form> <xpln lang="en">a pyt or dyke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">fein.</form> <xpln lang="en">hungre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">fain.</form> <xpln lang="en">hay</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">fourment.</form> <xpln lang="en">whete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">formage.</form> <xpln lang="en">chese</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">feue.</form> <xpln lang="en">a bene</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fontayne.</form> <xpln lang="en">a welle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Four.</form> <xpln lang="en">an ouyn</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fer.</form> <xpln lang="en">yren</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Frapper.</form> <xpln lang="en">to smyte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Feu.</form> <xpln lang="en">fyre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Front.</form> <xpln lang="en">a forehede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Foy.</form> <xpln lang="en">fayth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Feure.</form> <xpln lang="en">strawe <damage/></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Festu.</form> <xpln lang="en">a strawe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fourreure.</form> <xpln lang="en">a furre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fleschier.</form> <xpln lang="en">a fletcher</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Flesche.</form> <xpln lang="en">an arowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fayntyse.</form> <xpln lang="en">subtylte</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning G"><alpha>&#182; <term lang="en">Of nownes begynnynge with. G.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Gyngembre.</form> <xpln lang="en">gyngre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Grain.</form> <xpln lang="en">corne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gibbet.</form> <xpln lang="en">a gallous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Genoil.</form> <xpln lang="en">a kne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gant.</form> <xpln lang="en">a gloue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Grue.</form> <xpln lang="en">a crane</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gelinne.</form> <xpln lang="en">a henne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Geron.</form> <xpln lang="en">a lappe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Garson.</form> <xpln lang="en">a boy / or a knaue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Garse.</form> <xpln lang="en">wenche / or gyrle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gorge.</form> <xpln lang="en">a throte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gardien.</form> <xpln lang="en">a warden /or keper</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Grosse.</form> <xpln lang="en">bygge</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning H"><alpha>&#182; <term lang="en">Of nownes begynnynge with. H.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Honneur.</form> <xpln lang="en">honoure</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Home.</form> <xpln lang="en">a man</xpln></wordentry>
+</page>
+
+<page sig="b5r">
+<wordentry type="h"><form lang="fr">Huys.</form> <xpln lang="en">a dore</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Heaulme.</form> <xpln lang="en">an helme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hanap<expan type="p+_">per</expan></form> <xpln lang="en">a cowpe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hache.</form> <xpln lang="en">a pollax</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Honte.</form> <xpln lang="en">shame</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Houpelande.</form> <xpln lang="en">a gowne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hortie.</form> <xpln lang="en">a netyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hupe.</form> <xpln lang="en">a lapwynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Heranc.</form> <xpln lang="en">herrynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Haubergon.</form> <xpln lang="en">an habergyon</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hastyment.</form> <xpln lang="en">hastely</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Humblement.</form> <xpln lang="en">mekely.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning L"><alpha>&#182; <term lang="en">Of nownes beg<expan type="y+_">yn</expan>nynge <expan type="w+t">with</expan> L.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Loy.</form> <xpln lang="en">lawe or fayth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Loyaulte.</form> <xpln lang="en">faythfulnes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lieu.</form> <xpln lang="en">a place</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Largesse.</form> <xpln lang="en">plentyfulnes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lyeure.</form> <xpln lang="en">an hare</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Liure.</form> <xpln lang="en">a boke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Leurier.</form> <xpln lang="en">a grehounde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Latron.</form> <xpln lang="en">a thefe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Larsyn.</form> <xpln lang="en">thefte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lorier.</form> <xpln lang="en">a lorell tre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lance.</form> <xpln lang="en">a spere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lyn.</form> <xpln lang="en">a flax</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Layne.</form> <xpln lang="en">wolle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lyon.</form> <xpln lang="en">a lyon</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lou.</form> <xpln lang="en">a wolfe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Langue.</form> <xpln lang="en">a tonge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lien.</form> <xpln lang="en">a bonde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lit.</form> <xpln lang="en">a bed</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Linseul.</form> <xpln lang="en">a shete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Let.</form> <xpln lang="en">mylke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lumyere.</form> <xpln lang="en">lyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Limace.</form> <xpln lang="en">a snayle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Leppre.</form> <xpln lang="en">mysell, or lazar</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning M"><alpha>&#182; <term lang="en">Of nownes begynnynge with. M</term></alpha>
+
+<wordentry type="h"><form lang="fr">Monseigneur.</form> <xpln lang="en">my lorde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maison.</form> <xpln lang="en">a house</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mary.</form> <xpln lang="en">a husbande</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Madame.</form> <xpln lang="en">my lady</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning D"><alpha>&#182; <term lang="en">Aiectyuess begynnynge with. D</term>.</alpha>
+
+<wordentry type="h"><form lang="fr">Doulx.</form> <xpln lang="en">swete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Debonaire.</form> <xpln lang="en">goodly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Droit.</form> <xpln lang="en">ryght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dur.</form> <xpln lang="en">harde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dolent.</form> <xpln lang="en">sory</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Doloreux.</form> <xpln lang="en">sorowfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Doubtable.</form> <xpln lang="en">dredefull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Digne.</form> <xpln lang="en">worthy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Desguise.</form> <xpln lang="en">disgysed</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Despiteux.</form> <xpln lang="en">despytous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Doutant.</form> <xpln lang="en">doubtynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deposee.</form> <xpln lang="en">put downe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deboute.</form> <xpln lang="en">put downe</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning E"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. E.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Espesse.</form> <xpln lang="en">thycke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enuieux.</form> <xpln lang="en">enuyous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enui.</form> <xpln lang="en">wery</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Entier.</form> <xpln lang="en">hole</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Eureux.</form> <xpln lang="en">happy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Exc<expan type="o+_">om</expan>munie.</form> <xpln lang="en">acursed</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enceynte.</form> <xpln lang="en">with childe.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning F"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. F.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Ferme.</form> <xpln lang="en">stedfast</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Faux.</form> <xpln lang="en">false</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fier.</form> <xpln lang="en">feers</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Famillous.</form> <xpln lang="en">hungry</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Froit.</form> <xpln lang="en">a colde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fort.</form> <xpln lang="en">stronge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Feible.</form> <xpln lang="en">feble</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Feloneux.</form> <xpln lang="en">felonous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Foyal.</form> <xpln lang="en">faythfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fiable.</form> <xpln lang="en">trusty.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning G"><alpha>&#182; Adiectyues begynnynge with. G.</alpha>
+
+<wordentry type="h"><form lang="fr">Grant.</form> <xpln lang="en">great</xpln></wordentry>
+</page>
+
+<page sig="b5v">
+	
+<wordentry type="h"><form lang="fr">Gros.</form> <xpln lang="en">great / cours. byg</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Grelle.</form> <xpln lang="en">small / or sclendre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gracieux.</form> <xpln lang="en">gracyous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gentil.</form> <xpln lang="en">gentyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gabber.</form> <xpln lang="en">mockynge</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning H"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. H.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Honnoreux.</form> <xpln lang="en">honourable</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Honoure.</form> <xpln lang="en">worshypped</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Haut.</form> <xpln lang="en">hye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Humble.</form> <xpln lang="en">meke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hatif.</form> <xpln lang="en">hasty</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">H<expan type="o+_">on</expan>ny.</form> <xpln lang="en">soyled / or spottyd</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Houyseux.</form> <xpln lang="en">Idyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Honteur.</form> <xpln lang="en">shamefast</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hardy.</form> <xpln lang="en">bold, or hardy</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning J"><alpha>&#182; <term lang="en">Adiectyues begynnynge 
+with. I.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Ioieux.</form> <xpln lang="en">Ioyfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ieune.</form> <xpln lang="en">yonge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iust.</form> <xpln lang="en">ryghtwyse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ioly.</form> <xpln lang="en">gay / or ioly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ioconde.</form> <xpln lang="en">mery</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iure.</form> <xpln lang="en">dronke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iougleur.</form> <xpln lang="en">a Iowgler</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning L"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. L.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Loyal.</form> <xpln lang="en">true</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Leaut.</form> <xpln lang="en">noughty</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Long.</form> <xpln lang="en">longe, or farre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Large.</form> <xpln lang="en">brode</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lye.</form> <xpln lang="en">glad</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Luxurieux.</form> <xpln lang="en">lecherous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lache.</form> <xpln lang="en">lyther or sluggy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ligier.</form> <xpln lang="en">lyght.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns adjectives beginning M"><alpha>&#182; <term lang="en">Of nownes adiectyues begynnyn&#173;
+ge with. M.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Menu.</form> <xpln lang="en">small</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mauuais.</form> <xpln lang="en">wycked</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Malicieux.</form> <xpln lang="en">malycious</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maleureux.</form> <xpln lang="en">vnhappy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maladie.</form> <xpln lang="en">sykenes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mortel.</form> <xpln lang="en">dedly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Milleur.</form> <xpln lang="en">best</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mieulx.</form> <xpln lang="en">better</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mygnot.</form> <xpln lang="en">wanton</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mignon.</form> <xpln lang="en">wanton</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Morueux.</form> <xpln lang="en">snyuelynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Muet.</form> <xpln lang="en">dom</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Nouns beginning N"><alpha>&#182; <term lang="en">Of nownes begynnynge with. N.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Nouuel.</form> <xpln lang="en">newe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nouueau.</form> <xpln lang="en">newe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nouueaute.</form> <xpln lang="en">newelte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Net.</form> <xpln lang="en">clene</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Noble.</form> <xpln lang="en">noble</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ne.</form> <xpln lang="en">borne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nom.</form> <xpln lang="en">a name</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Noye.</form> <xpln lang="en">drowned</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning O"><alpha>&#182; <term lang="en">Of adiectyues begynnynge w<expan type="w+t">with</expan>. O.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Outragious.</form> <xpln lang="en">outragio<expan type="9">us</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Orgueillous.</form> <xpln lang="en">proude</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oulrecuide.</form> <xpln lang="en">ouerwenynge</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning P"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. P.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Petit.</form> <xpln lang="en">lytell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poy.</form> <xpln lang="en">small or lytell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Plam.</form> <xpln lang="en">full</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pesant.</form> <xpln lang="en">heuy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Parfond.</form> <xpln lang="en">depe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourry.</form> <xpln lang="en">rottyn</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poure.</form> <xpln lang="en">poore</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pariure.</form> <xpln lang="en">forsworne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pirs.</form> <xpln lang="en">wors</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Prest.</form> <xpln lang="en">redy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Paysyble.</form> <xpln lang="en">quyet or peysyble</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Perilleux.</form> <xpln lang="en">peryllous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puant.</form> <xpln lang="en">stynkynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poullous.</form> <xpln lang="en">lowly</xpln></wordentry>
+</page>
+
+<page sig="b6r">
+<wordentry type="h"><form lang="fr">Puissant.</form> <xpln lang="en">myghty</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Prochain.</form> <xpln lang="en">next</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pericheux.</form> <xpln lang="en">slouthfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puisne.</form> <xpln lang="en">youngest</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puitele.</form> <xpln lang="en">frekened</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Priue.</form> <xpln lang="en">tame</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning R"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. R.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Redoubte.</form> <xpln lang="en">dredefull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Resonable.</form> <xpln lang="en">resonable</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rude.</form> <xpln lang="en">boystous</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Roingnous.</form> <xpln lang="en">scabbed</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Redde.</form> <xpln lang="en">styffe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rouge.</form> <xpln lang="en">read</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning S"><alpha>&#182; <term lang="en">Of adiectyues begynnynge <expan type="w+t">with</expan>. S.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Sain.</form> <xpln lang="en">hole</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Soubtyll.</form> <xpln lang="en">subtyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sauuage.</form> <xpln lang="en">wylde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sur.</form> <xpln lang="en">syker or sure</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sage.</form> <xpln lang="en">wyse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sec.</form> <xpln lang="en">drye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sensif.</form> <xpln lang="en">wytty</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Seul.</form> <xpln lang="en">alone.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning T"><alpha>&#182; <term lang="en">Of adiectyues begynnynge <expan type="w+t">with</expan>. S.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Treschier.</form> <xpln lang="en">full dere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tart.</form> <xpln lang="en">late</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tel.</form> <xpln lang="en">Suche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tout.</form> <xpln lang="en">all</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Teignous.</form> <xpln lang="en">scallyd</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tortu.</form> <xpln lang="en">wrythen</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tant.</form> <xpln lang="en">so moche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Testyf.</form> <xpln lang="en">hedy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tortueux.</form> <xpln lang="en">awry</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trouble.</form> <xpln lang="en">troublyd.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adjectives beginning V"><alpha>&#182; <term lang="en">Adiectyues begynnynge with. V.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Vaillant.</form> <xpln lang="en">worthy</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vieil.</form> <xpln lang="en">olde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vieux.</form> <xpln lang="en">olde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Volentyf.</form> <xpln lang="en">wylfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Velu.</form> <xpln lang="en">roughe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Veritable.</form> <xpln lang="en">sothfull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vert.</form> <xpln lang="en">grene</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vermail.</form> <xpln lang="en">read</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Here after folowe certayne verbes
+moste used in frenche / whiche be set in
+the Infinytyf mode /and may be vary&#173;
+ed in modes and tensys after the four&#173;
+me of these verbes whiche are set in <expan type="y+e">the</expan>
+begynnynge of the boke.
+</term>
+
+<wordgroup1 type="a" object="Verbs beginning A">
+	
+<wordentry type="h"><form lang="fr">Aymer.</form> <xpln lang="en">to loue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Apayser.</form> <xpln lang="en">to styll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arambler.</form> <xpln lang="en">to stryde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Accuser.</form> <xpln lang="en">to accuse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Achatter.</form> <xpln lang="en">to bye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aleger.</form> <xpln lang="en">to make lyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Alumer.</form> <xpln lang="en">to lyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aparler.</form> <xpln lang="en">to speke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Appeller.</form> <xpln lang="en">to call</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ayder.</form> <xpln lang="en">to helpe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Appariller.</form> <xpln lang="en">to aray</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aurer.</form> <xpln lang="en">to worshyp</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Auanter.</form> <xpln lang="en">to boste.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning B"><alpha>&#182; <term lang="en">Of verbes begynnynge with. B.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Bailler.</form> <xpln lang="en">to gyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Blamer.</form> <xpln lang="en">to blame</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Blesser.</form> <xpln lang="en">to hurte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Briser.</form> <xpln lang="en">to bruse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Branlier.</form> <xpln lang="en">to rele</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Braire.</form> <xpln lang="en">to rore</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning C"><alpha>&#182; <term lang="en">Of verbes begynnynge with. C.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Cheuaucher.</form> <xpln lang="en">to ryde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chanter.</form> <xpln lang="en">to synge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Creuer.</form> <xpln lang="en">to brest</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chargier.</form> <xpln lang="en">to lade</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">C<expan type="o+_">om</expan>mencer.</form> <xpln lang="en">to begyn</xpln></wordentry>
+</page>
+
+<page sig="b6v">
+<wordentry type="h"><form lang="fr">Cuider.</form> <xpln lang="en">to wene</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chasser.</form> <xpln lang="en">to hunte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chauffer.</form> <xpln lang="en">to warme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Confesser.</form> <xpln lang="en">to shryue</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning D"><alpha>&#182; <term lang="en">Of verbes begynnynge with. D.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Demander.</form> <xpln lang="en">to axe or requyre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Desporter.</form> <xpln lang="en">to sporte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Diner.</form> <xpln lang="en">to dyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dormir.</form> <xpln lang="en">to slepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dancer.</form> <xpln lang="en">to daunce</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Denier.</form> <xpln lang="en">to deny</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Degouter.</form> <xpln lang="en">to droppe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Donner.</form> <xpln lang="en">to gyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dorer.</form> <xpln lang="en">to gylte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Depescher.</form> <xpln lang="en">to rydde</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning E"><alpha>&#182; <term lang="en">Of verbes begynnynge with. E.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Enprunter.</form> <xpln lang="en">to borowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Esploiter.</form> <xpln lang="en">to spede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Edifier.</form> <xpln lang="en">to bylde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Esparnier.</form> <xpln lang="en">to spare</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Emporter.</form> <xpln lang="en">to bere away</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enfler.</form> <xpln lang="en">to swell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Espouser.</form> <xpln lang="en">to wedde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enuoyer.</form> <xpln lang="en">to sende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Entrir.</form> <xpln lang="en">to entre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Encontrer.</form> <xpln lang="en">to mete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enploier.</form> <xpln lang="en">to beset or bestowe</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning F"><alpha>&#182; <term lang="en">Of verbes begynnynge with. F.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Froter.</form> <xpln lang="en">to rubbe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ferrer.</form> <xpln lang="en">to yron or sho a hors</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fourner.</form> <xpln lang="en">to bake</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fournir.</form> <xpln lang="en">to furnysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fier.</form> <xpln lang="en">to trust</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Frapper.</form> <xpln lang="en">to smyte or hyt</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning G"><alpha>&#182; <term lang="en">Of verbes begynnynge with. G.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Greuir.</form> <xpln lang="en">to greue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gouuerner.</form> <xpln lang="en">to gouerne or rule</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gaster.</form> <xpln lang="en">to mar or spyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Genoiller.</form> <xpln lang="en">to knele</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Garantier.</form> <xpln lang="en">to warant</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gaigner.</form> <xpln lang="en">to wynne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Garder.</form> <xpln lang="en">to kepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Guardoner.</form> <xpln lang="en">to rewarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Grauer.</form> <xpln lang="en">to graue</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning H"><alpha>&#182; <term lang="en">Of verbes begynnynge with. H.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Honnier.</form> <xpln lang="en">to harme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Huscher.</form> <xpln lang="en">to cleape</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hauller.</form> <xpln lang="en">to reyse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Humer.</form> <xpln lang="en">to soupe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Haster.</form> <xpln lang="en">to haste</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hontier.</form> <xpln lang="en">to shame</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Honourer.</form> <xpln lang="en">to worshyp</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning I"><alpha>&#182; <term lang="en">Of verbes begynnynge with. I.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Iouer.</form> <xpln lang="en">to play</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iouster.</form> <xpln lang="en">to ruste</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iuner.</form> <xpln lang="en">to faste</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Infourmer.</form> <xpln lang="en">to infourme</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning L"><alpha>&#182; <term lang="en">Of verbes begynnynge with. L.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Labourer.</form> <xpln lang="en">to labour</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Leuer.</form> <xpln lang="en">to lyfte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lier.</form> <xpln lang="en">to bynde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lascier.</form> <xpln lang="en">to mery</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lauer.</form> <xpln lang="en">to wasshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lutter.</form> <xpln lang="en">to wrastle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Louer.</form> <xpln lang="en">the herynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Loer.</form> <xpln lang="en">to prayse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lire.</form> <xpln lang="en">to rede</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning M"><alpha>&#182; <term lang="en">Of verbes begynnynge with. M.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Musser.</form> <xpln lang="en">to hyde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Monstrer.</form> <xpln lang="en">to shewe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maunder.</form> <xpln lang="en">to sende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mener.</form> <xpln lang="en">to lede</xpln></wordentry>
+</page>
+
+<page sig="c1r">
+<wordentry type="h"><form lang="fr">Merueiller.</form> <xpln lang="en">to maruell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Monter.</form> <xpln lang="en">to clym</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mangier.</form> <xpln lang="en">to ete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Misconter.</form> <xpln lang="en">to mysrecken</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Manascer.</form> <xpln lang="en">to thretyn</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mercier.</form> <xpln lang="en">to thanke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Muer.</form> <xpln lang="en">to chaunge</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning N"><alpha>&#182; <term lang="en">Of verbes begynnynge with. N.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Naurer.</form> <xpln lang="en">to wounde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Noier.</form> <xpln lang="en">to drowne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nettoier.</form> <xpln lang="en">to make clene</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nouncier.</form> <xpln lang="en">to warne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nommer.</form> <xpln lang="en">to name.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning O"><alpha>&#182; <term lang="en">Of verbes begynnynge with. O.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Ouurer.</form> <xpln lang="en">to worke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oublier.</form> <xpln lang="en">to forget</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oser.</form> <xpln lang="en">to dare</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Obscure.</form> <xpln lang="en">to max darke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ouster.</form> <xpln lang="en">to put out or do away.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning P"><alpha>&#182; <term lang="en">Of verbes begynnynge with. P.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Parler.</form> <xpln lang="en">to speke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Porter.</form> <xpln lang="en">to bere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Peignier.</form> <xpln lang="en">to kembe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Priser.</form> <xpln lang="en">to prayse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Plourer.</form> <xpln lang="en">to wepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourpenser.</form> <xpln lang="en">to bethynke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Prouuer.</form> <xpln lang="en">to proue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pencer.</form> <xpln lang="en">to thynke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourchacer.</form> <xpln lang="en">to pourchace</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourmener.</form> <xpln lang="en">to lede about</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ploier.</form> <xpln lang="en">to folde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pardonner.</form> <xpln lang="en">to forgyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Prier.</form> <xpln lang="en">to praye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Peschier.</form> <xpln lang="en">to fysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pysser.</form> <xpln lang="en">to pysse.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning R"><alpha>&#182; <term lang="en">Of verbes begynnynge 
+with. R.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Regarder.</form> <xpln lang="en">to beholde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rongier.</form> <xpln lang="en">to gnawe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Reprouuer.</form> <xpln lang="en">to repreue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Respondre.</form> <xpln lang="en">to answere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Redoubter.</form> <xpln lang="en">to drede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Resister.</form> <xpln lang="en">to withstande</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rouller.</form> <xpln lang="en">to stare</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Reculer.</form> <xpln lang="en">to go abacke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Reposer.</form> <xpln lang="en">to rest</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Renoncier.</form> <xpln lang="en">to forsake</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Restituer.</form> <xpln lang="en">to restore</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning S"><alpha>&#182; <term lang="en">Of verbes begynnynge with. S.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Saluer.</form> <xpln lang="en">to grete or salue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Souspirer.</form> <xpln lang="en">to syghe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sercher.</form> <xpln lang="en">to serche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sourm<expan type="o+_">on</expan>ter.</form> <xpln lang="en">to ouerpasse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Suer.</form> <xpln lang="en">to sweat</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Signer.</form> <xpln lang="en">to blysse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Saigner.</form> <xpln lang="en">to blede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Saller.</form> <xpln lang="en">to salte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Semer.</form> <xpln lang="en">to sowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Souhaiter.</form> <xpln lang="en">to wysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Soucier.</form> <xpln lang="en">to blowe.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning T"><alpha>&#182; <term lang="en">Of verbes begynnynge with. T.</term></alpha>
+
+<wordentry type="h"><form lang="fr">Trencher.</form> <xpln lang="en">to karue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trebucher.</form> <xpln lang="en">to ouerthrow</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trouuer.</form> <xpln lang="en">to fynde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tourner.</form> <xpln lang="en">to tourne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tesmoignier.</form> <xpln lang="en">to wytnes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trauailler.</form> <xpln lang="en">to trauayle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tuer.</form> <xpln lang="en">to kyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tirer.</form> <xpln lang="en">to drawe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Torchier.</form> <xpln lang="en">to wype</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Touner.</form> <xpln lang="en">to thounder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tarder.</form> <xpln lang="en">to tary</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tuiller.</form> <xpln lang="en">to tyle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tailler.</form> <xpln lang="en">to curte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tenser.</form> <xpln lang="en">to chyde</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning V"><alpha>&#182; <term lang="en">Of verbes begynnynge with.V.</term> </alpha>
+</page>
+
+<page sig="c1v">
+<wordentry type="h"><form lang="fr">Voler.</form> <xpln lang="en">to fle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vanter.</form> <xpln lang="en">to boste</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vengier.</form> <xpln lang="en">to v<expan type="e+_">en</expan>ge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vser.</form> <xpln lang="en">to vse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Voluper.</form> <xpln lang="en">to wrappe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Veillier.</form> <xpln lang="en">to wake</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Venter.</form> <xpln lang="en">to blowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Visiter.</form> <xpln lang="en">to vysyt</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Here beg<expan type="y+_">yn</expan>neth mo <expan type=",v">ver</expan>bes in fr<expan type="e+_">en</expan>che or<emend err="">&#173;</emend>
+dred by letter af<expan type="t'">ter</expan> fourme abouesayd.
+</term>
+
+<wordgroup1 type="a" object="Verbs beginning A"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="fr">Aprendre.</form> <xpln lang="en">to lerne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Attendre.</form> <xpln lang="en">to abyde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aperceuoir.</form> <xpln lang="en">to perceyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ardoir.</form> <xpln lang="en">to bren</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Auoir.</form> <xpln lang="en">to haue</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="fr">Boire.</form> <xpln lang="en">to drynke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Battre.</form> <xpln lang="en">to bete</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bouler.</form> <xpln lang="en">to bowle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Benir.</form> <xpln lang="en">to blysse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Baignier.</form> <xpln lang="en">to bathe</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning C"><alpha>C </alpha>
+
+<wordentry type="h"><form lang="fr">Clore.</form> <xpln lang="en">to shyt</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">C<damage>uilu</damage>r.</form> <xpln lang="en">to gadre<damage>n</damage></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Conuoyer.</form> <xpln lang="en">to cary</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Chastier.</form> <xpln lang="en">to chastyse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Courir.</form> <xpln lang="en">to ronne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Combatte.</form> <xpln lang="en">to fyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Croire.</form> <xpln lang="en">to byleue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Croistre.</form> <xpln lang="en">to wax or growe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Creignier.</form> <xpln lang="en">to drede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Choisir.</form> <xpln lang="en">to choyse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Congnoistre.</form> <xpln lang="en">to knowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Coutre.</form> <xpln lang="en">to sewe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cewdre.</form> <xpln lang="en">to gyrde</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning D"><alpha>D </alpha>
+
+<wordentry type="h"><form lang="fr">Dormir.</form> <xpln lang="en">to slepe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Descendre.</form> <xpln lang="en">to light downe or desc<expan type="e+_">en</expan>de</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Desceindre.</form> <xpln lang="en">to vngyrde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deuenir.</form> <xpln lang="en">to become</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deseruir.</form> <xpln lang="en">to deserue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deuestir.</form> <xpln lang="en">to vncloth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Despendre.</form> <xpln lang="en">to despende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dire.</form> <xpln lang="en">to say</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Decepuoir.</form> <xpln lang="en">to desceyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Debuoir.</form> <xpln lang="en">to owe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Denier.</form> <xpln lang="en">to forsake.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning E"><alpha>E </alpha>
+	
+<wordentry type="h"><form lang="fr">Escripre.</form> <xpln lang="en">to wryte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Espa<damage></damage>e.</form> <xpln lang="en">to spyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Escondire.</form> <xpln lang="en">to agaynsay</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Escouter.</form> <xpln lang="en">to here or herken</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Estre.</form> <xpln lang="en">to be</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Emplir.</form> <xpln lang="en">to fylle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Entendre.</form> <xpln lang="en">to vnderstande</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Entreprende.</form> <xpln lang="en">to vndertake</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enseuelir.</form> <xpln lang="en">to bery</xpln></wordentry>
+</wordgroup1>
+
+&#182; F
+<wordgroup1 type="a" object="Verbs beginning F"><alpha></alpha>
+	
+<wordentry type="h"><form lang="fr">Fouir.</form> <xpln lang="en">to fle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Faire</form> <xpln lang="en">to do</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Faire.</form> <xpln lang="en">to make</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fendre.</form> <xpln lang="en">to cleue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fe<damage>s</damage>ir.</form> <xpln lang="en">to smyte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Foundre.</form> <xpln lang="en">to melte</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning G"><alpha>G </alpha>
+	
+<wordentry type="h"><form lang="fr">Guerpire.</form> <xpln lang="en">to forsake</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gelir.</form> <xpln lang="en">to lye or lygge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Guerir.</form> <xpln lang="en">to hele</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Garnir.</form> <xpln lang="en">to garnysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gemyr.</form> <xpln lang="en">to complayne</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning H"><alpha>H</alpha>
+	
+<wordentry type="h"><form lang="fr">Honnir.</form> <xpln lang="en">to spot / or defyle</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Haie.</form> <xpln lang="en">to hate</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Haster.</form> <xpln lang="en" >to be hastyd</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning I/J"><alpha>J</alpha>
+	
+<wordentry type="h"><form lang="fr">Ioindre.</form> <xpln lang="en">to ioine</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Issir.</form> <xpln lang="en">to forth</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning L"><alpha>L </alpha>
+	
+<wordentry type="h"><form lang="fr">Luste.</form> <xpln lang="en">to shyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lire.</form> <xpln lang="en">to rede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Languir.</form> <xpln lang="en">to l<expan type="a+_">an</expan>guysshe / or pyne</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning M"><alpha>M </alpha>
+	
+<wordentry type="h"><form lang="fr">Mordre.</form> <xpln lang="en">to byte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mourir.</form> <xpln lang="en">to dye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mondre.</form> <xpln lang="en">to grynde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mentir.</form> <xpln lang="en">to lye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mainoir.</form> <xpln lang="en">to dwell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maudire.</form> <xpln lang="en">to curse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Murir.</form> <xpln lang="en">to waxe rype.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning N"><alpha>N </alpha>
+	
+<wordentry type="h"><form lang="fr">Nuiter.</form> <xpln lang="en">to waxe nyght</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nasquir.</form> <xpln lang="en">to be borne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nuire.</form> <xpln lang="en">to be noye</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning O"><alpha>O </alpha>
+	
+<wordentry type="h"><form lang="fr">Ouir.</form> <xpln lang="en">to here</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Occir.</form> <xpln lang="en">to kyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Oyndre.</form> <xpln lang="en">to anoynt</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning P"><alpha>P </alpha>
+	
+<wordentry type="h"><form lang="fr">Prendre.</form> <xpln lang="en">to take</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poindre.</form> <xpln lang="en">to pricke</xpln></wordentry>
+</page>
+
+<page sig="c2r">
+
+<wordentry type="h"><form lang="fr">Pendre.</form> <xpln lang="en">to hange</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourir.</form> <xpln lang="en">to rote</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poursuir.</form> <xpln lang="en">to pursue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pestrir.</form> <xpln lang="en">to knede</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Plouoir.</form> <xpln lang="en">to rayne</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Plaindre.</form> <xpln lang="en">to grone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puir.</form> <xpln lang="en">to stynke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pouoir.</form> <xpln lang="en">to may / or to be of power</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Punir.</form> <xpln lang="en">to punysshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Perdre.</form> <xpln lang="en">to lese</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning R"><alpha>&#182; R </alpha>
+	
+<wordentry type="h"><form lang="fr">Rire.</form> <xpln lang="en">to laughe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rauir.</form> <xpln lang="en">to rauyshe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Recepuoir.</form> <xpln lang="en">to receyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rendre.</form> <xpln lang="en">to restore agayne</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning S"><alpha>&#182; S </alpha>
+	
+<wordentry type="h"><form lang="fr">Scauoir.</form> <xpln lang="en">to knowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Seruir.</form> <xpln lang="en">to serue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sotir.</form> <xpln lang="en">to sytte</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sentir.</form> <xpln lang="en">to smell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sauur.</form> <xpln lang="en">to lepe.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning T"><alpha>&#182; T </alpha>
+	
+<wordentry type="h"><form lang="fr">Teindre.</form> <xpln lang="en">to steyue or dye clothe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tenir.</form> <xpln lang="en">to holde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tustre.</form> <xpln lang="en">to weue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tendre.</form> <xpln lang="en">to bende</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tondre.</form> <xpln lang="en">to shere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tirer.</form> <xpln lang="en">to shote or drawe</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Verbs beginning V"><alpha>&#182; V </alpha>
+	
+<wordentry type="h"><form lang="fr">Vouioir.</form> <xpln lang="en">to wyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Venir.</form> <xpln lang="en">to come</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vomir.</form> <xpln lang="en">to spewe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vendre.</form> <xpln lang="en">to sell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vestir.</form> <xpln lang="en">to clothe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Veinquir.</form> <xpln lang="en">to ouercome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Viure.</form> <xpln lang="en">to lyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vesquir.</form> <xpln lang="en">to lyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Voeir.</form> <xpln lang="en">to se</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vouloir.</form> <xpln lang="en">to wyll</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Venir.</form> <xpln lang="en">to come</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vomir.</form> <xpln lang="en">to spewe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vendre.</form> <xpln lang="en">to sell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vestir.</form> <xpln lang="en">to clothe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vanquir.</form> <xpln lang="en">to ouercome</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Viure,</form> <xpln lang="en">to lyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vesquir.</form> <xpln lang="en">to lyue</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Voeir.</form> <xpln lang="en">to se</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Here after foloweth by letter ad&#173;
+uerbes and other w<emend err="ro">or</emend>des vndeclyned 
+moste vsed in frenche langage
+</term>
+
+<wordgroup1 type="a" object="Adverbs beginning A "><alpha>A</alpha>
+	
+<wordentry type="h"><form lang="fr">Aucunefois.</form> <xpln lang="en">somtyme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aillieurs.</form> <xpln lang="en">somwhere els</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aplain.</form> <xpln lang="en">openly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arebours.</form> <xpln lang="en">frowarde or back warde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Arriere.</form> <xpln lang="en">behynde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ains.</form> <xpln lang="en">rather</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aincois.</form> <xpln lang="en">eer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Assez.</form> <xpln lang="en">ynoughe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Autruy.</form> <xpln lang="en">anotherbody</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Apres.</form> <xpln lang="en">after</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Asleure.</form> <xpln lang="en">nowe</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning B"><alpha>B</alpha>
+	
+<wordentry type="h"><form lang="fr">Bien.</form> <xpln lang="en">well</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bellement.</form> <xpln lang="en">fayrly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bien pres.</form> <xpln lang="en">almost or welnere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Benignement.</form> <xpln lang="en">benignely</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; and here us to be notyd / that all 
+englysshe wordes endynge in this ter&#173;
+minaci<expan type="o+_">on</expan> / ly / whan they are tourned in
+to frenche. they shall ende in ment / as
+hardely / </term> <term lang="fr">hardyment /</term> <term lang="en">suerly /</term> <term lang="fr">suremet /
+</term> <term lang="en">wysely /</term> <term lang="fr">sagement /</term> <term lang="en">honestly /</term> <term lang="fr">honnette 
+ment. </term> <term lang="en">&#38;c.</term>
+
+<wordgroup1 type="a" object="C"><alpha></alpha>
+
+<wordentry type="h"><form lang="fr">C<expan type="o+_">om</expan>ment.</form> <xpln lang="en">howe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cy.</form> <xpln lang="en">here</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ca.</form> <xpln lang="en">hyder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cettes.</form> <xpln lang="en">forsoth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cydeuant.</form> <xpln lang="en">herebefore</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning D"><alpha>D</alpha>
+	
+<wordentry type="h"><form lang="fr">Deuant.</form> <xpln lang="en">before</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Derriere.</form> <xpln lang="en">behynde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Demain.</form> <xpln lang="en">to morowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Desoubz.</form> <xpln lang="en">beneth or vnder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dehors.</form> <xpln lang="en">without</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dedans.</form> <xpln lang="en">within</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deuers.</form> <xpln lang="en">towarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deles.</form> <xpln lang="en">besyde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dou.</form> <xpln lang="en">from whens</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dont.</form> <xpln lang="en">wherof</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Donc.</form> <xpln lang="en">than</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dela.</form> <xpln lang="en">beyonde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deca.</form> <xpln lang="en"><emend err="athis">a this</emend> halfe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deia.</form> <xpln lang="en">all redy</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning E"><alpha>E</alpha>
+	
+<wordentry type="h"><form lang="fr">Emsemble.</form> <xpln lang="en">to gyther</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Entour.</form> <xpln lang="en">about</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Enuiron.</form> <xpln lang="en">aboute</xpln></wordentry>
+</page>
+
+<page sig="c2v">
+<wordentry type="h"><form lang="fr">En.</form> <xpln lang="en">In</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Eusette.</form> <xpln lang="en">outake</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Encontre.</form> <xpln lang="en">agaynst</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G adverbs "><alpha>G</alpha>
+	
+<wordentry type="h"><form lang="fr">Generallement.</form> <xpln lang="en">generaly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gayment.</form> <xpln lang="en">gayly</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning H"><alpha>H</alpha>
+	
+<wordentry type="h"><form lang="fr">Honnestement.</form> <xpln lang="en">honestly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hastiuement.</form> <xpln lang="en">hastely</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Hardiment.</form> <xpln lang="en">hardely</xpln></wordentry>
+</wordgroup1>	
+
+<wordgroup1 type="a" object="Adverbs beginning I/J"><alpha>I</alpha>
+	
+<wordentry type="h"><form lang="fr">Ius.</form> <xpln lang="en">downe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iusques.</form> <xpln lang="en">vnto</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iamais.</form> <xpln lang="en">neuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iadis.</form> <xpln lang="en">a whyle ago or late ago</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Issunt.</form> <xpln lang="en">go out</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Icy.</form> <xpln lang="en">here</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iusquescy.</form> <xpln lang="en">hytherto</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning L"><alpha>L</alpha>
+	
+<wordentry type="h"><form lang="fr">La.</form> <xpln lang="en">there</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Loins.</form> <xpln lang="en">afarre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La enuers.</form> <xpln lang="en">thytherwards</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lahors.</form> <xpln lang="en">therwithout</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La aual.</form> <xpln lang="en"> yonder beneth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lemesme.</form> <xpln lang="en">thesame</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lors.</form> <xpln lang="en">than</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lyement.</form> <xpln lang="en">merely</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Longuement.</form> <xpln lang="en">longly</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning M"><alpha>M</alpha>
+	
+<wordentry type="h"><form lang="fr">Moult.</form> <xpln lang="en">moche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mais.</form> <xpln lang="en">but</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Matin.</form> <xpln lang="en">mornynge or erely</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mesinement.</form> <xpln lang="en">selfly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maintefois.</form> <xpln lang="en">often tymes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Maintenant.</form> <xpln lang="en">nowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mieulx.</form> <xpln lang="en">better</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning N"><alpha>N</alpha>
+	
+<wordentry type="h"><form lang="fr">Nenny.</form> <xpln lang="en">nay</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nagueres.</form> <xpln lang="en">not long ago or not farago</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nepourquant.</form> <xpln lang="en">neverthelater</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Neautmains.</form> <xpln lang="en">neuertheles.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning O"><alpha>O</alpha>
+	
+<wordentry type="h"><form lang="fr">Onques.</form> <xpln lang="en">at any tyme</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Onques puis.</form> <xpln lang="en">neuersyth</xpln>
+
+</wordentry>
+
+<wordentry type="h"><form lang="fr">Outre.</form> <xpln lang="en">ouer or beyonde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Orains.</form> <xpln lang="en">or now</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ou.</form> <xpln lang="en">where</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ouy.</form> <xpln lang="en">ye</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ore.</form> <xpln lang="en">nowe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ouy certes.</form> <xpln lang="en">ye forsothe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ou donc.</form> <xpln lang="en">where than</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ouec.</form> <xpln lang="en">with</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning P"><alpha>P</alpha>
+	
+<wordentry type="h"><form lang="fr">Parmy.</form> <xpln lang="en">thorughout</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourquoy.</form> <xpln lang="en">wherfore</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Presca.</form> <xpln lang="en">longe agone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Poysouuent.</form> <xpln lang="en">whyldom</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Partout.</form> <xpln lang="en">all aboute</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pourniant.</form> <xpln lang="en">fornought</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pour vray.</form> <xpln lang="en">forsoth</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Paricy.</form> <xpln lang="en">hereby</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Parla.</form> <xpln lang="en">therby</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pardesca.</form> <xpln lang="en">here before</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pleusieurs.</form> <xpln lang="en">oftymes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Puis.</form> <xpln lang="en">sythen</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Pardela.</form> <xpln lang="en">beyonde.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning Q"><alpha>Q</alpha>
+	
+<wordentry type="h"><form lang="fr">Quanque.</form> <xpln lang="en">whatsoeuer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Que.</form> <xpln lang="en">what</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Qui.</form> <xpln lang="en">who</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Quicunque.</form> <xpln lang="en">whosoeuer</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning S"><alpha>S</alpha>
+	
+<wordentry type="h"><form lang="fr">Sus.</form> <xpln lang="en">vp</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Souentefois.</form> <xpln lang="en">oftentymes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sur.</form> <xpln lang="en">vpon</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sans.</form> <xpln lang="en">without</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sans faute.</form> <xpln lang="en"><expan type="w+t">with</expan>out fayle</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning T"><alpha>T</alpha>
+	
+<wordentry type="h"><form lang="fr">Trestout.</form> <xpln lang="en">all togyther</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tantost.</form> <xpln lang="en">anone</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trop.</form> <xpln lang="en">to moche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Toutesfois.</form> <xpln lang="en">alwayes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tant.</form> <xpln lang="en">so moche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trop tard.</form> <xpln lang="en">to late</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tresqua.</form> <xpln lang="en">tyll that</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Adverbs beginning V"><alpha>V</alpha>
+	
+<wordentry type="h"><form lang="fr">Vne fois.</form> <xpln lang="en">ones</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vnquore.</form> <xpln lang="en">yet</xpln></wordentry>
+</page>
+
+<page sig="c3r">
+<wordentry type="h"><form lang="fr">Vnpoy.</form> <xpln lang="en">a lytell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vhy mais.</form> <xpln lang="en">to day more</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Volentices.</form> <xpln lang="en">wyllyngly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vraiment.</form> <xpln lang="en">veryly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Voyes.</form> <xpln lang="en">se ye here</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Venez icy.</form> <xpln lang="en">come ye hyder</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vaillantement.</form> <xpln lang="en">worthely</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Numbers"><alpha><term lang="en">
+&#182; Here begynneth to reken in frenche and englysshe.</term></alpha>
+
+<wordentry type="h"><form lang="fr">&#182; Vng. deux. trois. quatre, cinq.</form> <xpln lang="en">
+One. two. thre. foure. fyue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Six. sept. huit. neuf. dix.</form> <xpln lang="en">
+Syx. seuen. eyght. nyne. ten.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Onze. douze. traize. quatorze. quinze.</form> <xpln lang="en">
+Eleuen. twelue. thyrtene  fourtene. xv.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Saize. dixsept. dixhuit. dixneuf. ving</form> <xpln lang="en">
+Sixtene. seuentene. xviii. xix. twenty</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">&#182; Ving a vng. ving deux. ving trois.</form> <xpln lang="en">
+One and twenty. two &#38; twenty. xxiij.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ving quatre. ving cinq. ving six.</form> <xpln lang="en">
+xxiiij xxv. xxvi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ving sept. ving huit. ving neuf</form> <xpln lang="en">
+xxvii. xxviii. xxix.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trente. trente a vng</form> <xpln lang="en">
+Thyrty.one and thyrty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Quarante.</form> <xpln lang="en">Fourty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cinquante.</form> <xpln lang="en">Fyfty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Sexante.</form> <xpln lang="en">Thre score.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Cent.</form> <xpln lang="en">Hondred.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deux cens.</form> <xpln lang="en">Two hondred.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mille.</form> <xpln lang="en">Thousande.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deux mille.</form> <xpln lang="en">Two thous<expan type="a+_">an</expan>de.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dix mille.</form> <xpln lang="en">Ten thousande.</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Hereafter foloweth <expan type="y+e">the</expan> .vii. dayes in 
+the weke, the .xij. monthes in the yere
+and the names of <expan type="y+e">the</expan> pryncipall Feestis
+that comes in the yere.
+</term>
+
+<wordgroup1 type="t" object="Days of the Week">
+	
+<wordentry type="h"><form lang="fr">Dymenche.</form> <xpln lang="en">Sonday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lundi.</form> <xpln lang="en">Munday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mardi.</form> <xpln lang="en">Tuysday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Merquedi.</form> <xpln lang="en">Wednysday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Ieudy.</form> <xpln lang="en">Thurday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vendredi.</form> <xpln lang="en">Fryday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Samedi.</form> <xpln lang="en">Saterday</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object ="Months of the Year"><alpha>&#182; The. xii. monthes.</alpha>
+
+<wordentry type="h"><form lang="fr">Januier.</form> <xpln lang="en">Ianyuere</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Febr<damage></damage>.</form> <xpln lang="en">Feb<damage></damage>yer</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mars.</form> <xpln lang="en">Marche</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Auril.</form> <xpln lang="en">Aprill </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mai.</form> <xpln lang="en">May</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iuing.</form> <xpln lang="en">Iune</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Iuiller.</form> <xpln lang="en">Iuly</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aoult.</form> <xpln lang="en">August</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Septembre.</form> <xpln lang="en">September</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Octobre.</form> <xpln lang="en">October</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nouembre.</form> <xpln lang="en">Nouembre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Decembre.</form> <xpln lang="en">December</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Feasts and Seasons">
+<term lang="en">
+&#182; The names of the feestes in <expan type="y+e">the</expan> yere.
+</term> 
+
+<wordentry type="d"><form lang="fr">&#182; Le nom de lan,</form> 
+<xpln lang="en">The name of the yere</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Et des feestes.</form> <xpln lang="en">And of the feestes</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Vng an</form> <xpln lang="en">v yere</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Este my este.</form> <xpln lang="en">Somer / mydsomer</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Yuer. my yuer.</form> <xpln lang="en">mydwynter</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Noel.</form> <xpln lang="en">Crystmas</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">La circ<expan type="u+_">um</expan>cision nostre seigneur.</form> 
+<xpln lang="en">The cyrcumcysion of our lorde</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">La tiphaigne.</form> <xpln lang="en">The .xii. tyde</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">La chandeleur.</form> <xpln lang="en">Candelmas</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Karesme prenant. <damage/></form> <xpln lang="en">Shroftyde</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le mardy gras.</form> <xpln lang="en">Shrouetuysday</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le merquedi de la cendre</form> 
+<xpln lang="en">Ashe wednesday</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Karesme</form> <xpln lang="en">Lenten</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">My karesme.</form> <xpln lang="en">Myd lenten</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Nostre dame de mars.</form> <xpln lang="en">Our lady day i<damage>n</damage> <hungword>marche</hungword></xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le dimenche des blanches pacques</form> 
+<xpln lang="en">Palme sonday</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">La semaine peneuse.</form> <xpln lang="en">The passi<expan type="on">on</expan> weke</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le ieudi absolut.</form> <xpln lang="en">The shrotthursdaye</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le vendredi adure.</form> <xpln lang="en">The good fryday</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">La v<damage></damage>le de pacques</form> <xpln lang="en">The ester eue</xpln></wordentry>
+</page>
+
+<page sig="c3v">
+<wordentry type="h"><form lang="fr">Pacques.</form> <xpln lang="en">Ester</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">(La resurrection de nostre seigneur</form> 
+<xpln lang="en">The resurrection of our lorde)</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Les rouuesons</form> <xpln lang="en">The gange dayes</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lasension</form> <xpln lang="en">Holy Thursday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">(La vigille de penthecoustes</form> 
+<xpln lang="en">Wytson euen)</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Penthecoustes.</form> <xpln lang="en">Wytsontyde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La trinite</form> <xpln lang="en">The trinite</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Le sacrament.</form> <xpln lang="en">Holy thursday</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La saint Joh<expan type="n+_">an</expan>.</form> <xpln lang="en">The day of sa<expan type="i+_">in</expan>t Iob<expan type="a+_">an</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">(Le iour saint petre.</form> 
+<xpln lang="en">The day of saynt peter</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Le tour nostre dame myaoust.</form> 
+<xpln lang="en">Our lady day of myd august</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La iour nostre dame de septembre.</form> 
+<xpln lang="en">Our lady day in september</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La saint michiel.</form> <xpln lang="en">The seynt mychell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La toussains.</form> <xpln lang="en">Allhalowtyde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Le iour des mors.</form> <xpln lang="en">Allsoulyn day</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Lauent.</form> <xpln lang="en">Aduent</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Nostre dame de lauent.</form> 
+<xpln lang="en">Our lady day in aduent</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">La veille de noel.</form> 
+<xpln lang="en">The christmas euen</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Here begynneth the lyfe of the gray<emend err="">&#173;</emend>
+nes / and of the laboure / as <expan type="y+e">the</expan> firste lyne 
+frenche / and the seconde englysshe styl
+folowynge after.
+</term>
+
+<wordgroup1 type="t" object="Life of the Grains"><alpha></alpha>
+	
+<wordentry type="d"><form lang="fr">&#182; Dieu sauue chaiue.</form> 
+<xpln lang="en">God saue the ploughe</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Et celuy qui la mane</form> 
+<xpln lang="en">And he the whiche it ledeth</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Primierement / hairoir la terre.</form> 
+<xpln lang="en">Firste ere the grounde</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Apres semer la ble / ou lorge.</form> 
+<xpln lang="en">After sowe the whete / or barly</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Les herces doiuent venir apres.</form> 
+<xpln lang="en">The harowes must come after</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le chacur / ofter lordure.</form> 
+<xpln lang="en">The hoke to take a waye wedes</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">En aoust le soyer ou faucher.</form> 
+<xpln lang="en">In august repe it or mowe it</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Dune fauucille / ou dune faux.</form> 
+<xpln lang="en">With a sycle / or a sythe</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le rareler dungratel.</form> 
+<xpln lang="en">Then rake it with a rake</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le lier de liens &#38; mestre en gerbe.</form> 
+<xpln lang="en">Bynde it in bandes and put it in sheet</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le mestre en dysel ensemble.</form> 
+<xpln lang="en">And put them in shokke to gyther</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le chartier a lostel et payer la dime.</form> 
+<xpln lang="en">And cary it home and paye the dysme</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le tasser a la granche le barre.</form> 
+<xpln lang="en">Hepe it in the barne &#38; thresshe it</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Le venner porter au moulin.</form> 
+<xpln lang="en">Then tan it and bere it to the mylle</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Faire de farrme / la salcer.</form> 
+<xpln lang="en">And with a syft it syfte</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Pestrir la paste / chaufer le four</form> 
+<xpln lang="en">Knede the dowe / hete the ouen</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Faire le pain lenfournir au four</form> 
+<xpln lang="en">Moule the lofe / &#38; put in the ouen</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Et apres faire b<expan type="o+_">on</expan>ne cuiere &#38; leuer dieu</form> <xpln lang="en">And af<expan type="t'">ter</expan> make good chere &#38; th<expan type="a+_">an</expan>ke god.</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Vecy le nom des grains.</form> 
+<xpln lang="en">Here is the name of cornes</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Du ble.</form> <xpln lang="en">whete</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Du seigle.</form> <xpln lang="en">rye</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">De lorge.</form> <xpln lang="en">barly</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">De lauoyne.</form> <xpln lang="en">otys</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Des poys.</form> <xpln lang="en">pesen</xpln></wordentry>
+
+<wordentry type="d"><form lang="fr">Des feues.</form> <xpln lang="en">benys</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; Here <emend err="d">b</emend>egynneth <expan type="y+e">the</expan> names of certay&#173;
+ne fysshes.
+</term>
+
+<wordgroup1 type="t" object="Fishes"><alpha></alpha>
+	
+<wordentry type="h"><form lang="fr">Vne ballayne.</form> <xpln lang="en">a whale</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne serayne.</form> <xpln lang="en">a meremayde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng marsouin.</form> <xpln lang="en">porpeys</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng estourgon.</form> <xpln lang="en">a sturgon</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne morue.</form> <xpln lang="en">a mylwell</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne raye.</form> <xpln lang="en">a rayghe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng agnon.</form> <xpln lang="en">a hadocke</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng congre.</form> <xpln lang="en">a cungre</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne tumbe.</form> <xpln lang="en">a gurnarde</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng rouget.</form> <xpln lang="en">a rochet</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng macquerel.</form> <xpln lang="en">a makerell</xpln></wordentry>
+</page>
+
+<page sig="c4r">
+<wordentry type="h"><form lang="fr">Vng mullet</form> <xpln lang="en">a mulet</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng harene.</form> <xpln lang="en">a herrynge</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng chie deuier.</form> <xpln lang="en">dog fyssh</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne ples.</form> <xpln lang="en">a playse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne sole.</form> <xpln lang="en">a sole</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng turbot.</form> <xpln lang="en">a turbut</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng saumon.</form> <xpln lang="en">a samon</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vng escreuisce.</form> <xpln lang="en">a creuys</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne samereulle.</form> <xpln lang="en">a  shyrmpe</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne oystre.</form> <xpln lang="en">an eyster</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne nioulle.</form> <xpln lang="en">a muskull</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vne corque.</form> <xpln lang="en">a cokull</xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; And also here is to be notyd <expan type="y+e">the</expan> ma&#173;
+ny word<expan type="es">es</expan> be which so<expan type="u+_">un</expan>de nere vnto la&#173;
+tyn and be vsed in bothe the langages
+of Frenche and Englysshe amonge elo&#173;
+quent men / as termes indifferently be&#173;
+longynge to both frenche &#38; englysshe. 
+So that the same sygnyfycacyon / whi<emend err="">&#173;</emend>
+che is gyuen to them / in frenche is also
+gyuen to them in englysshe / as thus.
+</term>
+
+<wordgroup1 type="t" object="Latinate words in both French and English">
+	
+<wordentry type="h"><form lang="fr">Amite.</form> <xpln lang="en"><editoraddition>Amite.</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Aua<expan type="u+_">un</expan>cem<expan type="e+_">en</expan>t.</form> <xpln lang="en"><editoraddition>Auauncement.</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Audacite.</form> <xpln lang="en"><editoraddition>Audacite.</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Bo<expan type="u+_">un</expan>te.</form> <xpln lang="en"><editoraddition>Bounte.</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Beaute</form> <xpln lang="en"><editoraddition>Beaute</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Breuyte.</form> <xpln lang="en"><editoraddition>Breuyte.</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Beniuolence.</form> <xpln lang="en"><editoraddition>Beniuolence</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Be<emend err="">&#173;</emend>
+nignite.</form> <xpln lang="en"><editoraddition>Benignite</editoraddition></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="fr">Courtoys.</form> <xpln lang="en"><editoraddition>Courtoys</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Curiosite.</form> <xpln lang="en"><editoraddition>Curiosite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Conclu<emend err="">&#173;</emend>
+sion.</form> <xpln lang="en"><editoraddition>Conclusion.</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Conspiracion.</form> <xpln lang="en"><editoraddition>Conspiracion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Coniuracion.</form> <xpln lang="en"><editoraddition>Coniuracion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">C<expan type="o+_">om</expan>&#173;
+punction.</form> <xpln lang="en"><editoraddition>Compunction</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Contricion.</form> <xpln lang="en"><editoraddition>Contricion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Confederacion.</form> <xpln lang="en"><editoraddition>Confederacion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Coniunction.</form> <xpln lang="en"><editoraddition>Coniunction</editoraddition></xpln></wordentry>
+ 
+<wordentry type="h"><form lang="fr">Detestacion.</form> <xpln lang="en"><editoraddition>Detestacion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Detracci&#173;
+on.</form> <xpln lang="en"><editoraddition>Detraccion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Denominacion.</form> <xpln lang="en"><editoraddition>Denominacion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Deuulgaci<expan type="o+_">on</expan>.</form> <xpln lang="en"><editoraddition>Deuulgacion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Diu&#173;
+inite.</form> <xpln lang="en"><editoraddition>Diuinite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Dignite.</form> <xpln lang="en"><editoraddition>Dignite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Disesperance.</form> <xpln lang="en"><editoraddition>Disesperance</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Exch<expan type="a+_">an</expan><emend err="">&#173;</emend>
+ge.</form> <xpln lang="en"><editoraddition>Exchange</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Esperance.</form> <xpln lang="en"><editoraddition>Esperance</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Euidence.</form> <xpln lang="en"><editoraddition>Euidence</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fable.</form> <xpln lang="en"><editoraddition>Fable</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Freal<emend err="">&#173;</emend>
+te.</form> <xpln lang="en"><editoraddition>Frealte</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fragilite.</form> <xpln lang="en"><editoraddition>Fragilite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Fragrant.</form> <xpln lang="en"><editoraddition>Fragrant</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Gouernance.</form> <xpln lang="en"><editoraddition>Gouernance</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Grace.</form> <xpln lang="en"><editoraddition>Grace</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Humylite.</form> <xpln lang="en"><editoraddition>Humylite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Humanite.</form> <xpln lang="en"><editoraddition>Humanite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Intelli<emend err="">&#173;</emend>
+gence.</form> <xpln lang="en"><editoraddition>Intelligence</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Intellection.</form> <xpln lang="en"><editoraddition>Intellection</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Interpretacion.</form> <xpln lang="en"><editoraddition>Interpretacion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Insurrecci<expan type="o+_">on</expan>.</form> <xpln lang="en"><editoraddition>Insurreccion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Indenture.</form> <xpln lang="en"><editoraddition>Indenture</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Laudable.</form> <xpln lang="en"><editoraddition>Laudable</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Langage.</form> <xpln lang="en"><editoraddition>Langage</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Murmuraci<expan type="o+_">on</expan>.</form> <xpln lang="en"><editoraddition>Murmuracion</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Mutabilite.</form> <xpln lang="en"><editoraddition>Mutabilite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Magnanimite / </form> <xpln lang="en"><editoraddition>Magnanimite</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Patron.</form> <xpln lang="en"><editoraddition>Patron</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Patronage.</form> <xpln lang="en"><editoraddition>Patronage</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Picture.</form> <xpln lang="en"><editoraddition>Picture</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Rage.</form> <xpln lang="en"><editoraddition>Rage</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Royall.</form> <xpln lang="en"><editoraddition>Royall</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Regal.</form> <xpln lang="en"><editoraddition>Regal</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Soue&#173;
+rayne.</form> <xpln lang="en"><editoraddition>Souerayne</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">sustayne.</form> <xpln lang="en"><editoraddition>sustayne</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Traytre.</form> <xpln lang="en"><editoraddition>Traytre</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tourment</form> <xpln lang="en"><editoraddition>Tourment</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trechery.</form> <xpln lang="en"><editoraddition>Trechery</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trayson.</form> <xpln lang="en"><editoraddition>Trayson</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trauers.</form> <xpln lang="en"><editoraddition>Trauers</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Trou<emend err="">&#173;</emend>
+ble.</form> <xpln lang="en"><editoraddition>Trouble</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Tremble.</form> <xpln lang="en"><editoraddition>Tremble</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Transitory.</form> <xpln lang="en"><editoraddition>Transitory</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Valiant.</form> <xpln lang="en"><editoraddition>Valiant</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Variance.</form> <xpln lang="en"><editoraddition>Variance</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Variable.</form> <xpln lang="en"><editoraddition>Variable</editoraddition></xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">Vesture.</form> <xpln lang="en"><editoraddition>Vesture</editoraddition></xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+&#182; These wordes <expan type="w+t">with</expan> other lyke betoken all
+one th<expan type="y+_">yn</expan>ge in englysshe as in frenche. And
+who so desyreth to knowe more of the sayd
+langage must prouyde for mo bokes made 
+for the same intent / wherby they shall <expan type="y+e">the</expan> so&#173;
+ner come to <expan type="y+e">the</expan> parfyte knowlege of <expan type="y+e">the</expan> same.
+</term>
+</section>
+
+<section type="Closing">
+<term lang="en">
+&#182; Here endeth the introductory to wryte &#38;
+to pronounce frenche compyled by Alexan&#173;
+der barcley.</term>
+
+<editoraddition>"Here foloweth the maner of dauncynge 
+of bace daunces after the vse of fraunce and 
+other places translated out of frenche in 
+englysshe by Robert coplande." (which immediately
+follows in this book) is not in EEBO and is not transcribed 
+by LEME here.</editoraddition> 
+
+</section>
+
+</page>
+</leme>

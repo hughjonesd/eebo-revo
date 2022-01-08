@@ -1,0 +1,436 @@
+<leme no="225">
+
+<page sig="Y3v">
+<section type="preface">
+<heading>
+<f type="i">A Table, shewing the signification of sundry forraine
+<f type="r">words, vsed in these discourses.
+</heading>
+
+<f type="bk">G<f type="r">Entle Reader, for as much as in these Military discourses, I
+haue vsed some words and termes, somwhat straunge vnto
+such as haue not frequented forraine warres, nor haue anie
+great insight in forraine languages, I haue therefore thought 
+good both to declare the signification of such words, and al&shy;
+so to shew my reasons for vsing the same.
+
+First you are to vnderstand that most of our termes now
+vsed in warres are deriued from straungers;as the French, the
+Italian, the Spaniard and the Dutch; wherin euery one almost haue their seuerall
+pronuntiation; therefore I hold it good, to vse such war termes and words,as
+we do borrow from straungers (as most languages doe borrow some, more or
+lesse, one of another)neare after the same nature, orthographie &amp; accent, as those
+nations do, from whom they are deriued : and not to pronounce and vse them o&shy;
+uer corruptly,as we commonly doe. As for example. The word <term lang="it"><f type="i">Caporall<f type="r"></term>, which is
+a meere Italian, and also vsed by the French,we corruptly do both write and pro&shy;
+nounce <term lang="en"><f type="i">Corporall<f type="r"></term> : for <term lang="it"><f type="i">Caporall<f type="r"></term> doth signifie the head and chiefe of a squadra,
+or small company of souldiers :and is an officer ensigning and gouerning (in his
+degree) the sayd company : and is in Spanish more aptly called <term lang="sp"><f type="i">Cabo de esquadra<f type="r"></term> 
+which is the head of a small squadra of 20 or 25 souldiers. And againe , wee
+vse both to pronounce and write, <term lang="fr"><f type="i">Core de guard;<f type="r"></term> which by the French is written
+<term lang="fr"><f type="i">Corps de guard,<f type="r"></term> and by the Italian and Spaniard, <term lang="it"><f type="i">Corpo de guardia;<f type="r"></term> which signi&shy;
+fieth the body of a watch : the which French or Italian word I haue rather vsed in
+my writing, then our corrupt English terme. Moreouer wee both pronounce
+and write the word <term lang="en"><f type="i">Canuasada,<f type="r"></term> the which(in truth)ought to be written and pro&shy;
+nounced <term lang="sp">Camisada</term>, being a Spanish tearme; and doth signifie the inuesting a
+shirt ouer the soldiers apparell or armour; the which is vsed in the night time
+when any suddaine exploit or peece of seruice is to be put in practise vpon the e&shy;
+nemy, vnexpected or vnseene: to the end, that in the darkenesse of the night, the
+attempters may thereby the better one know and discerne another. These few
+words and termes, I suppose sufficient for my reasons. And for the signification
+of all other straunge and forraine words by me vsed, I will here following parti&shy;
+cularly set downe, in order of alphabet,as I shall call them to memory. 
+</section>
+
+<section type="glossary">
+<wordgroup1 type="a" object="A"><f type="r"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">Abanderado, </form> <xpln lang="en"><f type="i">is a souldier which carrieth the Ensigne in steede of the Ensigne-bearer some&shy;
+times. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Al'arma, </form> <xpln lang="en"><f type="i"> is a word vsed among men of warre, at times of the enemies suddaine approching, and
+at their discouerie and doth signifie, to armes or weapons. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Alferez, </form> <xpln lang="en" lexeme="ensign bearer(n)"><f type="i">is a Spanish word, and signifieth the Ensigne bearer. </xpln></wordentry>
+</page>
+
+<page sig="Y4r">
+<wordentry type="h"><form lang="sp"><f type="r">Alguazil, </form> <xpln lang="en"><f type="i">a Spanish word, is an officer attendant on the Campe-maister Generall, to apprehend
+offenders, and to see execution done. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Alerta,</form> <xpln lang="en"><f type="i">an Italian word, vsed vnto the souldiers, when there is any suspition of the enemy, and
+signifieth to be watchfull, carefull and ready </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Alvarado, </form> <xpln lang="en"><f type="i">a Spanish word, and is the discharging of the morning watch, by the sound of the
+drumme. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Ambuscado, </form> <xpln lang="en"><f type="i">a Spanish word, and signifieth any troupe or company of soldiers either foot or horse, lodged secretly in some couert, as in woods, hollow ways, behind bankes, or such like, to entrappe the enemy secretly attending his comming. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Aquaducts,</form> <xpln lang="en"><f type="i">are conduits to cary or conuay water into any Citie, Castell, or Citadell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Armada, </form> <xpln lang="en"><f type="i">a Spanish word, is a Nauy of ships for warre, or one great ship of warre. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Artillaria, </form> <xpln lang="en" lexeme="great ordinance(n)"><f type="i">a forraine word, and is that which we call the great Ordinance. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><f type="r"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">Bando, </form> <xpln lang="en"><f type="i">a Spanish word, and signifieth, an act, or law made by the Generall and Counsell of war,
+in the Campe, and published by sound of the drumme or trumpet vnto the souldiers. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Bisognio <term lang="en">or</term> Bisonnio, </form> <xpln lang="en"><f type="i">a Spanish or Italian word, and is, as we terme it, a raw souldier, vnex&shy;
+pert in his weapon, and other Military points. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Burgonet, </form> <xpln lang="en"><f type="i">a French word, is a certaine kind of head-peece, either for foote or horsemen, couering
+the head, and part of the face and checke. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><f type="r"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">Cabo de esquadra <term lang="en">or</term> Caporall, </form> <xpln lang="en"><f type="i">a Spanish word, is the head or chiefe vnder the Captaine of a
+small number of souldiers, in number 20 or 25, or more or lesse, according as the company
+is deuided into. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Caporal, </form> <xpln lang="en"><f type="i">the Italian word, is as <term lang="sp"><f type="r">Cabo de esquadra<f type="i"></term> in Spanish. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Cabo de Camara,</form> <xpln lang="en"><f type="i">a Spanish word, is a souldier vnder the Caporall, and is the chiefe ouer euery
+10 or 12 souldiers. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Camarada, </form> <xpln lang="en"><f type="i">a Spanish word, is a small number of 11 or 12 soldiers, and is the one halfe of a squa&shy;
+dra, being vnited together in their lodging, and diet, and friendship, the chiefe man of whom
+is the <term lang="sp">Cabo de Camara</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Camisada,</form> <xpln lang="en"><f type="i">a Spanish word, and doth signifie the inuesting or putting on of a shirt ouer the souldi&shy;
+ers apparell or armour; the which is vsed in the night time, when any suddaine exploit or
+peece of seruice is to be put in practise vpon the enemy, vnexpected or vnseene , to the ende
+that the attempters may thereby the better one know and discerne another. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Campania,</form> <xpln lang="en" lexeme="field(n)"><f type="i">an Italian word, and is a field. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Campania Raza,</form> <xpln lang="en"><f type="i">an open field without hedge, ditch, or other incombrance, razed playne. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Campe-maister,</form> <xpln lang="en" lexeme="colonel(n)" lexeme="regiment(n)"><f type="i">in Spanish <term lang="sp"><f type="r">Maestre del Campo,<f type="i"></term> is a Colonell: being the chiefe Commander or
+officer ouer one Regiment or Tertio. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Camp maister Generall,</form> <xpln lang="en"><f type="i">in Spanish, <f type="r">Maestro del Campo<f type="i">Generall, is a great Commander, and
+is with vs the high Marshall of the field. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Castellano,</form> <xpln lang="en"><f type="i">is the Captaine or Commander of a Citadell, or Castel, as in Millan, Antwerp, Metz,
+and such other places. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Cannonera,</form> <xpln lang="en"><f type="i">a Spanish word, and is the place or roome where the Cannon is placed in a bulwarke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Casamatta,</form> <xpln lang="en" lexeme="slaughter-house(n)"><f type="i">a Spanish word, and doth signifie a slaughter-house, and is to place built low vnder the
+wall or bulwarke, not arriuing vnto the height of the ditch, seruing to scowre the ditch,
+annoying the enemy when he entreth into the ditch to skale the wall. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Cauagleria,</form> <xpln lang="en"><f type="i">an Italian woord, and is the Companies of souldiers seruing on horsebacke, of what
+sort soeuer. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Cauaglere,</form> <xpln lang="en"><f type="i">an Italian word, and signifieth a Gentleman seruing on horsebacke, but in fortificati&shy;
+ons, a Caualiere is to mount or platforme of earth, built and raised high, either within or
+without the wall or to plant great Ordinance vpon. </xpln></wordentry>
+</page>
+
+<page sig="Y4v">
+<wordentry type="h"><form lang="sp"><f type="r">Caualliere &agrave; Cauallio,</form> <xpln lang="en"><f type="i">is a high mount or platforme of earth raised very high, so that the Artillery
+vpon the same, may shoote ouer the walles and bulwarkes, to scoure and cleare the fields
+all about. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Centre,</form> <xpln lang="en"><f type="i">a French word, is the middle of a battell, or other things. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Centinell,</form> <xpln lang="en"><f type="i">a Spanish word, and signifieth the souldier which is set to watch at a station or post,
+a certaine distance from the Corps de guard, or in a
+certaine litle garret or watch house
+vpon the walles, or at certaine places in the field without the ring of the Campe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la"><f type="r">Centuria,</form> <xpln lang="en"><f type="i">was amongst the Romaines, a companie of Souldiers to the number of 100: whose
+Captaine was called <term lang="la">Centurio</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la"><f type="r">Cohort,</form> <xpln lang="en"><f type="i">was, amongest the Romaines, the 10 part of a Legion. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Chieffront,</form> <xpln lang="en"><f type="i">a French word, is the arming for the forehead of the horse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Conuoye,</form> <xpln lang="en"><f type="i">a French word, is a certaine guard of souldiers, sent to conduct and guard, victuall,
+victualers, marchants, munition, and such like, from one place vnto another. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Contra Round,</form> <xpln lang="en"><f type="i">an Italian word, is a certaine number of commanders and officers going, visiting
+the Corps de guard, watches, Sentinels, and also the Roundes, to see if they performe their
+duties and be vigilant and carefull. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Colonell <term lang="en">or</term> Coronell,</form> <xpln lang="en"><f type="i">a french word, is the commander of a regiment of certaine companies of
+souldiers, called with the Spaniards <term lang="sp">Maestre del Campo</term>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><f type="r">Contrafront,</form> <xpln lang="en" lexeme="spur(n)"><f type="i">or spurre, is the inner part of the wall of a bulwarke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Citadella,</form> <xpln lang="en"><f type="i">an Italian word, is a Castell or spacious fort, built, not onely to defend the City, but
+also to keepe the same in awe and subiection, as that at Antwerp, Millan, and Na&shy;
+ples&amp;c. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Cornet,</form> <xpln lang="en"><f type="i">a French word, is the ensigne which is caried by the Launciers. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Corps de guard,</form> <xpln lang="en"><f type="i">a French word, is the body of a watch, of a certaine number of souldiers set
+for such purposes. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Corslet,</form> <xpln lang="en"><f type="i">a French word, is the armour of a foote souldier, complete. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Criniere,</form> <xpln lang="en"><f type="i">a French word, is the arming of the horse mane or necke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Cuisset,</form> <xpln lang="en"><f type="i">is the armings of a horseman, for his thigh vnto the knees. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Cuyratz,</form> <xpln lang="en"><f type="i">a French word, is the arming of the body; the breast part and backe part only, either of
+horseman or footman. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colour(n)"><f type="r">Colours</form> <xpln lang="en" lexeme="ensign(n)"><f type="i">a word vsed by us, for the Ensigne, being of variable colours. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Curtine,</form> <xpln lang="en"><f type="i">a French word, is the long wall running leuell from bulwarke to bulwarke. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><f type="r"><alpha>D</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><f type="r"><alpha>E</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">Enginero,</form> <xpln lang="en"><f type="i">a Spanish word, is one skilfull in fortifications, and other machines and stratagems
+for warre. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Escalada,</form> <xpln lang="en"><f type="i">a Spanish vocable, and is the skaling of a wall or fort with ladders. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Esquadra,</form> <xpln lang="en"><f type="i">a Spanish word, is a certaine part of a company of souldiers of some 20 or 25 souldiers
+whose chiefe is the Caporall. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><f type="r"><alpha>F</alpha>
+
+<wordentry type="h"><form lang="it"><f type="r">Fil,</form> <xpln lang="en"><f type="i">Italian word, is the order, row, or line of all such souldiers as do stand or march conse&shy;
+quently on after another, in ordinance or aray of battell, extending from the front vnto the 
+traine of the battell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Flancque,</form> <xpln lang="en"><f type="i">a French word, is the side of any squadron of men. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Fronte,</form> <xpln lang="en"><f type="i">a French word, is the face or forepart of a squadron or battell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="front(n)"><f type="r">Front,</form> <xpln lang="en"><f type="i">is also the forepart of a wall or bulwarke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="du"><f type="r">Forlorne Sentinell,</form> <xpln lang="en"><f type="i">a compound word of Dutch and French: and is a souldier either horseman
+</page>
+
+<page sig="Y5r">
+or footeman, set to watch and espie the enemies desseignes, neare vnto the enemy, and with&shy;
+out the word: for sundry considerations. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><f type="r"><alpha>G</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">Garrita,</form> <xpln lang="en"><f type="i">a Spanish word, is a little watch house or towre, for the souldier to stand in at Sen&shy;
+tinell, seated vpon the walles. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Grueues,</form> <xpln lang="en"><f type="i">a French word, is the arming for the legges, from the knees downeward. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Guantlet,</form> <xpln lang="en"><f type="i">a French vocable, is the arming or gloue to the hand. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Guidon,</form> <xpln lang="en"><f type="i">a French word, is the ensigne which is borne with the shot on horsebacke. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><f type="r"><alpha>H</alpha>
+
+<wordentry type="h"><form lang="fr"><f type="r">Hargubuzier,</form> <xpln lang="en" lexeme="calliver(n)" lexeme="harquebus(n)"><f type="i">a French word, and is the souldier, carying and vsing a peece called a Calliuer or 
+Hargubuz. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Hargulutier,</form> <xpln lang="en"><f type="i">an Italian and French word, and is the souldier seruing on horsebacke, unar&shy;
+med, vsing a Calliuer with a snap hance. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><f type="r"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="it"><f type="r">Infanteria,</form> <xpln lang="en"><f type="i">an Italian word, is all sort of foote souldiers. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><f type="r"><alpha>K</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><f type="r"><alpha>L</alpha>
+
+<wordentry type="h"><form lang="fr"><f type="r">Launcier,</form> <xpln lang="en" lexeme="demi-lance(n)"><f type="i">a French word, is a souldier on horsebacke, armed and vsing a Launce for his chiefe
+weapon, but not so heauily armed, as is the man at armes, and therefore of some called a
+Demilance. </xpln></wordentry>
+
+<wordentry type="h"><form lang="la"><f type="r">Legion,</form> <xpln lang="en"><f type="i">amongest the auncient Romaines, was certaine companies of their people of warre: con&shy;
+sisting of 5 or 6000 footemen, and 300 horsemen. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><f type="r"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="maniple(n)"><f type="r">Maniple,</form> <xpln lang="en"><f type="i">is a part of so many rankes and files of souldiers throughout a battell or squadron of 
+pikes, drawne foorth to march through any straight or narrow passage. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Maestre del Campo,</form> <xpln lang="en"><f type="i">with the Spaniards, is as our Coronell with vs. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Mayordome,</form> <xpln lang="en"><f type="i">is with the Italian and Spaniard, the steward of a house; but in war he is the stew&shy;
+ard and Guardian of the munition for warre. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="war, modern(n)"><f type="r">Moderne warre,</form> <xpln lang="en"><f type="i">is the new order of warre vsed in our age, </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mediterraneal(a)"><f type="r">Mediterraneall,</form> <xpln lang="en"><f type="i">is Inland countrie, or countries distant from the sea. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maritime(a)"><f type="r">Maritime,</form> <xpln lang="en"><f type="i">is sea coast countrie, or countries adioyning vnto the sea. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><f type="r"><alpha>N</alpha>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><f type="r"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="it"><f type="r">Orecchion,</form> <xpln lang="en" lexeme="pome(n)" lexeme="guard(n)" lexeme="shoulder(n)"><f type="i">an Italian vocable, is the part of a bulwarke which is called some, the pome,
+guard, or shoulder. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><f type="r"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="it"><f type="r">Parapet,</form> <xpln lang="en"><f type="i">an Italian word, is the vpper part of the wall, which shadoweth the souldiers from
+the sight and annoyances of the enemy. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pendent(n)"><f type="r">Pendent,</form> <xpln lang="en"><f type="i">is the bending or slopenesse of the Parapet outward. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Pel mell,</form> <xpln lang="en"><f type="i">a French word, and signifieth the mingling of men together, buckling by the bosome one
+with another. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Percluis,</form> <xpln lang="en"><f type="i">a French word, is the grate, either of iron or wood, framed within a gate or port of a
+Citie or Castell, to be let fall or slipped downe, to barre the enemies entrance. </xpln></wordentry>
+</page>
+
+<page sig="Y5v">
+<wordentry type="h"><form lang="fr"><f type="r">Pectron,</form> <xpln lang="en"><f type="i">a French word: is the arming of the brest of the horse. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="place of arms general(n)"><f type="r">Place of armes generall:</form> <xpln lang="en"><f type="i">is the place of assemblie; where the people of warre are ranged in order
+of battell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="gr"><f type="r">Phalanx,</form> <xpln lang="en"><f type="i">a Greeke word: an order of imbattelling of men in one graund square, vsed by the Gre&shy;
+cians. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Pietranelli,</form> <xpln lang="en"><f type="i">an Italian word, and is the souldiers seruing on horsebacke, well armed with a paire of
+Cuyrasses, and weaponed with a fire-locke peece of snap-hance. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Pistollier,</form> <xpln lang="en"><f type="i">a French word; and is the souldier on horse backe, armed as the Pietranell, weaponed
+with a pistoll. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Pouldon,</form> <xpln lang="en"><f type="i">a French word, and is the shoulder arming. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Posta,</form> <xpln lang="en"><f type="i">a Spanish word, and is the place or station where the Sentinell souldier is set stand at
+guard and watch. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><f type="r"><alpha>Q</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="quarter(n)"><f type="r">Quarter,</form> <xpln lang="en"><f type="i">is the part of a Campe, whereon any companies, or numbers of horsemen or footemen be
+quartered and lodged. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quarteret(n)"><f type="r">Quarteret,</form> <xpln lang="en"><f type="i">is the diminutiue of quarter. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><f type="r"><alpha>R</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="rank(n)"><f type="r">Ranke,</form> <xpln lang="en"><f type="i">is the row, order or aray of soldiers standing shoulder by shoulder, extending from flanke to
+flanke throughout the battell or ordinance. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Rauelline, <term lang="en">or</term> Tenaza,</form> <xpln lang="en"><f type="i">a Spanish word : and is the vttermost boundes of the wals of the Castell or 
+skances without the walles. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Rampier,</form> <xpln lang="en"><f type="i">a French word, and is a fortification or wall of earth. </xpln></wordentry>
+
+<wordentry type="h"><form lang="du"><f type="r">Regiment,</form> <xpln lang="en"><f type="i">a Dutch word, is a number of sundry companies vnder the charge of Colonell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Recoia,</form> <xpln lang="en"><f type="i">a Spanish word: and signifieth the call or assembling of the souldiers together into the place
+of armes, by the sound of the drumme. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Ronda,</form> <xpln lang="en"><f type="i">an Italian and Spanish word: and is a company of certaine souldiers and officers, which
+do go visiting the Corps de guards, Sentinels and watches at sundry houres in the night, to
+cause them obserue order: and to see whether they be vigilant and ready. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Roupt,</form> <xpln lang="en"><f type="i">a French word; and signifieth the breaking of a squadron, troupe, or battell, and turning
+to flight. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><f type="r"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="fr"><f type="r">Sallie,</form> <xpln lang="en"><f type="i">a French word: and is an issuing foorth of men to skirmish or fight: and is also a secret
+issue for the souldiers to passe out of a wall, bulwarke or fort. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Srer&eacute;e,</form> <xpln lang="en"><f type="i">a French word: and is when the souldiers in squadron do ioyne and locke close together,
+thereby to become the more strong. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Serracenesca,</form> <xpln lang="en" lexeme="percluis(n)" lexeme="grate of a gate(n)"><f type="i">a Spanish word: and is the percluis or grate of a gate. </xpln></wordentry>
+
+<wordentry type="h"><form lang="du"><f type="r">Skance,</form> <xpln lang="en"><f type="i">a Dutch word: and is a small fortresse built of turffe and earth, commonly vsed in the
+low countries. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Scalada.</form> <xpln lang="en"><f type="i">a Spanish word, is a skaling of a wall with ladders. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Spontone,</form> <xpln lang="en"><f type="i">an Italian word: is a small long instrument of iron , sharpe at the ende, to thrust
+thorough anie loade of haie, straw, or such like, to prove if any souldiers lie hidden
+within the same. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Squadra,</form> <xpln lang="en"><f type="i">a Spanish word: and is a certaine part of a company of some 20, or 25 souldiers, whose
+chiefe is the Caporall. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Squadron,</form> <xpln lang="en"><f type="i">a Spanish word, and is a great number of souldiers pikemen, reduced in arraies to
+march, and also is a certaine companie of musketiers framed in order to march of fight,
+and is also a certaine number of men, aranged in order to march, or charge. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><f type="r"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">Taladro,</form> <xpln lang="en"><f type="i">a Spanish word, and is an instrument or engine to mount any peece of ordinance vp into
+</page>
+
+<page sig="Y6r">
+<emend err="">the</emend> Cariage. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Taisses,</form> <xpln lang="en"><f type="i">a French word, and is the arming of the thighes, annexed vnto the forepart of the
+Corslet. </xpln></wordentry>
+
+<wordentry type="h"><form lang="it"><f type="r">Terraplene,</form> <xpln lang="en"><f type="i">an Italian word, and is the earth that is rampired and filled vp vnto the inside of
+any wall or bulwarke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Tertio,</form> <xpln lang="en"><f type="i">a Spanish word, and is a Regiment of souldiers. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Tertiare,</form> <xpln lang="en"><f type="i">a Spanish word, and is to third the pike, either to beare the same upon his shoulder, or
+to charge the same ouer hand. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Trauessa,</form> <xpln lang="en"><f type="i">a Spanish word, and is a flanker of a wall. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tragon(n)"><f type="r">Tragon,</form> <xpln lang="en"><f type="i">is the reareward of the squadron, or battell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Trench,</form> <xpln lang="en"><f type="i">a French word, is the ditch about the wall. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp"><f type="r">Tenaza,</form> <xpln lang="en"><f type="i">a Spanish word, is a little hold or Keepe made of one Curtine or Bulwarke. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><f type="r"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="fr"><f type="r">Vanbraces,</form> <xpln lang="en"><f type="i">a French word, and is the armings for the arme from the pouldrons downeward to
+the hand wrest. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Vanguard,</form> <xpln lang="en"><f type="i">a French word, and signifieth the forepart of the battell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="fr"><f type="r">Vollie,</form> <xpln lang="en"><f type="i">a French word, and is when any kind of shot do discharge altogether. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><f type="r"><alpha>W</alpha>
+
+<wordentry type="h"><form lang="sp"><f type="r">The Word, </form> <xpln lang="en" lexeme="watch-word(n)"><f type="i">which we call the watch Word, and is by the French called <term lang="fr">Mot de guet</term>, and by
+the Spaniard <term lang="sp">Ennombre</term>: wich is a word or name deliuered by the Generall or other high Commander, to be giuen vnto other officers and souldiers, standing Sentinell at their
+postes, whereby their watches are nightly gouerned,&amp;c. </xpln></wordentry>
+</wordgroup1>
+
+<closing>
+<f type="r"><expression lang="fr">Toute Puissance, honeur, glorie &amp; louange, soit &agrave; nostre bon 
+Dieu eternel.</expression>
+</closing>
+
+<closing>
+FINIS.
+</closing>
+</section>
+</page>
+</leme>

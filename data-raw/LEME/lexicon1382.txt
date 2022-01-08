@@ -1,0 +1,317 @@
+<leme no="1382">
+
+<page no="1">
+
+<heading>Scotticisms. </heading>
+
+<section type="Prologue">
+<p>
+<f type="i">WILL</f> in the first person, as <f type="i">I will walk, we will 
+walk</f>, expresses the intention or resolution of the 
+person, along with the future event: In the second and 
+third person, as, <f type="i">you will, he will, they will</f>, it expresses 
+the future action or event, without comprehending or 
+excluding the volition. 
+</p>
+
+<p>
+<f type="i">Shall</f> in the first person, whether singular or plural, 
+expresses the future action or event, without excluding 
+or comprehending the intention or resolution. But in 
+the <f type="i">second</f> or <f type="i">third</f> person, it marks a necessity, and com&shy;
+monly a necessity proceeding from the person who 
+speaks; as, <f type="i">he shall walk, you shall repent it.</f> 
+</p>
+<p>
+THESE variations seem to have proceeded from a po- 
+liteness in the <f type="i">English</f>, who, in fpeaking to others or of 
+others, made use of the term <f type="i">will</f>, which implies voli&shy;
+tion, even where the event may be the subject of neces&shy;
+sity and constraint. And in speaking of themselves,
+made use of the term, <f type="i">shall</f>, which implies constraint,
+even tho' the event may be the object of choice.
+</p>
+<p>
+<f type="i">Wou'd</f> and <f type="i">shou'd</f> are conjunctive moods, subject to
+the same rule ; only we may observe, that in a sen&shy;
+tence, where there is a condition exprest, and a conse&shy;
+quence of that condition, the former always requires
+
+</page>
+<page no="2">
+
+
+<f type="i">shou'd</f>, and the latter <f type="i">wou'd</f>, in the second and third per&shy;
+sons; as, <f type="i">if he shou'd fall, he wou'd break his leg, &c.</f>
+</p>
+<p>
+<f type="i">These</f> is the plural of <f type="i">this</f>; <f type="i">those</f> of <f type="i">that</f>. The for&shy;
+mer therefore expresses what is near. The latter what 
+is more remote. As, in these lines of the duke of <f type="i">Buck&shy;
+ingham.</f>
+</p>
+<p>
+" Philosophers and poets vainly strove, 
+" In ev'ry age, the lumpish mass to move. 
+" But THOSE 'were pedants if compar'd with THESE, 
+" Who knew not only to instruct but please. 
+</p>
+<p>
+WHERE a relative is to follow, and the subject has 
+not been mention'd immediately before, <f type="i">those</f> is always 
+requir'd. <f type="i">Those observations which he made. Those 
+kingdoms which</f> Alexander <f type="i">conquer'd.</f>
+</p>
+<p>
+IN the verbs, which end in <f type="i">t</f>, or <f type="i">te</f>, we frequently o&shy;
+mit <f type="i">ed</f> in the preter-perfect and in the participle; as,
+<f type="i">he operate, it was cultivate. Milton</f> says, <f type="i">In thought
+more elevate</f>; but he is the only author, who uses that
+expression.
+</p>
+<p>
+<f type="i">Notice</f> shou'd not be us'd as a verb. The proper
+phrase is <f type="i">take notice</f>. Yet I find lord <f type="i">Shaftesbury</f> uses
+<f type="i">notic'd</f>, the participle: And <f type="i">unnotic'd</f> is very common.
+</p>
+<p>
+<f type="i">Hinder to do</f> is <f type="i">Scotch</f>. The <f type="i">English</f> phrase is <f type="i">hinder
+from doing</f>. Yet <f type="i">Milton</f> says, <f type="i">Hinder'd not Satan to
+pervert the mind</f>. Book IX.
+</p>
+</section>
+
+</page>
+<page no="3">
+
+<section type="Glossary">
+<wordentry type="h"><form lang="sc">conform to</form> <xpln lang="en" lexeme="conformable(a)">conformable to</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">friends and acquaintances</form> <xpln lang="en" lexeme="friend(n)" lexeme="acquaintance (n)">friends and acquaintance</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">maltreat</form> <xpln lang="en" lexeme="abuse(v)">abuse</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">advert to</form> <xpln lang="en" lexeme="attend(v)">attend to</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">proven, improven, approven</form> <xpln lang="en" lexeme="prove(v)" lexeme="improve(v)" lexeme="approve(v)">prov'd, improv'd, approv'd</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">pled</form> <xpln lang="en" lexeme="plead(v)">pleaded</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">incarcerate</form> <xpln lang="en" lexeme="imprison(v)">imprison</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">tear to pieces</form> <xpln lang="en" lexeme="tear(v)" lexeme="piece(n)">tear in pieces</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">drunk, run</form> <xpln lang="en" lexeme="drink(v)" lexeme="run(v)">drank, ran</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">fresh weather</form> <xpln lang="en" lexeme="open(a)" lexeme="weather(n)">open weather</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">tender</form> <xpln lang="en" lexeme="sickly(a)">sickly</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">in the long run</form> <xpln lang="en" lexeme="run(v)">at long run</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">notwithstanding of that</form> <xpln lang="en" lexeme="notwithstanding(adv)">notwithstanding that</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">contented himself to do</form> <xpln lang="en" lexeme="content(v)" lexeme="himself(pr)" lexeme="do(v)">contented himself with do&shy;
+ing</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">'tis a question if</form> <xpln lang="en" lexeme="question(v)" lexeme="whether(adv)">'tis a question whether</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">discretion</form> <xpln lang="en" lexeme="civility(n)">civility</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">with child to a man</form> <xpln lang="en" lexeme="child(n)" lexeme="man(n)">with child by a man</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">out of hand</form> <xpln lang="en" lexeme="presently(adv)">presently</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">simply impossible</form> <xpln lang="en" lexeme="absolutely(adv)" lexeme="impossible(a)">absolutely impossible</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">a park</form> <xpln lang="en" lexeme="enclosure(n)">an enclosure</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">in time coming</form> <xpln lang="en" lexeme="time(n)" lexeme="come(v)">in time to come</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">nothing else</form> <xpln lang="en" lexeme="thing(n)">no other thing</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">mind it</form> <xpln lang="en" lexeme="remember(v)">remember it</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">denuded</form> <xpln lang="en" lexeme="divest(v)">divested</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">severals</form> <xpln lang="en" lexeme="several(a)">several</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">some better</form> <xpln lang="en" lexeme="better(a)">something better</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">anent</form> <xpln lang="en" lexeme="regard(n)">with regard to</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">allenarly</form> <xpln lang="en" lexeme="solely(adv)">solely</xpln></wordentry>
+
+</page>
+<page no="4">
+
+
+<wordentry type="h"><form lang="sc">alongst. Yet the <f type="i">English</f> say
+both amid and amidst, a&shy;
+mong and amongst</form> <xpln lang="en" lexeme="along(adv)">along</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">evenly</form> <xpln lang="en" lexeme="even(a)">even</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">as I shall answer</form> <xpln lang="en" lexeme="protest(v)" lexeme="declare(v)">I protest or declare</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">cause him do it. Yet 'tis
+good <f type="i">English</f> to say, make
+him do it.</form> <xpln lang="en" lexeme="cause(v)" lexeme="him(pr)" lexeme="do(v)">cause him to do it</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">marry upon</form> <xpln lang="en" lexeme="marry(v)">marry to</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">learn</form> <xpln lang="en" lexeme="teach(v)">teach</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">there, where</form> <xpln lang="en" lexeme="thither(adv)" lexeme="whither(adv)">thither, whither</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">effectuate. This word in
+<f type="i">English</f> means to effect
+with pains and difficulty</form> <xpln lang="en" lexeme="effect(v)">effect</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">a wright. Yet 'tis good
+<f type="i">English</f> to say, a wheel-&shy;
+wright, &c.</form> <xpln lang="en" lexeme="carpenter(n)">a carpenter</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">defundt</form> <xpln lang="en" lexeme="deceased(a)">deceast</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">evite</form> <xpln lang="en" lexeme="avoid(v)">avoid</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">part with child</form> <xpln lang="en" lexeme="miscarry(v)">miscarry</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">notour</form> <xpln lang="en" lexeme="notorious(a)">notorious</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to want it</form> <xpln lang="en" lexeme="without(adv)" lexeme="desirable(a)">to be without a thing, even
+tho' it be not desirable</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to be difficulted</form> <xpln lang="en" lexeme="puzzled(a)">to be puzzled</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">rebuted</form> <xpln lang="en" lexeme="discouraged(a)" lexeme="repulse(n)">discouraged by repulses</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">for ordinary</form> <xpln lang="en" lexeme="usually(adv)">usually</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">think shame</form> <xpln lang="en" lexeme="ashamed(a)">asham'd</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">in favours of</form> <xpln lang="en" lexeme="favour(n)">in favour of</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">dubiety</form> <xpln lang="en" lexeme="doubtfulness(n)">doubtfulness</xpln></wordentry> 
+
+
+</page>
+<page no="5">
+
+ 
+<wordentry type="h"><form lang="sc">prejudge</form> <xpln lang="en" lexeme="hurt(v)">hurt</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">compete</form> <xpln lang="en" lexeme="enter(v)" lexeme="competition(n)">enter into competition</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">heritable</form> <xpln lang="en" lexeme="hereditary(a)">hereditary</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to remeed</form> <xpln lang="en" lexeme="remedy(v)">to remedy</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">bankier</form> <xpln lang="en" lexeme="banker(n)">banker</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">adduce a proof</form> <xpln lang="en" lexeme="produce(v)" lexeme="proof(n)">produce a proof</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">superplus</form> <xpln lang="en" lexeme="surplus(n)">surplus</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">forsaulture</form> <xpln lang="en" lexeme="forfeiture(n)">forfeiture</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">in no event</form> <xpln lang="en" lexeme="case(n)">in no case</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">common soldiers</form> <xpln lang="en" lexeme="private(a)" lexeme="man(n)">private men</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">big with a man</form> <xpln lang="en" lexeme="great(a)">great with a man</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">bygone</form> <xpln lang="en" lexeme="past(a)">past</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">debitor</form> <xpln lang="en" lexeme="debtor(n)">debtor</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">exeem'd</form> <xpln lang="en" lexeme="exempted(a)">exempted</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">yesternight</form> <xpln lang="en" lexeme="night(n)">last night</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">big coat</form> <xpln lang="en" lexeme="great(a)" lexeme="coat(n)">great coat</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">a chimney</form> <xpln lang="en" lexeme="grate(n)">a grate</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">annual rent</form> <xpln lang="en" lexeme="interest(n)">interest</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">tenible argument</form> <xpln lang="en" lexeme="good(a)" lexeme="argument(n)">good argument</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">amissing</form> <xpln lang="en" lexeme="missing(a)">missing</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to condescend upon</form> <xpln lang="en" lexeme="specify(v)">to specify</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to discharge</form> <xpln lang="en" lexeme="forbid(v)">to forbid</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to extinguish an obligation</form> <xpln lang="en" lexeme="cancel(v)" lexeme="obligation(n)">to cancel an obligation</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to depone</form> <xpln lang="en" lexeme="depose(v)">to depose</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">a compliment</form> <xpln lang="en" lexeme="present(n)">a present</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to enquire at a man</form> <xpln lang="en" lexeme="enquire(v)">to enquire of a man</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to be angry at a man</form> <xpln lang="en" lexeme="angry(a)">to be angry with a man</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to send an errand</form> <xpln lang="en" lexeme="send(v)" lexeme="errand(n)">to send off an errand</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to furnish goods to him</form> <xpln lang="en" lexeme="furnish(v)" lexeme="good(n)">to furnish him with goods</xpln></wordentry>
+
+
+</page>
+<page no="6">
+
+
+<wordentry type="h"><form lang="sc">to open up
+<f type="i">Thucydide, Herodot, Sueton</f></form> <xpln lang="en" lexeme="open(v)">to open or lay open
+<f type="i">Thucydides, Herodotus, Su&shy;
+etonius</f></xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">butter and bread</form> <xpln lang="en" lexeme="bread(n)" lexeme="butter(n)">bread and butter</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">pepper and vinegar</form> <xpln lang="en" lexeme="vinegar(n)" lexeme="pepper(n)">vinegar and pepper</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">paper, pen and ink</form> <xpln lang="en" lexeme="pen(n)" lexeme="ink(n)" lexeme="paper(n)">pen, ink and paper</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">readily</form> <xpln lang="en" lexeme="probably(adv)">probably</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">on a sudden</form> <xpln lang="en" lexeme="sudden(n)">of a sudden</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">as ever I saw</form> <xpln lang="en" lexeme="see(v)">as I ever saw</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">for my share</form> <xpln lang="en" lexeme="part(n)">for my part</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">misgive</form> <xpln lang="en" lexeme="fail(v)">fail</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">rather chuse to buy as sell</form> <xpln lang="en" lexeme="choose(v)" lexeme="buy(v)" lexeme="sell(v)">rather chuse to buy than 
+sell</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">deduce</form> <xpln lang="en" lexeme="deduct(v)">deduct</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">lookt over the window</form> <xpln lang="en" lexeme="look(v)" lexeme="window(n)">lookt out at the window</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">a pretty enough girl</form> <xpln lang="en" lexeme="pretty(a)" lexeme="girl(n)">a pretty girl enough</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">'tis a week since he left this</form> <xpln lang="en" lexeme="week(n)" lexeme="leave(v)" lexeme="place(n)">tis a week since he left this 
+place</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">come in to the fire</form> <xpln lang="en" lexeme="come(v)" lexeme="fire(n)">come near the fire</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to take off a new coat</form> <xpln lang="en" lexeme="make(v)" lexeme="suit(n)">to make up a new suit</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">alwise</form> <xpln lang="en" lexeme="always(adv)">always</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">cut out his hair</form> <xpln lang="en" lexeme="cut(v)" lexeme="hair(n)">cut off his hair</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">cry him</form> <xpln lang="en" lexeme="call(v)">call him</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to crave</form> <xpln lang="en" lexeme="dun(v)" lexeme="ask(v)" lexeme="payment(n)">to dun, to ask payment</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">to get a stomach</form> <xpln lang="en" lexeme="get(v)" lexeme="appetite(n)">to get an appetite</xpln></wordentry>
+
+<wordentry type="h"><form lang="sc">vacance</form> <xpln lang="en" lexeme="vacation(n)">vacation</xpln></wordentry>
+
+</page>
+</section>
+</leme>

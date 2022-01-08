@@ -1,0 +1,618 @@
+<leme no="827">
+
+<section type="Titlepage">
+<page sig="[*1r]">
+An
+ABRIDGMENT 
+OF THE 
+ARCHITECTURE
+OF Vitrivius.
+CONTAINING
+A System of the Whole WORKS
+of that Author.
+
+Illustrated with divers Copper Plates, curi&shy;
+ously engraved; with a Table of Explanation,
+
+To which is added in this Edition
+
+The Etymology and Derivation of the 
+Terms used in Architecture.
+
+First done in French by Mon<expan type="s+r">sieur</expan> Perrault, of the
+Academy of Paris, and now Englished, with Ad&shy;
+ditions.
+
+LONDON: Printed for Abel Swall and T. Child,
+at the Vnicorn in St. Paul's C hurch-yard. 1692.
+</page>
+</section>
+
+<section type="Glossary">
+<page sig="O1r">
+<heading>
+Explication of the Hardest 
+Terms in Architecture.
+</heading>
+<p>
+
+<wordgroup1 type="a" object="A"><alpha>A</apha>
+<wordentry type="h"><form lang="en" lexeme="abacus(n)">ABacus,</form> <xpln lang="en">from <term lang="gk">&#x1F04;&#x03B2;&alpha;&xi;</term> ; which signifies a square 
+Trencher: In French it's called <term lang="fr">Talloir</term>; 
+it's that quadrangular Piece commonly ac&shy;
+companied with a Cymatium, and serves in&shy;
+stead of a Drip or Corona to the Capital. It 
+supports the nether Face of the Architrave 
+and whole Trabeation. In the Corinthian and 
+the Compound Orders, its Corners are called 
+the Horns, the intermediate Sweep and Cur&shy;
+vature; the Arch, which his commonly a 
+Rose carved in the middle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="acroteria(n)">Acroteria or Acroter's</form> <xpln lang="en">from <term lang="gk">&#x1F00;&kappa;&rho;&#x03CC;&nu;</term> , <term lang="la">Summa pars</term>; 
+they may be properly called Pinnacles, for 
+Pins and Battlements were made sometimes 
+more towring; but when they stood in Ran&shy;
+ges with Rails and Balisters: Upon flat Buil&shy;
+ding they still retained their Name, with this 
+only difference, that such as were placed be&shy;
+tween the Angular Points, were stiled the 
+Median, or middle Acroteria. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="annulet(n)">Annulets,</form> <xpln lang="en">are little square Parts turned round in 
+the Corinthian Capital, under the Quarter-&shy;
+Round, called Echinus.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="antes(n)">Ante,</form> <xpln lang="en">is a square Pillaster, which the Ancients 
+placed at the corners of the Walls of the 
+Temples.</xpln></wordentry> 
+</page>
+
+<page sig="O1v">
+<wordentry type="h"><form lang="en" lexeme="amphisprostyle(n)">Amphiprostyle,</form> <xpln lang="en">from <term lang="gk">&alpha;&mu;&#x03B6;&#x1F32;</term> , <term lang="la">Circa</term>, and <term lang="gk">&#x03C2;&#x03CD;&lambda;&omicron;&sigma;</term> ; 
+Columna was a sort of a Temple which had 
+four Columns in the Front of the Temple, 
+and four in the Face behind.</xpln>
+<lemenote>
+"amphisprostyle" antedates the earliest OED citation (1706).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="architrave(n)">Architrave,</form> <xpln lang="en">from a Mungril Compound of two 
+Languages, <term lang="gk">&alpha;&rho;&chi;&iota;</term> <term lang="la">Principalis</term>, and <term lang="la">Trabs</term>; it's 
+the first Member of that which we call Enta&shy;
+blature; in Chimnies the Architrave is the 
+Mantle; over the Jambs of the Doors and 
+Lintels of Windows, it's called the Hyper&shy;
+thron, from the Greek <term lang="gk">&#x1F51;&#x1F63;&rho;</term>, <term lang="la">super</term>, and <term lang="gk">&delta;&#x03CD;&rho;&alpha;</term>, 
+<term lang="la">Janua</term> or <term lang="la">Ostium</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="astragal(n)">Astragal,</form> <xpln lang="en">from the Greek word <term lang="gk">&Alpha;&#x03C2;&rho;&#x03AC;&gamma;&alpha;&lambda;&omicron;&#x03C2;</term>; 
+which signifies the <term lang="la">Vertebr&aelig;</term>, or little Joints 
+in the Neck or Heel; hence the French call 
+it Talon, or the Heel itself: It's a Member 
+of Architecture joyned to Bases, Cornices, Archi&shy;
+traves, &c. it's round like a Ring, and there&shy;
+fore it's called by the Italians <term lang="it">Tondino</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="Attic(pn)">Atti<expan type="q;">que</expan></form> <xpln lang="en">signifies after the manner of the City of 
+Athens. In Vitruvius it's the Name of the 
+Basis which the Moderns have given to the 
+Dorick Pillar. We call Atti<expan type="q;">que</expan> in our Buil&shy;
+dings, a little Order placed upon another 
+much greater; for instead of Pillars, this little 
+Order has commonly nothing but Pillasters 
+of a particular Fashion and Order, which we 
+call Atti<expan type="q;">que</expan></xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="apophyge(n)">Apophyges,</form> <xpln lang="en"><term lang="la">vide</term> Conge.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="basilica(n)">BAsilica,</form> <xpln lang="en">from the Greek word <term lang="gk">&Beta;&alpha;&sigma;&iota;&lambda;&omicron;&kappa;&epsilon;</term> , 
+Rex or King among the Ancients. It 
+was a great Hall which had two Ranges of 
+Pillars, and had two Isles or Wings, upon 
+</page>
+
+<page sig="O2r">
+which were Galleries: These Halls, which 
+at first were made for the Palaces of Kings, 
+were afterwards turned into Courts of Ju&shy;
+stice, and after that into Churches; which 
+Form has always been observed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baluster(n)">Ballustre</form> <xpln lang="en">is the lateral part of the Jonick Capi&shy;
+tal. Our Workmen have given it that name, 
+because it somewhat resembles a Balluster.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="channel(n)">CHanel,</form> <xpln lang="en">in the Jonick Capital, is that part 
+which is under the Abacus, and lies upon 
+Echinus or Egg, and which has its Contours 
+or Turnings on every side to make the Vo&shy;
+luta's </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caryatid(n)">Cariatides</form> <xpln lang="en">are Statues of Women, which serve 
+instead of Pillars.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cincture(n)">Cincture</form> <xpln lang="en">is that part which makes the middle 
+of the Ballustre of the Jonick Voluta.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="cong&eacute;(n)">Cong&eacute;</form> <xpln lang="en">in French, in Latin <term lang="la">Apophyges</term>, from the 
+Greek word <term lang="gk">&#x1F70;&pi;&#x1F76;&phi;&upsilon;&gamma;&nu;</term> , because that part of the 
+Pillar taking as it were a rise, seems to 
+emerge and fly from the Basis like the Pro&shy;
+celtus of a Bone in a mans Leg, In short, it's 
+no more than the Rings or Ferils heretofore 
+used at the Extremities of wooden Pillars, to 
+preserve them from splitting, afterwards imi&shy;
+tated in Stone-work.</xpln>
+<lemenote>
+"cong&eacute;" antedates the earliest OED citation (1703).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="corona(n)">Corona</form> <xpln lang="en" lexeme="larmier(n)">is properly that part of the Cornice 
+which the French call Larmer or Drip, be&shy;
+cause it defends the rest of the Work from 
+Wind and Weather: It is often taken by Vi&shy;
+truvius for all the Cornice.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="corona(n)">Corona,</form> <xpln lang="en">called the Plat or flat Crown, is a par&shy;
+ticular Member in the Dorick Gate; it's 
+</page>
+
+<page sig="O2v">
+made by so extraordinary enlargement of the 
+Face of the Corona or Drip, that it has six 
+times more Breadth than Projecture. This 
+sort of Corona is no where found among the 
+Ancients, but only in the Writings of Vi&shy;
+truvius.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cymatium(n)">Cymatium,</form> <xpln lang="en">from <term lang="gk">&kappa;&upsilon;&mu;&#x03AC;&tau;&omicron;&nu;</term> , which signifies a rou&shy;
+ling Wave; is a Member of Architecture, of 
+which the one half is Convex and the other 
+Concave, the one being hollow above, and 
+the other below. There are two sorts of 
+them, the one called the Gola or Throats, or 
+the Doucine, whose advanced part is Concave; 
+and the other is called by the French the Ta&shy;
+lon or Heel, whose advanced part is hollow 
+below, as the first is above.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="en" lexeme="die(n)">DiE</form> <xpln lang="en">is the middle of the Pedestals, viz. that 
+which is between their Basis and their Cor&shy;
+nice. It's so called, because it's for the most 
+part of a Cubit form, as Die's are that are 
+used in play.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dentil(n)" lexeme="tooth(n)">Dentils, or Teeth,</form> <xpln lang="en">is a Member of the Jonick 
+Cornice, which is square, and cut our at con&shy;
+venient distances, which gives it the form 
+of a Set or Gang of Teeth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="diastyle(n)">Diastyle,</form> <xpln lang="en">from <term lang="gk">&delta;&#x03B9;&alpha;</term> and <term lang="gk">&#x03C2;&#x03C5;&lambda;&omicron;&sigma;</term>: Columna is a sort 
+of Edifice where the Pillars are distanced one 
+from another the breadth of 3 Diameters of 
+the Pillar.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="dipteros(n)">Diptere,</form> <xpln lang="en">from <term lang="gk">&delta;&iota;&epsilon;</term> and <term lang="gk">&pi;&tau;&#x03AD;&omicron;&epsilon;&nu;</term>: <term lang="la">Ala</term> signifies that 
+which has a double Isle or Wing; the Anci&shy;
+ents called so the Temples, which were sur&shy;
+rounded with two Ranges of Pillars, for there 
+</page>
+
+<page sig="O3r">
+two Ranges made two Portico's, which they 
+called Wings, we Isles, from the French word 
+<term lang="fr">Ailes</term>, which signifies Wings, because as 
+Wings are on the sides of Birds, so these of 
+Edifices.</xpln>
+<lemenote>
+"dipteros" antedates the earliest OED citation (1706).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="echinus(n)">EChinus,</form> <xpln lang="en">from <term lang="gk">&#x1F10;&#x03C3;&#x03C4;&#x1F78; &#x03C4;&omicron;&sigma; &#x1F10;&#x03C7;&#x03AF;&#x03BD;&omicron;&sigma;</term> , a Hedg-hog; it is a 
+Member of Architecture, which we call a 
+Quarter-round; it has its name from the 
+roughness of its Carving, resembling the 
+prickly Rhind of the Chesnut, and not un&shy;
+like the Hedg-hog; it's commonly next to 
+the Abacus, and carved with Ovals and Darts, 
+sometimes called Eggs and Anchors, because 
+these pretended Chesnuts are cut in an Oval 
+form.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="entablature(n)">Entablature</form> <xpln lang="en">signifies properly the Flooring or
+Lofting with Boards; it comes from the 
+Latin word <term lang="la">Tabulatum</term>. In Architecture 
+it's that part which is composed of the Archi&shy;
+trave, Frise, and Cornice, for in effect this 
+part is the extream part of the Flooring, 
+which is supported by Pillars, or by a Wall 
+if it have no Pillars.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)">Eye</form> <xpln lang="en">is the middle of the Jonick Volute, which 
+is cut in the form of a little Rose.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="eurhythmy(n)">Eurythmie,</form> <xpln lang="en">from <term lang="gk">&#x1F72;&#x03BD;</term> <term lang="la">bene</term>, and <term lang="gk">&#x03B1;&#x03C1;&#x03B9;&#x03B4;&#x03BC;&#x1F78;&#x03C2;</term> <term lang="la">numera</term>: 
+it signifies Proportion; it's taken in its gene&shy;
+ral signification in Architecture; for in its 
+particular signification it signifies the true 
+measure that is observed in Dancing after 
+Musick.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="eustyle(n)">Eustyle,</form> <xpln lang="en">from <term lang="gk"></term> <term lang="la">bene</term>, and <term lang="gk"></term> a Pillar; its 
+the Order where Pillars are rightly placed, 
+</page>
+
+<page sig="O3v">
+the Intercolumniations being two Diameters 
+and a quarter.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="en" lexeme="face(n)">FAce</form> <xpln lang="en">is a Member of Architecture, which has 
+a great Breadth and a small Projecture; it's 
+in Architraves.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fillet(n)">Filet</form> <xpln lang="en">is a little square streight Member.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="fresco(n)">Fresco,</form> <xpln lang="en">and to paint in Fresco or Freth, is an 
+Italian Phrase, and it signifies the Painting 
+which is made upon the Plaistering before it 
+be dry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frieze(n)">Frise</form> <xpln lang="en">is that part which is between the Archi&shy;
+trave and the Cornice.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en" lexeme="gnomonic(a)">GNomonick</form> <xpln lang="en">is the Art of making Sun-dials; 
+it's derived from the Greek <term lang="gk">&#x03B3;&#x03BD;&#x1F78;&#x03BC;&#x03C9;&#x03BD;</term>, which 
+signifies that which shews a thing, as the 
+Cock or Pin of the Dyal shews what a clock 
+it is.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="gorge(n)" lexeme="gule(n)" lexeme="neck(n)">Gorge, or the Gule or Neck,</form> <xpln lang="en">is the narrowest 
+part of the Dorick Capital, which is between 
+the Astragal, above the Shaft of the Pillar 
+and the Annulets.</xpln>
+<lemenote>
+"gorge" antedates the earliest OED citation (1706).
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="drop(n)" lexeme="gutta(n)">Gatte, or Drops,</form> <xpln lang="en">are little parts, which to the 
+number of six are put below every Triglyph 
+in the Architrave of the Dorick Order.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en" lexeme="hydraulic(a)">Hydraulick,</form> <xpln lang="en">from the Greek <term lang="gk">&#x1F55;&#x03B4;&#x03C9;&#x03C1;</term> ; which 
+signifies Water, is an Engine that plays by 
+the help of Water, especially where there 
+are Pipes and Flutes.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Hype<emend err="">r</emend>thre,</form> <xpln lang="en">from <term lang="gk">&#x03CC;&#x03C0;&#x1F78;</term> <term lang="la">suo</term> and <term lang="gk">&#x03B1;&#x03B9;&#x03B8;&#x1F7A;&#x03C1;</term> <term lang="la">&aelig;ther</term>; signi&shy;
+</page>
+
+<page sig="O4r">
+fies a Building whose inside is exposed to the 
+Rain and open Air. The Ancients called so 
+all Temples that had no Roof.</xpln>
+<lemenote>
+"Hyperthre" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Hyperthyron,</form> <xpln lang="en">for <term lang="gk">&#x03C5;&#x03C0;&#x03AD;&#x03C1;</term> , <term lang="la">super</term>, and <term lang="gk">&#x03B8;&#x03CD;&#x03C1;&#x03B1;</term> <term lang="la">Janua</term>, a 
+Gate or Door: It signifies that which is a&shy;
+bove the Gate; it's a large Table, which is 
+upon the Dorick Gates in the manner of a 
+Frise.</xpln>
+<lemenote>
+"hyperthyron" not found in OED as a headword but within two quotations.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en" lexeme="ichnography(n)">IChnographie,</form> <xpln lang="en">from <term lang="gk">&#x1F32;&#x03BA;&#x03BD;&omicron;&sigma;</term> <term lang="la">vestigium</term>, and <term lang="gk">&#x03B3;&#x03C1;&#x03AC;&#x03C6;&#x03C9;</term> 
+<term lang="la">Scribo</term>, or <term lang="la">Insculpo</term>; which properly signifies 
+the Figure that the Plane of the <emend err="the"></emend> Foot im&shy;
+presses upon the Earth. By it in Archite&shy;
+cture is understood that which is commonly 
+called the Plan of the Edifice.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="en" lexeme="lacunar(n)" lexeme="plafond(n)">LAcuner, or Platfond,</form> <xpln lang="en">is the Flooring or Plan&shy;
+ching above the Portico's.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="laconicum(n)">Laconicum</form> <xpln lang="en">was a dry Stove to sweat in: It was 
+so called, because it was much used by the 
+Lacedemonians.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="larmier(n)" lexeme="drip(n)">Larmier or Drip,</form> <xpln lang="en"><term lang="la">vide</term> Corona.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha></alpha>
+<wordentry type="h"><form lang="en" lexeme="metope(n)">MEtope,</form> <xpln lang="en">from <term lang="gk">&#x03BC;&#x03B5;&#x03C4;</term> and <term lang="gk">&#x1F78;&#x03C0;&#x03B7;</term> , <term lang="la">foramen, inter&shy;
+vallum</term>. Signifies the Front; it's the 
+Name of the empty spaces in Freeze of the 
+Dorick Order, between the Triglyphs.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="it" lexeme="modillion(n)">Modillion</form> <xpln lang="en">signifies in Italian a little Model, a 
+little Measure: It's that part which is so of&shy;
+ten repeated in the Corinthian and Compound 
+Cornice, which supports the Projecture of 
+the Larmier or Drip. This part is called the 
+</page>
+
+<page sig="O4v">
+little Model in respect of the great Model, 
+which is the Diameter of the Pillar; for as 
+the Proportion of an Edifice depends on the 
+Diameter of the Pillar, so the greatness of the 
+Modellians, their number, and their space 
+or distances, must have a just Proportion or 
+true Relation to the whole Fabrick.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="module(n)" lexeme="model(n)">Module or Model</form> <xpln lang="en">is a measure that is made use 
+of to regulate all the Proportion of the Fa&shy;
+brick: In the Dorick Order it's half the Dia&shy;
+meter of the Pillar; in other Orders the Mo&shy;
+dule is the whole Diameter.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="monopter(n)">Monoptere,</form> <xpln lang="en">from <term lang="gk">&#x03BC;&#x03BF;&#x03BD;&omicron;&sigma;</term> <term lang="la">solus</term>, and <term lang="gk">&#x03C0;&#x03C4;&#x1F72;&#x03C1;&#x03BF;&#x03BD;</term> <term lang="la">ala</term>; is 
+that which has but one Wing or Isle; it was 
+a sort of a round Temple, whose Roof was 
+supported by Pillars only.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="mutuli(n)">Mutuli,</form> <xpln lang="en">from <term lang="gk">&#x03BC;&#x03C4;&#x03B9;&#x03BB;&omicron;&sigma;</term> , which signifies defect, as 
+being made thinner, and more abated above 
+than below. It's a sort of a Modellion in the 
+Cornice of the Dorick Order.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="en">NOyan</form> <xpln lang="en">is the middle part of the Flooring of 
+the Ancients. They made it with Ci&shy;
+ment, which they put betwixt a Lay or Bed 
+of Pibbles, cimented with Mortar made of 
+Lime and Sand.</xpln>
+<lemenote>
+"noyan" not found in the OED or otherwise identified.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+<wordentry type="h"><form lang="en" lexeme="orchestra(n)">ORchestra,</form> <xpln lang="en">from <term lang="gk">&#x03CC;&#x03C1;&#x03C7;&#x1F72;&#x03BF;&#x03BC;&#x03B1;&#x03B9;</term> <term lang="la">salto</term>; signified the 
+place where they danced; it was the 
+lowest place in the Theatre, which was be&shy;
+tween the Scene, viz. the place where the 
+Players acted, and the Seats where the Spe&shy;
+ctators sate. It was in this place where the 
+Greek Comedians were wont to dance.</xpln></wordentry> 
+</page>
+
+<page sig="O5r">
+<wordentry type="h"><form lang="en" lexeme="order(n)">Order,</form> <xpln lang="en">those Fabricks are said to be of different 
+Orders, when the Proportion which is be&shy;
+tween the thickness of the Pillars and their 
+height, with all other things which are re&shy;
+quired to this Proportion, are different.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ornament(n)">Ornaments,</form> <xpln lang="en">Vitruvius so calls the Architrave, 
+Frise, and Cornice.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="oval(n)">Oval,</form> <xpln lang="en"><term lang="la">vide</term> Echinus.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="parascenium(n)">PArascenium,</form> <xpln lang="en">from <term lang="gk">&#x03C0;&#x03B1;&#x03C1;&#x1F70;</term> and <term lang="gk">&#x03C3;&#x03BA;&#x03B5;&#x03B9;&#x1F74;</term> <term lang="la">tentonum</term>, 
+is the back part of the Theatre or Scene.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="peripter(n)">Periptere,</form> <xpln lang="en">from <term lang="gk"></term> <term lang="la">circum</term>, and <term lang="gk">&#x03C0;&#x03C4;&#x1F72;&#x03BF;&#x03C1;&#x03BD;</term> <term lang="la">ala</term>, which 
+has a Wing round about. This was a sort of 
+a Temple, which had Pillars on all the four 
+Parts, which was different from the Prostyle, 
+which had only Pillars before. or In the 
+Front, and from the Amphiprostyle, which had 
+only Pillars before and behind, and none on 
+the sides.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="peristyle(n)">Peristyle,</form> <xpln lang="en">from <term lang="gk">&#x03C0;&#x03B1;&#x03C1;&#x1F70;</term> <term lang="la">circum</term>, and <term lang="gk">&#x03C2;&#x1F7A;&#x03BB;&omicron;&sigma;</term> <term lang="la">columna</term>; 
+signifies that which has Pillars round about: 
+It differs from the Periptere in this, that the 
+Pillars of the Peristyle are within, as it were 
+round about a Court, and those of the Pe&shy;
+riptere are without, as in the Temples of the 
+Ancients.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pedestal(n)">Pedestal,</form> <xpln lang="en">is that part which supports the Pil&shy;
+lar.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="piedroit(n)">Pied-droit</form> <xpln lang="en">is a square Pillar, which is in part 
+within the Wall.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pilaster(n)">Pillaster</form> <xpln lang="en">is the same, with this Difference; that 
+the Pillaster has a Base and a Capital, as 
+a Pillar hath, which the Pied-droit has not.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="platband(n)">Platt-band</form> <xpln lang="en">is a square Member, which termi&shy;
+nates the Architrave of the Dorick Order, 
+</page>
+
+<page sig="O5v">
+and passes immediately under the Tri&shy;
+glyphs.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plinth(n)">Plinthus</form> <xpln lang="en">signifies a Brick or square Tile. It's in 
+Architecture taken for that square Member 
+which makes the Foundation of the Base of 
+the Pillar.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="posticum(n)">Posticum</form> <xpln lang="en">is the back Gate of a Fabrick.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="portico(n)">Portico</form> <xpln lang="en">is a long place covered with a Floor or 
+Flatfond, supported by Pillars.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="proscenium(n)">Proscenium,</form> <xpln lang="en">from <term lang="gk">&#x03C0;&#x03C1;&#x03BF;</term> and <term lang="gk">&#x03C3;&#x03BA;&#x03B5;&#x03BD;&#x03B9;&#x03BD;</term> <term lang="la">tentorium</term>; it 
+signifies the forepart of the Scene; it was an 
+Edifice as high as the last Portico of the Thea&shy;
+tre, whose Face or Front was adorned with 
+many Ranges of Pillars.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="prostyle(n)">Prostyle</form> <xpln lang="en">from <term lang="gk">&#x03C0;&#x03C1;&#x03BF;</term> and <term lang="gk">&#x03C2;&#x1F7A;&#x03BB;&omicron;&sigma;</term>, signifies that which 
+has Pillars before only. This was one sort of 
+the Temples of the Ancients.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pseudodipter(n)">Pseudodiptere,</form> <xpln lang="en"><term lang="gk">&#x03C8;&#x03B5;&#x03C5;&#x03B4;&#x1F7A;&#x03C2;</term>: <term lang="la">mendax</term>, <term lang="gk">&#x03B4;&#x1F76;&#x03C2;</term> <term lang="la">bis</term>, and <term lang="gk">&#x03C0;&#x03C4;&#x1F72;&#x03C1;&#x03BF;&#x03BD;</term> 
+<term lang="la">ala</term>; signifies a false Diptere. This was a kind 
+of a Temple among the Ancients, which had 
+Porticoes round about, which were every one 
+as large as the double Portico of the Di&shy;
+ptere.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="pseudoperipter(n)">Pseudoperiptere,</form> <xpln lang="en">from <term lang="gk">&#x03C8;&#x03B5;&#x03C5;&#x03B4;&#x1F7A;&#x03C2;</term> <term lang="la">mendax</term>, and <term lang="gk">&#x03C0;&#x03B5;&#x03C1;&#x1F76;</term>, and 
+<term lang="gk">&#x03C0;&#x03C4;&#x1F72;&#x03C1;&#x03BF;&#x03BD;</term> <term lang="la">ala</term>, was a sort of a Temple, where the 
+Side-Pillars were part in the Wall of the in&shy;
+ner side of the Temple, which was enlarged 
+sufficiently to enclose within the space which 
+was allowed the Porticoes of the Peri&shy;
+ptere.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Pulpit</form> <xpln lang="en">was the place upon which the Comedi&shy;
+ans acted, which we now call the Stage.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="picnostyle(n)">Picnostyle,</form> <xpln lang="en">f<emend err="o">r</emend>om <term lang="gk">&#x03C0;&#x1F7A;&#x03BA;&#x03BD;&omicron;&sigma;</term> <term lang="la">dentus</term>, and <term lang="gk">&#x03C2;&#x1F7A;&#x03BB;&omicron;&sigma;</term> <term lang="la">co&shy;
+lumna</term>; signifies a Building where the Pillars 
+were very close one to another; so that the 
+</page>
+
+<page sig="O6r">
+Intercolumniation had but a Diameter and a 
+half of the Pillar.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en">RVdus</form> <xpln lang="en">was a sort of gross Mortar, which was 
+made use of for smoothing, and equally 
+filling and levelling the Superfices of the 
+Walls, before the fine Plaister was laid on: 
+It was likewise made use of for the second 
+Bed or Lay of the Flooring.</xpln>
+<lemenote>
+"RVdus" not found in OED as a headword.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="scene(n)">SCene</form> <xpln lang="en">signifies a Tabernacle, Tent, or Pavil&shy;
+lion, from the Greek <term lang="gk">&#x03C3;&#x03BA;&#x03B5;&#x03BD;&#x1F7A;</term> . It was in the 
+Theatre of the Ancients a great Face or Front 
+of Building, adjoyned with Pillars and Sta&shy;
+tues, which had three great Openings, in which 
+were Pictures in Perspective, which repre&shy;
+sented the Lodgings where the Tragedians 
+and Comedians dwelt.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="sabliere(n)">Sabliere</form> <xpln lang="en">is a piece of Wood as long as a Beam, 
+but not so thick.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="scotia(n)">Scotia,</form> <xpln lang="en">from <term lang="gk">&#x03C3;&#x03BA;&#x03C4;&#x03B6;&omicron;&sigma;</term> <term lang="la">tenebr&aelig;</term>, Darkness, is a 
+Member of Architecture, hollowed as a De&shy;
+mi-channel: It's particularly affected in the 
+Bases where it's placed, between the Torus 
+and the Astragals; it's sometimes put under 
+the Drip, in the Cornice of the Dorick Order.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en">Statumen</form> <xpln lang="en">signifies generally whatsoever is made 
+use of to support any thing in Architecture; 
+it is Mortar mixt with Pibbles, which served 
+for the first Lay or Bed in Flooring.</xpln>
+<lemenote>
+"statumen" not found in OED as a headword but identified in early quotations.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="systyle(n)">Systyle,</form> <xpln lang="en">from <term lang="gk">&#x03C3;&#x1F7A;&#x03BD;&omicron;&sigma;</term> <term lang="la">con</term>, and <term lang="gk">&#x03C2;&#x1F7A;&#x03BB;</term> <term lang="la">columna</term>; signi&shy;
+fies building where the Pillars seem to be 
+joyned together, for the Intercolumniation is 
+but of two Diameters of the Pillars.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="O6v">
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="torus(n)">TOrus</form> <xpln lang="en">is a Member in the Base which is 
+round, in the form of a great Ring; it 
+comes from the Latin word <term lang="la">Torus</term>, which sig&shy;
+nifies a Bed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tringle(n)">Tringle</form> <xpln lang="en">is a little square Member, which is di&shy;
+rectly upon every Triglyph, under the Platt-&shy;
+band of the Architrave, from whence hang 
+down the <term lang="la">Gutt&aelig;</term>, or pendant Drops in the 
+Dorick Order.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="triglyph(n)">Triglyph,</form> <xpln lang="en">from <term lang="gk">&#x03C4;&#x03C1;&#x03B9;&#x03C2;</term> , <term lang="la">ter</term>, and <term lang="gk">&#x03B3;&#x03BB;&#x03C5;&#x03C6;&omicron;&sigma;</term> <term lang="la">sculptura</term>; 
+because it's divided into three parts, and en&shy;
+graved, it is a Member in the Freeze of the 
+Dorick Order, directly upon every Pillar, and 
+in certain spaces in the Intercolumniations.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="tympan(n)">Tympan</form> <xpln lang="en">signifies a Drum; it's that part of the 
+bottom of the Frontons which answers the 
+naked of the Freeze; it is triangular, and 
+placed upon the Cornice of the Entablature, 
+and covered over again with two other Cor&shy;
+nices which slope a little.</xpln>
+<lemenote>
+"tympan" antedates the earliest OED citation in this sense (1704).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="volute(n)">VOlute</form> <xpln lang="en">signifies wreathed, and turned about 
+from <term lang="la">Volvendo</term>; it's a part of the Capitals 
+of the Jonick, Co<emend err="t">r</emend>inthian, and Compound Or&shy;
+ders, which represents the Bark of a Tree 
+twisted and turned into a Spiral line.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="X"><alpha></alpha>
+<wordentry type="h"><form lang="en">XYste,</form> <xpln lang="en">from the Greek <term lang="gk">&#x03B6;&#x03C5;&#x03C4;&omicron;&sigma;</term> , which signifies 
+scraped; it was the place where the Wre&shy;
+stlers exercised; it was so called because they 
+made their skins be scraped and rubbed 
+smooth, to make the Sweat fall, and to make 
+their Bodies more slippery, that their Adver&shy;
+saries might have the less hold of them when 
+they closed.</xpln>
+<lemenote>
+"XYste" not found in OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+</page>
+</section>
+</leme>

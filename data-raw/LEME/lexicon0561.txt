@@ -1,0 +1,1420 @@
+<leme no="561">
+
+<page sig="ccc2r">
+<section type="heading">
+A DICTIONARY,
+
+<f type="i">Alphabetically explaining the abstruse 
+Words and Phrases that are used in 
+Typography. Which also may serve as 
+an Index to direct to the most material 
+Concerns contained in this Volumn.</f>
+
+Though I give you a Dictionary of so many 
+Words and Phrases as are mentioned in these 
+<f type="i">Exercises</f>, yet I do not exhibit this as a <f type="i">Di&shy;
+ctionary</f> so perfect, that all the obstruce 
+Words and Phrases used among <f type="i">Printers</f>, <f type="i">Letter&shy;
+cutters</f> and <f type="i">Founders</f> are here exposed; for Words 
+and Phrases many times offer themselves either as 
+Discourse or Contemplation occurs: Therefore such 
+Words and Phrases as have escaped my Considerati&shy;
+on, will, I hope, be discovered by some Printer, or 
+others, that may have a kindness for Posterity; not 
+only in this Trade, but in all Trades and Faculties 
+whatsoever: That so a <f type="i">Dictionary</f> may in time be 
+compleated, that may render so great a number of 
+Words used in <f type="i">England</f> by <f type="i">English-men</f> intelligible; 
+which now for want of a proper Repository to store 
+them in, seem not only Aliens to our Nation, but 
+barbarous to our understandings.
+</section>
+</page>
+
+<page sig="ccc2v">
+<section type="dictionary">
+<wordgroup1 type="a" object="a">A
+
+<wordentry type="h"><form lexeme="abbreviation(n)"><f type="i">Abreviations </f></form> <xpln lexeme="and(d)" lexeme="that(r)">are Characters, or else marks on Let&shy;
+ters, to signifie either a Word or Syllable. & is the 
+Character for And, y<sup>e</sup> is The abreviated, y<sup>t</sup> is That
+abreviated; and several other such. Straight stroaks 
+over any of the Vowels abreviates m or n. They 
+have been much used by Printers in Old Times, to 
+<f type="i">Shorten</f> or <f type="i">Get in Matter</f>; but now are wholly left 
+off as obsolete.</xpln><lemenote>I've removed  lexeme="and(d)" lexeme="that(r)" from the closing form tag and placed them in the xpln tag. MP</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="letter, accented(n)"><f type="i">Accented Letters </f></form> <xpln lexeme="grave(n)" lexeme="acute(n)" lexeme="circumflex(n)" lexeme="dieresis(n)">are much used in Latin Authors, 
+and more in <f type="i">Greek</f>. The Vowels are only accented, 
+and are called <f type="i">Grave</f>, thus accented &agrave;; <f type="i">Acute</f>, thus 
+accented &aacute;; <f type="i">Circumflex</f>, thus accented &acirc;; and <f type="i">Deere&shy;
+cis</f>, thus accented &auml;.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="accent(n)"><f type="i">Accents </f></form> <xpln>are Dashes or Marks over the Vowels.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="air-hole(n)"><f type="i">Air-hole. </f></form> <xpln><xref type="ex_section">See &sect; 18. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, ascending(n)"><f type="i">Ascending Gage. </f></form> <xpln><xref type="ex_section">See &sect; 12. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ashes(n)"><f type="i">Ashes. </f></form> <xpln><f type="i">Letter-Founders</f> call the <f type="i">Skimmings</f> of their 
+<f type="i">Mettle</f>, and the Sweepings of their House <f type="i">Ashes</f>; 
+and save both, to send to the Refiners; who with 
+their fierce Fire draw all the <f type="i">Mettle</f> out of the <f type="i">Ashes</f>. 
+<xref>See <f type="i">Fat Ashes</f></xref>. <xref>See <f type="i">Lean Ashes</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ash-hole(n)"><f type="i">Ash-hole. </f></form> <xpln><xref type="ex_section">See &sect; 18. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="assidue(n)"><f type="i">Assidue </f></form> <xpln>is Thin Brass Plate, such as adorns <f type="i">Bar&shy;
+tholomew</f>-Fair Hobby Horses: <f type="i">Founders</f> use it to 
+<f type="i">Underlay</f> the <f type="i">Body</f>, or the <f type="i">Mouth-piece</f>, &c. of their 
+<f type="i">Mold</f>, if it be too Thin. <xref type="ex_section">See &sect; 16.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">B
+
+<wordentry type="h"><form lexeme="composing stick, back of(n)"><f type="i">Back of a Composing-stick. </f></form> <xpln><xref type="ex_section">See &sect; 9. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="form, backside of(n)"><f type="i">Backside of the Form </f></form> <xpln>is the underside that touches 
+upon the <f type="i">Correcting-stone</f> or <f type="i">Press-stone</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="copy, bad(n)"><f type="i">Bad Copy. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 4.  Vol. 2.</xref></xpln></wordentry>
+</page>
+
+<page sig="ccc3r">
+<wordentry type="h"><form lexeme="work, bad(n)"><f type="i">Bad work. </f></form> <xpln>Any Fault at the <f type="i">Case</f>, or <f type="i">Press</f>, or at 
+the <f type="i">Furnace</f>, or at the <f type="i">Dressing-block</f>, &c. is in Work&shy;
+mens Language called <f type="i">Bad Work</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bake(v)"><f type="i">Bake. </f></form> <xpln><xref type="ex_section">See &sect; 22. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="balls(n)"><f type="i">Balls. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ball-knife(n)"><f type="i">Ball-knife. </f></form> <xpln>An old blunt-edg'd Knife, that <f type="i">Press&shy;
+men</f> lay by, to scrape their <f type="i">Balls</f> with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ball-leathers(n)"><f type="i">Ball-leathers. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ball-nail(n)"><f type="i">Ball-Nails. </f></form> <xpln>The <f type="i">Nails</f> that <f type="i">Ball-leathers</f> are Tackt 
+to the <f type="i">Ball-stocks</f> with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ball-stock(n)"><f type="i">Ball-stocks. </f></form> <xpln><xref type="ex_section">See &sect; 11. &para; 21. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="balls, take(n)"><f type="i">Balls Take. </f></form> <xpln><xref type="ex_section">See &sect; 11. &para; 21. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beak(n)"><f type="i">Beak. </f></form> <xpln><xref type="ex_section">See &sect; 12. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beam(n)"><f type="i">Beam. </f></form> <xpln><xref type="ex_section">See &sect; 12. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beard, of a letter(n)"><f type="i">Beard of a Letter, </f></form> <xpln>is the outer angle of the Square 
+Shoulder of the <f type="i">Shank</f>, which reaches almost up to 
+the <f type="i">Face</f> of the <f type="i">Letter</f>; and is commonly scraped 
+off by the <f type="i">Founder</f>: <xref type="ex_section">As in &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beard-gauge(n)"><f type="i">Beard-Gage. </f></form> <xpln><xref type="ex_section">See &sect; 13. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bearer(n)"><f type="i">Bearer. </f></form> <xpln><xref type="ex_section">See &sect; 4. & &sect; 24 &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beat(v)"><f type="i">Beat. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 13. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beat fat(v)"><f type="i">Beat Fat. </f></form> <xpln>If a <f type="i">Press-man Takes</f> too much <f type="i">Inck</f> 
+with his <f type="i">Balls</f>, he <f type="i">Beats Fat</f>. The <f type="i">Black English Faced 
+Letter</f> is generally <f type="i">Beaten Fat</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="beat lean(v)"><f type="i">Beat Lean, </f></form> <xpln>is to <f type="i">Take</f> but little <f type="i">Inck</f>, and often: 
+All <f type="i">Small Letter</f> must be <f type="i">Beaten Lean</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bed(n)"><f type="i">Bed. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="benvenue(n)"><f type="i">Benvenue. </f></form> <xpln><xref type="ex_section">See Ancient Customs. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bite(v)"><f type="i">Bite. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 7.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="blanket(n)"><f type="i">Blankets. </f></form> <xpln>Woollen Cloath, or White Bays, to lay 
+between the <f type="i">Tympans</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="block(n)"><f type="i">Blocks. </f></form> <xpln><xref type="ex_section">See &sect; 20. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="block groove(n)"><f type="i">Block-Groove. </f></form> <xpln>ibid.</xpln></wordentry>
+</page>
+
+<page sig="ccc3v">
+<wordentry type="h"><form lexeme="body(n)"><f type="i">Body. </f></form> <xpln><xref type="ex_section">See &sect; 1. &para; 2. & &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matrix, botching(n)"><f type="i">Botching Matrices. </f></form> <xpln><xref type="ex_section">See &sect; 17. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="line, bottom(n)"><f type="i">Bottom line. </f></form> <xpln><xref type="ex_section">See &sect; 14. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matrix, bottom of(n)"><f type="i">Bottom of the Matrice. </f></form> <xpln><xref type="ex_section">See &sect; 17. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plate, bottom(n)"><f type="i">Bottom Plate. </f></form> <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bow(v)"><f type="i">Bow. </f></form> <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brace(n)"><f type="i">Brace, </f></form> <xpln>is a Character <f type="i">Cast</f> in <f type="i">Mettle</f> thus marked 
+{brace} The <f type="i">Compositer</f> is to have these <f type="i">Cast</f> of several 
+Breadths, viz. to several numbers of <f type="i">Lines</f> of a de&shy;
+signed <f type="i">Body</f> (most commonly of <f type="i">Pica Body</f>) that they 
+may hook in or Brace so many <f type="i">Lines</f> as his <f type="i">Copy</f> 
+may shew him; as at <f type="i">Charge</f> is a Brace of four 
+<f type="i">Lines</f>. <xref type="ex_section">See also &sect; 24. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brass-rule(n)"><f type="i">Brass-Rules. </f></form> <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brayer(n)"><f type="i">Brayer </f></form> <xpln>is a round <f type="i">Wooden Rubber</f>, almost of the 
+fashion of a <f type="i">Ball-stock</f>, but flat at the bottom, and not 
+above three Inches Diameter: It is used in the <f type="i">Inck&shy;
+Block</f> to <f type="i">Bray</f> or <f type="i">Rub Inck</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="break(n)"><f type="i">Break, </f></form> <xpln>a piece of a <f type="i">Line</f>. Also the <f type="i">Mettle</f> that is 
+contiguous to the <f type="i">Shank</f> of a <f type="i">New Cast Letter</f>: This 
+<f type="i">Break</f> is formed in the <f type="i">Mouth-piece</f> of the <f type="i">Letter-mould</f>, 
+and is called a <f type="i">Break</f>, because it is always broke 
+from the <f type="i">Shank</f> of a <f type="i">Letter</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="break off(v)"><f type="i">Breaking off </f></form> <xpln>is breaking the <f type="i">Break</f> from the <f type="i">Shank</f> 
+of the <f type="i">Letter</f>. <xref type="ex_section">See &sect; 19. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="brevier(n)"><f type="i">Brevier. </f></form> <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="broadside(n)"><f type="i">Broad-side, </f></form> <xpln>a <f type="i">Form</f> of one full <f type="i">Page</f>, Printed on one 
+side of a whole Sheet of Paper.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="letter, broken(n)"><f type="i">Broken Letter. </f></form> <xpln>By broken <f type="i">Letter</f> is not meant the 
+breaking of the <f type="i">Shanks</f> of any of the <f type="i">Letters</f>, but the 
+breaking the orderly Succession the <f type="i">Letters</f> stood in 
+in a <f type="i">Line</f>, <f type="i">Page</f>, or <f type="i">Form</f>, &c. and mingling the <f type="i">Let</f>&shy;
+</page>
+
+<page sig="ccc4r">
+<f type="i">ters</f> together, which mingled <f type="i">Letters</f> is called <f type="i">Py</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bur(n)"><f type="i">Bur. </f></form> <xpln><xref>See <f type="i">Rag</f>.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">C
+
+<wordentry type="h"><form lexeme="cannon(n)"><f type="i">Cannon. </f></form> <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="card(n)"><f type="i">Card. </f></form> <xpln>When several <f type="i">Bodies</f> of <f type="i">Letter</f> are <f type="i">Set</f> in a 
+<f type="i">Page</f>, <f type="i">Compositers</f> to <f type="i">Justifie</f> that <f type="i">Page</f> to an exact 
+Length, put a <f type="i">Card</f> to some <f type="i">White-line</f>, or other 
+<f type="i">Break</f> and Lengthen out the <f type="i">Page</f> the thickness of a 
+<f type="i">Card</f>. And <f type="i">Press-men</f> also use a <f type="i">Card</f> for an un&shy;
+derlay. <xref type="ex_section">See &sect; 22. &para; 4. &c. &sect; 24. &para; 7.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="card(n)"><f type="i">Cards. </f></form> <xpln>About a Quire of Paper, which <f type="i">Press-men</f> 
+use to <f type="i">Pull</f> down the Spring or rising of a <f type="i">Form</f>, 
+which it is many times subject to by hard <f type="i">Locking-up</f>. 
+<xref type="ex_section">See &sect; 24. &para; 4.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carriage(n)"><f type="i">Carriage, </f></form> <xpln>is a part of the <f type="i">Press</f>. <xref type="ex_section">For which See &sect; 10. 
+&para; 9. Vol. 2.</xref> It is also a part of the <f type="i">Letter-Mold</f>: <xref type="ex_section">For 
+which See &sect; 15. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="case(n)"><f type="i">Case. </f></form> <xpln><xref type="ex_section">See &sect; 3.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lie, case(v)"><f type="i">Case lies. </f></form> <xpln><xref type="ex_section">See &sect; 22. &para; 1.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="case, full(n)"><f type="i">Case is full, </f></form> <xpln>viz. a <f type="i">Case</f> full of <f type="i">Letter</f>, wanting no 
+Sorts.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="case, low(n)"><f type="i">Case is Low. </f></form> <xpln>When a <f type="i">Case</f> grows empty, <f type="i">Compo&shy;
+siters</f> say the <f type="i">Case is Low</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stand still, case(n)"><f type="i">Case Stands still. </f></form> <xpln>When the <f type="i">Compositer</f> is not at 
+Work at his <f type="i">Case</f>, it is said, <f type="i">The Case stands still</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cassie paper(n)"><f type="i">Cassie Paper. </f></form> <xpln><xref type="ex_section">See &sect; 25. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cast(v)"><f type="i">Cast, </f></form> <xpln>is to <f type="i">Cast Letter</f>. <xref type="ex_section">See &sect; 19. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cast off(v)"><f type="i">Cast off Copy. </f></form> <xpln><xref type="ex_section">See &sect; 22. &para; 9.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="catch of the bar(n)"><f type="i">Catch of the Bar. </f></form> <xpln><xref type="ex_section">See &sect; 11. &para; 11. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chapel(n)"><f type="i">Chappel. </f></form> <xpln>See Customs. </xpln></wordentry>
+</page>
+
+<page sig="ccc4v">
+<wordentry type="h"><form lexeme="charge(v)"><f type="i">Charge, </f></form> <xpln>is to fill 	
+<f type="i">Paper</f> with great <f type="i">Pages</f>. 
+a <f type="i">Page</f> with long and many <f type="i">Lines</f>.
+a <f type="i">Line</f> with many <f type="i">Letters</f>.
+a <f type="i">Pot</f> with <f type="i">Stubs</f> and <f type="i">Antimony</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chase(n)"><f type="i">Chase. </f></form> <xpln><xref type="ex_section">See &sect; 9. &para; 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="">Cheeks. </f></form> <xpln>is a part of the <f type="i">Press</f>; <xref type="ex_section">for which See &sect; 10. 
+&para; 2.  Vol. 2.</xref> and part of the <f type="i">Dressing-block-groove</f>. <xref type="ex_section">For 
+which See &sect; 20. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="choke(v)"><f type="i">Choak. </f></form> <xpln>If a <f type="i">Form</f> be not Washt in due time, the 
+<f type="i">Inck</f> will get into the Hollows of the <f type="i">Face</f> of the 
+<f type="i">Letter</f>: And that getting in of the <f type="i">Inck</f> is called 
+<f type="i">Choaking</f> of the <f type="i">Letter</f>, or <f type="i">Choaking</f> of the <f type="i">Form</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="claw, sheep's foot(n)"><f type="i">Claw</f> of the <f type="i">Sheeps-foot. </f></form> <xpln><xref type="ex_section">See &sect; 11. &para; 20. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proof, clean(n)"><f type="i">Clean Proof: </f></form> <xpln>When a <f type="i">Proof</f> has but few Faults in it, 
+it is called a clean <f type="i">Proof</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matter, close(n)"><f type="i">Close Matter. </f></form> <xpln><f type="i">Matter</f> with few <f type="i">Breaks</f> or <f type="i">Whites</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, close(n)"><f type="i">Close Work. </f></form> <xpln>ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="book, collation(n)"><f type="i">Colation Books. </f></form> <xpln><xref type="ex_section">See &sect; 25. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="come(v)"><f type="i">Come. </f></form> <xpln>When the <f type="i">Face</f> and <f type="i">Shank</f> of a <f type="i">Letter</f> is 
+<f type="i">Cast</f> perfect, <f type="i">Founders</f> say, <f type="i">It Comes well</f>; if unper&shy;
+fect they say, It does not come, or <f type="i">It comes not well</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="come down(v)"><f type="i">Come Down. </f></form> <xpln>the <f type="i">Toe</f> of the <f type="i">Spindle</f> is said to <f type="i">Come 
+down</f> by <f type="i">Pulling</f> the <f type="i">Bar</f>: So is the <f type="i">Bar</f> when it is 
+<f type="i">Pull'd</f> near the hither <f type="i">Cheek</f>: Also, the <f type="i">Press-man</f> is 
+said to <f type="i">Come down the Form</f> with his <f type="i">Balls</f>: <xref type="ex_section">For which 
+See &sect; 24. &para; 13. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="companion(n)"><f type="i">Companion. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="come off(v)"><f type="i">Comes off: </f></form> <xpln>A <f type="i">Form</f> that receives a good <f type="i">Impression</f>, 
+<f type="i">Comes off well</f>, if a bad <f type="i">Impression</f>, it <f type="i">Comes off ill</f>, or 
+it <f type="i">Comes not well off</f>: Also a phrase used in <f type="i">Gathering</f> 
+of <f type="i">Books</f>; for a <f type="i">Heap</f> that is <f type="i">Gathered off</f> is said to 
+<f type="i">Come off</f>. <xref type="ex_section">See &sect; 25. &para; 3. Vol. 2.</xref></xpln></wordentry>
+</page>
+
+<page sig="ddd1r">
+<wordentry type="h"><form lexeme="rule, composing(n)"><f type="i">Composing Rule. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compositor(n)"><f type="i">Compositer. </f></form> <xpln>He that <f type="i">Composes</f> or <f type="i">Sets</f> the <f type="i">Letters</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stick, composing(n)"><f type="i">Composing-stick. </f></form> <xpln><xref type="ex_section">See &sect; 9. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="copy-money(n)"><f type="i">Copy-money. </f></form> <xpln>See Customs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quire, cording(n)"><f type="i">Cording-quire. </f></form> <xpln><xref type="ex_section">See &sect; 25. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="correct(v)"><f type="i">Correct. </f></form> <xpln>When the <f type="i">Corrector</f> reads the <f type="i">Proof</f>, or the 
+<f type="i">Compositer</f> mends the <f type="i">Faults</f> he markt in the <f type="i">Proof</f>, 
+they are both said to <f type="i">Correct</f>; the <f type="i">Correcter</f> the 
+<f type="i">Proof</f>, the <f type="i">Compositer</f> the <f type="i">Form</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stone, correcting(n)"><f type="i">Correcting-stone. </f></form> <xpln><xref type="ex_section">See &sect; 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="correction(n)"><f type="i">Corrections, </f></form> <xpln>the <f type="i">Letters</f> markt in a <f type="i">Proof</f> are call'd 
+<f type="i">Corrections</f>. <xref type="ex_section">See &sect; 22. &para; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="punch, counter(n)"><f type="i">Counter Punch. </f></form> <xpln><xref type="ex_section">See &sect; 13. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="count off copy(v)"><f type="i">Counting off Copy. </f></form> <xpln><xref type="ex_section">See &sect; 22. &para; 9. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quoyn(n)"><f type="i">Coyns. </f></form> <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="iron, cramp(n)"><f type="i">Cramp Irons. </f></form> <xpln><xref type="ex_section">See &sect; 11. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cross, long(n)" lexeme="cross, short(n)"><f type="i">Cross Long, Short. </f></form> <xpln><xref>See <f type="i">Chase</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cull paper(v)"><f type="i">Cull Paper. </f></form> <xpln><xref type="ex_section">See &sect; 25. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cut the frisket(v)"><f type="i">Cut the Frisket. </f></form> <xpln><xref type="ex_section">See &sect; 24. &para; 7. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">D
+
+<wordentry type="h"><form lexeme="dance(v)"><f type="i">Dance. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dele(v)"><f type="i">Dele. </f></form>  <xpln><xref type="ex_section">See &sect; 23. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="distribute(v)"><f type="i">Destribute. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stick, distributing(n)"><f type="i">Destributing-stick. </f></form> <xpln><xref type="ex_section">See ibid.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="devil(n)"><f type="i">Devil. </f></form> <xpln>The <f type="i">Press-man</f> sometimes has a Week-Boy 
+to <f type="i">Take Sheets</f>, as they are Printed off the <f type="i">Tympan</f>: 
+These Boys do in a Printing-House, commonly black 
+and Dawb themselves; whence the Workmen do Jo&shy;
+cosely call them <f type="i">Devils</f>; and sometimes <f type="i">Spirits</f>, 
+and sometimes <f type="i">Flies</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="direction(n)"><f type="i">Direction, </f></form> <xpln>the word that stands alone on the 
+Right Hand in the bottom <f type="i">Line</f> of a <f type="i">Page</f>.</xpln></wordentry>
+</page>
+
+<page sig="ddd1v">
+<wordentry type="h"><form lexeme="line, direction(n)"><f type="i">Direction-line. </f></form> <xpln>The <f type="i">Line</f> the <f type="i">Direction</f> stands in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="letter, double(n)"><f type="i">Double Letter. </f></form> <xpln>&aelig; &oelig; &stlig; &shlig;, and several others <f type="i">Cast</f> 
+on one <f type="i">Shank</f> are called <f type="i">Double Letters</f>: &longs; and f have 
+several <f type="i">Ascending Letters</f> joyned to them, because 
+their <f type="i">Beaks</f> hanging over their <f type="i">Stems</f> would (were 
+they not <f type="i">Cast</f> on one <f type="i">Shank</f>) ride upon the tops of the 
+<f type="i">Stems</f> of the adjoyning ascending <f type="i">Letter</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="double(n)"><f type="i">Double. </f></form> <xpln>A Sheet that is twice <f type="i">Pulled</f> and lifted 
+never so little off the <f type="i">Form</f> after it was first <f type="i">Pulled</f>, 
+does most commonly (through the Play of the <f type="i">Joynts</f> 
+of the <f type="i">Tympan</f>) take a double <f type="i">Impression</f>: This Sheet 
+is said to <f type="i">Double</f>. Or if the <f type="i">Press-man Run in</f> so, as 
+the Fore-side of the <f type="i">Plattin</f> Print with the <f type="i">First Pull</f> 
+into part of the <f type="i">Second Pull</f>, or the hind edge of the 
+<f type="i">Plattin Print</f> with his <f type="i">Second Pull</f> into part of his 
+<f type="i">First Pull</f>; either of these twice Printing is called 
+<f type="i">Doubling</f>. <f type="i">Doubling</f> also happens through the loose 
+<f type="i">Hanging</f> of the <f type="i">Plattin</f>, and through too much play 
+the Tennants of the <f type="i">Head</f> may have in the <f type="i">Mortesses</f> 
+of the <f type="i">Cheeks</f>, and indeed through many Wearings 
+and crasienesses that often happens in several parts 
+of the <f type="i">Press</f>. <xref type="ex_section">See &sect; 24.&para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dress chase(v)" lexeme="dress form(v)"><f type="i">Dress a Chase, or Dress a Form, </f></form> <xpln>is all one. It is 
+to fit the <f type="i">Pages</f> and the <f type="i">Chase</f> with <f type="i">Furniture</f> and 
+<f type="i">Quoins</f>. <xref type="ex_section">See &sect; 22. &para; 7.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dress letter(v)"><f type="i">Dress Letter. </f></form>  <xpln><xref type="ex_section">See &sect; 21. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="block, dressing(n)"><f type="i">Dressing Block. </f></form>  <xpln><xref type="ex_section">See &sect; 20. &para; 3.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="block-groove, dressing(n)"><f type="i">Dressing Block-groove. </f></form> <xpln type="ex_section">ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hook, dressing(n)"><f type="i">Dressing Hook. </f></form>  <xpln><xref type="ex_section">See &sect; 20. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knife, dressing(n)"><f type="i">Dressing Knife. </f></form>  <xpln><xref type="ex_section">See &sect; 20. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stick, dressing(n)"><f type="i">Dressing Sticks. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="drive out(v)"><f type="i">Drive out. </f></form> <xpln>When a <f type="i">Compositer Sets Wide</f>, he is said 
+</page>
+
+<page sig="ddd2r">
+to <f type="i">Drive out</f> or <f type="i">Run out</f>. In <f type="i">Founding</f>, If <f type="i">Letter</f> be 
+<f type="i">Cast</f> too Thick in the <f type="i">Shank</f> it <f type="i">Drives out</f>, or if it be 
+<f type="i">Cast</f> too Thick in any part of the <f type="i">Shank</f>, as the <f type="i">Head</f>, 
+the <f type="i">Foot</f>, the sides at <f type="i">Head</f> or <f type="i">Foot</f>, or <f type="i">Body</f> at <f type="i">Head</f> 
+or <f type="i">Foot</f>: They say, <f type="i">It Drives out at Head</f>, <f type="i">It Drives 
+out at Foot</f>, &c.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">E
+
+<wordentry type="h"><form lexeme="case, empty(n)"><f type="i">Empty Case. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 3. & <f type="i">See Case is Low</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, easy(n)"><f type="i">Easie Pull. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, easy(n)"><f type="i">Easie Work. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4.</xref> And <f type="i">Great Letter</f> and 
+a <f type="i">Small Form</f> the <f type="i">Press-man</f> calls <f type="i">Easie Work</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press, empty(n)"><f type="i">Empty Press. </f></form> <xpln>A <f type="i">Press</f> that Stands by, which no 
+Workman Works at: Most commonly every <f type="i">Print&shy;
+ing House</f> has one of them for a <f type="i">Proof-Press</f>: viz. to 
+make <f type="i">Proves</f> on.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="body, English(n)"><f type="i">English Body. </f></form>  <xpln><xref type="ex_section">See &sect; 1. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="face, English(n)"><f type="i">English Face. </f></form> <xpln>Plate 26. 27. are <f type="i">English Face Letters</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="page, even(n)"><f type="i">Even Page. </f></form> <xpln>The <f type="i">First Page</f> of a <f type="i">Sheet</f> or <f type="i">Form</f> is 
+called an <f type="i">Odd Page</f>, but the <f type="i">Second</f>, <f type="i">Fourth</f>, <f type="i">Sixth</f>, 
+or any other even numbred <f type="i">Page</f> is called an <f type="i">Even 
+Page</f>. <xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">F
+
+<wordentry type="h"><form lexeme="face, of letter(n)"><f type="i">Face of a Letter, </f></form>  <xpln><xref type="ex_section">See &sect; 13. &para; 13. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="face, of page(n)" lexeme="face of a form(n)"><f type="i">Face of a Page, or Form. </f></form> <xpln>The Superficies of a <f type="i">Page</f> 
+or <f type="i">Form</f>, where the <f type="i">Faces</f> of every <f type="i">Letter</f> lies in the 
+same Plain.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="face-gauge(n)"><f type="i">Face-Gage. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="face, of matrix(n)"><f type="i">Face of a Matrice. </f></form>  <xpln><xref type="ex_section">See &sect; 17. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ashes, fat(n)"><f type="i">Fat ashes. </f></form> <xpln><f type="i">Founders</f> call their Ashes <f type="i">Fat</f>, if they 
+are considerably Heavy, because then they have 
+much <f type="i">Mettle</f> in them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fat(a)"><f type="i">Fat. </f></form> <xpln><xref>See <f type="i">Beat Fat</f>.</xref></xpln></wordentry>
+</page>
+
+<page sig="ddd2v">
+<wordentry type="h"><form lexeme="face, fat(n)" lexeme="letter, fat(n)"><f type="i">Fat Face</f>, or <f type="i">Fat Letter, </f></form> <xpln>is a broad Stemmed 
+<f type="i">Letter</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, female(n)" lexeme="screw, female(n)"><f type="i">Female Gage, Screws</f>, &c. </form> <xpln lexeme="gauge, hollow(n)" lexeme="screw, hollow(n)"><f type="i">The <f type="i">Hollow Gage</f>, or 
+<f type="i">Hollow Screw</f> that receives its <f type="i">Match Gage</f> or <f type="i">Screw</f>, 
+&c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="first(n)"><f type="i">First. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="form, first(n)"><f type="i">First Form. </f></form> <xpln>The <f type="i">Form</f> the <f type="i">White Paper</f> is Printed 
+on, which generally by Rule ought to have the <f type="i">First 
+Page</f> of the Sheet in it.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="page, first(n)"><f type="i">First Page. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, first(n)"><f type="i">First Pull. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 16. & &sect; 24. &para; 7. 
+Conside&shy;
+rations 8 & &sect; 24. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, flat(n)"><f type="i">Flat-Gage. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="table, flat(n)"><f type="i">Flat Table. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fly(n)"><f type="i">Fly. </f></form> <xpln><xref>See <f type="i">Devil</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="follow(n)"><f type="i">Follow. </f></form> <xpln>viz. <f type="i">See if it follows</f>, is a Term used as well 
+by the <f type="i">Corrector</f> as by the <f type="i">Compositer</f> and <f type="i">Press-man</f>. 
+It is used by the <f type="i">Corrector</f> and <f type="i">Compositer</f> when they 
+examine how the beginning <f type="i">Matter</f> of a succeeding 
+<f type="i">Page</f> agrees with the ending <f type="i">Matter</f> of the precedent 
+<f type="i">Page</f>: And how the <f type="i">Folio's</f> of those <f type="i">Pages</f> properly 
+and numerically follow and succeed one another, 
+Lest the <f type="i">Pages</f> should be <f type="i">Transposed</f>. But the <f type="i">Press&shy;
+man</f> only examines that the <f type="i">Folio</f> and beginning word 
+of the <f type="i">Second Page</f>, and <f type="i">Signature</f> of the <f type="i">First</f> and 
+<f type="i">Third Page</f> (when the <f type="i">Reteration</f> is on the <f type="i">Press</f>) fol&shy;
+lows the <f type="i">Folio</f> and <f type="i">Direction</f> of the <f type="i">First Page</f>, and 
+the <f type="i">Signature</f> of the <f type="i">Third Page</f> follows the <f type="i">Signature</f> 
+of the <f type="i">First Page</f>, orderly according to the Volumne, 
+lest the <f type="i">Form</f> should be laid wrong on the <f type="i">Press</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foot, of letter(n)"><f type="i">Foot of the Letter. </f></form> <xpln>The <f type="i">Break-end</f> of the <f type="i">Shanck</f> of 
+a <f type="i">Letter</f>.</xpln></wordentry>
+</page>
+
+<page sig="ddd3r">
+<wordentry type="h"><form lexeme="foot-line(n)"><f type="i">Foot-line. </f></form>  <xpln><xref type="ex_section">See &sect; 14. &para; 12. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foot, of page(n)"><f type="i">Foot of a Page. </f></form> <xpln>The bottom or end of a <f type="i">Page</f>. <xref type="ex_section">See 
+&sect; 22. &para; 7.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="footstep(n)"><f type="i">Foot-Step. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 21 & &sect; 24. &para; 7. Con&shy;
+siderations 11. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foot-stick(n)"><f type="i">Foot-stick. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="form(n)"><f type="i">Form. </f></form> <xpln>The <f type="i">Pages</f> when they are fitted into a <f type="i">Chase</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proof, foul(n)"><f type="i">Foul Proof: </f></form> <xpln>When a <f type="i">Proof</f> has many <f type="i">Faults</f> markt 
+in it.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fount(n)"><f type="i">Fount. </f></form> <xpln>Is the whole number of <f type="i">Letters</f> that are <f type="i">Cast</f> 
+of the same <f type="i">Body</f> and <f type="i">Face</f> at one time. <xref type="ex_section">See &sect; 2. &para; 2.
+Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="frisket(n)"><f type="i">Frisket. </f></form>  <xpln><xref type="ex_section">See &sect; 10.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="froze out(v)"><f type="i">Froze out. </f></form> <xpln>In Winter when the Paper is Froze, and 
+the <f type="i">Letter</f> Froze, so as the Workmen cannot Work. 
+They say, <f type="i">They are Froze out</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fryer(n)"><f type="i">Fryer. </f></form> <xpln>When the <f type="i">Balls</f> do not <f type="i">Take</f>, the <f type="i">Un-taking</f> 
+part of the <f type="i">Balls</f> that touches the <f type="i">Form</f> will be left 
+White, or if the <f type="i">Press-men</f> Skip over any part of the 
+<f type="i">Form</f>, and touch it not with the <f type="i">Balls</f>, though they 
+do <f type="i">Take</f>, yet in both these cases the White places 
+is call'd a <f type="i">Fryer</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="form, form(n)" lexeme="page, full(n)"><f type="i">Full Form or Page. </f></form> <xpln>A <f type="i">Form</f> or <f type="i">Page</f> with few or 
+no <f type="i">Breaks</f> or <f type="i">White-lines</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press, full(n)"><f type="i">Full Press. </f></form> <xpln>When two Men Work at the <f type="i">Press</f>. It 
+is called a <f type="i">Full Press</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furnace(n)"><f type="i">Furnace. </f></form>  <xpln><xref type="ex_section">See &sect; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furnace, open(n)" lexeme="furnace, wind(n)"><f type="i">Furnace open</f>, or <f type="i">Wind Furnace. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 2.
+Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="funnel(n)"><f type="i">Funnel. </f></form>  <xpln><xref type="ex_section">See &sect; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furniture(n)"><f type="i">Furniture. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="ddd3v">
+<wordgroup1 type="a" object="g">G
+
+<wordentry type="h"><form lexeme="gauge(n)"><f type="i">Gage. </f></form> <xpln>Gages mentioned in this Volumne have an 
+adjunct Name, as <f type="i">Flat Gage, Joynt Gage, Italick 
+Gage, Long Gage, Male Gage, Short Gage, Standing 
+Gage, Steel Gage</f>, which See respectively.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="galley(n)"><f type="i">Galley. </f></form>  <xpln><xref type="ex_section">See &sect; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="galley-slave(n)"><f type="i">Galley-Slave. </f></form> <xpln>See the Customs. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gallows(n)"><f type="i">Gallows. </f></form>  <xpln><xref type="ex_section">See &sect; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="garter(n)"><f type="i">Garter. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 14. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gather books(n)"><f type="i">Gather Books. </f></form>  <xpln><xref type="ex_section">See &sect; 25. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="geat(n)"><f type="i">Geat, </f></form> <xpln>is the little Spout or Gutter made in the Brim 
+of <f type="i">Casting Ladles</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="get in(v)"><f type="i">Get in. </f></form> <xpln><f type="i">Matter</f> is <f type="i">Got in</f> in a <f type="i">Line</f>, <f type="i">Page</f>, <f type="i">Sheet</f> or 
+<f type="i">Book</f>, if <f type="i">Letter</f> be Thinner <f type="i">Cast</f> than the <f type="i">Printed 
+Copy</f> the <f type="i">Compositer Sets</f> by. Or <f type="i">Matter</f> is <f type="i">Got in</f> if 
+the <f type="i">Compositer Sets Closer</f>: Or if he <f type="i">Widens</f> his <f type="i">Mea&shy;
+sure</f>; or puts more <f type="i">Lines</f> in a <f type="i">Page</f>. <xref>See a <f type="i">Line</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="girt(n)"><f type="i">Girts. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 21. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colour, good(n)"><f type="i">Good Colour. </f></form> <xpln>Sheets Printed neither to Black or 
+too White.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="good, of chapel(n)"><f type="i">Good of the Chappel. </f></form> <xpln>Forfeitures and other <f type="i">Chappel</f> 
+Dues are Collected for the <f type="i">Good of the Chappel</f>, viz. 
+to be spent as the <f type="i">Chappel</f> approves.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, good(n)"><f type="i">Good Work, </f></form> <xpln>is called so in a twofold sense: The 
+Master-Printer calls it <f type="i">Good Work</f> when the <f type="i">Composi&shy;
+ters</f> and <f type="i">Press-men</f> have done their duty; and the 
+Work-men call it <f type="i">Good Work</f>, if it be <f type="i">Light Easie 
+Work</f>, and they have a good price for it.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="go up the form(n)"><f type="i">Go up the Form. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 13. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cannon, great(n)"><f type="i">Great Cannon. </f></form>  <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="number, great(n)"><f type="i">Great Numbers. </f></form> <xpln><xref type="ex_section">See <f type="i">Lay on</f>.</xref> Above 2000 Prin&shy;
+ted on one Sheet are accounted <f type="i">Great Numbers</f>.</xpln></wordentry>
+</page>
+
+<page sig="ddd4r">
+<wordentry type="h"><form lexeme="primmer, great(n)"><f type="i">Great Primmer. </f></form>  <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gutter-stick(n)"><f type="i">Gutter-stick. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">H
+
+<wordentry type="h"><form lexeme="hag(n)"><f type="i">Hag. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="line, half a(n)"><f type="i">Half a Line. </f></form> <xpln>When <f type="i">Letter Drives out</f> or <f type="i">Gets in</f> in 
+the <f type="i">Body</f>, in a number of <f type="i">Lines</f>, <f type="i">Founders</f> say, <f type="i">It 
+Drives out or Gets in</f> Half a <f type="i">Line</f>, a whole <f type="i">Line</f>, a quarter 
+of a <f type="i">Line</f>, &c. <f type="i">viz. Half a Body</f>, a <f type="i">whole Body</f>, a quar&shy;
+ter, &c. of a <f type="i">Body</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press, half a(n)"><f type="i">Half a Press. </f></form> <xpln>When but one Man Works at the 
+<f type="i">Press</f>, It is called <f type="i">Half a Press</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, half(n)"><f type="i">Half Work. </f></form> <xpln>He that Works but three days in the
+Week, does but <f type="i">Half Work</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="end, hammer, of punch(n)"><f type="i">Hammer end of a Punch. </f></form>  <xpln><xref type="ex_section">See &sect; 13. &para; 13. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hang(v)"><f type="i">Hangs. </f></form> <xpln>See <xref><f type="i">Letter Hangs</f></xref>. & <xref type="ex_section">&sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hang platen(v)"><f type="i">Hang the Plattin. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hang up paper(v)"><f type="i">Hang up Paper. </f></form>  <xpln><xref type="ex_section">See &sect; 25. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ink, hard(n)"><f type="i">Hard Inck. </f></form> <xpln><f type="i">Inch very well Boyled.</f> <xref type="ex_section">See &sect; 11. &para; 23.
+Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justifying, hard(n)"><f type="i">Hard Justifying. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, hard(n)"><f type="i">Hard Pull. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, hard(n)"><f type="i">Hard Work. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4</xref> And small <f type="i">Letter</f> and 
+a <f type="i">Large Form</f>, <f type="i">Press-men</f> call <f type="i">Hard Work</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="head(n)"><f type="i">Head. </f></form>  <xpln><xref type="ex_section">See &sect; 10. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="line, head(n)"><f type="i">Head Line. </f></form> <xpln><xref type="ex_section">See &sect; 14. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="head, of page(n)"><f type="i">Head of a <f type="i">Page</f>. </f></form> <xpln>The top or beginning of a Page. 
+<xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="head-stick(n)"><f type="i">Head-stick. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="heap(n)"><f type="i">Heap. </f></form> <xpln>So many Reams or Quires as is <f type="i">Set out</f> by 
+the <f type="i">Warehouse-keeper</f>- for the <f type="i">Press-man</f> to <f type="i">Wet</f>, is 
+call'd a <f type="i">Heap</f>: But then it is call'd a <f type="i">Dry Heap</f>, till 
+the <f type="i">Press-man</f> have <f type="i">Wet</f> it, and then it is indeed called 
+a <f type="i">Heap</f>. <xref type="ex_section">See also &sect; 25.</xref></xpln></wordentry>
+</page>
+
+<page sig="ddd4v">
+<wordentry type="h"><form lexeme="hold out, heap(v)"><f type="i">Heap holds out. </f></form> <xpln>When it hath its full intended 
+Number of Sheets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, heavy(n)"><f type="i">Heavy Work. </f></form> <xpln><xref>See <f type="i">Hard Work</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="height(n)"><f type="i">Heighth. </f></form> <xpln><xref>See <f type="i">High against Paper</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="high, against paper(a)"><f type="i">High against Paper. </f></form> <xpln>If a <f type="i">Punch</f> be not Sunk deep 
+enough into the <f type="i">Matrice</f>, the <f type="i">Letter Cast</f> will not 
+stand high enough against Paper. And if it be Sunk 
+too deep into the <f type="i">Matrice</f>, the <f type="i">Letter Cast</f> will be 
+too <f type="i">High</f> against Paper. <xref type="ex_section">See &sect; 17. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hold out(v)"><f type="i">Holds out</f>, or <f type="i">Holds not out. </f></form> <xpln>These Terms are 
+applicable to the Quires of <f type="i">White-paper</f>, to <f type="i">Wrought&shy;
+off Heaps</f>, to <f type="i">Gathered Books</f>, and to sorts of <f type="i">Letter</f> 
+&c. If Quires of White Paper have twenty five 
+Sheets a piece in them, they say, <f type="i">The Paper holds 
+out five and twenties</f>. Of <f type="i">Wrought off Heaps</f>, the 
+<f type="i">Heap</f> that <f type="i">Comes off</f> first in <f type="i">Gathering</f> is said, <f type="i">Not to 
+Hold out</f>. Of <f type="i">Gathered Books</f>, if the intended num&shy;
+ber of perfect <f type="i">Books</f> are <f type="i">Gathered</f>, they say the <f type="i">Im&shy;
+pression Holds out</f>: But if the intended number of 
+Perfect Books cannot be Gathered off the Heaps, they 
+say the Impression Holds not out. And so for Sorts of 
+<f type="i">Letter</f>, either when it is in the <f type="i">Founding House</f>, or 
+in the <f type="i">Printing House</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hole(n)"><f type="i">Hole. </f></form> <xpln>By a <f type="i">Hole</f>, in Printers dialect, is meant and 
+understood a place where private Printing is used, 
+viz. the Printing of Unlicensed <f type="i">Books</f>, or Printing 
+of other mens <f type="i">Copies</f>. Many Printers for Lucre of 
+Gain have gone into <f type="i">Holes</f>, and then their chief 
+care is to get a <f type="i">Hole</f> Private, and Workmen Trusty 
+and Cunning to conceal the <f type="i">Hole</f>, and themselves.
+Holy-days. <xref type="ex_section">See Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hollows, of letter(n)"><f type="i">Hollows of a Letter. </f></form> <xpln>The <f type="i">Sinking in</f> of the <f type="i">Coun</f>&shy;
+</page>
+
+<page sig="eee1r">
+<f type="i">ter-Punch</f> into the <f type="i">Punch</f> makes these <f type="i">Hollows</f>, so does 
+Sculping into the <f type="i">Face</f> of the <f type="i">Punch</f>. <xref type="ex_section">See &sect; 9. &para; 4.
+Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hook(n)"><f type="i">Hooks. </f></form> <xpln><xref target="hag">See <f type="i">Hags</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horse(n)"><f type="i">Horse. </f></form> <xpln>The Form or Bench <f type="i">Press-men</f> set the <f type="i">Heaps</f> 
+of Paper on. <xref type="ex_section">See also Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horse-flesh(n)"><f type="i">Horse-flesh. </f></form> <xpln>If any Journeyman set down in his 
+Bill on <f type="i">Saturday</f> Night more Work than he has done, 
+that Surplusage is called <f type="i">Horse-flesh</f>: And he abates 
+it in his next Bill.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hose(n)"><f type="i">Hose. </f></form>  <xpln><xref type="ex_section">See &sect; II. &para; 14. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hours(n)"><f type="i">Hours. </f></form> <xpln><f type="i">Press-men</f> reckon their Work by Hours, 
+accounting every <f type="i">Token</f> to an Hours Work: And 
+though it be the same effectually with <f type="i">Tokens</f>, yet 
+they make their prizes of different Work by the 
+Hour; and it passes current for a <f type="i">Token</f>. If two Men 
+Work at the <f type="i">Press</f> ten Quires is an Hour; if one 
+Man, five Quires is an Hour.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">I
+
+<wordentry type="h"><form lexeme="jaws(n)"><f type="i">Jaws. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imperfection, of book(n)"><f type="i">Imperfections of Books. </f></form>  <xpln><xref type="ex_section">See &sect; 25. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="imperfection, of letter(n)"><f type="i">Imperfections of Letters. </f></form> <xpln>When the <f type="i">Founder</f> has not 
+<f type="i">Cast</f> a proportionable number of each sort of <f type="i">Letter</f>, 
+the wanting <f type="i">Letters</f> are called <f type="i">Imperfections</f>, as making 
+the rest of the <f type="i">Fount</f> unperfect. <xref>See <f type="i">Sorts</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impose(v)"><f type="i">Impose. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hold out(v), impression">Impression holds out. </f></form> <xpln><xref>See <f type="i">Holds out</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="in-page(n)"><f type="i">In-Page. </f></form> <xpln><xref>See <f type="i">Out-Page</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="insertion(n)"><f type="i">Insertion. </f></form> <xpln>If the <f type="i">Compositer</f> have left out Words or 
+<f type="i">Lines</f>, the <f type="i">Corrector</f> inserts it, and makes this mark 
+&highcaret; where it is <f type="i">Left out</f> , which is called the mark for 
+<f type="i">Insertion. <xref type="ex_section">See &sect; 23. Vol. 2.</xref></xpln></wordentry>
+</page>
+
+<page sig="eee1v">
+<wordentry type="h"><form lexeme="gauge, joint flat(n)"><f type="i">Joynt flat Gage. </f></form>  <xpln><xref type="ex_section">See &sect; 14. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="joint(n)"><f type="i">Joynts. </f></form>  <xpln><xref type="ex_section">See &sect; 10. &para; 9. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tympan, inner(n)"><f type="i">Inner Tympan. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, italic(n)"><f type="i">Italick Gage. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justify, matrix(v)"><f type="i">Justifie a Matrice. </f></form>  <xpln><xref type="ex_section">See &sect; 17. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justify, mold(v)"><f type="i">Justifie a Mold. </f></form>  <xpln><xref type="ex_section">See &sect; 16 (p. 146). Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justify, stick(v)"><f type="i">Justifie a Stick. </f></form> <xpln>viz. a <f type="i">Composing-stick</f>. <xref type="ex_section">See &sect; 22. &para; 4.
+Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k">K
+
+<wordentry type="h"><form lexeme="keep in(v)"><f type="i">Keep in, </f></form> <xpln>is a caution either given to, or resolved on, 
+by the <f type="i">Compositer</f>, when there may be doubt of 
+<f type="i">Driving out</f> his <f type="i">Matter</f> beyond his <f type="i">Counting off</f>; where&shy;
+fore he <f type="i">Sets close</f>, to <f type="i">Keep in</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="keep out(v)"><f type="i">Keep out, </f></form> <xpln>is a caution either given to or resolved 
+on, by the <f type="i">Compositer</f>, when there may be doubt of 
+<f type="i">Getting in</f> his <f type="i">Matter</f> too fast for his <f type="i">Counting off</f>: 
+Wherefore he <f type="i">Sets Wide</f>, to <f type="i">Drive</f> or <f type="i">Keep out</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kern(v)"><f type="i">Kern. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knife, kerning(n)"><f type="i">Kerning-Knife. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stick, kerning(n)"><f type="i">Kerning-stick. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sculptor, knife-backed(n)"><f type="i">Knife backt Sculptor, </f></form> <xpln>is a Sculptor with a thin edge 
+on its back.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knife-file(n)"><f type="i">Knife-file. </f></form> <xpln>A file with a thin edge.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knock up, balls(v)"><f type="i">Knock up Balls. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knock up, books(v)"><f type="i">Knock up Books. </f></form>  <xpln><xref type="ex_section">See &sect; 25. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knock up, letter(v)"><f type="i">Knock up a Letter. </f></form> <xpln>It sometimes happens with 
+old <f type="i">Letter</f>, that a <f type="i">Letter</f> may be worn so low that 
+it will not Print well in a <f type="i">Page</f>: The Workman 
+then takes that <f type="i">Letter</f> out of the <f type="i">Form</f>, and holds 
+the <f type="i">Shank</f> of it upon the side of the <f type="i">Chase</f>, and with 
+the <f type="i">Head</f> of the <f type="i">Shooting-stick</f> beats lightly upon 
+the <f type="i">Foot</f> of the <f type="i">Shank</f>, till he have battered <f type="i">Mettle</f> 
+</page>
+
+<page sig="eee2r">
+enough out of the <f type="i">Shank</f>, to raise it higher against 
+Paper: If it prove too high against Paper, he Rubs 
+the bottom of the Shank upon the side of the <f type="i">Chase</f> 
+to rub it down: This Operation seldom happens, 
+unless another of the same sort of <f type="i">Letter</f> is wanting, 
+and hard to come by: For else the <f type="i">Compositer</f> will 
+bow the <f type="i">Letter</f>, and pop it into a Waste <f type="i">Box</f> in his 
+<f type="i">Case</f>, where he puts all naughty <f type="i">Letters</f>, that he 
+may not be troubled with them another time.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="knot(n)"><f type="i">Knot. </f></form>  <xpln><xref type="ex_section">See &sect; 20. &para; 3. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">L
+
+<wordentry type="h"><form lexeme="ladle(n)"><f type="i">Ladles. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lay in, sheets(v)"><f type="i">Lay in Sheets. </f></form> <xpln>When the <f type="i">Press-man</f> lays <f type="i">Sheets</f> 
+on the <f type="i">Tympan</f>, it is stiled <f type="i">Laying in Sheets</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lay out, sheets(n)"><f type="i">Lay out Sheets. </f></form> <xpln>When the <f type="i">Press-man</f> takes <f type="i">Sheets</f> 
+off the <f type="i">Tympan</f>, and lays them on the <f type="i">Heap</f>, it is 
+stiled <f type="i">Laying out Sheets</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lay on(v)"><f type="i">Lay on. </f></form> <xpln>A phrase used for the Number of Books 
+to be Printed. Thus they say, There is 1000, 
+2000, 3000, &c. <f type="i">Laid on</f>. <xref>See <f type="i">Great Numbers</f>.</xref> <xref target="small numbers">See 
+<f type="i">Small Numbers</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ashes, lean(n)"><f type="i">Lean ashes. </f></form> <xpln>Founders call their Ashes <f type="i">Lean</f>, if they 
+are <f type="i">Light</f>; because then they have little <f type="i">Mettle</f> in 
+them. See <f type="i">Fat Ashes</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lean(a)"><f type="i">Lean. </f></form> <xpln><xref>See <f type="i">Beat Lean</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="face, lean(n)"><f type="i">Lean Face. </f></form> <xpln>A Letter whose Stems and other 
+Stroaks have not their full width.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stroke, lean(n)"><f type="i">Lean Stroaks. </f></form> <xpln>The fine Stroaks in a Letter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="groove, leather(n)"><f type="i">Leather Groove. </f></form>  <xpln><xref type="ex_section">See &sect; 17. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="letter-board(n)"><f type="i">Letter-Board. </f></form>  <xpln><xref type="ex_section">See &sect; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hang, letter(v)"><f type="i">Letter Hangs. </f></form> <xpln>If the <f type="i">Compositer</f> has been careless 
+in Emptying his <f type="i">Composing-stick</f>, so as to set the <f type="i">Letter</f> 
+</page>
+
+<page sig="eee2v">
+loosely down in the <f type="i">Galley</f>, and they stand not per&shy;
+fectly Square and Upright, the <f type="i">Letter</f> Hangs: Or 
+if after <f type="i">Overrunning</f> on the <f type="i">Correcting-stone</f> he has 
+not Set his <f type="i">Letter</f> in a Square position again, before 
+he <f type="i">Locks up</f>, (for we may suppose when the <f type="i">Pages</f> 
+are Open'd the <f type="i">Letter</f> stands Loose, and more or 
+less out of Square) So then, the <f type="i">Matter</f> standing 
+thus out of Square, is said to <f type="i">Hang</f>. <xref type="ex_section">See &sect; 22. &para; 4, 7.
+Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, light(n)"><f type="i">Light Work. </f></form> <xpln><xref>See <f type="i">Easie Work</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="liner(n)"><f type="i">Liner. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stick, lining(n)"><f type="i">Lining-Stick. </f></form>  <xpln><xref type="ex_section">See &sect; 16. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lock up(v)"><f type="i">Lock up. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &sect; 7. and &sect; 21. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cross, long(n)"><f type="i">Long Cross. </f></form> <xpln><xref>See <f type="i">Chase</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, long(n)"><f type="i">Long Gage. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="primmer, long(n)"><f type="i">Long Primmer. </f></form> <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, long(n)"><f type="i">Long Pull. </f></form>  <xpln><xref type="ex_section">See &sect; 24 &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justifying, loose(n)"><f type="i">Loose Justifying. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="low, against paper(a)"><f type="i">Low against Paper. </f></form> <xpln><xref target="high against paper">See <f type="i"><emend err="Heigth">Heighth</emend> against Paper</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="case, low(n)"><f type="i">Low Case. </f></form> <xpln>When the <f type="i">Compositer</f> has <f type="i">Compos'd</f> al&shy;
+most all his <f type="i">Letters</f> out of his <f type="i">Case</f>, he says his <f type="i">Case</f> 
+is <f type="i">Low</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="case, lower(n)"><f type="i">Lower Case. </f></form>  <xpln><xref type="ex_section">See &sect; 3. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">M
+
+<wordentry type="h"><form lexeme="em-thick(a)"><f type="i">m Thick. </f></form>  <xpln><xref type="ex_section">See &sect; 13. &para; 1.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="make, measure(v)"><f type="i">Make a Measure. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="make ready(v)"><f type="i">Make ready the Form. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 7.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, male(n)"><f type="i">Male Gage. </f></form> <xpln>The outer <f type="i">Gage</f>, or outer <f type="i">Screw</f>, that 
+enters or fits into its <f type="i">Match Gage</f> or <f type="i">Screw</f>, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mallet(n)"><f type="i">Mallet. </f></form>  <xpln><xref type="ex_section">See &sect; 9. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matrix(n)"><f type="i">Matrice. </f></form>  <xpln><xref type="ex_section">See &sect; 17. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matter(n)"><f type="i">Matter. </f></form> <xpln>The series of the discourse of the <f type="i">Com&shy;
+positers Copy</f>.</xpln></wordentry>
+</page>
+
+<page sig="eee3r">
+<wordentry type="h"><form lexeme="measure(n)"><f type="i">Measure. </f></form> <xpln>The width of a <f type="i">Page</f>. <xref target="composing-stick">See <f type="i">Composing&shy;
+Stick</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metal(n)"><f type="i">Mettle. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mold(n)"><f type="i">Mold. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monk(n)"><f type="i">Monk. </f></form> <xpln>When the <f type="i">Press-man</f> has not <f type="i">Destributed</f> 
+his <f type="i">Balls</f>, some splotches of <f type="i">Inck</f> may lye on one or 
+more of them, which in <f type="i">Beating</f> he delivers upon 
+the <f type="i">Form</f>; so that the Sheet Printed on has a 
+black blotch on it: Which Blotch is ca11ed a 
+<f type="i">Monk</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mouth-piece(n)"><f type="i">Mouth-piece. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">N
+
+<wordentry type="h"><form lexeme="en-thick(a)"><f type="i">n Thick. </f></form>  <xpln><xref type="ex_section">See &sect; 13. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="form, naked(n)" lexeme="page, naked(n)"><f type="i">Naked Form</f>, or <f type="i">Page, </f></form> <xpln>is when the <f type="i">Furniture</f> is 
+taken from about all sides of the <f type="i">Form</f> or <f type="i">Page</f>. <xref type="ex_section">See 
+&sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="neck, of letter(n)"><f type="i">Neck of a Letter. </f></form> <xpln>So much of the <f type="i">Punch</f> as is Sunk 
+into the <f type="i">Matrice</f> is called the <f type="i">Neck</f>; and when that 
+<f type="i">Letter</f> is <f type="i">Cast</f> of <f type="i">Mettle</f>, it is so much as comes above 
+the Square of the <f type="i">Shank</f>, <f type="i">viz</f>. above the <f type="i">Beard</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nick(n)"><f type="i">Nick. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nonpareil(n)"><f type="i">Nomparel. </f></form>  <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="notch, of matrix(n)"><f type="i">Notch of the Matrice. </f></form>  <xpln><xref type="ex_section">See &sect; 17. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="note(n)"><f type="i">Notes. </f></form> <xpln><f type="i"><f type="i">Quotations</f> down the side of a <f type="i">Page</f> are cal&shy;
+led <f type="i">Notes</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lay on, number(v)"><f type="i">Number Laid on. </f></form> <xpln><xref>See <f type="i">Lay on</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nut, of spindle(n)"><f type="i">Nut of the Spindle. </f></form> <xpln>The <f type="i">Female Screw</f> that receives 
+the <f type="i">Worms</f> of the <f type="i">Spindle</f>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">O
+
+<wordentry type="h"><form lexeme="page, odd(n)"><f type="i">Odd Page. </f></form> <xpln>The First, Third, Fifth, Seventh, and 
+all un-even numbred <f type="i">Pages</f> are <f type="i">Odd Pages</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="off(adv)"><f type="i">Off: </f></form> <xpln>A <f type="i">Press-man</f> usually says, <f type="i">I am off</f>, meaning he 
+</page>
+
+<page sig="eee3v">
+has <f type="i">Wrought off</f> his <f type="i">Token</f>, his <f type="i">Heap</f>, his <f type="i">Form</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matter, open(n)"><f type="i">Open Matter. </f></form> <xpln>Full of <f type="i">Breaks</f> and <f type="i">Whites</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furnace, open(n)"><f type="i">Open Furnance. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 2.  Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="open form(v)"><f type="i">Open the Form. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="work, open(n)"><f type="i">Open Work. </f></form> <xpln><xref>See <f type="i">Open Matter</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="over-run(v)"><f type="i">Over-run. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="out(a)"><f type="i">Out. </f></form> <xpln>A <f type="i">Compositer</f> usually says, <f type="i">I am Out</f>, meaning 
+he has <f type="i">Set out</f> his <f type="i">Page</f>, <f type="i">Form</f>, or <f type="i">Copy</f>. <xref type="ex_section">See also &sect; 23.
+Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="out-page(n)"><f type="i">Out-Page. </f></form> <xpln>In <f type="i">Octavo's</f>, <f type="i">Twelves</f>, <f type="i">Sixteens</f>, every 
+<f type="i">Out-side Page</f> in the Sheet is called an <f type="i">Out-Page</f>, the 
+rest are called <f type="i">In-pages</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="register, out of(n)" lexeme="register, bad(n)"><f type="i">Out of Register. Bad <f type="i">Register</f>. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 7. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">P
+
+<wordentry type="h"><form lexeme="colour, pale(n)"><f type="i">Pale Colour. </f></form> <xpln>If there be not <f type="i">Blacking</f> enough in the 
+<f type="i">Inck</f>, or the <f type="i">Form</f> be <f type="i">Beaten</f> with too <f type="i">Lean Balls</f>, the 
+Work will be said to have a <f type="i">Pale Colour</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="palate(n)"><f type="i">Pallat. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pan(n)"><f type="i">Pan. </f></form> <xpln>The great <f type="i">Ladle</f> that <f type="i">Founders</f> melt their 
+<f type="i">Mettle</f> in, when they are <f type="i">Casting Letters</f>, is called the 
+<f type="i">Pan</f>. <xref type="ex_section">See also &sect; 9. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paper-bench(n)"><f type="i">Paper-bench. </f></form> <xpln><xref>See <f type="i">Horse</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paper-board(n)"><f type="i">Paper-board. </f></form>  <xpln><xref type="ex_section">See &sect; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paper the case(v)"><f type="i">Paper the Case. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paper window(n)"><f type="i">Paper Windows. </f></form> <xpln><xref type="ex_section">See Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paper up letter(v)"><f type="i">Paper up Letter. </f></form> <xpln><f type="i">Pages</f>. <xref type="ex_section">See &sect; 22. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pearl(n)"><f type="i">Pearl. </f></form>  <xpln><xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="peel(n)"><f type="i">Peel. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 22. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pelt(n)"><f type="i">Pelts. </f></form> <xpln>Sheep Skins untan'd, used for <f type="i">Ball Leathers</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pica(n)"><f type="i">Pica. </f></form>  <xpln><xref type="ex_section">See &sect;2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pick(n)"><f type="i">Picks. </f></form> <xpln>When either pieces of the Skin or Film that 
+grows on <f type="i">Inck</f> with standing by, or any dirt get into 
+</page>
+
+<page sig="eee4r">
+the <f type="i">Hollows</f> of the <f type="i">Face</f> of the <f type="i">Letter</f>, that Film or 
+Dirt will fill or choak up the <f type="i">Face</f> of the <f type="i">Letter</f>, and 
+Print Black; and is called a <f type="i">Pick</f>; because the <f type="i">Press&shy;
+man</f> with the point of a Needle, picks it out.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pigeon-hole(n)"><f type="i">Pidgeon-holes. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 24. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="platin(n)" lexeme="platin-book(n)" lexeme="platin-pan(n)" lexeme="platin-plate(n)"><f type="i">Plattin.
+Plattin-books.
+Plattin-pan.   
+Plattin-plate.</f></form> <xpln><xref type="ex_section">See &sect; 9. &para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="play, with quadrats(v)"><f type="i">Play with Quadrats. </f></form> <xpln><xref type="ex_section">See Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plow(n)"><f type="i">Plow. </f></form>  <xpln><xref type="ex_section">See &sect;20 &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="point(n)"><f type="i">Points. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 19. </xref>Also , ; : . - ? ! (') 
+[ * &sect; &dagger;, and other marks, are all by <f type="i">Printers</f> and 
+<f type="i">Founders</f> called <f type="i">Points</f>. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="point-hole(n)"><f type="i">Point-holes. </f></form> <xpln>The two Holes the <f type="i">Points</f> prick in a 
+Sheet of Paper. <xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="point-screw(n)"><f type="i">Point-Screws. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 9. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press(n)"><f type="i">Press. </f></form>  <xpln><xref type="ex_section">See &sect; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press-man(n)"><f type="i">Press-man. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="go, press(v)"><f type="i">Press goes. </f></form> <xpln>When the <f type="i">Press-men</f> are at Work, the 
+<f type="i">Press</f> is said to <f type="i">Go</f>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="go hard, press(v)" lexeme="go heavy, press(v)"><f type="i">Press goes Hard, Heavy. </f></form>  <xpln lexeme="go easy, press(v)" lexeme="go light, press(v)"><f type="i">See <xref type="ex_section">&sect; 24. &para; 5.</xref> and <f type="i">Press 
+goes Easie, Light</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stand still, press(v)"><f type="i">Press stands still. </f></form> <xpln>When the <f type="i">Press-men</f> are not at 
+Work, the <f type="i">Press</f> is said to <f type="i">stand still</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press-stone(n)"><f type="i">Press-stone. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 17. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proof(n)"><f type="i">Proof: </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proof letter(n)"><f type="i">Proof Letters. </f></form>  <xpln><xref type="ex_section">See &sect; 16. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proof press(n)"><f type="i">Proof Press. </f></form> <xpln><xref>See <f type="i">Empty Press</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="print hand(n)"><f type="i">Print Hand. </f></form> <xpln><xref type="ex_section">See Plate 11, 12, 13, 14, 15, 16, 17.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull easy(v)" lexeme="pull long(v)" lexeme="pull short(v)" lexeme="pull soft(v)"><f type="i">Pull ----- Easie, Long, Short, Soft. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 5.
+Vol. 2.</xref></xpln></wordentry>
+</page>
+
+<page sig="eee4v">
+<wordentry type="h"><form lexeme="punch(n)"><f type="i">Punch. </f></form>  <xpln><xref type="ex_section">See &sect; 13. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="py(n)"><f type="i">Py. </f></form> <xpln>when a <f type="i">Page</f> is broken, those broken <f type="i">Letters</f> 
+are called <f type="i">Py</f>. <xref>See <f type="i">Broken Letter</f>.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q">Q
+
+<wordentry type="h"><form lexeme="quadrat(n)"><f type="i">Quadrats. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quarters(n)"><f type="i">Quarters. </f></form> <xpln><f type="i">Quarto's</f>, <f type="i">Octavo's</f> and <f type="i">Twelves Forms</f> are 
+<f type="i">Imposed</f> in <f type="i">Quarters</f>. They are called <f type="i">Quarters</f>, not 
+from their equal divisions; but because they are <f type="i">Im&shy;
+posed</f> and <f type="i">Lockt up</f> apart. Thus half the <f type="i">Short-Cross</f> 
+in a <f type="i">Twelves Form</f> is called a <f type="i">Quarter</f>, though it be 
+indeed but one Sixth part of the <f type="i">Form</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quoin(n)"><f type="i">Quoins. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quadrat, quotation(n)"><f type="i">Quotation Quadrats, </f></form> <xpln>Are <f type="i">Cast</f> the heighth of the 
+<f type="i">Quotation</f>. They are <f type="i">Cast</f> of different <f type="i">Bodies</f>, that the 
+<f type="i">Compositer</f> may have choice of them to <f type="i">Justifie</f> his 
+<f type="i">Notes</f> or <f type="i">Quotations</f> exactly against the designed <f type="i">Line</f> 
+of the <f type="i">Page</f>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">R
+
+<wordentry type="h"><form lexeme="racks(n)"><f type="i">Racks. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 22. & &sect; 12. &para; 19. Vol. 2.</xref>
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rag(n)"><f type="i">Rag. </f></form> <xpln>When <f type="i">Letter Cast</f> has a Bur on any of its 
+edges, that Bur is called a <f type="i">Rag</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="register(n)"><f type="i">Register. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. & &sect; 24. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="register-sheet(n)"><f type="i">Register-sheet. </f></form> <xpln>The Sheet or Sheets Printed to 
+make <f type="i">Register</f> with.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reteration(n)"><f type="i">Reteration. </f></form> <xpln>The <f type="i">Second Form</f>, or the <f type="i">Form</f> Printed 
+on the backside of the <f type="i">White Paper</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="revise(n)"><f type="i">Revise. </f></form>  <xpln><xref type="ex_section">See &sect; 23. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ribs(n)"><f type="i">Ribs. </f></form>  <xpln><xref type="ex_section">See &sect; 10. &para; 8. & &sect; 11. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="riglet(n)"><f type="i">Riglet. </f></form> <xpln>Is a sort of <f type="i">Furniture</f> of an equal Thickness 
+al1 its Length. It is <f type="i">Quadrat</f> high, of several Thick&shy;
+nesses, viz. a <f type="i">Nomparel</f>, <f type="i">Brevier</f>, <f type="i">Long-primmer</f>, <f type="i">Pica</f>, 
+&c. Thick.</xpln></wordentry>
+</page>
+
+<page sig="fff1r">
+<wordentry type="h"><form lexeme="rinse the form(v)"><f type="i">Rince the Form. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trough, rinsing(n)"><f type="i">Rincing Trough. </f></form> <xpln>The Trough Forms are <f type="i">Rinced</f> in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rise(v)"><f type="i">Rise. </f></form> <xpln>A <f type="i">Form</f> is said to <f type="i">Rise</f>, when in Rearing it off 
+the <f type="i">Correcting-stone</f> no Letter or <f type="i">Furniture</f>, &c. stay 
+behind. <xref type="ex_section">See &sect; 22. &para; 7. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rounce(n)"><f type="i">Rounce. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 16. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="roll up ball leathers(v)"><f type="i">Rowl up the Ball Leathers. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rub letter(v)"><f type="i">Rub Letter. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rub not(v)"><f type="i">Rubs not. </f></form> <xpln>When the <f type="i">Shank</f> is <f type="i">Cast</f> too <f type="i">Thin</f>, that in 
+<f type="i">Rubbing</f> part of the <f type="i">Face</f> or the <f type="i">Topping</f> or <f type="i">Footing 
+Rubs</f> away: <f type="i">Founders</f> say, <f type="i">It does not Rub</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rub well(v)"><f type="i">Rubs well. </f></form> <xpln>When the <f type="i">Shank</f> of a <f type="i">Letter</f> has a pro&shy;
+per Thickness, <f type="i">Founders</f> say, <f type="i">It Rubs well</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rub out ink(v)"><f type="i">Rub out Inck. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 11. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rule(n)"><f type="i">Rules. </f></form> <xpln>viz. <f type="i">Brass Rules</f>. <xref type="ex_section">See &sect; 2. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="run in carriage(v)"><f type="i">Run in the Carriage. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="run on sorts(v)"><f type="i">Runs on Sorts, </f></form> <xpln>when <f type="i">Matter</f> runs much on some 
+few Sorts of <f type="i">Letters</f>, they say, <f type="i">it Runs on Sorts</f>, <xref>See 
+<f type="i">Sorts</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="run out from copy(v)"><f type="i">Run out from Copy. </f></form> <xpln><xref>See <f type="i">Drive out</f>.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">S
+
+<wordentry type="h"><form lexeme="scabbord(n)"><f type="i">Scaboard. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="second at press(n)"><f type="i">Second at the Press. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, second(n)"><f type="i">Second Pull. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 16. Considerations 8. & 
+&sect; 24 &para; 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set foul(v)"><f type="i">Sets Foul. </f></form> <xpln><xref>See <f type="i">foul Proof</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set clean(v)"><f type="i">Sets Clean. </f></form> <xpln><xref>See <f type="i">Clean Proof</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set close(n)"><f type="i">Sets Close. </f></form> <xpln><xref>See <f type="i">Get in</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set wide(v)"><f type="i">Sets Wide. </f></form> <xpln><xref>See <f type="i">Drive out</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set out paper(v)"><f type="i">Set out Paper. </f></form>  <xpln><xref type="ex_section">See &sect; 25. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set the rounce(v)"><f type="i">Set the Rounce. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="set off(v)"><f type="i">Sets off. </f></form> <xpln>Work that is newly <f type="i">Wrought off</f> at the <f type="i">Press</f> 
+</page>
+
+<page sig="fff1v">
+often <f type="i">Sets off</f> especially if it be <f type="i">Fat Beaten</f> with <f type="i">Soft 
+Inck</f>: For when it comes to be <f type="i">Beaten</f>, or sometimes 
+only hard prest by the <f type="i">Book-binder</f>, the moist <f type="i">Inck</f> 
+spreads and delates it self round about the <f type="i">Face</f> of 
+every <f type="i">Letter</f>, and sullies and stains the whole <f type="i">White 
+Paper</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shake(n)"><f type="i">Shake. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shank(n)"><f type="i">Shank, </f></form> <xpln>the square <f type="i">Mettle</f> the <f type="i">Face</f> of a <f type="i">Letter</f> stands 
+on, is called the <f type="i">Shank</f> of a <f type="i">Letter</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheep's-foot(n)"><f type="i">Sheeps-foot. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 20. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shooting-stick(n)"><f type="i">Shooting-stick. </f></form>  <xpln><xref type="ex_section">See &sect; 9. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cross, short(n)"><f type="i">Short-cross. </f></form> <xpln><xref>See <f type="i">Chase</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="page, short(n)"><f type="i">Short-Page. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="side-stick(n)"><f type="i">Side-stick. </f></form>  <xpln><xref type="ex_section">See &sect; 8. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="signature(n)"><f type="i">Signature. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sink matrix(n)"><f type="i">Sinck Matrices. </f></form> <xpln><xref>See <f type="i">Sinck Punches</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sink punch(n)"><f type="i">Sinck Punches. </f></form>  <xpln><xref type="ex_section">See &sect; 17. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="slice(n)"><f type="i">Slice. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 11. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gauge, sliding(n)"><f type="i">Sliding-Gage. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sliding socket(n)"><f type="i">Sliding-Socket. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="number, small(n)"><f type="i">Small Numbers. </f></form> <xpln>Under 1500 <f type="i">Laid on</f> is accounted 
+a <f type="i">Small Number</f>. <xref>See <f type="i">Great Numbers</f>;</xref> and <xref>See <f type="i">Lay on</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vent, smoke(n)"><f type="i">Smoak Vent. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="smout(v)"><f type="i">Smout. </f></form> <xpln lexeme="smouting(n)"><f type="i">Workmen when they are out of constant 
+Work, do sometimes accept of a Day or twos Work, 
+or a Weeks Work at another Printing-house: this 
+By-work they call <f type="i">Smouting</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, soaking(n)"><f type="i">Soaking Pull. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pull, soft(n)"><f type="i">Soft Pull. </f></form> <xpln>ibid.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ink, soft(n)"><f type="i">Soft Inck. </f></form> <xpln><f type="i">Inck</f> or <f type="i">Varnish</f> moderately boiled. <xref type="ex_section">See &sect; 
+11. &para; 23. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="solace(n)"><f type="i">Solace. </f></form> <xpln><xref type="ex_section">See Customs.</xref></xpln></wordentry>
+</page>
+
+<page sig="fff2r">
+<wordentry type="h"><form lexeme="sop the balls(v)"><f type="i">Sop the Balls. </f></form> <xpln>When a <f type="i">Press-man</f> has taken too much 
+<f type="i">Inck</f>, he is said to <f type="i">Sop the Balls</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sort(n)"><f type="i">Sorts. </f></form> <xpln>The <f type="i">Letters</f> that lye in every <f type="i">Box</f> of the 
+<f type="i">Case</f> are separately called <f type="i">Sorts</f> in <f type="i">Printers</f> and <f type="i">Foun&shy;
+ders</f> Language; Thus a is a <f type="i">Sort</f>, b is a <f type="i">Sort</f>, c is a 
+<f type="i">Sort</f>, &c.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="space, thick(n)" lexeme="space, thin(n)"><f type="i">Space Thick, Space Thin. </f></form>  <xpln><xref type="ex_section">See &sect; 12. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spindle(n)"><f type="i">Spindle. </f></form>  <xpln><xref type="ex_section">See &sect; 1. &para; 12. 16. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spirit(n)"><f type="i">Spirit. </f></form> <xpln><xref>See <f type="i">Devil</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spring(n)"><f type="i">Spring. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="squabble(v)"><f type="i">Squabble. </f></form> <xpln>A <f type="i">Page</f> or <f type="i">Form</f> is <f type="i">Squabbled</f> when the 
+<f type="i">Letter</f> of one or more Lines are got into any of the 
+adjacent <f type="i">Lines</f>; or that the <f type="i">Letter</f> or <f type="i">Letters</f> are 
+twisted about out of their square Position.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stem(n)"><f type="i">Stem. </f></form> <xpln>The strait <f type="i">Flat</f> stroaks of a straight <f type="i">Letter</f> is 
+called <f type="i">Stem</f>. <xref type="ex_section">See &sect; 14. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stick(n)"><f type="i">Stick. </f></form> <xpln>The <f type="i">Composing-stick</f> commonly so called.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stickful(a)"><f type="i">Stickfull. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="justifying, stiff(n)"><f type="i">Stiff Justifying. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pot, stirring(n)"><f type="i">Stirring-Pote. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hole, stoke(n)"><f type="i">Stoak-hole. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rod, stoking(n)"><f type="i">Stoaking-Rod. </f></form> <xpln>A Rod of thick Wyer put into such 
+an Handle as is the Handle of a <f type="i">Letter-Ladle</f>. Foun&shy;
+ders use it to stir up the Fire in the <f type="i">Furnace</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stone(n)"><f type="i">Stone. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stool(n)"><f type="i">Stool. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stop(n)"><f type="i">Stop. </f></form>  <xpln><xref type="ex_section">See &sect; 19. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="strip form(v)"><f type="i">Strip a Form. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stroke(n)"><f type="i">Stroaks, </f></form> <xpln>are fat, lean, fine, hair. <xref type="ex_section">See &sect; 14. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="letter, superior(n)"><f type="i">Superiour Letters, </f></form> <xpln>are often set to <f type="i">Marginal Notes</f>: 
+They are <f type="i">Letters</f> of a <f type="i">Small Face</f>, high <f type="i">Justifyed</f> by 
+</page>
+
+<page sig="fff2v">
+the Founder in the <f type="i">Mold</f> near the <f type="i">Top-Line</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="letter, swash(n)"><f type="i">Swash-Letters. </f></form> <xpln><xref type="ex_section">See Plate 15.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">T
+
+<wordentry type="h"><form lexeme="tache(n)"><f type="i">Tache. </f></form> <xpln>A small Board with <f type="i">Notches</f> in its Fore-edge; 
+either nailed upon the Fore-edge of the <f type="i">Work-Bench</f>, 
+or screwed into the <f type="i">Vice</f>; so as the <f type="i">Notches</f> may stand 
+forwards to rest the <f type="i">Shank</f> of a <f type="i">Punch</f> in. <xref type="ex_section">See &sect; 12 &para; 
+9. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tail of letters(n)"><f type="i">Tail of Letters. </f></form>  <xpln><xref type="ex_section">See &sect; 14. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="take off(v)"><f type="i">Take off: </f></form> <xpln><xref type="ex_section">See Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="take off(v)"><f type="i">Taking off: </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tape up (v)"><f type="i">Take up. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="take up sheet(v)"><f type="i">Take up a Sheet. </f></form> <xpln><xref type="ex_section">See Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="take ink(v)"><f type="i">Take Inck. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tease wool(v)" lexeme="tease hair(v)"><f type="i">Teze Wooll, or Hair. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="letter, thick(n)"><f type="i">Thick Letter. </f></form> <xpln>A <f type="i">Fount of Letter</f> that <f type="i">Rubs</f> not high 
+enough into the <f type="i">Neck</f> is called <f type="i">Thick Letter</f>; and con&shy;
+sequently will <f type="i">Drive out Matter</f>. <xref type="ex_section">See &sect; 17. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="space, thick(n)"><f type="i">Thick Space. </f></form>  <xpln><xref type="ex_section">See &sect; 13. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="space, thin(n)"><f type="i">Thin Space, </f></form> <xpln>ought by a strict orderly and metho&shy;
+dical measure to be made of the Thickness of the 
+seventh part of the <f type="i">Body</f>; though <f type="i">Founders</f> make 
+them indifferently Thicker or Thinner.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="throat(n)"><f type="i">Throat. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 1. & 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="till(n)"><f type="i">Till. </f></form>  <xpln><xref type="ex_section">See &sect; 10. &para; 6. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="toe of spindle(n)"><f type="i">Toe of the Spindle. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 12. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="token(n)"><f type="i">Token. </f></form>  <xpln><xref type="ex_section">See &sect; 25. &para; 5. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheet, token(n)"><f type="i">Token Sheet. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 9. 15. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tongue(n)"><f type="i">Tongue. </f></form>  <xpln><xref type="ex_section">See &sect; 20. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tooth of plow(n)"><f type="i">Tooth of the Plow. </f></form> <xpln>The pointed edge that Cuts the 
+Groove in the bottom of the Shanks in the Blocks. 
+<xref type="ex_section">See &sect; 21. &para; 5. Vol. 2.</xref></xpln></wordentry>
+</page>
+
+<page sig="fff3r">
+<wordentry type="h"><form lexeme="transpose(v)"><f type="i">Transpose. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 7. & &sect; 23. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="turn for letter(n)"><f type="i">Turn for a Letter. </f></form> <xpln>It often happens when <f type="i">Matter</f> 
+Runs upon <f type="i">Sorts</f>, especially in <f type="i">Capitals</f>, or some 
+other Sorts seldom used, that the <f type="i">Compositer</f> wants 
+that Sort the <f type="i">Matter Runs on</f>; wherefore he is loath 
+to <f type="i">Destribute Letter</f> for that Sort; or perhaps his <f type="i">Case</f> 
+is otherwise Full. Wherefore instead of that <f type="i">Letter</f> 
+or Sort, he <f type="i">Turns</f> a <f type="i">Letter</f> of the same Thickness, 
+with the <f type="i">Foot</f> of the <f type="i">Shank</f> upwards, and the <f type="i">Face</f> 
+downwards; which <f type="i">Turned Letter</f> being easie to 
+be seen, he afterwards when he can accommodate 
+himself with the right Sort, takes out, and puts 
+the right <f type="i">Letter</f> in its room. It is also a word used 
+jocosely in the <f type="i">Chappel</f>, when any of the Workmen 
+complain of want of Money, or any thing else, he 
+shall by another Workman be answered, <f type="i">Turn for it</f>, 
+viz. Make shift for it.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tympan(n)"><f type="i">Tympan. </f></form>  <xpln><xref type="ex_section">See &sect; 10. &para; 10. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cloth, tympan(n)"><f type="i">Tympan-Cloath. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sheet, tympan(n)"><f type="i">Tympan-sheet. </f></form>  <xpln><xref type="ex_section">See &sect; 24. &para; 7. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v">V
+
+<wordentry type="h"><form lexeme="vantage(n)"><f type="i">Vantage. </f></form> <xpln>When a <f type="i">White-page</f> or more happens in 
+a Sheet, the <f type="i">Compositer</f> calls that <f type="i">Vantage</f>: So does 
+the <f type="i">Press-man</f>, when a <f type="i">Form</f> of one <f type="i">Pull</f> comes to 
+the <f type="i">Press</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="varnish(n)"><f type="i">Varnish. </f></form>  <xpln><xref type="ex_section">See &sect; 11. &para; 23. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="visorum(n)"><f type="i">Visorum. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 4. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="unlock form(v)"><f type="i">Un-lock the Form. </f></form>  <xpln><xref type="ex_section">See &sect; 22. &para; 2. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hand, under(n)"><f type="i"><emend err="Underlaid">Underhand.</emend>. </f></form> <xpln>A Phrase used by <f type="i">Press-men</f> for the 
+<f type="i">Light</f> and <f type="i">Easie</f>, or <f type="i">Heavy</f> and <f type="i">Hard Running in</f> of 
+the <f type="i">Carriage</f>. Thus they say, <f type="i">The Press goes light and</f> 
+</page>
+
+<page sig="fff3v">
+<f type="i">easie under Hand</f>, or it <f type="i">goes heavy or hard under 
+Hand</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hand, upper(n)"><f type="i">Upper Hand, </f></form> <xpln lexeme="hand, above(n)"><f type="i">when the <f type="i">Spindle</f> goes soft and easie, 
+the <f type="i">Press-men</f> say, <f type="i">It goes well under Hand</f>, or 
+<f type="i">Above Hand</f>. But the contrary if it goes <f type="i">Hard and 
+Heavy</f>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w">W
+
+<wordentry type="h"><form lexeme="wash form(v)"><f type="i">Wash the Form. </f></form>  <xpln><xref type="ex_section">See &sect;24. &para; 18. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="waygoose(n)"><f type="i">Way-goose. </f></form> <xpln><xref type="ex_section">See Customs.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ink, weak(n)"><f type="i">Weak-Inck. </f></form> <xpln><xref target="soft inck">See <f type="i">Soft-Inck</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wedge(n)"><f type="i">Wedge. </f></form> <xpln><xref type="ex_section">See &sect; 20. &para; 3. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="line, white(n)"><f type="i">White-line. </f></form> <xpln>A Line of <f type="i">Quadrats</f>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="page, white(n)"><f type="i">White-Page. </f></form> <xpln>A <f type="i">Page</f> that no <f type="i">Matter</f> comes in.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paper, white(n)"><f type="i">White-Paper. </f></form> <xpln>Although the first <f type="i">Form</f> be Printed 
+off, yet <f type="i">Press-men</f> erronically call that <f type="i">Heap White&shy;
+Paper</f>, till the <f type="i">Reteration</f> be Printed.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="press, whole(n)"><f type="i">Whole-press. </f></form> <xpln><xref target="full press">See <f type="i">Full-Press</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furnace, wind(n)"><f type="i">Wind-furnace. </f></form> <xpln><xref target="open furnance">See <f type="i">Open-furnace</f>.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hole, wind(n)"><f type="i">Wind-hole. </f></form>  <xpln><xref type="ex_section">See &sect; 18. &para; 1. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wood(n)"><f type="i">Wood. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 11. Vol. 2.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wire(n)"><f type="i">Wyer. </f></form>  <xpln><xref type="ex_section">See &sect; 15. &para; 9. Vol. 2.</xref></xpln></wordentry>
+</wordgroup1>
+
+<closing>FINIS</closing>
+</section>
+</page>
+</leme>

@@ -1,0 +1,170 @@
+<leme no="277">
+
+<page sig="g3r">
+<heading>
+<f type="r">Briefe Expositions of the Geometricall and
+<f type="i">Astronomicall tearmes mentioned in this
+Treatise.
+</heading>
+
+<wordgroup1 type="t"> 
+<wordentry type="d"><form lexeme="line(n)"><f type="i">A lyne</form> <xpln>is a length without breadth or deepnesse.</xpln></wordentry>
+<note type="m"><f type="r">Lyne</note>
+
+<wordentry type="d"><form lexeme="superficies(n)" lexeme="surface(n)"><f type="i">A Superficies or Surface</form> <xpln>hath onely length and bredth
+without deepenesse.</xpln></wordentry>
+<note type="m"><f type="r">Surface</note>
+
+<wordentry type="d"><form lexeme="plane(n)"><f type="i">A plane</form> <xpln>is equally flat, contained within lynes, and doth
+not bulke out or shrinke in at any place: and is saide to
+be represented, when a lyke figure hath an absolute
+lyke situation and constitution.</xpln></wordentry>
+<note type="m"><f type="r">Plane</note>
+
+<wordentry type="d"><form lexeme="angle(n)"><f type="i">An Angle</form> <xpln>is the concourse of two or moe seuerall lynes
+in one same poynt: And is giuen when the degrees
+of the subtending arch thereof is knowne.</xpln></wordentry>
+<note type="m"><f type="r">Angle</note>
+
+<wordentry type="d"><form lexeme="right angle(n)" lexeme="square angle(n)"><f type="i">A right or square angle</form> <xpln>is when two lynes fall square one
+vpon another, making all the angles framed thereby
+equall.</xpln></wordentry>
+<note type="m"><f type="r">Right 
+angle</note>
+
+<wordentry type="d"><form lexeme="sharp angle(n)" lexeme="acute angle(n)"><f type="i">A Sharpe or acute angle</form> <xpln>is any angle that is lesse then a
+square angle.</xpln></wordentry>
+<note type="m"><f type="r">Sharpe 
+angle</note>
+
+<wordentry type="d"><form lexeme="blunt angle(n)" lexeme="obtuse angle(n)"><f type="i">A Blunt or Obtuse angle</form> <xpln>is any angle that is greater then
+a right or square angle.</xpln></wordentry>
+<note type="m"><f type="r">Blunt 
+angle</note>
+
+<wordentry type="d"><form lexeme="triangle(n)"><f type="i">A Triangle</form> <xpln>is a Figure of three Corners or angles: And
+is giuen, when the quantity of all the Angles and sides
+are knowne.</xpln></wordentry>
+<note type="m"><f type="r">Triangle</note>
+
+<wordentry type="d"><form lexeme="circle(n)"><f type="i">A Circle</form> <xpln>is a round Figure, made by the turning of a
+lyne vpon a poynt fixed.</xpln></wordentry>
+<note type="m"><f type="r">Circle</note>
+
+<note type="m"><f type="r">Circumfe&shy;
+rence
+Arch</note>
+<wordentry type="d"><form lexeme="circumference(n)"><f type="i">The Circumference</form> <xpln lexeme="arch(n)">of a Circle is the outmost edge or
+lymbe of the Circle, being in all places equidistant from
+the aforesaid fixed poynt. Any part of a Circumfer<expan type="e+_">en</expan>ce
+is an Arch; An arch is giuen, when the degrees contai&shy;
+</page>
+
+<page sig="g3v">
+ned therein are knowne.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="centre(n)"><f type="i">The Centre</form> <xpln>is a poynt in the midst of a Circle, Globe, or
+Spheare.</xpln></wordentry>
+<note type="m"><f type="r">Centre</note>
+
+<wordentry type="d"><form lexeme="diameter(n)"><f type="i">The dyametre</form> <xpln lexeme="semidiameter(n)">of a Circle is the longest straite lyne
+that can be drawne within a Circle, and it passeth
+through the Centre from side to side: The halfe there&shy;
+of is the Semidiametre.</xpln></wordentry>
+<note type="m"><f type="r">Diametre
+Semidia&shy;
+metre</note>
+
+
+<wordentry type="d"><form lexeme="great circle(n)"><f type="i">A great Circle</form> <xpln lexeme="degree(n)">is that which diuideth the world into two
+equall parts. The edge or Lymbe thereof containing
+360. equall parts or degrees. A Degree is therefore
+1/360 part of a Circle.</xpln></wordentry>
+<note type="m"><f type="r">Great 
+Circle
+Degree</note>
+
+
+<wordentry type="d"><form lexeme="equator(n)" lexeme="equinoctial(n)"><f type="i">The <f type="r">AEquator <f type="i">or <f type="r">AEquinoctiall<f type="i"> </form> <xpln>is a great Circle,
+girding the world in the midst between the two Poles.</xpln></wordentry>
+<note type="m"><f type="r">Equinoctiall.</note>
+
+<wordentry type="d"><form lexeme="zodiac(n)"><f type="i">The Zodiack</form> <xpln lexeme="ecliptic(n)">is a great Circle broad and slopewise situ&shy;
+ate, bearing the 12 Signes. In the midst of which Cir&shy;
+cle is a lyne called the Ecliptick, from which the Sun
+neuer swarueth.</xpln></wordentry>
+<note type="m"><f type="r">Zodiack
+Ecliptick</note>
+
+<wordentry type="d"><form lexeme="meridian(n)"><f type="i">The Meridian</form> <xpln>is a great Circle passing through the Ze&shy;
+nith and Poles of the world, being alwayes permanent,
+though the Sphere be moued.</xpln></wordentry>
+<note type="m"><f type="r">Meridian</note>
+
+<wordentry type="d"><form lexeme="horizon(n)"><f type="i">The Horizon</form> <xpln lexeme="diurnal hemisphere(n)" lexeme="nocturnal hemisphere(n)">is a great Circle, diuiding the world (accor&shy;
+ding to s<expan type="e+_">en</expan>se) into 2 equal parts; viz, the Superior seen,
+or Diurnall Hemisphere; and the inferior vnseene, or 
+Nocturnall Hemisphere.</xpln></wordentry>
+<note type="m"><f type="r">Horizon</note>
+
+<wordentry type="d"><form lexeme="azimuth(n)"><f type="i">AZimuthes</form> <xpln>or Circles verticall, are great Circles, and
+passe through the Zenith intersecting the Horizon with
+right angles.</xpln></wordentry>
+<note type="m"><f type="r">Azimu&shy;
+thes</note>
+
+<wordentry type="d"><form lexeme="almucantar(n)"><f type="i">Almicanterathes or Circles of altitude</form> <xpln>are Circles para&shy;
+lell to the Horizon: and are greatest, being neerest the
+Horizon; and least, being neerest the Zenith.</xpln></wordentry>
+<note type="m"><f type="r">Almican&shy;
+tares.</note>
+</page>
+
+<page sig="g4r">
+<wordentry type="d"><form lexeme="axis(n)" lexeme="axletree(n)"><f type="i">The Axis, or axeltree of the world</form> <xpln>is a lyne supposed to
+passe through the Centre of the Earth: the extreames
+or ends of which lyne are the Poles of the world: viz,
+the North end the Pole artick, and the South end the
+an<emend err="i">t</emend>artick.</xpln></wordentry>
+<note type="m"><f type="r">Axletree</note>
+
+<wordentry type="d"><form lexeme="north latitude(n)" lexeme="south latitude(n)"><f type="i">There is North Latitude, and South Latitude of places: </form> <xpln>
+For all places between the Equinoctial and the North
+pole haue North Latitude; and between the Equinoc&shy;
+tiall and the South Pole haue South Latitude. </xpln></wordentry>
+<note type="m"><f type="r">Latitude 
+of places.</note>
+
+<wordentry type="d"><form lexeme="longitude(n)"><f type="i">The Longitude of the Earth</form> <xpln>is as the Circuit of the E&shy;
+quator in the Heauens. And is diuided into <f type="r">360<f type="i"> euen
+parts or degrees.
+
+<f type="i">Any two places, being lesse then 180 degrees distant, haue
+one same Longitude, if they be vnder one same Meri&shy;
+dian; Otherwyse they haue different Longitude.
+
+<f type="i">Any two places hauing lyke Latitude (being both North,
+or both South Latitude) are in one same Paralell.</xpln></wordentry>
+<note type="m"><f type="r">Longitude
+of places.</note>
+
+<wordentry type="d"><form lexeme="vertical point(n)" lexeme="zenith(n)"><f type="i">The verticall poynt or Zenith</form> <xpln>is a poynt in Heauen di&shy;
+rectly ouer our heads, and is the Centre or Pole of the
+Horizon.</xpln></wordentry>
+<note type="m"><f type="r">Zenith.</note>
+
+<wordentry type="d"><form><f type="i">The Oposite poynt</form> <xpln lexeme="nadir(n)"> is the Nadire.</xpln></wordentry>
+<note type="m"><f type="r">Nadir.</note>
+
+<wordentry type="d"><form lexeme="parallax(n)"><f type="i">The Paralax</form> <xpln>or difference of Aspect, of a Comet Planet
+or other Luminary, is the angle caused by the inter&shy;
+section of the Lyne of the true Place and apparant
+place thereof reckoned in the Firmament.</xpln></wordentry>
+<note type="m"><f type="r">Paralax.</note>
+</wordgroup1>
+
+<closing>
+<f type="i">FINIS.
+</closing>
+</page>
+</leme>

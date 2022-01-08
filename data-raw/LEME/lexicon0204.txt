@@ -1,0 +1,318 @@
+
+
+<leme no="204">
+<page sig="a2r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 3 6 7 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+And nowe to begin
+howe to erect the
+Sphere or Globe.
+</heading>
+
+But first, the difinition what a
+Sphere is, with his partes, are to be
+known and found out.
+
+<wordgroup1 type="t">
+<wordentry type="d"><form lexeme="sphere(n)">A Sphere </form> <xpln>is a massie body, in&#173;
+closed with one platforme;
+and in the middle of it ther
+is a pricke: from which, all
+lines drawne to the said platforme,
+are equall each to other, and that
+pricke is the Center of the Globe,
+and so sayth <emend err="Enclid">Euclid</emend>.
+</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a2v">
+<wordentry type="d"><form lexeme="axle-tree(n)">The Axeltree </form> <xpln>is a right lyne
+(which mooueth not) and passeth
+through the Center of the Globe,
+at which ends are imagined the
+Poles of the world; one is named
+the North Pole, and other the
+South.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="North Pole(n)">The North Pole </form> <xpln lexeme="Arctic Pole(n)" lexeme="Antarctic(n)" lexeme="south pole(n)" lexeme="horizon(n)">is called, Pole
+Artick, and other Pole in the
+<emend err="the "></emend>South, Antarticke: the South
+Pole is neuer seene of vs in this our
+Countrey, but is euermore vnder
+our Horizonte. The North Pole is
+alwayes seene of vs whereas wee
+dwell, and these starres be opposed
+the one right against the other.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a3r">
+<wordentry type="d"><form lexeme="meridian(n)">The Meridian </form> <xpln>is a great Circle
+passing ouer our heades, in which
+Circle when the Sunne is, hee ma&#173;
+keth the middle of the day and the
+middle of the night. And also,
+in this Circle is shewed the La&#173;
+titudes of all places, by the height
+of the Poles, in euery seuerall La&#173;
+titude.</xpln></wordentry>
+
+<heading>The Horizont what it is.</heading>
+
+<wordentry type="d"><form lexeme="horizon(n)">The Horizon </form> <xpln>is a Circle, which
+goeth a-long by the edge of the
+ground, and parteth the part of the
+world which we see, from that part
+which we see not; and when the
+
+
+
+</page>
+
+<page sig="a3v">
+Sunne riseth, then he is in our Ho&#173;
+rizonte, and so is he when he is go&#173;
+ing downe as lowe as wee can see
+him.
+
+Also it deuideth the whole
+Sphere of the world into two equal
+parts, in such sort, that halfe of the
+Sphere is euer aboue the ground,
+and halfe alwayes vnder the earth.
+This Circle hath great vse in the
+heauenly motions, that by it wee
+iudge the rysings &#38; settings of the
+Sunne and Moone, and all other
+Starres; And in this Horizonte
+you shall finde noted, the names of
+the winds, which the Marriners v&#173;
+seth, by the 32. poynts of the Com&#173;
+pas.
+
+
+
+</page>
+
+<page sig="a4r">
+The next Circle is noted, the de&#173;
+grees which euery day in the mo&#173;
+neth dooth contayn: that is to say,
+the first day one degree; the se&#173;
+cond day two degrees, and so forth
+as they succeed in order, to a point
+like a little starre, where the last
+day of euery moneth endeth.
+
+The next Circle sheweth, what
+day of the moneth the Sunne en&#173;
+treth into any of the twelue signes,
+telling euery day one degree, to
+thirtie degrees, &#38; so they succeed
+through euer one of the twelue
+signes, monethlie.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a4v">
+<wordentry type="d"><form lexeme="horizon(n)">This Horizonte </form> <xpln>is deuided into
+foure quarters, East, West, South,
+and North, euery quarter of the
+world contayneth 90. degrees: and
+the whole compasse therof, is 360.
+degrees.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="motus trepedationis(n)">The next Circle is <term lang="la">Motus trepe&#173;
+dationis</term>, </form> <xpln>a starry firmament, whose
+motion is slowe, from the West to
+the East, that euery hundreth yeere
+(by the obseruati<expan type="">on</expan> of diuers Astro&#173;
+nomers) moueth but one degree.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="zodiac(n)">The Zodiacke, </form> <xpln lexeme="depictured(a)">is a great broade
+and slope or shoring Circle, in the
+which are depictured the twelue
+signes and fixed starres, in the
+
+
+
+</page>
+
+<page sig="a5r">
+middest whereof, is the Eclipticke
+lyne, from which the Sunne neuer
+swarueth.</xpln>
+<lemenote>
+"depictured" antedates the earliest OED citation of this verb ("depicture," v., ca. 1593).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="colure(n)" lexeme="equinoctial(a)" lexeme="circle(n)">Then followeth the two Col&#173;
+luers, and the Equinoctiall Circle,</form> <xpln>
+parting the Sphere in the verye
+middest, betwixt the two Poles: by
+reason whereof, there are two La&#173;
+titudes, the one is North and the o&#173;
+ther South.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="north(a)" lexeme="latitude(n)">The North Latitude </form> <xpln lexeme="south(a)" lexeme="latitude(n)">is contay&#173;
+ned betwixt the Equinoctiall and
+the North Pole; the South Lati&#173;
+tude, is betwixt the Equinoctiall
+and the South Pole: either of these
+two spaces contayneth in bredth
+90. degrees.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a5v">
+<wordentry type="d"><form lexeme="degree(n)">A Degree </form> <xpln>is one part of a Circle
+beeing deuided into 360. parts, and
+360. degrees, is the very Longi&#173;
+tude of the Earth: and at the fur&#173;
+thest Meridian in the West, begin&#173;
+ning with one degree, and so pro&#173;
+ceede Eastward, vnto 180. degrees
+of the Equinoctiall, &#38; from thence
+goe forward to the West, where
+you come againe to 360. degrees,
+which is the last degree of Longi&#173;
+tude.</xpln></wordentry>
+
+Next followeth the two
+tropicall Cyrcles.
+
+<wordentry type="d"><form lexeme="north(a)" lexeme="tropic(n)">That is to say, the North tropike</form> <xpln lexeme="Cancer(n)">
+
+
+
+</page>
+
+<page sig="a6r">
+is Cancer, and is the returne of the
+<emend err="the "></emend>Sunne in Sommer declyning,
+backe againe towardes the Equi&#173;
+noctiall, the dayes being then at the
+longest, and the nights at the short&#173;
+est with vs, and then beginneth the
+dayes to shorten againe.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="winter(a)" lexeme="tropic(n)">The Winter Tropicke </form> <xpln lexeme="southerly(a)" lexeme="winterly(a)">(sayth
+Proclus) is the most Southerliest 
+Circle of all them that the Sunne
+dooth describe, by the reuolution
+of the world, in the which when
+the Sunne is, he maketh his winter&#173;
+lie turne, and then is the longest
+night in all the yeere and shortest
+day with vs.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a6v">
+<heading>Paralels.</heading>
+
+<wordentry type="d"><form lexeme="parallel(a)" lexeme="line(n)">The Paralell lynes </form> <xpln lexeme="Pole Star(n)">are described
+by the wyers in the Globe, and a
+Paralell of the longest day, is a 
+space of the Earth: by thys is
+knowne the increase of the day to
+be a quarter of an hower, going
+from the Equinoctiall towards any
+of the Pole starres.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="climate(n)">A Clymate </form> <xpln>contayneth two Pa&#173;
+ralels, in which spaces the day in&#173;
+creaseth by halfe an hower: Of
+these Paralels are made 24. Cli&#173;
+mates, betweene the Equinoctiall
+and the tropicke of Cancer.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a7r">
+<heading>Then followeth the Artick Circle,
+and the Antartick
+Cyrcle.</heading>
+
+<wordentry type="d"><form lexeme="Arctic Circle(n)">The Artick Circle </form> <xpln lexeme="north(a)" lexeme="circle(n)" lexeme="south(a)" lexeme="Antarctic Circle(n)">is the North
+Circle: and the contrary Circle in
+the South, is called the Antartick
+Circle: by the which Greeke com&#173;
+position, as you would say, contra&#173;
+ry or against the Articke Circle, &#38;
+it well may bee called the South
+Circle. But now heere how Proclus
+defineth them.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="Arctic Circle(n)">The Articke Circle </form> <xpln>is the grea&#173;
+test of all those Circles which doe
+alwayes appeare, and toucheth the
+
+
+
+</page>
+
+<page sig="a7v">
+Horizonte in one only poynt, and
+is altogether aboue the Earth, and
+all the starres that be within this
+Circle neyther rise nor set, but are
+seene to runne round about the
+Pole all the night.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="Antarctic Circle(n)">The Antarticke Circle </form> <xpln lexeme="equidistant(a)">is equall
+&#38; equidistant to the Artick Circle
+&#38; toucheth the Horizonte in one
+onely poynt, and is all vnder the
+ground, &#38; all the starres that be in
+it, are euermore out of our sight.</xpln></wordentry>
+
+<wordentry type="d"><form lexeme="polar(a)" lexeme="circle(n)" lexeme="pole(a)">Then is there two other smaller
+Circles, called Poller Circles, or
+Pole Circles: </form> <xpln lexeme="North Star(n)" lexeme="constellation(n)" lexeme="Horn(n)">in this Circle about
+the Antartick Pole, is deuided cer&#173;
+
+
+
+</page>
+
+<page sig="a8r">
+tayne degrees to take the Altitude
+of the North starre, this starre
+is in the extremitie, or end of the
+tayle of the lesse Beare, being a con&#173;
+stellation, commonly called the
+Horne: for this North starre (of
+the most notablest starres aboue
+the Pole) is neerest vnto it, &#38; shall
+therefore shewe a lesse Circle than
+any other, and so shall his Altitude
+differ little from the Altitude of
+the Pole.</xpln></wordentry>
+</wordgroup1>
+
+
+</page>
+</leme>

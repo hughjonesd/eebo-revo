@@ -1,0 +1,1380 @@
+<leme no="212">
+
+<page sig="c7r">
+<section type="English-Latin glossary">
+<heading>
+DICTIONARIOLVM
+vocum Anglicarum, cu&aelig; pas&shy;
+sim in libello occurrunt.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="en" lexeme="abide(v)"><f type="r">to Abide </form><xpln lang="la"><f type="r">Moror</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="about(pp)"><f type="r">About </form><xpln lang="la"><f type="r">Circum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="above(pp)"><f type="r">Aboue </form><xpln lang="la"><f type="r">Supra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accord(v)"><f type="r">to Accord </form><xpln lang="la"><f type="r">Consentio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="affairs(n)"><f type="r">Affayres </form><xpln lang="la"><f type="r">Negotia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="after(pp)"><f type="r">After </form><xpln lang="la"><f type="r">Post</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agility(n)"><f type="r">Agilitie </form><xpln lang="la"><f type="r">Agilitas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="against(pp)"><f type="r">Against </form><xpln lang="la"><f type="r">Contra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alack(ex)"><f type="r">Alacke </form><xpln lang="la"><f type="r">Ah</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alas(ex)"><f type="r">Alas </form><xpln lang="la"><f type="r">Hei</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="almond(n)"><f type="r">Almonde </form><xpln lang="la"><f type="r">Amygdalum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="almost(adv)"><f type="r">Almost </form><xpln lang="la"><f type="r">Pene</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aloft(adv)"><f type="r">Aloft </form><xpln lang="la"><f type="r">Superne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="already(adv)"><f type="r">Alreadie </form><xpln lang="la"><f type="r">Iamducum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="also(adv)"><f type="r">Also </form><xpln lang="la"><f type="r">Etiam</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="although(c)"><f type="r">Although </form><xpln lang="la"><f type="r">Licet</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="always(adv)"><f type="r">Alwaies </form><xpln lang="la"><f type="r">Semper</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="am(v)"><f type="r">Am </form><xpln lang="la"><f type="r">Sum</xpln></wordentry>
+</page>
+
+<page sig="c7v">
+<wordentry type="h"><form lang="en" lexeme="and(c)"><f type="r">And </form><xpln lang="la"><f type="r">Et</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apparel(v)"><f type="r">Apparell </form><xpln lang="la"><f type="r">Vestitus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple(n)"><f type="r">Apple </form><xpln lang="la"><f type="r">Pomum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="as(c)"><f type="r">As </form><xpln lang="la"><f type="r">Sicut</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ass(n)"><f type="r">Asse </form><xpln lang="la"><f type="r">Asinus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="at(pp)"><f type="r">At </form><xpln lang="la"><f type="r">Apud</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="authority(n)"><f type="r">Authoritie </form><xpln lang="la"><f type="r">Authoritas</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="en" lexeme="beacon(n)"><f type="r">Becon </form><xpln lang="la"><f type="r">Lardum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="balm(n)"><f type="r">Baulme </form><xpln lang="la"><f type="r">Balsamum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barb(n)"><f type="r">Barbes </form><xpln lang="la"><f type="r">Phaler&aelig;</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barley(n)"><f type="r">Barley </form><xpln lang="la"><f type="r">Hordeum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bean(n)"><f type="r">Beane </form><xpln lang="la"><f type="r">Faba</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bear(v)"><f type="r">to Beare </form><xpln lang="la"><f type="r">Fero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beast(n)"><f type="r">Beast </form><xpln lang="la"><f type="r">Brutum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beat(v)"><f type="r">to Beate </form><xpln lang="la"><f type="r">Verbero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beauty(n)"><f type="r">Beautie </form><xpln lang="la"><f type="r">Pulchrituas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="because(c)"><f type="r">Because </form><xpln lang="la"><f type="r">Quoniam</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="before(pp)"><f type="r">Before </form><xpln lang="la"><f type="r">Ante</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="behind(pp)"><f type="r">Behinde </form><xpln lang="la"><f type="r">Pone</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bellows(n)"><f type="r">Bellowes </form><xpln lang="la"><f type="r">Folles</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bend(n)"><f type="r">to Bende </form><xpln lang="la"><f type="r">Flecto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beneath(pp)"><f type="r">Beneath </form><xpln lang="la"><f type="r">Infra</xpln></wordentry>
+</page>
+
+<page sig="c8r">
+<wordentry type="h"><form lang="en" lexeme="beseem(v)"><f type="r">Beseemeth </form><xpln lang="la"><f type="r">Decet</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="besides(pp)"><f type="r">Besides </form><xpln lang="la"><f type="r">Pr&aelig;ter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="between(pp)"><f type="r">Betweene </form><xpln lang="la"><f type="r">Inter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beyond(pp)"><f type="r">Beyonde </form><xpln lang="la"><f type="r">Vltra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bid(v)"><f type="r">to Bidde </form><xpln lang="la"><f type="r">Iubeo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bind(v)"><f type="r">to Binde </form><xpln lang="la"><f type="r">Ligo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bite(v)"><f type="r">to Bite </form><xpln lang="la"><f type="r">Mordeo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black(a)"><f type="r">Blacke </form><xpln lang="la"><f type="r">Niger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bleed(v)"><f type="r">to Bleede </form><xpln lang="la"><f type="r">Sanguino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blood(n)"><f type="r">Bloud </form><xpln lang="la"><f type="r">Sanguis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blow(v)"><f type="r">to Blow </form><xpln lang="la"><f type="r">Flo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="book(n)"><f type="r">Booke </form><xpln lang="la"><f type="r">Liber</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bowels(n)"><f type="r">Bowels </form><xpln lang="la"><f type="r">Viscera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="branch(n)"><f type="r">Branch </form><xpln lang="la"><f type="r">Ramus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bran(n)"><f type="r">Branne </form><xpln lang="la"><f type="r">Furfur</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brass(n)"><f type="r">Brasse </form><xpln lang="la"><f type="r">AEs</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)"><f type="r">Bread </form><xpln lang="la"><f type="r">Panis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="break(v)"><f type="r">to Breake </form><xpln lang="la"><f type="r">Frango</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="breed(v)"><f type="r">to Breede </form><xpln lang="la"><f type="r">Genero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bring(v)"><f type="r">to Bring </form><xpln lang="la"><f type="r">Duco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brother(n)"><f type="r">Brother </form><xpln lang="la"><f type="r">Frater</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bumbast(n)"><f type="r">Bumbast </form><xpln lang="la"><f type="r">Pillium</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="but(c)"><f type="r">But </form><xpln lang="la"><f type="r">At</xpln></wordentry>
+</page>
+
+<page sig="c8v">
+<wordentry type="h"><form lang="en" lexeme="butter(n)"><f type="r">Butter </form><xpln lang="la"><f type="r">Butirum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buy(v)"><f type="r">Buy </form><xpln lang="la"><f type="r">Emo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="by(pp)"><f type="r">By </form><xpln lang="la"><f type="r">Per</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="cage(n)"><f type="r">Cage </form><xpln lang="la"><f type="r">Cavea</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="call(v)"><f type="r">to Call </form><xpln lang="la"><f type="r">Voco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="can(v)"><f type="r">to Can </form><xpln lang="la"><f type="r">Possum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="canvas(n)"><f type="r">Canvas </form><xpln lang="la"><f type="r">Cannabuno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cast(v)"><f type="r">to Cast </form><xpln lang="la"><f type="r">Iacio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cates(n)"><f type="r">Cates </form><xpln lang="la"><f type="r">Obsonia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="censure(n)"><f type="r">Censure </form><xpln lang="la"><f type="r">Censura</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chaff(n)"><f type="r">Chaffe </form><xpln lang="la"><f type="r">Palea</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chalk(n)"><f type="r">Chalke </form><xpln lang="la"><f type="r">Creta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chide(v)"><f type="r">to Chide </form><xpln lang="la"><f type="r">Iurgio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="child(n)"><f type="r">Childe </form><xpln lang="la"><f type="r">Puer</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Christopher(pn)"><f type="r">Christopher </form><xpln lang="la"><f type="r">Christopherus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clerk(n)"><f type="r">Clarke </form><xpln lang="la"><f type="r">Clericus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clay(n)"><f type="r">Clay </form><xpln lang="la"><f type="r">Lutum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clemency(n)"><f type="r">Clemencie </form><xpln lang="la"><f type="r">Clementia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="climb(v)"><f type="r">to Climbe </form><xpln lang="la"><f type="r">Scando</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="clock(n)"><f type="r">Clocke </form><xpln lang="la"><f type="r">Horrologi<expan type="u+_">um</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="club(n)"><f type="r">Clubbe </form><xpln lang="la"><f type="r"> Clava</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cider(n)"><f type="r">Cider </form><xpln lang="la"><f type="r"> Sicera</xpln></wordentry>
+</page>
+
+<page sig="d1r">
+<wordentry type="h"><form lang="en" lexeme="city(n)"><f type="r">Citie </form><xpln lang="la"><f type="r">Vrbs</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="civet(n)"><f type="r">Civet </form><xpln lang="la"><f type="r">Zibethum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockle(n)"><f type="r">Cockel </form><xpln lang="la"><f type="r">Zizania</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="come(v)"><f type="r">to Come </form><xpln lang="la"><f type="r">Venio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="companion(n)"><f type="r">Companion </form><xpln lang="la"><f type="r">Comes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="condition(n)"><f type="r">Condition </form><xpln lang="la"><f type="r">Conditio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="copper(n)"><f type="r">Copper </form><xpln lang="la"><f type="r">Orichalcum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn(n)"><f type="r">Corn </form><xpln lang="la"><f type="r">Frumentum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow(n)"><f type="r">Cow </form><xpln lang="la"><f type="r">Vacca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cowardice(n)"><f type="r">Cowardise </form><xpln lang="la"><f type="r">Pusillaminitas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crab(n)"><f type="r">Crab </form><xpln lang="la"><f type="r">Arbutum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="creep(v)"><f type="r">to Creepe </form><xpln lang="la"><f type="r">Serpo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crest(n)"><f type="r">Crest </form><xpln lang="la"><f type="r">Crista</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crime(n)"><f type="r">Crime </form><xpln lang="la"><f type="r">Culpa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="custom(n)"><f type="r">Custome </form><xpln lang="la"><f type="r">Consuetudo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cut(v)"><f type="r">to Cut </form><xpln lang="la"><f type="r">Seco</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="en" lexeme="darnel(n)"><f type="r">Darnell </form><xpln lang="la"><f type="r">Lolium</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="day(n)"><f type="r">Day </form><xpln lang="la"><f type="r">Dies</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daily(adv)"><f type="r">Daily </form><xpln lang="la"><f type="r">Quotidie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dainty(n)"><f type="r">Dainties </form><xpln lang="la"><f type="r">Deliti&aelig;</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deer(n)"><f type="r">Deere </form><xpln lang="la"><f type="r">Fera</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="devise(v)"><f type="r">to Devise </form><xpln lang="la"><f type="r">Excogito</xpln></wordentry>
+</page>
+
+<page sig="d1v">
+<wordentry type="h"><form lang="en" lexeme="dip(v)"><f type="r"> to Dip </form><xpln lang="la"><f type="r">Tingo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dirt(n)"><f type="r">Durt </form><xpln lang="la"><f type="r">C&aelig;num</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="do(v)"><f type="r">to Doe </form><xpln lang="la"><f type="r">Ago</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="doleful(a)"><f type="r">Dolefull </form><xpln lang="la"><f type="r">Tristis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dung(n)"><f type="r">Donge </form><xpln lang="la"><f type="r">Fimus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="draff(n)"><f type="r">Draffe </form><xpln lang="la"><f type="r">Segisterium</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dream(n)"><f type="r">Dreame </form><xpln lang="la"><f type="r">Somnium</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drink(v)"><f type="r">to Drink </form><xpln lang="la"><f type="r">Bibo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drive(v)"><f type="r">to Drive </form><xpln lang="la"><f type="r">Pello</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dross(n)"><f type="r">Drosse </form><xpln lang="la"><f type="r">Scoria</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dust(n)"><f type="r">Dust </form><xpln lang="la"><f type="r">Pulius</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dwell(v)"><f type="r">to Dwell </form><xpln lang="la"><f type="r">Habito</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="earth(n)"><f type="r">Earth </form><xpln lang="la"><f type="r">Terra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)"><f type="r">Eight </form><xpln lang="la"><f type="r">Octo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighth(a)"><f type="r">Eighth </form><xpln lang="la"><f type="r">Octavus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteen(n)"><f type="r">Eighteene </form><xpln lang="la"><f type="r">Octodecem</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteenth(a)"><f type="r">Eightenth </form><xpln lang="la"><f type="r">Decimus oct.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighty(n)"><f type="r">Eightie </form><xpln lang="la"><f type="r">Octoginta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eightieth(a)"><f type="r">Eightieth </form><xpln lang="la"><f type="r">Octogessimus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleven(n)"><f type="r">Eleven </form><xpln lang="la"><f type="r">Vndecem</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleventh(a)"><f type="r">Eleventh </form><xpln lang="la"><f type="r">Vndecimus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="else(c)"><f type="r">Els </form><xpln lang="la"><f type="r">Pr&aelig;terea</xpln></wordentry>
+</page>
+
+<page sig="d2r">
+<wordentry type="h"><form lang="en" lexeme="imbrue(v)"><f type="r">to Embrew </form><xpln lang="la"><f type="r">Tingo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="enough(a)"><f type="r">Enough </form><xpln lang="la"><f type="r">Satis</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="entrails(n)"><f type="r">Entrals </form><xpln lang="la"><f type="r">vide <f type="r">Bowels</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ever(adv)"><f type="r">Ever </form><xpln lang="la"><f type="r">Vnquam</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evermore(adv)"><f type="r">Evermore </form><xpln lang="la"><f type="r">Perpetuo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evil(a)"><f type="r">Evill </form><xpln lang="la"><f type="r">Malus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evilly(adv)"><f type="r">Evilly </form><xpln lang="la"><f type="r">Male</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="except(pp)"><f type="r">Except </form><xpln lang="la"><f type="r">Nisi</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="en" lexeme="facility(n)"><f type="r">Facilitie </form><xpln lang="la"><f type="r">Facilitas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fair(a)"><f type="r">Faire </form><xpln lang="la"><f type="r">Pulcher</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="faith(n)"><f type="r">Faith </form><xpln lang="la"><f type="r">Fides</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="February(n)"><f type="r">Februarie </form><xpln lang="la"><f type="r">Februarius</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feed(v)"><f type="r">Feede </form><xpln lang="la"><f type="r">Pasco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feel(v)"><f type="r">Feele </form><xpln lang="la"><f type="r">Tracto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fetch(v)"><f type="r">Fetch </form><xpln lang="la"><f type="r">Affero</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fiercely(adv)"><f type="r">Fiercely </form><xpln lang="la"><f type="r">Ferociter</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fig(n)"><f type="r">Figge </form><xpln lang="la"><f type="r">Ficus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fight(v)"><f type="r">Fight </form><xpln lang="la"><f type="r">Pugno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="find(v)"><f type="r">Finde </form><xpln lang="la"><f type="r">Reperio</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="first(adv)"><f type="r">First </form><xpln lang="la"><f type="r">Primus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fitch(n)"><f type="r">Fitch </form><xpln lang="la"><f type="r">Vicia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)"><f type="r">Five </form><xpln lang="la"><f type="r">Quinque</xpln></wordentry>
+</page>
+
+<page sig="d2v">
+<wordentry type="h"><form lang="en" lexeme="fix(n)"><f type="r">to Fixe </form><xpln lang="la"><f type="r">Pigo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flax(n)"><f type="r">Flax </form><xpln lang="la"><f type="r">Linum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flegm(n)"><f type="r">Fleagme </form><xpln lang="la"><f type="r">Pituita</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)"><f type="r">Flesh </form><xpln lang="la"><f type="r">Caro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flint(n)"><f type="r">Flint </form><xpln lang="la"><f type="r">Silex</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fly(v)"><f type="r">to Flie </form><xpln lang="la"><f type="r">Volo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fodder(n)"><f type="r">Fodder </form><xpln lang="la"><f type="r">Pabulum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="food(n)"><f type="r">Food </form><xpln lang="la"><f type="r">Alimentum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="for(pp)"><f type="r">For </form><xpln lang="la"><f type="r">Pro</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forage(n)"><f type="r">Forage </form><xpln lang="la"><f type="r">vide <f type="r">Fodder</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forty(n)"><f type="r">Fortie </form><xpln lang="la"><f type="r">Quadraginta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fortieth(a)"><f type="r">Fortieth </form><xpln lang="la"><f type="r">Quadragesimus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)"><f type="r">Foure </form><xpln lang="la"><f type="r">Quatuor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourth(a)"><f type="r">Fourth </form><xpln lang="la"><f type="r">Quartus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourteen(n)"><f type="r">Fourteene </form><xpln lang="la"><f type="r">Quatuordecem</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourteenth(a)"><f type="r">Fourthteenth </form><xpln lang="la"><f type="r">Decimusquartus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="France(pn)"><f type="r">Fra<expan type="u+_">un</expan>ce </form><xpln lang="la"><f type="r">Gallia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frog(n)"><f type="r">Frog </form><xpln lang="la"><f type="r">Rana</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="from(pp)"><f type="r">From </form><xpln lang="la"><f type="r">A. Ab.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fro(pp)"><f type="r">Fro </form><xpln lang="la"><f type="r">Abs</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="froth(n)"><f type="r">Froth </form><xpln lang="la"><f type="r">Spuma</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frumenty(n)"><f type="r">Frumenty </form><xpln lang="la"><f type="r">Alica</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="d3r">
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en" lexeme="garlic(n)"><f type="r"> Garlicke </form><xpln lang="la"><f type="r">Allium</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="get(v)"><f type="r">to Get </form><xpln lang="la"><f type="r">Paro, gigno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ginger(n)"><f type="r"><emend err="Ginget">Ginger</emend> </form><xpln lang="la"><f type="r">Gingiber</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass(n)"><f type="r">Glasse </form><xpln lang="la"><f type="r">Vitrum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glove(n)"><f type="r">Glove </form><xpln lang="la"><f type="r">Chirotheca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glue(n)"><f type="r">Glue </form><xpln lang="la"><f type="r">Glut<expan type="e+_">en</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gnat(n)"><f type="r">Gnat </form><xpln lang="la"><f type="r">Culex</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="godly(adv)"><f type="r">Godly </form><xpln lang="la"><f type="r">Pie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="godliness(n)"><f type="r">Godlines </form><xpln lang="la"><f type="r">Pietas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="go(v)"><f type="r">to Goe </form><xpln lang="la"><f type="r">Eo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good(a)"><f type="r">Good </form><xpln lang="la"><f type="r">Bonus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goodness(n)"><f type="r">Goodnes </form><xpln lang="la"><f type="r">Bonitas</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose(n)"><f type="r">Goose </form><xpln lang="la"><f type="r">Anser</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grass(n)"><f type="r">Grasse </form><xpln lang="la"><f type="r">Gramen</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grave(n)"><f type="r">Grave </form><xpln lang="la"><f type="r">Sepulchrum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grease(n)"><f type="r">Grease </form><xpln lang="la"><f type="r">Adeps</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grind(v)"><f type="r">to Grinde </form><xpln lang="la"><f type="r">Molo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grow(v)"><f type="r">to Growe </form><xpln lang="la"><f type="r">Cresco</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en" lexeme="hay(n)"><f type="r">Hay </form><xpln lang="la"><f type="r">F&oelig;num</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hang(v)"><f type="r">to Hang </form><xpln lang="la"><f type="r">Pendeo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="have(v)"><f type="r">Have </form><xpln lang="la"><f type="r">Habeo</xpln></wordentry>
+</page>
+
+<page sig="d3v">
+<wordentry type="h"><form lang="en" lexeme="he(pr)"><f type="r">Hee </form><xpln lang="la"><f type="r">Ille</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hell(n)"><f type="r">Hell </form><xpln lang="la"><f type="r">Barathrum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemp(n)"><f type="r">Hempe </form><xpln lang="la"><f type="r">Canabus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="help(n)"><f type="r">Helpe </form><xpln lang="la"><f type="r">Auxilium</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="here(adv)"><f type="r">Here </form><xpln lang="la"><f type="r">Huc</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hers(pr)"><f type="r">Hers </form><xpln lang="la"><f type="r">Sua</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hide(v)"><f type="r">to Hide </form><xpln lang="la"><f type="r">Occulto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hind(n)"><f type="r">Hinde </form><xpln lang="la"><f type="r">Cerva</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="his(pr)"><f type="r">His </form><xpln lang="la"><f type="r">Suus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hither(adv)"><f type="r">Hither </form><xpln lang="la"><f type="r">Hic</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hog(n)"><f type="r">Hog </form><xpln lang="la"><f type="r">Porcus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hold(v)"><f type="r">to Hould </form><xpln lang="la"><f type="r">Teneo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honest(a)"><f type="r">Honest </form><xpln lang="la"><f type="r">Honestus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honestly(adv)"><f type="r">Honestly </form><xpln lang="la"><f type="r">Honeste</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horn(n)"><f type="r">Horne </form><xpln lang="la"><f type="r">Cornu</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)"><f type="r">Horsse </form><xpln lang="la"><f type="r">Equus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hose(n)"><f type="r">Hose </form><xpln lang="la"><f type="r">Caliga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="how(adv)"><f type="r">How </form><xpln lang="la"><f type="r">Quomodo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hundred(n)"><f type="r">Hundred </form><xpln lang="la"><f type="r">Centum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hundreth(n)"><f type="r">Hundreth </form><xpln lang="la"><f type="r">Centesimus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hurt(v)"><f type="r">to Hurt </form><xpln lang="la"><f type="r">Noceo</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en" lexeme="I(pr)"><f type="r">I </form><xpln lang="la"><f type="r">Ego</xpln></wordentry>
+</page>
+
+<page sig="d4r">
+<wordentry type="h"><form lang="en" lexeme="if(c)"><f type="r">If </form><xpln lang="la"><f type="r">Si</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imagine(v)"><f type="r">to Imagine </form><xpln lang="la"><f type="r">Reor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="in(pp)"><f type="r">In </form><xpln lang="la"><f type="r">In</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="invention(n)"><f type="r">Invention </form><xpln lang="la"><f type="r">Inventio</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+<wordentry type="h"><form lang="en" lexeme="keep(v)"><f type="r">to Keepe </form><xpln lang="la"><f type="r">Servo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="king(n)"><f type="r">King </form><xpln lang="la"><f type="r">Rex</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knave(n)"><f type="r">Knave </form><xpln lang="la"><f type="r">Nebulo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knife(n)"><f type="r">Knife </form><xpln lang="la"><f type="r">Cultrum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knot(n)"><f type="r">Knots </form><xpln lang="la"><f type="r">Nodi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="know(v)"><f type="r">to Knowe </form><xpln lang="la"><f type="r">Scio</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="en" lexeme="lard(n)"><f type="r">Lard </form><xpln lang="la"><f type="r">vide <f type="r">Bacon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lead(v)"><f type="r">to Leade </form><xpln lang="la"><f type="r">Duco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leap(v)"><f type="r">to Leape </form><xpln lang="la"><f type="r">Salto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leave(v)"><f type="r">to Leave </form><xpln lang="la"><f type="r">Desino</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lend(v)"><f type="r">to Lend </form><xpln lang="la"><f type="r">Accomodo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="life(n)"><f type="r">Life </form><xpln lang="la"><f type="r">Vita </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lime(n)"><f type="r">Lime </form><xpln lang="la"><f type="r">Calx </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="line(n)"><f type="r">Line </form><xpln lang="la"><f type="r">Linum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)"><f type="r">Little </form><xpln lang="la"><f type="r">Parvus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="live(v)"><f type="r">to Liue </form><xpln lang="la"><f type="r">Vivo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loose(v)"><f type="r">to Loose </form><xpln lang="la"><f type="r">Perdo </xpln></wordentry>
+</page>
+
+<page sig="d4v">
+<wordentry type="h"><form lang="en" lexeme="love(v)"><f type="r">to Love </form><xpln lang="la"><f type="r">Amo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="louse(n)"><f type="r">Louse </form><xpln lang="la"><f type="r">Pediculus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lucre(n)"><f type="r">Lucre </form><xpln lang="la"><f type="r">Lucrum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lie(v)"><f type="r">to Lye </form><xpln lang="la"><f type="r">Iacio </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="en" lexeme="make(v)"><f type="r">to Make </form><xpln lang="la"><f type="r">Facio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="malice(n)"><f type="r">Mallice </form><xpln lang="la"><f type="r">Malitia </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)"><f type="r">Man </form><xpln lang="la"><f type="r">Vir </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marl(n)"><f type="r">Marle </form><xpln lang="la"><f type="r">Merga </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="may(v)"><f type="r">to May </form><xpln lang="la"><f type="r">vid. <f type="r">Can </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meet(v)"><f type="r">to Meete </form><xpln lang="la"><f type="r">Gbvio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milk(n)"><f type="r">Milke </form><xpln lang="la"><f type="r">Lac </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milian(n)"><f type="r">Milian </form><xpln lang="la"><f type="r">Milio</xpln>
+<lemenote>from Latin "milio", a kite, or "millio," a hawk?</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mirth(n)"><f type="r">Mirth </form><xpln lang="la"><f type="r">Hilaritas </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="modesty(n)"><f type="r">Modestie </form><xpln lang="la"><f type="r">Modestia </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="monster(n)"><f type="r">Monster </form><xpln lang="la"><f type="r">Monstrum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="morter(n)"><f type="r">Morter </form><xpln lang="la"><f type="r">C&aelig;mentum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouse(n)"><f type="r">Mouse </form><xpln lang="la"><f type="r">Mus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mow(v)"><f type="r">to Mow </form><xpln lang="la"><f type="r">Meto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="much(adv)"><f type="r">Much </form><xpln lang="la"><f type="r">Multat </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mud(n)"><f type="r">Mud </form><xpln lang="la"><f type="r">Limus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="muck(n)"><f type="r">Muck </form><xpln lang="la"><f type="r">vid. <f type="r">Donge </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mustard(n)"><f type="r">Mustarde </form><xpln lang="la"><f type="r">Sinapis </xpln></wordentry>
+</page>
+
+<page sig="d5r">
+<wordentry type="h"><form lang="en" lexeme="my(pr)"><f type="r">My </form><xpln lang="la"><f type="r">Meus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mine(pr)"><f type="r">Mine </form><xpln lang="la"><f type="r">[[Meus]] </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="en" lexeme="neither(a)"><f type="r">Neither </form><xpln lang="la"><f type="r">Neque </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="never(adv)"><f type="r">Never </form><xpln lang="la"><f type="r">Nunquam </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nevertheless(adv)"><f type="r">Neverthelesse </form><xpln lang="la"><f type="r">Verum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="news(n)"><f type="r">Newes </form><xpln lang="la"><f type="r">Nova </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nigh(a)"><f type="r">Nigh </form><xpln lang="la"><f type="r">Prope </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)"><f type="r">Nine </form><xpln lang="la"><f type="r">Novem </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ninth(a)"><f type="r">Ninth </form><xpln lang="la"><f type="r">Nonus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteen(n)"><f type="r">Nineteene </form><xpln lang="la"><f type="r">Novendecem </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteenth(a)"><f type="r">Nineteenth </form><xpln lang="la"><f type="r">Decimus nonu </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ninety(n)"><f type="r">Ninety </form><xpln lang="la"><f type="r">Nonaginta </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nintieth(a)"><f type="r">Nintieth </form><xpln lang="la"><f type="r">Nonagesimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="no(d)"><f type="r">No </form><xpln lang="la"><f type="r">Non </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nor(c)"><f type="r">Nor </form><xpln lang="la"><f type="r">Nec </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="not(adv)"><f type="r">Not </form><xpln lang="la"><f type="r">Minime </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="notwithstanding(adv)"><f type="r">Notwithstanding </form><xpln lang="la"><f type="r">Attamen </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="now(adv)"><f type="r">Now </form><xpln lang="la"><f type="r">Iam </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nutmeg(n)"><f type="r">Nutmegge </form><xpln lang="la"><f type="r">Nux myristica </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha> 
+<wordentry type="h"><form lang="en" lexeme="oar(n)"><f type="r">Oare </form><xpln lang="la"><f type="r">Remus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oat(n)"><f type="r">Oate </form><xpln lang="la"><f type="r">Avena </xpln></wordentry>
+</page>
+
+<page sig="d5v">
+<wordentry type="h"><form lang="en" lexeme="object(n)"><f type="r">Obiect </form><xpln lang="la"><f type="r">Obiectum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="of(pp)"><f type="r">Of </form><xpln lang="la"><f type="r">De, E, Ex </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="offence(n)"><f type="r">Offence </form><xpln lang="la"><f type="r">Peccatum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="often(adv)"><f type="r">Often </form><xpln lang="la"><f type="r">S&aelig;pe </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oh(ex)"><f type="r">Oh </form><xpln lang="la"><f type="r">Oh </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="on(pp)"><f type="r">On </form><xpln lang="la"><f type="r">Super </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="one(pr)"><f type="r">One,& An </form><xpln lang="la"><f type="r">Vnus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="or(c)"><f type="r">Or </form><xpln lang="la"><f type="r">Vel </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="otherwise(adv)"><f type="r">Otherwise </form><xpln lang="la"><f type="r">Secus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="old(a)"><f type="r">Ould </form><xpln lang="la"><f type="r">Vetus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="out(adv)"><f type="r">Out </form><xpln lang="la"><f type="r">Noster </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="owe(v)"><f type="r">to Owe </form><xpln lang="la"><f type="r">Debeo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxe(n)"><f type="r">Oxe </form><xpln lang="la"><f type="r">Bos </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="penknife(n)"><f type="r">Penknife </form><xpln lang="la"><f type="r">Scalpellum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="people(n)"><f type="r">People </form><xpln lang="la"><f type="r">Populus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepper(n)"><f type="r">Pepper </form><xpln lang="la"><f type="r">Piper </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perfectly(adv)"><f type="r">Perfectly </form><xpln lang="la"><f type="r">Absolute </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parsley(n)"><f type="r">Persley </form><xpln lang="la"><f type="r">Apium </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pitch(n)"><f type="r">Pitch </form><xpln lang="la"><f type="r">Pix </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="place(n)"><f type="r">Place </form><xpln lang="la"><f type="r">Locus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pleasure(n)"><f type="r">Pleasure </form><xpln lang="la"><f type="r">Voluptas </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prisoner(n)"><f type="r">Prisoner </form><xpln lang="la"><f type="r">Captivus </xpln></wordentry>
+</page>
+
+<page sig="d6r">
+<wordentry type="h"><form lang="en" lexeme="purely(adv)"><f type="r">Purely </form><xpln lang="la"><f type="r">Sincere </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="put(v)"><f type="r">to Put </form><xpln lang="la"><f type="r">Pono </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha> 
+<wordentry type="h"><form lang="en" lexeme="quake(v)"><f type="r">to Quake </form><xpln lang="la"><f type="r">Tremo </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en" lexeme="rather(adv)"><f type="r">Rather </form><xpln lang="la"><f type="r">Potius </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raison(n)"><f type="r">Raison </form><xpln lang="la"><f type="r">Vva passa </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="read(v)"><f type="r">to Read </form><xpln lang="la"><f type="r">Lego </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reason(n)"><f type="r">Reason </form><xpln lang="la"><f type="r">Ratio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="receive(v)"><f type="r">to Receive </form><xpln lang="la"><f type="r">Accipio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rend(v)"><f type="r">to Rend </form><xpln lang="la"><f type="r">Lacero </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rhetoric(n)"><f type="r">Rhetorique </form><xpln lang="la"><f type="r">Rhetorica </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ride(v)"><f type="r">to Ride </form><xpln lang="la"><f type="r">Equito </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rise(v)"><f type="r">to Rise </form><xpln lang="la"><f type="r">Surgo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ring(v)"><f type="r">to Ring </form><xpln lang="la"><f type="r">Pulso </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rope(n)"><f type="r">Rope </form><xpln lang="la"><f type="r">Funis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="run(v)"><f type="r">Runne </form><xpln lang="la"><f type="r">Curro </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="saffron(n)"><f type="r">Saffron </form><xpln lang="la"><f type="r">Crocus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sage(n)"><f type="r">Sage </form><xpln lang="la"><f type="r">Salvia </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="say(v)"><f type="r">to Say </form><xpln lang="la"><f type="r">Dico </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scarce(a)"><f type="r">Scarse </form><xpln lang="la"><f type="r">Vix </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)"><f type="r">Seaven </form><xpln lang="la"><f type="r">Septem </xpln></wordentry>
+</page>
+
+<page sig="d6v">
+<wordentry type="h"><form lang="en" lexeme="seventh(a)"><f type="r">Seaventh </form><xpln lang="la"><f type="r">Septimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeen(n)"><f type="r">Seventeene </form><xpln lang="la"><f type="r">Septemdecem </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventieth(a)"><f type="r">Seventieth </form><xpln lang="la"><f type="r">Septuagesimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeenth(a)"><f type="r">Seventeenth </form><xpln lang="la"><f type="r">Decimus septimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventy(n)"><f type="r">Seventie </form><xpln lang="la"><f type="r">Septuaginta </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seek(v)"><f type="r">to Seeke </form><xpln lang="la"><f type="r">Qu&aelig;o </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seldom(adv)"><f type="r">Seldome </form><xpln lang="la"><f type="r">Raro </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sell(v)"><f type="r">to Sell </form><xpln lang="la"><f type="r">Vendo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="send(v)"><f type="r">to Send </form><xpln lang="la"><f type="r">Mitto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="set(v)"><f type="r">to Set </form><xpln lang="la"><f type="r">Pono </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shadow(n)"><f type="r">Shadow </form><xpln lang="la"><f type="r">Vmbra </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shake(v)"><f type="r">to Shake </form><xpln lang="la"><f type="r">Quatio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shambles(n)"><f type="r">Shambles </form><xpln lang="la"><f type="r">Macellum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheaf(n)"><f type="r">Sheafe </form><xpln lang="la"><f type="r">Fascis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shear(v)"><f type="r">to Sheare </form><xpln lang="la"><f type="r">Tondeo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="she(pr)"><f type="r">Shee </form><xpln lang="la"><f type="r">Illa </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep(n)"><f type="r">Sheepe </form><xpln lang="la"><f type="r">Ovis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shine(v)"><f type="r">to Shine </form><xpln lang="la"><f type="r">Luceo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoot(v)"><f type="r">to Shote </form><xpln lang="la"><f type="r">Sagitto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shrink(v)"><f type="r">to Shrinke </form><xpln lang="la"><f type="r">Contraho </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shut(v)"><f type="r">to Shut </form><xpln lang="la"><f type="r">Claudo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sing(v)"><f type="r">to Sing </form><xpln lang="la"><f type="r">Canto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scissors(n)"><f type="r">Sissers </form><xpln lang="la"><f type="r">Forfex </xpln></wordentry>
+</page>
+
+<page sig="d7r">
+<wordentry type="h"><form lang="en" lexeme="sit(v)"><f type="r">to Sit </form><xpln lang="la"><f type="r">Sedeo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)"><f type="r">Six </form><xpln lang="la"><f type="r">Sex <f type="r"> </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixth(a)"><f type="r">Sixt </form><xpln lang="la"><f type="r">Sextus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteen(n)"><f type="r">Sixteene </form><xpln lang="la"><f type="r">Sexdecim </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteenth(a)"><f type="r">Sixteenth </form><xpln lang="la"><f type="r">Decimus sextus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixty(n)"><f type="r">Sixtie </form><xpln lang="la"><f type="r">Sexaginta </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixtieth(a)"><f type="r">Sixtieth </form><xpln lang="la"><f type="r">Sexagesimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slay(v)"><f type="r">to Slay </form><xpln lang="la"><f type="r">Trucido </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sleep(v)"><f type="r">to Sleepe </form><xpln lang="la"><f type="r">Dormio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slide(v)"><f type="r">to Slide </form><xpln lang="la"><f type="r">Labor </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slime(n)"><f type="r">Slime </form><xpln lang="la"><f type="r">vid Mud </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smite(v)"><f type="r">to Smite </form><xpln lang="la"><f type="r">Percutio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smoke(n)"><f type="r">Smoke </form><xpln lang="la"><f type="r">Fumus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smooth(a)"><f type="r">Smooth </form><xpln lang="la"><f type="r">Planus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snake(n)"><f type="r">Snake </form><xpln lang="la"><f type="r">Anguis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="so(adv)"><f type="r">So </form><xpln lang="la"><f type="r">Sic </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soberly(adv)"><f type="r">Soberly. </form><xpln lang="la"><f type="r">Sobrie </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soon(adv)"><f type="r">Soone </form><xpln lang="la"><f type="r">Cito </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soot(n)"><f type="r">Soote </form><xpln lang="la"><f type="r">Fuligo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sow(v)"><f type="r">to Sowe </form><xpln lang="la"><f type="r">Semino </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="speak(v)"><f type="r">to Speake </form><xpln lang="la"><f type="r">Loquor </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spend(v)"><f type="r">to Spend </form><xpln lang="la"><f type="r">Consumo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spice(n)"><f type="r">Spice </form><xpln lang="la"><f type="r">Aroma </xpln></wordentry>
+</page>
+
+<page sig="d7v">
+<wordentry type="h"><form lang="en" lexeme="spin(v)"><f type="r">to Spin </form><xpln lang="la"><f type="r">Neo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spread(v)"><f type="r">to Spread </form><xpln lang="la"><f type="r">Pando </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spring(v)"><f type="r">to Spring </form><xpln lang="la"><f type="r">Germino </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="staff(n)"><f type="r">Staffe </form><xpln lang="la"><f type="r">Baculus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stand(v)"><f type="r">to Stand </form><xpln lang="la"><f type="r">Sto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steal(v)"><f type="r">to Steale </form><xpln lang="la"><f type="r">Furor </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steep(v)"><f type="r">to Steepe </form><xpln lang="la"><f type="r">Immergo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stick(n)"><f type="r">Sticke </form><xpln lang="la"><f type="r">Igniculum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="still(adv)"><f type="r">Still </form><xpln lang="la"><f type="r">Assidu&egrave; </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sting(v)"><f type="r">to Sting </form><xpln lang="la"><f type="r">Pungo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone(n)"><f type="r">Stone </form><xpln lang="la"><f type="r">Lapis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="straight(a)"><f type="r">Straight </form><xpln lang="la"><f type="r">Illico </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strip(v)"><f type="r">to Strip </form><xpln lang="la"><f type="r">Exuo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strive(v)"><f type="r">to Strive </form><xpln lang="la"><f type="r">Certo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strength(n)"><f type="r">Strength </form><xpln lang="la"><f type="r">Fortitudo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strong(a)"><f type="r">Strong </form><xpln lang="la"><f type="r">Fortis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subdue(v)"><f type="r">to Subdue </form><xpln lang="la"><f type="r">Subdo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="such(a)"><f type="r">Such </form><xpln lang="la"><f type="r">Talis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sewet(n)"><f type="r">Sewet </form><xpln lang="la"><f type="r"> S&aelig;vum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sugar(n)"><f type="r">Sugar </form><xpln lang="la"><f type="r">Saccharum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="swan(n)"><f type="r">Swanne </form><xpln lang="la"><f type="r"> Cignus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="swear(v)"><f type="r">to Sweare </form><xpln lang="la"><f type="r"> Iuro </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweep(v)"><f type="r">to Sweepe </form><xpln lang="la"><f type="r">Verro </xpln></wordentry>
+</page>
+
+<page sig="d8r">
+<wordentry type="h"><form lang="en" lexeme="sweet(a)"><f type="r">Sweete </form><xpln lang="la"><f type="r">Dulcis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="swim(v)"><f type="r">to Swimme </form><xpln lang="la"><f type="r">No </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="swine(n)"><f type="r">Swine </form><xpln lang="la"><f type="r">Sus </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha> 
+<wordentry type="h"><form lang="en" lexeme="take(v)"><f type="r">to Take </form><xpln lang="la"><f type="r">Capio </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tallow(n)"><f type="r">Tallow </form><xpln lang="la"><f type="r">vid. <f type="r">Sewet </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tar(n)"><f type="r">Tarre </form><xpln lang="la"><f type="r">vid. <f type="r">Pitch </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="teach(v)"><f type="r">to Teach </form><xpln lang="la"><f type="r">Doceo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tear(v)"><f type="r">to Teare </form><xpln lang="la"><f type="r">Lacero </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tell(v)"><f type="r">to Tell </form><xpln lang="la"><f type="r">Narro </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)"><f type="r">Ten </form><xpln lang="la"><f type="r">Decem </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tenth(a)"><f type="r">Tenth </form><xpln lang="la"><f type="r">Decimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="terrible(a)"><f type="r">Terrible </form><xpln lang="la"><f type="r">Horribilis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="terror(n)"><f type="r">Terror </form><xpln lang="la"><f type="r">Terror </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="that(r)"><f type="r">That </form><xpln lang="la"><f type="r">Illu&agrave; </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="then(adv)"><f type="r">Then </form><xpln lang="la"><f type="r">Tunc </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="therefore(adv)"><f type="r">Therefore </form><xpln lang="la"><f type="r">Idcirco </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thing(n)"><f type="r">Thing </form><xpln lang="la"><f type="r">Res </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="think(v)"><f type="r">to Thinke </form><xpln lang="la"><f type="r">Cogito </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="third(a)"><f type="r">Third </form><xpln lang="la"><f type="r">Tertius </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteen(n)"><f type="r">Thirteene </form><xpln lang="la"><f type="r">Tredecem </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteenth(a)"><f type="r">Thirteenth </form><xpln lang="la"><f type="r">Decimus tertius </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirty(n)"><f type="r">Thirtie </form><xpln lang="la"><f type="r">Triginta </xpln></wordentry>
+</page>
+
+<page sig="d8v">
+<wordentry type="h"><form lang="en" lexeme="thirtieth(a)"><f type="r">Thirtieth </form><xpln lang="la"><f type="r">Trigesimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="this(pr)"><f type="r">This </form><xpln lang="la"><f type="r">Hic, H&aelig;c, hoc </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thou(pr)"><f type="r">Thou </form><xpln lang="la"><f type="r">Tu </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thousand(n)"><f type="r">Thousand </form><xpln lang="la"><f type="r">Mille </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)"><f type="r">Three </form><xpln lang="la"><f type="r">Tres </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throw(v)"><f type="r">to Throw </form><xpln lang="la"><f type="r">Iacto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="timber(n)"><f type="r">Timber </form><xpln lang="la"><f type="r">Lignum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="time(n)"><f type="r">Time </form><xpln lang="la"><f type="r">Tempus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tinder(n)"><f type="r">Tinder </form><xpln lang="la"><f type="r">Igniareum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="to(pp)"><f type="r">To </form><xpln lang="la"><f type="r">Ad </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="together(adv)"><f type="r">Togither </form><xpln lang="la"><f type="r">Vna </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tooth(n)"><f type="r">Tooth </form><xpln lang="la"><f type="r">Dens </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tow(n)"><f type="r">Towe </form><xpln lang="la"><f type="r">Stupa </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tread(v)"><f type="r">to Tread </form><xpln lang="la"><f type="r">Calco </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trencher(n)"><f type="r">Trencher </form><xpln lang="la"><f type="r">Quadra </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tweed(n)"><f type="r">Tweede </form><xpln lang="la"><f type="r">Tuesis </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelve(n)"><f type="r">Twelve </form><xpln lang="la"><f type="r">Duodecim </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelft(a)"><f type="r">Twelft </form><xpln lang="la"><f type="r">Duodecimus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty(n)"><f type="r">Twentie </form><xpln lang="la"><f type="r">Viginti </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twentieth(a)"><f type="r">Twentieth </form><xpln lang="la"><f type="r">Vigesimus. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha> 
+<wordentry type="h"><form lang="en" lexeme="virtue(n)"><f type="r">Vertue </form><xpln lang="la"><f type="r">Virtus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="under(pp)"><f type="r">Vnder </form><xpln lang="la"><f type="r">Subter </xpln></wordentry>
+</page>
+
+<page sig="e1r">
+<wordentry type="h"><form lang="en" lexeme="unless(c)"><f type="r">Vnlesse </form><xpln lang="la"><f type="r">Nisi </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="until(pp)"><f type="r">Vntill </form><xpln lang="la"><f type="r">Donec </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="unto(pp)"><f type="r">Vnto </form><xpln lang="la"><f type="r">Ad </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="void(a)"><f type="r">Void </form><xpln lang="la"><f type="r">Vacuus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="upon(pp)"><f type="r">Vpon </form><xpln lang="la"><f type="r">Supra </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha> 
+<wordentry type="h"><form lang="en" lexeme="water(n)"><f type="r">Water </form><xpln lang="la"><f type="r">Aqua </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wax(n)"><f type="r">Waxe </form><xpln lang="la"><f type="r">Cera </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wear(v)"><f type="r">Weare </form><xpln lang="la"><f type="r">Gesto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="weep(v)"><f type="r">Weepe </form><xpln lang="la"><f type="r">Ploro </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wet(v)"><f type="r">Wet </form><xpln lang="la"><f type="r">Humecto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="well(adv)"><f type="r">Well </form><xpln lang="la"><f type="r">Bene </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="what(pr)"><f type="r">What </form><xpln lang="la"><f type="r">Quid </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wheat(n)"><f type="r">Wheate </form><xpln lang="la"><f type="r">Triticum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whence(adv)"><f type="r">Whence </form><xpln lang="la"><f type="r">Vnde </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="where(c)"><f type="r">Where </form><xpln lang="la"><f type="r">Vbi </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wherefore(adv)"><f type="r">Wherefore </form><xpln lang="la"><f type="r">Quamobrem </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whither(adv)"><f type="r">Whither </form><xpln lang="la"><f type="r">Vtrum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whetstone(n)"><f type="r">Whetstone </form><xpln lang="la"><f type="r">Cos </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="which(r)"><f type="r">Which </form><xpln lang="la"><f type="r">Qui, qu&aelig;, quod</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whip(v)"><f type="r">Whip </form><xpln lang="la"><f type="r">Flagello </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="will(v)"><f type="r">to Will </form><xpln lang="la"><f type="r">Volo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="who(r)"><f type="r">Who </form><xpln lang="la">Quis </xpln></wordentry>
+</page>
+
+<page sig="e1v">
+<wordentry type="h"><form lang="en" lexeme="whose(r)"><f type="r">Whose </form><xpln lang="la"><f type="r">Cuius </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)"><f type="r">Wine </form><xpln lang="la"><f type="r">Vinum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wink(v)"><f type="r">to Winke </form><xpln lang="la"><f type="r">Niveo </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="win(v)"><f type="r">to Winne </form><xpln lang="la"><f type="r">Lucror </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wish(v)"><f type="r">to Wish </form><xpln lang="la"><f type="r">Opto </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="with(pp)"><f type="r">With </form><xpln lang="la"><f type="r">Cum </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="within(pp)"><f type="r">Within </form><xpln lang="la"><f type="r">Intus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="without(adv)"><f type="r">Without </form><xpln lang="la"><f type="r">Foras </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wit(n)"><f type="r">Wit </form><xpln lang="la"><f type="r">Ingenium </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woe(n)"><f type="r">Woe </form><xpln lang="la"><f type="r">Vah </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="work(n)"><f type="r">Worke </form><xpln lang="la"><f type="r">Opus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="world(n)"><f type="r">World </form><xpln lang="la"><f type="r">Mundus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="worthy(a)"><f type="r">Worthy </form><xpln lang="la"><f type="r">Dignus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="write(v)"><f type="r">to Write </form><xpln lang="la"><f type="r">Scribo </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y</alpha>
+<wordentry type="h"><form lang="en" lexeme="yea(ex)"><f type="r">Yea </form><xpln lang="la"><f type="r">Etiam </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yet(adv)"><f type="r">Yet </form><xpln lang="la"><f type="r">Adhuc </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yoked(a)"><f type="r">Yoked </form><xpln lang="la"><f type="r">Iugatus </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yonder(adv)"><f type="r">Yonder </form><xpln lang="la"><f type="r">Ibi </xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+<page sig="e5r">
+<section type="Middle English-English glossary">
+VOCABVLA
+<f type="I">Chauceriana qu&aelig;dam se&shy;
+<f type="r">LECTIORA, ET MINVS
+<f type="I">VVLGARIA IPS&AElig; HO&shy;
+<f type="r">die Poetarum delici&aelig;, vn&agrave; cum
+eorum significatis.
+
+<f type="I">In gratiam omnium huius lingu&aelig; studio so&shy;
+rum pr&aelig;cipue vero Poematum, di scerp&shy;
+ta, & in hunc or dinem digesta.
+
+<f type="r">Eodem Authore.
+
+Stellis, ac herbis vis est, sed maxima verbis.
+</page>
+
+<page sig="e5r">
+</page>
+
+<page sig="e5r">
+<heading>
+<f type="I">Chauceriana.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha><f type="r">A</alpha>
+<wordentry type="h"><form lang="me" lexeme="ander(pr)"><f type="r">Ander </form><xpln lang="en" lexeme="other(pr)"><f type="i">Other </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="anempst(pp)"><f type="r">Anempst </form><xpln lang="en"><f type="i">Against side by side </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="antique(a)"><f type="r">Antique </form><xpln lang="en" lexeme="ancient(a)"><f type="i">Auncient </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="appall(v)"><f type="r">to Appall </form><xpln lang="en" lexeme="affray(v)" lexeme="scare(v)" lexeme="terrify(v)"><f type="i">Affray, scare, terrifie </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha> 
+<wordentry type="h"><form lang="me" lexeme="bale(n)"><f type="r">Bale </form><xpln lang="en" lexeme="ruth(n)" lexeme="misery(n)"><f type="i">Ruth, pinching care, miserie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ban(n)"><f type="r">Banne </form><xpln lang="en" lexeme="curse(v)" lexeme="execrate(v)"><f type="i">Curse, and execrate </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="barn(n)"><f type="r">Barne </form><xpln lang="en" lexeme="child(n)" lexeme="baby(n)"><f type="i">Childe, babie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="behest(n)"><f type="r">Behest </form><xpln lang="en" lexeme="will(n)" lexeme="purpose(n)" lexeme="precept(n)"><f type="i">Will, purpose, or precepts </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="belt(n)"><f type="r">Belt </form><xpln lang="en" lexeme="girdle(n)"><f type="i">Girdle </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bid(v)"><f type="r">to Bidde </form><xpln lang="en" lexeme="pray(v)"><f type="i">To pray </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bilive(adv)"><f type="r">Bilive </form><xpln lang="en" lexeme="by and by(adv)" lexeme="anon(adv)"><f type="i">By and by, anon </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="blandishment(n)"><f type="r">Blandishment </form><xpln lang="en" lexeme="flattering(n)"><f type="i">Flattering, smooth speaking </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="blazon(v)"><f type="r">to Blazon </form><xpln lang="en" lexeme="blow(v)" lexeme="publish(v)"><f type="i">To blow, to sit abroch, or publish </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bleak(n)"><f type="r">Bleake </form><xpln lang="en" lexeme="storm(n)"><f type="i">A storme </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="blend(v)"><f type="r">to Blend </form><xpln lang="en" lexeme="mix(v)" lexeme="mingle(v)"><f type="i">To mixe, or mingle </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="boot(v)"><f type="r">to Boote </form><xpln lang="en" lexeme="avail(v)" lexeme="help(v)" lexeme="profit(v)"><f type="i">To auaile, helpe, or profit </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bord(v)"><f type="r">to Bourd </form><xpln lang="en" lexeme="jest(v)" lexeme="mock(v)" lexeme="taunt(v)"><f type="i">Jest, mocke, or taunt </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bown(adv)"><f type="r">Bowne </form><xpln lang="en" lexeme="ready(a)" lexeme="prepared(a)"><f type="i">Readie, prepared </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bower(n)"><f type="r">Bowrs </form><xpln lang="en" lexeme="lodging(n)" lexeme="room(n)"><f type="i">Lodgings, roomes, secret places of a&shy;
+boade </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="breme(a)"><f type="r">Breme </form><xpln lang="en" lexeme="bitter(a)" lexeme="chill(a)" lexeme="cold(a)"><f type="i">Bitter, chill, or cold </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="buss(v)"><f type="r">to Busse </form><xpln lang="en" lexeme="kiss(v)"><f type="i">Kisse </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bust(v)"><f type="r">Bust </form><xpln lang="en" lexeme="go about(v)" lexeme="meddle(v)"><f type="i">To goe, about, or meddle </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha> 
+<wordentry type="h"><form lang="me" lexeme="carrol(v)"><f type="r">to Carroll </form><xpln lang="en" lexeme="sing(v)" lexeme="dance(v)"><f type="i">To sing, daunce </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="car(n)"><f type="r">Carre </form><xpln lang="en" lexeme="chariot(n)" lexeme="wagon(n)"><f type="i">Chariot, or wagon </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="cleap(v)"><f type="r">to Cleape </form><xpln lang="en" lexeme="call(v)" lexeme="name(v)"><f type="i">To call or name </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="quaint(a)"><f type="r">Cointe </form><xpln lang="en" lexeme="quiet(a)"><f type="i">Queiat, nicely strange </xpln></wordentry>
+</page>
+
+<page sig="e5v">
+<wordentry type="h"><form lang="me" lexeme="con(v)"><f type="r">to Con </form><xpln lang="en" lexeme="can(v)"><f type="i">To can </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="crag(n)"><f type="r">Cragge </form><xpln lang="en" lexeme="neck(n)"><f type="i">Necke </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="crawl(v)"><f type="r">to Craule </form><xpln lang="en" lexeme="creep(v)"><f type="i">To Creepe </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha> 
+<wordentry type="h"><form lang="me" lexeme="dere(v)"><f type="r">to Deare </form><xpln lang="en" lexeme="trouble(v)" lexeme="molest(v)" lexeme="grieve(v)"><f type="i">To trouble, molest, or grieue </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="deal(n)"><f type="r">Deele </form><xpln lang="en" lexeme="part(n)"><f type="i">A part </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="deem(v)"><f type="r">to Deeme </form><xpln lang="en" lexeme="judge(v)" lexeme="think(v)" lexeme="suppose(v)"><f type="i">Judge, thinke, suppose </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="din(n)"><f type="r">Din </form><xpln lang="en" lexeme="noise(n)"><f type="i">Noise </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="doff(v)"><f type="r">to Doffe </form><xpln lang="en" lexeme="do off(v)" lexeme="undress(v)"><f type="i">By Apostrophe to doe off, vndresse, </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="don(v)"><f type="r">to Don </form><xpln lang="en" lexeme="do on(v)" lexeme="put on(v)" lexeme="apparel(v)"><f type="i">For doe on, put on, or to apparell </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="dreary(a)"><f type="r">Drerie </form><xpln lang="en" lexeme="dolsome(a)" lexeme="unlucky(a)" lexeme="terrible(a)"><f type="i">Dolsome, vnluckie, terrible </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha> 
+<wordentry type="h"><form lang="me" lexeme="enaunter(pp)"><f type="r">Ennaunter </form><xpln lang="en" lexeme="least that(pp)"><f type="i">Least that </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="erst(a)"><f type="r">Erst </form><xpln lang="en" lexeme="first(a)"><f type="i">First </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="me" lexeme="foam(v)"><f type="r">to Feime </form><xpln lang="en" lexeme="rage(v)" lexeme="chaff(v)"><f type="i">To rage to chafe </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="flite(v)"><f type="r">to Flite </form><xpln lang="en" lexeme="chide(v)" lexeme="scold(v)"><f type="i">To chide, or scold </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="fremd(a)"><f type="r">Fremd </form><xpln lang="en" lexeme="strange(a)"><f type="i">Strange, not of kinne </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="me" lexeme="gab(n)"><f type="r">Gab </form><xpln lang="en" lexeme="lie(n)"><f type="i">A Lie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="gar(v)"><f type="r">to Garre </form><xpln lang="en" lexeme="constrain(v)"><f type="i">To cause make, constraine </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="glee(n)"><f type="r">Glee </form><xpln lang="en" lexeme="mirth(n)" lexeme="melody(n)"><f type="i">Mirth, melodie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="greet(v)"><f type="r">to Greete </form><xpln lang="en" lexeme="weep(v)" lexeme="mourn(v)" lexeme="lament(v)"><f type="i">To weepe, mourne, lament </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="guerdon(n)"><f type="r">Guerdon </form><xpln lang="en"><f type="i">Reward, in lieu, of desert </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha> 
+<wordentry type="h"><form lang="me" lexeme="hight(a)"><f type="r">Hight </form><xpln lang="en" lexeme="called(a)" lexeme="termed(a)" lexeme="named(a)"><f type="i">Called, tearmed, named </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha> 
+<wordentry type="h"><form lang="me" lexeme="ick(pr)"><f type="r">Ick </form><xpln lang="en" lexeme="I(pr)"><f type="i">I </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ilk(pr)"><f type="r">Ilke </form><xpln lang="en" lexeme="each(pr)" lexeme="every one(pr)"><f type="i">Each, euery one </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+<wordentry type="h"><form lang="me" lexeme="keen(a)"><f type="r">Keene </form><xpln lang="en" lexeme="sharp(a)" lexeme="fierce(a)"><f type="i">Sharpe, fierce </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ken(v)"><f type="r">to Keene </form><xpln lang="en" lexeme="know(v)"><f type="i">To know </xpln></wordentry>
+</page>
+
+<page sig="e6r">
+<wordentry type="h"><form lang="me" lexeme="kern(n)"><f type="r">Kerne </form><xpln lang="en" lexeme="churl(n)"><f type="i">a Churle </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="kirke(n)"><f type="r">Kirke </form><xpln lang="en" lexeme="church(n)"><f type="i">Church </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="cole(n)"><f type="r">Kole </form><xpln lang="en" lexeme="pottage(n)" lexeme="broth(n)"><f type="i">Pottage, broth </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="me" lexeme="lamkin(n)"><f type="r">Lamkins </form><xpln lang="en"><f type="i">Young lambes </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lass(n)"><f type="r">Lasse </form><xpln lang="en" lexeme="wench(n)" lexeme="maid(n)" lexeme="girl(n)"><f type="i">Wench, maide, or girle </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lay(n)"><f type="r">Lay </form><xpln lang="en" lexeme="song(n)" lexeme="ditty(n)" lexeme="tune(n)"><f type="i">Song, dittie, or tune </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lake(v)"><f type="r">to Leake </form><xpln lang="en" lexeme="play(v)"><f type="i">To play, to sport as children doe </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="leif(a)"><f type="r">Leife </form><xpln lang="en" lexeme="dear(a)" lexeme="beloued(a)"><f type="i">Deare, beloued </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lig(v)"><f type="r">to Ligge </form><xpln lang="en" lexeme="lie down(v)"><f type="i">To lie downe, as in bed </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lither(a)"><f type="r">Lither </form><xpln lang="en" lexeme="idle(a)" lexeme="slouthful(a)" lexeme="lazy(a)"><f type="i">Idle, slouthfull, lasie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lore(n)"><f type="r">Lore </form><xpln lang="en" lexeme="practice(n)" lexeme="deed(n)"><f type="i">Practise, deede </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lout(v)"><f type="r">to Lout </form><xpln lang="en" lexeme="reverence(v)"><f type="i">To reuerence, to doe obeysance with 
+the legge </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lundey(a)"><f type="r">Lundey </form><xpln lang="en" lexeme="sturdy(a)" lexeme="stubborn(a)" lexeme="froward(a)"><f type="i">Sturdy, stubborne, froward </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha> 
+<wordentry type="h"><form lang="me" lexeme="macht(n)"><f type="r">Macht </form><xpln lang="en" lexeme="might(n)" lexeme="power(n)" lexeme="strength(n)"><f type="i">Might, power, strength </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="meed(n)"><f type="r">Meede </form><xpln lang="en">vide <f type="i">Guerdon </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="mell(v)"><f type="r">to Mell </form><xpln lang="en" lexeme="meddle(v)"><f type="i">To meddle </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="meth(n)"><f type="r">Meth </form><xpln lang="en" lexeme="might(n)" lexeme="power(n)" lexeme="authority(n)"><f type="i">Might, power, authoritie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="mickle(n)"><f type="r">Mickle </form><xpln lang="en" lexeme="much(n)"><f type="i">Much </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="midden(n)"><f type="r">Midding </form><xpln lang="en" lexeme="dunghill(n)"><f type="i">Dunghill </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ming(v)"><f type="r">to Ming </form><xpln lang="en" lexeme="speak of(v)"><f type="i">To speake of, to shew in words </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="mirky(a)" lexeme="marky(a)"><f type="r">Mirke 
+Marke </form><xpln lang="en" lexeme="dark(a)" lexeme="obscure(a)"><f type="i">Darke, obscure </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="mone(n)"><f type="r">Mone </form><xpln lang="en" lexeme="lamentation(n)" lexeme="sorrow(n)" lexeme="wailing(n)"><f type="i">Lamentation, sorrow, waylinge </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha> 
+<wordentry type="h"><form lang="me" lexeme="nieve(n)"><f type="r">Neue </form><xpln lang="en" lexeme="fist(n)"><f type="i">Fist </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="nook(n)"><f type="r">Nooke </form><xpln lang="en" lexeme="corner(n)" lexeme="angle(n)"><f type="i">Corner, or angle </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha> 
+<wordentry type="h"><form lang="me" lexeme="pight(v)"><f type="r">to Pight </form><xpln lang="en" lexeme="pitch(n)" lexeme="set down(v)" lexeme="address(v)"><f type="i">To pitch, set downe, addresse </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="e6v">
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+<wordentry type="h"><form lang="me" lexeme="quell(v)"><f type="r">Quell </form><xpln lang="en" lexeme="abate(v)" lexeme="kill(v)"><f type="i">To abate, or kill </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="me" lexeme="ray(n)"><f type="r">Rayes </form><xpln lang="en" lexeme="sunbeam(n)"><f type="i">Sunbeames </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="reed(v)"><f type="r">to Reede </form><xpln lang="en" lexeme="shew(v)" lexeme="tell(v)" lexeme="declare(v)" lexeme="expound(v)"><f type="i">To shew, tell, declare, expound </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="reck(v)"><f type="r">Recke </form><xpln lang="en" lexeme="care(v)" lexeme="regard(v)" lexeme="account of(v)"><f type="i">To care, regard, or account of </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="reek(n)"><f type="r">Reeke </form><xpln lang="en" lexeme="smoke(n)"><f type="i">Smoke </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ruth(n)"><f type="r">Ruth </form><xpln lang="en" lexeme="grief(n)" lexeme="pity(n)" lexeme="sorrow(n)"><f type="i">Griefe, pitie, sorrow </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha> 
+<wordentry type="h"><form lang="me" lexeme="sam(adv)"><f type="r">Sam </form><xpln lang="en" lexeme="together(adv)"><f type="i">Together </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="sark(n)"><f type="r">Sarke </form><xpln lang="en" lexeme="shirt(n)" lexeme="smock(n)"><f type="i">A shirt or smocke </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="scathe(n)"><f type="r">Scathe </form><xpln lang="en" lexeme="hurt(n)" lexeme="loss(n)" lexeme="hindrance(n)"><f type="i">Hurt, losse, hindrance </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="shend(v)"><f type="r">to Shend </form><xpln lang="en" lexeme="blame(v)" lexeme="reprove(v)"><f type="i">To blame, or reprooue </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="sib(a)"><f type="r">Sib </form><xpln lang="en" lexeme="kin, of(a)" lexeme="like(a)"><f type="i">Of kin, like </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="sith(adv)"><f type="r">Sith </form><xpln lang="en" lexeme="times(adv)"><f type="i">Times </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="sneb(v)"><f type="r">to Sneb </form><xpln lang="en" lexeme="check(v)" lexeme="control(v)"><f type="i">Checke, or controll </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="sore(a)"><f type="r">Soore </form><xpln lang="en" lexeme="sweet(a)"><f type="i">Sweete </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="source(n)"><f type="r">Source </form><xpln lang="en" lexeme="original(n)" lexeme="fountain(n)" lexeme="welspring(n)"><f type="i">Originall, fountaine, welspring </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="spell(n)"><f type="r">Spell </form><xpln lang="en" lexeme="charm(n)" lexeme="verse(n)" lexeme="word(n)" lexeme="gods spell(n)"><f type="i">A charme, verse, or worde vsed of 
+exorcists in their magicall con&shy; 
+clusions, but sometimes vsed in 
+better part, as Gospell, for Gods 
+spell. </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="stank(a)"><f type="r">Stanke </form><xpln lang="en" lexeme="faint(a)" lexeme="weary(a)"><f type="i">Faint, wearie </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="stark(a)"><f type="r">Starke </form><xpln lang="en" lexeme="strong(a)" lexeme="stiff(a)" lexeme="dead(a)" lexeme="benumbed(a)"><f type="i">Strong, also stiffe, deade, or benum&shy;
+med </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="stour(n)" lexeme="stound(n)"><f type="r">Stowre <term lang="en">or</term> Stownd </form><xpln lang="en" lexeme="fit(n)" lexeme="pardon(n)" lexeme="perplexity(n)"><f type="i">Fit, pardon, perplexitie </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha> 
+<wordentry type="h"><form lang="me" lexeme="teen(n)"><f type="r">Teene </form><xpln lang="en"><f type="i">Revengefull wrath, inveterate ma&shy;
+lice </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="thole(v)"><f type="r">Thoile </form><xpln lang="en" lexeme="suffer(v)"><f type="i">To suffer, permit to be willing, to im&shy;
+port to another </xpln></wordentry>
+</page>
+
+<page sig="e7r">
+<wordentry type="h"><form lang="me" lexeme="thrill(v)"><f type="r">to Thrill </form><xpln lang="en" lexeme="pierce(v)"><f type="i">To pearce </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="throb(n)"><f type="r">Throb </form><xpln lang="en" lexeme="sigh(n)" lexeme="groan(n)"><f type="i">A sigh, groane </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="me" lexeme="uncouth(a)"><f type="r">Vncouth </form><xpln lang="en" lexeme="unknown(a)" lexeme="unkent(a)" lexeme="strange(a)"><f type="i">Vnknowne, vnkent, strange </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha> 
+<wordentry type="h"><form lang="me" lexeme="waxen(v)"><f type="r">to Waxen </form><xpln lang="en" lexeme="begin(v)" lexeme="grow(v)" lexeme="increase(v)"><f type="i">To begin, to grow, to increase </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="weede(n)"><f type="r">Weede </form><xpln lang="en" lexeme="attire(n)" lexeme="apparel(n)"><f type="i">Attire, apparell </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ween(v)"><f type="r">to Weene </form><xpln lang="en" lexeme="think(v)" lexeme="purpose(v)" lexeme="intend(v)" lexeme="guess(v)" lexeme="trow(v)"><f type="i">To thinke, purpose, intende, gesse, 
+trowe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="welkin(n)"><f type="r">Welkin </form><xpln lang="en" lexeme="sky(n)" lexeme="firmament(n)"><f type="i">Skie or firmament </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="weel(n)"><f type="r">Weele </form><xpln lang="en" lexeme="prosperity(v)"><f type="i">Prosperitie, good plight </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wend(v)"><f type="r">to Wend </form><xpln lang="en" lexeme="go(v)" lexeme="turn(v)"><f type="i">To goe, to turne </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="weet(v)"><f type="r">to Weete </form><xpln lang="en" lexeme="know(v)" lexeme="understand(v)"><f type="i">To know, to vnderstand </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="whilk(r)"><f type="r">Whilke </form><xpln lang="en" lexeme="which(r)"><f type="i">Which </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="whilom(adv)"><f type="r">Whilom </form><xpln lang="en" lexeme="once(adv)" lexeme="lately(adv)"><f type="i">Once, lately </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wield(v)"><f type="r">to Wield </form><xpln lang="en" lexeme="rule(v)" lexeme="govern(v)" lexeme="direct(v)"><f type="i">To rule, gouerne, direct </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wight(n)"><f type="r">Wight </form><xpln lang="en"><f type="i">Any liue creature </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wimble(n)"><f type="r">Wimble </form><xpln lang="en" lexeme="nimble(a)" lexeme="quick(a)" lexeme="deliver(a)"><f type="i">Nimble, quicke deliuer </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wite(v)"><f type="r">to Wite </form><xpln lang="en" lexeme="reprove(v)"><f type="i">Reprooue </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wood(a)"><f type="r">Woode </form><xpln lang="en" lexeme="mad(a)" lexeme="furious(a)" lexeme="outragious(a)"><f type="i">Madde, furious, outragious </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="won(v)"><f type="r">to Wonne </form><xpln lang="en" lexeme="frequent(v)" lexeme="dwell(v)" lexeme="inhabit(v)"><f type="i">To frequent, dwell, inhabite </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wrack(n)"><f type="r">Wracke </form><xpln lang="en" lexeme="ruin(n)" lexeme="violence(n)"><f type="i">Ruine, violence </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wreak(v)"><f type="r">to Wreake </form><xpln lang="en" lexeme="revenge(v)"><f type="i">To revenge </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y</alpha>
+<wordentry type="h"><form lang="me" lexeme="yore(adv)"><f type="r">Yore </form><xpln lang="en" lexeme="long ago(adv)" lexeme="afore-time(adv)"><f type="i">Long agoe, afore-time </xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="yede(v)"><f type="r">to Yeede </form><xpln lang="en" lexeme="go(v)" lexeme="wend(v)"><f type="i">To goe, to wende </xpln></wordentry>
+</wordgroup1>
+
+<closing>
+<f type="I">FINIS.
+</closing>
+</section>
+</page>
+</leme>

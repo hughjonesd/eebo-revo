@@ -1,0 +1,235 @@
+
+
+<leme no="129">
+<page>
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 5 5 4 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="glossary">	
+<heading>
+&#182; A note to vnderstand 
+the meaning of newe
+deuised Termes.
+</heading>
+
+FYrste consider the partes of eche com&#173;
+pounded terme: then turne to that place
+in our Booke, which the two numbers
+do poynt foorth, that are set vpon the word:
+And if thou be a Latiniste, take also that
+helpe, whyche the Latine terme dothe
+yelde.
+
+<wordgroup1 type="a" object="a">
+<wordentry type="h"><form lexeme="altering(n)">Altering. </form> <xpln> 62. 19. <etym lang="la">alteratio</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">
+<wordentry type="h"><form lexeme="bounder(n)">a Bounder. </form> <xpln> 20.3. so called, for that it poyn&#173;
+teth foorth the vtmost reach of any thing,
+<etym lang="la">terminus</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="backset(n)">a Backesette. </form> <xpln> 71.1. pr&#230;dicatum, consequens,
+<etym lang="la">attributum</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="begetting(n)" lexeme="engendering(n)" lexeme="creating(n)">a Begetting or an ingendring, or a creating</form>
+<xpln>60.2. <etym lang="la">generatio, ortus</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">
+<wordentry type="h"><form lexeme="contrary(n)">Contraries. </form> <xpln> 70.30. &#38;. 88. 3. <etym lang="la">contraria, ad&#173;
+uersa</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corrupting(n)">Corrupting. </form> <xpln> 60.3. <etym lang="la">corruptio, interitus</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">
+<wordentry type="h"><form lexeme="term, depriving(n)">Depriuing termes. </form> <xpln> 54.6. <etym lang="la">priuatiua</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="term, denying(n)">Denying termes. </form> <xpln> 54.7. <etym lang="la">contradictoria, ne&#173;
+gantia</etym>.</xpln></wordentry>
+
+</page>
+
+<page>
+<wordentry type="h"><form lexeme="difference(n)">Difference. </form> <xpln> 80.1. <etym lang="la">differentia</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diminishing(n)">Diminishing. </form> <xpln> 62.18. <etym lang="la">diminutio</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="part, discerning(n)">the Decerning part. </form> <xpln> 138.4. <etym lang="la">Inditium</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">
+<wordentry type="h"><form lexeme="endsay(n)">an Endsay. </form> <xpln lexeme="conclusion(n)"> 103.3. <etym lang="la">Conclusio</etym>. And after this
+latine worde, called a Conclusion. I call
+it an Endsaye, bicause it is a saying that
+maketh an ende of a reason. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">
+<wordentry type="h"><form lexeme="foreset(n)">a Foreset </form> <xpln> 7.11. <etym lang="la">Subiectum, antecedens</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="foresay(n)">Foresayes. </form> <xpln> 103.3. <etym lang="la">pr&#230;mis&#230; </etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g">
+<wordentry type="h"><form lexeme="disposition, grounded(n)">a Grounded disposition. </form> <xpln> 30.22. <etym lang="la">habitus</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gainset(n)">Gaynsets. </form> <xpln> 53.3. <etym lang="la">opposita, contraria</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="term, general(n)"><expan type="">the</expan> Generall terme. </form> <xpln> 104.9. <etym lang="la">maius extremum,
+maior terminas</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">
+<wordentry type="h"><form lexeme="having(n)">an Hauing. </form> <xpln> 45.5. <etym lang="la">habitus</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">
+<wordentry type="h"><form lexeme="inholder(n)">an Inholder. </form> <xpln> 4.19. <etym lang="la">Subiectum</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inbeer(n)">an Inbeer. </form> <xpln lexeme="indweller(n)"> 4.19. <etym lang="la">Accidens</etym>. It may be cal&#173;
+led also an Indweller, for that it resteth
+and dwelleth (as it were) in an other. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="increasing(n)">an Increasing. </form> <xpln> 62.18. <etym lang="la">augmentatio</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ifsay(n)">an Ifsaye. </form> <xpln> 93.5. <etym lang="la">propositio conditionalis</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k">
+<wordentry type="h"><form lexeme="kind(n)">a Kynde. </form> <xpln> 78.1. <etym lang="la">genus</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="kindred(n)">a Kinred. </form> <xpln> 77.5. <etym lang="la">species, forma</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">
+<wordentry type="h"><form lexeme="words, like-sounding(n)">Lykesounding woordes. </form> <xpln> 2. 8. <etym lang="la">&#230;quiuoca</etym>, so
+termed, bycause in name and sound, they
+are lyke, though they haue sundry mea&#173;
+nyngs.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page>
+<wordgroup1 type="a" object="m">
+<wordentry type="h"><form lexeme="saying, more than contrary(n)">More then contrarie sayings. </form> <xpln> 89.5. <etym lang="la">proposi&#173;
+tiones contradictori&#230;</etym>, so called, for that
+there is greatter repugnancie in them,
+then in contrarie sayings. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moving(n)">Mouing.</form> <xpln> 60.1. <etym lang="la">motus</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">
+<wordentry type="h"><form lexeme="naysay(n)">a Naysay. </form> <xpln> 84.4.5. <etym lang="la">negatio</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">
+<wordentry type="h"><form lexeme="offspring(n)">Offsprings. </form> <xpln> 161.1. <etym lang="la">coniugata denominatiua</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="overshow(n)">An Ouershew. </form> <xpln> 22. 17. <etym lang="la">superficies</etym>. so called,
+bicause it doth shewe the vtmost face, and
+viewe of a bodied thing. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">
+<wordentry type="h"><form lexeme="word, plain-meaning(n)">Playnmeaning wordes. </form> <xpln> 3.16. <etym lang="la">vniuoca</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="placing(n)">a Placing. </form> <xpln> 44.1. <etym lang="la">situs</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="property(n)">a Propretie. </form> <xpln> 75.1. <etym lang="la">proprium</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="showsay, parting(n)">a Parting shewesaye. </form> <xpln> 94. 10. <etym lang="la">propositio
+disiunctiua</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="preamble(n)">Preambles. </form> <xpln> 95.1. <etym lang="la">modi</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="term, proving(n)">The Prouing terme. </form> <xpln> 104.11. <etym lang="la">medium</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">
+<wordentry type="h"><form lexeme="term, respecting(n)">Respecting termes, which may also be cal&#173;
+led yokefelowes. </form> <xpln> 63.3. <etym lang="la">relata, relatiua ad
+aliquid</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reason by example(n)">a Reason by example. </form> <xpln> 100.2. <etym lang="la">Inductio</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reason by rule(n)">a Reason by rule. </form> <xpln> 100. <etym lang="la">ratiocinatio</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rank(n)">a Ranke. </form> <xpln> 106.8. <etym lang="la">figura</etym>. 2. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">
+<wordentry type="h"><form lexeme="saywhat(n)">a Saywhat. </form> <xpln lexeme="definition(n)"> 73.1. <etym lang="la">definitio</etym>. corruptly called
+a definition: but for <expan type="">that</expan> it is a saying which
+telleth what a thing is, it may more apt&#173;
+
+</page>
+
+<page>
+ly be called a saywhat. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thing, self(n)" lexeme="thing, sole(n)">a Selfe thing, or a sole thing. </form> <xpln> 5.24. &#38; 72.2.
+<etym lang="la">Indiuiduum</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="general, surmounting(n)">Surmountyng generals. </form> <xpln> 49.8. <etym lang="la">transcen&#173;
+dentia</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="storehouse(n)">a Storehouse. </form> <xpln> 7.38. <etym lang="la">pr&#230;dicamentum, attri&#173;
+butum</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="term, special(n)"><expan type="">the</expan> Speciall terme. </form> <xpln> 104.10. <etym lang="la">minus extremum,
+minor terminus</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="seat(n)">a Seate. </form> <xpln> 106.9. <etym lang="la">modus</etym>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w">
+<wordentry type="h"><form lexeme="privation(n)" lexeme="want of natural power(n)">Want of naturall power, commonly called
+priuation. </form> <xpln> 27.8. <etym lang="la">priuatio</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="disposition, wavering(n)">a Wauering disposition. </form> <xpln> 31.23. <etym lang="la">dispositio</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wight(n)">a Wight. </form> <xpln> 146.13. <etym lang="la">animal</etym>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="witcraft(n)">Witcraft. </form> <xpln> 1.1. <etym lang="la">virtus vel ratio disserendi</etym> If
+those names be alwayes accompted the
+best, which doe moste playnly teache the 
+hearer the meanyng of the thyng, that
+they are appoynted to expresse: doubte&#173;
+lesse neyther Logicke, nor Dialect can be
+thought so fit an Englishe worde to ex&#173;
+presse and set foorth the Arte of reason by,
+as Witcraft is, seeing that Wit in oure
+mother toung is oft taken for reason: and
+crafte is the aunciente English woorde,
+whereby wee haue vsed to expresse an
+
+</page>
+
+<page>
+Arte: whiche two wordes knit together in
+Witcrafte, doe signifie the Arte that tea&#173;
+cheth witte and reason. And why shoulde
+handcrafte and witchecraft bee good englishe
+names? and Starcraft and Witcrafte bee
+none? the simples beeing knowne, and the
+composition lyke. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="y">
+<wordentry type="h"><form lexeme="yeasay(n)">a Yeasaye. </form> <xpln> 84. { 4. <etym lang="la">affirmatio</etym>.
+{5.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+</page>
+</leme>

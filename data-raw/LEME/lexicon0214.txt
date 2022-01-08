@@ -1,0 +1,868 @@
+<leme no="214">
+
+<page sig="[a1r]">
+<section type="Title-page">
+THE HISTORY
+OF THE WARRES
+BETWEENE THE
+TVRKES AND THE 
+PERSIANS.
+
+Written in Italian by Iohn-Thomas MInadoi, and translated into
+English by ABRAHAM HARTWELL.
+
+Containing the description of all such matters, as pertaine to the Religion, to the Forces
+to the Gouernement, and to the Countries of the kingdome of the Persians.
+
+Together with the Argument of euery Booke, &amp; a new Geographicall Mappe
+of all those Territories.
+
+A Table contayning a declaration aswell of diuerse new and Barbarous Names and
+Termes vsed in this History, as also how they were called in auncient times.
+
+And last of all, a Letter of the Authors, wherein is discoursed, what Cittie
+it was in the old time, which is now called Tauris, and is so often men&shy;
+tioned in this History.
+
+Imprinted at London by Iohn Wolfe 1595.
+</section>
+</page>
+
+<page sig="ggg4r">
+<section type="Glossary">
+<heading>
+A Table, conteyning the decla&shy;
+ration of the Names and wordes, vsed
+in this Historie, as well Auncient, as Barbarous.
+Wherein the letter A. signifieth the Auncient:
+<expan type="B."><term lang="en">Barbarous</term></expan>. the Barbarous: P. the Persian: and
+T. the Turkish name or word.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Acca(pn)" lexeme="Acri(pn)">ACca <term lang="en">and</term> Acri, <expan type="B"><term lang="en">Barbarous</term></expan></form> <xpln lang="en">a Sea-coast Citie in So&shy;
+ria. <term lang="an">Ptolomaida</term>. <expan type="A."><term lang="en">Auncient</term></expan>. according to Orte&shy;
+lius and Anania.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Adena(pn)" lexeme="Adana(pn)">Adena <term lang="en">and</term> Adana, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in the
+confines of Cilicia, Adana, and it may
+be, <term lang="an">Nicopolis</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="aga(n)">Aga, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="captain(n)">a Capitayne, or Chiefe of his
+companie.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="bb" lexeme="Aggia-chala(pn)">Aggia-Chala, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Castle Peregrine(pn)" lexeme="stranger(n)">the Castell Peregrine, or the Castell of
+Strangers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Aggiami(pn)">Aggiami,</form> <xpln lang="en">Look for Cheselbas, and the Persians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Aleppo(pn)" lexeme="Halep(pn)">Aleppo, <expan type="B."><term lang="en">Barbarous</term></expan>. and Halep, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">look for Halip.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Alger(pn)">Alger, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Cirtha(pn)"> by Iouius is thought to be <term lang="an">Iulia Cesarea</term>, <expan type="A."><term lang="en">Auncient</term></expan>. and
+by Castaldo and others, to be the Citie of Cirtha in
+Africa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Altun-chala(pn)">Altun-Chala, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Golden Castle(pn)" lexeme="Armenia(pn)" lexeme="Georgia(pn)">the golden Castell, or Castell of gold:
+A place in the confines of great Armenia, and Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Amadan(pn)">Amadan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie of the Persians in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Aman(pn)">Aman, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Orontes(pn)">a Citie in Soria, watred with the riuer Oron&shy;
+tes. <term lang="an">Apamea</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Amasia(pn)">Amasia, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">Castaldo thinketh it to be <term lang="an">Cappadocia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. and
+others take it to be in auncient times called <term lang="an">Amasia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Andera(pn)" lexeme="Andara(pn)">Andera, <term lang="en">or</term> Andara,</form> <xpln lang="en" lexeme="Drusia(pn)" lexeme="silk(n)">a Towne in Drusia, where most ex&shy;
+quisite Silkes are made.</xpln></wordentry>
+</page>
+
+<page sig="ggg4v">
+<wordentry type="h"><form lang="bb" lexeme="Andrinopoli(pn)">Andrinopoli, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a principall Citie in Thracia, <term lang="an">Adriano&shy;
+polis</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Angori(pn)">Angori, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Cappadocia, which is a Region in
+Asia the lesser, and by Bellonius thought to be <term lang="an">Encyra</term>,
+and <term lang="an">Ancyra</term>, <expan type="A."><term lang="en">Auncient</term></expan>. in the peregrination of Sainct Paul.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Antachie(pn)">Antachie, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Soria, now decayed, but yet
+worth the sight, both in respect of the situation and
+walles thereof, as also for the Riuer that runneth by it.
+<term lang="an">Antiochia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Arasse(pn)">Arasse, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Riuer that watreth the South part of great
+Armenia, &amp; almost diuideth it from Georgia. <term lang="an">Araxis</term>, <expan type="A."><term lang="en">Auncient</term></expan>. 
+<term lang="an">Achlar</term>, and <term lang="an">Ares</term>, <expan type="T."><term lang="en">Turkish</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Arbella(pn)">Arbella, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tarvis(pn)">a Citie in Assyria, according to Strabo, and Q.
+Curtius, and by the error of some thought to be Taruis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Arcipelago(pn)">Arcipelago, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Mediterranean(pn)">but in old time called <term lang="an">Mare Eg&aelig;um</term>, <expan type="A."><term lang="en">Auncient</term></expan>. a
+part of the Sea Mediterraneum, that seperateth Europe
+from Asia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Ardachan(pn)">Ardachan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie of the Turkes in great Armenia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Ardouil(pn)">Ardouil, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en">a Citie in Media, the first Seat of the Persian
+Sect, wherein Giunet, Sederdin, and other their succes&shy;
+sors, that were authors of the Persian superstition, did
+reside and reigne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="arz(n)">Arz, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="supplication(n)" lexeme="request(n)" lexeme="information(n)">a Supplication, a Request, or an Information.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="At-maidan(pn)">At-Maidan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="high street(n)" lexeme="Constantinople(pn)">the high Street, or chiefe Market place in
+Constantinople.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Bagdat(pn)">BAgdat, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Bogdatis(pn)">Laonicus calleth it Bogdatis, and the Italians
+call it <term lang="it">Baldacco</term>, in old time <term lang="an">Babylon</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Balbech(pn)">Balbech, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Cesarea Phillippi(pn)" lexeme="Palestina(pn)">a Citie in Pal&aelig;stina, which Bellonius taketh to
+be Cesarea Philippi, 
+</page>
+
+<page sig="hhh1r">
+peregrination of Sainct Paul.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Balsara(pn)" lexeme="Bassora(pn)">Balsara, <term lang="en">and as Frederico writeth it</term>, Bassora, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Euphrates(pn)">a Citie in
+the channell of Euphrates, called by Castaldo, and o&shy;
+thers, <term lang="an">Teredon</term>, <expan type="A."><term lang="en">Auncient</term></expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="bashaw(n)">Bassa, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="captain(n)" lexeme="governor(n)"> a Capitaine, a Gouernour, a chiefe Lord.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="beglerbey(n)">Beglerbey, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en">a great Lord.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Bestan(pn)">Bestan, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="Hircania(pn)">a Citie in Hircania.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="bey(n)" lexeme="beg(n)" lexeme="bech(n)">Bey, <term lang="en">or</term> Beg, <term lang="en">or</term> Bech, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en">a chiefe man, or a Lord.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Bir(pn)" lexeme="Birta(pn)">Bir, <term lang="en">which some call</term> Birta, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Euphrates(pn)">a Citie vpon Euphrates, in
+the confines of Soria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Bruz(pn)">Bruz, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Periardj mountains(pn)">a Hill in Armenia; the creast of the Periardj
+Mountaines.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Brusia(pn)" lexeme="Bursa(pn)">Brusia <term lang="en">and</term> Bursa, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Bithynia(pn)">in old time the chiefe Palace of Bithy&shy;
+nia, and called in the old time <term lang="an">Prusia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. But Ortelius
+vnaduisedly thinketh, that Bursa and Brusia is not a Ci&shy;
+tie, but a whole Region. And herein also is Castaldo
+deceiued, if our owne sense haue not shewed vnto vs
+one Citie in steed of another, or if we be not deceiued
+in deed in the verie names of them.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C.</alpha>
+<wordentry type="h"><form lang="tu" lexeme="caddi(n)">CAddi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="judge(n)">a Iudge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cafe(pn)">Cafe, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Babylon(pn)">a place within two dayes iourney of Babylon,
+where Aly and his children are buried.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Caffa(pn)">Caffa, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Theodosia(pn)">Anania vseth no other name: although in deed
+Caffa now was in old time called Theodosia, <expan type="A">A</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cahaca(pn)">Cahaca, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Casbin(pn)" lexeme="Tauris(pn)">a Towne so called, situate beweene Casbin
+and Tauris.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cairo(pn)">Cairo, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Egypt(pn)" lexeme="pyramid(n)" lexeme="Memphis(pn)" lexeme="Babylon(pn)">a huge Citie in %AElig;gypt, neere whereunto are the 
+famous Pyramides: whereby a man may easily iudge,
+that there was the most renowmed citie of Memphis.
+</page>
+
+<page sig="hhh1v">
+Ortelius thinketh that it is Babylon: but Ortelius himself
+setteth downe another Babylon in another table of his,
+and placeth it in Assiria So that he maketh two Cities
+of one name. Whereof notwithstanding it is no time
+now to dispute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Caissar(pn)">Caissar, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Cilicia(pn)">a place in Cilicia, of no great reckoning, and
+without any note of antiquitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="calaus(n)">Calaus, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="guide(n)">a Guide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Caldaran(pn)">Caldaran, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="champion(n)" lexeme="Araxis(pn)">the name of certain famous Champeynes.
+Perhaps they may be the same Champeynes which
+Strabo called the Champeynes of Araxis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="calife(pn)">Calife, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="priest(n)" lexeme="prelate(pn)">a Priest, or Prelate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Canac(pn)">Canac, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Atropatia(pn)" lexeme="Armenia(pn)">a Riuer that diuideth a part of Atropatia from
+Armenia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Kandahar(pn)">Candahar, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en">a certaine Kingdome. In old time <term lang="an">Peripa&shy;
+niso</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Capigi(pn)">Capigi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="gentleman-usher(n)">a gentleman Vsher.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="capigi-bassi(pn)">Capigi-Bassi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="gentleman-usher(n)">the chiefe gentleman Vsher.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Capigi-Larchecaiasi(pn)">Capigi-Larchecaiasi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="lieutenant(n)" lexeme="gentleman-user(n)">the Lieutenant or chiefe Lord of
+the gentlemen Vshers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Caracach(pn)">Caracach, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="Media(pn)">a Territorie of the Persians in Media.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Carachala(pn)">Carachala, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Black Castle(pn)">the black Castell, it is in Armenia, but it be&shy;
+longeth to the Georgians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Caraemit(pn)">Caraemit, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Black City(pn)">the black Citie. It is now the Metropoli&shy;
+ticall Citie of the Mesopotamians. Iouius and others
+call it <term lang="an">Amida</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Caramania(pn)" lexeme="Caraman(pn)">Caramania <term lang="en">and</term> Caraman, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Black Region(pn)">the black Region: It is com&shy;
+monly deemed to be <term lang="an">Cilicia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Casbin(pn)" lexeme="Casuin(pn)">Casbin <term lang="en">and</term> Casuin, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="punishment(n)" lexeme="Media the great(pn)" lexeme="Tauris(pn)">we may well interpret it: The place
+of punishment. And it is the Citie, whether the palace
+of the Persian Empire was translated by Tamas, and
+called Casbin, because those that for their punishment
+</page>
+
+<page sig="hhh2r">
+had deserued banishment, were at the first banished
+thither. It is yet in Media the great, a little more South
+then Tauris: So that a man may verie well think it to
+be <term lang="an">Arsacia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. in Strabo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="casenda(n)">Casenda, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="treasure(n)">the common Treasure. Look Hasna.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="cassachi(n)">Cassachi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="robber(n)" lexeme="highway(pn)">Robbers by the high way.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cassan(pn)">Cassan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Parthia, verie famous and rich. Orte&shy;
+lius and the rest make no mention of it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cassangic(pn)">Cassangic, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Armenia(pn)">a place belonging to Maxut-Chan in Ar&shy;
+menia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it" lexeme="cecchino(pn)" lexeme="zecchino(pn)">Cecchino, <term lang="en">or</term> Zecchino, </form> <xpln lang="en" lexeme="ducat(n)">a Venetian Duckate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Chala(pn)" lexeme="Chalasi(pn)">Chala, <term lang="en">and</term> Chalasi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="castle(n)" lexeme="town(n)">a Towne or a Castell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Chan(n)">Chan, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="Tartaria(pn)">and also vsed in Tartaria, and is the same that the
+Turkes call a Bassa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Chars(pn)">Chars, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">peraduenture it is that which Ptolomie calleth
+<term lang="an">Corsa</term>, <expan type="A."><term lang="en">Auncient</term></expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Checaia(n)">Checaia, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="deputy(n)" lexeme="agent(n)">a Deputie or Agent.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="bb" lexeme="Cheiserie(pn)">Cheiserie, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Palestina(pn)" lexeme="Joppa(pn)">we think it to be <term lang="an">C&aelig;sarea</term> in Palestina, <expan type="A."><term lang="en">Auncient</term></expan>. a litle
+from Ioppa. Ptolomie saieth it is C&aelig;sarea, wherof Strabo
+maketh mention. It hath many notes of antiquitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cheselbas(pn)">Cheselbas, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="redcap(n)" lexeme="Persian(n)" lexeme="Soffian(pn)" lexeme="Aggiami(pn)">a Red-Capp. It is a title giuen to the Persi&shy;
+ans: who are also called the Soffians, the Cheselbas, the
+Persians, and the Aggiami. Look Persians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Chianichie(pn)">Chianichie, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Ragusa(pn)">a place neere to Ragusa, verie famous, be&shy;
+cause it was the natiue Countrie of Ebrain Bassa, sonne
+in law to Amurath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="chiaus(pn)">Chiaus, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="nuncio(n)" lexeme="ambassador(n)">a Nuntio, or an Embassadour.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Chielder-giol(pn)">Chielder-Giol, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Lake of Chielder(pn)" lexeme="lake(n)">the Lake of Chielder: for <term lang="bb">Giol</term> signifieth a 
+lake: and it may be thought without any error to be 
+the Poole of <term lang="an">Euphrates</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Chielder Monte(pn)">Chielder Monte, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Hills of Periardo(pn)">the hilles of Periardo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="chielebi(pn)">Chielebi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="gentleman(n)">a Gentleman.</xpln></wordentry>
+</page>
+
+<page sig="hhh2v">
+<wordentry type="h"><form lang="bb" lexeme="chiulsal(pn)">Chiulsal, <expan type="B."><term lang="en">Barbarous</term></expan></form> <xpln lang="en" lexeme="Armenia(pn)">a Towne in Armenia, yet inhabited at this day 
+by the Georgians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="chiuri-chala(pn)">Chiuri-Chala, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Georgia(pn)" lexeme="Armenia(pn)">a new Territorie in Georgia, that is to
+say, inhabited of old by the Georgians, but yet com&shy;
+prehended vnder Armenia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Clisia(pn)">Clisia,</form> <xpln lang="en" lexeme="Georgia(pn)" lexeme="Armenia(pn)" lexeme="Turk(n)">a Territorie in Armenia, and in old time possessed
+by the Georgians, though now in the handes of the
+Turkes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="codabanda(n)">Codabanda, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="blind(a)" lexeme="weak(a)" lexeme="sight(n)">Blind or weak of sight. Hodabanda signi&shy;
+fieth the selfe same thing, but other writers erroniously
+pronounce it Hodabende.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Coran(pn)">Coran, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Corsu(pn)">Corsu, <term lang="en">a late word</term>:</form> <xpln lang="en">a famous Island, called in old time
+<term lang="an">Corcyra</term>, <expan type="A."><term lang="en">Auncient</term></expan>. and according to Ortelius, Corsinio, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Coy(pn)">Coy, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Van(pn)" lexeme="Tauris(pn)">a Citie in the borders of Armenia, and Media,
+betweene Van and Tauris.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Culbat(pn)">Culbat, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cur(pn)">Cur, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="curchi-bassi(pn)">Curchi-Bassi, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="captain(n)">Captain of the Curchi, who are the soul&shy;
+diers, that are appointed for the guard of the Persian
+Kings Court.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Curdi(pn)">Curdi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a people which many think to be the Parthi&shy;
+ans, <expan type="A."><term lang="en">Auncient</term></expan>. But we cannot possiblie thinke them to be so.
+wherein we agree with Castaldo. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Curzolari(pn)">Curzolari, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">in old time called the <term lang="an">Echinades</term>, <expan type="A."><term lang="en">Auncient</term></expan>. which 
+are certain Rockes, verie famous by reason of the vic&shy;
+torie by Sea obtayned by the most happie and for&shy;
+tunate League of the Chatholikes, against the Tur&shy;
+kish fleet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Cusestan(pn)">Cusestan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a part of Assyria.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="hhh3r">
+<wordgroup1 type="a" object="D"><alpha>D.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Cagmat(pn)">DAgmat, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in the confines of Parthia, and of
+Media the great.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Damasco(pn)">Damasco, <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en">a Citie in Soria. Look Sciam.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="deftardar(n)">Deftardar, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="treasurer(n)" lexeme="chamberlain(n)">a Treasourer or Chamberlein.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Demir-capi(pn)">Demir-Capi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Iron Gates(pn)" lexeme="Derbent(pn)"  lexeme="Hircanian Sea(pn)">the Iron-Gates. Demir-Capi is also called
+Derbent. It is a Citie sometimes called <term lang="an">Alessandria</term>, <expan type="A."><term lang="en">Auncient</term></expan>. 
+neere to the Hircanian Sea. It is called Derbent, be&shy;
+cause it is in figure narrow and long: and Demir-Capi,
+because there were the Iron-gates, that were some&shy;
+times the entrance into Scythia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Demotica(pn)">Demotica, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Thracia, famous in regard of the 
+banishment of Sinan-Bassa into that place, wherof men&shy;
+tion is made in the Historie, Lib. 5. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Derbent(pn)">Derbent, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Demir-Capi(pn)" lexeme="strait(n)" lexeme="narrow(pn)">a Citie called Demir-Capi. Derbent signifieth
+streit or narrow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Diarbech(pn)">Diarbech, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Mesopotamia(pn)">the Countrie of Mesopotamia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="divano(pn)">Diuano, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="council -house(n)">a place of audience, or a Counsaile-house. It
+is sometimes taken for the audience it selfe, and some&shy;
+times for the Counsaile it selfe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Don(pn)">Don, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tanais(pn)">the Riuer sometimes called <term lang="an">Tanais</term>, <expan type="A."><term lang="en">Auncient</term></expan>. in Sar&shy;
+matia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="drevis(pn)" lexeme="dervis(pn)">Dreuis <term lang="en">and</term> Deruis, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="hermit(n)">a Religious person, an Heremite.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Edel(pn)">EDel, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">sometimes called <term lang="an">Volga</term>, <expan type="A."><term lang="en">Auncient</term></expan>. a famous Riuer in
+Sarmatia within Europe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Emir(pn)">Emir, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="prince(n)">a common name among the Arabians, and the
+Drusians, vsed for a Prince, a Duke, a chief Noble man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Eres(pn)">Eres, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Atropatia(pn)">a Citie in Atropatia.</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="bb" lexeme="Erzirum(pn)">Erzirum, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Simbra(pn)">we think it to be Simbra in Ptolomie.</xpln></wordentry>
+</page>
+
+<page sig="hhh3v">
+<wordentry type="h"><form lang="pe" lexeme="essahul(pn)">Essahul, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en">a troupe of Souldiers belonging to the Guard
+of the Persian King.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="falchi(pn)">FAlchi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="master of ceremonies(n)">a Master of Ceremonies, a Master of Religion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Famagosta(pn)">Famagosta, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Salamina(pn)">a new word corrupted from the vulgar
+Greeke, which calleth it <term lang="gkt">Famausta</term>, in old time it was
+<term lang="an">Salamina</term> in Cyprus, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Farsi(pn)">Farssi, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en">the Region of Persia.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="khanjar(n)">GAngiara, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a sharpe crooked dagger.</xpln>
+<lemenote>
+"Gangiara" antedates the earliest OED citation of "khanjar."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Gaza(pn)">Gaza, <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en" lexeme="Judea(pn)">a Citie in the confines of Iudea, and in the
+way that leadeth towards <term lang="an">Pelusium</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Genge(pn)">Genge, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Armenia(pn)">a Citie of the Persians in Armenia the greater.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Gheilan(pn)">Gheilan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Gilan(pn)">a Citie in the Region of Gilan, which Castaldo
+calleth Geli.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Giamen(pn)">Giamen, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Arabia Foelix(pn)">a Prouince in Asia, where Arabia Felice is
+situated.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="gianizaro(pn)">Gianizaro, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a degree of Turkish Souldiers so called.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Giauat(pn)">Giauat, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Atropatia(pn)">a Citie of Atropatia, in the confines of Media
+the greater.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Gien(pn)">Gien, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie of the Parthians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="giol(pn)">Giol, <expan type="T">Turkish</expan>:</form> <xpln lang="en">a lake or a poole.</xpln>
+<lemenote>
+"Giol" may be a spelling of OED "gool," n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Giurgi-chala(pn)">Giurgi-Chala, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Georgian Castle(pn)">the Georgian-Castell, now possessed by
+the Turkes. It is in the confines of Georgia and Ar&shy;
+menia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Godz(pn)">Godz, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Jerusalem(pn)">the Citie of Ierusalem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Gogna(pn)" lexeme="Conia(pn)">Gogna, and Conia, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Iconium(pn)">a Citie so called, and in the old time Ico&shy;
+nium, <expan type="A."><term lang="en">Auncient</term></expan>. the chiefe Citie of the Lycaonians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Goletta(pn)">Goletta, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a famous Island.</xpln></wordentry>
+</page>
+
+<page sig="hhh4r">
+<wordentry type="h"><form lang="bb" lexeme="Gori(pn)" lexeme="Gorides(pn)">Gori, and Gorides, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Georgia(pn)">a Territorie in Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Grin(pn)">Grin, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Araxis(pn)">a Territorie inhabited by the Georgians, situa&shy;
+ted on the hither side of Araxis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Gurgistan(pn)" lexeme="Georgia(pn)">Gurgistan and Georgia, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Iberia(pn)" lexeme="Armenia(pn)">the Region that contayneth
+all the auncient Iberia, and part also of Armenia the
+great. The inhabitants of the Countrey do call all
+that Territorie Gurgistan, which is inhabited by the
+Georgians. In which point, Negro, Anania, and Pius
+secundus are not well aduised, because they think that
+Georgia is onely Iberia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Guuergi-chalsi(pn)">Guuergi-Chalsi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tauris(pn)">a Castell situate in the middest of a 
+little lake towards Tauris.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H.</alpha>
+<wordentry type="h"><form lang="ar" lexeme="milk(n)" lexeme="Halip(pn)">HAlip, <term lang="en">an Arabian word</term>,</form> <xpln lang="en" lexeme="milk(n)" lexeme="Syria(pn)" lexeme="Alapia(pn)" lexeme="Hierapolis(pn)" lexeme="Antiochia(pn)">and signifieth Milke. It is a 
+verie famous Citie in Soria, which Iouius calleth
+Alapia, Bellonius calleth it Hierapolis, and Qillanoua
+being in a notorious error for this point, calleth it An&shy;
+tiochia. For Antiochia is two dayes iourney distant
+from Aleppo, more toward the Sea, as we our selues
+have seen with our eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="hasna(n)">Hasna, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="treasure(n)">It signifieth Treasure, Store, Money collected
+aswell for publike, as for priuate vses, although pro&shy;
+perly it is onely taken for the publike Treasure, or for 
+the Kinges monyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Hassan-chalasi(pn)">Hassan-Chalasi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Passin(pn)" lexeme="Erzirum(pn)" lexeme="Chars(pn)" lexeme="Euphrates(pn)" lexeme="Castle of Hassan(n)">The Castell of Hassan. It is also called
+by the Turkes, Passin. It is a new erected thing be&shy;
+tweene Erzirum and Chars, situate vpon the bankes
+of the riuer Euphrates.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Heri(pn)">Heri, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Aria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Hispahan(pn)">Hispahan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie sometimes in Parthia.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="hhh4v">
+<wordgroup1 type="a" object="I"><alpha>I.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Iesselbas(pn)">IEsselbas, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="green cap(n)" lexeme="Bactrian(n)" lexeme="Sogdian(pn)">a greene-Cap. A certain people betweene
+the Bactrians and the Sogdians, so called, because they
+did weare Greene-Capps on their heads.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Imammadulasis(pn)">Imammadulasis, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="imbrahur-bassi(pn)">Imbrahur-Bassi, <expan type="T."><term lang="en">Turkish</term>.</expan></form> <xpln lang="en" lexeme="master of the king's horse(pn)">Master of the Kings horse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Isnic(pn)">Isnic, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Nicea(pn)" lexeme="More Ascania(pn)">a Citie in old times called Nicea, <expan type="A."><term lang="en">Auncient</term></expan>. in Bithynia,
+neere to the Moore <term lang="an">Ascania</term>, <expan type="A."><term lang="en">Auncient</term></expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Istigelu(pn)" lexeme="sagialu(pn)">Istigelu <term lang="en">and</term> Sagialu, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Casbin(pn)">a Renowmed familie, both at 
+Casbin, and also ouer all the kingdome of Persia.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha>
+<wordentry type="h"><form lang="an" lexeme="Lake-actamar(pn)" lexeme="Moore(pn)" lexeme="Marsh Martiana(pn)" lexeme="Margiana(pn)" lexeme="Mantiana(pn)">LAke-Actamar, <term lang="en">in old time called the</term> Moore <term lang="en">or marish</term>
+Martiana, <term lang="en">or</term> Margiana, <term lang="en">or</term> Mantiana, <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en">and accor&shy;
+ding to Strabo, it is in Armenia the greater.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="lake(pn)" lexeme="Esseecchia(pn)" lexeme="Marsh Lynchnitis(pn)"><term lang="en">Lake of</term> Esseecchia, <term lang="en">in old time called the Marish</term> Lychnitis,
+ <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en" lexeme="Georgia(pn)">in Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Lake of Isnic(pn)" lexeme="Marsh Ascania(pn)"><term lang="en">Lake of</term> Isnic, <term lang="en">in old time the Marish</term> Ascania, <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en" lexeme="Bithynia(pn)">in Bi&shy;
+thynia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Lake Tospite(pn)" lexeme="Toeti(pn)"><term lang="en">Lake</term> Tospite, <term lang="en">or</term> Toeti,</form> <xpln lang="en" lexeme="Armenia(pn)">it is in great Armenia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="lizza(pn)">Lizza, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie by the Sea-coast in Soria, called in old
+time <term lang="an">Laodicea</term>, <expan type="A">Auncient</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Lori(pn)">Lori, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="fortress(pn)" lexeme="Armenia(pn)">a Fortresse in Armenia, sometimes belonging to
+the Georgians, but now possessed by the Turkes.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="macadems(pn)">MAcadems, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Drusiani(n)" lexeme="deputy(n)" lexeme="agent(n)" lexeme="factor(n)" lexeme="emir(pn)">a word vsed among the Drusiani for a 
+Deputie, an Agent, or a chief Factor. For an Emir
+or Lord in Drusia. Look the 7. Booke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="macuco(pn)">Macuco, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="measure(n)" lexeme="corn(n)" lexeme="bushel of Padua(n)" lexeme="Venetian measure(n)">a Measure in Soria, wherewith they measure
+</page>
+
+<page sig="iii1r">
+Corne. It is a little bigger then the bushell of Padua,
+that is fower bushels and a halfe, Venetian measure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Malan(pn)">Malan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Mar delle Zabacche(pn)">Mar delle Zabacche, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Palus Moeotica(pn)" lexeme="Moeotis Fens(pn)">in old time called Palus M&oelig;o&shy;
+tica, <expan type="A."><term lang="en">Auncient</term></expan>. the Fennes of M&oelig;otis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Mar di Bachu(pn)">Mar di Bachu, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Mare Caspium(pn)" lexeme="Mare Hircanum(pn)" lexeme="Sea of Corazum(pn)">in tymes passed Mare Caspium, and
+Mare Hircanum, <expan type="A."><term lang="en">Auncient</term></expan>. It is also at this day called the Sea
+of Corazum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Mar Maggiore(pn)">Mar Maggiore,</form> <xpln lang="en" lexeme="Black Sea(pn)" lexeme="Pontus Euxinus(pn)" lexeme="Great Sea(pn)" lexeme="Mar Nero(pn)">the great Sea. And Mar Nero, the black
+Sea, sometimes called <term lang="an">Pontus Euxinus</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Mar Morto(pn)">Mar Morto,</form> <xpln lang="en" lexeme="Dead Sea(pn)" lexeme="Lake Asphaltitis(pn)">the dead Sea, sometimes called the Lake
+Asphaltitis, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Marant(pn)">Marant, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie neere to Armenia in the confines of
+the Medians, or rather within Media.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Maras(pn)">Maras, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Cilicia, called by Bellonius and Orte&shy;
+lius, <term lang="an">Maronia</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Marmara(pn)">Marmara, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Thracia(pn)">a Citie vpon the Sea-coast of Thracia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Masandran(pn)">Masandran, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Hircania(pn)">a Citie in Hircania.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Massiat(pn)">Massiat, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="masul(pn)">Masul, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="cashiered(a)" lexeme="deprived(a)" lexeme="Jack out of office(n)">a man cassiered, or depriued of his Office: in
+English, Iack out of office.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Mecca(pn)">Mecca, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Arabia Foelix(pn)">a Citie in Arabia F&oelig;lix, where some think
+Mahamet was borne, and where he is also buried.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Mengrellia(pn)">Mengrellia, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Golden Fleece(n)">sometimes the Region of <term lang="an">Colchos</term>, <expan type="A."><term lang="en">Auncient</term></expan>. fa&shy;
+mous for the golden Fleece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Meschita(pn)">Meschita, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="temple(n)" lexeme="church(n)">the place where the Barbarians do meete
+together, to say their prophane prayers: in English a 
+Temple, or a Church.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Miana(pn)">Miana, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie situate in the borders of Media the 
+greater, of Persia, and of Parthia. It is peraduenture
+so called, by the Riuer that is neer vnto it, whose name
+is Miana.</xpln></wordentry>
+</page>
+
+<page sig="iii1v">
+<wordentry type="h"><form lang="pe" lexeme="Miriza(pn)" lexeme="Mirize(pn)">Miriza, <term lang="en">and</term> Mirize, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="lieutenant(n)">the title of a Prince in Persia. The
+Kings chiefe Lieutenant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Moldavia(pn)">Moldauia,</form> <xpln lang="en" lexeme="Dacia(pn)">A Region in Dacia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="mordar(pn)">Mordar, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="chancellor(pn)">a Chaunceller. The Turks call him <term lang="tu">Tescheregi</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Mucaren(n)">Mucaren:</form> <xpln lang="en" lexeme="January(n)">the first moneth of the Turkish yeare: much
+agreeing with our Ianuary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="mufti(n)">Mufti, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="priest(n)">the chiefe Priest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="mustaed-dini(pn)">Mustaed-Dini, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en" lexeme="mufti(n)" lexeme="priest(n)">the same which the Turkes call Mufti.
+The chiefe Priest.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N.</alpha>
+<wordentry type="h"><form lang="an" lexeme="Naplos(pn)">NAplos, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Samaria(pn)">in old time called <term lang="an">Napoli</term>, <expan type="A."><term lang="en">Auncient</term></expan>. in Samaria:
+peraduenture it was in time past <term lang="an">Nephthalim</term>, <expan type="A."><term lang="en">Auncient</term>.</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Nassiuan(pn)">Nassiuan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Nasuana(pn)">a Citie in Media the greater, or els in the con&shy;
+fines of Media, and Armenia. Some think it to be 
+Nasuana, and others take it to be <term lang="an">Artaxata</term>, <expan type="A."><term lang="en">Auncient</term>.</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Natolia(pn)">Natolia,</form> <xpln lang="en">in the opinion of Bellonius, comprehendeth all
+the Regions of Phrygia, Galatia, Bithynia, Pontus, Lydia,
+Caria, Paphlagonia, Lycia, Magnesia, Cappadocia, and
+Comagena.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Neneruan(pn)">Neneruan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Armenia(pn)">a place in Armenia bordering vpon Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Nisabul(pn)">Nisabul, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Aria(pn)">a Citie in Aria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Nisaur(pn)">Nisaur, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)" lexeme="Hircania(pn)">a Citie in the confines of Parthia and Hircania.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="nosul(pn)">Nosul, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="tax(n)" lexeme="collection(pn)" lexeme="corn(n)">a Taxe or collection of Corne.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O.</alpha>
+<wordentry type="h"><form lang="tu" lexeme="Olti(pn)">OLti, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Ardachan(pn)" lexeme="Erzirum(pn)">a place belonging to the Turkes, betwene Erzi&shy;
+rum and Ardachan.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Pangiazar(pn)">PAngiazar, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Hircania(pn)" lexeme="Media the Great(pn)">a Citie bordering vpon Hircania and 
+Media the greater.</xpln></wordentry>
+</page>
+
+<page sig="iii2r">
+<wordentry type="h"><form lang="bb" lexeme="Passin(pn)">Passin.</form> <xpln lang="en">Look Hassan-Chalasi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="Persiani(pn)">Persiani,</form> <xpln lang="en" lexeme="Persian(n)" lexeme="Aggiami(n)" lexeme="Cheselbas(n)" lexeme="Azemia(pn)" lexeme="Aggiamia(pn)" lexeme="turban(n)" lexeme="Soffian(n)" lexeme="Sofi(n)" lexeme="governor(n)">The Persians. They are also called Aggiami,
+Cheselbas, &amp; Sofiani. Persiani, of the Prouince of Persia:
+Aggiami, of the Region Azemia, or Aggiamia: Che&shy;
+selbas, of the Redd-marke which these people weare
+in their Turbantes: and Soffians, of the Sofi, who is
+their chiefe Gouernour.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Peruana-giol(pn)">Peruana-Giol, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="Lake of Sclaues(pn)" lexeme="Armenia(pn)">the lake of Sclaues. It is in Armenia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Phasis(pn)">Phasis, <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en" lexeme="Phasis(pn)" lexeme="Fas(pn)">a Citie in Colchis, called yet at this day Phasis
+and Fas.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Porta(pn)">Porta,</form> <xpln lang="en" lexeme="gate(n)">a Gate: but principally in this Historie it is taken
+for the Court of the Turkish Sultan: because all his
+Counsailors, and chiefe Gouernours of his kingdome
+do vse to sit in the Gate of the Emperours Court, to 
+heare and dispatch causes aswell priuate as publike.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Portugal(pn)">Portugall,</form> <xpln lang="en">in old time called <term lang="an">Lusitania</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R.</alpha>
+<wordentry type="h"><form lang="an" lexeme="Rafadi(pn)">RAfadi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="religion(n)" lexeme="faith(n)">a man of a false Religion, of a false faith.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Rama(pn)" lexeme="Palestine(pn)" lexeme="Lidda(pn)">Rama,</form> <xpln lang="en">a Towne in Pal&aelig;stina, which Castaldo calleth
+Lidda. Peraduenture it was that Rama, <expan type="A."><term lang="en">Auncient</term></expan>. which mour&shy;
+ned and wept for the great slaughter of the holie Inno&shy;
+cents, Math. 2.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Ramadan(pn)">Ramadan, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="moon(n)">one of the solemne feastes of the Turkes.
+It is also the proper name of a man, and the name of a 
+Moone. For as we haue twelue Monethes, with their
+seuerall proper names: so have the Turkes their xij.
+Moones with their seuerall proper names also.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Reiuan(pn)">Reiuan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Terva(pn)">a Citie in Armenia. It may be, it is Terua in
+Ptolomie. But I do not altogether agree with him in
+that point.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="iii2v">
+<wordgroup1 type="a" object="S"><alpha>S.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Saffetto(pn)">SAffetto, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Galilee(pn)">a Citie in Galilie, inhabited by the Iewes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Saitan-chalasi(pn)">Saitan-Chalasi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Castle of Satan(pn)" lexeme="Devil's Castle(pn)" lexeme="Armenia(pn)" lexeme="Georgia(pn)">the Castell of Satan, or the Deuils Ca&shy;
+stell, in the confines of Armenia and Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Salmas(pn)">Salmas, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tauris(pn)" lexeme="Van(pn)">a Citie betwixt Tauris and Van, but South&shy;
+ward to them both.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sancazan(pn)">Sancazan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tauris(pn)">a place neer to Tauris, famous in this Histo&shy;
+rie, aswell in respect of some battells there foughten,
+as also of the death of Generall Osman, who died there.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="sangiacco(pn)">Sangiacco, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="lord(n)">a Lord, or a kind of Captaine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="sardar(pn)">Sardar, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="captain(n)" lexeme="janizary(n)" lexeme="army(n)" lexeme="general(n)">Captaine of the Iannizzaries, Captaine of the
+Armie, and properly the Generall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Saru(pn)">Saru, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Media the Great(pn)">a Citie in Media the greater.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sasuar(pn)">Sasuar, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sciam(pn)">Sciam, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Damascus(pn)">the Citie of Damasco. Look Damasco.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Scutar(pn)" lexeme="Scutari(pn)">Scutar, <term lang="en">and</term> Scutari, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Chalcedon(pn)" lexeme="Constantinople(pn)">sometimes called Chalcedon, <expan type="A."><term lang="en">Auncient</term></expan>. a
+Citie in Asia, right ouer against Constantinople. Some
+do erroniously call it <term lang="an">Chrysopolis</term>, <expan type="A."><term lang="en">Auncient</term>.</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sechi(pn)">Sechi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Atropatia(pn)">a Citie in Atropatia bordering vpon Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Seida(pn)" lexeme="Seit(pn)">Seida, <term lang="en">and</term> Seit, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Sidonia(pn)" lexeme="Drusia(pn)">in old time called Sidonia, <expan type="A."><term lang="en">Auncient</term></expan>. a Citie on
+the Sea-cost in Drusia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sembran(pn)">Sembran, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Parthia(pn)">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="semitarra(pn)">Semitarra, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="scimitar(n)" lexeme="falchion(n)">a Scimitarre, a long crooked Sword. A
+Faulchon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Servant(pn)">Ser, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Cirus(pn)">a Riuer sometimes called Cirus, <expan type="A."><term lang="en">Auncient</term></expan>. that watreth
+the South part of Georgia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sessa(pn)">Sessa.</form> <xpln lang="en">Look Tocca and Turbante.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="siec(pn)">Siec, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">an old, wise, Religious, learned, and prudent man.
+A man of good, and holie life.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Siliurea(pn)">Siliurea,</form> <xpln lang="en" lexeme="Selimbria(pn)">a Citie in Thracia called Selymbria: Which the 
+Persian calleth <term lang="pe">Selimbria</term>, and Nicolo Nicolio, Seliurie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Sinibra(pn)" lexeme="Simbra(pn)">Sinibra, <term lang="en">or</term> Simbra <term lang="en">in Ptolomie</term> <expan type="A."><term lang="en">Auncient</term></expan>.</form> <xpln lang="en" lexeme="Erzirum(pn)">It is now called Erzi&shy;
+rum, fower daies iourney distant from Trabisonda.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Siras(pn)">Siras, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Persepolis(pn)" lexeme="Circopolis(pn)" lexeme="palace(n)" lexeme="Persia(pn)">some call it Persepolis, <expan type="A."><term lang="en">Auncient</term></expan>. and some Ciropolis. <expan type="A."><term lang="en">Auncient</term>.</expan>
+It is the chiefe palace of the Region of Persia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sivan(pn)" lexeme="Sirvania(pn)">Siuan, <term lang="en">and</term> Siruania, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Media Atropatia(pn)" lexeme="Madian(pn)">sometimes called Media Atro&shy;
+patia. The Hebrewes called it Madian, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sivas(pn)">Siuas, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Sebastapolis(pn)" lexeme="Natolia(pn)">in old time Sebastapolis, <expan type="A."><term lang="en">Auncient</term></expan>. a Citie in Natolia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="pe" lexeme="soffi(pn)" lexeme="sofito(pn)">Soffi, and Sofito, <expan type="P."><term lang="en">Persian</term></expan>.</form> <xpln lang="en">an auncient word signifying a wise
+man, learned and skilfull in Magike Naturall. It is
+growen to be the common name of the Emperour of
+Persia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Soffian(pn)">Soffian, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Soffia(pn)" lexeme="Tauris(pn)">a place neer vnto Tauris. It may be perhaps
+the auncient Soffia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Soldin(pn)">Soldin, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Seleucia Pieria(pn)" lexeme="Orontes(pn)">a Citie vpon the Sea-coast of Soria, destroyed 
+long ago. It was called in old time Seleucia Pieria, <expan type="A."><term lang="en">Auncient</term></expan>. 
+within fiue miles whereof the Riuer Orontes dischar&shy;
+geth it self into the Sea: But Castaldo in his description
+of Asia, doeth not describe it in deed, as it standeth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Syria(pn)">Soria, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Syria(pn)">in times past the Region of Syria, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="spahini(pn)">Spahini, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en">a companie of Turkish Souldiers so called.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="spahi(pn)">Spaoglani, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="footman(n)" lexeme="janizary(n)">a companie of foote-men, inferiour in de&shy;
+gree to the Iannizzaries.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="Stanbul(pn)">Stanbul,</form> <xpln lang="en" lexeme="Constantinople(pn)">by the Turkes and Arabians so called, in steed
+of Constantinople.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="subassi(pn)">Subassi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="lieutenant(n)" lexeme="captain(n)">The Lieutenant or Captaine of a Garrison or
+Guard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="an" lexeme="Sultania(pn)">Sultania,</form> <xpln lang="en" lexeme="Great Media(pn)">a Citie in great Media.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="sultano(pn)" lexeme="sultan(pn)">Sultano, <term lang="en">or</term> Sultan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="captain(pn)" lexeme="emperor(pn)">a Captain. A great Lord. It is verie
+often vsed for the Emperour of Turkie: as Sultan Amu&shy;
+rath, the great Turk Amurath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sumachi(pn)" lexeme="Sumachia(pn)">Sumachi, and Sumachia, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="palace(n)" lexeme="Atropatia(pn)">the chiefe Palace of Atro&shy;
+patia.</xpln></wordentry>
+</page>
+
+<page sig="iii3v">
+<wordentry type="h"><form lang="bb" lexeme="sunni(pn)">Sunni, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a man of sound faith, and sincere opinion in
+matter of Religion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Sir(pn)">Sur, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie vpon the Sea-coast of Soria, in old time
+called <term lang="an">Tyrus</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Tartarian(n)" lexeme="Tatar(pn)">TArtari, <term lang="en">and</term> Tatar, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">the Tartarians, inhabiting Scy&shy;
+thia and Sarmatia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Tatar-khan(pn)">Tatar-Chan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tartarian(pn)" lexeme="Tartaria(pn)" lexeme="Khan(pn)">the chiefe Lord or Gouernour of the Tar&shy;
+tarians. He is called the great Chan of Tartaria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Tauris(pn)" lexeme="Taruis(pn)">Tauris, <term lang="en">and</term> Taruis,</form> <xpln lang="en">Read the Letter to S. Mario Corrado
+in the end of this booke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Techisnandan(pn)">Techisnandan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Caramania Deserta(pn)">Certain Mountaines in Caramania De&shy;
+serta.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Teflis(pn)" lexeme="tiflis(pn)">Teflis and Tiflis,</form> <xpln lang="en">a Citie in Armenia, but belonging to
+the Georgians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="testis(pn)">Testis, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="process(n)" lexeme="bill of complaint(n)" lexeme="plantiff(pn)">a Processe or Bill of complaint, put vp by the 
+Plaintife.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Teracan(pn)">Teracan, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Parthia. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="tocca(pn)">Tocca, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="turban(n)" lexeme="sessa(n)">the round Roll, which the Barbarians vse to
+weare on their heades. It is also called Sessa and Tur&shy;
+bante.</xpln>
+<lemenote>
+"sessa" not found in OED in this sense.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Tomanis(pn)">Tomanis,</form> <xpln lang="en">a Citie in Armenia, but belonging to the Ge&shy;
+orgians, verie famous for the notorious &amp; treacherous
+straites that are neer it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Trabisondo(pn)">Trabisondo, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Sea coast Citie vpon <term lang="an">Pontus Euxinus</term>,
+called in old time <term lang="an">Trapezantium</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Triala(pn)">Triala, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a place in Armenia, renowmed for a number of
+Churches there, which held of the Romish Religion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Tripoli(pn)">Tripoli, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Sea-coast Citie in Asia and Africa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="turban(pn)">Turbanie, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a white Roll, which the Barbarians weare
+</page>
+
+<page sig="iii4r">
+vpon their heades. Look Tocca.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Turbat(pn)">Turbat, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Parthia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Turcoman(pn)">Turcoman,</form> <xpln lang="en" lexeme="Tauris(pn)" lexeme="Casbin(pn)">a Citie betwixt Tauris and Casbin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Turcomanni(pn)">Turcomanni,</form> <xpln lang="en">a people mingled among the Turkes and
+Persians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Turcomania(pn)">Turcomania <term lang="en">the greater</term>,</form> <xpln lang="en" lexeme="Great Armenia(pn)">of old called Great Armenia, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Tursis(pn)">Tursis, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in Parthia.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Van(pn)">VAn, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Martian Marsh(pn)">a Citie in the Martian Marish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="vizier(pn)">Visier, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a chiefe Counsailour, or Gouernour gene&shy;
+rall of the State of Turkie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="vlac(pn)" lexeme="volacchi(pn)">Vlac, <term lang="en">and</term> Volacchi, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en" lexeme="post(pn)" lexeme="courier(pn)">Postes, or Currors to run of a mes&shy;
+sage in hast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="vlu-bassi(pn)">Vlu-Bassi, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="captain(pn)">the Captain of a certain number of Souldi&shy;
+ers, but not so high in degree as an Aga is.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><alpha>Z.</alpha>
+<wordentry type="h"><form lang="bb" lexeme="Zaffo(pn)" lexeme="Giaffa(pn)">ZAffo, <term lang="en">and</term> Giaffa, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie by the Sea-side, in old times
+called <term lang="an">Ioppa</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="zagatai(pn)">Zagatai, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Tartarian(pn)" lexeme="Sogdian(pn)">certain Tartarians, comprehended vnder the
+name of the Sogdiani.</xpln>
+<lemenote>
+"Sogdiani" appears to antedates the earliest OED citation for "Sogdian" (1700).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Zaghen(pn)">Zaghen, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a City in Armenia, inhabited by the Georgians.</xpln></wordentry>
+
+<wordentry type="h"><form lang="tu" lexeme="zaini(pn)">Zaini, <expan type="T."><term lang="en">Turkish</term></expan>.</form> <xpln lang="en">a noble companie of valiant Souldiers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Zanga(pn)">Zanga, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en">a Citie in great Armenia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Zante(pn)">Zante, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Ionian Sea(pn)">an Island in the Ionian Sea, called in old time
+<term lang="an">Zacynthus</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="zine(pn)">Zine, <expan type="B."><term lang="en">Barbarous</term></expan>,</form> <xpln lang="en">certain festiual signes and shewes of publike ioy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="bb" lexeme="Zuiria(pn)">Zuiria, <expan type="B."><term lang="en">Barbarous</term></expan>.</form> <xpln lang="en" lexeme="Mount Caucasus(pn)" lexeme="Hircanian Sea(pn)">a Region lying at the rootes of Mount Cauca&shy;
+sus, towards the Hircanian Sea, and was called in old
+time, <term lang="an">Albania</term>, <expan type="A."><term lang="en">Auncient</term></expan>. </xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS
+</closing>
+</section>
+</page>
+</leme>
+
+
+
+

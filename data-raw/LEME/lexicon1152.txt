@@ -1,0 +1,401 @@
+<leme no="1152">
+<page sig="a1r">
+<section type="Title-page">
+&para; Here begynneth a ryght frutefull
+mater: and hath to name the
+boke of surueyeng and
+improum<expan type="e+_">en</expan>tes
+</section>
+</page>
+
+<page no="2v">
+<section type="Explanations of Things">
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="curtilage(n)">A curtylage</form> <xpln lang="en"> 
+is a lytell croft or court / or place of easment to put in 
+catell for a tyme / or to ley in woode / cole / or tymbre / or 
+suche other thynges necessary for housholde.</xpln></wordentry>
+</page>
+ 
+<page no="5v">
+<wordentry type="h"><form lang="en" lexeme="common(n)" lexeme="common appendant(n)" lexeme="common appurtenant(n)" lexeme="common in gross(n)" lexeme="common because of vicinage(n)" lexeme="neighbourship(n)" lexeme="mese-place(n)">ye shall vnderstande that there be foure ma&shy;
+ner of commens / that is to wytte:</form> <xpln lang="en">c<expan type="o+_">om</expan>men appendant 
+commen appurtenaunt / commen in grose / and com&shy;
+men per cause vicynage .s. neyghbourshepe. Com&shy;
+men appendaunt / is where a lorde of olde tyme hath 
+graunted to a man a meseplace / and certayne landes 
+medowes / and pastures with their appurtenaunces 
+to holde of hym. To this meseplace / landes / and me<emend err="">&shy;</emend>
+dowes belongeth commen / and that is called c<expan type="o+_">om</expan>men 
+appendaunt. But and a man graunt to another cer&shy;
+tayne landes or pastures / the whiche lye in seueraltie 
+enclosed with the appurtena<expan type="u+_">un</expan>ce in fee / to holde of the
+</page>
+
+<page no="6r">
+chefe lordes. To these landes me semeth bel<expan type="o+_">on</expan>geth no 
+c<expan type="o+_">om</expan>men / without he haue suche speciall wordes in his 
+dede. Commen appenda<expan type="u+_">un</expan>t / is where a man hath had c<expan type="o+_">om</expan>men to a certayne nombre of beestes or without n<expan type="o+_">om</expan><emend err="">&shy;</emend>
+bre belongyng to his meseplace in the lordes wastes / 
+this is commen appurtenaunte by prescripcyon / by&shy;
+cause of the vse out of tyme of mynde. Commen in&shy;
+grose / is where the lordes haue graunted by their de<emend err="">&shy;</emend>
+des / commen of pasture to a straunger that holdeth 
+no landes of hym / nor ought to haue any c<expan type="o+_">om</expan>men / but 
+by reason of that graunt by dede. Nowe the lordes 
+maye nat improue hym selfe of any parcell / for it is 
+contrarie to his graunt / thoughe there be sufficyent 
+of commen. And in lyke case / if the lorde graunt com<emend err="">&shy;</emend>
+men to a man by dede / and to lymitte him a certayne 
+nombre of beestes. Se what was commen at that ty<emend err="">&shy;</emend>
+me and of that the lorde shall nat improue hym selfe / 
+for and he shulde / the goodnesse of the c<expan type="o+_">om</expan>men to that 
+certayne nombre shulde be abridged that they shulde 
+nat fare so well / and euery m<expan type="a+_">an</expan>nes dede shall be taken 
+str<expan type="o+_">on</expan>gest agaynst hym selfe. And in lyke maner / if the 
+lorde graunt a man commen with his catell / within 
+certayne meyres / lymittes / &amp; boundes / the lorde shall 
+nat improue hym selfe / within those meyres and bo<expan type="u+_">un</expan><emend err="">&shy;</emend>
+des. C<expan type="o+_">om</expan>men per cause de vicynage / is whe<expan type="r'">re</expan> the wast 
+grounde of two towneshippes lye toguyder / and no&shy;
+ther hedge nor pale bytwene to kepe their catell a son<emend err="">&shy;</emend>
+der / so that the catell of one towneshyppe gothe ouer 
+his meyre or bounde in to the waste grounde of the o&shy;
+ther towne / and lykewise the catell of the other town<emend err="">&shy;</emend>
+</page>
+
+<page no="6v">
+shyppe to them. And also if their commen feldes lye 
+toguyder vnclosed / in opyn tyme whan haruest is in 
+their catell wyll go out of the one felde in to the other 
+felde / and this is called commens / bycause of neygh&shy;
+bourshyp / and is nat vsed nor laufull to pynne their 
+catell so goyng / but in good maner to driue and cha&shy;
+ce besyde suche c<expan type="o+_">om</expan>men. And as for that maner of com<emend err="">&shy;</emend>
+mens / me semeth the lorde may improwe him selfe of 
+their wast groundes / leauyng their owne tenauntes 
+sufficyent c<expan type="o+_">om</expan>men / hauyng no regarde to the tenaun&shy;
+tes of the other towneshyp. But as for all errable lan<emend err="">&shy;</emend>
+des / medowes / leyse / and pastures / the lordes maye 
+improwe them selfe by course of the c<expan type="o+_">om</expan>men lawe / for 
+the statute speketh nothynge but of wast groundes.</xpln></wordentry>
+</page>
+
+<page no="8r">
+<wordentry type="h"><form lang="en" lexeme="pannage(n)">Also it is to be inque&shy;
+red / of panage herbage of the same towne / 
+and of all other profytes of polles / meyres / and ryn&shy;
+nyng waters / of mores / hethe and wastes / what they 
+be worthe by the yere.</form> <xpln lang="en">And where this Statute spe&shy;
+keth / <term lang="la">de panagio</term> / that is to be vnderstande. Wha<expan type="n+_">ne</expan>
+there is any mast growyng in <expan type="y+e">the</expan> lordes wodes / wher<emend err="">&shy;</emend>
+by m<expan type="e+_">en</expan>nes swyne may be fedde and releued / what pro<emend err="">&shy;</emend>
+fyte that may be to the lorde. For ther is no man that 
+can clayme of right / to haue the mast the whiche is a 
+frute / but the lorde: except his free tenaunt haue it by 
+speciall wordes in his dede.</xpln></wordentry>
+</page>
+
+<page no="21r">
+<wordentry type="h"><form lang="en" lexeme="rent(n)">And first ye shall 
+knowe / that there be thre maner of rentes / that is to 
+saye:</form> <xpln lang="en" lexeme="insedent(a)" lexeme="rent service(n)" lexeme="rentcharge(n)" lexeme="rent seck(n)" lexeme="rent annual(n)">rent seruyce / rent charge / and rent seeke. Rent 
+seruyce / is whe<expan type="r'">re</expan> a man holdeth his l<expan type="a+_">an</expan>des of his lorde 
+by fealtie &amp; certayne rent / or by homage / fealtie &amp; cer&shy;
+tayne rent / or by any other seruice and certayne rent. 
+This is a r<expan type="e+_">en</expan>t seruyce / &amp; if the rent be behynde at any 
+day <expan type="y+t">that</expan> it ought to be payed at / the lord may distreyne 
+for that rent of c<expan type="o+_">om</expan>men right / and if the lorde purchase 
+parcell of the sayd lande that the rent gothe out of / <expan type="y+e">the</expan> 
+rent shalbe apporcyoned: except it be an entte<expan type="r'">re</expan> rent /
+</page>
+
+<page no="21v">
+as a sperhauke / or a horse / or suche other that can nat 
+be seuered / for than the rent is extinct and gone for e&shy;
+uer. &amp;c. Rent charge / is where a man is seased of lan&shy;
+des in fee and graunt by poole dede or by dede inden<emend err="">&shy;</emend>
+ted. Annuell rent goyng out of the same landes in fee 
+or in fee tayle or for terme of lyfe / with a clause of dy&shy;
+stresse that is a rent charge / and the gra<expan type="u+_">un</expan>tee maye di<emend err="">&shy;</emend>
+streyne for the same rent / bycause of the clause of dy&shy;
+stresse. But if the graunte purchase parcell of <expan type="y+e">the</expan> sayd 
+landes / wherof the sayd rent gothe out / the hole rent 
+charge is extynct and gone for euer. For suche a rent 
+charge maye nat be apporcioned / bycause the landes 
+come to his owne possession by his owne acte or dede 
+Rent seeke / is whe<expan type="r'">re</expan> a man is seased of landes in fee 
+graunt / a rent goyng out of the same without a clau<emend err="">&shy;</emend>
+se of distresse / that is a rent seeke and it is called a r<expan type="e+_">en</expan>t 
+seeke / bycause there is no distresse insedent nor bel<expan type="o+_">on</expan>&shy;
+gyng to the same. Also if a man by dede ind<expan type="e+_">en</expan>ted ma&shy;
+ke a feoffement in fee or in fee tayle / the remayndre o&shy;
+uer in fee or for terme of lyfe remeyner ouer in fee / re<emend err="">&shy;</emend>
+seruyng to hym certayne rente without any clause of 
+distresse in the same. That is a rent seeke / and if the 
+graunte were neuer seased of the said rent / he is with 
+out remayndre by course of the c<expan type="o+_">om</expan>men lawe. The<expan type="r'">re</expan> is 
+another maner of rent: that is nother rente seruyce / 
+rent charge / nor rent seeke / and that is called rent an<emend err="">&shy;</emend>
+nuell. And that is / where as a man graunteth by his 
+dede / an annuitie of .xx.s. be it more or lasse / and char<emend err="">&shy;</emend>
+geth no lande with the payment of the same. That is 
+a rent annuell / and it chargeth the person that graun<emend err="">&shy;</emend>
+</page>
+
+<page no="22r">
+teth the sayd rent by a writte of annuite / and in some 
+cause a rent charge / may become an annuell rent. as 
+and a man graunt a rente charge out of his lande <expan type="w+t">with</expan> 
+a clause of dystresse / the graunte is at lybertie / whe&shy;
+der he wyll distreyne for the rent / or sewe a writ of an<emend err="">&shy;</emend>
+nuyte agaynst the graunter.</xpln>
+<lemenote>
+"rent annuell" not found in OED. "insedent" antedates the earliest OED citation (1594), and it is a noun, not an adjective.
+</lemenote>
+</wordentry>
+</page>
+
+<page no="24r">
+<wordentry type="h"><form lang="en" lexeme="heriot(n)">And ye shall vnderstande / that 
+there be two maner of herryottes:</form> <xpln lang="en" lexeme="heriot service(n)" lexeme="heriot custom(n)" lexene="fare-fee(n)" lexene="farewell(n)">that is to wyt / her<emend err="">&shy;</emend>
+ryot seruyce and herryot custome. Herryot seruyce / 
+is where a man hath gyuen landes and tenem<expan type="e+_">en</expan>tes to
+</page>
+
+<page no="24v">
+another man and to his heyres / to holde of hym and 
+of his heyres / as before the makynge of the statute / 
+<term lang="la">Quia emptores terrarum</term> / or sythe <expan type="y+e">the</expan> makyng of the 
+sayd statute to holde of <expan type="y+e">the</expan> chefe lorde of the fee / by the 
+seruyce therof due &amp; of right accustomed / reseruyng 
+to hym certayne rentes / herryottes / or any other cu&shy;
+stome. This is rent seruyce and herryot seruyce / by&shy;
+cause it is expressed in his origynall dede. Herryotte 
+custome is whe<expan type="r'">re</expan> a man hath a lordship / wherin hath 
+ben vsed tyme out of mynde / that euery tenaunt that 
+holdeth any mese place of <expan type="y+e">the</expan> lorde / shall gyue his best
+quycke good in the name of a herryotte to the lorde / 
+and he that hath no quicke good / shall gyue his best 
+deed good. And in some place the tenaunt shall gyue 
+for euery mese place <expan type="y+t">that</expan> he holdeth a herryot / thoughe 
+the houses were lette downe an hundred yere before / 
+the whiche me semeth shulde be a great bribery and 
+extorcyon / as I sayd in the prologue of this treatyse. 
+And therfore it is wisdome for euery man to take his 
+house by indenture or by copye / wherin maye be ex&shy;
+pressed: what rentes / herryottes / customes / and ser&shy;
+uyces the tenaunt shall paye and do / for a lorde maye 
+abridge and make lesse his custome by writyng but 
+thoughe he make writyng and specifye what rent he 
+shall paye / he must saye further / for all maner rentes / 
+herryottes / customes / &amp; seruyces. And in some lorde&shy;
+shyppe / euery man that dyeth within the same / be he 
+the lordes tenaunt or nat / shall paye an herryotte. In 
+so moche that if a straunge man ryde or go by <expan type="y+e">the</expan> way
+</page>
+
+<page no="25r">
+and dye within suche a lordshyppe / he shall paye an 
+herryot / the whiche is playne extorcyon and agaynst 
+the commen ryght / For bytwene the lorde and hym 
+that dyed / the<expan type="r'">re</expan> was no maner of priuyte of bargayn 
+or couyna<expan type="u+_">un</expan>t. And in some lordshyppe / the lorde shall 
+take his herryotte before the person / or the vycare his 
+mortuarye / &amp; in some places the churche before / And 
+that is / as it hath ben accustomed and vsed tyme out 
+of mynde. But for the moost parte / the lorde taketh 
+before: bicause the lorde maketh couynaunt with his 
+tenaunt in his lyfe / that he shall haue his best quycke 
+good at his decesse / and the mortuary is nat due tyll 
+he be deed / and the herryotte was couynaunted and 
+graunted before in his lyfe / and the firste bargayne 
+must be obserued and kepte. And also in some pla&shy;
+ces it is parted bytwene the churche &amp; the lorde / and 
+that is / where he that is deed hath no moore quycke 
+good / but one horse or one beest / and th<expan type="a+_">an</expan> he that hath 
+be vsed to chose first / shall haue <expan type="y+e">the</expan> better parte by one 
+penny / but of deed good / eyther partie shall haue one 
+But there shall nother of them take any deed good / 
+as longe as there is any quycke goodes / and in ma&shy;
+ny lordshyppes / it is vsed / that and the tenaunt leaue 
+his house by his owne wyll / without any discharge 
+of the lorde / <expan type="y+e">the</expan> tenaunt shall pay his best quicke good 
+to the lorde in the name of an herryot. &amp; in some lord&shy;
+shippes it is acustomed / that &amp; the tenant de<expan type="p-_">par</expan>te fro <expan type="y+e">the</expan> 
+lordshyp by his owne wyll / he shall make a fyne with 
+the lorde for his de<expan type="p-_">par</expan>tyng / &amp; moost c<expan type="o+_">om</expan>menly it is .ii.s.
+</page>
+
+<page no="25v">
+and it is called a farefee or a farewell. And suche a te&shy;
+naunt that gothe at his owne wyll shall make all ma<emend err="">&shy;</emend>
+ner of reparacyons / and that tenaunt that is dyschar<emend err="">&shy;</emend>
+ged by the lorde or by his offycers / shall make no re&shy;
+paracions / except he be discharged for nat doyng re&shy;
+peracions. &c.</xpln>
+<lemenote>
+"herryot custome" antedates the earliest OED citation (1767).
+</lemenote>
+</wordentry>
+</page>
+
+<page no="31v">
+<wordentry type="h"><form lang="en" lexene="homage(n)" lexene="priority(n)">And ye shall vnderstande / that ho&shy;
+mage</form> <xpln lang="en">is the moost honorable seruyce &amp; the moost h<expan type="u+_">um</expan>&shy;
+ble seruyce of reuer<expan type="e+_">en</expan>ce / that a free man may do to his 
+lorde. For whan the tenaunt shall do homage to his 
+chefe lorde / of wh<expan type="o+_">om</expan>e he holdeth his chefe maner or m<expan type="a+_">an</expan><emend err="">&shy;</emend>
+cyon place / by knight seruyce and priorite. He shalbe 
+vngirde and his heed vncouered / and the lorde shall 
+syt &amp; the tenaunt shall knele before hym on bothe his 
+knees / and shall holde his handes stretched out togy<emend err="">&shy;</emend>
+der bytwene the lordes handes / and shall saye thus. 
+I become your man from this day forwarde of lyfe 
+and of membre / and of worldely honour. And to you 
+shall be faythfull and lowly and shall beare faythe to 
+you / for the landes and tenem<expan type="e+_">en</expan>tes the which I holde 
+of you / sauyng the faythe that I owe to our soueray&shy;
+gne lorde the kyng and my other lord<expan type="e'">es</expan>. And the lorde 
+so sytting shall kysse his tena<expan type="u+_">un</expan>t / the which is a sygne
+</page>
+
+<page no="32r">
+of perfyte loue.</xpln></wordentry>
+</page>
+
+<page no="34r">
+<wordentry type="h"><form lang="en" lexene="surveyor(n)">The name of a surueyour</form> <xpln lang="en" lexene="overseer(n)" lexene="discerner(n)"> is a frenche name / and is 
+as moche to say in Englysshe as an ouerseer. Than 
+it wolde be knowen / howe a surueyour shulde ouer&shy;
+se &amp; suruey a towne or a lordshyppe / as and the cytie 
+of London shulde be surueyed. The surueyour may 
+nat stande at Hygate / nor at Shotershyll / nor yet at the 
+Blackheth nor suche other places / and ouer loke 
+the cytie on euery syde. For and he do / he shall nat se 
+the goodly stretes / the fayre buyldinges / nor <expan type="y+e">the</expan> great 
+substaunce of richesse conteyned in them / for than he
+
+fol. 34v
+maye be called a disceyuer &amp; nat a surueyer. &amp; in lyke 
+wise if a man shall vieu a close or a pasture / he maye 
+nat loke ouer the hedge &amp; go his way / but he must ou<emend err="">&shy;</emend>
+ther ryde or go ouer / &amp; se euery parcell therof. and to 
+knowe howe many acres it c<expan type="o+_">on</expan>teyneth / &amp; howe moche 
+therof was medowe grounde / howe moche pasture 
+gro<expan type="u+_">un</expan>de / howe moche wode grounde or busshe gro<expan type="u+_">un</expan>&shy;
+de / heythe / lyng / or suche other. &amp; what an acre of me&shy;
+dowe gro<expan type="u+_">un</expan>de is worthe / and what an acre of pasture 
+and what an acre of the woode grounde or busshe / &amp; 
+suche other be worthe. And what maner of catell it is 
+best for / and howe many catell it wyll grasse or fynde 
+by the yere / and what a beastes grasse is worthe by 
+the yere in suche a pasture / or els he can nat set a true 
+value what it is worthe.</xpln>
+<lemenote>
+If Fitzherbert means "discerner" ("disceyuer" is not in OED), the term antedates the first OED citation (1526).
+</lemenote>
+</wordentry>
+</page>
+
+<page no="50r">
+<wordentry type="h"><form lang="en" lexeme="water(n)" lexeme="standing water(n)" lexeme="running water(n)">FIrst ye shall vnderstande / that there be 
+dyuers maners of waters:</form> <xpln lang="en" lexeme="corn-mill(n)" lexeme="ground mill(n)" lexeme="fulling mill(n)" lexeme="waulk mill(n)" lexeme="potyer(n)" lexeme="faller(n)" lexeme="mill fleam(n)" lexeme="brest mill(n)" lexeme="overshot mill(n)">that is to say 
+st<expan type="a+_">an</expan>dyng waters / as poles / meyres / mot&shy;
+tes / and stewes. And also ronnyng wa&shy;
+ters / as great ryuers / smale ryuers / bro<emend err="">&shy;</emend>
+kes / sucches / welspringes / and pyttes
+
+fol. 50v
+ALso vpon these waters / the lorde maye 
+sette dyuers maner of mylnes / the whi&shy;
+che maye be to the lordes great ease and 
+profite. As vpon the great riuers / corne 
+mylnes that be called grounde mylnes / 
+and they be called gro<expan type="u+_">un</expan>de mylnes / bycause the ouer&shy;
+syde of the heed sylle lyeth euyn leuell with the ouer&shy;
+syde of the grounde / in the bottom of the water. And 
+also fullyng mylnes / otherwyse called walk<emend err=""> </emend>mylnes / 
+may be made in like maner / and stande also vpon the 
+great ryuers. And th<expan type="a+_">an</expan> one whele is able to driue two 
+stockes / that is to say / bothe a potyer and a faller / the 
+faller bothe to scoure and herely / and the potyere to 
+thicke the clothe. And commenly these mylnes be nat 
+set vpon the great stremes of these great ryuers / but 
+a great parte of the water is c<expan type="o+_">on</expan>ueyed out of the great 
+streme by a mylne fleme made with m<expan type="a+_">an</expan>nes hande to 
+a certayne place / where wysemen thynke the mylne 
+moost c<expan type="o+_">on</expan>uenyent to be set / &amp; the sayd water to be hol&shy;
+den vp and brought to the said mylne / by reason and 
+settyng of a weyre ouerthwart the sayd streme / made 
+of trouse / tymbre / or stonne / or of bothe. And whan it 
+is palte the mylne with a suffycient fall of the water / 
+that the mylne stande nat in backe water / to retourne 
+in to the ryuer agayne. and in many places / the said
+
+fol. 51r
+mylnes be set on the one syde of the great ryuer / and 
+a weyre made of tymbre and stone to holde vp the wa<emend err="">&shy;</emend>
+ter to the mylne / the whiche is a great cost / and ma&shy;
+ny tymes it wyll stande in lacke of water that it may 
+nat well go at a great flode / except the gro<expan type="u+_">un</expan>dewarke 
+be made very hie. But they be <expan type=",p">pro</expan>fitable bothe in grin<emend err="">&shy;</emend>
+dynge of corne and fullyng of clothe / and in takynge 
+of moche fysshe. And in lyke maner these sayde two 
+maner of mylnes maye be sette vpon smale ryuers / 
+without any fleme castyng / but all onely his weyre to 
+holde vp the water / and his flode gates to let it go at 
+a flode / whan nede shall requyre. Also there be other 
+two maner of corne mylnes / that is to saye: a breste 
+mylne and an ouershotte mylne / and those two ma&shy;
+ner of mylnes be sette and go moost commenly vpon 
+smale brokes / and vpon great poles &amp; meyres. And 
+they haue alway abrode bowe a fote brode and more 
+and the ladelles be alwaye shrowded with compast 
+bordes on bothe sides to holde in the water / and than 
+they be called bokettes. And they muste be set moche 
+nerer toguyder than the ladelles be / and moche more 
+a sloope downewarde / to holde moche water that it 
+fall nat out / for it driueth the whele as well with the 
+weyght of the water as with <expan type="y+e">the</expan> strength. And the myl<emend err="">&shy;</emend>
+ner must drawe his water acordyng to his bokettes / 
+that they maye be alway full and no more / for the len<emend err="">&shy;</emend>
+ger that they holde the water the better they be. Also 
+another maner of fullyng mylnes / maye be sette and 
+go vpon the sayde smale brokes / pooles / or meyres.
+
+fol. 51v
+and those be called fallers / for a faller by hymselfe re<emend err="">&shy;</emend>
+quyreth nat so great strength of water as the potyer 
+dothe / bycause the water cometh most c<expan type="o+_">om</expan>menly ouer 
+the whele / and the braces do butte heue vp the two 
+fete that fall in to the stocke vpon the clothe / the whi&shy;
+che causeth the clothe to thicke and tourne. Also these 
+mylnes that be sette and go on small waters / may go 
+and ron with a gogyn of yron vpon bulder stones or 
+vpon brasse as a bell dothe / for <expan type="y+t">that</expan> wyll go moost ligh&shy;
+test. But these mylnes that go vpon these great ry&shy;
+uers / that be brode / heuy / and weighty / must nedes 
+haue two great thycke hoopes of yron foure inches 
+brode / and an inche thycke: and eight or nyne inches 
+bytwene the sydes / sette on bothe endes of the shafte / 
+for the gogyn of yron wyll nat beare them / and speci&shy;
+ally the fullynge mylne. And that mylne that gothe 
+with a gogyn / yet must it haue on eyther ende of the 
+shafte a hoope of yron and bulders vnder / and if the 
+gogyn feyle or waxe lose / but it shall nat touche them 
+bothe attones. And lette the mylner take good hede 
+bothe to the gogyns and hoopes that they be nat lose 
+for than wyll the shafte endes brenne of. For than he 
+hurteth his lorde / his mayster / or hymselfe / for mylne 
+shaftes be costely. But in so moche as there is great 
+profyte to the lordes in makyng of these mylnes /</xpln>
+<lemenote>
+"standing water" (unlike "running water") is not in OED as a phrase (however, it is cited in a quotation of 1542 at "water," n., 11). "ground mill" and "brest mill" not found in OED. "ouershotte mylne" antedates earliest OED citation ("overshot,: adj.1 and n; 1760). The term "potyer" is unidentified.
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>
+

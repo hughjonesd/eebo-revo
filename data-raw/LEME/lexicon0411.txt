@@ -1,0 +1,147 @@
+
+<leme no="411">
+
+<page sig="1r"></page>
+A Diarye Of the marches and moovings of his Ma<expan type="ies">ies</expan>ties Royall 
+Army: Himselfe being personally present.
+Beginning Apr. 10, 1644. ymediately after <expan type="y+e">the</expan> . Battayle at Alresford <expan type="wch">which</expan> 
+was .29 of March. 1644. Ending with <expan type="y+e">the</expan> Ruins of two 
+great. Armyes c<expan type="o+_">om</expan>manded by Ro<expan type="bt">bert</expan> Deuereux late Earle of 
+Essex . & Sr. <expan type="W+m">William</expan> waller.
+</page>
+
+<page sig="78r">
+
+<heading>
+Cornish Languag.
+
+English Cornish
+</heading>
+
+<wordgroup1 type="u">
+<wordentry type="h"><form lang="en" lexeme="house(n)">a Howse.</form> <xpln lang="co">chy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tree(n)">Tree</form> <xpln lang="co">guestiecae</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)">a man</form> <xpln lang="co">dene</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="child(n)">a Child.</form> <xpln lang="co">flo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hog(n)">a hog.</form> <xpln lang="co">ragamo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)">a horse</form> <xpln lang="co">marh. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mare(n)">a mare</form> <xpln lang="co">easich</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog(n)">a dog</form> <xpln lang="co">ki</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saddle(n)">a saddle</form> <xpln lang="co">deeber</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bridle(n)">a bridle</form> <xpln lang="co">frodin</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hand(n)">a hand</form> <xpln lang="co">dorne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)">a leg</form> <xpln lang="co">gar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foot(n)">a foot</form> <xpln lang="co">troes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)">an eye</form> <xpln lang="co">Lagesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nose(n)">a nose</form> <xpln lang="co">frigo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pie(n)">a py</form> <xpln lang="co">cal. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en">--- </form> <xpln lang="co">Gous</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="name(n)">a name</form> <xpln lang="co">breach</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouth(n)">a mouth</form> <xpln lang="co">ganno</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boy(n)">A boy</form> <xpln lang="co">Mao</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="girl(n)">a Girle</form> <xpln lang="co">mose</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sword(n)">a sword</form> <xpln lang="co">clitha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scabbard(n)">a scabbard</form> <xpln lang="co">gooz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="town(n)">a Towne</form> <xpln lang="co">tre</xpln></wordentry>
+</wordgroup1>
+
+<heading>
+Numbers.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="one(n)">one.</form> <xpln lang="co">onein</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="two(n)">2</form> <xpln lang="co">deu</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="three(n)">3</form> <xpln lang="co">try</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="four(n)">4</form> <xpln lang="co">padger</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="five(n)">5</form> <xpln lang="co">pemp</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="six(n)">6</form> <xpln lang="co">whe'</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seven(n)">7</form> <xpln lang="co">Sith</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eight(n)">8</form> <xpln lang="co">ath</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nine(n)">9</form> <xpln lang="co">naw</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ten(n)">10</form> <xpln lang="co">deag</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eleven(n)">11</form> <xpln lang="co">idnac</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twelve(n)">12</form> <xpln lang="co">douthac</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thirteen(n)">13</form> <xpln lang="co">rarthat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fourteen(n)">14</form> <xpln lang="co">pedgwarther</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fifteen(n)">15</form> <xpln lang="co">pemthare</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sixteen(n)">16</form> <xpln lang="co">whestacch</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seventeen(n)">17</form> <xpln lang="co">sitach</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eighteen(n)">18</form> <xpln lang="co">ithar</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nineteen(n)">19</form> <xpln lang="co">nounjack</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty(n)">20</form> <xpln lang="co">ygaus</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twenty-one(n)">21</form> <xpln lang="co">haub. </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="78v">
+<heading>
+English.  Cornish.
+</heading>
+
+<wordgroup1 type="u">
+<wordentry type="h"><form lang="en" lexeme="God(n)" lexeme="save(v)">God saue you.</form> <xpln lang="co">Deu ragged blessje</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thank(v)">I thanke you	</form> <xpln lang="co">Gad marshe. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="God(n)">God be <expan type="w+t">with</expan> you</form> <xpln lang="co">Bed ne tew thew</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wish(v)" lexeme="well(adv)">I wish you well</form> <xpln lang="co">Dieu new grace
+thew gilda./ </xpln></wordentry>
+</wordgroup1>
+
+<term lang="en">
+This Language is spoken
+altogeather at Goon-hilly
+&amp; about Lendennis. &amp; at
+Lands-end. they speake no
+english. All beyond
+Truro they speake the 
+Cornish Language. /
+</term>
+</leme>
+
+

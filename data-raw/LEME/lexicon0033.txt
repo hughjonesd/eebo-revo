@@ -1,0 +1,3043 @@
+<leme no="33">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 8 8 7 2
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+<heading>
+<term lang="la">
+Os facies m<expan type="">en</expan>t<expan type="">um</expan>
+</term>
+</heading>
+</section>
+
+
+
+
+</page>
+
+<page sig="a1v">
+<section type="Glossary">
+<wordentry type="h"><form lang="en" lexeme="mouth(n)">a mouth</form> <xpln lang="la">
+OS
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="face(n)">a face</form> <xpln lang="la">
+facies
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chin(n)">a chyne</form> <xpln lang="la">
+ment<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tooth(n)">a toth</form> <xpln lang="la">
+dens
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throat(n)">a throot</form> <xpln lang="la">
+guttur
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue(n)">a tonge</form> <xpln lang="la">
+lingua
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="roof(n)" lexeme="mouth(n)">roffe of the mouth</form> <xpln lang="la">
+palat<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beard(n)">a berde</form> <xpln lang="la">
+Barbar
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brow(n)">a browe</form> <xpln lang="la">
+supercilium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bree(n)">a brye</form> <xpln lang="la">
+cili<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forehead(n)">a forhede</form> <xpln lang="la">
+frons
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="temple(n)">t<expan type="">em</expan>ples</form> <xpln lang="la">
+t<expan type="">em</expan>pora
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lip(n)">a lype</form> <xpln lang="la">
+labr<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eyelid(n)">an eyelyde</form> <xpln lang="la">
+Palpebra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="any(pr)">anye</form> <xpln lang="la">
+sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sight(n)">the sygthe</form> <xpln lang="la">
+oculus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white(n)" lexeme="eye(n)">the whyt of the eye</form> <xpln lang="la">
+acies albugo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple(n)" lexeme="eye(n)">apple of the eye</form> <xpln lang="la">
+pupilla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tip(n)" lexeme="nose(n)">the typ of the nose.</form> <xpln lang="la">
+Pirula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snivel(n)">snyuel of the nose.</form> <xpln lang="la">
+pus nasi sunt
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="space(n)" lexeme="nostril(n)">the space betwene the nose thyrlis</form> <xpln lang="la">
+interfinia naris et
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="head(n)">of the hede</form> <xpln lang="la">
+capitis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brainpan(n)">branpan</form> <xpln lang="la">
+trinum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="top(n)">a toppe</form> <xpln lang="la">
+vertex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dividing(n)" lexeme="hair(n)">a deuydyng of the here</form> <xpln lang="la">
+discrimen et
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ear(n)">a nere</form> <xpln lang="la">
+auris
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="further(a)" lexeme="part(n)">the forthyr part.</form> <xpln lang="la">
+Sinciput
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mid(a)" lexeme="part(n)">the myde part.</form> <xpln lang="la">
+ast interciput	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hinder(a)" lexeme="part(n)" lexeme="head(n)">the hynder part of the hede.</form> <xpln lang="la">
+occiput et
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brain(n)">brayne.</form> <xpln lang="la">
+cerebr<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="part(n)">a parte</form> <xpln lang="la">
+<expan type="">par</expan>s
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheek(n)">a chyce</form> <xpln lang="la">
+Faux et
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gum(n)">a gome</form> <xpln lang="la">
+iungiua cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forehead(n)">a forhede</form> <xpln lang="la">
+fortilla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hair(n)">an here.</form> <xpln lang="la">
+capillus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gristle(n)">a grystell</form> <xpln lang="la">
+Est cartilago sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dewlap(n)">a dewlap</form> <xpln lang="la">
+legia sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great(a)" lexeme="tooth(n)">a grethe tothe</form> <xpln lang="la">
+genuinus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palm(n)" lexeme="hand(n)">palme of the hande.</form> <xpln lang="la">
+Palma
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="joint(a)" lexeme="hand(n)">ioynt handes</form> <xpln lang="la">
+iuncture manibus s<expan type="">un</expan>t
+</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="elbow(n)">an helbow</form> <xpln lang="la">
+vlna
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brawn(n)" lexeme="arm(n)">brawen of the arme</form> <xpln lang="la">
+lacertus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)">nayles</form> <xpln lang="la">
+Vngues c<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="finger(n)">fyngyrs</form> <xpln lang="la">
+digitis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoulder(n)">a sholder</form> <xpln lang="la">
+humerus c<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="breast(n)">a brest</form> <xpln lang="la">
+pectore
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neck(n)">a neck</form> <xpln lang="la">
+collus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="armpit(n)">armepyt</form> <xpln lang="la">
+Acelle
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fist(n)">a fyst</form> <xpln lang="la">
+pugnus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cubit(n)">a cubyt</form> <xpln lang="la">
+cubitus cum	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blood(n)">blode</form> <xpln lang="la">
+sanguine
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="teat(n)">a tet</form> <xpln lang="la">
+manus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="belly(n)">a belly</form> <xpln lang="la">
+Venter
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bladder(n)">a bleder</form> <xpln lang="la">
+vesica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="back(n)">a back</form> <xpln lang="la">
+tergum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="backbone(n)">a backbone</form> <xpln lang="la">
+spondilia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rib(n)">a rybbe</form> <xpln lang="la">
+costa 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="navel(n)">a nauell</form> <xpln lang="la">
+Est vmbilicus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="side(n)">a syde</form> <xpln lang="la">
+latus et
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">flesshe.</form> <xpln lang="la">
+caro
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skin(n)">skyn.</form> <xpln lang="la">
+pelle
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="buttock(n)">botokys</form> <xpln lang="la">
+nates sunt
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heart(n)">a herte.</form> <xpln lang="la">
+Cor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milt(n)">a mylt.</form> <xpln lang="la">
+splen
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lung(n)">a long.</form> <xpln lang="la">
+pulmo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spleen(n)">a splene.</form> <xpln lang="la">
+lien
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gall(n)">a gal.</form> <xpln lang="la">
+fel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="midriff(n)">a mydryf.</form> <xpln lang="la">
+ren
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maw(n)">a maw.</form> <xpln lang="la">
+diafragm
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rim(n)" lexeme="bat(n)">the rem of the bat</form> <xpln lang="la">
+iecur
+</xpln>
+<lemenote>
+Meaning unclear.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="windpipe(n)">wynd pipis</form> <xpln lang="la">
+Arterie
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stomach(n)">a stomake</form> <xpln lang="la">
+stomachus post
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bowell(n)">bowelles</form> <xpln lang="la">
+intestina sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maw(n)">a mawe.</form> <xpln lang="la">
+epar
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arse(n)">an ars</form> <xpln lang="la">
+Anus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thigh(n)">a thygh</form> <xpln lang="la">
+crus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="young(a)" lexeme="hair(n)">yong heer</form> <xpln lang="la">
+pubes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="back(n)">a back</form> <xpln lang="la">
+dorsum sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="backbone(n)">a backbone</form> <xpln lang="la">
+spina
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="end(n)" lexeme="gut(n)">the ende of the gut</form> <xpln lang="la">
+podexq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whirl-bone(n)">whyrlbone</form> <xpln lang="la">
+Vertebra cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knee(n)">knyes</form> <xpln lang="la">
+genibus sum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knee(n)" lexeme="knap(n)">the kne knap</form> <xpln lang="la">
+internodia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sinow(n)">a senow</form> <xpln lang="la">
+neruus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ham(n)">an h<expan type="">am</expan>me</form> <xpln lang="la">
+Poples atq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shin(n)">shyne</form> <xpln lang="la">
+sura
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skin(n)" lexeme="conception(n)">the skyne of concepcyon</form> <xpln lang="la">
+matrix sic addito ca.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ankle(n)">ankyll</form> <xpln lang="la">
+anca.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brawn(n)" lexeme="arm(n)">brawne of the arme</form> <xpln lang="la">
+Musculus &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vein(n)">a veyne.</form> <xpln lang="la">
+vena
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)">leege</form> <xpln lang="la">
+tibia sic atq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="master(a)" lexeme="vein(n)">the master veyne</form> <xpln lang="la">
+sophena
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="toe(n)">a too</form> <xpln lang="la">
+Articulus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sole(n)" lexeme="foot(n)">the sool of the fote</form> <xpln lang="la">
+planta cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heel(n)">an hele</form> <xpln lang="la">
+calce
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marrow(n)">mary</form> <xpln lang="la">
+medulla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ankle(n)">an anklay</form> <xpln lang="la">
+cauilla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="part(n)" lexeme="foot(n)">a parte of the fote</form> <xpln lang="la">
+Pars pedis
+</xpln>
+<lemenote>
+Damage to headword supplied from the 1516 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heel(n)">an hele</form> <xpln lang="la">
+est callus dicetur
+</xpln>
+<lemenote>
+Damage to explanation supplied from the 1516 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="path(n)">a pathe</form> <xpln lang="la">
+semita callis
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a2r">
+<wordentry type="h"><form lang="en" lexeme="great(a)" lexeme="toe(n)">a grete too.</form> <xpln lang="la">
+Istis coniugas 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thumb(n)">a thombe</form> <xpln lang="la">
+allux pollex quoq<expan type="">ue</expan>	
+lector
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thumb(n)">a thombe.</form> <xpln lang="la">
+Est pollex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="first(a)" lexeme="finger(n)">the first finger.
+</form> <xpln lang="la">index
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mid(a)" lexeme="finger(n)">the myd finger.
+</form> <xpln lang="la">medius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leech-finger(n)">the leche finger.
+</form> <xpln lang="la">medicus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little finger(n)">the lytil finger
+</form> <xpln lang="la">auricularis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">brede</form> <xpln lang="la">
+Panis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ale(n)">ale</form> <xpln lang="la">
+ceruisia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spoon(n)">a spone</form> <xpln lang="la">
+coclear
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salt(n)">salt</form> <xpln lang="la">
+sal
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="onion(n)">a onyon.</form> <xpln lang="la">
+cepeq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="table-cloth(n)">a table clothe</form> <xpln lang="la">
+mappa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dish(n)">a disshe</form> <xpln lang="la">
+Discus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gruel(n)">gruell.</form> <xpln lang="la">
+puls
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wort(n)" lexeme="seed(n)" lexeme="pottage(n)">wortseedis for potage.</form> <xpln lang="la">
+olera legum<expan type="">em</expan>
+</xpln>
+<lemenote>
+"wortseedis" not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bean(n)">benys.</form> <xpln lang="la">
+fabaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pease(n)">pesyn</form> <xpln lang="la">
+pisa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bone(n)">a bone.</form> <xpln lang="la">
+Os</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">flesshe</form> <xpln lang="la">
+carnes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salt(n)">salte.</form> <xpln lang="la">
+salsa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herring(n)">heryng</form> <xpln lang="la">
+allec sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fish(n)">fisshe</form> <xpln lang="la">
+piscis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="egg(n)">egges</form> <xpln lang="la">
+ioua
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mess(n)">messes</form> <xpln lang="la">
+Fercula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broken(a)" lexeme="meat(n)">brook<expan type="">en</expan>meet</form> <xpln lang="la">
+fragmentum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="milk(n)">mylk</form> <xpln lang="la">
+lac
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheese(n)">chese</form> <xpln lang="la">
+caseus atq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butter(n)">butter</form> <xpln lang="la">
+butirum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="simnel(n)">a symnel</form> <xpln lang="la">
+Artocopus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wastel(n)">a wastel</form> <xpln lang="la">
+libum sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loaf(n)">a loof</form> <xpln lang="la">
+coliphium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)" lexeme="sop(n)">a wynsop.</form> <xpln lang="la">
+vipaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flawn(n)">a flawne</form> <xpln lang="la">
+flaton
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ginger(n)">ginger</form> <xpln lang="la">
+Zinziber<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepper(n)">pepir</form> <xpln lang="la">
+piper
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garlic(n)">garleke</form> <xpln lang="la">
+allium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mustard(n)">mustarde</form> <xpln lang="la">
+sinapi vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vinegar(n)">vinegre</form> <xpln lang="la">
+acetum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="way(n)">a way.</form> <xpln lang="la">
+Vicus in
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="journey(n)">a iorney.</form> <xpln lang="la">
+iter
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone(n)">a stone</form> <xpln lang="la">
+lapis &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turf(n)">a turfe.</form> <xpln lang="la">
+cespes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chine(n)" lexeme="earth(n)">a chyne of theyrthe</form> <xpln lang="la">
+limus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pit(n)">a pyt</form> <xpln lang="la">
+puteusq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="top(n)">a toppe</form> <xpln lang="la">
+Est trocus atq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ball(n)">a balle.</form> <xpln lang="la">
+pila
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quoit(n)">a coite</form> <xpln lang="la">
+discus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="play(n)">a play</form> <xpln lang="la">
+ludusq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wrestling(a)" lexeme="place(n)">a wrestlynge place</form> <xpln lang="la">
+palestra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="house(n)">a howse</form> <xpln lang="la">
+Est domus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="church(n)">a chyrche</form> <xpln lang="la">
+ecclesia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="can(n)">a can</form> <xpln lang="la">
+castrum	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wall(n)">a walle.</form> <xpln lang="la">
+murus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheepcote(n)">a shepcote.</form> <xpln lang="la">
+casa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gate(n)">a gate</form> <xpln lang="la">
+porta
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cierge(n)" lexeme="taper(n)">a cerge or a taper.</form> <xpln lang="la">
+Cerius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="altar(n)">a anter.</form> <xpln lang="la">
+ara
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stair(n)">a stayer</form> <xpln lang="la">
+gradus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass(n)">a glasse</form> <xpln lang="la">
+vitr<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cross(n)">a crosse.</form> <xpln lang="la">
+crux
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lamp(n)">a lampe</form> <xpln lang="la">
+lampas
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="image(n)">an image</form> <xpln lang="la">
+imago
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chisel(n)" lexeme="matter(n)">a chesal or mater.</form> <xpln lang="la">
+Infula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="damask(n)">a dalmank</form> <xpln lang="la">
+dalamtia sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="amice(n)">an amesse</form> <xpln lang="la">
+examitum simul
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alb(n)">a aube</form> <xpln lang="la">
+alba.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="box(n)">a box</form> <xpln lang="la">
+Pixis &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="offering(n)">offringes.</form> <xpln lang="la">
+oblata
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cruet(n)">cruettis.</form> <xpln lang="la">
+fioleq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sacrament(n)">sacrament.</form> <xpln lang="la">
+viatica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cream(n)">creme</form> <xpln lang="la">
+crisma
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grave(n)">a graue</form> <xpln lang="la">
+Et tumulus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bier(n)">a beer</form> <xpln lang="la">
+libitinaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="well(n)">a wel</form> <xpln lang="la">
+fons
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="belly(n)">a belly</form> <xpln lang="la">
+campana
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lantern(n)">lanterne</form> <xpln lang="la">
+lucerna
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ink(n)">ynke</form> <xpln lang="la">
+Encaust<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horn(n)">an horne.</form> <xpln lang="la">
+cornu
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pumice(n)">a pooesse</form> <xpln lang="la">
+pumex vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rule(n)">a rewle.</form> <xpln lang="la">
+regula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="margent(n)">a mergente.</form> <xpln lang="la">
+mergo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wood(n)">a wode</form> <xpln lang="la">
+Silua
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mill(n)">a mylle</form> <xpln lang="la">
+molendinum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hill(n)">an hyl</form> <xpln lang="la">
+mons
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="valley(n)">a valley.</form> <xpln lang="la">
+vallis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="field(n)">a felde.</form> <xpln lang="la">
+ager
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="way(n)">a way.</form> <xpln lang="la">
+vra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meadow(n)">a medew</form> <xpln lang="la">
+pat<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flower(n)">a flour.</form> <xpln lang="la">
+Flos
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hay(n)">hey</form> <xpln lang="la">
+fenum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ear(n)" lexeme="corn(n)">eer of corne.</form> <xpln lang="la">
+spica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn(n)">corne</form> <xpln lang="la">
+gran<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scythe(n)">a sythe.</form> <xpln lang="la">
+falx
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheaf(n)">a shefe</form> <xpln lang="la">
+merges
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ear(n)" lexeme="corn">an ere of corne</form> <xpln lang="la">
+arista
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rush(n)">a rishe</form> <xpln lang="la">
+Cirpus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pismire(n)">a pismichil</form> <xpln lang="la">
+formicetum
+</xpln>
+<lemenote>
+Presumably a form of "pismire" but not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brook(n)">a brook</form> <xpln lang="la">
+torrens vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bank(n)">a banke</form> <xpln lang="la">
+ripa vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="field(n)">a felde</form> <xpln lang="la">
+ager
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herb(n)" lexeme="grass(n)">a herbe or gresse.</form> <xpln lang="la">
+Herba
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn(n)">corne.</form> <xpln lang="la">
+seges
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stubble(n)">stubble.</form> <xpln lang="la">
+stipula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slime(n)">slimen.</form> <xpln lang="la">
+sinius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="furrow(n)">a forowe</form> <xpln lang="la">
+sulcus quoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="balk(n)">a balke</form> <xpln lang="la">
+lira
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fleece(n)">a flese</form> <xpln lang="la">
+Vellus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep(n)">a shepe.</form> <xpln lang="la">
+ouis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lamb(n)">a lambe</form> <xpln lang="la">
+agnus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wether(n)">a weder</form> <xpln lang="la">
+aries sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skin(n)">a skyn</form> <xpln lang="la">
+pellis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fold(n)">a folde</form> <xpln lang="la">
+ouile
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a2v">
+<wordentry type="h"><form lang="en" lexeme="rake(n)">a rake</form> <xpln lang="la">
+Et cartis &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bole(n)" lexeme="stall(n)">a boole or a stal.</form> <xpln lang="la">
+bostar
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="band(n)">a band</form> <xpln lang="la">
+vincl<expan type="">um</expan>	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shekel(n)">ashekel</form> <xpln lang="la">
+numellaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="withe(n)">wyther</form> <xpln lang="la">
+restis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fan(n)">a fanne	</form> <xpln lang="la">
+Vannus &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mow(n)">a mowe</form> <xpln lang="la">
+arcomus sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barn(n)">a barne.</form> <xpln lang="la">
+horria
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn(n)">corne.</form> <xpln lang="la">
+farq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="small(a)" lexeme="seed(n)">smal sede</form> <xpln lang="la">
+lupinus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thresher(n)">thresher</form> <xpln lang="la">
+Et triturator
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chain(n)">chane.</form> <xpln lang="la">
+acus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="riddle(n)" lexeme="sieve(n)">a oedyl or a ceue.</form> <xpln lang="la">
+cribrum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rake(n)">a rake</form> <xpln lang="la">
+rastr<expan type="">um</expan>q<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flail(n)">a flayle</form> <xpln lang="la">
+flagellum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wheat(n)">whete</form> <xpln lang="la">
+Frument<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rye(n)">rye</form> <xpln lang="la">
+sigul<expan type="">um</expan> sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barley(n)" lexeme="mingled(a)">barly mingled or</form> <xpln lang="la">
+ordia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="maslin(n)" lexeme="corn(n)">mastelyne corne.</form> <xpln lang="la">
+mixtilioq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hemlock(n)">a humlok.</form> <xpln lang="la">
+Erica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockle(n)">a cokyl</form> <xpln lang="la">
+zolium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drawk(n)">drauke</form> <xpln lang="la">
+zizania dic &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oat(n)">ootes</form> <xpln lang="la">
+auena.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strickle(n)">a strykil</form> <xpln lang="la">
+Historium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bushel(n)">a boshel</form> <xpln lang="la">
+modius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broom(n)">a brome.</form> <xpln lang="la">
+scoba
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bellow(n)">bellos.</form> <xpln lang="la">
+follis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brand(n)">brande. </form> <xpln lang="la">
+teda
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stool(n)">a stole</form> <xpln lang="la">
+scabellum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bakehouse(n)">a bakhowse</form> <xpln lang="la">
+Pistrinum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paste(n)">paste</form> <xpln lang="la">
+pasta
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oven(n)">an ouen</form> <xpln lang="la">
+furnus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="meal(n)">meel</form> <xpln lang="la">
+farinaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lead(n)">leede</form> <xpln lang="la">
+plumbum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kiln(n)">kylne</form> <xpln lang="la">
+Vstrinam
+</xpln>
+<lemenote>
+Damage obliterates "kilne," which is supplied from the 1516 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grout(n)">growte	</form> <xpln lang="la">
+granamellum	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quern(n)">a querne</form> <xpln lang="la">
+mola	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hair(n)">a here</form> <xpln lang="la">
+ciliciumq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ship(n)">a shyppe.</form> <xpln lang="la">
+Nauis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="net(n)">a net.</form> <xpln lang="la">
+rhete
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea(n)">the se.</form> <xpln lang="la">
+mare
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boatman(n)">a bootman</form> <xpln lang="la">
+reme
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sail(n)">a sayl</form> <xpln lang="la">
+velum quoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mast(n)">a maste</form> <xpln lang="la">
+mulus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anchor(n)">a ancor</form> <xpln lang="la">
+Ancora dic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ship(n)" lexeme="hire(n)">shyphyre</form> <xpln lang="la">
+naulum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gable(n)">gables</form> <xpln lang="la">
+rudentes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cord(n)">a corde</form> <xpln lang="la">
+cordaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oar(n)">an oore</form> <xpln lang="la">
+remus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plough(n)">a plugh</form> <xpln lang="la">
+Est aratr<expan type="">un</expan>q<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="share(n)">a share</form> <xpln lang="la">
+vomer
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="earer(n)">an erar</form> <xpln lang="la">
+culture
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gad(n)">a gadde</form> <xpln lang="la">
+gerusa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="halter(n)">an halter</form> <xpln lang="la">
+capistrum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="axle-tree(n)">an axiletre.</form> <xpln lang="la">
+Aris
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cart(n)">a carte.</form> <xpln lang="la">
+biga
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yoke(n)">a yoke</form> <xpln lang="la">
+iugum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spoke(n)">a spook.</form> <xpln lang="la">
+radius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wheel(n)">a whele.</form> <xpln lang="la">
+rota
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prick(n)">a prycke.</form> <xpln lang="la">
+stilio
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="song(n)">a songe</form> <xpln lang="la">
+cantus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="harrow(n)">an harowe</form> <xpln lang="la">
+Harpica sunt
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)" lexeme="harness(n)">hors harnes</form> <xpln lang="la">
+phalere
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crupper(n)">a croper</form> <xpln lang="la">
+postela
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="team(n)">a teme</form> <xpln lang="la">
+temoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thill-horse(n)">a tylhors</form> <xpln lang="la">
+veredus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="air(n)">thayre.</form> <xpln lang="la">
+Aer
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sun(n)">the sonne.</form> <xpln lang="la">
+sol
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cloud(n)">a clo<emend err="n">u</emend>de.</form> <xpln lang="la">
+nubes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rainbow(n)">a renbowe.</form> <xpln lang="la">
+iris sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moon(n)">the mone.</form> <xpln lang="la">
+lunaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="star(n)">sterre</form> <xpln lang="la">
+stella
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rust(n)">roste</form> <xpln lang="la">
+Assa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saffron(n)">safran</form> <xpln lang="la">
+crocus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="joust(n)">iouste</form> <xpln lang="la">
+succus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pasty(n)">a pastey</form> <xpln lang="la">
+pastillus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cumin(n)">c<expan type="">um</expan>myn</form> <xpln lang="la">
+subdes iminum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knife(n)">a knyf</form> <xpln lang="la">
+Cultellus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pear(n)">a pere</form> <xpln lang="la">
+pirum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple(n)">a apell</form> <xpln lang="la">
+pomum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cup(n)">a cup</form> <xpln lang="la">
+ciphus quoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wine(n)">wyne</form> <xpln lang="la">
+vinum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="board(n)">a borde	</form> <xpln lang="la">
+Mensa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trestle(n)">a trestell</form> <xpln lang="la">
+tripos
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="laver(n)">a lauer</form> <xpln lang="la">
+lauacr<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="basin(n)">a basyn</form> <xpln lang="la">
+pelues
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="towel(n)">a thowel</form> <xpln lang="la">
+manutergia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="veil(n)">a veel</form> <xpln lang="la">
+vel<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perch(n)">a perech</form> <xpln lang="la">
+Partica cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chair(n)">a cheer	</form> <xpln lang="la">
+cathedra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cushion(n)">quishen</form> <xpln lang="la">
+puluinar
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bride(n)">bryde</form> <xpln lang="la">
+auisq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cage(n)">a cage</form> <xpln lang="la">
+castella
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chaldron(n)">a chaderon</form> <xpln lang="la">
+Acypopyrgia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bellow(n)">bellous</form> <xpln lang="la">
+follis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bench(n)">a benche</form> <xpln lang="la">
+scamnum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brand(n)">a brande</form> <xpln lang="la">
+teda
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stool(n)">a stole</form> <xpln lang="la">
+scabellum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dice(n)">a dyse</form> <xpln lang="la">
+Alia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chequer(n)">shekker</form> <xpln lang="la">
+scaccar<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chequer(n)" lexeme="man(n)">shekkerman</form> <xpln lang="la">
+scaccus
+</xpln>
+<lemenote>
+"shekkerman" antedates earliest OED citation (?1577).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="die(n)">a dyse</form> <xpln lang="la">
+talis quoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="point(n)" lexeme="table(n)">a poynt in the tables</form> <xpln lang="la">
+pirgus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dreg(n)">dreggis.</form> <xpln lang="la">
+Fex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pannier(n)">a panies</form> <xpln lang="la">
+calaphus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barrel(n)">a barell</form> <xpln lang="la">
+cadus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="costrel(n)">a costrell</form> <xpln lang="la">
+onopher<expan type="">um</expan> sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spigot(n)">a spyggot.</form> <xpln lang="la">
+clipsedra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vessel(n)" lexeme="wine(n)">vessell for wyne</form> <xpln lang="la">
+orbis
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a3r">
+<wordentry type="h"><form lang="en" lexeme="ton(n)">a tonne</form> <xpln lang="la">
+Est dolium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sweet(a)" lexeme="wine(n)">swete wyne</form> <xpln lang="la">
+nectar
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="must(n)">must</form> <xpln lang="la">
+mustrum sit
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bottle(n)">a botell</form> <xpln lang="la">
+obbaq<expan type="">ue</expan>	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="case(n)">a cace</form> <xpln lang="la">
+teca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">fyre</form> <xpln lang="la">
+Ignis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coal(n)">a cool</form> <xpln lang="la">
+carbo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ash(n)">eshes</form> <xpln lang="la">
+cinis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smoke(n)">smoke</form> <xpln lang="la">
+fumus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="firebrand(n)">a fyrebronde.</form> <xpln lang="la">
+fax
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="turf(n)">turffe.</form> <xpln lang="la">
+gleba
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sparkle(n)">a sperkle</form> <xpln lang="la">
+fauilla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="potstick(n)">a postyk</form> <xpln lang="la">
+Contus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gridiron(n)">a gredyron</form> <xpln lang="la">
+cartus &#38;
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pot(n)">a pot</form> <xpln lang="la">
+olla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pan(n)">a panne</form> <xpln lang="la">
+patella
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh-hook(n)">a fleshoke</form> <xpln lang="la">
+creagra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="platter(n)">a plater</form> <xpln lang="la">
+parapcis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kitchen(n)" lexeme="page(n)">a kechen page.</form> <xpln lang="la">
+Lixa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brandiron(n)">a brendyron.</form> <xpln lang="la">
+tripes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bucket(n)">a boket.</form> <xpln lang="la">
+stula 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="can(n)">can</form> <xpln lang="la">
+cacabus sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pestle(n)">pestell</form> <xpln lang="la">
+pila
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spit(n)">a spit</form> <xpln lang="la">
+vertut<expan type="">um</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frying-pan(n)">a fryinge panne.</form> <xpln lang="la">
+Sartago
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slice(n)">asklyse</form> <xpln lang="la">
+spacula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pepper-quern(n)">a peperquerne</form> <xpln lang="la">
+pipervs mola
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foam(n)">foome</form> <xpln lang="la">
+spumaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flame(n)">a flame.</form> <xpln lang="la">
+lamma
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="breech(n)">a breche</form> <xpln lang="la">	
+Bracca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shirt(n)">a cherte</form> <xpln lang="la">
+camisia vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blanket(n)">a blank</form> <xpln lang="la">
+loder
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheet(n)">sheet</form> <xpln lang="la">
+linthea
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bed(n)">a bedde</form> <xpln lang="la">
+lectus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cloak(n)">a cloke	</form> <xpln lang="la">
+Collobium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coat(n)">a coote</form> <xpln lang="la">
+tunica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sleeve(n)">sleues</form> <xpln lang="la">
+manice sunt
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fur(n)">a furre</form> <xpln lang="la">
+pennula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cloth(n)">a cloth</form> <xpln lang="la">
+pannus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bolster(n)">a bolster</form> <xpln lang="la">
+Ceruical
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pissing(a)" lexeme="vessel(n)">a pyssynge vessell.</form> <xpln lang="la">
+medula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)">nayles</form> <xpln lang="la">
+clauus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chest(n)">a chyste</form> <xpln lang="la">
+scrinium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lock(n)">a locke</form> <xpln lang="la">
+sera
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="key(n)">a key</form> <xpln lang="la">
+clauus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kerchief(n)">a kercyeffe</form> <xpln lang="la">
+Flamea
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caul(n)">a kalle</form> <xpln lang="la">
+reticulum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bonnet(n)">a bonet</form> <xpln lang="la">
+tuberus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fillet(n)">fillet</form> <xpln lang="la">
+vittaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coif(n)">a quoyffe</form> <xpln lang="la">
+tena
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="door(n)">doores</form> <xpln lang="la">
+Hostia sunt
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wall(n)">a wall</form> <xpln lang="la">
+pariesq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="window(n)">a wyndow</form> <xpln lang="la">
+fenestra vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="floor(n)">floor</form> <xpln lang="la">
+arca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="post(n)">a post</form> <xpln lang="la">
+postis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="king(n)" lexeme="seat(n)">a kynge seet</form> <xpln lang="la">
+Et lolium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chamber(n)" lexeme="vault(n)">a chamber or a wole.</form> <xpln lang="la">
+cameraq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spence(n)">a spence</form> <xpln lang="la">
+penu sic</xpln></wordentry> 
+
+<wordentry type="h"><form lang="en" lexeme="hall(n)">an h<damage></damage></form> <xpln lang="la">
+an h<damage></damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="kitchen(n)">a kechyn</form> <xpln lang="la">
+canuina
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="line(n)" lexeme="plummet(n)">a lyne or a plummet</form> <xpln lang="la">
+Est perpendiculum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broad-axe(n)">a brood ax</form> <xpln lang="la">
+dolabrum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twibill(n)">a twyb</form> <xpln lang="la">
+bipei
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plummet(n)"><damage></damage></form> <xpln lang="la">
+amussis	
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hatchet(n)">an hachet</form> <xpln lang="la">
+Ascis cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wimble(n)">a wymbyll</form> <xpln lang="la">
+terebro sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chisel(n)">a chesel</form> <xpln lang="la">
+celis cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gore(n)">a agore</form> <xpln lang="la">
+penetrale
+</xpln>
+<lemenote>
+Latin "penetrale" means inner chamber.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chip(n)">a chyp</form> <xpln lang="la">
+Assula cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saw(n)">a saw</form> <xpln lang="la">
+terebro
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tree(n)">a tre</form> <xpln lang="la">
+lignumq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pin(n)">a pyn</form> <xpln lang="la">
+cauilla
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hole(n)">a hole</form> <xpln lang="la">
+foramen.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="line(n)">a lyne</form> <xpln lang="la">
+Linia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chalk(n)">chalke.</form> <xpln lang="la">
+<emend err="cumdolo">cum creta</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hew(v)"><emend err="iothw">to hew.</emend></form> <xpln lang="la">
+dolo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="compass(n)">a compas.</form> <xpln lang="la">
+crusnus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="quittance(n)">a quitasice.</form> <xpln lang="la">
+apoca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tail(n)">a tayle</form> <xpln lang="la">
+dica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garden(n)">a garden</form> <xpln lang="la">
+Ortus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="well(n)">a wel</form> <xpln lang="la">
+fons et
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">water</form> <xpln lang="la">
+aqua
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pond(n)">a ponde</form> <xpln lang="la">
+stagnu<expan type="">m</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bridge(n)">a bridge</form> <xpln lang="la">
+pons
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brink(n)">a benke</form> <xpln lang="la">
+mergoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leek(n)">a leke</form> <xpln lang="la">
+porru<expan type="">m</expan>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spade(n)">a spade</form> <xpln lang="la">
+Vanga
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="match(n)">a matcke</form> <xpln lang="la">
+ligo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shovel(n)">a shouell</form> <xpln lang="la">
+tribula sit
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dung(n)">dunge</form> <xpln lang="la">
+fimius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fork(n)">a forke</form> <xpln lang="la">
+furcaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gad(n)">a gadde.</form> <xpln lang="la">
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ditch(n)">a ditche.</form> <xpln lang="la">
+Fessa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="marsh(n)">a maresse.</form> <xpln lang="la">
+palus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hedge(n)">an hedge.</form> <xpln lang="la">
+sepes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="briar(n)">a breer</form> <xpln lang="la">
+tribulus sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thorn(n)">a thorne</form> <xpln lang="la">
+spinaq<damage></damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plum tree(n)">a plumtre.</form> <xpln lang="la">
+Est prunus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cherry-tree(n)">cheritre.</form> <xpln lang="la">
+cerasus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nut tree(n)">a nuttre.</form> <xpln lang="la">
+nux
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elm-tree(n)">an almetre.</form> <xpln lang="la">
+vlnus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vintry(n)">a vintre.</form> <xpln lang="la">
+vitis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honeycomb(n)">a honicome.</form> <xpln lang="la">
+Fauus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bee(n)">a bee.</form> <xpln lang="la">
+apis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wax(n)">wexe.</form> <xpln lang="la">
+cera
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="honey(n)">hony</form> <xpln lang="la">
+mel sic
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beehive(n)">beehyues.</form> <xpln lang="la">
+apiaria
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drone(n)" lexeme="bee(n)">a dronebee</form> <xpln lang="la">
+fucu
+</xpln>
+<lemenote>
+"dronebee" antedates earliest OED citation (?a1513)
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tree(n)">a tree</form> <xpln lang="la">
+Est arbor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leaf(n)">a lefe</form> <xpln lang="la">
+folium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="root(n)">a rote</form> <xpln lang="la">
+radir
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bow(n)">a bowe</form> <xpln lang="la">
+ramum quoq<expan type="">ue</expan>
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a3v">
+<wordentry type="h"><form lang="en" lexeme="snow(n)">snowe</form> <xpln lang="la">
+Nix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hail(n)"><emend err="b">h</emend>ayll</form> <xpln lang="la">
+grando
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thunder(n)">thondre</form> <xpln lang="la">
+tonitruus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rain(n)">rayne</form> <xpln lang="la">
+pluuia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lightning(n)">lyghtninge</form> <xpln lang="la">
+fulgurq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hoar-frost(n)">huorefroste</form> <xpln lang="la">
+pruina
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="winter(n)">wynter</form> <xpln lang="la">
+Bruma
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frost(n)">frost</form> <xpln lang="la">
+gelu
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ice(n)">yce.</form> <xpln lang="la">
+glacies
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whirlwind(n)">whorlwynde.</form> <xpln lang="la">
+turbo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sunbeam(n)">a sonbeme.</form> <xpln lang="la">
+radius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heat(n)">hete</form> <xpln lang="la">
+calor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="summer(n)">somer</form> <xpln lang="la">
+estas
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="tailor(n)">a taylour</form> <xpln lang="la">
+Scissor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="needle(n)">a nedle</form> <xpln lang="la">
+acus
+</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="thread(n)">threde</form> <xpln lang="la">
+filum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shear(n)">sheres</form> <xpln lang="la">
+forceps
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thimble(n)">a thimble</form> <xpln lang="la">
+digitale vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ell(n)">an elne</form> <xpln lang="la">
+vlna
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="leather(n)">lether</form> <xpln lang="la">
+Et corium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="awl(n)">an aule</form> <xpln lang="la">
+sibula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoe(n)">a shoo</form> <xpln lang="la">
+sotularis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cordwain(n)">cordewyne.</form> <xpln lang="la">
+alutaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="last(n)">a last</form> <xpln lang="la">
+galla
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="ink(n)" lexeme="bletch(n)">ynke or bletche</form> <xpln lang="la">
+Ac atramentum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pairing(n)">a parynge</form> <xpln lang="la">
+precigmen
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thong(n)">a thonge</form> <xpln lang="la">
+corrigia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bristle(n)">a brystill</form> <xpln lang="la">
+ceta
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="welt(n)">a welte	</form> <xpln lang="la">
+Ac intercutia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sole(n)">a soole</form> <xpln lang="la">
+solium
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bletch(n)" lexeme="pot(n)">a bletche potte</form> <xpln lang="la">
+dic anfariumq<expan type="">ue</expan>
+</xpln>
+<lemenote>
+"bletche potte" not found in OED but its equivalent "blatch-pot" is earlier (a1500).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wool(n)">wole</form> <xpln lang="la">
+Lana
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rock(n)">a rocke.</form> <xpln lang="la">
+colus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spindle(n)">a spyndil</form> <xpln lang="la">
+fusa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="besom(n)">a besem</form> <xpln lang="la">
+sic scoba
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="herd(n)">herdes</form> <xpln lang="la">
+matraxaq<expan type="">ue</expan>
+</xpln>
+<lemenote>
+See Middle English Dictionary, "herde," n. 3 ("hards").
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flax(n)">flax</form> <xpln lang="la">
+linum
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="posnet(n)">a posnet</form> <xpln lang="la">
+Vrciolus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cradle(n)">a <emend err="t">c</emend>radel.</form> <xpln lang="la">
+cune
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pap(n)">pappe</form> <xpln lang="la">
+papatum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cradle(n)" lexeme="band(n)">a cradibilbande.</form> <xpln lang="la">
+fyscia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="broad(a)">broode</form> <xpln lang="la">
+lata
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="girth(n)">a gyrth</form> <xpln lang="la">
+Singula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="saddle(n)">a sadyl.</form> <xpln lang="la">
+sella
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stirrup(n)">stirop.</form> <xpln lang="la">
+strepa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spur(n)">a sp<emend err="">orre</emend></form> <xpln lang="la">
+calcar
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bridle(n)">a bridil</form> <xpln lang="la">
+frenu<expan type="">n</expan>q<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="halter(n)">an halter</form> <xpln lang="la">
+capistrum
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="boot(n)">a boot</form> <xpln lang="la">
+Ocrea cum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coif(n)">a coyf</form> <xpln lang="la">
+tencis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="peytral(n)">a patril</form> <xpln lang="la">
+antecaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mail(n)">a male</form> <xpln lang="la">
+mantica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse-shoe(n)">an horsshoo</form> <xpln lang="la">
+ferrum.
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="hose(n)">a hose</form> <xpln lang="la">
+Sunt calige 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lash(n)">lasshis</form> <xpln lang="la">
+ligule
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snare(n)">a snare</form> <xpln lang="la">
+laqueus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pauncher(n)">a panucher</form> <xpln lang="la">
+lumbareq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="web(n)">a webbe</form> <xpln lang="la">
+tela
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="girdle(n)">a gyrdil</form> <xpln lang="la">
+Cum zona
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="purse(n)">a purse</form> <xpln lang="la">
+locus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aglet(n)">an aglette</form> <xpln lang="la">
+acuaria
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glove(n)">a gloue</form> <xpln lang="la">
+cum ceroteca
+</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="silver(n)">siluer</form> <xpln lang="la">
+Argentum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pound(n)">a pounde.</form> <xpln lang="la">
+libra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shilling(n)">a shelinge</form> <xpln lang="la">
+solidusq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coin(n)">a quoine</form> <xpln lang="la">
+nummisma
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)">golde</form> <xpln lang="la">
+vel aurum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tong(n)">a tongis</form> <xpln lang="la">
+Fortifer
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anvil(n)"><emend err="">a stedy</emend></form> <xpln lang="la">
+incus
+</xpln>
+<lemenote>
+"a stedy" mayt have been a variant spelling of "anvil".
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forge(n)">a forge</form> <xpln lang="la">
+fabricca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hammer(n)">an hammer</form> <xpln lang="la">
+maleus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">a fyre</form> <xpln lang="la">
+atq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chimney(n)">a chiminey</form> <xpln lang="la">
+caminus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steel(n)">sterle</form> <xpln lang="la">
+Inde calibs
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="iron(n)">yron</form> <xpln lang="la">
+ferrum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gobbet(n)">a gobbet</form> <xpln lang="la">
+frustrum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="barnacle(n)">a bernakel</form> <xpln lang="la">
+camus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="metal(n)">metal</form> <xpln lang="la">
+atq<expan type="">ue</expan> metallu<expan type="">m</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shear(n)">sheris</form> <xpln lang="la">
+Forfex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glass(n)">a glasse</form> <xpln lang="la">
+cum speculo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="comb(n)">a combe</form> <xpln lang="la">
+pectenq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="razor(n)">rasour</form> <xpln lang="la">
+nouacula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whetstone(n)">a whetstone</form> <xpln lang="la">
+cosq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spear(n)">a spere</form> <xpln lang="la">
+Lancea vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sword(n)">a swerde</form> <xpln lang="la">
+gladius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dart(n)">a dart</form> <xpln lang="la">
+pilum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arrow(n)">an arowe</form> <xpln lang="la">
+sagitta vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bow(n)">a bowe</form> <xpln lang="la">
+arcus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beast(n)">a beest</form> <xpln lang="la">
+Bestia
+</xpln>
+<lemenote>
+This damaged entry is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bird(n)">a byrde</form> <xpln lang="la">
+polucris
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serpent(n)">a serpent</form> <xpln lang="la">
+serpens
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fly(n)">a flye</form> <xpln lang="la">
+sic muscaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="worm(n)">a worme</form> <xpln lang="la">
+vermis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cock(n)">a cocke</form> <xpln lang="la">
+Gallus
+</xpln>
+<lemenote>
+This damaged entry is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hen(n)">henne</form> <xpln lang="la">
+llina
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chicken(n)">a chekin.</form> <xpln lang="la">
+sic pullus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gander(n)">gander</form> <xpln lang="la">
+anceret
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose(n)">a gose</form> <xpln lang="la">
+auca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sparrow(n)">a sparowe</form> <xpln lang="la">
+Passer
+</xpln>
+<lemenote>
+This damaged entry is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="duck(n)">a ducke</form> <xpln lang="la">
+aneta
+</xpln>
+<lemenote>
+This damaged entry is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eagle(n)">an egle.</form> <xpln lang="la">
+aquila
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crow(n)">a crowe.</form> <xpln lang="la">
+cornix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raven(n)">a rauin</form> <xpln lang="la">
+coruusq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dove(n)">a doue</form> <xpln lang="la">
+columba
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="city(n)">a cyte</form> <xpln lang="la">
+Vrbs
+</xpln>
+<lemenote>
+This damaged entry is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="citizen(n)">a cytesyn</form> <xpln lang="la">
+a ciuis
+</xpln>
+<lemenote>
+This damaged entry is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cross-way(n)">a crosway</form> <xpln lang="la">
+biuium vel
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shop(n)">a shoppe</form> <xpln lang="la">
+opella
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butcher(n)">a becher</form> <xpln lang="la">
+lanista
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shamble(n)">ashamelles</form> <xpln lang="la">
+macellum
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a4r">
+<wordentry type="h"><form lang="en" lexeme="scabby(a)">scabby</form> <xpln lang="la">
+Scaber
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gleer(n)">a <emend err="aglyet">glyer</emend></form> <xpln lang="la">
+strabo
+</xpln>
+<lemenote>
+This corrected headword is supplied by the 1515 edition (STC 18874).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pillory(n)">a pelery</form> <xpln lang="la">
+colligistrum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fetter(n)">a fetter</form> <xpln lang="la">
+compresq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chain(n)">a cheyn</form> <xpln lang="la">
+cathena
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)">a nayle</form> <xpln lang="la">
+Vngula
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tail(n)">a tayle</form> <xpln lang="la">
+cauda
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="piler(n)">a piler.</form> <xpln lang="la">
+pila
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horn(n)">an horne.</form> <xpln lang="la">
+cornu
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blood(n)">blode.</form> <xpln lang="la">
+cruor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gut(n)">guttis</form> <xpln lang="la">
+exsta
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="haggis(n)">an hagesse</form> <xpln lang="la">
+tucetum
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colt(n)">a colte</form> <xpln lang="la">
+Pullus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horse(n)">an horse</form> <xpln lang="la">
+equus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mare(n)">a mare</form> <xpln lang="la">
+vel equa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="calf(n)">a calfe</form> <xpln lang="la">
+vitulus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxe(n)">an oxs.</form> <xpln lang="la">
+bos
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow(n)">a cowe.</form> <xpln lang="la">
+vacca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caddow(n)">a chawdd</form> <xpln lang="la">
+abel
+</xpln>
+<lemenote>
+Damaged entry. The 1515 edition lists "a chawdaw" (a crow) for Latin "caballus" (a horse).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hog(n)">a hogge</form> <xpln lang="la">
+Porcus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pig(n)">a pigge</form> <xpln lang="la">
+porcellus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bull(n)">a bubile</form> <xpln lang="la">
+taurus
+</xpln>
+<lemenote>
+Latin "bubile" is a stall for cattle. The 1515 edition has "bulle."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gelded(a)">a gelt</form> <xpln lang="la">
+nefrendus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boar(n)">a boor.</form> <xpln lang="la">
+aper
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sow(n)">a sowe</form> <xpln lang="la">
+sus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog(n)">a dogge</form> <xpln lang="la">
+Et canis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whelp(n)">a whelpe</form> <xpln lang="la">
+et catulus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rat(n)">ratte</form> <xpln lang="la">
+dic sorex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cat(n)">a cat</form> <xpln lang="la">
+murilegus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouse(n)">a mous</form> <xpln lang="la">
+mus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steed(n)">a stede</form> <xpln lang="la">
+Dextrarius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wether(n)">a wether</form> <xpln lang="la">
+veruex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ram(n)">a ram.</form> <xpln lang="la">
+aries
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elephant(n)">an elephant.</form> <xpln lang="la">
+elephas
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep(n)">a shepe.</form> <xpln lang="la">
+ouis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lamb(n)">a lambe</form> <xpln lang="la">
+agnus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lamb(n)" lexeme="little(a)">a littil lambe</form> <xpln lang="la">
+Agnellus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thief(n)">a thefe</form> <xpln lang="la">
+latro
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fox(n)">a fox</form> <xpln lang="la">
+vulpes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ass(n)">an asse</form> <xpln lang="la">
+asinus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="irchen(n)">an vrchen</form> <xpln lang="la">
+cirogrillus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beast(n)">a beest</form> <xpln lang="la">
+Est animal
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beast(n)">a beest</form> <xpln lang="la">
+pecus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spaniel(n)">a spaniel</form> <xpln lang="la">
+odorinsecus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="camel(n)">a camel</form> <xpln lang="la">
+atq<expan type="">ue</expan> camelus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ape(n)">an ape</form> <xpln lang="la">
+Simea
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hekforth(n)">a hekforth</form> <xpln lang="la">
+iumentu<expan type="">m</expan>q<expan type="">ue</expan>
+</xpln>
+<lemenote>
+Latin "Juventum" means a mule or beast of burden, and "hekforth," though not 
+in the OED, appears in a will dated about 1518 and mentioned in 
+James A. Raftis' <i>Early Tudor Godmanchester</i> (1990): 96.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bull(n)">a yong boole.</form> <xpln lang="la">
+iuuencus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cow(n)">a yonge kowe.</form> <xpln lang="la">
+iuuenta
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hereford(n)" lexeme="broke(n)">a brok or herforde</form> <xpln lang="la">
+melota
+</xpln>
+<lemenote>
+"herforde" antedates the earliest OED citation (1805). Brokes are "short-stapled wool," and a Latin "melota" is commonly a sheepskin.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mole(n)">a moule</form> <xpln lang="la">
+Talpa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wolf(n)">a wolfe</form> <xpln lang="la">
+lupus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mule(n)">a mule</form> <xpln lang="la">
+mulus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brock(n)">a broke</form> <xpln lang="la">
+taxus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="weasel(n)">a whesel</form> <xpln lang="la">
+mustela
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><damage></damage></form> <xpln lang="la">
+oncus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat(n)">a goot</form> <xpln lang="la">
+Hircus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="little(a)" lexeme="goat(n)">a lytil goot</form> <xpln lang="la">
+capriol<expan type="">us</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat(n)">a goot</form> <xpln lang="la">
+capra
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="doe(n)">a doo</form> <xpln lang="la">
+dama
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goat(n)">a goot</form> <xpln lang="la">
+caper
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hart(n)">an herte</form> <xpln lang="la">
+quoq<expan type="">ue</expan> ceruus.
+
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="greyhound(n)">a grehonde</form> <xpln lang="la">
+His leporarius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog(n)">a dogge</form> <xpln lang="la">
+bobexq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tied(a)" lexeme="dog(n)">a tyde dogge.</form> <xpln lang="la">
+lascesca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="great(a)" lexeme="dog(n)">a gret dogge</form> <xpln lang="la">
+molosus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouth(n)">a mouth</form> <xpln lang="la">
+Tinia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="louse(n)">a louse</form> <xpln lang="la">
+pediculusq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flea(n)">a flee</form> <xpln lang="la">
+pulexlens
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nit(n)">a nytt</form> <xpln lang="la">
+ciroq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="worm(n)">a worme</form> <xpln lang="la">
+vermis.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fly(n)">a flye</form> <xpln lang="la">
+Musca
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gnat(n)">a gnat</form> <xpln lang="la">
+culex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bee(n)">a bee</form> <xpln lang="la">
+et apis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gnat(n)">gnatte</form> <xpln lang="la">
+cinifes
+</xpln>
+<lemenote>
+"gnatte" supplied from 1515 edition.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spider(n)">a spider</form> <xpln lang="la">
+ac aranea
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wasp(n)">a waspe</form> <xpln lang="la">
+vespa
+
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="owl(n)">an oule.</form> <xpln lang="la">
+Bubo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragon(n)">a dragon</form> <xpln lang="la">
+draco
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="frog(n)">a frogge.</form> <xpln lang="la">
+rana
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="toad(n)">a tood</form> <xpln lang="la">
+bufo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adder(n)">an addir</form> <xpln lang="la">
+sic vipera
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snail(n)">a snayle</form> <xpln lang="la">
+liuax
+
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bear(n)">a beer</form> <xpln lang="la">
+Vrsus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pismire(n)">a pismur</form> <xpln lang="la">
+formica
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bat(n)">a bocke</form> <xpln lang="la">
+vespertioq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grasshop(n)">a greshope</form> <xpln lang="la">
+sicada
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="badger(n)">a broke</form> <xpln lang="la">
+Castor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="coney(n)">a cony</form> <xpln lang="la">
+cuniculus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hare(n)">an hare</form> <xpln lang="la">
+lepus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lion(n)">a lyon</form> <xpln lang="la">
+et leo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leopard(n)">a leoparde</form> <xpln lang="la">
+vel leopardus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="king(n)">a kyng.</form> <xpln lang="la">
+Rex
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rock(n)">a rock</form> <xpln lang="la">
+rogus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Alpine(n)">an alpin</form> <xpln lang="la">
+alpinus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knight(n)">a knyght</form> <xpln lang="la">
+miles
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="queen(n)">a que<emend err="u">n</emend>e</form> <xpln lang="la">
+regina
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="follower(n)">a folower</form> <xpln lang="la">
+pediuus.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="squire(n)">a squier</form> <xpln lang="la">
+Armiger
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lady(n)">a lady</form> <xpln lang="la">
+et domina
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prince(n)">a prince</form> <xpln lang="la">
+princeps
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lady(n)">a lytil lady</form> <xpln lang="la">
+domicellaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="virgin(n)">a virgin</form> <xpln lang="la">
+virgo
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pope(n)">a poope</form> <xpln lang="la">
+Papa
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emperor(n)">an emperour.</form> <xpln lang="la">
+vel imperator
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baron(n)">a baron.</form> <xpln lang="la">
+baro
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="duke(n)">a duke,</form> <xpln lang="la">
+dux
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lord(n)">a lorde</form> <xpln lang="la">
+herus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lady(n)">a lady</form> <xpln lang="la">
+et hera
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="earl(n)">an erle</form> <xpln lang="la">
+Comes
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="burgess(n)">a burges</form> <xpln lang="la">
+burgensis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="enemy(n)">an enmy</form> <xpln lang="la">
+hostis
+
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="a4v">
+<wordentry type="h"><form lang="en" lexeme="archdeacon(n)">an archdecon</form> <xpln lang="la">
+Archidyaconus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="official(n)">an officiall</form> <xpln lang="la">
+officialis
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beadle(n)">a bedill</form> <xpln lang="la">
+proco
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dean(n)">a dean</form> <xpln lang="la">
+decanus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="parson(n)">a persom</form> <xpln lang="la">
+Rector
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="person(n)">idem <editoraddition>person</editoraddition></form> <xpln lang="la">
+persona
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deacon(n)">a decon</form> <xpln lang="la">
+leuitaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="priest(n)">a preest</form> <xpln lang="la">
+presbyter
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heir(n)">an heyre</form> <xpln lang="la">
+heres
+	</xpln></wordentry>
+
+<wordentry type="h"><form lang="en"><damage></damage></form> <xpln lang="la">
+Nunc ponamq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vicar(n)">vicar</form> <xpln lang="la">
+vicarios
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bishop(n)">a bysshope</form> <xpln lang="la">
+antistesq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prelate(n)">a prelat.</form> <xpln lang="la">
+prelatos
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="primate(n)">a primat</form> <xpln lang="la">
+Primas
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baptizer(n)">a batiser</form> <xpln lang="la">
+baptista
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chaplain(n)">a chaplen</form> <xpln lang="la">
+a capellanus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chanter(n)">a chantor</form> <xpln lang="la">
+quoq<expan type="">ue</expan> cantor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goodman(n)" lexeme="house(n)">the godeman of the house</form> <xpln lang="la">
+Atq<expan type="">ue</expan> paterq<expan type="">ue</expan> familias
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goodwife(n)">the gode wyf</form> <xpln lang="la">
+vel matronaq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mother(n)">a mother</form> <xpln lang="la">
+mater.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daughter(n)">doughter.</form> <xpln lang="la">
+Filia
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="son(n)">a son</form> <xpln lang="la">
+filius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brother(n)">a brother</form> <xpln lang="la">
+atq<expan type="">ue</expan> fraterq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sister(n)">a sister</form> <xpln lang="la">
+soror
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wife(n)">a wyfe</form> <xpln lang="la">
+simul vxor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="old wife(n)">an olde wyf.</form> <xpln lang="la">
+Est auus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grandam(n)">a grandam.</form> <xpln lang="la">
+aueq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="father-in-law(n)">father in law.</form> <xpln lang="la">
+socer
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brother-in-law(n)">a brother in law.</form> <xpln lang="la">
+nurus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brother-in-law(n)">a brother in law.</form> <xpln lang="la">
+quoq<expan type="">ue</expan> leuir
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="son-in-law(n)">a son in law.</form> <xpln lang="la">
+Est gener
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mother-in-law(n)">a mother in law.</form> <xpln lang="la">
+et socrus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="father(n)" lexeme="brother(n)">a fathers brother.</form> <xpln lang="la">
+patruus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mother(n)" lexeme="brother(n)">a mothers brother</form> <xpln lang="la">
+sic auunculus atq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goldsmith(n)">a gold smyth</form> <xpln lang="la">
+Aurifaberq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smith(n)">a smyth</form> <xpln lang="la">
+faber
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carpenter(n)">a carpenter</form> <xpln lang="la">
+carpentarius
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fowler(n)">a fowler</form> <xpln lang="la">
+simul anceps
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sower(n)">a sower</form> <xpln lang="la">
+Sutor vel tranctorq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cook(n)">a cooke</form> <xpln lang="la">
+cocus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="butler(n)">a butler</form> <xpln lang="la">
+pincerna
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="servant(n)">a seruant</form> <xpln lang="la">
+minister.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="steward(n)">stewarde</form> <xpln lang="la">
+Atq<expan type="">ue</expan> fenescallus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baillie(n)">a bayly</form> <xpln lang="la">
+balliuus
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mayor(n)">a mayr</form> <xpln lang="la">
+prepositusq<expan type="">ue</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="searcher(n)">a sercher</form> <xpln lang="la">
+Ac explorator
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="standard-bearer(n)">a standerdberer</form> <xpln lang="la">
+vexillator
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hangman(n)">a hangman.</form> <xpln lang="la">
+quoq<expan type="">ue</expan> lictor
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nurse(n)">a nurse</form> <xpln lang="la">
+Nutrix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shepster(n)">a sharpstar</form> <xpln lang="la">
+filiatrix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leper(n)">a leper</form> <xpln lang="la">
+saltatrix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deceiver(n)">a dissayuer</form> <xpln lang="la">
+prestigiatrix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="baud(n)">a bawde</form> <xpln lang="la">
+Pronuba
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="harlot(n)">an harlote</form> <xpln lang="la">
+vel meretrix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="singing(a)" lexeme="woman(n)">a singinge woman</form> <xpln lang="la">
+cantatrix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knitter(n)">a knytter</form> <xpln lang="la">
+qouq<expan type="">ue</expan> <expan type="">empty</expan>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="messenger(n)">a messanger</form> <xpln lang="la">
+Nuncius
+</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="midwife(n)">a mydwyfe</form> <xpln lang="la">
+ac obstetrix
+</xpln></wordentry>
+	
+<wordentry type="h"><form lang="en" lexeme="porter(n)">a porter</form> <xpln lang="la">
+et portarius atq<expan type="">ue</expan>
+</xpln></wordentry>
+</section>
+
+<section type="colophon">
+<term lang="la">Impressum Anterpie, perme Io<emend err="">&#173;</emend>
+hannem de Doeshorch.</term>
+</section>
+
+
+
+</page>
+</leme>

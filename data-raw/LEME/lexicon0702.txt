@@ -1,0 +1,304 @@
+ <leme no="702">
+<page sig="a1r">
+<section type="Title-page">
+FEVDIGRAPHIA.
+THE SYNOPSIS
+OR EPITOME OF
+SVRVEYING MED&shy;
+THODIZED
+Anatomizing the whole Corps of the
+Facultie; <term lang="la">Viz.</term>
+
+The Materiall, Mathematicall, Mechanicall and
+Legall Parts,
+
+Intimating all the Incidents to Fees and Possessions, and
+whatsoeuer may be comprized vnder their Matter, Forme,
+Proprietie, and Valuation.
+
+Very pertinent to be perused of all those, whom the Right, Reuenewe,
+Estimation, Farming, Occupation, Manurance, Subduin<emend t="">g</emend>,
+Preparing and Imploying of Arable, Medow, Pasture, and all
+other Plots doe concerne.
+
+And no lesse remarkable for all Vnder-takers in the Plantati&shy;
+on of Ireland or Virginia, for all Trauailers for Discoueries of for&shy;
+raine Countries, and for Purchasers, Exchangers, or Sellers
+of Land, and for euery other Interessee in the Profits
+or Practise deriued from the compleate
+
+SVRVEY
+
+Of Manours, Lands, Tenements, Edifices, Woods, Waters, Ti&shy;
+tles, Tenures, Euidences, &amp;c.
+
+Composed in a compendious Digest by
+
+W. FOLKINGHAM. G.
+
+<lemeformat>
+<term lang="la">Qu&aelig; prosunt singula, multa iuvant.</term>
+</lemeformat>
+
+LONDON
+
+Printed for Richard Moore, and are to be solde at his shop in Saint
+Dunstanes Church-yard in Fleete-streete,
+1610.
+</section>
+</page>
+
+<page no="1">
+<section type="Definitions">
+<wordgroup1 type="t">
+<wordentry type="d"><form lang="en" lexeme="survey(n)">SUruey in generall</form> <xpln lang="en">is an Art wher&shy;
+by the view and trutinate intima&shy;
+tion of a subiect, from Center to
+Circumference is rectified. </xpln></wordentry>
+</page>
+
+<page no="3">
+<wordentry type="d"><form lang="en" lexeme="bitumen(n)">Bitumen</form> <xpln lang="en">is either hard, as <term lang="la">Asphaltus, Pissasphaltus</term>, 
+</page>
+
+<page no="4">
+Rosin; Or Liquid, as Naphta, Petroleum,
+Amber, Vitriol, Coppras. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="precious earth(n)">The Pretious Earths</form> <xpln lang="en">, which are not Meltable, nor
+indurated into Stones nor Mettals, are Stibium, 
+Azure, Auripigmentum or Arsenicke, Sandaracha,
+Calx, Playster, Chaulke, Coale, Canole, Marle, O&shy;
+ker, Terra-sigillata, or Lemnia, Armenia, Germani&shy;
+ca, &amp;c. Tuckers or Fullers Earth, Argilla or clay for
+Pots, Gallie and Thacke Tiles, Bricke, Water and
+Tabacco Pipes, Purslaine. </xpln></wordentry>
+</page>
+
+<page no="14">
+<wordentry type="d"><form lang="en" lexeme="tillage(n)">Tillage</form> <xpln lang="en">generally taken may comprehend all maner
+of husbandings of grounds, but it is heere limited to
+Vertilage and Fertilage. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="vertilage(n)">Vertilage</form> <xpln lang="en">consists in Deluage and Fictilage. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en">Deluage</form> <xpln lang="en">is applyed about preparing, and putrifying 
+of the Earth by stirring, tossing and turning of the same,
+according to the Poet.
+
+<term lang="la">
+<lemeformat>
+Et cui putre solum, nameq; hoc imitamur arando: viz. Vt
+arando solum sit putre: Neq; enim (inquit Columella) ali&shy;
+ud est colere quam soluere &amp; fermentare terram.
+</lemeformat>
+</term>
+
+And this Deluage is distinguishable into Caruage
+and Scaphage. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="carvage(n)">Caruage</form> <xpln lang="en">comprehends all sorts of plowing of
+Grounds, as well ordinarie, <term lang="la">viz.</term> for Graine, Hempe,
+Line, &amp;c. As Extraordinarie, <term lang="la">viz.</term> for Woods, Woade,
+Dyers-weede, Rapes, Cole, Saffron, Mill, Millet,
+Panick, Amilcorne, Splet-corn, Garences, Dewgrasse,
+Iobs-teares, Comin-seede, Annise-seede, Worme-seede,
+Cotton-seede, Canarie-seede, &amp;c. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en">Scaphage</form> <xpln lang="en">is the digging, deluing, and preparing of 
+the Soile with Spades or other handie-tooles for the 
+sowing, setting, planting, and propagating of Seedes,
+Hearbs, Plants, Trees, &amp;c. and is most conuersant in
+Gardens, Hort-yards, Hop-yards, Vine-yards. </xpln></wordentry>
+ 
+<wordentry type="d"><form lang="en">Fictilage</form> <xpln lang="en">is the forming &amp; transforming of <expan type="y+e">the</expan> Matter in 
+form or substance; as in making of Tile (for thack, roofe,
+crest, gutter, pauing) Brick, Pots, Tabaccopipes, T<expan type="o+_">on</expan>nel
+or Conduit-pipes, Glasse, Purslane, and other Plasma&shy;
+ture. </xpln></wordentry>
+</page>
+
+<page no="15">
+<wordentry type="d"><form lang="en" lexeme="fertilage(n)">FErtilage</form> <xpln lang="en">consists in the enriching of the Soyle, and
+the Rectifying of the Production. </xpln></wordentry>
+</page>
+
+<page no="49">
+<wordentry type="d"><form lang="en" lexeme="boundage(n)">Boundage</form> <xpln lang="en">is the compassing and describing of Plots 
+with their buttalls, metes, bounds and Coastage. </xpln></wordentry>
+</page>
+
+<page no="52">
+<wordentry type="d"><form lang="en" lexeme="proportion(n)">PRoportion</form> <xpln lang="en">consists in the generall Modell and parti&shy;
+<emend err="ticular">cular</emend> Modulets of the Plot, and procreats Mensu&shy;
+ration and Content. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="mensuration(n)">Mensuration</form> <xpln lang="en">is conuersant in extunding the lineall
+extentions of longitudes, amplitudes, crassitudes, alti&shy;
+tudes, profundities, arches, circumferences,&amp;c.
+
+Lineall dimensions are diuersified according to the 
+custome of the Country, as Inches, Palmes, Spannes,
+Feete, Cubits, &amp;c. and their composures and graduati&shy;
+ons are from Barley Cornes; as three Beere-Cornes in
+length make an Inch, three Inches a Palme, three
+Palmes a Spanne, one Span and 1/3 or twelue Inches
+make a Foote, one Foote 1/2 makes a Cubit, two Cubits 
+or three Foote makes a Yard, fiue Feete make a Pace
+Geometricall, sixteene Foote 1/2 make a Pearch, Pole or 
+Lug, forty Pearches make a furlong, whereof eight
+make a Mile, and these are by the Standard measure 
+of England, tho some of them in name bee but confir&shy;
+med by Custome.
+
+But the Pearch in diuers places is of different ex&shy;
+tent, as eighteene foote in some Countries, in others
+twenty one, in the County of Stafford twenty foure,
+and twenty fiue in the Forest of Sherewood.
+
+And these dimensions are found or performed either
+<term lang="la">Cominius</term> or <term lang="la">Eminus</term>.</xpln></wordentry>
+</page>
+
+<page no="56">
+<wordentry type="d"><form lang="en" lexeme="fly(n)">The Flie</form> <xpln lang="en">is a Card diuided into eight, sixteene, thir&shy;
+ty two equall parts in the Limbe with competent ex&shy;
+tention to shew the Meridian and Coastages of the 
+Plot. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="meridian(n)">Meridians</form> <xpln lang="en">are diuers wayes found-out, but most
+speedily and exactly by helpe of a Dyall, or by striking a 
+line vpon your Table, or erecting poles vpon your 
+Plot in a right line, directing to the Cynosure or Pole&shy;
+starre, when it is perpendicular to Alliot the Thil&shy;
+horse of Charles-Waine. </xpln></wordentry>
+</page>
+
+<page no="58">
+<wordentry type="d"><form lang="en" lexeme="comnpartiment(n)">Compartiments</form> <xpln lang="en">are Blankes or Figures bordered
+with Anticke Boscage or Crotesko-woorke, wherein
+Euidences or other Memorables may be abreuiated.
+
+But before wee come to entreat of the Areas of Fi&shy;
+gure, it is not immateriall to enumerate how this Su&shy;
+perficiall Content is diuersly distinguished for Land;
+as into Pearches, Daies&shy;
+woorkes, Roodes, Acres, Oxe&shy;
+gangs, Yard-lands, Plow-lands, Hydes.
+
+There be also other quantities of Land taking their de&shy;
+nominations from our vsual Coine; as Fardingdeales,
+Obolates, Denariates, Solidates, Librates. </xpln></wordentry>
+</page>
+
+<page no="59">
+<wordentry type="d"><form lang="en">Foure square Pearches</form> <xpln lang="en">make a Daiesworke, 10.
+Daie-workes a Roode or Stong, 4. Roodes an Acre. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="farthingale(n)">The Fardingdeale or Farundell (<term lang="la">Quadrantata ter&shy;
+r&aelig;</term>)</form> <xpln lang="en">signifies a Roode or 1/4 of an Acre, so that if <term lang="la">Obolata
+Denariata, Solidata</term>, and <term lang="la">Librata</term>, doe arise in proportio&shy;
+nable graduation from <term lang="la">Quadrantata</term> as the moneyes do
+increase in valuable Estimate, then must the <term lang="la">Obalat</term> be 1/2
+Acre, the <term lang="la">Denariat</term> an Acre, the <term lang="la">Solidat</term> 12. acres &amp; the <term lang="la">Li&shy;
+brat</term> 240. <term lang="la">vide Crompton Iurisd:</term> and <term lang="la">Regist: Origin. 1.</term> But 
+we read <term lang="la">Viginti libratas terr&aelig; vel reditus</term> in Fitzh. 87. and 
+<term lang="la">Regist. Orig.</term> 49. and 248i. importing (it seemes) so much 
+land as yeeldes 20.s. <term lang="la">per annum</term>.
+
+So you shall read further 249. <term lang="la">Regist. Centum Solida&shy;
+tas terrarum tenementorum &amp; redituum.</term></xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="rood(n)" lexeme="acre(n)">But for Roodes and Acres</form> <xpln lang="en">, they differ in Content ac&shy;
+cording to the power of the extent or lineall Fall of the 
+Pearch. <term lang="la">Potentia rect&aelig; est quadratum. Et dupla, ratio&shy;
+ne quadrupla proportione.</term>
+
+Yet the Surueyor, whether he be imployed in Wood&shy;
+land, or Champion, in the Forrest of Sheere-Wood,
+where the Acre containes aboue 2 1/4 of Statute Acres,
+in Corne-wal where it amounts almost to 140. acres, or
+elsewhere, howsoeuer Customes haue accrewed, must
+make his Computation by the standard: Notwithstan&shy;
+ding that the Lords Demaines (as appeares by aunci&shy;
+ent Surueys) haue beene measured by the 20. foote Pole
+called <term lang="la">Maior Mensura</term>, and the Customary lands by a 
+Pole called <term lang="la">Mensura Minor viz.</term> 16. 1/2 though some claime
+18. foote. So the French Arpent or Acre containing 100.
+square Poles is laid-out in th'admeasurement of woodes
+by the 22 foot Pole, &amp; this is called the Kings Arpent,
+their other lands are computated by the Pole of 20.19 2/3
+or 18.foot Poles. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="oxgang(n)" lexeme="oxgate(n)">The Oxe-gang, or Oxengate</form> <xpln lang="en">(according to Skene)
+called <term lang="la">Bouata terr&aelig;</term> containes after the originall repute
+13. acres but we find it more or lesse as the custom of the 
+place inures, and <term lang="la">Bouata</term> is properly vsed of Lands in  
+</page>
+
+<page no="60">
+Gainour <term lang="la">viz.</term> vsually plowed.
+
+Foure Oxe-gangs of land extend to a Pound land
+(<term lang="la">Librata terr&aelig;</term>,) of old extent.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="yardland(n)" lexeme="carve of land(n)">The Yard-land (<term lang="la">Virgata terr&aelig; siue quatrona terr&aelig;</term>)</form> <xpln lang="en">
+varies from 20, 24, 30 acres. M. Lamberd: and it is not
+reputed in <term lang="la">Demesne</term>, but in Gainor, as are also <term lang="la">fodina,
+minera, mercatus</term>.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="plowland(n)" lexeme="carve of land(n)">A Plow-land or Carue of land (<term lang="la">Carucata terr&aelig;</term>, that 
+is, <term lang="la">quant<expan type="u+_">um</expan> aratum arare potest in nouali tempore</term>:)</form> <xpln lang="en">is said
+to containe 4 Yard-land at 30 acres to the Yard-land. </xpln>
+<lemenote>
+"Carue of land" not found in OED (evidently found in John Kersey's New English Dictionary [1771]).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="hide of land(n)">A Hide of Land (<term lang="la">Hila</term> or <term lang="la">Hilda Terr&aelig;</term>)</form> <xpln lang="en">is saide to be
+such a portion of land, as may be tilled with one teame
+(according to the seuerall tilthes and seasons) in a yeere
+and a day, and so Crompton and the Author of the new
+Tearmes affirme it to be 100 acres by statute, &amp; therby
+confound <term lang="la">Hida</term> with <term lang="la">Carucata</term>, or make them little diffe-
+rent. Others say, that euery Hide of land containes
+4 Plow land at 120 acres, and 4 Hides a Knights Fee. </xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="knight's fee(n)">A Knights Fee (<term lang="la">Feudum Militare</term>)</form> <xpln lang="en">is so much Inheri&shy;
+tance as is sufficient yearely for the maintenance of a 
+Knight, and his competent retinewe with conuenient 
+reuenewe, which in the time of H. the 3. was 15 pound;
+but Sir Sir Thomas Smith (<term lang="la">Repub. Anglorum</term>) rateth it at 40
+pounds <term lang="la">per annum</term>. But for the quantity of land, M.
+Camden recordes it to be 680 acres or 800 acres. After 
+some computations it containes 5 Hydes of land, each 
+Hyde 4 Yard-land at 24 acres.
+
+In the Dutchie of Lancaster a Knights Fee contains
+4 Hydes of land, each Hyde 4 Plow&shy;
+land, each Plow&shy;
+land 4 yard-land at 30 acres amounting to 1920 acres.
+
+Two Knights Fees make a Cantred, 2 Cantreds 1/2
+and 1/6 make a Barony, one Barony and 8/2 makes an
+Earledome: <term lang="la">viz.</term> 38400 acres. </xpln></wordentry>
+</page>
+
+<page no="66">
+<wordentry type="d"><form lang="en">Allodium</form> <xpln lang="en">is an entire propertie and perpetuall
+Right in Possessions without dependance; and this is
+proper solely to the King in Right of his Crowne. </xpln></wordentry>
+</page>
+
+<page no="67">
+<wordentry type="d"><form lang="la">Feudum</form> <xpln lang="en">is that which is held of a superiour by Ser&shy;
+uice, Rent or both: Or <term lang="la">Feudum</term> or Fee is a Right consi&shy;
+sting in the person of the true heire, or of some other that
+by iust Title hath purchased or acquired the same: <term lang="la">vide</term>
+Bracton.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>
+
+ 

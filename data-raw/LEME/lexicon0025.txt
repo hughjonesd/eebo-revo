@@ -1,0 +1,82 @@
+
+
+<leme no="25">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 7 0 0 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+<emend err="Hrre">Here</emend> folowyth the Interpretac<expan type="">io</expan>n of the <emend err="n ames">names</emend> of goddis and goddesses of this
+treatyse folowynge as Poetes wryte.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="Phoebus(pn)">&#182; Phebus</form> <xpln lang="en" lexeme="sun(n)">is as moche to saye as the sonne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Apollo(pn)">Appollo</form> <xpln lang="en" lexeme="god(n)" lexeme="light(n)">is the same or ellys god of lyghte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Morpheus(pn)"><emend err="Morpleus">Morpheus</emend></form> <xpln lang="en" lexeme="dream(n)" lexeme="shower(n)">shewer of dremys</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pluto(pn)">Pluto</form> <xpln lang="en" lexeme="god(n)" lexeme="hell(n)">god of helle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Minos(pn)">Mynos</form> <xpln lang="en" lexeme="judge(n)" lexeme="hell(n)">Iuge of helle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Cerberus(pn)">Cerberus</form> <xpln lang="en" lexeme="porter(n)" lexeme="hell(n)">porter of helle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Eolus(pn)"><emend err="Colus">Eolus</emend></form> <xpln lang="en" lexeme="wind(n)" lexeme="god(n)" lexeme="air(n)">the wynde or god of the ayre</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Diana(pn)">Dyana</form> <xpln lang="en" lexeme="goddess(n)" lexeme="wood(n)" lexeme="chase(n)">goddesse of wode and chace</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Phoebe(pn)">Phebe</form> <xpln lang="en" lexeme="moon(n)" lexeme="goddess(n)" lexeme="water(n)">the mone or goddesse of waters</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Aurora(pn)">Aurora</form> <xpln lang="en" lexeme="goddess(n)" lexeme="morrow(n)" lexeme="springing(n)" lexeme="day(n)">goddesse of the morowe or the spryn<emend err="">&#173;</emend>
+gyng of the daye</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Mars(pn)">Mars</form> <xpln lang="en" lexeme="god(n)" lexeme="battle(n)">god of bataylle</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Jupiter(pn)">Iupiter </form> <xpln lang="en" lexeme="god(n)" lexeme="wisdom(n)">god of wysdom</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Juno(pn)">Iuno</form> <xpln lang="en" lexeme="goddess(n)" lexeme="riches(n)">goddesse of rychesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Saturn(pn)">Saturne</form> <xpln lang="en" lexeme="god(n)" lexeme="cold(n)">god of colde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Ceres(pn)">Ceres</form> <xpln lang="en" lexeme="goddess of corn(n)">goddesse of corne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Cupido(pn)">Cupido</form> <xpln lang="en" lexeme="god(n)" lexeme="love(n)">god of loue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Othea(pn)">Othea</form> <xpln lang="en" lexeme="goddess(n)" lexeme="wisdom(n)">goddesse of wysdom</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Fortune(pn)">Fortune</form> <xpln lang="en" lexeme="goddess(n)" lexeme="variant(a)">the variaunt goddesse</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pan(pn)">Pan</form> <xpln lang="en" lexeme="god(n)" lexeme="shepherd(n)">god of shepeherdes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Isis(pn)">Isys</form> <xpln lang="en" lexeme="goddess(n)" lexeme="fruit(n)">goddesse of frute</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Neptunus(pn)">Neptunus</form> <xpln lang="en" lexeme="god(n)" lexeme="sea(n)">god of the see</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Minerva(pn)">Mynerue</form> <xpln lang="en" lexeme="goddess(n)" lexeme="battle(n)" lexeme="goddess of harvest(n)">goddesse of the batayll or of haruest</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Bacchus(pn)">Bachus</form> <xpln lang="en" lexeme="god(n)" lexeme="wine(n)">god of wyne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Mercurius(pn)">Mercurius</form> <xpln lang="en" lexeme="god(n)" lexeme="language(n)">god of langage</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Venus(pn)">Venus</form> <xpln lang="en" lexeme="goddess(n)" lexeme="love(n)">goddesse of loue</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Discord(pn)">Discorde</form> <xpln lang="en" lexeme="goddess(n)" lexeme="debate(n)" lexeme="strife(n)">goddesse of debate &#38; stryfe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Atropos(pn)">Attropos</form> <xpln lang="en" lexeme="death(n)">dethe</xpln></wordentry>
+</wordgroup1>
+
+Here endyth the Interpretac<expan type="">io</expan>n of the names
+of goddis and goddesses as is rehercyd in thys
+treatyse folowynge./
+
+</page>
+</leme>
+

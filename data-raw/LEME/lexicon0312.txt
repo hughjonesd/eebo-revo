@@ -1,0 +1,341 @@
+
+
+<leme no="312">
+<page sig="A5r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 7 3 3 6
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+A
+SHORT TABLE,
+expounding all the hard words
+in this Booke.
+
+<wordgroup1 type="a" object="a"><alpha>A</alpha>
+
+<wordentry type="h"><form lexeme="orpiment(n)">AVripigmentum or Orpment , </form><xpln lang="en">is a yellow hard
+substance to be bought at the Pothecaries. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aristolochia(n)" lexeme="madder, red(n)">Aristolochia-longa, otherwise called red Mad&#173;
+der, </form><xpln lang="en">is an hearbe growing almost in euery field. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aristolochia(n)">Aristolochia-rotunda,</form><xpln lang="en" lexeme="galingale(n)">is the hearbe called Galingale.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="agrimony(n)">Agrimonie or Egrimonie, </form><xpln lang="en">is an vsuall and knowne
+hearbe. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ameos(n)" lexeme="cumin royal(n)">Ameos or Comin-royall, </form><xpln lang="en" lexeme="bullwort(n)" lexeme="bishop-weed(n)" lexeme="herb William(n)">is an hearbe of some called
+Bulwort, Bishops-weed, or hearbe-William.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anise(n)">Anyse </form><xpln lang="en">is that hearbe which beares Ani-seeds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anet(n)" lexeme="dill(n)"><emend err="Auet">Anet</emend>, of some called Dill, </form><xpln lang="en">is an hearbe like Fenell,
+onely the seeds are broad like Orenge seeds. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="agnus castus(n)" lexeme="tutsan(n)">Agnus Castus, of some called Tutesaine, </form><xpln lang="en">is an hearbe
+with reddish leaues, and sinewie like Plantaine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Egyptiacum(n)">&#198;gyptiacum, </form><xpln lang="en">is a reddish vnguent, to be bought at
+the Pothecaries, and is soueraine for Fistulas. </xpln>
+<lemenote>OED "remollitive"</lemenote></wordentry>
+
+
+
+</page>
+
+<page sig="A5v">
+<wordentry type="h"><form lexeme="asaf&#339;tida(n)">Assaf&#339;tida </form><xpln lang="en">a stinking strong gumme to be bought
+at the Pothecaries. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adarces(n)">Adraces or Adarces </form><xpln lang="en">is that Salt which is ingendred
+on the salt marshes by the violence of the Sunnes
+heat after the tide is gone away. </xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="asterion(n)">Asterion </form><xpln lang="en">is an hearbe growing amongst stones, as on
+walles, or such like, it appeareth best by night, it hath
+yellow flowers like Foxegloues, and the leaues are round
+and blewish. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aloes(n)">Aloes </form><xpln lang="en">is a bitter gumme to <emend err="the">be</emend> bought at the Pothe&#173;
+caries. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B</alpha>
+
+<wordentry type="h"><form lexeme="betin(n)" lexeme="beet(n)">B
+Etin or Beets </form><xpln lang="en">is an hearbe with long broad leaues
+indented, and growes in hedge-rowes. </xpln>
+<lemenote>"betin" not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="bole(n)" lexeme="ammoniac(n)">Bolarmoniake </form><xpln lang="en">is a red hard earthy substance, to be 
+bought at the Pothecaries, and is of a cold and bin&#173;
+ting nature. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="broom(n)" lexeme="wort(n)">Broomewort </form><xpln lang="en">is an hearbe with browne coloured
+leaues, and beareth a blew flower, and most com&#173;
+monly groweth in woods. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C</alpha>
+
+<wordentry type="h"><form lexeme="cress(n)">CResses </form><xpln lang="en" lexeme="water-cress(n)" lexeme="land-cress(n)">are two kindes of water-Cresses, and land&#173;
+Cresses: they haue broad smoath leaues, and the 
+first growes in moyst places, the latter in Gardens,
+or by high-waies. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cumin(n)">Comin,</form><xpln lang="en"> <xref>see Ameos</xref>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carthamus(n)">Carthamus </form><xpln lang="en" lexeme="bastard-saffron(n)" lexeme="mock-saffron(n)">is an hearbe in taste like Saffron, and is
+called bastard-Saffron, or mocke-Saffron.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="A6r">
+<wordentry type="h"><form lexeme="calamint(n)">Calamint </form><xpln lang="en">is an ordinary hearbe, and groweth by
+ditches sides, by high waies, and sometimes in Gar&#173;
+dens. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coliander(n)">Coleander </form><xpln lang="en">is an hearbe which beareth a round little
+seede. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chives(n)">Chiues </form><xpln lang="en">are a small round hearbe growing in Gar&#173;
+dens, like little young Onions or Scallions not aboue
+a weeke old. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D</alpha>
+
+<wordentry type="h"><form lexeme="diapente(n)">D
+Iapente </form><xpln lang="en" lexeme="bay-berry(n)" lexeme="ivory(n)" lexeme="Aristolochia(n)" lexeme="myrrhe(n)" lexeme="gentian(n)">a soueraine powder made of fiue equall sim&#173;
+ples, as Bay-berries, Iuory, Aristolochia-rotunda,
+Mirrhe, and Gentiana, and may be bought of the 
+Pothecary. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dittany(n)">Dettonie </form><xpln lang="en" lexeme="pepperwort(n)" lexeme="horse-radish(n)">is an hearbe called Pepper-wort, or horse&#173;
+Radish, and groweth in many open fields. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dragon(n)">Dragons </form><xpln lang="en">is an hearbe common in euery Garden. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E</alpha>
+
+<wordentry type="h"><form lexeme="elecampane(n)">ELecampana </form><xpln lang="en" lexeme="horseheal(n)">is an hearbe of some called Horse&#173;
+helme, and growes almost in euery field , and eue&#173;
+ry Garden, </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eyebright(n)">Eyebright </form><xpln lang="en">is an hearbe growing in euery meadow. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F</alpha>
+
+<wordentry type="h"><form lexeme="fenugreek(n)">FEnnegreeke </form><xpln lang="en">is an hearbe which hath a long slender
+trayling stalke, hollow within, and sowne in Gar&#173;
+dens, but easiest to be had at the Pothecaries. </xpln></wordentry>
+
+
+
+</page>
+
+<page sig="A6v">
+<wordentry type="h"><form lexeme="fern-osmund(n)">Ferne Osmund </form><xpln lang="en" lexeme="water-fern(n)">is an hearbe, of some called Water&#173;
+Ferne, hath a trianguler stalke, and is like Polipody, and
+it growes in boggs, and in hollow grounds. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G</alpha>
+
+<wordentry type="h"><form lexeme="galingale(n)">GAlingale, </form><xpln lang="en"><xref>see Aristolochia-rotunda</xref>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H</alpha>
+
+<wordentry type="h"><form lexeme="horsemint(n)">HOrsemint </form><xpln lang="en" lexeme="water-mint(n)" lexeme="brook mint(n)">is an hearbe that growes by waters
+sides, and is called Water-mint, or Brooke-mint.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="horseheal(n)">Horsehelme, </form><xpln lang="en"><xref>see Elecampana</xref>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="houseleek(n)">Houseleeke </form><xpln lang="en">is a weede which growes on the toppes
+of houses that are thacht, and is like vnto a small
+Hartichoke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="herb Robert(n)">Hearbe-Robert </form><xpln lang="en">hath leaues like hearbe-Bennet, and
+small flowers of a purple colour, and growes in most 
+common Fields and Gardens. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i"><alpha>I</alpha>
+
+<wordentry type="h"><form lexeme="ivory(n)">IVory </form><xpln lang="en">is the shauings of the Elephants tooth, or the 
+old Harts or Stagges horne, being the smooth white 
+thereof. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k"><alpha>K</alpha>
+
+<wordentry type="h"><form lexeme="knot-grass(n)">KNot-grasse </form><xpln lang="en">is a long running weede with little round
+smoth leaues, and the stalke very knotty and rough,
+winding and wreathing one seame into another very
+confusedly, and groweth for the most part in very moist
+places. </xpln></wordentry>
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="A7r">
+<wordgroup1 type="a" object="l"><alpha>L</alpha>
+
+<wordentry type="h"><form lexeme="lettuce(n)">LEttice, </form><xpln lang="en">is a common sallet-hearbe in euery Gar&#173;
+den. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lollium(n)">Lollium </form><xpln lang="en" lexeme="cockle(n)">is that weede which we call Cockell, and
+groweth amongst the corne in euery field. </xpln>
+<lemenote>"lollium" not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="liverwort(n)">Liuerwort, </form><xpln lang="en">is a common hearbe in euery Garden. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M</alpha>
+
+<wordentry type="h"><form lexeme="maythe(n)">MAythe, </form><xpln lang="en" lexeme="hogs fennel(n)">is a weede that growes amongst corne,
+and is called of some Hogs-Fennell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="myrrhe(n)">Mirrhe, </form><xpln lang="en">is a gumme to be bought at the Pothecaries. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mandrake(n)">Mandragg, </form><xpln lang="en">is an hearbe which growes in Gardens,
+and beareth certaine yealow Apples, from whence the 
+Pothecaries draw a soueraine oyle for broken bones. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N</alpha>
+
+<wordentry type="h"><form lexeme="neep(n)">NEepe, </form><xpln lang="en"><xref target="calamint">see Calaminte</xref>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o"><alpha>O</alpha>
+
+<wordentry type="h"><form lexeme="origanum(n)">ORiganum, </form><xpln lang="en" lexeme="marjoram, wild(n)">is an hearbe called wilde-Marioram, and
+growes both in open fields, or in low copses. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orifice(n)">Orifice </form><xpln lang="en">is the mouth, hole, or open passage, of any
+wound or vlcer. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="opoponax(n)">Opoponax, </form><xpln lang="en">a drugge, vsuall to be bought at the Po&#173;
+thecaries. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p"><alpha>P</alpha>
+
+<wordentry type="h"><form lexeme="Burgundy pitch(n)">PItch of Burgundy </form><xpln lang="en" lexeme="rosin(n)">is Rossen, and the blacker the
+better. </xpln>
+<lemenote>Antedates earliest OED citation ("Burgundy" 5 [1678])</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="plantain(n)">Plantayne </form><xpln lang="en" lexeme="whay-bread leaf(n)">is a flat leafe and sinowie, growing close
+to the ground, and is called Whay-bred leafe. </xpln></wordentry>
+
+
+
+</page>
+
+<page sig="A7v">
+<wordentry type="h"><form lexeme="puliol royal(n)">Pulioll-royall, </form><xpln lang="en">is an hearbe that groweth both in
+fields and gardens, and is best when it flowreth. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="patch(n)" lexeme="grease(n)">Patch-grease </form><xpln lang="en">is that tallow which is gotten from the
+boyling of Shoemakers shreads. </xpln>
+<lemenote>Only OED citation</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q"><alpha>Q</alpha>
+
+<wordentry type="h"><form>QVnquefolio of some </form><xpln lang="en" lexeme="cinquefoil(n)" lexeme="five-leaf(n)"> called Cinquefoyle is that
+hearbe which is called Fiue-leaued grasse.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R</alpha>
+
+<wordentry type="h"><form lexeme="ochre, red(n)">REd-Oaker </form><xpln lang="en" lexeme="raddle(n)" lexeme="orell(n)" lexeme="marking stone(n)">is a hard red stone which we call Raddle
+Orell, marking-stone. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S</alpha>
+
+<wordentry type="h"><form lexeme="celandine(n)" lexeme="tetterwort(n)">SEllondine or Tetterwort </form><xpln lang="en">is a weede growing in the 
+bottome of hedges, which being broke, a yellow
+iuyce will drop and runne out of it. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="shirwit(n)">Shirwit </form><xpln lang="en">is an hearbe with many small leaues, and
+growes most in Gardens. </xpln>
+<lemenote>Not found in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="stubwort(n)">Stubwort </form><xpln lang="en" lexeme="wood-sorrel(n)">is an hearbe which growes in wooddy
+places, and is called wood-Sorrell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sanguis draconis(n)">Sanguis Draconis, </form><xpln lang="en">is an hard red gumme to be
+bought at the Pothecaries. </xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="stonecrop(n)">Stonecrop </form><xpln lang="en">is a greene weede growing on the tops of 
+walles. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spermaceti(n)">Sparma-C&#230;t&#230; </form><xpln lang="en">is the seed of the Whale, excellent for
+inward bruises, and to be bought at the Pothecaries. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sal-ammoniac(n)">Salarmoniake </form><xpln lang="en">is a drugge vsuall to be bought at the
+Pothecaries. </xpln></wordentry>
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="A8r">
+<wordgroup1 type="a" object="t"><alpha>T</alpha>
+
+<wordentry type="h"><form>TVssilaginis </form><xpln lang="en" lexeme="coltsfoot(n)">is that weede which we call Colts-foot.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="treapharmicon(n)">Treapharmicon </form><xpln lang="en">a composition made of three
+simples, and to be bought at the Pothecaries. </xpln>
+<lemenote>Not in OED</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="turmeric(n)">Turmericke, </form><xpln lang="en">is a yealow simple, of strong sauour, to
+be bought at the Pothecaries. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v"><alpha>V</alpha>
+
+<wordentry type="h"><form lexeme="verdigris(n)">VErdi-greese </form><xpln lang="en">is a greene fatty gumme drawne from
+Copper, and is to be bought at the Pothecaries. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w"><alpha>W</alpha>
+
+<wordentry type="h"><form lexeme="wood rose(n)" lexeme="eglantine, wild(n)">WOodrose or wilde-Eglantine, </form><xpln lang="en">is that small thin
+flower which growes vpon Bryars in woods
+or hedge-rowes. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="y"><alpha>Y</alpha>
+
+<wordentry type="h"><form lexeme="yarrow(n)">YArrow, </form><xpln lang="en" lexeme="water-violet(n)">is an hearbe called the water-Violet, and
+growes in Lakes or marrish grounds. </xpln></wordentry>
+</wordgroup1>
+
+<term lang="la">
+F I N I S.
+</term>
+
+Thine Geruase Markhame.
+
+
+</page>
+</leme>

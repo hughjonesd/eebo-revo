@@ -1,0 +1,2949 @@
+<leme no="44">
+<page sig="+2v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 3 1 7 6
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<heading>
+
+&#182; The registre of the chaptrees
+in latyn and in Englyssge.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="aloe(n)">ALoe</form> <xpln lang="en">a iuce so named ca.i.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aloe(n)">Aloes</form> <xpln lang="en">a wood so named ca.ii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Aurum</form> <xpln lang="en" lexeme="gold(n)">golde ca.iii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Argentum viu<expan type="">um</expan></form> <xpln lang="en" lexeme="quicksilver(n)">quycke syluer ca.iiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Asa fetida</form> <xpln lang="en">ca.v.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Agnus castus</form> <xpln lang="en" lexeme="tutsan(n)">tutson ca.vi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Alumem</form> <xpln lang="en" lexeme="alum(n)">alome ca.vii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Api<expan type="">um</expan></form> <xpln lang="en" lexeme="smallage(n)" lexeme="stamarche(n)">smalache or st<expan type="">am</expan>arche ca.viii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Apium rami<expan type="">um</expan></form> <xpln lang="en" lexeme="smallage, wild(n)">wylde smalache ca.ix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Apium risus</form> <xpln lang="en" lexeme="crowfoot(n)" lexeme="ache(n)">crowfote or ache ca.x.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Apium emorroidarum</form> <xpln lang="en">ca.xi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Amidum</form> <xpln lang="en">ca.xii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Anthimonium</form> <xpln lang="en" lexeme="antimony(n)">antymony ca.xiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Achasia</form> <xpln lang="en" lexeme="sloes, juice of(n)" lexeme="bullace(n)">iuce of sloes/or bolays ca.xiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Agaricus</form> <xpln lang="en" lexeme="agaric(n)">agaryke ca.xv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Anetum</form> <xpln lang="en" lexeme="dill(n)">dylle ca.xvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Affodillus</form> <xpln lang="en" lexeme="affodill(n)">affodyly ca.xvii.
+</xpln></wordentry>
+ 
+<wordentry type="h"><form lang="la">
+Alium</form> <xpln lang="en" lexeme="garlic(n)">garlyke ca.xviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Acorus</form> <xpln lang="en" lexeme="gladdon(n)">gladon ca.xix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Armoniacum</form> <xpln lang="en">a gomme ca.xx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Anisum</form> <xpln lang="en" lexeme="anise(n)">anys ca.xxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Abscinthium</form> <xpln lang="en" lexeme="wormwood(n)">wormwoode. ca.xxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Anacardus</form> <xpln lang="en"> ca.xxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Amigdala</form> <xpln lang="en" lexeme="almonds, sweet(n)">swete almondes ca.xxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Amigdala amara</form> <xpln lang="en" lexeme="almonds, bitter(n)">bitter alm<expan type="">on</expan>des. ca.xxv
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Aristologia rotunda</form> <xpln lang="en" lexeme="galingale, meek(n)" lexeme="smearwort(n)">smerewort or meke
+galingale. ca. xxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Aristologia longa</form> <xpln lang="en" lexeme="madder, red(n)">reed mader ca. xxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Ambra</form> <xpln lang="en" lexeme="amber(n)">ambre ca.xxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Arthemisia</form> <xpln lang="en" lexeme="mugwort(n)" lexeme="motherwort(n)">mugwort or moderwort
+Ca. xxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Arthemisia minor</form> <xpln lang="en" lexeme="mugwort, middle(n)">the mydle mygwoort
+Ca. xxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Arthemisia minimia</form> <xpln lang="en" lexeme="mugwort, lesser(n)">the lesse mugwort
+Ca. xxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Acetum</form> <xpln lang="en" lexeme="vinegar(n)">vyneygre ca.xxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Acomia</form> <xpln lang="en" lexeme="alcamet(n)">alcamet ca.xxxiii.
+</xpln>
+<lemenote>
+Lexeme not located in OED
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Auripigmentum</form> <xpln lang="en" lexeme="auripigment(n)">auripygment. ca. xxxiiij
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Aspaltum vel bitum<expan type="">en</expan> Iudaic<expan type="">um</expan>.</form> <xpln lang="en"> ca. xxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Acantum</form> <xpln lang="en">ca.xxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Adianthos</form> <xpln lang="en" lexeme="maidenweed(n)">mayden wede ca.xxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Agrimonia</form> <xpln lang="en" lexeme="agrimony(n)">egrymony ca.xxxviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Appollinaria</form> <xpln lang="en" lexeme="appollinaire(n)">appollynayre ac.xxxix.
+</xpln>
+<lemenote>
+Term not located in OED
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Altea</form> <xpln lang="en" lexeme="mallow, high(n)">hye malowe ca.xl.
+</xpln>
+<lemenote>
+The phrase "high mallow" is not in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Astula regia</form> <xpln lang="en" lexeme="woodruff(n)">woodrone ca.xli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Ambrosiana</form> <xpln lang="en" lexeme="hindheal(n)">hyndhele ca.xlii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Asara</form> <xpln lang="en">ca.xliii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Atriplex</form> <xpln lang="en" lexeme="orache(n)">arache ca.xliiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Anthera</form> <xpln lang="en"> ca.<emend err="lxv">xlv</emend>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Anchora</form> <xpln lang="en" lexeme="actoire(n)">actoyre ca.xlvi.
+</xpln>
+<lemenote>
+Term not located in OED
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Auena</form> <xpln lang="en" lexeme="oats(n)">ote ca.xlvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Ameos</form> <xpln lang="en" lexeme="pennywort(n)" lexeme="wood-nep(n)">woodnep or penywort. ca.xlviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Semen amomy</form> <xpln lang="en">ca.xl<emend err="">v</emend>iiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Alleluya</form> <xpln lang="en" lexeme="wood-sorrel(n)" lexeme="cuckoo's meat(n)"> wood sokell or cocowes meate
+Ca. l.
+</xpln>
+<lemenote>
+OED emends "sokyll" to "sorrel"
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Acetosa</form> <xpln lang="en" lexeme="sorrel(n)">sorell ca.li.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Auelana</form> <xpln lang="en" lexeme="filbert(n)">fylberdes ca.lii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Albatra</form> <xpln lang="en" lexeme="tormentil(n)">tormentylle ca.liii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Aqua</form> <xpln lang="en" lexeme="water(n)">water ca.liiii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="la">
+BAlsamus</form> <xpln lang="en" lexeme="baum tree(n)">bawme tre ca.lv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bolus armenus</form> <xpln lang="en">ca.lvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bombax</form> <xpln lang="en" lexeme="cotton(n)">cotton <term lang="la">Idem.</term>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Balaustria</form> <xpln lang="en" lexeme="pomegranate, flower of(n)">floures of pomgarnates
+Ca. lxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Borago</form> <xpln lang="en" lexeme="borage(n)">borage ca.lviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Baucia</form> <xpln lang="en" lexeme="skirret(n)">skyrwyt ca.lix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Borax</form> <xpln lang="en" lexeme="borax(n)">boras ca.lx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Betonica</form> <xpln lang="en" lexeme="betony(n)">betony ca.lxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Lingua anceris</form> <xpln lang="en" lexeme="goose-bill(n)" lexeme="stitchwort(n)"> goos byll or stychewort
+Ca. lxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bernix</form> <xpln lang="en">a gomme ca.lxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Branca vrsina</form> <xpln lang="en" lexeme="bear's-foot(n)">bearefote ca.lxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Berberis</form> <xpln lang="en" lexeme="berberry(n)">berberyes ca.lxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Belliculi marini</form> <xpln lang="en">ca.lxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bistorta</form> <xpln lang="en"> ca.lxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Buglossa</form> <xpln lang="en" lexeme="oxtongue(n)">oxtongue ca.lxviii.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="+3r">
+
+<wordentry type="h"><form lang="la">
+Butirum.</form> <xpln lang="en" lexeme="butter(n)">butter. ca.lxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Berbena.</form> <xpln lang="en" lexeme="vernay(n)">Vernay. ca.lxx.
+</xpln>
+<lemenote>
+Term not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Britanica.</form> <xpln lang="en">ca. lxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bursa pastoris</form> <xpln lang="en" lexeme="case-weed(n)">cassewede ca.lxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Brionia.</form> <xpln lang="en" lexeme="neep, wild(n)">wylde neppe. ca.lxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bedager.</form> <xpln lang="en" lexeme="eglantine(n)">Eglentyne ca.lxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bdellium(n)">
+Bdellium.</form> <xpln lang="en">a gomme. ca.lxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bardan(n)">
+Bardana.</form> <xpln lang="en">a clote that bereth burres.
+Ca. lxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Buxus.</form> <xpln lang="en" lexeme="box-tree(n)">a box tre. ca.lxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bruscus.</form> <xpln lang="en">ca.lxxviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Bleta.</form> <xpln lang="en" lexeme="beet(n)">betes. ca.lxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Blacte bisantie.</form> <xpln lang="en" lexeme="snail(n)">some snales. ca.lxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Behem.</form> <xpln lang="en"> ca.lxxxi.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="la">
+CAmphora.</form> <xpln lang="en" lexeme="camphor(n)">camfer. ca.lxxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Coloquintida.</form> <xpln lang="en" lexeme="gourd, wild(n)">wylde gowrde.
+Ca. lxxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cassia fistula.</form> <xpln lang="en">ca.lxxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="dodder(n)">
+Cuscuta.</form> <xpln lang="en">dodyr. ca.lxxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cardamomum.</form> <xpln lang="en">ca.lxxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cerusa.</form> <xpln lang="en" lexeme="ceruse(n)">ceruse. ca.lxxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Capparus.</form> <xpln lang="en">ca.lxxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Calamentum.</form> <xpln lang="en" lexeme="calamint(n)">calamynt. ca.xc.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Centaurea.</form> <xpln lang="en" lexeme="centaury(n)">centory. ca.xci.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cassea lignea.</form> <xpln lang="en">ca.xcii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Castoreum.</form> <xpln lang="en" lexeme="beaver ballocks(n)">beuer ballockes. ca .xciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cubebe(n)">
+Cucube.</form> <xpln lang="en">ca.xciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Capillus veneris.</form> <xpln lang="en" lexeme="maidenhair(n)">mayd<expan type="">en</expan> here. ca.xcv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cypressus.</form> <xpln lang="en" lexeme="cypress(n)">cypresse ca.xcvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cynamomum.</form> <xpln lang="en">ca.xcvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Camedrios.</form> <xpln lang="en" lexeme="germander(n)">garmaundre ca.xcviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Camephiteos.</form> <xpln lang="en" lexeme="mead-rattle(n)">mederacle. xcix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Carui.</form> <xpln lang="en">ca.c.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Ciminum.</form> <xpln lang="en" lexeme="cumin(n)">comym ca.ci.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cicuta</form> <xpln lang="en" lexeme="hemlock(n)">hemlocke ca.cii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Crocus</form> <xpln lang="en" lexeme="saffron(n)">saffron ca.ciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Ciperus</form> <xpln lang="en" lexeme="galingal, wild(n)">wylde galyngale ca.ciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Calamus aromaticus</form> <xpln lang="en">ca.cv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Corallus</form> <xpln lang="en" lexeme="coral(n)">corall. ca.cvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cepe.</form> <xpln lang="en" lexeme="onion(n)">onyon ca.cvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cretanus.</form> <xpln lang="en" lexeme="croit marine(n)">croyt maryne ca.cviii.
+</xpln>
+<lemenote>
+Not in OED except perhaps see Cretan, n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Costus.</form> <xpln lang="en" lexeme="costmary(n)">cost mary ca.cix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Caprago.</form> <xpln lang="en" lexeme="galligaria(n)">galligaria <term lang="la">Idem.</term>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cantabrum.</form> <xpln lang="en" lexeme="bran(n)">branne ca.cx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Colophonia.</form> <xpln lang="en" lexeme="pitch of Greece(n)">pytche of grece ca.<emend err="xci.">cxi.</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cucurbita.</form> <xpln lang="en" lexeme="gourd(n)">a gourde ca.cxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cucumber(n)">
+Cucumer.</form> <xpln lang="en" lexeme="cucumber(n)">cowcommers ca.cxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Citrullus.</form> <xpln lang="en" lexeme="citron(n)">citrons ca.cxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Celidonia.</form> <xpln lang="en" lexeme="celandine(n)">celendyne ca.cxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Coriandrum.</form> <xpln lang="en" lexeme="coriander(n)">coryandre ca.cxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caul(n)">
+Caules.</form> <xpln lang="en" lexeme="caul wort(n)">caule wortes ca.cxvii.
+</xpln>
+<lemenote>
+Phrasal term not found in OED
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">
+Calx.</form> <xpln lang="en" lexeme="lime(n)">lyme ca.<damage>c</damage>xviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+Cerefolium.</form> <xpln lang="en" lexeme="chervil(n)">cheruell ca.<damage>cxviiii.</damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Canapus.</form> <xpln lang="en" lexeme="hemp(n)">hempe ca.cx<damage>x.</damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cameleonta.</form> <xpln lang="en" lexeme="wolf thistle(n)">wolfe thystle. ca.cxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Camomilla.</form> <xpln lang="en" lexeme="camomile(n)">camomyll ca.cxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cicer(n)">Cicer.</form> <xpln lang="en" lexeme="achery(n)">achery ca.cxxiii.
+</xpln>
+<lemenote>
+The term in the explanation was not located in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Castanea.</form> <xpln lang="en" lexeme="chestnut(n)">a chestnutte ca.cxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cotula.</form> <xpln lang="en">ca.<emend err="cxxxv.">cxxv.</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cotilidion</form> <xpln lang="en">ca.c<emend err="xxx">xx</emend>v<damage>i.</damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cathapucia .</form> <xpln lang="en" lexeme="spurge(n)">spurge ca.c<emend err="xxx">xx</emend>vi<damage>i.</damage>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Culcasia</form> <xpln lang="en">ca.cxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Canna.</form> <xpln lang="en" lexeme="reed(n)">a rede ca.cxxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Canna mellis.</form> <xpln lang="en" lexeme="sugar reed(n)">a sugre rede ca.cxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cal<expan type="">en</expan>dula.</form> <xpln lang="en" lexeme="marigold(n)" lexeme="rud(n)">mary goules or ruddes.ca.cxxxi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ceterach(n)">Ceterach</form> <xpln lang="en">ca.cxxxii.
+</xpln>
+<lemenote>
+Antedates first OED citation (1551).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Candelaria</form> <xpln lang="en">ca. cxxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="carob(n)">Carabe.</form> <xpln lang="en" lexeme="amber(n)">ambre <term lang="la">Idem.</term>
+</xpln>
+<lemenote>
+Antedates first OED citation (1548).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Consolida maior.</form> <xpln lang="en" lexeme="comfrey(n)">comfrey ca.cxxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Consolida media.</form> <xpln lang="en" lexeme="maythe(n)">maythen ca.cxxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Consolida minor.</form> <xpln lang="en" lexeme="daisy(n)" lexeme="bruisewort(n)">dyasy or brusewort
+Ca. cxxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Coronaria.</form> <xpln lang="en" lexeme="honeysuckle(n)">honysocle ca.cxxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cenurugio</form> <xpln lang="en">ca.cxxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cerasa.</form> <xpln lang="en" lexeme="cherry(n)">cheryes ca. cxxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Caprifolium.</form> <xpln lang="en" lexeme="woodbind(n)">woodbynde ca.cxl.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="la">DIagridium.</form> <xpln lang="en">a iuce of a tre.ca.cxli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dragagantum</form> <xpln lang="en">a gomme.ca.cxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Daucus</form> <xpln lang="en">ca.cxliii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dragantum.</form> <xpln lang="en" lexeme="copperas(n)">coperose ca.cxliiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dyptanus</form> <xpln lang="en">ca.cxlv
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Deronici</form> <xpln lang="en">ca.cxlvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dactili</form> <xpln lang="en">ca.cxlvii
+
+
+
+
+</page>
+
+<page sig="+3v">
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+
+<wordentry type="h"><form lang="la">ENdiuia/</form> <xpln lang="en" lexeme="endive(n)">endyue ca.cxlviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Epithimum</form> <xpln lang="en">ca.cxlix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Enula campana/</form> <xpln lang="en" lexeme="elf-dock(n)" lexeme="scabwort(n)" lexeme="horseheal(n)">elfe docke/scab
+woort or horshele ca.cl:
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Euforbium/</form> <xpln lang="en">a gomme ca.cli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Eupatorium/</form> <xpln lang="en" lexeme="sage, wild(n)"> wylde sawge ca.clii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Emblici</form> <xpln lang="en">ca.cliii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Epatica/</form> <xpln lang="en" lexeme="liverwort(n)">leuerwort ca.cliiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Es vstum/</form> <xpln lang="en" lexeme="brass, burnt(n)">brent brasse ca.clv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la"><damage>E</damage>lecterium/</form> <xpln lang="en">a iuce. ca.lvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la"><damage>E</damage>lleborus albus/</form> <xpln lang="en" lexeme="pelleter of Spain(n)" lexeme="lingwort(n)">lyngwort or peleter of
+spayne ca.clvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Elleborus niger /</form> <xpln lang="en" lexeme="padelion(n)" lexeme="lion's foot(n)">pedelion or lyons fote
+Ca. clviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Esula</form> <xpln lang="en">ca. clix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Eruca</form> <xpln lang="en" lexeme="skirrit(n)" lexeme="caul(n)">skyrwyt or wylde <emend err="acwles">cawles</emend> that be&#173;
+reth mustarde sede ca.clx.
+</xpln>
+</wordentry>
+
+<wordentry type="h"><form lang="la"><damage>E</damage>mathites</form> <xpln lang="en">is a stone ca.clxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ebulus</form> <xpln lang="en" lexeme="wallwort(n)">walworde ca.clxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Edera magna/</form> <xpln lang="en" lexeme="ivy(n)">yuy ca.clxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spatula fetida /</form> <xpln lang="en" lexeme="yellow flag(n)">yelowe flagge.ca.clxiiii
+</xpln>
+<lemenote>
+The text indicates this is called Exiofion: hence it belongs under E.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Elitropium/</form> <xpln lang="en" lexeme="chicory(n)">cycory ca.clxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Eufragia/</form> <xpln lang="en" lexeme="euphrasy(n)">eufrase ca.<emend err="cxlvi">clxvi.</emend>
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+
+<wordentry type="h"><form lang="la">Flammula/</form> <xpln lang="en" lexeme="spearwort(n)">sereworte ca.clxvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ferrugo</form> <xpln lang="en">ca.clxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fumus terre/</form> <xpln lang="en" lexeme="fumitory(n)">fumyterry ca.clxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Filipendula/</form> <xpln lang="en" lexeme="dropwort(n)">dropwort ca.clxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fraxinus/</form> <xpln lang="en" lexeme="ash tree(n)">asshe tre ca.clxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Feniculus/</form> <xpln lang="en" lexeme="fennel(n)">fenell ca.clxxii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fenugrecum/</form> <xpln lang="en" lexeme="fenugreek(n)" lexeme="setwall(n)">fenegreke/or setwall.
+Ca. clxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Filex/</form> <xpln lang="en" lexeme="fern(n)">ferne ca.clxxiiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fragraria/</form> <xpln lang="en" lexeme="strawberry(n)">strawberies ca.clxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fistularia</form> <xpln lang="en">ca.clxxvi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Faceol<emend err="t">i</emend></form> <xpln lang="en">ca.clxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Faba inuersa</form> <xpln lang="en">ca.clxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Faba c<expan type="">m</expan>munis/</form> <xpln lang="en" lexeme="beans(n)">beanes ca.clxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fungi/</form> <xpln lang="en" lexeme="mushroom(n)">mussherons ca.clxxx
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ferula</form> <xpln lang="en">ca.clxxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Filex dictus os munda/</form> <xpln lang="en" lexeme="he-fern(n)">heferne.ca.clxxxii
+</xpln>
+<lemenote>
+See OED "filix mas."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Fuligo/</form> <xpln lang="en" lexeme="soot(n)">soote ca.clxxxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ficus/</form> <xpln lang="en" lexeme="fig(n)">a fygge ca.clxxxiiii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+
+<wordentry type="h"><form lang="la">GAriofili/</form> <xpln lang="en" lexeme="cloves(n)">clowes ca. clxxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Genciana/</form> <xpln lang="en" lexeme="felwort(n)" lexeme="baldmoney(n)">felwort or baldymony
+Ca. clxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Galanga/</form> <xpln lang="en" lexeme="galingal(n)">galyngale ca.clxxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Galbanum</form> <xpln lang="en">ca.clxx<emend err="r">x</emend>viii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">G<expan type="">um</expan>mus arabicus/</form> <xpln lang="en" lexeme="gum of arabic(n)">gomme of arabyke.
+Ca. clxxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gariofilata/</form> <xpln lang="en" lexeme="auens(n)"><emend err="anens">auens</emend> ca.cxc.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gith(n)">Gith / <term lang="la">herba indica</term>/</form> <xpln lang="en" lexeme="cockle(n)">cokyll ca.cxci.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gromwell(n)">Gromyll <term lang="la">milium solis</term>/</form> <xpln lang="en" lexeme="lich-wort(n)">lychworte.
+Ca. cxcii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gallitricum/</form> <xpln lang="en" lexeme="clary(n)">clarey ca.cxciii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Galla/</form> <xpln lang="en" lexeme="gall-nut(n)">galles nuttes ca.cxciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Genestula/</form> <xpln lang="en" lexeme="woodyp(n)">woodyp ca.cxcv.
+</xpln>
+<lemenote>
+The term in the explanation was not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Genesta/</form> <xpln lang="en" lexeme="broom(n)">brome ca.cxcvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gramen/</form> <xpln lang="en" lexeme="cow-quake(n)">quekes ca.<emend err="rcx">cxc</emend>vii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gallia muscata</form> <xpln lang="en" lexeme="confection(n)">a confeccyon ca. cxcviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Grias</form> <xpln lang="en">ca.cc.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gomma elempici</form> <xpln lang="en">ca.<emend err="cc.">cci.</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Granum fractum/</form> <xpln lang="en" lexeme="grain, broken(n)">broken grayne.ca.ccii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Grisomuli</form> <xpln lang="en">ca.cciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gracia dei</form> <xpln lang="en">ca.cciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Golgemma</form> <xpln lang="en">ca.ccv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gelasia.</form> <xpln lang="en">ca.ccvi.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+
+<wordentry type="h"><form lang="la">HErmodactilus</form> <xpln lang="en">ca.ccvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Herba sqinancia.</form> <xpln lang="en">ca.ccviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Herucaria herba rabiosa /</form> <xpln lang="en" lexeme="wartwort(n)">wart
+wort ca.ccix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Herpillus</form> <xpln lang="en">ca.ccx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Herba incensaria.</form> <xpln lang="en">ca.ccxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Herba paralisis/</form> <xpln lang="en" lexeme="cowslip(n)" lexeme="paigle(n)">crowslyp or pagle:
+Ca. <emend err="ca."></emend>ccxii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="la">
+IVsquiamus.</form> <xpln lang="en" lexeme="henbane(n)">henbane ca. ccxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Isopus.</form> <xpln lang="en" lexeme="hyssop(n)">ysope ca.ccxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iarus.</form> <xpln lang="en" lexeme="cuckoo-pintle(n)">cuckowe pyntyll.ca.ccxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iris.</form> <xpln lang="en" lexeme="fleur-de-lis, blue(n)">bleweflouredelyce ca.ccxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ipoquistidos.</form> <xpln lang="en" lexeme="toadstool(n)">tode stoles ca.ccxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iuniperus.</form> <xpln lang="en" lexeme="juniper(n)">ienepre ca.cc<emend err="r">x</emend>vi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ipericon.</form> <xpln lang="en" lexeme="St. John's wort(n)">saynt Iohannes wort. ca. ccxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iparis vel cauda equina</form> <xpln lang="en">ca.ccxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Inantes vel lambrusca.</form> <xpln lang="en" lexeme="wine, wild(n)">wylde wyne<emend err=".!">.</emend>
+Ca: ccxxi.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="+4r">
+
+<wordentry type="h"><form lang="en" lexeme="jujube(n)">Iuiubes</form> <xpln lang="en">ca.ccxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Indacus vel herba fullonum</form> <xpln lang="en">ca.ccxxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ina</form> <xpln lang="en">ca.ccxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Incensaria</form> <xpln lang="en">ca.ccxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ierubuli</form> <xpln lang="en">ca.ccxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Immolum album</form> <xpln lang="en">ca.ccxxvii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<wordentry type="h"><form lang="la">
+LApdanum</form> <xpln lang="en">ca.ccxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Liquiricia.</form> <xpln lang="en" lexeme="licorice(n)">lycoryce ca.ccxxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapus lazalus.</form> <xpln lang="en" lexeme="azure(n)">asure ca.ccxxx.
+</xpln>
+<lemenote>
+There is no chapter 231.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Lilium.</form> <xpln lang="en" lexeme="lily(n)">lylly ca.ccxxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lingua auis.</form> <xpln lang="en" lexeme="ash seed(n)">asshe sede ca.ccxxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Linotis vel mercuryalis.</form> <xpln lang="en" lexeme="mercury(n)">mercury<emend err="!.">.</emend>
+Ca. ccxxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapacium.</form> <xpln lang="en" lexeme="red dock(n)">reed docke ca.ccxxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Litargirum.</form> <xpln lang="en" lexeme="litharge(n)">lytargye ca.cxxxvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lactuca.</form> <xpln lang="en" lexeme="lettuce(n)">letuse ca.ccxxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lactuca siluestris.</form> <xpln lang="en" lexeme="wild lettuce(n)">wylde letuse.
+Ca. ccxxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lupini</form> <xpln lang="en">ca.ccxl.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Laurus.</form> <xpln lang="en" lexeme="laurel(n)" lexeme="bay(n)">laurell or bayes ca.ccxli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lentiscus</form> <xpln lang="en">ca.ccxlii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lentes</form> <xpln lang="en">ca. ccxliii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Laurela / mustylago.</form> <xpln lang="en" lexeme="ribwort(n)">rybwort.ca.ccxliiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Leuystycum.</form> <xpln lang="en" lexeme="lovage(n)">louage ca.cclv:
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lolium.</form> <xpln lang="en" lexeme="cockle(n)">cokyll Idem.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lupulus.</form> <xpln lang="en" lexeme="hop(n)">hoppe Idem
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis magnes.</form> <xpln lang="en" lexeme="adamant(n)">adamant stone.ca.ccxlvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis agapis</form> <xpln lang="en">ca.ccxlvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis lincis</form> <xpln lang="en">ca.cc.xlviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis armenicus</form> <xpln lang="en">ca.ccxlix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis emathites.</form> <xpln lang="en" lexeme="blood-stone(n)">the blode stone. ca.ccl.
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1551).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Lapis lychodemonis</form> <xpln lang="en">ca.ccli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis spongie</form> <xpln lang="en">ca.cclii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lentopedon.</form> <xpln lang="en" lexeme="padelion(n)">pedelion ca.ccliii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lactuca agrestis.</form> <xpln lang="en" lexeme="wild lettuce(n)">wylde letuse.ca.ccliiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Linosa.</form> <xpln lang="en" lexeme="line seed(n)">lyne sede ca.cclvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lignaria</form> <xpln lang="en">ca.cclvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lenticula aque.</form> <xpln lang="en" lexeme="duck's meat(n)">duckes meate.ca.cclviii.
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1538).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Lyngua canis/chynoglossa.</form> <xpln lang="en" lexeme="hound's-tongue(n)">hondest<expan type="">on</expan>gue
+Ca. cclix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lingua hircina.</form> <xpln lang="en" lexeme="buck's-horn(n)">buckesshorne. ca.cclx.
+Lacca.a gomme ca.cclxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lanceolata.</form> <xpln lang="en" lexeme="long plantain(n)">longe plantayne. ca.cclxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lactuca leporis.</form> <xpln lang="en" lexeme="hare's lettuce(n)">hares letuse.ca. cclxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapaceola.</form> <xpln lang="en" lexeme="little bur(n)" lexeme="clivers(n)">lytell burre or clyuer.
+Ca. cclxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lymaces rubee.</form> <xpln lang="en" lexeme="red snails(n)">reed snayles. ca.cclxv.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="la">MIrtus.</form> <xpln lang="en" lexeme="little tree(n)">a lytell tre ca.cclxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Manna.</form> <xpln lang="en" lexeme="dew(n)">is a dewe ca.cclxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mellilot<expan type="">um</expan> .</form> <xpln lang="en" lexeme="melilot(n)">is an herbe so named
+Ca. cclxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malua.</form> <xpln lang="en" lexeme="mallow(n)">maloues ca.cclxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Maluiscus.</form> <xpln lang="en" lexeme="wild mallow(n)">wylde malowes. ca.cclxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malua ortulana.</form> <xpln lang="en" lexeme="hollyhock(n)">holy hocke ca cclxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mastir.</form> <xpln lang="en" lexeme="mastic(n)">mastyke. ca.cclxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Menta.</form> <xpln lang="en" lexeme="mint(n)">myntes ca.cclxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Menta romana.</form> <xpln lang="en" lexeme="white mint(n)">whyte mynte.ca.cclxxiiii
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Mentastrum.</form> <xpln lang="en" lexeme="horse-mint(n)">horse mynte. ca.cclxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Margarite.</form> <xpln lang="en" lexeme="pearl(n)">perles ca.cclxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mommia.</form> <xpln lang="en" lexeme="mummy(n)">mommye ca.cclxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mandragora.</form> <xpln lang="en" lexeme="mandrake(n)">mandrake ca.cclxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Meu.</form> <xpln lang="en">ca.cclxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mala citonica/</form> <xpln lang="en" lexeme="quince apple(n)">quynce apples ca.cclxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mala granata/</form> <xpln lang="en" lexeme="pomegranate(n)">pomgarnades.ca.cclxxxi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mala maciana/</form> <xpln lang="en">wood crabbes or wyldin<emend err="">&#173;</emend>
+ges.ca cclxxxii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Marubium/</form> <xpln lang="en" lexeme="horehound(n)">hore hounde ca.cclxxxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mel /</form> <xpln lang="en" lexeme="honey(n)">hony ca.cclxxxiiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Muscus/</form> <xpln lang="en" lexeme="musk(n)">muske ca.cclxxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mirabolani</form> <xpln lang="en">ca.cclxxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Maces</form> <xpln lang="en">ca.cclxxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mhirra/</form> <xpln lang="en" lexeme="myrrh(n)">myrre ca.cclxxxviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Millium/</form> <xpln lang="en" lexeme="mill(n)">mylle ca.cclxxxix<emend err="!.">.</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Maiorana/</form> <xpln lang="en" lexeme="gentle marjoram(n)">gentyll margetyn. ca.ccxc.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Melissa/</form> <xpln lang="en" lexeme="balm(n)">bawme ca.cc<emend err="r">x</emend>ci.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mora celsi/</form> <xpln lang="en" lexeme="mulberry(n)">molberyes ca.ccxcii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Matrisilua</form> <xpln lang="en" lexeme="woodbind(n)">woodbynde ca.ccxciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Macedonicum/</form> <xpln lang="en" lexeme="stanmarch(n)" lexeme="alexanders(n)">stammarche or alysander
+Ca. ccxciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Morsus diaboli/</form> <xpln lang="en" lexeme="remcop(n)" lexeme="devil's-bit(n)">remcop or deuylles bytte
+Ca. ccxcv:
+</xpln>
+<lemenote>
+"remcop" not in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Ima muscata</form> <xpln lang="en">ca.ccxcvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Millefolium/</form> <xpln lang="en" lexeme="yarrow(n)">yarowe ca.ccxcvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Muse</form> <xpln lang="en">ca.ccxcviii.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="+4v">
+
+<wordentry type="h"><form lang="la">Melonges</form> <xpln lang="en">ca.ccxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mora bacci.</form> <xpln lang="en" lexeme="blackberry(n)">blacke beryes ca.ccci.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Melones.</form> <xpln lang="en" lexeme="melon(n)">melons ca.cccii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+
+<wordentry type="h"><form lang="la">NArsturcium</form> <xpln lang="en" lexeme="tame cress(n)">tame cresse ca.ccciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Narsturcium agreste</form> <xpln lang="en" lexeme="wild cress(n)">wylde cresse
+Ca. ccciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nitrum vel sal nitri</form> <xpln lang="en">ca. cccv:
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nenufar</form> <xpln lang="en">ca.cccvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux muscata</form> <xpln lang="en" lexeme="nutmeg(n)">nutmygge ca.cccvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux indica</form> <xpln lang="en" lexeme="nut of Inde(n)">nuttes of Inde ca.cccviij.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux styatica</form> <xpln lang="en">ca.cccix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux communis</form> <xpln lang="en" lexeme="walnut(n)">wall nuttes ca.cccx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux vomica</form> <xpln lang="en" lexeme="spewing-nut(n)">spwynge nuttes. ca.cccxi.
+</xpln>
+<lemenote>
+Antedates earliest OED citation of "spewing-nut" (1579).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Nigella</form> <xpln lang="en" lexeme="cockle(n)">cokyll ca.cccxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nespilus</form> <xpln lang="en" lexeme="medlar(n)" lexeme="mespil(n)">mydlers or nefles ca.cccxiii
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="la">
+OXim<expan type="">um</expan> vel basilicon</form> <xpln lang="en" lexeme="basil(n)">basyll.ca.cccxiiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oppoponacum</form> <xpln lang="en" lexeme="juice(n)">a iuce ca.cccxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Opium</form> <xpln lang="en" lexeme="juice(n)">a iuce ca.cccxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Origanum</form> <xpln lang="en" lexeme="brotherwort(n)">brotherworte ca.cccxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oxifenix vel tamarindus</form> <xpln lang="en">ca.cccxviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ordeum</form> <xpln lang="en" lexeme="barley(n)">barly ca.cccxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Os de corde cerui</form> <xpln lang="en" lexeme="bone in the heart of a hart(n)">the bone in the herte of
+an harte. ca.cccxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Os sepie</form> <xpln lang="en" lexeme="bone of a fish(n)">the bone of a fysshe ca.cccxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Olibanum</form> <xpln lang="en">ca.cccxxii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="olive(n)">Oliue/</form> <xpln lang="en" lexeme="olive(n)">olyues ca.cccxxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oli<expan type="">um</expan> oliuar<expan type="">um</expan>/</form> <xpln lang="en" lexeme="oil of olives(n)">oyle of olyues ca.cccxxiiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oliandrum/</form> <xpln lang="en" lexeme="oleander(n)">oliandre ca.ccc<emend err="r">x</emend>xv.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="la">PIretrum/</form> <xpln lang="en" lexeme="wallwort(n)">walworte ca.cccxxvi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Piper/</form> <xpln lang="en" lexeme="pepper(n)">peper ca.cccxxvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Peonia/</form> <xpln lang="en" lexeme="peony(n)">pyony ca.cccx<emend err="r">x</emend>viii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Papauer/</form> <xpln lang="en" lexeme="poppy(n)">popy ca.cccxxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pencedanum/</form> <xpln lang="en" lexeme="dog fennel(n)">dogfenell ca.cccxxx
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Petrosilium/</form> <xpln lang="en" lexeme="parsley(n)">percely ca.cccxxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Policaria/</form> <xpln lang="en" lexeme="policary(n)">polycary ca.ccc<emend err="r">x</emend>xxii.
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Pinea/</form> <xpln lang="en" lexeme="pine tree(n)" lexeme="pineapple(n)">pyne tre or apples ca.cccxxxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pruni/</form> <xpln lang="en" lexeme="plum(n)">plommes ca.cccxxiiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penide(n)" lexeme="pennet(n)">Penicle or penette</form> <xpln lang="en">ca.cccxxxv
+</xpln>
+<lemenote>
+"Penicle" may be an error for OED, "penide", n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Psilium/</form> <xpln lang="en" lexeme="seed(n)">a sede ca.cccx<emend err="r">x</emend>xvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Polipodium/</form> <xpln lang="en" lexeme="oak fern(n)">oke ferne ca:cccxxxvi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Petrolium</form> <xpln lang="en">ca.cccxxxvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Piscates</form> <xpln lang="en">ca:ccc<emend err="r">x</emend>xxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Portulaca/</form> <xpln lang="en" lexeme="porcelain(n)">porcelyne ca.cccxl.
+</xpln>
+<lemenote>
+Antedates earliest OED citation (c1530).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Plombum/</form> <xpln lang="en" lexeme="lead(n)">leade ca.cccxli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Polium montan<expan type="">um</expan></form> <xpln lang="en" lexeme="wild thyme(n)">wylde tyme.ca.cccxlii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pix/</form> <xpln lang="en" lexeme="pitch(n)">pytche ca.cccxliii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Plantago/</form> <xpln lang="en" lexeme="plantain(n)">plantayne ca.cccxliiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lanceolata/</form> <xpln lang="en" lexeme="long plantain(n)">longe plantayne. ca. cccxlv
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Panicus/</form> <xpln lang="en" lexeme="pannicle(n)">panycle ca.cccxlvi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pentaphilon/</form> <xpln lang="en" lexeme="five-leafed grass(n)">vyfleued grasse.ca.cccxlvij
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Passerina lingua vel centynode/</form> <xpln lang="en" lexeme="knotgrass(n)" lexeme="swine's grass(n)" lexeme="sparrow's-tongue(n)">swynes
+grasse / knotgrasse / or sparowe tongue
+Ca. cccxlviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Politricum/</form> <xpln lang="en" lexeme="wall-fair(n)">walfarne ca.cccxlix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Premula veris/</form> <xpln lang="en" lexeme="primerole(n)">prymerolles ca.cccl
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pallacium leporis</form> <xpln lang="en" lexeme="hare's palace(n)">hares palays.ca.cccli
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pulmonaria/</form> <xpln lang="en" lexeme="crayfery(n)" lexeme="lungwort(n)">crayfery or lungwort
+Ca. ccclii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Percicaria/</form> <xpln lang="en" lexeme="arsesmart(n)" lexeme="culrage(n)">arssmert or culrage.ca.cccliii
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1551).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Paracella</form> <xpln lang="en">ca.cccliiij
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pimpinella/</form> <xpln lang="en" lexeme="self-heal(n)" lexeme="pimpernel(n)">selfe heale or pympernell
+Ca. ccclv
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pilocella/</form> <xpln lang="en" lexeme="mouse-ear(n)">mows eare ca:ccclvi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Prouinca/</form> <xpln lang="en" lexeme="periwinkle(n)">perwynke ca:ccclvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Palma cristi.</form> <xpln lang="en">ca.ccclviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Persici/</form> <xpln lang="en" lexeme="peach(n)">peches ca. ccclix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Olium persicor<expan type="">um</expan>/</form> <xpln lang="en" lexeme="oil of peach kernel(n)">oyle of peches kernelles
+Ca: ccclx
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pes columbinus/</form> <xpln lang="en" lexeme="dove's-foot(n)">doues fote ca:ccclxi
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1548).
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+
+<wordentry type="h"><form lang="la">
+RVta/</form> <xpln lang="en" lexeme="rue(n)">rue ca:ccclxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rosa/</form> <xpln lang="en" lexeme="rose(n)">rose ca.ccclxiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rafanus/</form> <xpln lang="en" lexeme="rape root(n)">rape rote. ca:ccclxiiii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Radix/</form> <xpln lang="en" lexeme="radish(n)">a radysshe ca:ccclxv
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Reubarbarum/</form> <xpln lang="en" lexeme="rubarb(n)">reubarbe ca: ccclxvi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rubea/</form> <xpln lang="en" lexeme="madder(n)">madder ca:ccclxvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Porrum/</form> <xpln lang="en" lexeme="leek(n)">a leke ca:ccclxviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Piganium/</form> <xpln lang="en" lexeme="wild rue(n)">wylde rue ca.ccclxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ros marinus:</form> <xpln lang="en" lexeme="rosemary(n)">rosmary ca:ccclxx
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rubus/</form> <xpln lang="en" lexeme="briar(n)" lexeme="bramble(n)">a brere or br<expan type="">am</expan>ble ca.ccclxxi
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la"><emend err="Rdoalia">Rodalia</emend></form> <xpln lang="en">ca.ccclxxii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Risum.</form> <xpln lang="en" lexeme="rice(n)">rys ca.ccclxxiii.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="5r">
+
+<wordentry type="h"><form lang="la">Robellij</form> <xpln lang="en">ca.ccclxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rapistrum/</form> <xpln lang="en" lexeme="wild rape(n)">wylde rapes ca.ccclxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rapa/</form> <xpln lang="en" lexeme="rape(n)">rapes ca.ccclxxvi.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="la">
+SPica nardus/</form> <xpln lang="en" lexeme="spike(n)">spyke ca.ccclxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Solatrum/</form> <xpln lang="en" lexeme="petty morel(n)" lexeme="nightshade(n)">petymorell or nyght&#173;
+shade ca.ccclxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Serapinum/</form> <xpln lang="en" lexeme="serapin(n)">serapin ca.ccclxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Semper vina/</form> <xpln lang="en" lexeme="houseleek(n)" lexeme="sengreen(n)">howsleke or selfegrene
+Ca. ccclxxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sulphur(n)">Sulphur/</form> <xpln lang="en" lexeme="brimstone(n)">brymstone ca.ccclxxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sileos</form> <xpln lang="en">ca.ccclxxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Saponaria/</form> <xpln lang="en" lexeme="crowsoap(n)">crowsoppe ca.ccclxxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sanguis draconis/</form> <xpln lang="en" lexeme="dragon's blood(n)">dragons blode
+Ca. ccclxxxv.
+</xpln>
+<lemenote>
+Antedates first OED citation (1555).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Squin<expan type="">an</expan>t<expan type="">um</expan>/</form> <xpln lang="en" lexeme="camel's straw(n)">camelles strawe.ca.ccclxxxvi
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1578). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Semen napij/</form> <xpln lang="en" lexeme="mustard seed(n)">musterde sede.ca.ccclxxxvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sarcocolla/</form> <xpln lang="en" lexeme="gum(n)">a gomme ca.ccclxxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sticados citrinum</form> <xpln lang="en">ca.ccclxxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sticados arabicum</form> <xpln lang="en">ca.cccxc.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Satyrion/</form> <xpln lang="en" lexeme="gangelon(n)" lexeme="hare's-ballocks(n)">gangelon or hare ballockes
+Ca cccxci.
+</xpln>
+<lemenote>
+"hare's-ballocks" antedates earliest OED citation (1562).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Sponsa solis/ cycorea </form> <xpln lang="en" lexeme="chicory(n)">/ chicory.ca.cccxcii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Strafularia</form> <xpln lang="en">ca.cccxciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spodium/</form> <xpln lang="en" lexeme="ivory(n)">yue<emend err="x">r</emend>y ca.cccxciiij
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Strucium</form> <xpln lang="en">ca.cccxcv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stinces</form> <xpln lang="en">ca.cccxcvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scordeon.</form> <xpln lang="en" lexeme="wild garlic(n)">wylde garlyke ca.cccxcvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sapo/</form> <xpln lang="en" lexeme="soap(n)">sope ca.cccxcviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sperago/</form> <xpln lang="en" lexeme="sperage(n)">sperage ca. cccxcix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sauina/</form> <xpln lang="en" lexeme="savin(n)">sauyn ca.CCCC.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Saxifraga/</form> <xpln lang="en" lexeme="saxifrage(n)">saxyfrage ca.cccci
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sal/</form> <xpln lang="en" lexeme="salt(n)">salt ca. ccccii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sal armeniacum/</form> <xpln lang="en" lexeme="salt armoniac(n)">salt armenyake 
+Ca. cccciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sisimbrum</form> <xpln lang="en">ca.cccciiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sal gemma/</form> <xpln lang="en" lexeme="salt(n)" lexeme="gem(n)">salt gemme ca.ccccv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Saluia/</form> <xpln lang="en" lexeme="sage(n)">sawge ca.ccccvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scabiosa/</form> <xpln lang="en" lexeme="scabious(n)">scabyous ca.ccccvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Senacio.Narsturcium/</form> <xpln lang="en" lexeme="cress(n)">cresses.
+Ca. ccccviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Senethon/</form> <xpln lang="en" lexeme="groundsel(n)">grownswell ca.cccci<emend err="r">x.</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Serpentina/</form> <xpln lang="en" lexeme="dragons(n)" lexeme="snake grass(n)">dragons or snakegrasse
+Ca. ccccx.
+</xpln>
+<lemenote>
+"snake grass" antedates the earliest OED citation (1883).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Salix/</form> <xpln lang="en" lexeme="willow tree(n)">a wyllowe tre ca.ccccxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sambucus/</form> <xpln lang="en" lexeme="elder(n)">eldre ca.ccccxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Squilla/</form> <xpln lang="en" lexeme="squill(n)" lexeme="sea onion(n)">a squyll/ or see onyon
+Ca. ccccxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Storax</form> <xpln lang="en">ca.ccccixiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sumar</form> <xpln lang="en">ca.ccccxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Staphisagria</form> <xpln lang="en">ca.ccccxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sandale/</form> <xpln lang="en" lexeme="sanders(n)">sandres ca.cccc<emend err="r">x</emend>vii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sene</form> <xpln lang="en">ca.ccccxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Serpillum/</form> <xpln lang="en" lexeme="pellitory(n)">pellyter ca.ccccxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Satureia/</form> <xpln lang="en" lexeme="savoury(n)">sauerey ca.ccccxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sanguinaria/</form> <xpln lang="en" lexeme="blood-wort(n)" lexeme="yarrow(n)">blodworte or yarowe
+Ca. ccccxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stolopendria/</form> <xpln lang="en" lexeme="hart's-tongue(n)">hartes tongue.ca.ccccxxii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Soldanea</form> <xpln lang="en">ca.ccccxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spynachia/</form> <xpln lang="en" lexeme="spinach(n)">spynache ca.ccccxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sicla/bleta/</form> <xpln lang="en" lexeme="beet(n)">betes ca.ccccxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stologium/</form> <xpln lang="en" lexeme="chive(n)">cynes ca ccccxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spergula/</form> <xpln lang="en" lexeme="clivers(n)">clyuers ca.ccccxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Silfu/</form> <xpln lang="en" lexeme="wild valerian(n)">wylde valeryane ca.ccccxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sambacus.</form> <xpln lang="en">ca.ccccxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spina benedicta</form> <xpln lang="en">ca.ccccxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scalcu</form> <xpln lang="en">ca.ccccxxxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sebasten</form> <xpln lang="en">ca.ccccxxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sistra/</form> <xpln lang="en" lexeme="dill(n)">dylle ca.ccccxxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Salunica.</form> <xpln lang="en" lexeme="caltrop(n)">caltrappe ca.ccccxxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spuma maris.</form> <xpln lang="en" lexeme="pounce(n)">a pounce ca.ccccxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spongia marina.</form> <xpln lang="en" lexeme="sponge(n)">a sponge ca.cccc<emend err="r">x</emend>xxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sigillum sancte marie.</form> <xpln lang="en" lexeme="Our Lady's seal(n)">our ladyes seale.
+Ca. ccccxxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Saxifraga minor.</form> <xpln lang="en" lexeme="less saxifrage(n)">the lesse saxifrage.
+Ca. ccccxxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sorbes</form> <xpln lang="en">ca.ccccxxxix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Synomum.</form> <xpln lang="en" lexeme="wild parsley(n)">wylde percely ca.ccccxl.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Orant.</form> <xpln lang="en">ca.ccccxli.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sizania.</form> <xpln lang="en" lexeme="cockle(n)" lexeme="ray(n)">ray or cokyll ca.cccc.xlii.
+
+
+
+
+</page>
+
+<page sig="+5v">
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="la">
+TAmariscus.</form> <xpln lang="en">ca.cccc.xliii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tarra sigillata.</form> <xpln lang="en">ca.cccc.xliiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tetrahit.</form> <xpln lang="en">ca.cccc.xlv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tintimallus.</form> <xpln lang="en">ca.cccc.xlvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Turbith.</form> <xpln lang="en">ca.cccc.xlvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tapsia.</form> <xpln lang="en">ca.cccc.xlviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tela aranea.</form> <xpln lang="en" lexeme="spider web(n)">Spider <emend err="wekbe">webbe</emend>.ca.cccc.xlix
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tapsus barbat<expan type="">us</expan>.</form> <xpln lang="en" lexeme="high-taper(n)" lexeme="hare's beard(n)">Hareberde or hyghtap&#173;
+per.ca. cccc.l.
+</xpln>
+<lemenote>
+"hightaper antedates earliest OED citation (1605); "haresberde" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Terbentina.</form> <xpln lang="en" lexeme="turpentine(n)">Terpentyne. ca.cccc.li.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tribul<expan type="">us</expan> marinus.</form> <xpln lang="en" lexeme="red briar(n)">reed brere.ca.cccc.lii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tormentilla.</form> <xpln lang="en" lexeme="tormentil(n)">Tormentyll. ca.cccc.liii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Trifolium.</form> <xpln lang="en" lexeme="three-leaved grass(n)" lexeme="trefoil(n)">Trefle or thre leued grasse.
+Ca. cccc.liiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tartarus.</form> <xpln lang="en" lexeme="wine-lees(n)" lexeme="wine-stone(n)">wyne lyes or wyne stone.
+Ca. cccc.lv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Thucia.</form> <xpln lang="en" lexeme="stone(n)">a <emend err="stoue">stone</emend> so called. ca.cccc.lvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Terediabin.</form> <xpln lang="en">ca.cccc.lvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Triticum.</form> <xpln lang="en" lexeme="wheat(n)">Whete. ca.cccc.lviii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="la">
+VIole.</form> <xpln lang="en" lexeme="violet(n)">Vyolettes. ca.cccc.lix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Valeriana.</form> <xpln lang="en" lexeme="valerian(n)">Valeryan.ca.cccc.lx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vitrum.</form> <xpln lang="en" lexeme="glass(n)">Glasse ca.cccc.lxi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Virga pastoris.</form> <xpln lang="en" lexeme="wild teasel(n)">wylde tasyl.ca.cccc.lxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Titicella.</form> <xpln lang="en">ca.cccc.lxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Viperina/vrtica mortua.</form> <xpln lang="en" lexeme="archangel(n)" lexeme="dead-knettle(n)">Deednettell or
+archaungell. ca.cccc.lxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vrtica.</form> <xpln lang="en" lexeme="nettle(n)">Nettle. ca.cccc.lxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vermincularis.</form> <xpln lang="en">ca.cccc.lxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Volubilis.</form> <xpln lang="en" lexeme="woodbind(n)">Wood bynde. ca.cccc.lxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vicetoxium.</form> <xpln lang="en">ca.cccc.lxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vua.</form> <xpln lang="en" lexeme="grape(n)">A grape ca.cccc.lxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vitis alba.</form> <xpln lang="en">ca.cccc.lxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vulfago.</form> <xpln lang="en">ca.cccc.lxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Verbena vel sacra herba.</form> <xpln lang="en">ca.cccc.lxxiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vngula caballina</form> <xpln lang="en">ca.cccc.lxxiiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vua versa</form> <xpln lang="en">ca.cccc.lxxv.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="Z"><alpha>Z</alpha>
+
+<wordentry type="h"><form lang="la">
+Zilocrates.</form> <xpln lang="en">ca.cccc.lxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Zynziber.</form> <xpln lang="en" lexeme="ginger(n)">Gynger: ca.cccc.lxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Zedoare.</form> <xpln lang="en" lexeme="setwall(n)">Setwale.ca.cccc.lxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Zisania.</form> <xpln lang="en">ca.cccc.lxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">zypulis.</form> <xpln lang="en" lexeme="fritter(n)">Frytures. ca.cccc.lxxx.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">zuccar<expan type="">um</expan>.</form> <xpln lang="en" lexeme="sugar(n)">Sugre. ca.cccc.lxxi.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="A2"><alpha>A2</alpha>
+
+<wordentry type="h"><form lang="la">&#182;Abrotanum.</form> <xpln lang="en">ca.cccc.lxxxii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Arbor glandis.</form> <xpln lang="en" lexeme="oak tree(n)">an ok<expan type="">en</expan> tre.ca.cccc.lxxxiii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="B2"><alpha>B2</alpha>
+
+<wordentry type="h"><form lang="la">&#182;Bos.</form> <xpln lang="en" lexeme="ox(n)">an oxe. ca.cccc.lxxxiiii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="C2"><alpha>C2</alpha>
+
+<wordentry type="h"><form lang="la">&#182;Cantarides</form> <xpln lang="en">ca.cccc.lxxxv.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Capra.</form> <xpln lang="en" lexeme="goat(n)">agote. ca.cccc.lxxxvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cancer.</form> <xpln lang="en" lexeme="crayfish(n)">a creuysshe. ca.cccc.lxxxvii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Columba.</form> <xpln lang="en" lexeme="dove(n)">a doue. ca.cccc.lxxxviii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Caseus.</form> <xpln lang="en" lexeme="cheese(n)">Chese. ca.cccc.lxxxix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Siligo.</form> <xpln lang="en" lexeme="rye(n)">Rye. Idem.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="E2"><alpha>E2</alpha>
+
+<wordentry type="h"><form lang="la">
+Edus.</form> <xpln lang="en">ca.cccc.xc.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="LB2"><alpha>LB2</alpha>
+
+<wordentry type="h"><form lang="la">Lepus.</form> <xpln lang="en" lexeme="hare(n)">In hare. ca.cccc.xci<emend err="!.">.</emend>
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="P2"><alpha>P2</alpha>
+
+<wordentry type="h"><form lang="la">
+Pira.</form> <xpln lang="en">ca.cccc.xcii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Poma.</form> <xpln lang="en" lexeme="apple(n)">Apples ca.cccc.xciii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pyrola.</form> <xpln lang="en">ca.cccc.xciiii.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="R2"><alpha>R2</alpha>
+
+<wordentry type="h"><form lang="la">
+Ribes.</form> <xpln lang="en">ca.cccc.xcv
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="V2"><alpha>V2</alpha>
+
+<wordentry type="h"><form lang="la">
+Vsnea.</form> <xpln lang="en" lexeme="moss(n)">Mosse. ca.cccc.xcvi.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cardo benedicta.</form> <xpln lang="en" lexeme="sow-thistle(n)">sowthistle.ca.cccc.xcvii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vulpis.</form> <xpln lang="en" lexeme="fox(n)">a fox. ca.cccc.xcviii
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Citrum.</form> <xpln lang="en">ca.cccc.xcix.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vua passe.</form> <xpln lang="en" lexeme="raisin(n)" lexeme="currant(n)">Rasyns of corans. ca.ccccc.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vibex.</form> <xpln lang="en">ca.ccccc.i.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="Y2"><alpha>Y2</alpha>
+
+<wordentry type="h"><form lang="la">
+Ydropiper.</form> <xpln lang="en">ca.ccccc.ii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ynguirialis.</form> <xpln lang="en">ca.ccccc.iii<emend err="!.">.</emend>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Yacea.</form> <xpln lang="en" lexeme="mattfelon(n)">marefolon. ca.ccccc.iiii.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scamonea.</form> <xpln lang="en">ca.ccccc.v.
+</xpln></wordentry>
+
+&#182; Finis huius tabule.
+
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="dd1r">
+
+<heading>
+&#182; The exposicy<expan type="">on</expan> of the wordes
+obscure and euyll knowen.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="alopecia(n)">
+ALlopice</form> <xpln lang="en">is ye fallyng of here 
+whiche maketh <emend err="blade">balde</emend> pla&#173;
+ces or pylled clene without 
+here on <expan type="">the</expan> heed. Also allopice 
+is a maner of lepry through 
+the whiche the here of the browes and of <expan type="">the</expan>
+<emend err="brede">hede</emend> dooth fall.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asthma(n)" lexeme="asthmatic(a)">
+&#182; Asma or asmatyke</form> <xpln lang="en" lexeme="short-breathed(a)">is wh<expan type="">an</expan> any parson draweth his brethe with
+payne or is shorte vpon the breste or as we
+say in englisshe short brethed/and it is na<emend err="">&#173;</emend>
+med asma that causeth the dyseas. 
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1542).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arthritic(n)">
+&#182; Artetyke</form> <xpln lang="en" lexeme="gout(n)" lexeme="chiragra(n)" lexeme="sciatica(n)">is a gowte that r<expan type="">on</expan>neth or hath
+cowrse ouer all the places or membres of
+the body / but whan it is in one place alone
+or <emend err="feuerall">seuerall</emend> than it is otherwyse named/as
+ciragre or citagre/ whiche is the gowte in
+the fete / sciatica or sciatike is the gowte in
+the hanches. 
+</xpln>
+<lemenote>
+"chiragra" is not in the OED (see "chiragrical," adj., citation of 1585, its earliest appearance there, in a quotation)
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apoplexy(n)">
+&#182; Appoplexie</form> <xpln lang="en" lexeme="lethargy(n)">is a maner of a palsye/and
+that cometh in dyuers parsones so sodenly
+and so feruently that they lese therby theyr
+wytte/ theyr vnderstandynge / theyr me&#173;
+mory or remembraunce and speche / and
+can not remene / &#38; whan he is called vpon
+he can not answere / neuertheles there is
+dyfference betwene appoplexie and lytar&#173;
+gye / for though in litargye there be no hye
+speche / yet there is answere. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anthrax(n)">
+&#182; Antrax</form> <xpln lang="en" lexeme="trice(n)" lexeme="ficus(n)" lexeme=" haemorrhoids(n)" lexeme="piles(n)" lexeme="atrices(n)" lexeme="trices(n)">is an impostume full of fyre /
+lyke vnto <expan type="">the</expan> fyre of saynt Anthony. Trices
+be swellynges of the foundement/and not
+of the vaynes therof / but onely about the
+foundement / and of that place be thre dy&#173;
+uers diseases / as ficus / fiatrices / &#38; emor&#173;
+roydes / but there is difference / for emor&#173;
+roydes or pyles be in the vaynes about the
+border of the foundam<expan type="">en</expan>t / and somtyme it
+dothe swell and nothynge issueth out of it
+somtyme it bledeth to moche / and somtyme
+it is full of dolorous payne. Atrices be en&#173;
+fluxes or swellynges very softe about the
+fo<expan type="">un</expan>dam<expan type="">en</expan>t. But fic<expan type="">us</expan> or fy is a grete thinge
+about the foundament whiche is within
+full of gros graynes lyke vnto the gray&#173;
+nes of fyggues/ and therefore it is called
+fycus. 
+</xpln>
+<lemenote>
+"trices" and "atrices" not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aperitive(n)" lexeme="oppilation(n)" lexeme="stopping(n)">
+&#182; Apperitiue</form> <xpln lang="en">is an openynge of veynes or
+other conduytes of the body / and also of <expan type="">the</expan>
+lytel holes of the skynne thrugh the which
+the swete dothe issew / and all stoppynges
+of veynes / conduytes / or smal swete holes
+be named oppilacyons / oppilacyon &#38; stop&#173;
+pynge is all one thynge.  
+</xpln>
+<lemenote>
+Antedates earliest OED citation for "aperitive" (1671).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="abstersion(n)" lexeme="substertive(n)">
+&#182; Astercyon</form> <xpln lang="en">is whan a medycyne whiche
+hath vertue to extracte or take humours
+out of certayne membres clensynge them
+of theyr superfluytes/in suche medycyne it
+is sayd substertyue / and abstercy<expan type="">on</expan>/which
+is the same doynge. 
+</xpln>
+<lemenote>
+"abstersion" antedates earliest OED citation (1543); "substertyue" not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apostolicon(n)">
+&#182; Apostolycon</form> <xpln lang="en">is a playster or salue so na&#173;
+mend / and is to be had at the poticaries and
+is specially ordeyned for woundes in the
+hede. 
+</xpln>
+<lemenote>
+Antedates earliest OED citation ("c1600).
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="benedict(n)" lexeme="benet(n)">
+Benedicta</form> <xpln lang="en">is a medicyne / and is to be had
+at <expan type="">the</expan> potycaryes in euery place / and is also
+named benet or benedict. 
+</xpln>
+<lemenote>
+OED lists "benedict" in this sense as an adjective from 1576 but not as a noun; and "benet" in this sense is not in the OED. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bolet(n)">
+&#182; Bolet</form> <xpln lang="en">is a maner of dedewode and gro&#173;
+weth agaynst the trees &#38; is very lyght. 
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="cardiaca(n)">
+Cordiaca</form> <xpln lang="en"> is wh<expan type="">an</expan> any parson hath dyseas
+at the herte whiche hath c<expan type="">on</expan>tynued of longe
+tyme / and that the herte doth trymble and 
+quake / than it is sayd he hath the cordiaca
+passyon. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rhagades(n)" lexeme="condilomata(n)">
+&#182; Condilomata</form> <xpln lang="en">/ they be dolours of <expan type="">the</expan> fo<expan type="">un</expan><emend err="">&#173;</emend>
+Dament / as clestys or crestys without yel<emend err="">&#173;</emend>
+dynge or voydynge ony blode / but whan
+they rendre blode they be named ragadie. 
+</xpln>
+<lemenote>
+Antedates first OED citation of "condilomata" (1684) in the OED (see "condyloma," n.).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consume(v)">
+&#182; Consume</form> <xpln lang="en"> / it is sayd that a medycyne c<expan type="">on</expan><emend err="">&#173;</emend>
+sumed humours or other thynges as wyn&#173;
+des whan it resolueth all or nere hande all
+except it voyde by sensyble apparence. And
+is all one consumynge / or resoluynge / or
+departynge or puttynge furth out of the 
+
+
+
+
+</page>
+
+<page sig="dd1v">
+
+body in maner of thynne vapours whiche
+be in the incensible body. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="conglutinative(a)">
+&#182; Conglutinatiue</form> <xpln lang="en"> / a medycyne congluty<emend err="">&#173;</emend>
+natyue is whan it ioyneth the rybbes or
+ioyntes togyder. 
+</xpln>
+<lemenote>
+Antedates earliest citation in the OED ("1541).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="collyrie(n)">
+&#182; Colire</form> <xpln lang="en">is a medicyne that is clere of sub<emend err="">&#173;</emend>
+staunce and is good for the eyen / and that
+is named colire / and therfore yf we fynde
+in the bookes of any phisici<expan type="">an</expan>s <expan type="">that</expan> we sholde
+make colire / yf his medycynes be harde it
+must be puluerysed &#38; myxted with wyne
+or in water of herbes / or ellkys as <expan type="">the</expan> booke
+dothe deuyse and that is named colire and
+this medycyne of hymselfe is clere &#38; may
+be made by hymselfe / and yf it be softe let
+it be made with clere substaunces /and it
+shall be also colyre. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cauter(n)" lexeme="cauter actual(n)" lexeme="cauter potential(n)">
+&#182; <emend err="Cantere">Cautere</emend></form> <xpln lang="en">is wh<expan type="">an</expan> one hath a place where
+the cancre is in / or other dyseas that requi<emend err="">&#173;</emend>
+reth arsures to be made which is fyrye he<emend err="">&#173;</emend>
+te / <emend err="cantere">cautere</emend>is in two maners / the one by
+yron or other metall made rede hote in <expan type="">the</expan>
+fyre / the other maner by medycynes that
+be so hote that whan they be layde to any
+membre they brenne it lyke fyre. The c<expan type="">an</expan>&#173;
+cere that is made of fyrye metal is named <emend err="cantere">cautere</emend> actuall. The other that is made
+by medycyne is named <emend err="cantere">cautere</emend> potencyall
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corrosive(n)">
+&#182; Corrosiue</form> <xpln lang="en" lexeme="realgar(n)" lexeme="orpiment(n)">is whan a medycyne byteth
+in dede flesshe or other thynges / than it is
+named corrosiue / and therfore these medy<emend err="">&#173;</emend>
+cynes that be to stronge corrosiues be na&#173;
+med <emend err="canteres">cauteres</emend> potencyall / as realgar or
+orpyment. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">
+&#182; Ciate</form> <xpln lang="en" lexeme="ciath(n)">that is a mesure conteynynge of
+lycour the quantyte in weyght of an ounce
+and an halfe. 
+</xpln>
+<lemenote>
+Antedates first OED citation ("1543).
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="dysentery(n)">
+Dyssentere</form> <xpln lang="en">is the body flyx. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diamargariton(n)">
+&#182; Diamargariton</form> <xpln lang="en">that is a confeccy<expan type="">on</expan> in
+the apoticarie whiche is so named. 
+</xpln>
+<lemenote>
+Noted in OED under "dia-".
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dyalthea(n)">
+&#182; Dyalthea</form> <xpln lang="en">is a salue and it is wel bekno<emend err="">&#173;</emend>
+wen / and comonly at the apotycaryes is
+ynough in the recept of dyalthe in <expan type="">the</expan> booke
+of the <emend err="anthidota rie">anthidotarie</emend> it is gretely notyfyed
+</xpln>
+<lemenote>
+Not found in OED but W. J. Bishop, "The Great Plague in Suffolk," 
+<i>Notes and Queries</i> 197 (1952): 547, says that dyalthea is "Pulvis Dialthaeae" Powder of Marshmallow
+compound (Althea officinalis)" and finds it first in the Pharmacopoeia Londinensis (1677).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dissolve(v)" lexeme="dissolutive(a)">
+&#182; Dissolue and dissolutyue</form> <xpln lang="en">is whan any
+medycyne mynyssheth grosse and slyme hu<emend err="">&#173;</emend>
+mours / and maketh them subtyll thynne
+and clere / some shewe whiche do dyssolue
+and whiche be dyssolutyfe / as the fyre cau<emend err="">&#173;</emend>
+seth the yce to become water / also whan
+grosse humours be dyssolued or meued to
+waxe clere / dyssolue / liquefy / and remyt
+is all one thynge. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diaphoretic(n)" lexeme="iphoretic(n)">
+&#182; Dyaforetyke</form> <xpln lang="en">is whan a medycyne spre<emend err="">&#173;</emend>
+deth humours &#38; vapours insencyble whi&#173;
+che be mynysshed in suche maner / meued &#38;
+made in so subtyll vapour that it voydeth
+without noyaunce/it is sayde that this is
+dyaforetike / also whan one sweteth often
+whiche maketh hym faynt and lene euyn
+as his body sholde consume or be dede / <expan type="">that</expan>
+is named yforetyke. 
+</xpln>
+<lemenote>
+"diaphoretic" antedates earliest OED citation (1563); and "iphoretic" is not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diaphragm(n)">
+&#182; Dyafragma</form> <xpln lang="en" lexeme="pleurisy(n)">is the flece within <expan type="">the</expan> body
+aboue the lyghtes and the hart of the one
+parte / the lyuer / <emend err="thestomake">the stomake</emend> / the mylte /
+and the bowelles of the other partye / and
+this flece is bent ouertwarte the body fr<expan type="">om</expan>
+the one syde of the rybbes to the other.
+The impostume that formeth hym in dya<emend err="">&#173;</emend>
+fragma is named pleuresys. 
+</xpln>
+<lemenote>
+"Diafragma" (the Latin spelling) appears in English text.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drachma(n)">
+&#182; Dragma</form> <xpln lang="en">is the.viii.parte of an vnce. 
+</xpln>
+<lemenote>
+Antedates first OED citation (1527). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="degree(n)">
+&#182; Degre</form> <xpln lang="en">is the quantyte in the which the
+pacient or seke body is hote / colde / drye or
+moyst / and there be.iiii.degrees in medy&#173;
+cynes / the fourth degree is whan the medy<emend err="">&#173;</emend>
+cyne is so hote that it may no more except
+dethe / yet it wolde slee any parsone that
+vseth therof in grete qu<expan type="">an</expan>tyte. The thyrde
+degre is whan it hath lesse hete / &#38; yet it is
+so grete <expan type="">that</expan> he <expan type="">that</expan> vseth oft<expan type="">en</expan> of it shal lyghtly
+be seke. The.ii. degre is wh<expan type="">an</expan> it hath yet
+lesse hete and is yet so grete that it may be
+
+
+
+
+</page>
+
+<page sig="dd2r">
+
+manyfestly knowen through the perceue&#173;
+raunce of the grete hete that it hath in.
+The fyrst degre is whan there is but lytel
+hete aboue the <expan type="">the</expan> complexion of the parsone
+and so lytell hete that for ones occopyenge 
+it is not perceyued that it warmeth <expan type="">the</expan> body
+but by longe contynuaunce it wyll be per&#173;
+ceyued / &#38; whan the medycyne dothe nou&#173;
+ther mene nor chaunge the body/than it is
+temperate/ and thus is to be vnderstande
+the degrees before named. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dysury(n)">
+&#182; Dissurie</form> <xpln lang="en" lexeme="strangury(n)" lexeme="strangullion(n)">is a dyseas whan one can not
+pysse without payne / and of suche be two
+maners / the one is whan <expan type="">the</expan> seke bodi dothe
+pysse drope after drope / or that he can not
+kepe his water / or that the bladder hath
+lost his retentyfe virtue / or bycause that <expan type="">the</expan>
+vryne is so heuely aggrauat that no man
+may endure nor suffre it within <expan type="">the</expan> bladder
+but yssueth contynually bycause the blad&#173;
+der or necke therof is perced or perysshed.
+And as sone as there cometh any drope of
+vryne it smarteth and br<expan type="">en</expan>neth in suche ma<emend err="">&#173;</emend>
+ner that it must nedys yssue / &#38; this dyseas
+is named strangury / or strangulyon.
+The other dyseas is whan any one pysses
+with grete payne or by grosse humours <expan type="">that</expan>
+stoppeth the conduytes / or for the stone or
+grete grayuell / or for feblenesse of <expan type="">the</expan> blad&#173;
+ders necke that can not put forthe the vryn
+this dyseas is named dyssurye. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="diuretic(n)">
+&#182; Dyuretyke</form> <xpln lang="en"> / is whan a medycyne of his
+proper nature is good to pysse / or openeth
+the inwarde vaynes/that is named dyure<emend err="">&#173;</emend>
+tyke / &#38; this dyuretyke openeth or vnstop&#173;
+peth the conduytes of the vryne &#38; voydeth
+the grosse humours /and he that sholde oc&#173;
+cupye it to moche it wolde be for hym to
+quycke / and therfore it waxe not good in
+strangury bycause of the grete hete of the
+vryne / thus in vsynge of thynges is nede&#173;
+full to be well loked on and regarded. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dialetic(a)">
+&#182; Dyaletyke passyon</form> <xpln lang="en"> is whan one pysseth
+oft<expan type="">en</expan> <emend err="andof">and of</emend> grete quantyte / and as sone as
+one hath dronke he pysseth in contynent
+after / and that cometh of the hete of <expan type="">the</expan> ray&#173;
+nes. 
+</xpln>
+<lemenote>
+Presumably an error for "diuretic."
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="elephans(n)">
+Elephans</form> <xpln lang="en" lexeme="lepry(n)" lexeme="meselry(n)" lexeme="alopecia(n)" lexeme="measled(n)" lexeme="leonine(n)">is of two maners / the one is a
+spece of myselery or lepry/whereof all the
+membres of the body leseth theyr fygures
+with grete cystes and clestes/ &#38; is the most
+horryble dyseas that is/ye shall vnderst<expan type="">an</expan>&#173;
+de that of these be.iiii.maners. The fyrst
+is Alopyce wherof before is rehersed/cau<emend err="">&#173;</emend>
+sed of the corrupcy<expan type="">on</expan> of hote br<expan type="">en</expan>nyng blode
+The seconde is named Leomine / and that
+is whan the myselde hath a face very hor&#173;
+ryble to beholde/and is fyers and crewell
+as a lyon bycause of his coleryke hote and
+br<expan type="">en</expan>nynge humours. The thyrde is named
+ptysys/ he that hath this dyseas pylleth &#38;
+leseth his skynne and is flayne lyke a ser&#173;
+pent that ronneth or glydeth by constraynt
+through an ouer strayte passage. The.iiii.
+is named Elephans/the whiche is <emend err="caufed">caused</emend>
+of melancolike humours and is the worste
+and lyke a cancre ouer all the body. Ele&#173;
+phans is also of an other maner whiche is
+whan one hath an arme <emend err="of">or</emend> a legge thre or 
+foure tymes greter than it ought for to be
+and yet the fete and handes be nat swollen
+</xpln>
+<lemenote>
+"elephans" is only in the OED as a Latin form of English "elephant," but the form also appears, if italicized, in Philip Barrough"s <i>The methode of phisicke</i> (1583): 274. Antedates the earliest OED citation of "leonine" in this sense (1749).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epilepsy(n)">
+&#182; Epilence</form> <xpln lang="en" lexeme="falling evil(n)" lexeme="foul evil(n)">is a wonderfull horryble seke&#173;
+nesse wherof the pacyentys fall with grete
+vyolence vnto the grounde/ and than they
+fome at the mouth and spartyll with theyr
+helys / and some call it the fallynge euyll /
+or the fowle euyll. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="erysipelas(n)">
+&#182; Erispyle</form> <xpln lang="en">is an impostume the moost ho&#173;
+test that can be except it were a brennynge
+cole. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="emoptoyca(n)">
+&#182; Emoptoyca</form> <xpln lang="en"> / that is the dyseas that one
+hath that spytteth c<expan type="">om</expan>monly blode. 
+</xpln>
+<lemenote>
+A medieval Latin form, not found in English.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epithem(n)">
+&#182; Epithime</form> <xpln lang="en">is a clothe that is foldeth ma<emend err="">&#173;</emend>
+nyfolde thycke and is weten is waters and
+iuce of herbes / the whiche is comonly layd
+vnto the lyuer and somtyme it is made of
+
+
+
+
+</page>
+
+<page sig="dd2v">
+
+a lytel pylowe of cotton: 
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1559).
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="fomenter(n)">
+Fomenter</form> <xpln lang="en" lexeme="embracium(n)">is bathynge or a member in
+sethynges of herbes / but in <expan type="">the</expan> hetyng there
+is lettyn fall of the same hote lycour vpon
+another hother thynge / therto moost neces<emend err="">&#173;</emend>
+sarie and all by dropes / whiche is than na<emend err="">&#173;</emend>
+med Embracium. 
+</xpln>
+<lemenote>
+"formenter" antedates earliest OED citation (1633). "embracium": not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="furfur(n)">
+&#182; Furfures</form> <xpln lang="en">be small whyte shellys softe&#173;
+ned to the skynne of the heed and to <expan type="">the</expan> here
+of the heed and is <emend err="name dede">named dede</emend> skynne. 
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1621).
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="gonorrhoea(n)">
+Gomorrea or pollutci<expan type="">on</expan></form> <xpln lang="en">is a dyseas where
+through the sede of man yssueth from hym
+agaynst his wyll and without hauynge
+any pleasure / &#38; <emend err="feblenesshyt">feebleness hyt</emend> the body ryght
+sore. 
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1547).
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="herpes(n)" lexeme="noli me tangere(n)">
+Herpes estyomenus</form> <xpln lang="en">is a maner of a can&#173;
+cer that eateth rownde about it / &#38; is other
+wyse named noli me tangere / specyally yf
+it be in the face because that it taketh har<emend err="">&#173;</emend>
+me through handelynge. 
+</xpln>
+<lemenote>
+Possibly a form for "herpes exedens nasi."
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="hiera picra(n)">
+Ierapigra</form> <xpln lang="en">is a medycyne composed at <expan type="">the</expan> 
+Potycaryes the whiche conforteth <expan type="">the</expan> bray<emend err="">&#173;</emend>
+nes. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hiero logandum(n)">
+&#182; Iera logandum</form> <xpln lang="en">is also a medycyn
+at the potycaryes and is very laxatyue. 
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incisive(n)">
+&#182; Incisyue</form> <xpln lang="en">is a medycyne whiche by sub&#173;
+tilyte perseth and dyuyseth in dyuers ma&#173;
+ners grosse humours / and suche persynge
+medycynes be good to open the conduytes
+of <emend err="gr osse">grosse</emend> humours that be stopped. 
+</xpln>
+<lemenote>
+Antedates earliest OED citation (1528).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyposarca(n)">
+&#182; Iposarca</form> <xpln lang="en" lexeme="swelling(n)" lexeme="dropsy(n)" lexeme="leucophlegmacy(n)">is yposacre / it is a maner of
+swellynge or dropsy. There be <emend err="^.">.</emend>iii. maner
+of specys of dropsy. The fyrst is where as
+all the body is swollen and softe / &#38; whan
+ye thrust vp<expan type="">on</expan> it with your fynger th<expan type="">an</expan> there
+bydeth a pytte / and it is also named leuco<emend err="">&#173;</emend>
+fleumancia. The seconde is named <term lang="la">timpa<emend err="">&#173;</emend>
+num</term> / bycause that the bely is swoll<expan type="">en</expan> hard
+bent and full of wynde/by reason wherof
+it is lyght. The thyrde is where as <expan type="">the</expan> bely
+also swollen very grete &#38; it wayeth ryght
+sore/ and whan <expan type="">the</expan> seke body remeueth fr<expan type="">om</expan> 
+one syde to another/then it gyueth a sown<emend err="">&#173;</emend>
+de lyke a baryll that is halfe ful of lycour
+and is named <term lang="la">alchites</term>. 
+</xpln>
+<lemenote>
+"leucophlegmacy" antedates earliest OED citation (1657). "tympanum" (in other senses) also antedates the first citation by OED (1619), which uses the form "tympany" (1528-). "alchites," also not in the OED, is a medieval Latin term: see J. Ziegler, "Medical Similes in Religious Discourse: The Case of Giovanni di San Gimignano OP (ca. 1260"ca. 1333)." <i>Science in Context</i> 8.1 (1995): 113, n. 18. 
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="litharge(n)">
+Litargie or lytarge</form> <xpln lang="en">is a maner of <expan type="">the</expan> scom<emend err="">&#173;</emend>
+me of metalles. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lithargy(n)">
+&#182; Litargie</form> <xpln lang="en">is a dyseas also wherof is she<emend err="">&#173;</emend>
+wed in Apoplexie. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leucophlegmacy(n)">
+&#182; Leucofleum<expan type="">an</expan>cie</form> <xpln lang="en" lexeme="hyposarca(n)">is spok<expan type="">en</expan> of in iposarca
+</xpln></wordentry>
+</wordgroup1>
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="malum terre(n)">
+Malum terre</form> <xpln lang="en" lexeme="cyclamen(n)">is the rote of ciclamen. 
+</xpln>
+<lemenote>
+"malum terre" is a medieval Latin herbal term, not in the OED, but "cyclamen" antedates the earliest OED citation ("1550).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="melancholy(n)">
+&#182; Melancoly</form> <xpln lang="en">is a maner of foly as whan
+one wyll be alone musynge &#38; fantasienge
+euer on <expan type="">the</expan> worst and nat on the best in ma&#173;
+kynge of one sorowe / sorowes twayne
+whiche purpose no man can put hym fro
+through the which many one regarde him
+for a fole and all by the reason of his me&#173;
+lancolyousnes and folysshe fantasyes. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mania(n)">
+&#182; Mania</form> <xpln lang="en">is a madnesse / as whan it beho&#173;
+ueth that <expan type="">the</expan> pacient be bo<expan type="">on</expan>de / or ellys he
+wolde bete euery body and breke al thyn<emend err="">&#173;</emend>
+ges a sonder. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mitigative(a)">
+&#182; Mitygatyse</form> <xpln lang="en">is whan a medicyne alwa<emend err="">&#173;</emend>
+geth dolours/and paynes. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="morphew(n)">
+&#182; Morfew</form> <xpln lang="en">is a dyseas wherof the body
+leseth in many places his naturall colour
+and hath stra<expan type="">un</expan>ge colours/and there be.ii.
+maners of morfewes / the one is whyte &#38;
+the other is blacke. 
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="nefresie(n)">
+Nefresy</form> <xpln lang="en">is a grete payne in the raynes. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="narcotic(n)">
+&#182; Narcotycke</form> <xpln lang="en">is whan a medycyne is so
+colde of nature <expan type="">that</expan> through her grete colde&#173;
+nesse it maketh one to swelle and taketh or
+enslepeth dyuers membres of a mannys
+body &#38; also the taste and sauour or a grete
+parte therof / and he <expan type="">that</expan> is thus is nacorysed
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="oppilacy(n)">
+Opilacy<expan type="">on</expan></form> <xpln lang="en" lexeme="aperitive(a)">is a stoppyng as before is sayd
+in apperetyue: 
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ophthalmy(n)">
+&#182; Obcalime</form> <xpln lang="en">is a hote impostume that c<expan type="">om</expan>&#173;
+meth in the eyen whiche is reed within. 
+</xpln>
+<lemenote>
+The spelling is not found in OED but noted in <i>Revue de Botanique</i> (1887): 211 as a form peculiar to the Great Herbal.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oxizacre(n)">
+&#182; Oxizacre</form> <xpln lang="en"> it is a <emend err="brynke">drynke</emend> to be had at the
+Potycaryes / ye shall fynde more therof in
+the chaptre of Acetum. 
+</xpln>
+<lemenote>
+Early Spanish form not found in OED.
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="pore(n)">
+Pores</form> <xpln lang="en">be the small swete holes / where
+through the <emend err="sw ete">swete</emend> doth yssewe. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="paralysis(n)">
+&#182; Paralisis</form> <xpln lang="en">is in maner the same dyseas
+
+
+
+
+</page>
+
+<page sig="dd3r">
+
+as before is spoken of in <expan type="">the</expan> chapiter of apo<emend err="">&#173;</emend>
+plexi. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="podagra(n)">
+&#182; Podagre</form> <xpln lang="en">is spok<expan type="">en</expan> of before in artetyke
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polyp(n)">
+Polope</form> <xpln lang="en">is a flesshe as yf it were cleft in <expan type="">the</expan>
+nose and it stoppe<emend err="sh">th</emend> the nose / it is comonly
+fowle flesshe and stynkynge and maketh
+the nose for to stynke. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="penetrative(a)">
+&#182; Penetratyue</form> <xpln lang="en" lexeme="perseant(a)">is whan a medycyne is of
+suche vertue and strength that it perceth
+lyghtly vnto the perfo<expan type="">un</expan>dnes of the body.
+Vyneygre is very penetratyfe wherfore
+it is oftentymes myxted and put in many
+medycynes bycause it sholde <expan type="">the</expan> soner entre
+in to the body of the parsone as before is
+sayd in ptysys. It is all one thynge whan
+ye fynde in medycynes penetratyfe or per<emend err="">&#173;</emend>
+cant. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pessary(n)">
+&#182; Pessarya</form> <xpln lang="en">is whan a woman is seke of <expan type="">the</expan>
+Moder / than is put in to the matryx a me&#173;
+dycyne of clere substaunce / the name of <expan type="">the</expan>
+instrument and of the medycyne bothe be
+named pessayre or pessaria. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="picula(n)">
+Picula</form> <xpln lang="en" lexeme="pitch(n)">is clere pitche as before is spoken
+of in the chapter of piche. 
+</xpln>
+<lemenote>
+"Picula" seems to be a Latin form (not in the OED).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pilitis artitico(n)">
+&#182; Pilitis Artitico</form> <xpln lang="en"> / is an electuary to be
+had in the apotycaryes. 
+</xpln>
+<lemenote>
+Obscure.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pleurosis(n)">
+Pleurosis</form> <xpln lang="en" lexeme="apostumation(n)">is spoken of in apostumacyon
+engendred in <expan type="">the</expan> skynne or flece that is vp<expan type="">on</expan> 
+<expan type="">the</expan> rybbes as is before sayde in dyafragma
+</xpln>
+<lemenote>
+"pleurosis" appears to be a Latin form for "pleurisy"; "apostumation" antedates the earliest OED citation (1545). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ponticity(n)" lexeme="pontic(n)">
+&#182; Ponticite or pontyke</form> <xpln lang="en" lexeme="styptic(n)" lexeme="stypticity(n)">is a sowre sauour 
+ponticite and stipticite or pontyke or styp&#173;
+tyke is all one / sauynge that pontyke hath
+a sharpe sauour in sournesse / yet styptyke
+hath more sournesse / all thynges what ma<emend err="">&#173;</emend>
+ner of sauour it hath that reioyneth or clo<emend err="">&#173;</emend>
+seth membe<emend err="">r</emend>s enlarged or rarefyed is na&#173;
+med styptyke. 
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="resouder(n)" lexeme="consolider(n)">
+Resouder / or consolyder</form> <xpln lang="en">is all one/for it
+is a reioynynge of woundes as before is
+sayde in Conglutynacyon. 
+</xpln>
+<lemenote>
+Neither the French nor the Latin form is in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resolver(n)">
+&#182; Resoluer</form> <xpln lang="en">is a sperplynge of humours or
+ventosytes &#38; putteth them out of the body
+insencybly of subtyll vapour. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reprimed(a)">
+&#182; Reprimed</form> <xpln lang="en">is a rebateyng of the force or
+sharpnesse of a medycyne that is to vyol<expan type="">en</expan>t. 
+</xpln>
+<lemenote>
+The past participle of OED, "reprime," v.1, but antedating its first citation (c1550).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="relaxing(n)">
+&#182; Relaxyng</form> <xpln lang="en" lexeme="mollifying(n)">is a <emend err="moll yfyeng">mollyfyeng</emend> or softenyng
+of a membre so longe tyll it leseth his clo&#173;
+synge or temperate hardnesse that it ought
+to haue / and therfore <emend err="v">w</emend>h<expan type="">an</expan> the skynne that
+encloseth the <emend err="bowell ys">bowellys</emend> whiche is molyfy<emend err="">&#173;</emend>
+ed or onbent so moche that it descendyth in
+to the haunches that is a partie of the bely
+than it is sayd that the same parsone is re&#173;
+laxed / and whan the stomake is remolyfy<emend err="">&#173;</emend>
+ed than it is sayd that it is relaxed. 
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="squinancy(n)">
+Squinancie</form> <xpln lang="en">is an impostume in <expan type="">the</expan> throte
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syrop(n)">
+&#182; Sirop</form> <xpln lang="en">is a maner of a drynke and is a
+remedy for sekenesses and it is clere / but it
+is nat an ordynate drynke / for ptysane is
+no syrope / for in syrope is alway sugre or
+hony. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tisane(n)">
+&#182; Sincope</form> <xpln lang="en">is a swownynge/and sincopy&#173;
+sant is the same / whiche cometh thrugh
+dyseas and fayntnesse of the herte. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="serpigo(n)">
+&#182; Serpio</form> <xpln lang="en" lexeme="impetigo(n)">is a tetter whiche crepeth and
+breketh always / a tetter that dooth nat cre<emend err="">&#173;</emend>
+pe is named impetigo. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="soap(n)" lexeme="sapone(n)">
+&#182; Sapone or sope</form> <xpln lang="en">serueth for the same/
+loke the sayde chaptre. 
+</xpln>
+<lemenote>
+"Sapone" is an Italian form of the term.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="splenetic(n)">
+&#182; Splenetike</form> <xpln lang="en">is one <expan type="">that</expan> hath an euyl mylte
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="syringe(n)">
+Sirynge</form> <xpln lang="en">is an instrument or spowte with
+the whiche medycynes be put in to the c<expan type="">on</expan>&#173;
+duyte of the yarde. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suppository(n)">
+&#182; Supposytory</form> <xpln lang="en"> / is a longe thinge &#38; ro<expan type="">un</expan>d
+whiche <emend err="it">is</emend> put in the foundament for to set
+a clystery. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suffocation of the matrix(n)" lexeme="suffocation of the mother(n)">
+&#182; Suffocacyon of the matryce or moder</form> <xpln lang="en"> / 
+is whan a woman through euyll dysposy<emend err="">&#173;</emend>
+cyon of the matryce leseth her colour / ad&#173;
+uyce and remembraunce / and it is grete
+payne. This dyseas is named suffocacyon
+as dyuers doctours sayth bycause the ma&#173;
+tryce lyfteth hymselfe vp so sore <expan type="">that</expan> it dooth
+perce the herte and dyafragma. But it is
+better to beleue that it cometh of some ve&#173;
+nimous substaunce in the matryce whiche
+
+
+
+
+</page>
+
+<page sig="dd3v">
+
+causeth it to mounte alway towarde the
+herte and from thens it falleth a longe by
+the rybbes or downe ryght by the c<expan type="">on</expan>duyt. 
+</xpln>
+<lemenote>
+Antedates the first citation of both phrases in the OED (1578, 1603).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scinoche(n)">
+&#182; Scinoche</form> <xpln lang="en">is a feru<expan type="">en</expan>t hote ague caused
+of hote and rotyn blode. 
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="tenasmon(n)">
+Thenasmon</form> <xpln lang="en">/ is whan one goth alwaye
+to the draught and can do no thynge. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tuty(n)">
+&#182; Tutie</form> <xpln lang="en">is a thynge <expan type="">that</expan> dooth acte agaynst
+a forneys wherin metall hath ben foun&#173;
+ded or molten / there is ynough at the poty<emend err="">&#173;</emend>
+caryes &#38; is good for sore eyen / but it must
+be restreined.ix.tyme in a certayne water
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="phthisis(n)">
+Tisis</form> <xpln lang="en">is a percing of the lightes / for wh<expan type="">an</expan> 
+they be perced or greued than the pacyent
+spytteth blode day by day / and that is na&#173;
+med tisis. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tintimalos(n)" lexeme="tyntymans(n)">
+&#182; Tintimalos / or tyntymans</form> <xpln lang="en">is an herbe
+that hath a corosyue mylke. 
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="trosys(n)">
+&#182; Trosys</form> <xpln lang="en">be fygures all rounde and a ly&#173;
+tell flate. 
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="vanity of the ear(n)">
+Vanite of <expan type="">the</expan> eer</form> <xpln lang="en">is a thyng as yf it were
+a sowne contynuynge in the eer. 
+</xpln>
+<lemenote>
+Not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ver(n)">
+&#182; Ver</form> <xpln lang="en">that is pryme tyme.
+</xpln></wordentry>
+
+</wordgroup1>
+<wordgroup1 type="a" object="Y"><alpha>Y</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="iliac(n)">
+Yliaca</form> <xpln lang="en">is dolour and anguysshe in <expan type="">the</expan> bely
+aboue the n<expan type="">om</expan>bryles / and whan it is vnder
+the nombryle / than is the colyke. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyposarca(n)">
+&#182; Yposacre</form> <xpln lang="en">is spok<expan type="">en</expan> of in leucofleum<expan type="">an</expan>cie. 
+</xpln></wordentry>
+
+</wordgroup1>
+
+
+</page>
+</leme>
+

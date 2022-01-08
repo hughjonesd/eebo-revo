@@ -1,0 +1,178 @@
+<leme no="1431">
+<section type="Title-page">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 6 6 1 2 a . 7
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<heading>
+An Argument, 
+wherin the 
+appa&shy;
+raile 
+of 
+women is both 
+reproued and 
+defen&shy;
+ded.
+</heading>
+
+<term lang="la">ANNO MDLI.</term>
+</page>
+</section>
+
+<section type="Glossary">
+<page sig="d3r">
+
+<heading>
+A table of suche wordes 
+as the reder smally skilled, 
+shall not well perceiue.
+</heading>
+
+<wordgroup1 type="a">
+<wordentry type="h"><form lang="en">ASses,</form> <xpln lang="en">cometh of <term lang="la">as, assis</term>, a 
+small coyne amonge the Ro&shy;
+maynes .x. of them dyd coun&shy;
+trevayle our sterlyng grote. 
+fiue thousande amounteth to 
+viii. li. vi. s. viii. d. sterlyng.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Auentinus,</form> <xpln lang="en">an hill at Rome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bank(n)">Banke,</form> <xpln lang="en">is the place of exchange, or takyng 
+of money vpon interest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Capitol(pn)">Capitoll,</form> <xpln lang="en">was the fortresse and chiefe place 
+of Rome, where the Senate assembled in
+councell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="consul(n)">Consules,</form> <xpln lang="en">were two chiefe officers of the 
+citee of Rome, whiche were chosen euery 
+yere, and bare hyghest authoritee in the 
+common wealth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="censor(n)">Censor,</form> <xpln lang="en">a iudge of mens maners. Also such 
+one as was appoynted to value mens 
+goodes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colony(n)">Colonies</form> <xpln lang="en">were certaine nombres of people 
+sent out of Rome to inhabite the coun&shy;
+treis conquered by theim.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="curule(n)">Curules,</form> <xpln lang="en">were little cartes or dreies, ha&shy;
+uyng in theim chaiers of yuory, wherin 
+there satte certayne officers, whiche had 
+the charge and ouersyght of the buildyn&shy;
+<emend err="dyn"></emend>ges in Rome: sometyme it is vsed for
+</page>
+
+<page sig="d3v">
+the same officers.</xpln>
+<lemenote>
+"Curules" antedates the OED first occurrence (1695).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="holy(a)" lexeme="hill(n)">Holy hill,</form> <xpln lang="en">whan the people rebelled against 
+their rulers, they toke those places for 
+their strength: and kept them till they had 
+their willes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Idea(pn)">Idea,</form> <xpln lang="en">the mother of the goddes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mercenarii,</form> <xpln lang="en">hyred souldiours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="matron(n)">Matrones,</form> <xpln lang="en">were the citesyns wyues of 
+Rome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Martius Coriolanus,</form> <xpln lang="en">a noble Romayne, 
+who beyng vnkyndely exiled out of his 
+countrey, prouoked a people cald <term lang="la">Volsci</term> 
+to warre against them: and woulde by no 
+meane be pacified: but by the onely in&shy;
+treatie of his mother, that made him re&shy;
+tire from his enterprise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="praetor(n)">Pretor,</form> <xpln lang="en">in the olde tyme was euery officer, 
+that had the rule of any army. Afterward 
+he that had iudicial authoritee, as it were 
+the chiefe iudge, and had other iudges sit&shy;
+tyng vnder him.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Phrigia(pn)">Phrygia,</form> <xpln lang="en">a realme in Asia the lesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pyrrhus(pn)">Pyrrhus,</form> <xpln lang="en">a king of Epyre, that made warre
+to the Romaynes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="publican(n)">Publicanes,</form> <xpln lang="en">were certayne fermours that 
+toke the customes and other publike re&shy;
+uenues in fee ferme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="public(n)">Publike,</form> <xpln lang="en">is as much to say, as the common.</xpln>
+<lemenote>
+"Publike" as a noun antedates the first OED citation in this sense ("public," adj. and n., B.n.2a).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Punic(a)" lexeme="war(n)">Punike warres,</form> <xpln lang="en">were the warres betwene 
+the Carthaginenses and the Romaynes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Siracusa,</form> <xpln lang="en">a notable citee in Sicilia, called 
+at this daie Sarragose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Sabine(pn)">Sabines</form> <xpln lang="en">were a people dwellyng neere
+</page>
+
+<page sig="d4r">
+Rom<damage>e                              ynes</damage>
+(hauy<damage>                              </damage>) raui&shy;
+shed, for encr<damage>                 </damage>cion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="suffrage(n)">Suffrages,</form> <xpln lang="en">the<damage>                 </damage>sembled, 
+in geuyng their <damage>As</damage>sent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tribune(n)">Tribunes,</form> <xpln lang="en">were certayne officers ordeyned 
+as proctours for the common people to 
+mainteyne the peoples libertee.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tribunicial(a)" lexeme="sedition(n)">Tribuniciall sedicion,</form> <xpln lang="en">sedicion sturred vp 
+by the Tribunes in the behalfe of the 
+people.</xpln>
+<lemenote>
+"Tribunicial" antedates the first OED citation (1598). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tribe(n)">Tribe,</form> <xpln lang="en">a warde, a part of the people, some&shy;
+tyme diuided in three partes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Volsci,</form> <xpln lang="en">were a people of Italie, enemies to 
+the Romaines.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+<term lang="la">FINIS TABVLAE.</term>
+</closing>
+</section>
+</page>
+
+<page sig="d4v">
+<section type="Colophon">
+IMPRINTED AT 
+London in Fletestrete, in the 
+house of Thomas 
+Berthelet.
+
+<term lang="la">Cum priuilegio ad impri&shy;
+mendum solum.</term>
+</section>
+</page>
+
+</leme>

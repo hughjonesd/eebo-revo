@@ -1,0 +1,154 @@
+<leme no="178">
+
+<page sig="[a1r]">
+The first booke of 
+Cattell: 
+Wherein is shewed the gouernment of
+<i>Oxen, Kine, Calues, and how to vse Bulles and</i>
+other cattell to the yoake, and fell. With diuers ap&shy;
+proued remedies, to helpe most diseases among cat&shy;
+tell: most necessarie for all, especially for hus&shy;
+band men, hauing the gouernment of 
+any such cattell.
+
+Gathered and set forth by Leonard Mascall.
+
+<lemeformat>
+Thou Heardman, keeper of thy beastes,
+    when any beast is sickly:
+Search herein, and thou shalt find,
+    of proued remedies quickly,
+</lemeformat>
+
+London
+Printed by Iohn Wolfe,
+1587.
+</page>
+
+<page no="163">
+<heading>
+To know where these diseases do grow
+on Horse bodies.
+</heading>
+
+<wordgroup1>
+<wordentry type="d"><form lexeme="bag(n)" lang="en">BAgges,</form> <xpln lang="en">is in the wekes of the horse mouth. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="barb(n)" lang="en">Barbes,</form> <xpln lang="en">are two teates growing vnder the toong. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="bot(n)" lang="en">Bottes</form> <xpln lang="en">doe breed in the maw, and guttes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="blister(n)" lang="en">Blister,</form> <xpln lang="en">on his bodie commeth with heate and cold. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="camery(n)" lang="en">Camery,</form> <xpln lang="en">is in his mouth venomed. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="colt-evil(n)" lang="en">Colt euil,</form> <xpln lang="en">is a swelling of the coddes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="cleaving(n)" lang="en">Clouing,</form> <xpln lang="en">is in the hoofe of the feete. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="cords(n)" lang="en">Cordes,</form> <xpln lang="en">is a slacke sinow on the sore legges. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="curb(n)" lang="en">Curbe,</form> <xpln lang="en">is a swelling sinow, behinde the hough. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="cratch(n)" lang="en">Craches,</form> <xpln lang="en">is a rough scuruines aboue the fetter locke. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="interfering(n)" lang="en">Enterfeering,</form> <xpln lang="en">is striking on the ioynt aboue the pastorne. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="farcin(n)" lang="en">Facion,</form> <xpln lang="en">is a scabbe or knobbes breaking in diuers places of 
+his bodie. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="fever(n)" lang="en">Feuer,</form> <xpln lang="en">is a sicknes taken with cold, &amp; wil make him shake. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="fistula(n)" lang="en">Fistula,</form> <xpln lang="en">is a deepe rotten vlcer on his bodie. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="founding(n)" lang="en">Founding,</form> <xpln lang="en">is taken by cold in the bodie, and feete also. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="fraying(n)" lang="en">Fraying,</form> <xpln lang="en">is a stifnesse (taken with cold) in his legs and feet. </xpln>
+<lemenote>
+"fraying" not found in OED in this sense.
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lexeme="frounce(n)" lang="en">Frounce,</form> <xpln lang="en">is pimples in the pallet of his mouth. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="flap(n)" lexeme="gigs(n)" lang="en">Giges or flappes,</form> <xpln lang="en">is pimples or teates in the in side of his
+mouth. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="glanders(n)" lang="en">Glanders,</form> <xpln lang="en">are kirnels vnder his iawes, and when they be
+ripe, they wil run at the nose, and there breake out. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="gorge(n)" lang="en">Gorge,</form> <xpln lang="en">is a swelling of blood in the legges. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="gravelling(n)" lang="en">Graueling,</form> <xpln lang="en">is taken in the feete. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="haw(n)" lang="en">Haw,</form> <xpln lang="en">is a gristle on the corner of his eyes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="hidebound(a)" lang="en">Hide bound,</form> <xpln lang="en">is when the skin cleaueth to the flesh and ribs. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="hoof-bound(a)" lang="en">Hoofe bound,</form> <xpln lang="en">is in pinching of the hoofe. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="itch(n)" lang="en">Itch,</form> <xpln lang="en">is first in the taile, by excesse of blood. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="lampas(n)" lang="en">Lampasse,</form> <xpln lang="en">is hie flesh in the mouth, nigh the vpper teeth. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="mange(n)" lang="en">Maunge,</form> <xpln lang="en">is taken by some venomed scabbe or byting. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="mallender(n)" lang="en">Malender,</form> <xpln lang="en">is a scabbe in the bought of the knees. </xpln></wordentry>
+</page>
+
+<page no="164">
+<wordentry type="d"><form lexeme="moltlong(n)" lang="en">Matelong,</form> <xpln lang="en">is pinching of a strait hoofe. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="mourning of the chine(n)" lang="en">Mourning of the chine,</form> <xpln lang="en">is a wasting from the backe. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="navek-gall(n)" lang="en">Nauelgaull,</form> <xpln lang="en">is a sore on the backe against the nauel. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="pain(n)" lang="en">Paines,</form> <xpln lang="en">is a sorenes aboue the hoofe. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="poll evil(n)" lang="en">Pole euil,</form> <xpln lang="en">is on the nape of the necke, bred by stripes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="pin and web(n)" lang="en">Pinne and webbe,</form> <xpln lang="en">is a white that couereth the corner of the 
+eie sight. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="rheum(n)" lang="en">Reume,</form> <xpln lang="en">is taken by cold, and so his teethe wil wax lose, and
+seeme long, by shrinking vp of his gummes, and then hee
+can eate no meate, but lye in lumpes in his iawes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="kingbone(n)" lang="en">Kingbone,</form> <xpln lang="en">is a hard rough gristle aboue the hoofes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="quinsy(n)" lang="en">Quinsie,</form> <xpln lang="en">is a sorenes in the throat. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="sallender(n)" lang="en">Selander,</form> <xpln lang="en">is a scabbe in the hammes on the hinder legges. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="shackle gall(n)" lang="en">Shakel gall,</form> <xpln lang="en">is on the pastornes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="spavin(n)" lang="en">Spauin,</form> <xpln lang="en">is on the ioynt in the houghes behinde. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="splint(n)" lang="en">Splent,</form> <xpln lang="en">is a sprainde swelling sinowe aboue the fetter&shy;
+locke. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="stagger(n)" lang="en">Staggers,</form> <xpln lang="en">is a disines in the head, bredde of colde, and yea-&shy;
+lowes. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="strangles(n)" lang="en">Strangle,</form> <xpln lang="en">is a swelling in the throat. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="surbating(n)" lang="en">Surbatting,</form> <xpln lang="en">is vnder the soles of his feete. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme=t(n)" lang="en">Taint,</form> <xpln lang="en">is an ouerreaching of the hinder feete on the farther
+side. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="vives(n)" lang="en">Viues,</form> <xpln lang="en">is certaine kirnels beneath the horse eares. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="windgall(n)" lang="en">Windgalles,</form> <xpln lang="en">are bladders aboue the fetter lock on both sides
+of all his foure feete. </xpln></wordentry>
+
+<wordentry type="d"><form lexeme="yellows(n)" lang="en">Yealowes,</form> <xpln lang="en">is a kinde of iaundise, and wil cause the eyes to
+looke yealow, and other partes of his bodie also. </xpln></wordentry>
+</wordgroup1>
+</page>
+
+</leme>
+
+
+
+

@@ -1,0 +1,234 @@
+<leme no="1558">
+
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+G r e g o r y  M a r t i n ' s  N e w  T e s t a m e n t  ( 1 6 0 0 )
+S T C  6 4 0 4
+v e r . 1 . 0 ( 2 0 2 1 )
+</term>
+</lemepagenote>
+
+<page sig="d4r"> 
+
+<section type="Glossary">
+<term lang="en">
+<heading>
+THE EXPLICATION OF CERTAINE
+WORDS IN THIS TRANSLATION, NOT
+familiar to the vulgar Reader, which might
+not conueniently be vttered otherwise.
+</heading>
+</term>
+
+<wordgroup1 object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="en" lexeme="abstracted(a)">ABstracted,</form> <xpln lang="en" lexeme="draw(v)">Drawen away. pag. 642.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="acquisition(n)">Acquisition,</form> <xpln lang="en" lexeme="getting(n)" lexeme="purchasing(n)">Getting, purchasing. 
+pag. 514.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="advent(n)">Aduent,</form> <xpln lang="en" lexeme="coming(n)">The comming. pag. 69. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adulterating(a)">Adulterating,</form> <xpln lang="en" lexeme="corrupting(n)">Corrupting. See pag. 475.
+478. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="agnetion(n)">Agnetion,</form> <xpln lang="en" lexeme="knowledge(n)" lexeme="acknowledging(n)">knowledge or acknowledging.
+pag. 600. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="allegory(n)">Allegorie,</form> <xpln lang="en" lexeme="mystical(a)" lexeme="speech(n)" lexeme="bare(a)" lexeme="letter(n)">a Mystical speache, more then
+the bare letter. p. 505. See the Annot.
+pag. 508. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="amen(ex)">Amen,</form> <xpln lang="en" lexeme="expounded(a)">expounded, pag. 244. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="anathema(n)">Anathema,</form> <xpln lang="en" lexeme="expounded(a)">expounded, pag. 450. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ancient(n)">Auncients,</form> <xpln lang="en" lexeme="expounded(a)">expounded, p. 334. and. 664. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="archisynagogue(n)">Archisynagogue,</form> <xpln lang="en" lexeme="expounded(a)">expounded, pag. 99. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="assist(v)">Assist, pag. 135.</form> <xpln lang="en" lexeme="signify(v)" lexeme="angel(n)" lexeme="standing(n)" lexeme="attending(n)" lexeme="ministry(n)">signifieth the Angels stan<emend err="">&shy;</emend>
+ding and attending, alwaies readie to
+doe their ministerie. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="assumption(n)">Assumption, p. 105.</form> <xpln lang="en" lexeme="departure(n)" lexeme="world(n)" lexeme="ascension(n)">Christs departure out
+of this world by his death &amp; Ascensi<expan type="o+_">on</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="azyme(n)">Azymes,</form> <xpln lang="en" lexeme="unleavened(a)" lexeme="bread(n)">Vnleauened bread. pag. 75. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="Calumniate(v)">Calumniate,</form> <xpln lang="en" lexeme="word(n)" lexeme="signify(v)" lexeme="violent(a)" lexeme="oppression(n)" lexeme="deed(n)" > By this word is signified vio&shy;
+lent oppressi<expan type="o+_">on</expan> by word or deede. P. 143. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Catechize(v)">Catechizeth, and Catechized. pag. 510. </form> <xpln lang="en" lexeme="catechizeth(v)" lexeme="teacheth(v)" lexeme="principle(n)" lexeme="Christian(n)" lexeme="faith(n)" lexeme="hear(n)" lexeme="learn(n)" lexeme="annotation(n)" lexeme="catechumen(n)"> He
+catechizeth that teacheth the princi&shy;
+ples of the Christian faith and they
+that heare and learne, are catechized,
+&amp; are therfore called often in the An&shy;
+notations, Catechumens.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Character(n)">Character,</form> <xpln lang="en" lexeme="mark(n)" lexeme="stamp(v)" > a marke of stampe. pag. 723.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme=""> Colonia,</form> <xpln lang="en" lexeme="expounded(a)"> expounded. page 34.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Commesation(n)">Commessations,</form> <xpln lang="en" lexeme="Immoderate(a)" lexeme="banker(n)" lexeme="belly(n)" lexeme="cheer(n)" lexeme="wanton(a)" lexeme="riotous(a)"  > Immoderate bankers, and 
+belly cheere, with wanton riotousnes. pag. 509.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Concision(n)">Concision,</form> <xpln lang="en" lexeme="expounded(a)"> expounded.  pag. 530.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Condign(a)"> Condigne,</form> <xpln lang="en" lexeme="comparable(a)"> comparable. pag. 409.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Contristate(v)">Contristate,</form> <xpln lang="en" lexeme="word(n)" lexeme="signify(v)" lexeme="make(v)" lexeme="heavy(a)" lexeme="sad(a)"> This word signifieth to make
+heauie and sad. pag.501.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Co-operate(v)">Cooperate,</form> <xpln lang="en" lexeme="signify(v)" lexeme="work(v)" lexeme="like-wise(adv)" lexeme="co-operation(n)"> signifieth working with
+others. pag. 401. likewise Cooperation,
+Cooperatours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Corbana(n)">Corbana,</form> <xpln lang="en" lexeme="Expounded(a)"> Corbana, Expounded. pag. 80.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="en" lexeme="Depositum(n)">Depositum, p. 582. </form> <xpln lang="en"  lexeme="signify(v)" lexeme="grace(n)" lexeme="give(v)" lexeme="keep(v)">See the Annot. p. 584.
+It may signifie also, Gods graces giuen
+vs to keepe, pag. 587. v. 14. Also v. 12.
+ibid. See the Annot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Didrachm(n)">Didrachme, </form> <xpln lang="en" lexeme="expounded(a)"> expounded. pag. 49.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Dominical(a)" lexeme="day(n)">Dominical day, </form> <xpln lang="en" lexeme="Sunday(n)"> Sunday, See Annot.
+pag. 701. 702.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Donary(n)">Donaries,</form> <xpln lang="en" lexeme="gift(n)" lexeme="offer(v)" lexeme="temple(n)"> giftes offered to God for his
+Temple, &amp;c. 199.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="Euacuate(v)" lexeme="Christ(n)">Euacuated from Christ, </form> <xpln lang="en"  lexeme="made(v)" lexeme="void(a)" lexeme="part(a)"> that is, Made
+voide and hauing no part with him.
+pag. 508.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cross(n)" lexeme="evacuated(v)" lexeme="void(a)" lexeme="clean(v)" lexeme="take(v)" lexeme="away(a)" lexeme="scandal(n)">The scandal of the crosse euacuated,</form> <xpln lang="en">
+that is, made voide, cleane tak<expan type="e+_">en</expan>  away.
+<term lang="la"> ibidem.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Evangelize(v)">Euangelize,</form> <xpln lang="en"  lexeme="signify(v)" lexeme="preach(v)" lexeme="good(a)" lexeme="tidings(n)" lexeme="concern(v)" lexeme="Gospel(n)" lexeme="preface(n)"> signifieth such preaching of
+good tidinges, as concerneth the Go&shy;
+spel. See the Preface.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Eunuch(n)">Eunuches,</form> <xpln lang="en" lexeme="geld(v)" lexeme="men(n)">gelded men. pag. 54.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Euraquilo(n)">Euro-aquilo,</form> <xpln lang="en" lexeme="north(v)" lexeme="east(n)" lexeme="wind(n)">A north-eastwinde. p.368.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Exinanite(v)">Exinanited,</form> <xpln lang="en" lexeme="abase(v)" lexeme="exceeding(a)"> abased excedingly. p. 528.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en" lexeme="gratis(adv)">Gratified,</form> <xpln lang="en"  lexeme="made(v)" lexeme="gracious(a)" lexeme="induce(v)" lexeme="grace(n)">made gracious, indued with
+grace. pag. 513.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gratis(adv)">Gratis,</form> <xpln lang="en"  lexeme="usual(a)" lexeme="word(n)" lexeme="signify(v)" lexeme="nothing(a)" lexeme="free(a)" lexeme="God-a-mercy(n)" lexeme="desert(v)">an vsual word to signifie, for no&shy;
+thing, freely, for Godamercie, without
+desert. pag.25.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en" lexeme="Holocaust(n)">Holocauste,</form> <xpln lang="en"  lexeme="kind(n)" lexeme="sacrify(v)" lexeme="burn(v)" lexeme="honour(n)">a kinde of sacrifice where al
+was burnt in the honour of God.
+pag. 625.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Host(n)">Hostes,</form> <xpln lang="en"  lexeme="sacrify(v)">sacrifices. pag. 445.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en" lexeme="Invocate(v)">Inuocated, </form> <xpln lang="en"  lexeme="call(v)" lexeme="pry(v)" lexeme="say(v)">called vpon, pried vnto. p.316.
+Hereof we say, Inuocation of Saincts, &amp;
+to inuocate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Issue(n)">Issue,</form> <xpln lang="en"  lexeme="good(a)" lexeme="event(n)">good euent. pag. 445.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Justice(n)"> Iustice,</form> <xpln lang="en"  lexeme="take(v)" lexeme="testament(n)" lexeme="contrary(a)" lexeme="wrong(a)" lexeme="injury(n)" lexeme="quality(n)" lexeme="just(a)" lexeme="justified(a)"> taken in the new Testament, not
+as it is c<expan type="">on</expan>trarie to wr<expan type="">on</expan>g or iniurie, but 
+for that qualitie whereof a man is iust
+and iustified. pag. 391</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="en" lexeme="neophyte(n)">Neophyte,</form> <xpln lang="en" lexeme="expounded(a)">expounded. page. 569.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="Paraclete(n)">Paraclete,</form> <xpln lang="en" lexeme="expounded(a)">expounded. page. 260.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="Parasceve(n)">Parasceue,</form> <xpln lang="en" lexeme="good(a)" lexeme="friday(n)" lexeme="preface(n)"> the Iewes Sabboth-cue, Good
+friday. p. 130. v. 43. See the Preface.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pasch(n)">Pasche,</form> <xpln lang="en" lexeme="easter(n)" lexeme="paschal(a)">Easter, and, the Paschal Iambe. 
+pag. 201.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pentecost(n)">Pentecost,</form> <xpln lang="en" lexeme="whitsuntide(n)" lexeme="space(n)" lexeme="day(n)">whitsuntide &amp;, the space of fif&shy;
+tie daies. page. 295. 467.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prefinition(n)">Prefinition,</form> <xpln lang="en" lexeme="determination(n)"> determinari<expan type="o+_">on</expan> before. p. 517.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prepuce(n)">Prepuce,</form> <xpln lang="en" lexeme="expounded(a)"> expounded. pag. 387.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Pasch(n)">Pasche,</form> <xpln lang="en" lexeme="easter(n)" lexeme="paschal(a)">Easter, and, the Paschal Iambe. 
+pag. 201.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prescience(n)">Prescience,</form> <xpln lang="en" lexeme="foreknowledge(n)">foreknowledge. pag. 294.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prevaricator(n)">Preuaricatour,</form> <xpln lang="en" lexeme="transgressor(n)" lexeme="prevarication(n)">transgressor: and preuarica&shy;
+tion, transgression. pag. 386. 387.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loaf(n)" lexeme="proposition(n)">Loaues of Proposition, </form> <xpln lang="en" lexeme="call(v)" lexeme="propose(v)" lexeme="table(n)" lexeme="Temple(n)">so called, because
+they were proposed and set vpon the
+table in the Temple, before God.
+pag.31.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en" lexeme="repropitiate(v)" lexeme="sinne(n)">Repropitiate the sinnes.</form><xpln lang="en" lexeme="reconcilation(n)">pag. 605. that is,
+make a reconcilation for them.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resolution(n)">Resolution,</form><xpln lang="en" lexeme="separation(n)" lexeme="body(n)" lexeme="soul(n)" lexeme="depat(n)" lexeme="life(n)"> the separation of the body and
+the soule, the departing out of this li&shy;
+fe. pag. 592.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="resuscitate(v)" lexeme="grace(v)">Resuscitate the grace,</form><xpln lang="en" lexeme="raise(v)" lexeme="quicken(v)" lexeme="renew(v)" lexeme="revive(v)" lexeme="languish(v)" lexeme="decay(v)" >that is, Raise, quic&shy;
+ken, renew and reviue the grace which
+otherwise languisheth and decaieth.
+pag. 586.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="sabbatism(n)">Sabbatisme,</form><xpln lang="en" lexeme="rest(v)" lexeme="cease(v)" lexeme="labour(n)" >A time of resting and ceasing
+from labours. pag. 607.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sacrament(n)">Sacrament,</form><xpln lang="en" lexeme="mystery(n)">for mysterie. pag. 513.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sanctum sanctorum(n)">Sancta Sanctorum, </form><xpln lang="en" lexeme="holy(a)" lexeme="inmost(a)" lexeme="Jew(n)" lexeme="temple(n)" lexeme="chancel(n)">The holies of holies,
+that is, the inmost and holiest place
+of the Iewes Temple, as it were the
+Chauncel. pag. 621.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="senior(n)">Seniors,</form><xpln lang="en" lexeme="expound(v)">expounded. pag. 664.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="superedify(v)">Superedified,</form><xpln lang="en" lexeme="build(v)" lexeme="principal(n)" lexeme="stone(n)">Builded vpon Christ the prin&shy;
+cipal stone. pag. 657.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="tetrach(n)">Tetrarch,</form><xpln lang="en" lexeme="governor(n)" lexeme="prince(n)" lexeme="country(n)">Gouernour or Prince of the 4
+part of a countrie. pag. 38.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throne(n)">Thrones,</form><xpln lang="en" lexeme="high(a)" 
+lexeme="order(v)" lexeme="angel(n)">an higher order of Angels.
+pag. 537.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="victim(n)">Victims,</form><xpln lang="en" lexeme="sacrifice(n)">Sacrifices. pag.308.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>

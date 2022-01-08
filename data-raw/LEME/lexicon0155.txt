@@ -1,0 +1,414 @@
+
+<leme no="155">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 4 6 9 9 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Title-page">
+A SHORTE AND 
+briefe narration of the two 
+Nauigations and Discoueries 
+to the Northweast partes called 
+NEWE FRAVNCE:
+
+First translated out of French into Italian, by that famous 
+learned man Gio: Bapt: Ramutius, and now turned 
+into English by Iohn Florio: Worthy the rea&#173;
+ding of all Venturers, Trauellers, 
+and Discouerers.
+
+IMPRINTED AT LON&#173;
+don, by H. Bynneman, dwelling 
+in Thames streate, neere vnto 
+Baynardes Castell.
+
+Anno Domini. 1580.
+</section>
+
+</page>
+
+<page no="27">
+<section type="1534 Vocabulary of New France">
+<heading>
+The language that is spoken in the Land newly disco&#173;
+uered, called new Fraunce.
+</heading>
+
+<wordgroup1 type="u">
+<wordentry type="h"><form lang="en" lexeme="God(n)">God</form> <xpln lang="lt"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sun(n)">the Sunne</form> <xpln lang="lt">Isnetz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heaven(n)">the Heauen</form> <xpln lang="lt">camet</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="day(n)">the Day</form> <xpln lang="lt"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="night(n)">the Night</form> <xpln lang="lt">aiagla</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">Water</form> <xpln lang="lt">ame</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sand(n)">Sand</form> <xpln lang="lt">estogatz</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sail(n)">a Sayle</form> <xpln lang="lt">aganie</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="head(n)">the Head</form> <xpln lang="lt">agonaze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throat(n)">the Throate</form> <xpln lang="lt">conguedo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nose(n)">the Nose</form> <xpln lang="lt">hehonguesto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="teeth(n)">the Teeth</form> <xpln lang="lt">hesangne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)">the Nayles</form> <xpln lang="lt">agetascu</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foot(n)">the Feete</form> <xpln lang="lt">ochedasco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)">the Legges</form> <xpln lang="lt">anoudasco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dead man(n)">a dead man</form> <xpln lang="lt">amocdaza</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skin(n)">a Skinne</form> <xpln lang="lt">aionasea</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)">that Man</form> <xpln lang="lt">yca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hatchet(n)">a Hatchet</form> <xpln lang="lt">asogne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="green(a)" lexeme="fish(n)">greene Fish</form> <xpln lang="lt">gadagoursere </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="good(a)" lexeme="eaten(a)">good to be eaten</form> <xpln lang="lt">guesande</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">Flesh</form> <xpln lang="lt"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="almond(n)">Almonds</form> <xpln lang="lt">anougaza</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fig(n)">Figges</form> <xpln lang="lt">asconda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gold(n)">Gold</form> <xpln lang="lt">henyosco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="privy members(n)">the priuie members</form> <xpln lang="lt">assegnega</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arrow(n)">an Arow</form> <xpln lang="lt">cacta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="green(a)" lexeme="tree(n)">a greene Tree</form> <xpln lang="lt">haueda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="earthen(a)" lexeme="dish(n)">an earthen dish</form> <xpln lang="lt">audaco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bow(n)">a Bow</form> <xpln lang="lt"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brass(n)">Brasse</form> <xpln lang="lt">aignetaze</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brow(n)">the Brow</form> <xpln lang="lt">ansce</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feather(n)">a Feather</form> <xpln lang="lt">yco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moon(n)">the Moone</form> <xpln lang="lt">casmogan</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="earth(n)">the Earth</form> <xpln lang="lt">conda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wind(n)">the Winde</form> <xpln lang="lt">canut</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rain(n)">the Rayne</form> <xpln lang="lt">onnoscon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">Bread</form> <xpln lang="lt">cacacomy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea(n)">the Sea</form> <xpln lang="lt">a met</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ship(n)">a Shippe</form> <xpln lang="lt">casaomy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)">a Man</form> <xpln lang="lt">vndo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hair(n)">the Heares</form> <xpln lang="lt">hoc hosco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)">the Eyes</form> <xpln lang="lt">ygata</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouth(n)">the Mouth</form> <xpln lang="lt">hache</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ear(n)">the Eares</form> <xpln lang="lt">hontasco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arm(n)">the Armes</form> <xpln lang="lt">agescu</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woman(n)">a Woman</form> <xpln lang="lt">enrasesco</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sick(a)" lexeme="man(n)">a sicke Man</form> <xpln lang="lt">alouedeche</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoe(n)">Shoes</form> <xpln lang="lt">atta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="skin(n)" lexeme="cover(v)" lexeme="man(n)" lexeme="privy members(n)">a Skin to couer a 
+m<expan type="">an</expan>s priuy m<expan type="">em</expan>bers</form> <xpln lang="lt">ouscozon vondico</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red(a)" lexeme="cloth(n)">red cloth</form> <xpln lang="lt">cahoneta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knife(n)">a Knife</form> <xpln lang="lt">goheda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mackerel(n)">a Macrell</form> <xpln lang="lt">agedoneta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nut(n)">Nuttes</form> <xpln lang="lt">caheyra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="apple(n)">Apples</form> <xpln lang="lt">honesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bean(n)">Beanes</form> <xpln lang="lt">sahe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sword(n)">a Swoord</form> <xpln lang="lt">achesco</xpln></wordentry>
+</wordgroup1>
+</section>
+
+</page>
+
+<page no="78">
+<section type="1535 Vocabulary of Hochelaga and Canada (New France)">
+<heading>
+Here foloweth the language of the Country, and Kingdomes 
+of Hochelaga and Canada, of vs called Newe Fraunce: 
+But firste the names of theyr Numbers.
+</heading>
+<wordgroup1 type="u" object="Numbers">
+<wordentry type="h"><form lang="lt">Secada.</form> <xpln lang="en" lexeme="one(n)">1</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Tigneni.</form> <xpln lang="en" lexeme="two(n)">2</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Hasche.</form> <xpln lang="en" lexeme="three(n)">3</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Hannaion.</form> <xpln lang="en" lexeme="four(n)">4</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Ouiscon.</form> <xpln lang="en" lexeme="five(n)">5</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Indahir.</form> <xpln lang="en" lexeme="six(n)">6</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Aiaga.</form> <xpln lang="en" lexeme="seven(n)">7</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Addigue.</form> <xpln lang="en" lexeme="eight(n)">8</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Madellon,</form> <xpln lang="en" lexeme="nine(n)">9</xpln></wordentry>
+
+<wordentry type="h"><form lang="lt">Assem.</form> <xpln lang="en" lexeme="ten(n)">10</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page no="79">
+<heading>
+Here followe the names of the chiefest partes of man, and 
+other wordes necessarie to be knowen.
+</heading>
+<wordgroup1 type="u" object="Chief Parts of Man and Other Words">
+<wordentry type="h"><form lang="en" lexeme="head(n)">the Heade</form> <xpln lang="lt">aggonzi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brow(n)">the Browe</form> <xpln lang="lt">hergueniascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)">the Eyes</form> <xpln lang="lt">higata</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ear(n)">the Eares</form> <xpln lang="lt">abontascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mouth(n)">the mouth</form> <xpln lang="lt">esahe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tooth(n)">the Teeth</form> <xpln lang="lt">esgongai</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tongue(n)">the Tongue</form> <xpln lang="lt">osnache</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="throat(n)">the Throate</form> <xpln lang="lt">agonhon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beard(n)">the Bearde</form> <xpln lang="lt">hebelim</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="face(n)">the Face</form> <xpln lang="lt">hegouascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hair(n)">the heares</form> <xpln lang="lt">aganiscon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arm(n)">the Armes</form> <xpln lang="lt">atayascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flank(n)">the Flanckes</form> <xpln lang="lt">aissonne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stomach(n)">the Stomacke</form> <xpln lang="lt">aggruascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="belly(n)">the Bellie</form> <xpln lang="lt">eschehendo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="thigh(n)">the Thighes</form> <xpln lang="lt">hetnegradascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knee(n)">the Knees</form> <xpln lang="lt">agochinegodascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)">the Legges</form> <xpln lang="lt">agouguenehonde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foot(n)">the Feete</form> <xpln lang="lt">onchidascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hand(n)">the Handes</form> <xpln lang="lt">aignoascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="finger(n)">the Fingers</form> <xpln lang="lt">agenoga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)">the Nailes</form> <xpln lang="lt">agedascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)" lexeme="member(n)">a Mans member</form> <xpln lang="lt">ainoascon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woman(n)" lexeme="member(n)">a Womans member</form> <xpln lang="lt">castaigne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eel(n)">an Ele</form> <xpln lang="lt">esgueny</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snail(n)">a Snaile</form> <xpln lang="lt">vndeguezi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tortoise(n)">a Tortois</form> <xpln lang="lt">heuleuxime</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wood(n)">Wooddes</form> <xpln lang="lt">conda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leaf(n)" lexeme="trees(n)">leaues of Trees</form> <xpln lang="lt">hoga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="God(n)">God</form> <xpln lang="lt">cudragny</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)" lexeme="drink(n)">giue me some drincke</form> <xpln lang="lt">quazahoa quea</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)" lexeme="breakfast(v)">giue me to breakfast</form> <xpln lang="lt">quasa hoa quasca&#173;
+boa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)" lexeme="supper(n)">giue me my supper</form> <xpln lang="lt">quaza hoa quatfri<expan type="">an</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="let(v)" lexeme="go(v)" lexeme="bed(n)">let vs goe to bed</form> <xpln lang="lt">casigno agnyda hoa</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="man(n)">a Man</form> <xpln lang="lt">aguehum</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="woman(n)">a Woman</form> <xpln lang="lt">agruaste</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boy(n)">a Boy</form> <xpln lang="lt">addegesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wench(n)">a Wench</form> <xpln lang="lt">agniaquesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="child(n)">a Childe</form> <xpln lang="lt">exiasta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gown(n)">a Gowne</form> <xpln lang="lt">cabata</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="doublet(n)">a doublet</form> <xpln lang="lt">caioza</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hose(n)">Hosen</form> <xpln lang="lt">hemondoha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shoe(n)">Shoes</form> <xpln lang="lt">atha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shirt(n)">a Shirte</form> <xpln lang="lt">amgoua</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cap(n)">a Cappe</form> <xpln lang="lt">castrua</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="corn(n)">Corne</form> <xpln lang="lt">osizi</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">Breade</form> <xpln lang="lt">carraconny</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">Water</form> <xpln lang="lt">ame</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">Flesh</form> <xpln lang="lt">quahouasc<expan type="">on</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pace(n)">Paces.</form> <xpln lang="lt">queion</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="damson(n)">Damsons</form> <xpln lang="lt">honnesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fig(n)">Figges</form> <xpln lang="lt">absconda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grape(n)">Grapes</form> <xpln lang="lt">ozoba</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nut(n)">Nuttes</form> <xpln lang="lt">quahoya</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hen(n)">a Hen</form> <xpln lang="lt">sahomgahea</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lamprey(n)">a Lamprey</form> <xpln lang="lt">zisto</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="salmon(n)">a Salmon</form> <xpln lang="lt">ondacon</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="whale(n)">a Whale</form> <xpln lang="lt">ainne honne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="goose(n)">a Goose</form> <xpln lang="lt">sadeguenha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="street(n)">a Streete</form> <xpln lang="lt">adde</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cucumber(n)" lexeme="seed(n)">Cucumber seede</form> <xpln lang="lt">casconda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tomorrow(n)">to Morrow</form> <xpln lang="lt">achide</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="heaven(n)">the Heauen</form> <xpln lang="lt">quenhia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="earth(n)">the Earth</form> <xpln lang="lt">damga</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sun(n)">the Sunne</form> <xpln lang="lt">ysmay</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="moon(n)">the Moone</form> <xpln lang="lt">assomaha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="star(n)">the Starres</form> <xpln lang="lt">stgnehoh<expan type="">an</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wind(n)">the Winde</form> <xpln lang="lt">cohoa</xpln></wordentry>
+
+</page>
+
+<page no="80">
+<wordentry type="h"><form lang="en" lexeme="good morrow(ex)">good morrow</form> <xpln lang="lt">aignag</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="let(v)" lexeme="go(v)" lexeme="play(n)">let vs go to play</form> <xpln lang="lt">casigno caudy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="come(v)" lexeme="speak(v)">come &#38; speak with me</form> <xpln lang="lt">assigniquaddadia</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="look(v)">looke vpon me</form> <xpln lang="lt">quagathoma</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hold(v)" lexeme="peace(n)">Holde your peace</form> <xpln lang="lt">aista</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="let(n)" lexeme="go(v)" lexeme="boat(n)">let vs go with the boate</form> <xpln lang="lt">casigno casnouy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="give(v)" lexeme="knife(n)">giue me a knife</form> <xpln lang="lt">buazahca agoheda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hatchet(n)">a Hatchet</form> <xpln lang="lt">adogne</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bow(n)">a bowe</form> <xpln lang="lt">ahenca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dart(n)">a darte</form> <xpln lang="lt">quahetan</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="let(v)" lexeme="go(v)" lexeme="hunting(n)">let vs go a hunting</form> <xpln lang="lt">quasigno donnascat</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stag(n)">a Stagge</form> <xpln lang="lt">aionnesta</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheep(n)">a Sheepe</form> <xpln lang="lt">asquenondo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hare(n)">a Hare</form> <xpln lang="lt">Sourhanda</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog(n)">a Dogge</form> <xpln lang="lt">agayo</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="town(n)">a Towne</form> <xpln lang="lt">canada</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea(n)">the Sea</form> <xpln lang="lt">agogasy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wave(n)" lexeme="sea(n)">the waues of 
+the Sea</form> <xpln lang="lt">codra</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="island(n)">an Ilande</form> <xpln lang="lt">cahena</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hill(n)">an Hill</form> <xpln lang="lt">agacha</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ice(n)">the Ise</form> <xpln lang="lt">honnesca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snow(n)">Snowe</form> <xpln lang="lt">cama</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cold(a)">Colde</form> <xpln lang="lt">athau</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hot(a)">Hotte</form> <xpln lang="lt">odazani</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">Fier</form> <xpln lang="lt">azista</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="smock(n)">Smoke</form> <xpln lang="lt">quea</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="house(n)">a House</form> <xpln lang="lt">canoca</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bean(n)">Beanes</form> <xpln lang="lt">sahe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cinnamon(n)">Cinamond</form> <xpln lang="lt">adhotathny </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="father(n)">my Father</form> <xpln lang="lt">addathy</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mother(n)">my Mother</form> <xpln lang="lt">adanahe</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brother(n)">my Brother</form> <xpln lang="lt">addagrim</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sister(n)">my Sister</form> <xpln lang="lt">adhoasseue</xpln></wordentry>
+</wordgroup1>
+
+They of Canada saye, that it is a monthes sayling to goe to a lande where 
+Cinamonds and Cloues are gathered.
+</section>
+
+</page>
+</leme>

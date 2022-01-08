@@ -1,0 +1,39 @@
+<leme no="201">
+
+<page sig="a4r">
+<heading>
+<f type="r">A Table of the words of Art late&shy;
+ly deuised by <f type="i">Ned Browne<f type="r"> and his associates, to
+<f type="i">Crosbite the old Phrases vsed in the manner 
+of Conny-catching.<f type="r">
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form>HE that drawes the fish to
+the bait, </form><xpln lexeme="beater(n)"><f type="i">the Beater.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tavern(n)">The Tauerne where they goe, </form><xpln lexeme="bush(n)"><f type="i">the Bush.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fool(n)">The foole that is caught, </form><xpln lexeme="bird(n)"><f type="i">the Bird.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conny-catching(n)">Connycatching to be called, </form><xpln lexeme="batfowling(n)"><f type="i">Batfowling.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="wine(n)">The wine to be called, </form><xpln lexeme="shrap(n)"><f type="i">the Shrap.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cards(n)">The Cards to be called, </form><xpln lexeme="lime-twigs(n)"><f type="i">the Limetwigs.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form>The fetching in a Conny, </form><xpln lexeme="beating the bush(n)"><f type="i">beating the bush<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form>The good Asse if he be woone, </form><xpln lexeme="stooping to the lure(n)"><f type="i">stooping to the
+Lure.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form>If he keepe aloofe, </form><xpln lexeme="haggard(n)"><f type="i">a Haggard.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="verser(n)">The verser in conny-catching is
+called, </form><xpln lexeme="retriever(n)"><f type="i">the Retriuer.<f type="r"></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="barnacle(n)">And the Barnacle, </form><xpln lexeme="pot hunter(n)"><f type="i">the pot hunter.<f type="r"></xpln></wordentry>
+</wordgroup1>
+</page>
+
+</leme>

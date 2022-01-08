@@ -1,0 +1,232 @@
+<leme no="1556">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+H i s t o r y   o f  S e r p e n t s
+s t c  2 4 1 2 4
+v e r . 1 . 0 ( 2 0 21 )
+</term>
+</lemepagenote>
+
+<page sig="a1r">
+<section type="Title-page">
+<term lang="en">
+HISTORIE 
+OF
+SERPENTS.
+The second Booke of liuing Creatures:
+
+Wherein is contained their Diuine, Naturall, and Morall descriptions, with
+their liuely Figures, Names, Conditions, Kindes and Natures of all venemous Beasts:
+with their seuerall Poysons and Antidotes; their deepe hatred to Mankind, and the
+wonderfull worke of GOD in their Creation, and Destruction.
+
+Necessary and profitable to all sortes of Men: Collected out of diuine Scriptures, Fathers, Phylosophers, Physiti&#173;
+ans, and Poets: amplified with sundry accidentall Histories, Hierogliphicks, Epigrams, Emblems, and &#198;nig&#173;
+maticall obseruations. By EDWARD TOPSELL.
+
+The Boas
+
+LONDON 
+Printed by William Jaggard, 1608.
+</term>
+</section>
+
+
+</page>
+
+<page sig="a6v">
+<section type="Table of Serpents">
+<heading>
+<term lang="en">
+A Table of the seuerall Serpents,
+as they are rehearsed and described in
+this Treatise following.
+</term>
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="en" lexeme="adder(n)">ADder. </form> <xpln lang="en">50</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ammodyte(n)">Ammodyte. </form> <xpln lang="en">53</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="argolae(n)">Arge, Argolae. </form> <xpln lang="en">54</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="asp(n)">Aspe. </form> <xpln lang="en">54</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="en" lexeme="bee(n)">Bee.</form> <xpln lang="en">64</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bee(n)" lexeme="drone(n)">Bee-Drone. </form> <xpln lang="en">78</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bee(n)" lexeme="wasp(n)">Bee-waspe. </form> <xpln lang="en">83</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bee(n)" lexeme="hornet(n)">Bee-Hornet. </form> <xpln lang="en">92</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="boa(n)">Boas. </form> <xpln lang="en">111</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="cantarides(n)">Cantarides. </form> <xpln lang="en">96</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="canker(n)">Cankers. </form> <xpln lang="en">102</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caterpillar(n)">Caterpillers. </form> <xpln lang="en">102</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chameleon(n)">Chamaeleon. </form> <xpln lang="en">113</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockatrice(n)">Cockatrice. </form> <xpln lang="en">119</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cordyl(n)">Cordyll. </form> <xpln lang="en">126</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crocodile(n)">Crocadill. </form> <xpln lang="en">126</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crocodile(n)" lexeme="Egypt(pn)">Crocadile of Egypt. </form> <xpln lang="en">140</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crocodile(n)" lexeme="Brazil(pn)">Crocodile of Bresilia. </form> <xpln lang="en">141</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crocodile(n)" lexeme="earth(n)" lexeme="skink(n)">Crocadile of the earth, called a Scinke. </form> <xpln lang="en">141</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="dart(n)">Darte. </form> <xpln lang="en">145</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dipsas(n)">Dipsas. </form> <xpln lang="en">147</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="double-head(n)">Doublehead. </form> <xpln lang="en">151</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dragon(n)">Dragon. </form> <xpln lang="en">153</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="winged(a)" lexeme="dragon(n)">Dragon winged. </form> <xpln lang="en">158</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dryine(n)">Dryine. </form> <xpln lang="en">174</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="elephant(n)">Elephants. </form> <xpln lang="en">176</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="elops(n)">Elops, Elopis. </form> <xpln lang="en">176</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="en" lexeme="frog(n)">Frogges. </form> <xpln lang="en">176</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="green(n)" lexeme="frog(n)">Greene Frogge. </form> <xpln lang="en">185</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crooked(a)" lexeme="frog(n)" lexeme="paddock(n)">Crooked Frog, or Paddock</form> <xpln lang="en">186</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="toad(n)">Toades. </form> <xpln lang="en">187</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en" lexeme="green(a)" lexeme="serpent(n)">Greene serpent. </form> <xpln lang="en">194</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en" lexeme="haemorrhoid(n)">Haemorrhe. </form> <xpln lang="en">193</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="horned(a)" lexeme="serpent(n)">Horned serpent. </form> <xpln lang="en">198</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hydra(n)">Hydra. </form> <xpln lang="en">201</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hyena(n)">Hyaena. </form> <xpln lang="en">200</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en" lexeme="innocent(a)" lexeme="serpent(n)">Innocent Serpents. </form> <xpln lang="en">203</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="lizard(n)">Lizard. </form> <xpln lang="en">203</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="green(a)" lexeme="lizard(n)">Lizard greene. </form> <xpln lang="en">209</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="locust(n)" lexeme="caterpillar(n)">Locust, </form> <xpln lang="en"><term lang="la">vide</term>Caterpiller.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="en" lexeme="molure(n)">Molure. </form> <xpln lang="en">203</xpln>
+<lemenote>"Molure" not found in OED in this sense.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="millet(n)" lexeme="cenchrine(n)">Myllet or Cencryne. </form> <xpln lang="en">211</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="myagrus(n)">Myagrus. </form> <xpln lang="en">203</xpln>
+<lemenote>"Myagrus" found in OED under "house snake, n." (see first quotation by Topsell).</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="en" lexeme="newt(n)" lexeme="water(n)" lexeme="lizard(n)">Neute, or Water Lyzard. </form> <xpln lang="en">212</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="pagerina(n)">Pagerina. </form> <xpln lang="en">203</xpln>
+<lemenote>"Pagerina" not found in OED.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pareas(n)">Pareas. </form> <xpln lang="en">203</xpln>
+<lemenote>"Pareas" not found in OED.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="palmer(n)" lexeme="worm(n)" lexeme="caterpillar(n)">Palmer-worme</form> <xpln lang="en"><term lang="la">vide</term> caterpiller.</xpln></wordentry>	
+
+<wordentry type="h"><form lang="en" lexeme="pelias(n)">Pelias. </form> <xpln lang="en">214</xpln>
+<lemenote>"Pelias" not found in OED.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="porphyre(n)">Porphyre. </form> <xpln lang="en">214</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prester(n)">Prester. </form> <xpln lang="en">214</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="python(n)" lexeme="dragon(n)">Python vide Dragon.	
+</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en" lexeme="red(a)" lexeme="serpent(n)">Red Serpent. </form> <xpln lang="en">216</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="salamander(n)">Salamander. </form> <xpln lang="en">217</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scorpion(n)">Scorpion. </form> <xpln lang="en">222</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="scytale(n)">Scytall. </form> <xpln lang="en">232</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sea-serpent(n)">Sea-serpents. </form> <xpln lang="en">233</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seps(n)">Seps or <term lang="la">Sepedon</term>. </form> <xpln lang="en">236</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="slow-worm(n)">Slow-worme. </form> <xpln lang="en">293</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="snake(n)">Snake. </form> <xpln lang="en">240</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="spider(n)">Spiders. </form> <xpln lang="en">246, 259</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stellion(n)">Stellion. </form> <xpln lang="en">276</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="tyre(n)">Tyre. </form> <xpln lang="en">280</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tortoise(n)">Torteyse. </form> <xpln lang="en">281, 285, 287</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="viper(n)">Viper.</form> <xpln lang="en">290</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="en" lexeme="worm(n)">Wormes. </form> <xpln lang="en">306</xpln></wordentry>
+</wordgroup1>
+
+</section>
+
+</page>
+</leme>
+
+
+

@@ -1,0 +1,4573 @@
+
+
+<leme no="305">
+<page sig="98v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+b r i t i s h  l i b r a r y  s l o a n e  m s  1 6 2 2 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="lexicon">
+<heading>
+A.
+Dictionarie of the Indian Language
+for the better enabling of such
+who shalbe thither ymployed
+</heading>
+
+
+
+</page>
+
+<page sig="99r">
+<wordgroup1 type="a" object="A">A
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Ahone</form> <xpln lexeme="God(pn)">God</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Apome</form> <xpln lexeme="thigh(n)">the thighe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Apooke</form> <xpln lexeme="tobacco(n)">Tobacco</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Apokan</form> <xpln lexeme="tobacco pipe(n)">a Tobacco pipe.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ananson</form> <xpln lexeme="mat(n)">A Matt</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Assenta<expan type="">m</expan>ens</form> <xpln lexeme="pea(n)">peas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Anath</form> <xpln lexeme="farewell(n)">ffarewell</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Assimnims</form> <xpln lexeme="walnut(n)">Walnutt<expan type="">es</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Assimoest</form> <xpln lexeme="fox(n)">A ffox</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Amahoth</form> <xpln lexeme="target(n)">A Targett</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ampkone</form> <xpln lexeme="pan, frying(n)">a ffrying pa<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Akontant</form> <xpln lexeme="plaster(n)">a playster</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ammom<expan type="">un</expan> </form> <xpln lexeme="sow(v)">to sowe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Aayxkehake</form> <xpln lexeme="spade(n)">a Spade</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Atapaha<expan type="">n</expan></form> <xpln lexeme="kix(n)">a kixe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Asapan</form> <xpln lexeme="pudding, hasty(n)">a hasty pudding</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Apquammon</form> <xpln lexeme="show(n)">a show</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Amosens</form> <xpln lexeme="daughter(n)">a daughter</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Aramath south 
+Neire</form> } <xpln lexeme="sick(a)">I am sick</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Auppes.</form> <xpln lexeme="bow string(n)">a bow string</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Anaskoniens</form> <xpln lexeme="acorn(n)">acornes</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Asasqueth</form> <xpln lexeme="clay(n)">the Clay they 
+make pipes off.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Amonsoquath</form> <xpln lexeme="bear(n)">a Beare</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Attomois</form> <xpln lexeme="dog(n)">a dog</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Arrokoth</form> <xpln lexeme="sky(n)">the skie</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Apones</form> <xpln lexeme="bread(n)">bread</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Arathkone</form> <xpln>a beast like a ffox</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Aposo<expan type="">un</expan> </form> <xpln>a beast in bignes
+like a pig and in
+tast alike.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Aquintayne 
+Manggoy</form> } <xpln lexeme="ship(n)">a great ship</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Aquintayne 
+tanx</form> -- } <xpln lexeme="canoe(n)">a little boate or
+Canoa.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Assahampehooke</form> <xpln lexeme="lobster(n)">a Lobster</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="above(adv)">Aboue</form> <xpln lang="al">oskeitch
+vsqwijh
+vspeuwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="abroad(adv)">Abroad</form> <xpln lang="al">vscound</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="acorn(n)">Acor<expan type="">n</expan></form> <xpln lang="al">Anaskimmins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="adder(n)">Adder</form> <xpln lang="al">keihtascooc
+Sassacomuwah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="afternoon(n)">Afternoone</form> <xpln lang="al">Aunshecapa</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ague(n)">Ague</form> <xpln lang="al">Chowhwasuw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="king of head(n)">A king of <expan type="">the</expan> head</form> <xpln lang="al">Nindgapamutla
+meereentecoh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="king of teeth(n)">A king of <expan type="">the</expan> teeth</form> <xpln lang="al">Vneghiawmdeep&#173;
+meputs.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="all(pr)">All</form> <xpln lang="al">Cheisk</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="awl(n)" lexeme="pin(n)" lexeme="needle(n)">an Aule pin 
+or needle</form> -- } <xpln lang="al">Pocohaac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>All is out</form> <xpln lang="al">Tashoac
+metatush
+Neckatam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="alive(a)">Alive</form> <xpln lang="al">kekwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="angry(a)">Angry</form> <xpln lang="al">Perervimuw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="angle(n)">Angle</form> <xpln lang="al">Aamowk</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="apple(n)">Apple</form> <xpln lang="al">Maracah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="apron(n)" lexeme="leather, dressed(n)">Apro<expan type="">un</expan> or any
+kind of dressed
+leather</form> -- } <xpln lang="al">Mataheigh
+Catvmmoik.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="arrow(n)">Arrow</form> <xpln lang="al">Asqweowan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="arm(n)">Arme</form> <xpln lang="al">Mese.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="arm(n)">Armes</form> <xpln lang="al">Menscoh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="arse(n)">Arse</form> <xpln lang="al">Kensekit</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ash(n)">Ashes</form> <xpln lang="al">Pungwe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="aunt(n)">Aunt<expan type="">es</expan></form> <xpln lang="al">Ariqwossac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="awake(v)">Awake</form> <xpln lang="al">Aumaumer</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="air(n)">Aire</form> <xpln lang="al">Rarasca<expan type="">un</expan></xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">B.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Boketawh</form> <xpln lexeme="fire(n)">ffier</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Baqwanchy&#173;
+basson</form> -- } <xpln lexeme="girdle(n)">a girdle</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Bmseran Apook</form> <xpln>ffill the pipe <expan type="">with</expan> 
+Tobacco</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="bag(n)">a Bag</form> <xpln lang="al">Porasap
+Vttamancoih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bark(v)">To bark</form> <xpln lang="al">Cuttoundg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="barrell(n)">a barrell</form> <xpln lang="al">Ohtamocan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bachelor(n)">a Batchellor</form> <xpln lang="al">Matawiowijh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ball(n)">a Ball</form> <xpln lang="al">Aitowh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bald(a)">Bald</form> <xpln lang="al">Paatchkiscaw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bear(n)">a Beare</form> <xpln lang="al">Momonsacqweo.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bell(n)">a Bell</form> <xpln lang="al">Maucaqwins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bean(n)">Beanes</form> <xpln lang="al">Peccatoas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="beard(n)">a Beard</form> <xpln lang="al">Weihsatonowans</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="99v">
+<wordentry type="h">
+<form lang="en" lexeme="bed(n)">a Bed</form> <xpln lang="al">Cawwaivwh
+petaocawin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="beat(v)">To beat one <expan type="">with</expan>
+a Cudgell</form> } <xpln lang="al">Auntemdwn.
+Nooueshetun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="beat(v)">To beat Corne
+into Meale</form> -- } <xpln lang="al">Vshvccohomen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="beat(v)">To beat any Iro<expan type="">n</expan>
+to an edge</form> -- } <xpln lang="al">Vtssetecuttaw&#173;
+suw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bend(v)">To bend</form> <xpln lang="al">Accongaivwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bend(v)">not to bend</form> <xpln lang="al">Sansaqwaivwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="before(adv)">Before</form> <xpln lang="al">vtcharund.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="behind(adv)">Behind</form> <xpln lang="al">Taangoqwaijk</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="below(adv)">Below</form> <xpln lang="al">Nousomon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="beneath(adv)">Beneath</form> <xpln lang="al">Vtsheniaijn</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="beggar(v)">A Begger</form> <xpln lang="al">Cuttassamais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="better(a)">Better</form> <xpln lang="al">wingutscaho</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bird(v)">a Bird</form> <xpln lang="al">Tshehip
+Tshetcheindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bird(n)" lexeme="chicken(n)">a small bird or 
+Chicke<expan type="">n</expan></form> } <xpln lang="al">Cawahcheims</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a bird <expan type="">with</expan> Car&#173;
+natia<expan type="">n</expan> coloured
+wing<expan type="">es</expan></form> -- } <xpln lang="al">Ahshowcutteis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a bird like a
+Lapwing collour
+grey <expan type="">which</expan> vseth
+the water</form> -- } <xpln lang="al">Monahamshaw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dive-dapper(n)">a Bird called
+a divedapper</form> } <xpln lang="al">Osasianticus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bill(n)" lexeme="beak(n)">the bill or beak</form> <xpln lang="al">Mehkewh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bite(v)">To bite</form> <xpln lang="al">Amin
+Nussacu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bitch(n)">a Bitch</form> <xpln lang="al">Vsqwausum</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="black(a)">Black</form> <xpln lang="al">Mahcatawaiuwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="blue(a)">Blew</form> <xpln lang="al">osaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="blow(v)">to blow any thing</form> <xpln lang="al">Nepotatamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Blew beades</form> <xpln lang="al">Vnetagwushomon</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="blueberry(n)">Blew berryes of
+the biggnes of
+grapes very plea&#173;
+sant</form> -- } <xpln lang="al">Accoondews</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="blunt(a)">Blunt</form> <xpln lang="al">Wijhwaivwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>To make any thing blunt</form> <xpln lang="al">Neihpunsannvwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="block(n)">Block</form> <xpln lang="al">Taccahooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="blood(n)">Bluid</form> <xpln lang="al">Nehpaangunn<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bow(n)">a Bow</form> <xpln lang="al">Auhtab.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="string, bow(n)">a Bow string</form> <xpln lang="al">Aupeis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="boat(n)">a Boat</form> <xpln lang="al">Acomtan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bottle(n)">a Bottle</form> <xpln lang="al">Poheewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="board(n)">a Bourd</form> <xpln lang="al">cutsotahwooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="boil(v)">to boyle vp</form> <xpln lang="al">Potopotawh tawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bone(n)">a Bone</form> <xpln lang="al">Woskan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="boy(n)">a Boy</form> <xpln lang="al">vscapess.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="box(n)">a box in <expan type="">which</expan> they
+play at a certaine
+kynd of game</form> } <xpln lang="al">Assowpoo<emend err="k">n</emend>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bob(n)">the bob of the
+gynny wheat
+<expan type="">without</expan> Corne</form> } <xpln lang="al">Okisher.
+Okmsher.
+&arrow; <emend err="Appoans"></emend></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bread(n)">Bread</form> <xpln lang="al">&arrow;<emend err="">Appoans</emend></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bread(n)" lexeme="oat">Bread made of
+a woat called</form> } <xpln lang="al">Taccaho appoans</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="braser(n)">a Braser</form> <xpln lang="al">Qwunnumsc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bridge(n)">a Bridge</form> <xpln lang="al">Metucs</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="broil bread(v)" lexeme="toast(v)">to b<emend err="">r</emend>oyle or toast 
+bread</form> }<xpln lang="al">Apetawh poan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>To breake <expan type="">with</expan>
+ones fingers any
+thing</form> } <xpln lang="al">Vdesinamun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>To breake with
+stryking on any
+thing</form> } <xpln lang="al">Paskeaw
+Vdeistaham<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="break(v)">to breake all in
+pieces</form> -- } <xpln lang="al">Ketarowksumah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="broken(a)" lexeme="cracked(a)">to be broke<expan type="">n</expan> or 
+Crakt</form> -- } <xpln lang="al">Perew.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bright(a)" lexeme="plain(a)">Bright or plaine
+all over</form> -- } <xpln lang="al">Muscaussum</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to bring into the
+boat</form> -- } <xpln lang="al">Paaksetower</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bring again(v)">to bring agayne</form> <xpln lang="al">Patow.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="brass(n)">Brasse</form> <xpln lang="al">Osawas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bruise(v)">to bruise any
+thing small</form> -- } <xpln lang="al">Vnetawvnn<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="brother(n)">a Brother</form> <xpln lang="al">Nemat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="brush(n)">a Brush</form> <xpln lang="al">vnepawahum<expan type="">an</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bramble(n)" lexeme="briar(n)">a Bramble or
+brier</form> -- } <xpln lang="al">Cawmdguc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="broom(n)">a Broome</form> <xpln lang="al">Tshekehicawwuns</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="butterfly(n)">a Butterfly</form> <xpln lang="al">Manaang.gwas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="burn(v)">To burne as if
+a spake light
+on any thing</form> } <xpln lang="al">cutchow
+Matowran.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="bunch of grapes(n)">a Bunch of
+grapes</form> } <xpln lang="al">Metucsmaru&#173;
+kimmins</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+
+
+</page>
+
+<page sig="100r">
+<wordgroup1 type="a" object="C">C
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Chamange</form> <xpln lexeme="bag, tobacco(n)">a Tobacco bag</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Chapant</form> <xpln lexeme="show(n)">A shew</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Curcye Neire</form> <xpln lexeme="cold(a)">I am a cold</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Commotins</form> <xpln lexeme="turtle(n)">a Turtle</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Cheawanta</form> <xpln lexeme="robin redbreast(n)">a Robin red breast</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Cursine</form> <xpln lexeme="sister(n)">Sister</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Chippsin</form> <xpln lexeme="land(n)" lexeme="earth(n)">Land or earth</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">chichiqu<expan type="">an</expan>mi<expan type="">n</expan>s</form> <xpln>a kind of graine to eat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Camatinge</form> <xpln lexeme="six(n)">6. in nomber</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Chakasowe</form> <xpln lexeme="crack(n)">a crack in any thing</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Chucheneppo</form> <xpln lexeme="woman(n)">a woma<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Crenepo</form> <xpln lexeme="woman(n)">a woma<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Chesk chamay</form> <xpln lexeme="friend(n)">All ffreind<expan type="">es</expan></xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="cedar(n)">Ceader</form> <xpln lang="al">Maraak.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="calm(a)">Calme</form> <xpln lang="al">Cohqwaivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="call(v)">to call one</form> <xpln lang="al">Otassapnar</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="canoe(n)">a Canoa or 
+small boat</form> } <xpln lang="al">Aquointa<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="can(n)">a Ca<expan type="">n</expan> or any
+such like thing
+to drinck in</form> -- } <xpln lang="al">Ohtamoca<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="candle(n)" lexeme="gammy(a)" lexeme="stick(n)">a Candle or 
+gammy stick
+<expan type="">which</expan> will keepe
+light</form> -- } <xpln lang="al">Osanintak.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="cap(n)" lexeme="hat(n)">a Cap or </form> <xpln lang="al">Puttaiqwapisson</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="carry up and down(v)">to carry a thing
+vp &#38; downe</form> -- } <xpln lang="al">Nawwiowashim</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="carry between two(v)">to carry a thing
+betweene twoo</form> } <xpln lang="al">Necussaqwus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="carry on shoulder(v)">to carry vpon 
+ones showlder</form> } <xpln lang="al">Ahcohkinnemu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="catch in mouth(v)">to Catch in the
+mouth as dog<expan type="">es</expan>
+doe</form> } <xpln lang="al">Onascandamen
+Opassontamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="cat(n)" lexeme="lucern(n)">a Cat or wild
+beast much bigger 
+and spotled black
+vnder the belly as
+a Luzarne</form> -- } <xpln lang="al">Vtchoonggwai</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="caviar(n)" lexeme="roe(n)">Caviare or the 
+Roe of Shirgeon</form> } <xpln lang="al">Woock.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chaw(v)">to chaw</form> <xpln lang="al">Tawhtagwounta&#173;
+men.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chain(n)">Cheyne</form> <xpln lang="al">Rarenaw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chain(n)">a Chayne of
+Copper <expan type="">with</expan> long
+linck<expan type="">es</expan></form> -- } <xpln lang="al">Tapaantaminais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chestnut(n)">Chesnutt<expan type="">es</expan></form> <xpln lang="al">Opommins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="cheese(n)">Cheese or any
+curded matter
+made of milke</form> } <xpln lang="al">Ootu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chamber(n)">a Chamber</form> <xpln lang="al">Vtshecommuc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="child(n)">a Child</form> <xpln lang="al">Nechawn</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chest(n)">a Chest</form> <xpln lang="al">Pacus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chicken(n)">Chicke<expan type="">n</expan></form> <xpln lang="al">Cawahcheims</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="chop wood(v)">to chop wood</form> <xpln lang="al">Catchcahmun
+mushe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="circle(n)">a Circle</form> <xpln lang="al">Mussetaqwaioh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cat, civet(n)">a Civet ca<emend err="p">t</emend></form> <xpln lang="al">Attowrin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="clay(n)">Clay</form> <xpln lang="al">Pussagwu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="clap(v)">to clap ones hand<expan type="">es</expan></form> <xpln lang="al">Passahicaan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="claw, crab(n)">the Claw of a
+Crab</form> -- } <xpln lang="al">Ohtnidge</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to clense a pipe</form> <xpln lang="al">Iacutteahwoon</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to clense <expan type="">the</expan> grownd
+&#38; make yt fitt
+for seed</form> -- } <xpln lang="al">Monascunnem<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to climb a tree</form> <xpln lang="al">Ahcoushe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cloud(n)">the Clowd<expan type="">es</expan></form> <xpln lang="al">Mammaum
+Arrahqwotuwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="take hold(v)">to take hold of
+any thing</form> -- } <xpln lang="al">Mammun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="copper(n)">Copper</form> <xpln lang="al">Matassu<expan type="">n</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="comb(n)">a Comb</form> <xpln lang="al">Reihcoan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cold(a)">Cold</form> <xpln lang="al">Nonssamats</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="cord(n)" lexeme="line(n)" lexeme="thread(n)">a Cord or small
+lyne or <emend err="a"></emend> thread</form> <xpln lang="al">Pemanataon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="coat of plate(n)">a Coat of plate</form> <xpln lang="al">Aqwahussun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="coat jerkin(n)" lexeme="doublet(n)">a Coat Ierkin,
+doblet or ells
+what</form> -- } <xpln lang="al">Mantchoor</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to come being
+spoken familiarly 
+or hard by</form> -- } <xpln lang="al">Caumorowath
+Caumeir
+Caumear-ah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to come being
+spoke<expan type="">n</expan> a far off
+to one</form> -- } <xpln lang="al">Pijah
+Pijarowah
+Pijarah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="come in(v)">to come in</form> <xpln lang="al">Peintiker.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="come again(v)">to come agayne
+or we will come
+againe</form> -- } <xpln lang="al">Oiacpijann
+Naantuc-ah
+pijautch</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to come quickly</form> <xpln lang="al">vskepijah
+vskepewh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="come up(v)">to come vp</form> <xpln lang="al">Vtacqwowsun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="come down(v)">to come downe</form> <xpln lang="al">Neighsawhor</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cough(v)">to Coffe</form> <xpln lang="al">Nussuccum.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the cock crowes</form> <xpln lang="al">Moninaw
+cutsecammo</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="covering, feather(n)" lexeme="mantle, feather">a covering or
+mantle made of feathers</form> -- } <xpln lang="al">Cawassow</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cockle(n)">a Cockle</form> <xpln lang="al">osakescai</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cover(v)">to cover one</form> <xpln lang="al">Ahgwur</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cobweb(n)">a Cob-web</form> <xpln lang="al">Muttassapec</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cuckold(n)">a Cookold</form> <xpln lang="al">wmpenton.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="copper(n)" lexeme="kettle(n)">a Copper kettle</form> <xpln lang="al">Aucutgaqwassu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="crab(n)">a Crab</form> <xpln lang="al">Tuttascuc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="crane(n)">a Crane</form> <xpln lang="al">vssac</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="100v">
+<wordentry type="h">
+<form number="1" lexeme="crack(n)" lexeme="cracked(a)">a Crack or 
+Crackt</form> -- } <xpln lang="al">Paskasew
+Tatumsew</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="creek(n)">a Creeke</form> <xpln lang="al">Meihsutterask.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="crow(n)">a Crowe</form> <xpln lang="al">Ohawas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="crooked(a)">Crooked</form> <xpln lang="al">Ohorinne</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cry(v)">to Cry</form> <xpln lang="al">Neighs<emend err="e"></emend>um</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to cut the
+haire of a 
+mans head</form> -- } <xpln lang="al">Moundg
+Nummundg<expan type="">un</expan>
+Cummundg<expan type="">un</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="cut(v)">to cut any
+thinge</form> -- } <xpln lang="al">Vnedishem<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hair, curled(n)">Curled haire</form> <xpln lang="al">Vtchepetaiuwh
+Awrewhmerersk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="secret, woman's(n)">a womans
+Secrett</form> } <xpln lang="al">Muttusk
+M<emend err="o">v</emend>cosist.</xpln>/
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">D.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Dawbason quire</form>, <xpln lexeme="warm(v)">warme yo<expan type="">ur</expan> self.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="day(n)">a Day</form> <xpln lang="al">Cuttepacus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dark(a)">darke</form> <xpln lang="al">Raieawk
+Pahcunnaioh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I dare not</form> <xpln lang="al">Necqurissaw
+Nequtahke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="deer(n)">A deare</form> <xpln lang="al">Vttapaantam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="dead(a)">dead or to be dead</form> -- } <xpln lang="al">Tsepaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form> deepe to the middle</form> -- } <xpln lang="al">Tsaqwomoi</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>deepe over the head</form> -- } <xpln lang="al">Nuttahcaam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="deaf(a)">deafe</form> <xpln lang="al">Cuppotaw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="divide in half(v)">to devide a
+thing in half</form> } <xpln lang="al">Richewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="devil(n)">the devill</form> <xpln lang="al">Riapoke</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dish(n)">a dish</form> <xpln lang="al">Outacan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dive(v)">to dave</form> <xpln lang="al">Pookewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="do(v)">to doe</form> <xpln lang="al">Noungat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dog(n)">a dog</form> <xpln lang="al">Attemous</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="do(v)">doe so</form> <xpln lang="al">vtsseneind.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="drink to(v)">to drinck to one</form> <xpln lang="al">Vyaucopen. or
+Kacopen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="drink(v)">I would drinck</form> <xpln lang="al">vgaucopessum</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dry(v)">to dry by 
+fier or other
+wise</form> -- } <xpln lang="al">Tsetewh.
+Gaukenates</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dry(a)" lexeme="thirsty(a)">to be dry or
+thirstye</form> -- } <xpln lang="al">Paongwussenttawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="dress boat(v)" lexeme="pitch boat">to dresse or 
+pitch a boat</form> } <xpln lang="al">Ascaham<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dram(n)">a dra<expan type="">m</expan></form> <xpln lang="al">Ahqwohhooc.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="duck(n)">a duck</form> <xpln lang="al">Piscoend</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dust(n)">dust</form> <xpln lang="al">Nepensun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dirt(n)">durt</form> <xpln lang="al">Keshackaivwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dwell(v)">to dwell</form> <xpln lang="al">Nahapuc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="dye, red(n)">a red dye</form> <xpln lang="al">Pohcoons
+Mataquiwun.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E">E.
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="ear, man's(n)">the Eare of
+a man</form> -- } <xpln lang="al">Meihtawk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ear, beast's(n)">the Eares of
+a hare or
+any oth<expan type="">er</expan> beast</form> <xpln lang="al">weihtaooes
+Mechijn</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eat(v)">to Eate</form> <xpln lang="al">Mecher.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eat(v)">I will eate</form> <xpln lang="al">Nummechijn</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eat(v)">I'le eate by
+&#38; by</form> -- } <xpln lang="al">Mechocusk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eat(v)">Eate <expan type="">with</expan> me</form> <xpln lang="al">Meihtussuc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="earth(n)">the Earth</form> <xpln lang="al">Apamu<expan type="">un</expan>
+Ottawm.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="east(n)">the East</form> <xpln lang="al">vtchepwoissumia</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eagle(n)">An Eagle</form> <xpln lang="al">Opotenaiok.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ear of wheat(n)">An eare of
+w<emend err="h"></emend>eat</form> -- } <xpln lang="al">Autowtaoh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ear of new wheat(n)">An eare of
+new wheat</form> } <xpln lang="al">Mancatawatso&#173;
+meon</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="water, ebbing(n)">Ebbing wat<expan type="">er</expan></form> <xpln lang="al">Seiscatvwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eel(n)">An Eele</form> <xpln lang="al">Ascamauk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="egg(n)">An Egg</form> <xpln lang="al">wouwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="elbow(n)">An Elboe</form> <xpln lang="al">Meisquan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="elder(n)">Elder</form> <xpln lang="al">Nussaandg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="element(n)">the Element</form> <xpln lang="al">Poomp Arrathqwa&#173;
+tuwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="enemy(n)" lexeme="naught(n)">Enemy or 
+naught</form> -- } <xpln lang="al">Macherew
+Marapo.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="enough(a)">Enough</form> <xpln lang="al">wamat
+Neimbat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="entomb(v)">Entombing</form> <xpln lang="al">Paiamasuw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eye(n)">the eye</form> <xpln lang="al">Muskiendguk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="eye(n)">the eyes</form> <xpln lang="al">Muskiendues.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">F.
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="farewell(v)">ffarewell or
+the word at
+parting</form> -- } <xpln lang="al">Anah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="face(n)">the fface</form> <xpln lang="al">vscaentur</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fall of leaf(n)" lexeme="autumn(n)">the ffall of the
+leaf or the
+Autome</form> -- } <xpln lang="al">Punsaos.</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="101r">
+<wordentry type="h">
+<form lang="en" lexeme="fall(v)">to ffall</form> <xpln lang="al">Ammawskin
+Adamoin
+Adamos<expan type="">un</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fall, like to(v)">to be like to fall</form> <xpln lang="al">Cawesewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to fall downe
+from a tree</form> } <xpln lang="al">Raqwassewh-mushe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fall, let(v)">to let any thing
+ffall</form> -- -- } <xpln lang="al">Vtamoiahken.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the falls at the
+vpper end of the
+King<expan type="">es</expan> River</form> -- } <xpln lang="al">Paqwachowng.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="faint, to be(v)">to be ffaint</form> <xpln lang="al">Nettencrianges
+Nummamuntam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="father(n)">a ffather</form> <xpln lang="al">Nows.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="faun(n)">a ffaune</form> <xpln lang="al">Monattewh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fat(a)">ffat</form> <xpln lang="al">wiraokawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fart(n)">a ffart</form> <xpln lang="al">Poket.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="feather, long(n)">a long feather</form> <xpln lang="al">Meqwanoc.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="feather(n)">ffeathers</form> <xpln lang="al">Ahpewk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="feather, arrow(n)">the ffeathers of
+an Arrow</form> -- } <xpln lang="al">Assaovnsawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="feet of hawk(n)">ffeet of a hawk</form> <xpln lang="al">Oremgeis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="feet(n)">ffeet by a ge<expan type="">ner</expan>all
+name</form> -- } <xpln lang="al">Messetts</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="feed with spoon(v)">to feed <expan type="">with</expan> a spoon</form> <xpln lang="al">Accoppaatamu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to fetch some fier</form> <xpln lang="al">Meshpataan Boco&#173;
+taoh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fish(n)">ffish</form> <xpln lang="al">Nammais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fish-hook(n)">a ffish hooke</form> <xpln lang="al">Auketuttawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="forefinger(n)">the fore finger</form> <xpln lang="al">Nummeisutteingwah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="finger, long(n)">the long ffinger</form> <xpln lang="al">Nuttawwutteindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="finger, ring(n)">the ring ffinger</form> <xpln lang="al">Nowqweitut</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="finger, little(n)">the little ffinger</form> <xpln lang="al">Nummeisutteidg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="filthy(a)">ffilthy</form> <xpln lang="al">Moieh
+Moiowat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fin(n)">the ffins of a fish</form> <xpln lang="al">Wijhcats</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to fight at ffisty&#173;
+Cuffe</form> -- -- } <xpln lang="al">Nummecaxut&#173;
+tenax.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="thread(n)">a fine or small thread</form> <xpln lang="al">Vscook.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="flame(n)">the fflame</form> <xpln lang="al">Cazahanzamusheis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="water, flowing(n)">fflowing water</form> <xpln lang="al">Tammuscamauwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the fflower of the
+Apple Maracah</form> } <xpln lang="al">Tsemahcaug</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fly(v)">to ffly</form> <xpln lang="al">Awassew.
+Bauqweuwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fly(n)">a ffly</form> <xpln lang="al">Mowchesoh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="flax(n)">fflax</form> <xpln lang="al">Tshehaoah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="flea(n)">a fflea</form> <xpln lang="al">Nuttaqwon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="flay(v)">to fflea any thing</form> <xpln lang="al">Poshenaan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="squirrel, flying(n)">a fflying squirrell</form> <xpln lang="al">Aiossapanijk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fly(n)">a ffly</form> <xpln lang="al">Mowchesoh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>A ffowle like
+a Teale <expan type="">with</expan>
+a sharp bill
+like a black
+bird</form> -- } <xpln lang="al">Ceumeats</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>A waterffowle
+in bignes of a duck
+finely coulored <expan type="">with</expan>
+a Copit crowne</form> } <xpln lang="al">Meihteams</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fool(n)">a foole</form> <xpln lang="al">Wintuc
+Wintuccum</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="froth(n)">ffroth</form> <xpln lang="al">Peihtaoh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="frost(n)">ffrost</form> <xpln lang="al">Tacqwacat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="friend(n)">a ffreind or the
+principall word
+of kindnes</form> } <xpln lang="al">Netab.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>My ffoot is well</form> <xpln lang="al">Wingan out&#173;
+ssemetsumneir</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fur(n)" lexeme="raccoon(n)">the ffur of the beast
+Arrathcune</form> -- } <xpln lang="al">wehsacoanoc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I am full</form> <xpln lang="al">Negeisp.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="full, to be(v)">To be full</form> <xpln lang="al">Geispun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fire(n)">ffier</form> <xpln lang="al">Bocuttaw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="coal of fire(n)">a Cole of fier</form> <xpln lang="al">Mahcatois</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="spark of fire(n)">a spark or fier</form> <xpln lang="al">Accecow.
+Pahquarra.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="fire, make a(v)">to make a fier</form> <xpln lang="al">socaquinche&#173;
+nimum.
+Neusakaqwan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the fier is out</form> <xpln lang="al">Otawiaac Bo&#173;
+cataw.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">G.
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="garden(n)">a Garde<expan type="">n</expan> or 
+plot of grownd
+to sow Corne</form> } <xpln lang="al">Oronocah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="garter(n)">a Garter</form> <xpln lang="al">Kispurracau&#173;
+tapus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gate(n)">A gate</form> <xpln lang="al">Cuppenauk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="garfish(n)">A Garfish</form> <xpln lang="al">Tatamaho.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Give yt me or 
+let me see yt</form> } <xpln lang="al">Tangoa.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="give(v)">To give</form> <xpln lang="al">Paatch-ah
+Pasemeh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Give me some
+Tobacco</form> -- } <xpln lang="al">Paseme vp&#173;
+pooke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Give me some wat<expan type="">er</expan>.</form> <xpln lang="al">Mammahe
+sucqwaham.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Give me some
+meat</form> -- } <xpln lang="al">Meishnah mecher.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Give me some
+butter or ffat
+to spread on my 
+bread</form> -- } <xpln lang="al">Paatch nah
+rumgan.
+vaamushcan</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="101v">
+<wordentry type="h">
+<form>Give this to the
+Child</form> -- } <xpln lang="al">meish micoan
+chessoyowk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Give yt him</form> <xpln lang="al">Cummeish yoowah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="girl(n)">a girle</form> <xpln lang="al">Vsqwaseins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="girl(n)">Girles</form> <xpln lang="al">Vsqwasenis oc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gill(n)">the Gills of a
+sturgeo<expan type="">n</expan> or any
+other ffish</form> -- } <xpln lang="al">Woskeqwus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="glue on arrowheads(n)" lexeme="gum on arrowheads(n)">Glew or gum
+that fasteneth on 
+their arrowhead<expan type="">es</expan></form> } <xpln lang="al">Vppeinsaman.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="glove(n)">a Glove</form> <xpln lang="al">Otenigas
+Otenicas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="glorious(a)" lexeme="smooth(a)" lexeme="beautiful(a)">Glorious smooth 
+or beautifull</form> } <xpln lang="al">Muscaivwh
+Wingaivwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gnat(n)">A Gnatt</form> <xpln lang="al">Peonguwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="good(a)">Good</form> <xpln lang="al">Wingan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>It is good meat</form> <xpln lang="al">Necoondamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go(v)">to goe</form> <xpln lang="al">Ireh.
+Paspeen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go abroad(v)">to goe abroad</form> <xpln lang="al">Ireh vscoend</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go along(v)">to go along</form> <xpln lang="al">Cawcawmear
+Ascamaner</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go down(v)">to go downe</form> <xpln lang="al">Irehcuppein&#173;
+tanaan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go in(v)">to go in</form> <xpln lang="al">vscomtain</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to go softly</form> <xpln lang="al">vdasemeoda<emend err="a"></emend>n</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to go home</form> <xpln lang="al">Nummacha</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go before(v)">to go before</form> <xpln lang="al">Nepopawinin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go after(v)">to go after</form> <xpln lang="al">Apahhammundg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="go(v)">gow lett<expan type="">es</expan> go
+togither</form> -- } <xpln lang="al">caumenaan.
+cowichawwotun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the ships go home</form> <xpln lang="al">vppoushun Mus&#173;
+hower</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gone(a)">gone</form> <xpln lang="al">Maentchatemayoac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>not gon vp</form> <xpln lang="al">Kekenchaivwh
+vspewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="God(n)">God</form> <xpln lang="al">Rawottonemd.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="goose(n)">a Goose</form> <xpln lang="al">Kahangoc.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gosling(n)">a Goosling</form> <xpln lang="al">Marahungoc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="good morrow(n)">Good morrow 
+or the word of
+salutation</form> -- } <xpln lang="al">Kencuttemaum.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ground(n)">the Grownd</form> <xpln lang="al">Petawin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="grow high(v)">to grow hie</form> <xpln lang="al">Otsetuns
+Cutterewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gristle of sturgeon(n)">the grissle of
+a sturgeo<expan type="">n</expan></form> -- } <xpln lang="al">vsocan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="grass(n)">Grasse</form> <xpln lang="al">Mehteqweins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="grape(n)">Grapes</form> <xpln lang="al">Marakimmins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="grape stone(n)" lexeme="plum stone(n)">A grapes stone or
+the stone of any
+plu<expan type="">m</expan></form> -- } <xpln lang="al">Macauqs cau&#173;
+nomel.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="grasshopper(n)">A Grashopper</form> <xpln lang="al">Tatacaunshewah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="grave(n)">A Grave</form> <xpln lang="al">Ourear</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ground nut(n)">A grownd Nut</form> <xpln lang="al">Ouhpunnawk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="great deal(n)">A great deale</form> <xpln lang="al">Moowchick</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>A great way</form> <xpln lang="al">Amaiuwh
+Netacoon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="Guinea(n)" lexeme="wheat(n)">Gynny wheat</form> <xpln lang="al">Pohcuwtoah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gun(n)" lexeme="piece(n)">A gu<expan type="">n</expan> or piece</form>  <xpln lang="al">Pucussac-an.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the gu<expan type="">m</expan> that yssueth
+out of a certaine
+tree called the
+virginia<expan type="">n</expan> Maple</form> } <xpln lang="al">Pickewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gut(n)">the gutt<expan type="">es</expan> of any thing</form> <xpln lang="al">Otakeisheheis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gull(n)">A Gull <emend err="Coiah"></emend></form> <xpln lang="al">Coiahqwus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="gust(n)">a Gust or Hor&#173;
+rocado</form> -- } <xpln lang="al">Iohtummo&#173;
+cunnum.</xpln>/
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">H.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Hauquequins</form> <xpln>A little stone pot</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Hamkone</form> <xpln lexeme="ladle(n)">A ladle.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Husque</form> <xpln lexeme="by and by(adv)" lexeme="quickly(adv)">by and by or
+quickly.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Hawtoppe</form> <xpln lexeme="bow(n)">A bow</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Husquequenatora.</form> <xpln>Now I vnder&#173;
+stand yo<expan type="">u</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Huskpemmo Po&#173;
+ketaws</form> -- } <xpln>to sow wheat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Howghweyh takon
+Neire</form> -- } <xpln lexeme="hungry(a)">I am hungry</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Hawtorinkanaske</form> <xpln>A black ffox
+sky<expan type="">n</expan> or an
+overgrowne
+sables.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="hare(n)">A Hare</form> <xpln lang="al">wijhcutteis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hair of head(n)">the haire of <expan type="">the</expan> head</form> <xpln lang="al">Mererse</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hair of deer(n)">the haire of a deare</form> <xpln lang="al">Vsheqwonnaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hard by(a)">hard by</form> <xpln lang="al">yowhse</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hard(a)">hard</form> <xpln lang="al">Esepannuwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hand(n)">a hand</form> <xpln lang="al">Meihtinge</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hang(v)">to hang one</form> <xpln lang="al">Wawapunnah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hatchet(n)">a hatchet</form> <xpln lang="al">Taccahacan
+Tamahaac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hatchet, Indian(n)">An Indian hatchet</form> <xpln lang="al">Cuusenagwns</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="have(v)">to haue</form> <xpln lang="al">Nohaivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I haue bene</form> <xpln lang="al">Nearnowwan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hazelnut(n)">a hazell nut</form> <xpln lang="al">Paaugahtam uns</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="head of man(n)">the head of a ma<expan type="">n</expan></form> <xpln lang="al">Mendabuccah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the head of an arrow
+that is rownd</form> -- } <xpln lang="al">Assamuwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="arrowhead(n)">the head of an arrow</form> <xpln lang="al">Raputtak.</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="102r">
+<wordentry type="h">
+<form lang="en" lexeme="headache(n)">the head ake</form> <xpln lang="al">kawmdvppaan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="heaven(n)">Heave<expan type="">n</expan></form> <xpln lang="al">Mounshaqwatuwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hear(v)">to heare</form> <xpln lang="al">Nowwuntamen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Not to heare</form> <xpln lang="al">Mata-nowwontamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="he(pr)">He</form> <xpln lang="al">yoowah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hemp(n)">Hemp</form> <xpln lang="al">weihkippeis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hell(n)">Hell</form> <xpln lang="al">Popogwussur.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>He hath not or
+none</form> -- } <xpln lang="al">Tahmocassewh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the height of any
+thing at a good
+growth</form> -- } <xpln lang="al">Mangeker</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>of a little height</form> <xpln lang="al">Tangasuw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hearing(n)">Hearing</form> <xpln lang="al">Aumpsuwk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to hide or cover 
+from the rayne</form> } <xpln lang="al">Cushe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="hill(n)" lexeme="mount(n)">a hill or small
+mount</form> -- } <xpln lang="al">Romuttun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="hill(n)" lexeme="mountain(n)">a hill or Mountaine</form> <xpln lang="al">Pemotawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="overcast(a)">hidde<expan type="">n</expan> vnder a
+Clowd or Over&#173;
+cast</form> -- } <xpln lang="al">Reihcahahcoik.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="house(n)">A howse</form> <xpln lang="al">yohacan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="house, great(n)">A great howse</form> <xpln lang="al">Machacammac.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="husband(n)">A husband</form> <xpln lang="al">wiowah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hole(n)">a hole</form> <xpln lang="al">woor</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make a hole</form> <xpln lang="al">Mbococotamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a great hole</form> <xpln lang="al">Maangairagwa&#173;
+towh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="horn of deer(n)">the hornes of a deare</form> <xpln lang="al">wawirak.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>hold yt aside</form> <xpln lang="al">Hatacqwoear</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="weather, hot(n)">hot weather</form> <xpln lang="al">vneshawocanassup.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="how many(adv)">how many</form> <xpln lang="al">keis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hungry(a)">hungry</form> -- -- <xpln lang="al">Noiatewk.
+Vnapootam</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="husk of wheat(n)">the husk of their
+wheat</form> -- } <xpln lang="al">Pocututauha</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hurt(n)" lexeme="cut(n)">A hurt or Cut</form> <xpln lang="al">wapewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="hurt(v)">to hurt or a thing
+hurt<expan type="">es</expan> me</form> -- } <xpln lang="al">Ahkij
+vwwaap.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>It hurt<expan type="">es</expan> my leg<expan type="">es</expan>
+or my leg<expan type="">es</expan> ake</form> } <xpln lang="al">vnegapamutta&#173;
+mennetatakij.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>It hurt<expan type="">es</expan> me not
+or yt is whole or
+well</form> -- } <xpln lang="al">Potterakai.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">I.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Ire assuminge</form> <xpln lexeme="go(v)" lexeme="run(v)">go &#38; run quickly</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ioughqueme wath</form> <xpln>Let vs go or come
+awaie</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Iakesan apooke</form> <xpln lexeme="tobacco, light(n)">light Tobacco.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="I(pr)">I my self</form> <xpln lang="al">Near.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="aye(ex)">I or yea</form> <xpln lang="al">Nim.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the Iagge of
+the salvadges
+habit</form> -- <xpln lang="al">Rassawans.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ice(n)">Ice</form> <xpln lang="al">Oreih.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="island(n)">An Island</form> <xpln lang="al">Memnunnahqus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="itch(n)">the Itch.</form> <xpln lang="al">Vnechikwtchikwssa.</xpln>
+</wordentry>
+
+<heading>
+Certayne Phrases put
+vnder Letter because
+they begy<expan type="">n</expan> <expan type="">with</expan> I.
+</heading>
+
+<wordentry type="h">
+<form>I am lither
+or lazie</form> -- } <xpln lang="al">Mushawwacat.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I am yo<expan type="">ur</expan> friend
+or at yo<expan type="">ur</expan> commaund</form> } <xpln lang="al">Netab.
+Netapewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I care not for it</form> <xpln lang="al">Nummaskatamen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I will not give it</form> <xpln lang="al">Matacommeir.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I must keepe <expan type="">yt</expan>
+or I love yt</form> } <xpln lang="al">Nuwamatamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I thanck <expan type="">you</expan></form> <xpln lang="al">Kenah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I have none</form> <xpln lang="al">Mahmaindg-no&#173;
+haivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I will go home</form> <xpln lang="al">Nummacha.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I must put
+Tobacco in yt</form> } <xpln lang="al">Vpococaheih.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stink(v)">It stincketh</form> <xpln lang="al">Ahtur.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I cannot tell</form> <xpln lang="al">Caivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I haue noe
+Tobacco</form> -- } <xpln lang="al">Matavppoan no&#173;
+nuwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I will not</form> <xpln lang="al">Matush.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I haue no shooes</form> <xpln lang="al">Matamawcaswn&#173;
+neh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I haue no hose</form> <xpln lang="al">Matacawqweo&#173;
+wanneth.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I understand
+<expan type="">you</expan> not</form> -- } <xpln lang="al">Matagvenatox&#173;
+oth</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="love(v)">I love <expan type="">you</expan></form> <xpln lang="al">Nouiomais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="love(v)"><expan type="">you</expan> love</form> <xpln lang="al">Commomais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="gratis(adv)">I give <expan type="">yt</expan> <expan type="">you</expan>
+gratis</form> -- } <xpln lang="al">Thaigwen vm&#173;
+meraan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I haue bene
+asleepe</form> } <xpln lang="al">Mummascushe&#173;
+nepo</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K">K.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Kenah</form> <xpln>I thanck <expan type="">you</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kayquiose</form> <xpln lexeme="boat(n)">A Boat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kuttchawe</form> <xpln lexeme="burn(v)">I burne</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="102v">
+<wordentry type="h">
+<form lang="al">Kameyhan</form> <xpln lexeme="rain(n)">Rayne</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kowse</form> <xpln lexeme="father(n)">ffather</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kicke</form> <xpln lexeme="mother(n)">Mother</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kemotte</form> <xpln lexeme="brother(n)">brother</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kouppathe</form> <xpln lexeme="yea truly(adv)">yea truly</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Konnockonoren
+quire</form> -- } <xpln>come look my head.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kan yough</form> <xpln>I know not</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kawwin</form> <xpln lexeme="sleep(n)">Sleepe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kawkopen quier</form> <xpln>I drinck to <expan type="">you</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kicketen quier</form> <xpln lexeme="speak(v)" lexeme="tell(v)">speak or tell
+me.</xpln>/
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kikithamots</form> <xpln lexeme="wind(n)">the wynd</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kykeytawe</form> <xpln lexeme="nine(n)">9 in nomber.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Koske</form> <xpln lexeme="ten(n)">10. in nomber.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kantokan</form> <xpln lexeme="dance(v)">to daunce</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kantickantie</form> <xpln lexeme="sing and dance(v)">sing &#38; daunce</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kequasson</form> <xpln>a pot to
+drinck in</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Kahunge</form> <xpln lexeme="goose(n)">a goose</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="king(n)" lexeme="lord, great">A king or great
+Lord</form> -- } <xpln lang="al">Wiroance</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="Roanoak, king of(pn)">the King<expan type="">es</expan> name
+of Roanoak</form> <xpln lang="al">Nanamachauwh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="kick(v)" lexeme="spurn(v)">to Kick or spurn</form>  <xpln lang="al">Keiskecamon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="kex(n)">a Kixe</form> <xpln lang="al">Natapahan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="kiss(n)">to kisse</form> <xpln lang="al">Tsepaantamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="kettle(n)">a kettle</form> <xpln lang="al">Aucagwins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="knife(n)">a knife</form> <xpln lang="al">Damisac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to knot up haire
+they tye vpo<expan type="">n</expan> --
+their head<expan type="">es</expan></form> -- } <xpln lang="al">Vdansqwa&#173;
+pissun.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">L.
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="land(n)">Land</form> <xpln lang="al">Cheipsin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ladle(n)">a Ladle</form> <xpln lang="al">Tshepoijn.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lame(a)">Lame</form> <xpln lang="al">Nepawironowh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lamprey(n)">a Lampray</form> <xpln lang="al">Rahtaws</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="laugh(v)">to Laugh</form> <xpln lang="al">Kesshekissun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lay down(v)">to lay downe 
+a thing</form> -- } <xpln lang="al">Nawhpomind</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="leather(n)">Leather</form> <xpln lang="al">Vttocais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Leather that
+covereth their
+Lips &#38; secrett<expan type="">es</expan></form> } <xpln lang="al">Paqwantawun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="leather strip(n)" lexeme="leather string(n)">Leather stripes 
+or stringes</form> -- } <xpln lang="al">Rahsawans</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="leaf(n)">Leaves</form> <xpln lang="al">Maangwipa&#173;
+cus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>dead leaves</form> <xpln lang="al">Moincaminge</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>To leap as me<expan type="">n</expan>
+leap in dauncing
+or otherwise</form> } <xpln lang="al">Netuspus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="leap(v)">to leap</form> <xpln lang="al">Huspissaan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lean(v)">to leane against
+a thing</form> -- } <xpln lang="al">Atcheisqwansun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lean of flesh(n)">the leane of any
+flesh</form> -- -- } <xpln lang="al">oiawh
+wiaaws</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lead(n)">Lead</form> <xpln lang="al">Windscup.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="light(v)">To light any thing</form> <xpln lang="al">Iahcasonaw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>It is not lighted</form> <xpln lang="al">Matackesa.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="light(n)">Light</form> <xpln lang="al">Keshawtewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lion(n)">A Lyo<expan type="">n</expan></form> <xpln lang="al">Vttacawai</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lift(v)">to lift vp any thing</form> <xpln lang="al">Vdespunnemun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lightning(n)">Lightning</form> <xpln lang="al">Kecuttannowas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="piece, little(n)">a little peece</form> <xpln lang="al">Paangun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>give me a little
+piece</form> -- } <xpln lang="al">Kapessema paan&#173;
+gun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="little(n)">a little</form> <xpln lang="al">tanx.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lizard(n)" lexeme="elf(n)">a lizard or elfe</form>  <xpln lang="al">Vtacaskis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form><expan type="">you</expan> have no lice</form> <xpln lang="al">Matavtapaw&#173;
+peak.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lip(n)">the lippes</form> <xpln lang="al">Nusshaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to look ones head</form> <xpln lang="al">Cuttahcummeis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lost(a)">Lost</form> <xpln lang="al">Nowwanus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lobster(n)">a Lobster</form> <xpln lang="al">Ahshaham.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="long(a)">Long</form> <xpln lang="al">Cunnaivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="low(a)">Low</form> <xpln lang="al">Machess.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="louse(n)">a Lowse</form> <xpln lang="al">Metacum.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="alone(a)">alone</form> <xpln lang="al">Apopaqwatecus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to lye downe to
+sleepe</form> -- } <xpln lang="al">Machenecawwu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lie with woman(v)">to lye <expan type="">with</expan> a woman</form> <xpln lang="al">Saccasac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to tell a lye</form> <xpln lang="al">Vtchepitchewain</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="lie together(v)">to lye togither</form> <xpln lang="al">Cowijhpaantam<expan type="">un</expan>.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">M.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Metinge</form> <xpln lexeme="hand(n)">A hand</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Miske</form> <xpln lexeme="hear(v)">Heare</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mintabuckhan</form> <xpln lexeme="head(n)">the head</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Muska<expan type="">un</expan></form> <xpln lexeme="forehead(n)">the forehead</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Muskins</form> <xpln lexeme="eye(n)">the eyes</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Meskew</form> <xpln lexeme="nose(n)">the nose</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mettone</form> <xpln lexeme="mouth(n)">the mouth</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mepit</form> <xpln lexeme="teeth(n)">the tieth</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Maxatsno</form> <xpln lexeme="tongue(n)">the tongue</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Muckatahone</form> <xpln lexeme="arm(n)">the Arme</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Meskott</form> <xpln lexeme="leg(n)">the leg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Messeate</form> <xpln lexeme="foot(n)">the ffoot</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="103r">
+<wordentry type="h">
+<form lang="al">Mekouse</form> <xpln lexeme="fingernail(n)" lexeme="toenail(n)">the nayles of
+the fingers &#38; toes</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Metawke</form> <xpln lexeme="ear(n)">the eares</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mowhkohan</form> <xpln lexeme="fishhook(n)">a ffish hooke</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Maskowhinge</form> <xpln lexeme="parrot(n)">a parrat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Monowhauk</form> <xpln lexeme="sword(n)">a sword</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Maquequins</form> <xpln lexeme="bell(n)">small bells</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Makateweygh</form> <xpln lexeme="pearl(n)">Pearle</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mattanahayyough</form> <xpln>I have <expan type="">yt</expan> not</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Machequeo</form> <xpln lexeme="shoe(n)">a show</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mangoite</form> <xpln lexeme="great(a)">great</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Muskeskimmins</form> <xpln lexeme="strawberry(n)">strawberries</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Matchkore</form> <xpln lexeme="stag skin(n)">a stage sky<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Minchin quire
+Minchin</form> -- -- <xpln>eat <expan type="">you</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mattaquenatorath</form> <xpln>I vnderstand
+<expan type="">you</expan> not.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mattassumitohook</form> <xpln>a small bird of
+divers Cullors</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mahawke</form> <xpln lexeme="gourd(n)">a gourd</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Meroathachessum</form> <xpln lexeme="boy(n)">a young boy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mayanse</form> <xpln>I have yt not</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Momuscken</form> <xpln lexeme="mole(n)">A mole in the
+grownd.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Monynawgh</form> <xpln lexeme="turkey(n)">A Turkey.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Moroke</form> <xpln lexeme="cedar(n)">Ceader</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Makique</form> <xpln lexeme="snot(n)">Snot</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Musken</form> <xpln lexeme="run(v)">to ru<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mayis</form> <xpln>going in a path</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Matakuske</form> <xpln lexeme="prickle pear leaf(n)">the leaf of a --
+prickle peare</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mattath</form> <xpln lexeme="no(adv)">noe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Manote</form> <xpln lexeme="basket(n)">A basket</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Moussomko</form> <xpln lexeme="squirrel(n)">A squirrell</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Mussane</form> <xpln>a beast so called</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Messetonaance</form> <xpln lexeme="beard(n)">A beard</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="man(n)">A ma<expan type="">n</expan></form> <xpln lang="al">Nimatewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mat, reed(n)">A Mat made of Reed<expan type="">es</expan></form> <xpln lang="al">Anansecoon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="marten(n)">A marter<expan type="">n</expan></form> <xpln lang="al">Mouhwacus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="man, married(n)">a Married ma<expan type="">n</expan></form> <xpln lang="al">Nowiowijh
+Wiowah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="man-eater(n)">Maneaters</form> <xpln lang="al">Mussaangegwah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="marrow(n)">the marrow of a
+bone</form> -- } <xpln lang="al">weimb.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="mariner(n)" lexeme="seaman(n)">a marryner or
+Seama<expan type="">n</expan></form> } <xpln lang="al">cheiksew.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="match(n)">a match</form> <xpln lang="al">Nintawooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make bread</form> <xpln lang="al">Apoanocanosutch</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>To make a spoone</form> <xpln lang="al">Ampconomindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make a dish</form> <xpln lang="al">Ackohican</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make a frame 
+or boate</form> -- } <xpln lang="al">Cowcacunnemu<expan type="">n</expan>
+Ahtowrun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make a grave</form> <xpln lang="al">Cuttahamunourcar</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make a mat</form> <xpln lang="al">Chessunnaansun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to make a basket</form> <xpln lang="al">Mannottaihcaun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="meal(n)" lexeme="flour(n)">Meale &#38; fflower</form> <xpln lang="al">Rouhcat
+Rowksewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="meal(n)" lexeme="Guinea(n)" lexeme="wheat(n)">Meale made of
+Gynny wheat callid</form> } <xpln lang="al">Vsketeham<expan type="">un</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="melt(v)">to melt</form> <xpln lang="al">Pussepussactawas</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="melancholy(a)" lexeme="sad(a)">To be melancholly 
+or sad</form> } <xpln lang="al">Maskihaan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Milke made of
+walnutt<expan type="">es</expan></form> -- } <xpln lang="al">Pocohiquara</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="milk(n)">Milke</form> <xpln lang="al">Mytsw<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="miss hole(v)">to misse the hole</form> <xpln lang="al">Nembobatsoho</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mortar(n)">A morter</form> -- -- <xpln lang="al">Taccahooc
+Vttawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="morning(n)" lexeme="sunrise(n)">the morning or
+Su<expan type="">n</expan> rise</form> -- } <xpln lang="al">Papasowh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the morning is
+faire</form> -- } <xpln lang="al">Paspasaat
+vscantewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="moth(n)">a moath</form> <xpln lang="al">Mohwhaiok</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tomorrow(n)">to morrow</form> <xpln lang="al">Raiab
+Vnnawh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mother(n)">a mother</form> <xpln lang="al">Nek</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mouse(n)">A mouse</form> <xpln lang="al">Apegwus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mulberry(n)">A mulbery</form> <xpln lang="al">Muskimnins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="mussel shell(n)">a Mushell shell</form> <xpln lang="al">Tshecomah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="musk cat(n)">a Muskcat</form> <xpln lang="al">Osasquus.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N">N.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Numerothequier</form> <xpln lexeme="companion(n)"><expan type="">your</expan> Companion</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Neir</form> <xpln lexeme="myself(pr)">my self</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nissaka<expan type="">n</expan></form> <xpln lexeme="reed(n)">A reed</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nisake</form> <xpln lexeme="cane(n)">A Cane</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nepausche</form> <xpln lexeme="sun(n)">the Su<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nepunche Neir</form> <xpln>I am dead</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nehapper</form> <xpln lexeme="sit down(v)">sit downe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nuppaw<expan type="">en</expan></form> <xpln lexeme="sleep(n)">sleepe</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Necha<expan type="">un</expan></form> <xpln lexeme="child(n)">A Child</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Netap</form> <xpln>My deare freind</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Noewanathsoun</form> <xpln>I have forgotten</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nekut</form> <xpln lexeme="one(n)">1. in nomber</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ninge</form> <xpln lexeme="two(n)">2. in nomber</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="103v">
+<wordentry type="h">
+<form lang="al">Nousough</form> <xpln lexeme="three(n)">3. in nomber</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nuscawes</form> <xpln lexeme="eight(n)">8. in nomber</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ninge poke</form> <xpln lexeme="twenty(n)">20. in nomber</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nocmchamin<expan type="">on</expan>
+Boketaw</form> -- } <xpln>mend vp <expan type="">the</expan> fier</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nehapper
+kupper</form> -- } <xpln>sit further</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Namaske
+Nameche</form> } <xpln lexeme="fish(n)">ffish of any kind</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nethkeon</form> <xpln lexeme="nose(n)">the nose</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Nepputt<expan type="">es</expan></form> <xpln lexeme="teeth(n)">the teeth</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Noraughtoan</form> <xpln>put on yo<expan type="">ur</expan> hat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">N&#230;hayhough</form> <xpln>I have yt</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="naked(a)">Naked</form> <xpln lang="al">Nepowwer</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="napkin(n)" lexeme="linen(n)">A Napkin or
+any lynnen</form> } <xpln lang="al">Matassaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="neck(n)">the neck of
+any thing</form> } <xpln lang="al">Nusqwoik</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="net(n)">A nett</form> <xpln lang="al">Aussab
+Nacowus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="next(a)">next</form> <xpln lang="al">Vtakijk</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="nettle(n)">a nettle</form> <xpln lang="al">Mauhsaan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="nest(n)">the nest of a
+bird</form> -- } <xpln lang="al">wahchesao.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="near by(adv)" lexeme="next hand(adv)">neere by or
+next hand</form> } <xpln lang="al">Patewh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="new(a)" lexeme="moon(n)">New moone</form> <xpln lang="al">Suckimma</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="night(n)">Night</form> <xpln lang="al">Tapacoh
+Reihcawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="no(ex)" lexeme="nay(adv)">No or nay</form> -- -- <xpln lang="al">Matah
+Tah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="none(pr)">None</form> <xpln lang="al">Rawwaiend.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the Noise
+of a 
+peece or Fall
+of a tree</form> -- } <xpln lang="al">Penim</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>no more</form> <xpln lang="al">Tawhs</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I will drinck
+no more</form> -- } <xpln lang="al">Nutssequwacup.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="north(n)">the North.</form> <xpln lang="al">vtcheiks</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a nut like a
+small Acro<expan type="">n</expan>
+good meat</form> -- } <xpln lang="al">Chechmqwamins</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O">O
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Opykerough</form> <xpln lexeme="brent(n)">A brent, affowle
+like a goose</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Oteyquenimin</form> <xpln lexeme="tear(v)" lexeme="rent(v)">to teare or rent
+any thing</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ockquetath</form> <xpln>a Tausell of a
+goshauke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Oughtaman&#173;
+goyth</form> -- <xpln lexeme="tobacco bag(n)">A Tobacco bag.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">owanough.</form> <xpln>who hath this</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ouxe</form> <xpln lexeme="fox(n)">a ffox</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ockquins</form> <xpln>a watchet coulored
+bird</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Opomens</form> <xpln lexeme="chestnut(n)">Chesnutt<expan type="">es</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Ough.</form> <xpln>yt is well</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Oughrath</form> <xpln lexeme="far off(adv)">ffar off</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Owaugh</form> <xpln lexeme="egg(n)">An egge.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="oar(n)">An oare</form> <xpln lang="al">Tshemacans</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="oak(n)">An Oake tree.</form> <xpln lang="al">Poawamindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="oyster(n)">Oysters</form> <xpln lang="al">Canwaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="man, old(n)">An old ma<expan type="">n</expan></form> <xpln lang="al">Rawerunnuwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="woman, old(n)">An old woma<expan type="">n</expan></form> <xpln lang="al">vtumpeseis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to ope<expan type="">n</expan> the dore</form> <xpln lang="al">Tennecatower
+Rassicokear.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to ope<expan type="">n</expan> ones eyes</form> <xpln lang="al">Vdapunqwaren</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="otter(n)" lexeme="beaver(n)">an otter or rather
+a Bever</form> -- } <xpln lang="al">Pohkevwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="otter(n)">An Otter</form> <xpln lang="al">Cuttack</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Only one</form> <xpln lang="al">Naantucah-necut</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>Out or yt is
+pluckt out</form> } <xpln lang="al">Aumpossaioh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="out(ex)" lexeme="away(ex)">Out, away, or
+get <expan type="">you</expan> go<expan type="">n</expan> </form> <xpln lang="al">Keij</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="overset(v)">to overset or a boat to turne keele vp</form> -- } <xpln lang="al">Cotappesseaw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="owl(n)">An Owle</form> <xpln lang="al">Qwangatarask.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">P.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Poketawes</form> <xpln lexeme="wheat(n)">wheat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Peketawes</form> <xpln lexeme="bean(n)">Beanes</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Peache</form> <xpln lexeme="fetch(v)" lexeme="bring(v)">ffetch or bring</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Penninaugh</form> <xpln lexeme="rope(n)">A rope</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Peymmat<expan type="">an</expan></form> <xpln lexeme="thread(n)">Thread</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pasquehamon</form> <xpln lexeme="eat(v)">to eate</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Powtowhone boketaw</form>, <xpln>blow the fier
+<expan type="">with</expan> yo<expan type="">ur</expan> mouth.</xpln>/ 
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Punguy</form> <xpln lexeme="ash(n)">Asshes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pettackqueth</form> <xpln lexeme="thunder(n)">Thunder.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pokoranse</form> <xpln>A minirall stone</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pokin Pokeyough</form> <xpln lexeme="dive(v)">to dive vnder water</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pamyauk.</form> <xpln lexeme="goard(n)">A goard</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pokosack</form> <xpln lexeme="gun(n)">A Gu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pichamins</form> <xpln lexeme="plum(n)">an excellent plo<expan type="">m</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Paskamath</form> <xpln lexeme="mulberry(n)">Mulberries</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Poughkone</form> <xpln>the red paint or dye</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Peyeugh</form> <xpln lexeme="returning(n)">returning</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pickutts</form> <xpln lexeme="balsom(n)">the gu<expan type="">m</expan> we hold
+balsom<expan type="">en</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Potawaugh</form> <xpln lexeme="porpoise(n)">a porpus</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="104r">
+<wordentry type="h">
+<form lang="al">Porance</form> <xpln lexeme="five(n)">5 in nomber</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Paspene</form> <xpln lexeme="walk about(v)">to walke about</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pisquao<expan type="">n</expan></form> <xpln lexeme="duck(n)">A duck</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Paskorath</form> <xpln>the gold sparkes
+in the sand</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Penonge</form> <xpln lexeme="stove, iron(n)">Ieron stoue</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pocohack</form> <xpln lexeme="bodkin(n)" lexeme="ell(n)">A bodkin or Ale</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pattihquapisson</form> <xpln lexeme="hat(n)">A hat</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Pokontats</form> <xpln lexeme="girdle(n)">a girdle</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="parrot(n)">a Parrett</form> <xpln lang="al">Massacumwindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pearl(n)">perle</form> <xpln lang="al">Matacawiack</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pearl(n)" lexeme="mussel shell(n)">Perle mushell
+shells</form> -- } <xpln lang="al">Vsasqwoick</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pea(n)">peaze</form> <xpln lang="al">Ossantamens
+Otassantamens</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="shard(n)">a peece of a pot
+or a pot sheard</form> <xpln lang="al">Rummasvwendg
+Rowcar Appons</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a peece of bread</form> <xpln lang="al"></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pestle(n)">a pestle</form> <xpln lang="al">Pocohaac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the pipe is stopt</form> <xpln lang="al">Opoteyough</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pin(n)">a pin</form> <xpln lang="al">Pocohaac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pinch(v)">to pinch</form> <xpln lang="al">Nepkehnaan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pigeon(n)">a pidgion</form> <xpln lang="al">Towacqwoins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pigeon, wood(n)">a wood pidgeon</form> <xpln lang="al">Qwanonats</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="piss(v)">to pisse</form> <xpln lang="al">Shekijn</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pike(n)">a pike</form> <xpln lang="al">Kijhtoram</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="porridge(n)" lexeme="broth(n)">porredge or broth</form> <xpln lang="al">Noumpqwaam</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="polecat(n)">a polcat</form> <xpln lang="al">Cuttenamvwhwa</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pot(n)">a pot</form> <xpln lang="al">Ancaqwins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pour out(v)">to power out wat<expan type="">er</expan></form> <xpln lang="al">Qwatshacum&#173;
+caan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pour in(v)">to power in wat<expan type="">er</expan></form> <xpln lang="al">Vsowcunnem<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pox(n)">the poxe</form> <xpln lang="al">Nummaqwais</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pluck up(v)">to pluck vp</form> <xpln lang="al">Nummonnenien&#173;
+naus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="plaster(n)">a playster</form> <xpln lang="al">Nuttacoondah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="plum(n)" lexeme="stone(n)">a plomb stone</form> <xpln lang="al">Maquascawnomell</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="plum(n)">a plomb very
+delitious when
+yt is ripe</form> -- } <xpln lang="al">Pushemins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="place(n)">a Playse</form> <xpln lang="al">Keiskis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>To play at any
+game</form> -- } <xpln lang="al">Mamant<expan type="">un</expan> 
+Terraca<expan type="">un</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="privities of man(n)" lexeme="secret of man(n)">the privities or secret of a man</form> } <xpln lang="al">Pocohaac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="prayer(n)">Prayer</form> <xpln lang="al">Maunvmvmmaon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to come to praier</form> <xpln lang="al">Pijahtamaon</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pumpkin(n)">a pumpeo<expan type="">n</expan></form> <xpln lang="al">Mahcawq</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="purse(n)">a purse</form> <xpln lang="al">vttamainquoih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pull(v)">to pull</form> <xpln lang="al">Nummavmon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pull out(v)">to pull yt out</form> <xpln lang="al">Necantvwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="put in(v)">to put yt in</form> <xpln lang="al">Peinder</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="put on(v)">to put on any
+thing</form> -- } <xpln lang="al">Puttohiqwosur</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="put off(v)">to put off any
+thing</form> -- } <xpln lang="al">Pussaqwunnenidg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="purple(a)">purple</form> <xpln lang="al">Ourcrewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to put out A
+Candle</form> -- } <xpln lang="al">vtahtaham<expan type="">un</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="pull down(v)">to pull one downe</form> <xpln lang="al">Cuttaqwocum</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q">Q
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Que quoy</form> <xpln>what is this.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Que quoy ternis
+quire</form> -- } <xpln>what is yo<expan type="">ur</expan> name</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">R
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Rapanta<expan type="">an</expan></form> <xpln lexeme="venison(n)">Veniso<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Rung<expan type="">an</expan></form> <xpln lexeme="suet(n)">All kind of suet</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Rocoyhook.</form> <xpln lexeme="otter(n)">an Otter</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Rickahone</form> <xpln lexeme="comb(n)">a Comb.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Rokohamin</form> <xpln>parched corne
+grownd small</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Reconack</form> <xpln lexeme="tobacco bag(n)">a Tobacco bag.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Rassoum</form> <xpln lexeme="wind(n)">the wynd</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Riapoke</form> <xpln lexeme="tomorrow(n)">To morrow</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Riokosick</form> <xpln lexeme="devil(n)">the devill</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Rekasqiee</form> <xpln lexeme="knife(n)">a knife.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="raw(a)">Raw</form> <xpln lang="al">Ascunmewh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rain(n)">Rayne</form> <xpln lang="al">Camzowan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rainbow(n)">a Rayn bow</form> <xpln lang="al">Qwannacut</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rattle(n)">a rattle such as
+they vse in their
+Ceremonies made
+of a goard</form> -- } <xpln lang="al">Chingawwonawk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rat(n)">a Ratt</form> <xpln lang="al">Aotawk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="reed(n)">a Reed</form> <xpln lang="al">Nehsaakah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="rent(a)" lexeme="torn(a)">rent or torne</form>  <xpln lang="al">Tuttasewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="river(n)">A river</form> <xpln lang="al">yocaanta.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ripe(a)">Ripe</form> <xpln lang="al">wmgatewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>not ripe</form> <xpln lang="al">vscan<expan type="">n</expan>ewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rise up(v)">to rise vp</form> <xpln lang="al">Passagwear</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the rynd of a
+tree like hemp</form> <xpln lang="al">Chesawk.</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="104v">
+<wordentry type="h">
+<form lang="en" lexeme="ring(n)">a ring</form> <xpln lang="al">Nekereinskeps</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rose(n)">a rose</form> <xpln lang="al">Pussaqwembun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="roll(v)" lexeme="toss(v)">to roll or tose
+as aship</form> -- } <xpln lang="al">Vtucotucosa</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="row(v)">to row</form> <xpln lang="al">Tchijmaoc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="roast(v)">to rost</form> <xpln lang="al">Apoivssaw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tobacco root(n)">the root of
+Tobacco</form> -- } <xpln lang="al">vppoo-chappoc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="root(n)">a root</form> <xpln lang="al">vtchappoc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="rope(n)" lexeme="cord(n)">a rope or Cord</form> <xpln lang="al">Pemuntnaw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="run(v)">to run</form> <xpln lang="al">Rasannear.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rush(n)">Rushes</form> <xpln lang="al">Cakekesqws</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to cut rushes</form> <xpln lang="al">Maniasc cake&#173;
+kesqwus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="rub(v)">to rub a thing</form> <xpln lang="al">Vsseqwaha&#173;
+mun.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S">S.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Suckqwohana</form> <xpln lexeme="water(n)">water</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Sawwone</form> <xpln lexeme="salt(n)">salt</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Sakahooke</form> <xpln>the Cleere stones
+we gather</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Sakahocan</form> <xpln lexeme="write(v)">to write</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Secon</form> <xpln lexeme="spit(v)">to spitt</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Sekehekonaiyh</form> <xpln lexeme="write(v)">to write.</xpln>/
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="sand(n)">Sand</form> <xpln lang="al">Racawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sacrifice(v)">to sacrifice</form> -- <xpln lang="al">Vtakaer</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="say(v)">to say or be said</form> <xpln lang="al">Kekkuttun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sail(n)">a saile</form> <xpln lang="al">Tsemoasay</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="see(v)">to see</form> <xpln lang="al">Vnnamun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>let me see it</form> <xpln lang="al">Numpenamun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a seat in a boat 
+or a bench</form> -- } <xpln lang="al">Tussan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="seed(n)">Seedes</form> <xpln lang="al">Amenacacac</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="seaweed(n)">Sea weed<expan type="">es</expan></form> <xpln lang="al">Ascaxasqwus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sedge(n)">Sedge</form> -- <xpln lang="al">Eskowwascus</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sea(n)">the Sea</form> <xpln lang="al">Yapam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scum(n)">Scum</form> <xpln lang="al">Pihtaoh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scale(n)">the scales of a
+fish</form> -- } <xpln lang="al">wohaikauk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to scratch ones
+head</form> -- <xpln lang="al">vnvnnecusso&#173;
+pisso<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scratch(v)">to scratch</form> <xpln lang="al">vnecussopisson</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="scab(n)">a skabb</form> <xpln lang="al">vmeqwussum.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sharp(a)">sharp</form> -- <xpln lang="al">Keneiwuh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="shear(n)">Sheares</form> <xpln lang="al">Mundgtacan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="shell(n)">Shells</form> <xpln lang="al">Ohshaangunn&#173;
+emuns.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="ship(n)">a ship</form> <xpln lang="al">Mussow uxuc.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="shine(v)">yt shyneth</form> <xpln lang="al">Assentewcaiah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="shoe(n)">shoos</form> <xpln lang="al">Mawhcasuns.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="shoot(v)">to shoot</form> <xpln lang="al">Nepomotamen</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="short(a)">short</form> <xpln lang="al">Tackqwaisuw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>shut the dore</form> --  <xpln lang="al">Kessohikear</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to skrub ones head</form> -- <xpln lang="al">Necutchucskuw</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="sing(v)" lexeme="dance(v)">to sing or dance</form> <xpln lang="al">cante-cante</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sit down(v)">to sit downe</form> -- <xpln lang="al">Nawpin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to sit nearer</form> <xpln lang="al">Otassotagwopur</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sick(a)">to be sick</form> <xpln lang="al">Aroummossouth</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="single of deer(n)">the single of a
+deare</form> -- } <xpln lang="al">wushaqwun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sister(n)">a sister</form> -- <xpln lang="al">Nuckaandgum</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="skin of hare(n)" lexeme="fur of hare(n)">the sky<expan type="">n</expan> or fur
+of a hare</form>  -- } <xpln lang="al">Weisacannac.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sheldrake(n)">a Sheldrake</form> -- <xpln lang="al">Rowhqwawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sleep(v)">to sleepe</form> -- <xpln lang="al">Nepaun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="slow-worm(n)">a sloworme</form> -- <xpln lang="al">Apouscase</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="smoke(n)">Smoake</form> <xpln lang="al">Kekepemgwah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="smell(v)">to Smell</form> <xpln lang="al">Nummeram in</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="snort(v)">to Snort</form> <xpln lang="al">Neqwaxuttound&#173;
+wun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to suit ones nose</form> <xpln lang="al">vtanneqwun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="snow(n)">Snow</form> -- <xpln lang="al">Coan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="snow(v)">yt snoweth</form> <xpln lang="al">Rookewh coan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="snake(n)">a snake</form> <xpln lang="al"><xref target="adder"><term lang="la">vide</term> Adder</xref></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="snail(n)">a snaile</form> <xpln lang="al">Pomahaum.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sow(v)">to sow or sett
+wheat</form> -- } <xpln lang="al">Nuttaspin</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sew(v)">to sow <expan type="">with</expan> a needle</form> <xpln lang="al">Husquamun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sore(n)">a sore</form> <xpln lang="al">Meihkeih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to soak bread</form> <xpln lang="al">Nepokeunnam<expan type="">un</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="soul(n)">the Soule or vi&#173;
+tall breath of man</form> } <xpln lang="al">Netshetsunh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sparrow-hawk(n)">a sparrowhawke</form> <xpln lang="al">Tatacaumexan</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to speake softly</form> <xpln lang="al">Kemaantu<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="squirrel(n)">a Squirrell</form> <xpln lang="al">Mussanek.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="squint, look a(v)">to looke a squint</form> -- <xpln lang="al">Perrmgqwah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sturgeon(n)">a Sturgeon</form> -- <xpln lang="al">Cuppatoa<expan type="">n</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="string(n)">a string</form> <xpln lang="al"><xref target="leather"><term lang="la">vide</term> leather</xref></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stone(n)">a stone</form> <xpln lang="al">shacahoca<expan type="">n</expan>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>a little stone</form> <xpln lang="al">Mananst</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="steal(v)">to steale</form> <xpln lang="al">Commotoouh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stake(n)">a stake</form> <xpln lang="al">weputtahoc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stalk(n)">a stalke</form> -- <xpln lang="al">Mehtacooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="strike(v)">to strike</form> -- <xpln lang="al">Nepassmgwahoon</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="105r">
+<wordentry type="h">
+<form>to strike with
+a sword</form> -- } <xpln lang="al">vepacaman.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stocking(n)">Stocking<expan type="">es</expan></form> --  <xpln lang="al">Cawqweawans</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="star(n)">a Starre</form> <xpln lang="al">Attaanqwassuwk</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stranger(n)">a straunger</form> <xpln lang="al">Vttassantassowaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stand(v)">to stand</form> <xpln lang="al">Vannatassun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="straight(a)">streight</form> <xpln lang="al">Majawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stir oneself(v)">to stirr ones
+self</form> } <xpln lang="al">vummewsun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stop(v)">to stopp or put
+in a stopple</form> -- } <xpln lang="al">Muttaqwohoons</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="strong(a)">strong</form> <xpln lang="al">Towawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="step up(v)" lexeme="go up(v)">to step or go vp</form> <xpln lang="al">Accowson.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the stinging of  a
+snake</form> -- } <xpln lang="al">Vtagwoong</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to strike fier</form> -- <xpln lang="al">Bocata oh kok</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="stink(v)">to stinck</form> <xpln lang="al">Auutus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sun(n)">the Sun</form> <xpln lang="al">Keshowse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sunrise(n)">Sun rise</form> <xpln lang="al"><xref lexeme="morning"><term lang="la">vide</term> morning</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sunset(n)">Sunsett</form> -- <xpln lang="al">Qwunsewh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form number="1" lexeme="sup(v)" lexeme="supper, have been at">to sup or to haue
+bene at supper</form> } <xpln lang="al">Meatsun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="summer(n)">Summer</form> <xpln lang="al">Cowwotaioh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="suck(v)">to suck</form> <xpln lang="al">Anowwoninr</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sword(n)">a sword</form> <xpln lang="al">Monohacan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sweat(v)">to sweat</form> <xpln lang="al">Vebowchass.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="swim(v)">to swym</form> <xpln lang="al">Tooskean.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="swell(v)">to swell</form> <xpln lang="al">Cunnaqueis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="swan(n)">a Swa<expan type="">n</expan></form> <xpln lang="al">wopussouc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="swallow(v)">to swallow</form> <xpln lang="al">Quantamun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="sweep(v)">to sweepe</form> <xpln lang="al">Tsekehica</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to swym as a
+peece of wood
+or feather o<expan type="">n</expan>
+the water</form> -- } <xpln lang="al">Puppoqwa&#173;
+hauns.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">T.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Tanggo</form> <xpln>let me see <expan type="">yt</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Towaughe</form> <xpln lexeme="crumb(n)">a Crome</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Tanx</form> <xpln lexeme="small(a)" lexeme="little(a)">smale or little</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Tamokin</form> <xpln lexeme="swim(v)">to swimme</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Tauosin</form> <xpln lexeme="stool(n)">a stoole</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Tangeqwath</form> <xpln>a furre like
+a sables</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Tamohake</form> <xpln lexeme="hatchet(n)">a Hatchett</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="take(v)">Take yt</form> -- <xpln lang="al">Vntowh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to take vp <expan type="">with</expan>
+a spoone</form> -- <xpln lang="al">Auutsahamun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="take off(v)">to take off</form> <xpln lang="al">Rassunnemun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="prisoner, take(v)">To take one
+prisoner</form> -- <xpln lang="al">Necakessutten.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tobacco, take">To take Tobacco</form> <xpln lang="al">vepessemaan&#173;
+pooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="heed, take(v)">to take heed</form> --  <xpln lang="al">Anmwoir</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="target(n)">a Targett</form> <xpln lang="al">Amun whokk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tail(n)">the Taile of any
+thing</form> -- } <xpln lang="al">wushaqwun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tell(v)">to tell one any
+thing</form> -- } <xpln lang="al">Cutterah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="throw away(v)">to throw a thing
+awaie</form> -- } <xpln lang="al">Apacet.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="thunder(n)">Thunder</form> <xpln lang="al">Vindgruppauk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="thigh(n)">a thigh</form> <xpln lang="al">Wijhqwaus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="these(pr)">these</form> -- <xpln lang="al">yowhs</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="this(pr)">this</form> <xpln lang="al">yowhk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="thread(n)">threed</form> <xpln lang="al">Penimathhatoan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="thumb(n)">the thumb</form> <xpln lang="al">Vketeqwaivtteindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="throat(n)">the throat</form> <xpln lang="al">Vegwuntaak.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="three(n)">three</form> -- <xpln lang="al">Nus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tobacco(n)">Tobacco</form> --  <xpln lang="al">Vhpooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tobacco-pipe(n)">a Tobacco pipe</form> <xpln lang="al">vhpoocan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tobacco(n)" lexeme="bag(n)">a Tobacco bag</form> <xpln lang="al">vttamancoih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the tobacco is good</form> <xpln lang="al">Wingutsee
+vpooc.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the Tobacco is
+naught</form> -- } <xpln lang="al">Keshemaik.pooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="town(n)">a Towne</form> <xpln lang="al">Mussaran.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>the trayne of a
+bird</form> } <xpln lang="al">Ottanneis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tree(n)">a tree</form> <xpln lang="al">Meihtucs.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tree, green(n)">a greene tree</form> <xpln lang="al">Aqwataneik</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="walnut tree(n)">a walnut tree</form> <xpln lang="al">Assunnoineindge</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="oak tree(n)">an oake tree</form> -- <xpln lang="al">Poawnneindg</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="turtle(n)">a Turtle</form> -- <xpln lang="al">Accomodemsk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="turtle, sea(n)">a sea turtle</form> <xpln lang="al">Tuwcuppewk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="turd(n)">a turd</form> -- <xpln lang="al">Moich</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="turkey(n)">a Turkey</form> <xpln lang="al">Monanaw.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="turkey-cock(n)">a Turky Cock</form> <xpln lang="al">Ospanno</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to turne or take
+vp the Coales</form> } <xpln lang="al">Cuskessamun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="thread, twined(n)">twyned thread</form> <xpln lang="al">Pemucqwera&#173;
+neind.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="tie(v)">to tye or make
+fast any thing</form> } <xpln lang="al">Cuspurn.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V">V.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Veroance</form> <xpln lexeme="king(n)">A King or a great
+man.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Vndoth</form> <xpln lexeme="take(v)">take yt</xpln>
+</wordentry>
+
+
+
+</page>
+
+<page sig="105v">
+<wordentry type="h">
+<form lang="al">Vsquion</form> <xpln lexeme="arrow(n)">An Arrow</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Vmpsemen. apook.</form> <xpln>drinck tobacco.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Vmpsquoth</form> <xpln lexeme="moon(n)">the Moone</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Vaugh</form> <xpln>a word of wonder.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="vein(n)">a Vaine</form> <xpln lang="al">Abescur.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="village(n)">a village</form> <xpln lang="al">Kaasun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="Virginia(pn)">Virginia</form> <xpln lang="al">Tsenahcommacah.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="underneath(adv)">vnderneath</form> <xpln lang="al">Vtshemaijnd<emend err="g"></emend></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="unclose hands">to vncolse hand<expan type="">es</expan></form> <xpln lang="al">Penumun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I vnderstand well</form> <xpln lang="al">Kennehautows.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>I vnderstand not</form> <xpln lang="al">Matakennown&#173;
+to rawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="vine(n)">a vine</form> <xpln lang="al">wapapammdge.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W">W.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Weyano</form> <xpln lexeme="lean(n)">the leane of any
+thing.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Wekowehees</form> <xpln lexeme="hare(n)">a hare.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">wapin</form> <xpln lexeme="stab(n)">a Stab.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">wysotonaoans</form> <xpln lexeme="beard(n)">a beard</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">winpe</form> <xpln lexeme="marrow(n)">Marrow</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">woussicket</form> <xpln lexeme="brook(n)">a running brooke</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">woughtathe</form> <xpln lexeme="swim(v)">to swy<expan type="">m</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">wecacke</form> <xpln>the yard of a RacKone</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">wousckan</form> <xpln lexeme="bone(n)">A bone</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">winggapo</form> <xpln>my beloved freind</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">winga<expan type="">n</expan></form> <xpln lexeme="good(a)">Good</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">winganouse</form> <xpln lexeme="good, very(a)">very good</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form>a waare to 
+take ffish</form> -- } <xpln lang="al">Neihsacan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="walnut(n)">a walnut</form> <xpln lang="al">Ahsmenuns.
+Paukauns.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to wash the face</form> <xpln lang="al">Keseiqwaan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>to wash the hand</form> <xpln lang="al">Keseiceindcher.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wash(v)">to wash any thing</form> <xpln lang="al">Ketssetawun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="water(n)">water</form> <xpln lang="al">Sucqwahan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wart(n)">a wart</form> <xpln lang="al">Meihkeis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="warm(v)">to warme one</form> <xpln lang="al">Bahtanomun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>yt is warme or hot
+weather</form> -- } <xpln lang="al">chingissum</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="waken(v)">to wake<expan type="">n</expan></form> <xpln lang="al">Vnamun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wave(n)">the waves of the
+Sea</form> -- } <xpln lang="al">Aquraskawwans</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="walk(v)">to walke</form> <xpln lang="al">Pawpawmear</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="weak(a)">weake</form> <xpln lang="al">kesshemauc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="weary(a)">weary</form> <xpln lang="al">cuttoxeen.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Attasqwus</form> <xpln lexeme="weed(n)">weedes.</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="weep(v)">to weepe</form> <xpln lang="al">Nummawh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>yt is well or ynough</form> <xpln lang="al">wamattuwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="welcome(n)">welcome or the word
+of greeting</form> } <xpln lang="al">wingapo
+chamah
+Netab.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="well(n)">a well</form> <xpln lang="al">ohcawooc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="west(n)">the west</form> <xpln lang="al">Atagwassanna</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wet(a)">wett</form> <xpln lang="al">Neppe.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>what is yo<expan type="">ur</expan> name</form> <xpln lang="al">Cacuttere&#173;
+windg yowk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>cacuttewingd
+Near.</form> <xpln lang="al"></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="when(c)">whe<expan type="">n</expan></form> <xpln lang="al">Tanoo chirick.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>where have <expan type="">you</expan> be<expan type="">n</expan></form> <xpln lang="al">Tanaowaam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="whet(v)">to whet</form> <xpln lang="al">Nusseseqwus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="whelp(n)">whelpes</form> -- <xpln lang="al">Apowhoh-homins</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wheat(n)">wheat</form> <xpln lang="al">Pocuttawes</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wheat(n)" lexeme="plumb(n)">a wheat <emend err="tonij">plomb</emend></form> <xpln lang="al">Asseseim.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>wheat parcht in
+the fier</form> -- } <xpln lang="al">Aparoumenans</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="white(a)">white</form> -- <xpln lang="al">Opaivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="whistle(v)">to whistle</form> -- <xpln lang="al">Qweisqwesun</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="whiting(n)">a whiting</form> <xpln lang="al">Vtteitsouk.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wind, small(n)">the small wynd</form> <xpln lang="al">Rowhsunnvwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wind, great(n)">a great wynd</form> <xpln lang="al">Mahqwaih</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wife(n)">a wife</form> <xpln lang="al">Noungasse</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wing(n)">a wing</form> <xpln lang="al">Vttocannuc</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="widgeon(n)">a widgeo<expan type="">n</expan></form> <xpln lang="al">Ponomawus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form>will <expan type="">you</expan> goe home</form> <xpln lang="al">Nummacha.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="winter(n)">winter</form> <xpln lang="al">Puppaannoh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wind about(v)">to wind about</form> <xpln lang="al">Pasqwuxxaws</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="woman(n)">a woma<expan type="">n</expan></form> <xpln lang="al">Cwtssenepo.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="breast, woman's(n)">a womans breast</form> <xpln lang="al">Otaus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="woman with child(n)">a woman <expan type="">with</expan> Child</form> <xpln lang="al">Pomevwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="queen(n)">a woman queene</form> <xpln lang="al">wironausqua</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="woman, old(n)">an old woma<expan type="">n</expan></form> <xpln lang="al">Tumpseis.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="maggot(n)">a little worme or magot</form>  <xpln lang="al">Mowsah</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wood(n)">wood</form> -- <xpln lang="al">Musheis</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wound(n)">a wound</form> -- <xpln lang="al">Nepocuttokean.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="world(n)">the world</form> <xpln lang="al">Pamahsaivwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wolf(n)">a woolf</form> -- <xpln lang="al">Naantam.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wrestle(v)">to wrastle</form> <xpln lang="al">Mamarenaretun.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="wrap(v)">to wrap or wind vp any thing</form>  <xpln lang="al">Nuwweisqwqaput.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y">Y
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Yeahaukan</form> -- <xpln lexeme="house(n)">a howse</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Yeokanta</form> -- <xpln lexeme="river(n)">a River</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="al">Yeough.</form> -- <xpln lexeme="four(n)">4 in Nomber</xpln>
+</wordentry>
+</wordgroup2>
+
+<wordgroup2 type="b" object="English-Indian">
+<wordentry type="h">
+<form lang="en" lexeme="yawn(v)" lexeme="gape(v)">to yawne or gape</form> <xpln lang="al">Tawatuttener</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="yellow(a)">yellow</form> -- <xpln lang="al">Oussawaik.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="yesterday(n)">yesterday</form> -- <xpln lang="al">Osaioh</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="yea(ex)" lexeme="yes(adv)">yea or yes</form> -- <xpln lang="al">Cuppeh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="yonder(adv)" lexeme="far off(adv)">yonder or far off</form> <xpln lang="al">Yoaxvwh.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="younger(a)">yo<expan type="">un</expan>ger</form> -- <xpln lang="al">wesuws</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lang="en" lexeme="you(pr)"><expan type="">you</expan></form> -- <xpln lang="al">Kear.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z">Z.
+<wordgroup2 type="b" object="Indian-English">
+<wordentry type="h">
+<form lang="al">Zanckone</form> -- <xpln lexeme="sneeze(v)">to sneese.</xpln>
+</wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<closing>Finis / .</closing>
+
+</section>
+
+
+</page>
+</leme>

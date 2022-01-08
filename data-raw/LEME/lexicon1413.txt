@@ -1,0 +1,653 @@
+<leme no="1413">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 3 6 0 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+<term lang="la">Lac puero<expan type="">rum</expan>. M. holti</term> 
+Mylke for chyldren.
+</section>
+
+</page>
+
+<page sig="c8r">
+<section type="Noun">
+
+<heading>
+&#182; <term lang="la">Secunda pars principalis</term>
+</heading>
+
+<wordgroup1 type="t"><alpha>&#182; Diffinicyon of nownes</alpha>
+<wordentry type="h"><form lang="en" lexeme="noun(n)">A Nowne</form> <xpln lang="en">betokeneth a thynge w<expan type="">ith</expan>out ony 
+difference of tyme. Also the name of all <expan type="">that</expan> 
+I may see fele or perceyue by ony of my 
+fyue wytes / is a nowne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="proper(a)" lexeme="noun(n)">&#182; A nowne propre</form> <xpln lang="en">betokeneth a thynge 
+c<expan type="">om</expan>mune but to one thynge alone of his fyrst ordyna<expan type="">un</expan><emend err="">&#173;</emend>
+ce / as <term lang="la">Virgilius. roma.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="appellative(a)">&#182; A nowne appellatyf</form> <xpln lang="en">betokeneth a thynge commu<emend err="">&#173;</emend>
+ne to many thynges of his fyrst ordynaunce / &#38; euery 
+thynge after of the same kynde is called by the same 
+name / as <term lang="la">homo. lapis albus niger.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="substantive(a)">&#182; A nowne substantyf</form> <xpln lang="en">may stande by hymself with 
+out the helpe of an adiectyf / as <term lang="la">homo. lapis.</term> and co&#173;<emend err="">&#173;</emend>
+meth comenly with one of these tokens a / an / the. as 
+a man / an horse / the sonne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="adjective(a)">&#182; A nowne adiectyf</form> <xpln lang="en">may not stande by hym self <expan type="">with</expan> 
+out the helpe of a substantyf / as <term lang="la">albus niger.</term>
+
+
+
+
+</page>
+
+<page sig="c8v">
+&#182; All adiectyues of nownes &#38; pronownes c<expan type="">om</expan>menly 
+goth before the substantyf / whan they be Ioyned to 
+gyder / as a good man / a fayre mayd<expan type="">en</expan> / my fader / my 
+moder. A particyple cometh after his substantyf / as 
+the moder techynge / the belle ronge
+
+&#182; Here is to be noted that adiectyues in the neutre 
+gendre. hauynge after them exprest or vnderstonde 
+ony of these englysshe wordes / thynge / thynges / or 
+gere / be as substantyues / and be called subst<expan type="">an</expan>tyues 
+and stande substantyuate / as <term lang="la">album differt a nigro. 
+pauca habeo multis indigeo.</term>
+
+So may be an Infinityf mode / as <term lang="la">amare legere.</term> or 
+ony other worde I put materyally / as <term lang="la">Ego est <expan type="">pro</expan>no&#173;
+men / amo est verb<expan type="">um</expan></term> / <expan type="">the</expan> whiche be alwaye vnmouable 
+&#38; the synguler n<expan type="">om</expan>bre &#38; <expan type="">the</expan> thyrde persone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="interrogative(a)">A nowne interrogatyf</form> <xpln lang="en">betokeneth ask<expan type="">yn</expan>ge of a thyn<emend err="">&#173;</emend> 
+ge as <term lang="la"><expan type="">qui</expan>s qualis quot<expan type="">us</expan> quot cui<expan type="">us</expan> quoten<expan type="">us</expan> 
+quot<expan type="">en</expan>nis. </term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="redditive(a)">A nowne reddityf</form> <xpln lang="en">answereth to a questyon by some 
+lykenes or shewynge / as <term lang="la">talis. tantus. tot. solus. bin<expan type="">us</expan> 
+biennis.</term></xpln>
+<lemenote>
+"reddityf" antedates the earliest OED citation (c1525).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="relative(a)">A nowne relatyf</form> <xpln lang="en">maketh rehersynge of a th<expan type="">yn</expan>ge that
+was spoken of afore / as qui: qualis quantus: quotus 
+quot: &#38; cuius.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="distributive(a)" lexeme="universal(a)">A nowne distributyf or vniuersal</form> <xpln lang="en">is thus englysshed 
+all / eche / euery / none. &#38; they be. ii. sortes. Affirmaty&#173;<emend err="">&#173;</emend>
+ues / as <term lang="la">quilibet. o<expan type="">mni</expan>s. vter<expan type="">que</expan></term>. Negatyues / as nemonul<emend err="">&#173;</emend> 
+lus nichil / &#38; all suche as begynneth <expan type="">with</expan>. N.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="partitive(a)">A nowne partityf</form> <xpln lang="en">betokeneth a parte / as <term lang="la">alter. vn<expan type="">us</expan> 
+ali<expan type="">qui</expan>s</term>. &#38; suche as ben thus englysshed / some or ony</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="noun(n)" lexeme="infinitive(a)">A nowne Infinityf</form> <xpln lang="en">hath in his englysshe / maner / &#38;
+
+
+
+
+</page>
+
+<page sig="d1r">
+euery / as <term lang="la">quic<expan type="">um</expan><expan type="">que</expan>. quisquis. quinis. anglice</term> what ma<emend err="">&#173;</emend>
+ner of man or who so euer.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Gender"><alpha>&#182; Diffinicyon of Gendres:</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="masculine(a)" lexeme="gender(n)">&#182; The masculyne gendre</form> <xpln lang="en">is that / that is accordyng 
+to males onely / in them that hath both male and fe&#173;
+male / as <term lang="la">vir.</term> or els is wonte of auctours to be Ioye&#173;
+ned to masculynes where is no difference of male or 
+female / as <term lang="la">lapis</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="feminine(a)" lexeme="gender(n)">The feminyne gendre</form> <xpln lang="en">is that / that is accordynge to 
+to females onely in th<expan type="">em</expan> &#38;c. as <term lang="la">mulier.</term> Or elles is won<emend err="">&#38;shy:</emend>
+te of auctours to be Ioyned <expan type="">with</expan> feminynes where is 
+no &#38;c. as <term lang="la">petra.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neuter(a)" lexeme="gender(n)">The neutre gendre</form> <xpln lang="en">is that / that is In different to both 
+of them &#38;c. as iument<expan type="">um</expan>. or els is wonte of auctours 
+to be Ioyned with neutres where is &#38;c. as <term lang="la">saxum.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(a)" lexeme="gender(n)">The comon g<expan type="">en</expan>dre</form> <xpln lang="en">is that / that is comon both to ma&#173;
+les and females in thynges onely that haue lyfe / as 
+<term lang="la">parens miles.</term>
+
+These nownes be of all gendres that to all thynges 
+may pertayne / Indifferently / as <term lang="la">felix velox</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="doubting(a)" lexeme="gender(n)">There be also besyde all these some nownes that be 
+called of the dubyn gendre /</form> <xpln lang="en">the whiche without ony 
+discrecyon of sygnificacyon be supposed now to the 
+masculyne / and now to the feminyne terminacyon / 
+as <term lang="la">margo dies.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="epicene(a)" lexeme="gender(n)">There be some of the Epycen gendre /</form> <xpln lang="en">the whiche vn<emend err="">&#173;</emend>
+der one voyce &#38; vnder one artycle compreh<expan type="">en</expan>de both, 
+male &#38; female / as <term lang="la">hic passer hec dama.</term> bothe for ma<emend err="">&#173;</emend>
+le and female.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Case"><alpha>&#182; Diffinicyon of cases.</alpha>
+
+
+
+
+</page>
+
+<page sig="d1v">
+<wordentry type="h"><form lang="en" lexeme="nominative(a)" lexeme="case(n)">The no<expan type="">min</expan>atyf case</form> <xpln lang="en">is that / that nameth a thynge as it 
+is onely / and not in other respecte / and his englysshe 
+may answere to this questyon / who / or what sette be 
+fore the englysshe of a verbe of certayne nombre and 
+certayne persone / as <term lang="la">poeta.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="genitive(a)" lexeme="case(n)">The genityf case</form> <xpln lang="en">generally betokeneth a thynge as 
+the hauer / as poete. &#38; <expan type="">it</expan> is the cause it may be torned 
+in to <expan type="">the</expan> possessyf / his sygne in englysshe is this worde 
+of / therfore whan <expan type="">the</expan> worde of cometh before a nowne 
+propre or appellatyf / it shall be put in <expan type="">the</expan> genityf case 
+yf the reason may be torned in to this wyse / <expan type="">the</expan> haft of 
+my knyf / my knyues hafte / or els comenly it may be 
+sayd by a preposicyon / as <term lang="la">arguor a preceptore</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dative(a)" lexeme="case(n)">The datyf case</form> <xpln lang="en">betokeneth a thynge as to whiche is 
+geu<expan type="">yn</expan>ge / wantynge / profyt or hurte / or to the whiche 
+is lykenesse / euynnesse / send<expan type="">yn</expan>ge or pleasure / &#38; his syg<emend err="">&#173;</emend>
+ne in englysshe is this worde to / as I am profytable 
+lyke or egalle to the / <term lang="la">s<expan type="">um</expan> vtilis similis vel equalis tibi.</term>
+
+&#182; Here is to be noted that this englysshe worde to be 
+fore a casuel worde without bodely mouynge / requy<emend err="">&#173;</emend>
+reth the datyf case / but with bodely mouynge the ac&#173;
+cusatyf with this preposicyon <term lang="la">ad.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="accusative(a)" lexeme="case(n)">The accusatyf case</form> <xpln lang="en">betokeneth a thynge as sufferyn&#173;
+ge / &#38; generally all that / that may receyue the dede of 
+the verbe actyf / or the actyf significacyon shall be the 
+accusatyf case.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vocative(a)">The vocatyf</form> <xpln lang="en">betokeneth a th<expan type="">yn</expan>ge as called or spok<expan type="">en</expan> to</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ablative(a)" lexeme="case(n)">The ablatyf case</form> <xpln lang="en">betokeneth a th<expan type="">yn</expan>ge as frome the 
+whiche some what is taken a waye. He betokeneth al 
+so tyme / pryce / or instrument / &#38; all these be <expan type="">the</expan> sygnes
+
+
+
+
+</page>
+
+<page sig="d2r">
+of <expan type="">the</expan> accusatyf case. In / by / with thorowe / for / from 
+&#38; fro / also by a place / &#38; this worde then / after a com&#173;
+paratyf degree / be sygnes of the ablatyf case.
+
+The worde <expan type="">that</expan> sygnifyeth Instrumente / hath comen<emend err="">&#173;</emend>
+ly vnderstonde or sette out this englysshe sygne <expan type="">with</expan> &#38; 
+wyll haue neuer after <expan type="">the</expan> crafte this <expan type="">pre</expan>posicyon C<expan type="">um</expan>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Number"><alpha>&#182; Diffinicyon of nombre:</alpha>
+<wordentry type="h"><form lang="en" lexeme="singular(a)" lexeme="number(n)">&#182; The synguler nombre</form> <xpln lang="en">speketh but of one thynge / 
+as <term lang="la">vix.</term> a man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plural(n)">
+&#182; The plurell</form> <xpln lang="en">speketh of many thynges / as <term lang="la">vixi.</term> as 
+men.
+
+&#182; Here is to be noted that nownes of multitude as 
+<term lang="la">populus. gens.</term> though they be the synguler nombre / 
+they haue the strength of the plurell / lyke as haue. ii. 
+or mo propres or appellatyues / as <term lang="la">virgilius</term> and <term lang="la">Ful<emend err="">&#173;</emend>
+gentius. Gr<expan type="">am</expan>maticus</term> and Rhetor.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Person"><alpha>&#182; Diffinicyon of persones.</alpha>
+<wordentry type="h"><form lang="en" lexeme="first(a)" lexeme="person(n)">The fyrst persone</form> <xpln lang="en">is knowen by these sygnes. I me 
+vs / &#38; we. &#38; is onely appropered to <expan type="">the</expan> thynge that spe&#173;
+keth / &#38; of this persone be but. ii. latyn wordes with 
+theyr oblyques <term lang="la">Ego &#38; nos. vt prius</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="second(a)" lexeme="person(n)">The seconde <expan type="">per</expan>sone</form> <xpln lang="en">is knowen by these sygnes / thou 
+the / you / or ye. and longeth onely to the thynges that 
+is spoken to.
+
+Of this persone also be but. ii. latyn wordes <expan type="">with</expan> theyr 
+oblyques. <term lang="la">tu &#38; vos</term> and euery vocatyf case.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="third(a)" lexeme="person(n)">All other casuell wordes in the worlde be of the thyr<emend err="">&#173;</emend> 
+de persone.</form> <xpln lang="en"></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t"><alpha>&#182; Diffinicyon of pronownes</alpha>
+<wordentry type="h"><form lang="en" lexeme="pronoun(n)">&#182; A pronowne</form> <xpln lang="en">is a parte of speche <expan type="">the</expan> whiche is sette
+
+
+
+
+</page>
+
+<page sig="d2v">
+for a propre name of a man or any thyng else &#38; re<emend err="">&#173;</emend>
+ceyueth certeyn noumbre and certeyn persone</xpln>
+<lemenote>
+Signature d3r is taken from STC 13606.3 (1511).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pronoun(n)" lexeme="infinitive(a)">A <expan type="">pro</expan>nowne primityf is</form> <xpln lang="en">that. that hath hys begyn<emend err="">&#173;</emend>
+nynge of none other worde. and those be. viij. vt pri<expan type="">us</expan></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pronoun(n)" lexeme="derivative(a)">A pronowne Diriuatyf</form> <xpln lang="en">is that. that is deduct out 
+of his primityf. and is as possessyd. as <term lang="la">Meus</term> of <term lang="la">ego</term>.
+
+<term lang="la">Noster</term> of <term lang="la">nos</term>. And they be. vij. <term lang="la">vt prius</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pronoun(n)" lexeme="relative(a)">A pronowne relatyf</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pronoun(n)" lexeme="demonstrative(a)">A pronowne demonstratyf</form> <xpln lang="en"></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pronoun(n)" lexeme="redditive(a)">A pronowne reddityf.</form> <xpln lang="en">is so diffinyd. <term lang="la">vt prius</term></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Verb"><alpha>B6 Diffinicyon of a verbe</alpha>
+<wordentry type="h"><form lang="en" lexeme="verb(n)">A verbe</form> <xpln lang="en">betokeneth a thynge with some token of 
+tyme. as I loue. I loued. I haue loued
+
+Also he betokeneth to doo. suffre. or to be. as <term lang="la">Pu<emend err="">&#173;</emend>
+gno. Vapulo. Sum.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="substantive(a)">Of verbes some be Subst<expan type="">an</expan>tyues.</form> <xpln lang="en">as <term lang="la">Sum.</term> and all in this verse
+
+
+
+
+</page>
+
+<page>
+<term lang="la">Sum. fit &#38; existo. manet exto. cum fore. consto.</term> with fewe other moo. when thei be thus englyssed 
+<term lang="la">Am. art.</term> is. was. wer. or be</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vocative(a)">Also be. v. verbes vocatyues.</form> <xpln lang="la">s. Nominor. Appellor 
+Vocor. Dicor. Nuncupor</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adjective(a)">All other verbes be called adiectyfes. as</form> <xpln lang="la">amo lego 
+doceo. curro. loquor. &#38;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="personal(a)">Of verbes Some be <expan type="">per</expan>sonals.</form> <xpln lang="en">as <term lang="la">amo lego.</term> the 
+whiche hath certeyn no<expan type="">um</expan>bre &#38; persone. &#38; they be con<emend err="">&#173;</emend>
+iugate with thre distyncte voyces in both noumbres 
+as <term lang="la">Amo amas amat.</term> The plu. <term lang="la">amam<expan type="">us</expan> amat<expan type="">us</expan> am<expan type="">an</expan>t</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="impersonal(a)">Some be impersonalles</form> <xpln lang="en">as <term lang="la">tedet miseret.</term> the whi<emend err="">&#173;</emend>
+che be coniugate in the voyce of the thyrde person on<emend err="">&#173;</emend>
+ly singuler in euery mode &#38; tense of both voyces. as <term lang="la">re&#173;
+dettedebat. amatur amabatur.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="personal(a)">Of verbes personalles</form> <xpln lang="en" lexeme="active(a)">some be Actyues. as <term lang="la">A&#173;
+mo.</term> Some be Passyues. as <term lang="la">amor</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="neuter(n)">Some be Neutres.</form> <xpln lang="en">as <term lang="la">iurro.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="deponent(n)">Some be Deponentes.</form> <xpln lang="en">as <term lang="la">Loquor</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="common(n)">Some be Communes.</form> <xpln lang="en">as <term lang="la">Largior</term>
+
+Here is to be noted <expan type="">that</expan> al <expan type="">ver</expan>bes <expan type="">that</expan> maketh ful senten<emend err="">&#173;</emend>
+ce by th<expan type="">em</expan>silfe. without any casuel worde after theym /
+that shulde receyue 
+their dede be called absolute. as 
+<term lang="la">Sto.</term> I stonde. <term lang="la">Iacio.</term> I lye. <term lang="la">Sedeo</term> I sitte</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="transitive(n)">Al verbes else be called tr<expan type="">an</expan>sitiues.</form> <xpln lang="en">Of these. ij. kyn<emend err="">&#173;</emend>
+des some ende in o. As actyues &#38; neutres. &#38; some en&#173;
+de in r. as passyues. deponentes. &#38; c<expan type="">om</expan>munes</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="active(a)">A verbe actyf</form> <xpln lang="en">endeth in o. &#38; betokeneth a dede <expan type="">that</expan> 
+may go into a resonable thynges. as <term lang="la">amo tango</term>
+
+Resonable thynges I cal God angel fende &#38; man</xpln></wordentry>
+
+
+
+
+</page>
+
+<page>
+<wordentry type="h"><form lang="en" lexeme="verb(n)" lexeme="neuter(a)">A verbe neutre</form> <xpln lang="en">endeth in o. &#38; betokeneth noo de<emend err="">&#173;</emend>
+de that may passe into a resonable thynge. as <term lang="la">Sto. 
+Curro eo</term>
+
+Here is to be noted that all verbes in o. that hath 
+before theym any of theise signes am art &#38;c. be called 
+verbe neutre passyues. as <term lang="la">Caleo</term> I am hote. <term lang="la">Frigeo</term>
+I am colde. <term lang="la">Insanio</term> I am madde
+
+Of verbes neutres some be pure. as <term lang="la">Sto Curro</term>
+some be substantyues as <term lang="la">Sum &#38; Fore</term>. And some be 
+neutre passyues. as <term lang="la">Caleo Frigeo</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="verb(n)" lexeme="passive(a)">A verbe passyf</form> <xpln lang="en">endeth in R. &#38; betokeneth to suf&#173;
+fre. and hath also byfore hym one of theise sayde syg&#173;
+" lexeme="nes am. <term lang="la">art. &#38;cetra.</term>
+
+
+
+
+</page>
+
+<page sig="d3v">
+and to the moost perfyte sentence he requyreth some 
+thynge after h<expan type="">ym</expan> to answere to this questyon of wh<expan type="">om</expan> 
+or of what / as<term lang="la">amor a te</term> I am loued of the.
+
+To these verbes be reduced. vi. verbes that ende in o 
+word as <term lang="la">Exulo. Liceo. Vapulo. Veneo. Fio.</term> and <term lang="la">Nubo.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="verb(n)" lexeme="deponent(a)">A verbe deponente</form> <xpln lang="en">endeth in r. and hath diffinicyon 
+onely of the actyf / as <term lang="la">loquor</term>. Or els onely of the pas&#173;
+syf / as <term lang="la">nascor.</term>
+
+And generally verbes that ende in r. &#38; haue none of 
+these sayd sygnes be verbes deponentes / as <term lang="la">sequor</term> to 
+folowe / <term lang="la">opinor</term> to wene / trowe / or suppose</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="verb(n)" lexeme="common(a)">A verbe c<expan type="">om</expan>mune</form> <xpln lang="en">endeth in r. &#38; hath diffinicyon both 
+of the actyf and of the passyf / as <term lang="la">largior</term> to graunte / 
+or to be graunted.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Tense"><alpha>&#182; Diffinicyon of tenses.</alpha>
+<wordentry type="h"><form lang="en" lexeme="present(a)" lexeme="tense(n)">&#182; The presentens</form> <xpln lang="en">betokeneth a thynge that is in do<emend err="">&#173;</emend> 
+ynge now / and hath expressed or vnderstonde this 
+englysshe sygne do / in all verbes transityues / as I 
+loue or do loue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preterimperfect(a)" lexeme="tense(n)">The <expan type="">pre</expan>terim<expan type="">per</expan>fy tens</form> <xpln lang="en">betokeneth a thynge as late be<emend err="">&#173;</emend> 
+gonne / but not yet <expan type="">per</expan>fytly ended or fynysshed &#38; hath 
+exprest or vnderstonde <expan type="">with</expan> <expan type="">tthe</expan> condic<expan type="">ou</expan>n afore sayd this
+englysshe sygne dyde / as I loued / or dyde loue.</xpln>
+<lemenote>
+"preterimperfyt" antedates the earliest OED citation (c1525). 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="preterperfect(a)" lexeme="tense(n)">The preterper<expan type="">fect</expan>.</form> <xpln lang="en">betokeneth a thynge as perfytly finis<emend err="">&#173;</emend>
+shed &#38; hath alwaye expressed or vnderstonde this en&#173;
+glysshe sygne haue / as I haue loued. I haue taught 
+The <expan type="">pre</expan>terplu<expan type="">perfect</expan>. betokeneth a thynge that was perfytly 
+past / of longe tyme agone / and he hath alwaye ex&#173;
+pressed or vnderst<expan type="">on</expan>de this englysshe sygne had as I 
+had loued. I had taught.</xpln>
+<lemenote>
+"preterperfect" antedates the earliest OED citation (c1525). 
+</lemenote>
+</wordentry>
+
+
+
+
+</page>
+
+<page sig="d4r">
+<wordentry type="h"><form lang="en" lexeme="future(n)">The future</form> <xpln lang="en">betokeneth a thynge that is to come and 
+euermore hath exprest vnderstonde one of these en&#173;
+glysshe sygnes / wyll or shall. as I wyll loue / or shall 
+loue. I wyll teche / or I shall teche.
+
+&#182; Here is to be noted that yf the verbe may receyue 
+in his englysshe this sygne. haue after to / as <term lang="la">misere&#173;
+or misereris.</term> to haue mercy or pyte. <term lang="la">Ab<expan type="">un</expan>do das.</term> I ha<emend err="">&#173;</emend>
+ue ynough.
+
+Than must I altre some of my sygnes / &#38; some must 
+I double in this wyse.
+
+In the present haue. In the preterin<emend err="n">perfect</emend>. hadde. In the 
+<expan type="">pre</expan>terper<expan type="">fect</expan>. haue had. In the <expan type="">pre</expan>terplu<expan type="">perfect</expan>. had had. In <expan type="">the</expan> fu&#173;
+ture. wyll haue or shall haue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Mood"><alpha>&#182; Diffinicyon of modes.</alpha>
+<wordentry type="h"><form lang="en" lexeme="showing(a)" lexeme="mode(n)">&#182; The shewynge mode</form> <xpln lang="en">sygnifyeth a thynge as told 
+as I loue. I do loue / &#38; requyreth a nom<expan type="">in</expan>atyf or a vo<emend err="">&#173;</emend> 
+catyf case before hym / as <term lang="la">ego lego. Virgili lege.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mode(n)" lexeme="asking(a)">&#182; The askynge mode</form> <xpln lang="en">signifyeth a th<expan type="">yn</expan>ge as questy<expan type="">on</expan> 
+as loue I. do I loue / &#38; comenly requyreth his no<expan type="">min</expan>a 
+tyf or vocatyf after hym. Elles betwixte his sygne &#38; 
+hym both in comyn speche / &#38; also in latyn / as doost 
+thou here hym? <term lang="la">Audiuisti tu illum?</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mode(n)" lexeme="bidding(a)">&#182; The byddynge mode</form> <xpln lang="en">signifyeth a thynge as byd&#173;
+dynge or c<expan type="">om</expan>maund<expan type="">yn</expan>ge. And requyreth his nom<expan type="">in</expan>atyf 
+case or vocatyf / lyke the askynge mode / as speke vir&#173;
+gyll. <term lang="la">Loquere virgili.</term> Here you. <term lang="la">Audite vos.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mode(n)" lexeme="wishing(a)" lexeme="optative(a)">&#182; The wysshynge mode or optatyf</form> <xpln lang="en">signifyeth a thyn<emend err="">&#173;</emend> 
+ge as desyred / &#38; hath exprest or vnderstonde both in 
+latyn &#38; in englysshe. <term lang="la">vt pri<expan type="">us</expan> in prima parte.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="potential(a)" lexeme="mode(n)">&#182; The potencyall mode</form> <xpln lang="en">betokeneth a thynge as not
+ 
+
+
+
+</page>
+
+<page sig="d4v">
+done / but that may or myght haue be done &#38; hath as 
+grete strength as one of these verbes <term lang="la">Possum. volo. 
+debeo.</term> And the Infinityf mode of the verbe that he 
+cometh of / and his sygnes in englysshe be these / may 
+myght / wold / sholde / ought / must. &#38; other lyke / as <term lang="la">ra<emend err="">&#173;</emend> 
+perem</term> I wolde pulle. <term lang="la">obtunder<expan type="">em</expan></term> I wolde knocke
+This mode also is vsed comenly eyther with a nega<emend err="">&#173;</emend> 
+tyf / or with an other condicyonall clause / as. <term lang="la">Si hoc 
+non possum. flumina amen. Non expectet</term>
+
+<term lang="la">Si esset in his fides. non laboraremus</term>
+
+Some tyme he is vsed without negacyon or condicy<emend err="">on</emend>
+
+Also this mode may be vsed in questyon / as <term lang="la">quid igi 
+tur faciam? Non eam. Quid agas iust &#38;c.</term> with suche 
+condicyons as were shewed afore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subjunctive(a)" lexeme="mode(n)">&#182; The subi<expan type="">un</expan>ctyf mode</form> <xpln lang="en">betokeneth a thynge / as ioy&#173;
+ned incertayne persone and certayne nombre to an 
+other verbe / as <term lang="la">Iubeo ne facias.</term>
+
+His sygnes in englysshe be these / yf / but / &#38; when af&#173;
+ter that / and many other more.
+
+And also these latyns may haue after them the sub&#173;
+iunctyf mode. <term lang="la">Versus</term>
+
+<term lang="la">Si. <expan type="">quam</expan>uis. <expan type="">quam</expan><expan type="">quam</expan>. tametsi. licet. at<expan type="">que</expan> 
+
+prius<expan type="">quam</expan>
+Ante<expan type="">quam</expan>. an. donec. ve post<expan type="">quam</expan>. siue quous<expan type="">que</expan>
+Qu<expan type="">um</expan>. nisi. quin. acsi. quando<expan type="">que</expan> iungis vbi.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="infinitive(a)" lexeme="mode(n)">&#182; The infinityf mode</form> <xpln lang="en">betokeneth a thynge / as done 
+or to be done / without other nombre or persone / and 
+somtyme hath exprest these sygnes to / or to be / as to 
+loue / or to be loued.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Participle"><alpha>&#182; Diffinicyon of a Particyple</alpha>
+
+
+
+
+</page>
+
+<page sig="e1r">
+<wordentry type="h"><form lang="en" lexeme="participle(n)">A Particyple</form> <xpln lang="en">is a parte of speche declyned <expan type="">with</expan> 
+case ye whiche taketh parte of a nowne / par&#173;
+te of a verbe / and parte of bothe.
+
+He taketh of a nowne gendre and case / of a verbe ty&#173;
+me &#38; significacyon / of both nombre and fygure.
+
+&#182; A particyple was ordeyned to make yt reason shor<emend err="">&#173;</emend> 
+ter and more or not auoydynge ye concurse of relaty&#173;
+ues / aduerbes / &#38; coniunctions / <expan type="">with</expan> the whiche / were 
+not he / the reason sholde be foule accombred.
+
+&#182; There be. v. tenses in a particyple / as be in a verbe 
+One of the presentens &#38; preterin<expan type="">perfect</expan>. in one voyce An 
+other of <expan type="">the</expan> <expan type="">pre</expan>terper. &#38; plu. in one voyce. And two par&#173;
+ticyples of ye future in two voyces. One of yt fyrst fu&#173;
+ture in <term lang="la">rus</term> / &#38; an other of ye later future in <term lang="la">dus</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="participle(n)" lexeme="present(n)" lexeme="tense(n)" lexeme="preterimperfect(a)">&#182; The particyple of the presentens &#38; preterinper.</form> <xpln lang="en">is 
+knowen both by his englysshe &#38; by his latyn / for his 
+englysshe endeth in ynge or in and / as lou<expan type="">yn</expan>ge louand 
+And his latyn endeth in <term lang="la">ens</term> or in <term lang="la">ans</term> / as <term lang="la">legens. a&#173;
+mans.</term> and he is formed vt prius.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="participle(n)" lexeme="preterperfect(n)" lexeme="pluperfect(n)">&#182; The particyple of <expan type="">the</expan> <expan type="">pre</expan>terper. &#38; plu.</form> <xpln lang="en">is knowen 
+
+&#38;c. 
+For his englysshe begynneth <expan type="">with</expan> I or a. &#38; endeth in d 
+t or in n. as I loued. I taught. I seen a goon / &#38; his 
+latyn endeth in<term lang="la">rus. sus. or xus.</term> &#38; is formed <term lang="la">vt prius.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="participle(n)" lexeme="future(n)">&#182; The particyple of the fyrste future</form> <xpln lang="en">is knowen &#38;c. 
+for his englysshe begynneth with <term lang="la">I</term> or <term lang="la">a.</term> &#38; endeth in d
+t or in n. as I loued. I taught. I seen a goon / &#38; his
+latyn endeth in <term lang="la">rus. sus.</term> or <term lang="la">xus.</term> &#38; is formed <term lang="la">vt prius.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="participle(n)" lexeme="preterperfect(n)">&#182; The particyple of ye <expan type="">pre</expan>terper. &#38; plu.</form> <xpln lang="en">is knowen &#38;c.
+for his englysshe begynneth <expan type="">with</expan> to / without be / as 
+to loue. to teche / &#38; his latyn endeth in <term lang="la">rus</term> / as <term lang="la">amatu<emend err="">&#173;</emend> 
+rus. lecturus.</term> &#38; he is formed <term lang="la">vt prius.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="participle(n)" lexeme="future(n)">&#182; The particyple of the later future</form> <xpln lang="en">is knowen &#38;c. 
+for his englysshe beg<expan type="">yn</expan>neth <expan type="">with</expan> to &#38; be togyder / as to 
+be loued. to be taughte / &#38; his latyn endeth in <term lang="la">dus</term> / as
+<term lang="la">amanadus docendus</term> and he is formed. <term lang="la">vt prius.</term></xpln>
+<lemenote>
+The next page is missing in the EEBO copy of 1508 and is supplied from the 1510 edition (STC 13605).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Adverb"><alpha>&#182; Diffinicion of aduerbes.</alpha>
+
+
+
+
+</page>
+
+<page sig="c5r">
+<wordentry type="h"><form lang="en" lexeme="adverb(n)">AN aduerbe</form> <xpln lang="en" lexeme="primitive(n)" lexeme="derivative(n)" lexeme="signification(n)" lexeme="comparison(n)" lexeme="figure(n)">is sette to the verbe to fulfyll and declare the
+significacyon of the verbe.
+
+&#182; There be two maner of aduerbes.
+
+&#182; Some be primityues as Cl<expan type="">am</expan>. Some be deriuatyues / as <term lang="la">Cl<expan type="">am</expan><emend err="">&#173;</emend>
+culum.</term>
+
+&#182; Thre thynges longes to an aduerbe.
+
+&#182; Significacion. Comparyson. and Fygure. Significacy<expan type="">on</expan>s
+in aduerbe be many folde. Some be of tyme / some of place as it
+was shewed afore. And an aduerbe hath comparyson as had
+a nowne. The posityf as <term lang="la">Dieu</term>. The comparatyf as <term lang="la">diutius</term>.
+The superlatyf as <term lang="la">diutissime</term>. Some aduerbes be symple / as
+<term lang="la">Diu.</term> Some be c<expan type="">om</expan>pounded / as <term lang="la">Interdiu.</term> Some be 
+decompo<expan type="">un</expan>&#173;
+de / as <term lang="la">Imprudenter.</term></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Preposition"><alpha>&#182; Diffinicyon of Preposicyon.</alpha>
+<wordentry type="h"><form lang="en" lexeme="preposition(n)">A Preposicyon</form> <xpln lang="en" lexeme="apposition(n)" lexeme="composition(n)">is sette before all other partes of speche in
+apposicyon or in composicyon. A preposicyon standeth
+in apposicyon / Whan he is put before a parte declynable / &#38; go&#173;
+uerneth hym in case / as <term lang="la">ad d<expan type="">ominu</expan>m. a d<expan type="">omin</expan>o. in d<expan type="">omin</expan>o.</term> A 
+preposicyon
+stondeth in composicyon / When he is Ioyned to an other prepo<emend err="">&#173;</emend>
+sicyon / or to ony other parte of speche and of them two partes
+remayne but one named after the laste / as <term lang="la">Peramo</term> a verbe / &#38;
+<term lang="la">preclatus</term> a nowne. To a preposicyon longeth but one thynge
+case onely: or power to gouerne case onely. Of preposicyons 
+some be separable / as the thre forsayd sortes / and onely .vi. be.
+inseparable / as <term lang="la">Di. Dis. Re. Se. Con. An.</term> All preposicyons se<emend err="">&#173;</emend>
+parable of the fyrst sorte wyll haue after them an accusatyf ca<emend err="">&#173;</emend>
+se. All preposicyons of the seconde sorte an ablatyf. Preposicy<emend err="">&#173;</emend>
+ons of the thyrde sorte wyll haue after them an accustaf ca<emend err="">&#173;</emend>
+se. All preposicyons of the seconde sorte an ablatyf. Preposicy<emend err="">&#173;</emend>
+ons of the thyrde sorte / sometyme an accusatyf and somtyme an
+ablatyf.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Conjunction"><alpha>&#182; Diffinicyon of Coniunctyon.</alpha>
+<wordentry type="h"><form lang="en" lexeme="conjunction(n)">A Coniuncty<expan type="">on</expan></form> <xpln lang="en" lexeme="power(n)" lexeme="figure(n)" lexeme="order(n)">byndeth or Ioyneth wordes togyder in or&#173;
+dre or in sentence.
+
+&#182; Thre thynges longe to a Coniunctyon.
+
+&#182; Power. Fygure and Ordre. The power of a coniunctyon
+stondeth in couplynge or disioynynge. &#38;c. <term lang="la">vt prius</term>.
+
+&#182; A coniunction hath fygure as hath an aduerbe. Symple as
+<term lang="la">nam.</term> Compouned as <term lang="la">nam<expan type="">que</expan>.</term>
+
+&#182; This is the ordre of coniunctions.
+
+&#182; Some be put in the begynnynge of a sentence / as <term lang="la">ac. ast.</term>
+Some in the seconde or thyrde place / as <term lang="la"><expan type="">que.</expan> ve ne autem</term> Some
+be comune / as <term lang="la">Ergo. ideo igitur.</term></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Interjection"><alpha>&#182; Diffinicyon of interiection.</alpha>
+
+
+
+
+</page>
+
+<page sig="c5v">
+<wordentry type="h"><form lang="en" lexeme="interjection(n)">AN Interioccyon</form> <xpln lang="en">betokeneth passyon of the soule with
+an vnperfyte voyce or noyse . as haha tehe: out: alas: a<emend err="adn">and</emend> 
+well a waye. &#38;c. To an<emend err="d"></emend> Interiectyon longeth onely significa<emend err="">&#173;</emend>
+cyon / the whiche be dyuerse. <term lang="la">vt prius.</term></xpln>
+<lemenote>
+This page is missing in the EEBO copy of 1508 and is supplied from the 1510 edition (STC 13605).
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+</section>
+
+
+
+</page>
+
+<page sig="h4v">
+<section type="Colophon">
+&#182; Enprynted at London. by Wynkyn de Worde / in
+Fletestrete in the sygne of the sonne.
+</section>
+
+
+</page>
+</leme>

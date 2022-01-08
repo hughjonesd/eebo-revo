@@ -1,0 +1,3667 @@
+
+<leme no="42">
+<page sig="A1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 3 1 7 5 . 1
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Titlepage">
+Here begynnyth a newe mater / the whiche sheweth and
+treateth of <expan type="">the</expan> vertues &#38; proprytes of her&#173;
+bes / the whiche is called
+an Herball.
+
+
+<term lang="la">Cum gratia &#38; priuilegio
+a rege indulto.</term>
+</section>
+
+
+
+</page>
+
+<page sig="A1v">
+<section type="Lexicon">
+<wordgroup1 type="a" object="a">
+De virtutibus herbac<expan type="">um</expan> / &#38; primo de litera A.
+
+<wordentry type="h">
+<form lexeme="agnus castus(n)">Agnus castus.</form>
+<xpln lexeme="tutsan(n)" lexeme="park leaves(n)">THis herbe Agnus castus / that m<expan type="">en</expan> do call
+Tutesayne / &#38; otherwyse Parke leues.
+This herbe hathe leues s<expan type="">om</expan>dele reed lyke
+vnto <expan type="">the</expan> leues of Orage. And this herbe
+hathe senowes on <emend err="hisleues">his leues</emend> as hath Pl<expan type="">an</expan><emend err="">&#173;</emend>
+tayne / and it hathe yelowe floures and
+bereth blacke berys / and it groweth in dry woodes. The
+vertue of this herbe is / it wyll kepe men &#38; women chast.
+For as Discolidion &#38; Placens do say / this herbe is cal&#173;
+led Agnus castus / for the knowlege and the vse of this
+herbe maketh men chaste. Also this herbe wyll open the
+poores of a man and let out wycked humours and spy&#173;
+rytes of his body. This herbe destroyeth the moysture
+of mannes sede. Also the same Auctour saythe that yf
+this be sothen with Fenell sede in Aysell / it is good to
+destroye the Dropsy . Also yf this herbe be sothen with
+Smalage and Sage in salte water / and afterwarde <expan type="">the</expan>
+hynder parte of mannes heed be well wasshed therwith
+it heleth it &#38; vnbyndeth an euyll that is called Bitarge.
+Also this herbe destroyeth the fowle lust of lechery / and
+it be dronken / or yf it be borne aboute hym . Therfore
+somtyme they do ete it rosted / bycause it shall kepe th<expan type="">em</expan>
+chaste . For yf this herbe be eten rawe / it wyll engendre
+heed ache. This herbe is good to defye the hardnes and
+stoppynge of the mylte. Also a playster of this herbe / is
+good to do away the ache of a mannes heed that is en&#173;
+gendred of wycked humours. This herbe is dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="apium(n)">Apium.</form>
+<xpln lexeme="smallage(n)" lexeme="march(n)">This herbe Apium / is an herbe that m<expan type="">en</expan> do call Sma<emend err="">&#173;</emend>
+lache / other Merche. The vertue of this herbe is thus. It
+
+
+
+
+</page>
+
+<page sig="A2r">
+wyll make a man to pysse / and open the stoppyng of the
+lyuer. Also <expan type="">the</expan> sede of the herbe hardeth a m<expan type="">an</expan>nes wombe
+and it draweth all wycked humours of a mannes body
+vnto the heed / and to the stomake and the wombe / and
+therfore it noyeth them that haue the fallynge euyll / &#38;
+to women that be with chylde. For wh<expan type="">an</expan> it draweth such
+humours to the wombe and engendreth / that be <expan type="">the</expan> cause
+of pestylence / and therfore it is commaunded of leches
+that women that be with chylde / and they that kepe sow<emend err="">&#173;</emend>
+kynge chyldren shulde not ete nor drynke of this herbe
+for drede of the fallynge euyl / for it is hote and dry / and
+there be spyces therof. The ioyce is goo for colde play&#173;
+sters tempered with floure and for scaldynge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="anetum(n)"><emend err="Auetum">Anetum.</emend></form>
+<xpln lexeme="anet(n)" lexeme="dill(n)">This herbe <emend err="Auetum">Anetum</emend> that men call <emend err="Auete">Anete</emend> / otherwyse
+Dyll. This herbe hathe leues lyke to Fenell / but the sede
+is somdele brode as Orage sede is. The vertue of this
+herbe is thus. It wyll make a m<expan type="">an</expan> pysse. Also it swageth
+romblynge in a mannes wombe and wycked wyndes in
+the wombe. Also it destroyeth the yexynge. The sede of
+the herbe brent &#38; layde vpon a wounde it heleth soone
+and namely if a m<expan type="">an</expan> be scalded on his membres or on his
+yerde / strawe the powder theron &#38; it shalbe hole / or what
+maner euyll that ryseth in a mannes yerde it shalbe hole
+in the same maner. A playster made with the same pow<emend err="">&#173;</emend>
+der and shepes talow &#38; blacke sope is good for the Eme<emend err="">&#173;</emend>
+raudes. This herbe is hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="apumirisus(n)">Apumirisus.</form>
+<xpln lexeme="cerfoil(n)" lexeme="chervil(n)">This herbe Apumirisus is called Cerfoy or Cheruyle
+The vertue of this herbe is and it be dronke with wyne
+it shall make a man to pysse well / and it delyuereth a m<expan type="">an</expan>
+of ache in the raynes &#38; into the bladder. And it be dr<expan type="">on</expan>ke
+with wyne / it letteth out and vnbyndeth <expan type="">the</expan> wycked wyn<emend err="">&#173;</emend>
+
+
+
+
+</page>
+
+<page sig="A2v">
+des and vnstoppeth the wombe and the lyuer of all ma&#173;
+ner wodnesse. This herbe withholdeth castynge. Also a
+playster made with this herbe tempered with Aysell de<emend err="">&#173;</emend>
+stroyeth wylde fyre / and heleth the Canker and all other
+woundes. This herbe is one of the Smalaches. And it
+<emend err="it"></emend> is hot and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="absinthium(n)">Absinthium.</form>
+<xpln lexeme="wormwood(n)">This herbe is called wormwood . The vertue of this
+herbe is thus. It is good to conforte the herte and cl<expan type="">en</expan>se
+the stomake. Galyan sayth that this herbe hathe. ii. ver&#173;
+tues. One is laxatyue / and the other is constipulatyue.
+Therfore Galyan sayth / that yf this herbe be gyuen to
+an euyll / of the whiche the mater is not fully defyed / it
+shall harde the stomake / and let the dygestyon. And yf <expan type="">the</expan>
+<emend err="the"></emend>mater be ryped / it shall make a man laxatyue / and
+easly put a waye the mater. If this herbe be dr<expan type="">on</expan>ken with
+Spiconarde / it aswageth of the stomake and of <expan type="">the</expan> w<expan type="">om</expan>be
+that is eng<expan type="">en</expan>dred of wycked wyndes. Also yf this herbe 
+be tempered with hony / it wyll ease the swellynge in a 
+mannes mouthe. Also it dothe awaye the blacke myste
+in a mannes eyes / &#38; clereth the syght. Also yf this herbe 
+be powned with the gall of a Bull / and afterwarde put
+into a mannes eyes / it putteth away all maner impedy&#173;
+mentes of the syght.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="artamasia(n)">Artamasia.</form>
+<xpln lexeme="mugwort(n)">This herbe is called Mugworte . The vertue of  this
+herbe is thus. If a man bere this herbe aboute hym / he
+shall not be wery of traueylynge in his waye . Also yf
+this herbe be powned with talow / it heleth the sorenesse
+of mannes fete / and akynge also. And yf it be within a 
+howse / there shall no wycked spyryte abyde. Also yf this
+herbe bestamped / and tempered with rennynge water /
+it heleth the akynge of a mannes guttes / &#38; many other
+
+
+
+
+</page>
+
+<page sig="A3r">
+euylles. This herbe <emend err="his">is</emend> ote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="affodillus(n)">Affodillus.</form>
+<xpln lexeme="affodill(n)">This herbe is called Affodyll. The vertue of this <expan type="">her</expan>be
+is that the leues ben good to hele the dropsy. Also the le<emend err="">&#173;</emend>
+ues of the flowres be good to be dronken to hele the ve&#173;
+nyme of wycked beestes. Also the ioyce of this herbe &#38;
+Myrre and Safron tempered togyder in whyte wyne /
+and a lytell boyled ouer the fyre / and densed throughe a
+clothe / is good to hele rennynge eyes. Also the roote of 
+this herbe brent to powder / is good to hele sore eeres / &#38;
+to restore them agayne. Also take an harde clothe that
+is roughe and wete it in the ioyce of the herbe / &#38; rubbe <expan type="">the</expan>
+Morfu therwith syttynge agaynst the sonne / &#38; <emend err="yf">yt</emend> shall
+do awaye the Morfu. This herbe is hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="aristologia longa(n)">Aristologia longa.</form>
+<xpln lexeme="madder, red(n)">This herbe men do cal it Reed mader. The vertue of
+this herbe is thus. It wyll vnbynde the stoppynge of <expan type="">the</expan>
+lyuer &#38; let passe wycked wyndes that be stopped within
+a mannes body. Also yf it be dronken with wyne / it clen<emend err="">&#173;</emend>
+seth and purgeth all men of all maner venyme that is a 
+in mannes body. Also it clenseth &#38; purgeth al maner of
+dyseases that be roted within and without in <expan type="">the</expan> veynes /
+and in the tethe that ben rotten. This herbe is hote and
+dry. And it must be gadered in heruest. There be. ii. spy&#173;
+ces therof.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="aristologia rotunda(n)">Aristologia rotunda.</form>
+<xpln lexeme="galingale, meek(n)">This herbe Aristologia rotunda men do call it Ga&#173;
+lyngale meke. And the vertue of this herbe is thus . As 
+ypocras dothe say . If the sayde herbe be dronken with
+hote water / th<expan type="">an</expan> it is medycynable and curable for those
+men that be stopped in the brest / &#38; for the fallynge euyll /
+
+
+
+
+</page>
+
+<page sig="A3v">
+and for the Podagre and for <expan type="">the</expan> Crampe. This herbe is
+hote and dry / and it must be gadered in heruest / and it is
+a spyce of the reed Mader.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="abrotinum(n)">Abrotinum.</form>
+<xpln lexeme="southernwood(n)">This herbe Abrotinum men call it Sothernwood.
+The vertue of this herbe is thus / that yf they breke the
+sede and drynke it with water. It heleth men that haue 
+ben byten with ony venemous beest. Also this herbe de&#173;
+stroyeth wormes in mannes wombe. Also powder of
+this herbe medled with barly mele vnbyndeth and bre&#173;
+keth harde postumes. Also this herbe brent &#38; the asshes
+medled with oyle / it restoreth there as ony man lacketh 
+heer. This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ameos(n)">Ameos.</form>
+<xpln>This herbe Ameos hathe leues lyke vnto Eldren / but
+they be lesse / and the sede is lyke to persly sede. The ver<emend err="">&#173;</emend>
+tue of this herbe is thus. If it be tempered with hony it
+sleeth wormes <expan type="">the</expan> in a mannes body / and it vnbyndeth
+the great stoppynge of wyndes / and it breketh the stone
+and it chafeth a mannes stomake that is colde / it cha&#173;
+feth the lyuer and the reynes / and it heleth wo<expan type="">un</expan>des and
+the bytynge of venemous beestes . This herbe is hoote
+and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="alleluya(n)">Alleluya.</form>
+<xpln lexeme="woodsour(n)" lexeme="stubwort(n)">This herbe Alleluya men call it woodsowre or stub&#173;
+worte. This herbe hath. iii. leues / of <expan type="">the</expan> whiche. ii. be ro<expan type="">un</expan>d
+a lytell departed aboue. And it hath a whyte flowre / but
+it hathe no longe stalkes / and it is wyndsowre / and it is
+lyke. iii. leued grasse. The vertue of this herbe is thus.
+If it be rosted in the asshes in reed docke leues or <expan type="">in</expan> reed
+worte leues / it freteth away deed flesshe of a wounde.
+This herbe groweth moche in woodes. )
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="asterion(n)">Asterion.</form>
+
+
+
+
+</page>
+
+<page sig="A4r">
+<xpln>This herbe Asterion grow<emend err="r">e</emend>th amonge stones and in
+hyghe places. This herbe sheweth by nyght. This herbe
+hathe yelowe flowres hole and rounde as a Cockbell or&#173;
+elles lyke to Foxgloues. The leues of this herbe be ro<expan type="">un</expan>d
+and blewe / and they haue the marke of the moone in <expan type="">the</expan>
+myddes: as it were .iii. leued grasse: but the leues therof
+be more and they be rounde as a peny: and the stalke of
+this herbe is reed / &#38; this herbe semeth as it were muske
+and the ioyce therof is yelowe. And this herbe groweth
+in the newe moone without leues / and euery day spryn&#173;
+geth a newe lefe to the ende of .xv. dayes / and after. xv.
+dayes it loseth euery day a lefe as the moone waneth / &#38;
+it spryngeth and waneth as dothe the moone: and wher
+that it groweth there groweth great quantyte. The ver<emend err="">&#173;</emend>
+tue of this herbe is thus .  They that ete of the berys or 
+of the herbe in wanynge of the mone: whan he is in sig&#173;
+no virginis: yf he haue the fallynge euyll he shall be hole
+therof: or yf he bere this herbe aboute his necke he shalbe
+holpen without doubte: and it hathe many other good 
+vertues.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="agrimonia(n)">Agrimonia.</form>
+<xpln lexeme="egrimony(n)">This herbe Agrimonia men call it Egromony. The
+vertue of this herbe is thus. And it be et<expan type="">en</expan> the herbe and
+the roote grene it heleth the akynge of the wombe. Also
+yf the herbe be dryed and pounded to powder &#38; dronke
+with water it is good for the same euyll. Also the sayde
+herbe tempered with Aysell is good to hele a wounde
+that is hurte with yron. Also this herbe vsed in meet is
+good to hele the akynge of the sores in the mylte: and it
+is good for Treytys.
+ </xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="avantia(n)">Auantia.</form>
+<xpln lexeme="avance(n)">This herbe Auantia is called Auance. The vertue of
+this herbe is thus. If it be dryed and powder made ther
+
+
+
+
+</page>
+
+<page sig="A4v">
+of with whyte wyne warmed orels luke water / &#38; gyue it
+to a man that hathe <expan type="">the</expan> feuers / &#38; it shall helpe hym moche
+&#38; ease hym . Also it heleth woundes and Cankers yf it
+be dronken.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="altea(n)">Altea.</form>
+<xpln lexeme="hollyhock(n)" lexeme="mallow, wild(n)">This herbe is called Holyhocke / or the wyld Malow.
+The vertue of this herbe is thus. Take and stampe it &#38;
+fry it with shepes talow / and make a playster / and lay it
+to a potager man / &#38; it shall helpe hym within .iii. dayes.
+By experyment al Auctours do say &#38; affyrme / that this
+herbe soden with Vyneger and Lynsede / and a playster
+made therof &#38; layde to the syde of ony persone / it depar<emend err="">&#173;</emend>
+teth and helpeth wycked gaderynges that be gendred in
+a mannes body. This herbe groweth in gardenes and
+in moyst places.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="amarisca(n)">Amarisca.</form>
+<xpln lexeme="fennel, dog(n)" lexeme="maythis(n)">This herbe is called Dogge fenell / or Maythis. This
+herbe is moche lyke to Camamyle / for it hathe a whyte
+flowre as Camamyle / but it stynketh. The <expan type="">ver</expan>tue of this
+<expan type="">her</expan>be is .  It is good to drynke the ioyce therof for to hele
+the Canker and the pypes of the Emerawdes. And ther
+be .ii. spyces therof. The one hathe a whyte flowre / and 
+the other hathe a yelow flowre / and it groweth in corne.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="auricula muris(n)">Auricula muris.</form>
+<xpln lexeme="mouscere(n)">This herbe is called Mouscere. The vertue of this
+herbe is thus. If it be dronke it helpeth the Quyncy. Al
+so the ioyce is good to hele all maner woundes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="apium einoroidarum(n)">Apium einoroidarum.</form>
+<xpln lexeme="crowfoor(n)">This herbe is called Crowfote. This herbe hathe le&#173;
+ues departed / as it were Rammes fete. This herbe hath
+a longe stalke in the myddes / and groweth in watry pla<emend err="">&#173;</emend>
+ces / and hathe yelow flowres.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="apium canarum(n)">Apium canarum.</form>
+
+
+
+
+</page>
+
+<page sig="B1r">
+<xpln lexeme="apium(n)" lexeme="crowfoot(n)">This herbe Apium <emend err="ranar">canar</emend><expan type="">um</expan> that men call water crow&#173;
+fote. This herbe hathe yelow flowres / as hathe crow&#173;
+fote and of the same shappe / but the leues are more de&#173;
+parted / and it hathe a longe stalke / and out of that one
+stalke groweth many stalkes small by the sydes. This 
+herbe groweth in watry places.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="artiplex domestica(n)">Artiplex domestica.</form>
+<xpln lexeme="orage(n)" lexeme="medollus(n)">This herbe Artiplex domestica men call it Orage or
+Medollus.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="anabulla(n)">Anabulla.</form>
+<xpln lexeme="spurge(n)">This herbe Anabulla men call it Spurge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="acus demonis(n)">Acus demonis.</form>
+<xpln lexeme="poukenell(n)">This herbe Acus demonis is an herbe that men call
+Poukenell.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="argentilla(n)">Argentilla.</form>
+<xpln lexeme="argentil(n)">This herbe argentilla that men call Argentyll. This
+herbe hathe lytell leues somdele ro<expan type="">un</expan>d / and within they
+be ragged as it were the leues of Eufrasy / and it grow&#173;
+eth moche ymonge wheet / and there be two spyces ther&#173;
+of the moore and the lesse.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="acus mustela(n)">Acus mustela.</form>
+<xpln lexeme="groundwesell(n)">This herbe Acus mustela is called groundwesell. It
+is good for playsters.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="allium(n)">Allium.</form>
+<xpln lexeme="garlic(n)">This herbe Allium is called  Garleke. The vertue of
+this herbe is thus. It wyll vnbynde all wycked wyndes
+within a mannes body. Also it helpeth a man to make
+water. But it noyeth a mannes eyes / bycause of <expan type="">the</expan> great
+byndynge and drynkynge that it hathe vertuously / it
+drynketh and <emend err="destroketh">destroyeth</emend> the syght. And also it destroy&#173;
+eth and heleth venyme within a man. Also it heleth all
+colde soores as it were treacle . Also it heleth scabbes &#38;
+Morfewes or bladders in what maner place they be in
+
+
+
+
+</page>
+
+<page sig="B1v">
+a mannes body / so that it be well froted therwith. This 
+herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="anisum(n)">Anisum.</form>
+<xpln lexeme="anise(n)">This herbe is called Anyse. The vertue of this herbe 
+is thus. It vnbyndeth the stoppynge of the lyuer and of
+wycked wyndes and of great humours &#38; vncloseth the
+mylte. Also it styreth a m<expan type="">an</expan> to make water and to swete.
+Also this herbe maketh a mannes wombe laxatyue / yf
+it be to harde / and the seed must be parched or rosted in
+al maner medycynes / than it wylt worke <expan type="">the</expan> rather. This
+herbe is hote and dry.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">
+Hic incipit litera B. Et primo de <wordentry type="h"><form lexeme="bethonica(n)">Bethonica.</form>
+<xpln lexeme="betyne(n)">Betyne men do call this herbe . The vertue of this
+herbe is thus. If it be stamped and th<expan type="">an</expan> layde to a
+wounde in the heed that is smyten with a stroke / it shall
+hele the wounde fayre / and drawe out the broken bones
+yf there be ony as leches do say. Also yf a mannes eyes
+do ake / take the water or <expan type="">the</expan> ioyce therof / &#38; it shall am<expan type="">en</expan>de
+them greatly. Also take Betyne &#38;  stampe hym and tem<emend err="">&#173;</emend>
+pre hym with water or with wyne warmed / and drynke
+it .x. dayes / and it shall destroy ony webbe in the eyes of
+ony persone. Also yf your eyes be watry / ete euery day
+a lytell Betyne / and it shall do the moche good. Also yf
+you haue akynge eeres / take the ioyce therof and tempre
+it with Roose water / and warme it a lytell / and droppe
+it in thyne eeres / and stoppe them with woll / &#38; thou shal
+be hole. Also yf thou do blede moche at the nose / take &#38;
+stampe Betyne with salte and stoppe thy nose therwith
+and it wyll staunche. Also yf thou haue sore tethe / with
+Vyneger or with Aysell / let it sethe well tyll it be more
+than halfe wasted / than as hote as thou maye suffre it /
+suppe therof and holde it in thy mouthe tyll it be colde /
+than spytte it out / and do this ofte and thou shalbe hole
+
+
+
+
+</page>
+
+<page sig="B2r">
+Also for the Coughe take <expan type="">the</expan> ioyce or powder of Betyne
+and medle it with hony / and make therof a lectuary / &#38;
+vse it .ix. dayes and thou shalbe hole. Also yf a man may
+not holde his meet within hym / take <expan type="">the</expan> same medycyne
+and gyue hym .iii. sp<expan type="">on</expan>full therof with a sponefull of wa<emend err="">&#173;</emend>
+ter. Also yf a mannes yerde be swollen or that it be sore
+take Betyne and stampe it with whyte wyne tempered
+and it shalbe hole. Also yf a man be Potagre take Be&#173;
+tyne and sethe it well in water / &#38; gyue it hym to drynke /
+and wasshe his fete therwith / and lay the herbe aboute
+his fete on a clouthe / and it wyl amende hym moche. Al
+so take and ete Betyne or powder therof / and you shal
+not be dronken that day. All these medycynes haue be
+proued of this herbe. This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="balsaminta(n)">Balsaminta.</form>
+<xpln lexeme="horse mint(n)" lexeme="water mint(n)" lexeme="brook mint(n)">This herbe Balsaminta is called Hors mynte / orels
+water mynte or Broke mynte. And also this herbe doth
+growe in watry places. The vertue of this herbe is thus
+It conforteth a mannes stomake / &#38; maketh a man well
+to defy his meet. Also the ioyce and claryfyed Hony &#38;
+Reed wyne boyled togyder / shall do awaye the cold fro
+a m<expan type="">an</expan>nes stomake / and wycked wyndes within hym. Al&#173;
+so the ioyce orels the powder of the herbe dronken with
+Reed wyne hote / it maketh women that be with chylde
+soone &#38; easly to be delyuered of theyr chyldr<expan type="">en</expan>. This <expan type="">her</expan>be
+is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="bete(n)">Bete.</form>
+<xpln lexeme="cumin(n)">This herbe Bete is called Comyn. And therbe .ii. spy<emend err="">&#173;</emend>
+ces therof / as Diostolides saythe. The one is whyte / the
+other is blacke. The vertue of this herbe is thus. If the
+ioyce therof be put in the nose thrylles of a man / it clen&#173;
+seth a m<expan type="">an</expan>nes heed . Also it aswageth the akynge of the
+eyes of euery persone. It clenseth the heed from nyttes
+
+
+
+
+</page>
+
+<page sig="B2v">
+and frome other vermyne. Also it repareth and amen&#173;
+deth a m<expan type="">an</expan>nes heere of his heed. Also this herbe destroy&#173;
+eth botches and byles. Also Diastolides sayth. If a m<expan type="">an</expan>
+vse ouermoch of this herbe that it nouryssheth wycked 
+humoures in a man for it is hote.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="borago(n)">Borago</form>
+<xpln>Borago is a comune herbe / the vertue therof is thus.
+It wyll clense the reed colour of a man. Also this herbe 
+is good to destroy the Cardiacle and the postumes that
+be gadered of the blacke Colour . Also the water dr<expan type="">on</expan>ke
+with wyne maketh a man gladde and mery. This herbe
+is hote and moyst.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="bugla(n)">Bugla.</form>
+<xpln lexeme="brownwort(n)">This <emend err="heebe">herbe</emend> Bugla is called Brownwort. This herbe
+hathe leues lyke a browne colour with a blewe flowre &#38;
+somwhat boystous . The vertue of this herbe is thus.
+It wyll hele wo<expan type="">un</expan>des in a m<expan type="">an</expan>nes heed . And yf this her&#173;
+be be dronken it helpeth and strengeth the bones that
+be broken in a m<expan type="">an</expan>nes heed . Also this herbe breketh and
+destroyeth the rewme and the akynge of the <emend err="heee">hede</emend>. This
+herbe groweth in woodes moche and it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="burneta(n)">Burneta.</form>
+<xpln lexeme="burnet(n)">This herbe Burneta is called Burnet. This herbe <emend err="ha">hathe</emend>
+the blewe flowres as hathe Deyghhoue and small rag&#173;
+ged leues lyke Tansy leues. The vertue of this herbe is 
+thus. It wyll destroy the great humoures and laxatyue
+within a man. Also it openeth the stoppynge within a
+mannes lyuer / and maketh a man to pysse well . Also it
+maketh one to auoyde the yelow euyll. Also a porcyon
+of this herbe medeled with hony and whyte wyne / hel&#173;
+peth and vnbyndeth sore stytches of the rybbes and in <expan type="">the</expan>
+teetes. Ther be .ii. spyces therof / <expan type="">the</expan> one groweth on hyl&#173;
+les and the other in medowes.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="B3r">
+<wordentry type="h">
+<form lexeme="bursa pastoris(n)">Bursa pastoris.</form>
+<xpln lexeme="shepherd's purse(n)">This <expan type="">her</expan>be Bursa pastoris is called Shepherdes purse
+This herbe hathe a small stalke and full of braunches &#38;
+ragged leues and a whyte flowre. The roddes therof be
+lyke a purse. The vertue of this herbe is thus. Drynke it
+with reed wyne or with mylke / and it wyll staunche the
+blody menson. It is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="borago silvestris(n)">Borago syluestris.</form>
+<xpln>This herbe Borago syluestris is lyke to comune Bo&#173;
+rage / but the leues be somwhat smaller / and it groweth
+in feldes and in wayes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="billire(n)">Billire.</form>
+<xpln lexeme="biller(n)">This herbe is called Byller. The <expan type="">ver</expan>tue therof is good
+to rype botches / and it is hote and dry.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">
+<wordentry type="h">
+<form lexeme="camamilla(n)">Camamilla.</form>
+<xpln lexeme="camamill(n)">This herbe is called Camamyll. The vertue of this
+herbe is thus. If it be dronk<expan type="">en</expan> with wyne / it wyll breke <expan type="">the</expan>
+stone. Also it destroyeth the yelowe euyll. It helpeth <expan type="">the</expan>
+akynge and the dysease of the lyuer. If it be strened / it
+helpeth and swageth the sores in a mannes mouthe. It
+is good for the akynge in a mannes heed and for the my<emend err="">&#173;</emend>
+grayme. This herbe is hote and dry.
+</xpln></wordentry>
+ 
+<wordentry type="h">
+<form lexeme="calamintum(n)">Calamintum.</form>
+<xpln lexeme="calamint(n)">This herbe is called Calamynte. The vertue of this
+herbe is thus. It destroyeth a mannes talent. As ypo&#173;
+cras sayth there be .iii. spyces therof. One that is stony /
+another that is of the erth / and the .iii. of the water / and
+all they be hote and dry. It that is watry maketh a man
+moyst. It that is stony <emend err="maketha">maketh a</emend> man hole yf he drynke
+it / yf he haue dronke ony venemous drynke. This herbe
+made in a playster <emend err="andlayde">and layde</emend> to ony venemous wo<expan type="">un</expan>de /
+it draweth out venym soone. Also who so drynketh this
+herbe .iii. dayes / it shall helpe hym of the yelowe euyll.
+
+
+
+
+</page>
+
+<page sig="B3v">
+The other is yerthy / it is helpynge for the Lepre . The
+ioyce of this herbe and it be put in the eeres of a man / it
+wyll slee the wormes in a mannes heed / and conforteth
+the stomake / and helpeth to defy it. And it withdraweth
+castynge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="crassula major(n)">Crassula maior.</form>
+<xpln>This herbe is moch lyke vnto Orpyn . The vertue of
+this herbe is thus. If it be layde to a wombe by it selfe
+it shall hele it withouten ony other herbe.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="crassula minor(n)">Crassula minor.</form>
+<xpln lexeme="stonour(n)" lexeme="stonecrop(n)">This herbe is called Stonour / or Stone croppe. The
+leues of this herbe be somwhat lyke vnto Orpyn / and it
+groweth on howses &#38; walles. The vertue of this herbe
+is thus. It wyll make a man to caste.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cituca(n)">Cituca.</form>
+<xpln lexeme="humlock(n)" lexeme="herb benet(n)">This herbe is called Humlocke or herbe Benet. The
+vertue of this herbe is thus. The ioyce of this herbe ke&#173;
+peth maydens teetes small. Also this herbe ofte dronk<expan type="">en</expan>
+kepeth and destroyeth the great appetyte of lechery. Al&#173;
+so the ioyce tempered with Swynes grece / destroyeth <expan type="">the</expan>
+hote Potagre / and swageth the great swellynge / for it
+is colde and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="centaurea major(n)">Centaurea maior.</form>
+<xpln lexeme="centory(n)" lexeme="earth gall(n)">This is named <expan type="">the</expan> more Centory or the erthe Gall. His
+flowres be yelowe in the croppe. His vertue is yf it be so
+then in good wyne / it wyll hele the sekenes of the lyuer.
+It draweth out wycked humours in the Mylte. This
+hathe be proued. And it be sothen in water / it is good to
+hele a wounde. If there be a Canker and it be anoynted
+therwith it wyll make it hole . This herbe is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="centaurea minor(n)">Centaurea minor.</form>
+<xpln lexeme="centory, less(n)">This is called the lesse Centory. It hathe. iii. braun&#173;
+ches comynge out of a ro<expan type="">un</expan>d more / with a Reed flowre.
+
+
+
+
+</page>
+
+<page sig="B4r">
+His vertue is thus. The powder or ioyce hereof is good
+for bytynge of an Adder / or ony other venymous beest /
+yf it be dr<expan type="">on</expan>k<expan type="">en</expan> with wyne. And <expan type="">the</expan> ioyce is good to anoynt
+sores therwith. If you haue ony venyme within you /
+powne it small / and tempre it with Aysel and drynke it
+and you shall cast out all the venyme within you.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cara(n)">Cara.</form>
+<xpln lexeme="caraway(n)">This herbe is called Careaway. This herbe hathe le&#173;
+ues somwhat lyke to Fenell / with a longe stalke / and a 
+rounde sede more than persly sede. The vertue of this
+herbe is to destroy wycked wyndes &#38; the coughe. And it
+is good for the Frenesy / and for bytynge of venemous
+beestes. Also this herbe medled is good for Scabbes &#38;
+Teters. Also it restoreth heere ther as it is fallen awaye.
+This herbe groweth in moysty places.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="celodonia(n)">Celodonia.</form>
+<xpln lexeme="celodyne(n)" lexeme="tetterwort(n)">This herbe is called Celodyne or Teterworte. His
+vertue is as Polominus sayth / yf the byrdes of <expan type="">the</expan> Swa&#173;
+lowe be blynde / the dame of the byrdes fetcheth of this
+herbe &#38; heleth theyr eyes therwith. It is good for <expan type="">the</expan> Can<emend err="">&#173;</emend>
+ker in a mannes mouthe. It is good for the tothe ake &#38;
+to clense a mannes heed. This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="culamen(n)">Culamen.</form>
+<xpln lexeme="hertnote(n)" lexeme="dillnote(n)" lexeme="haliwort(n)">This is called Hertnote / Dylnote / Skykre or Haly&#173;
+worte. He hathe leues lyke Fenell with whyte flowres &#38;
+a small stalke. It groweth in woodes &#38; medowes. His
+virtue is to ete away deed flesshe. This herbe put to a
+sore that lacketh heere / it wyll restore the heere &#38; hele the
+place.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="coleworts(n)">Colewortes.</form>
+<xpln>This herbe is good to clense fresshe woundes / <expan type="">the</expan> Can<emend err="">&#173;</emend>
+ker / to nourysshe senowes / &#38; to helpe sore eyes that be al<emend err="">&#173;</emend>
+most syghtles. It encreaseth a wom<expan type="">an</expan>s mylk. The ioyce
+t<expan type="">em</expan>pred with Alume and Aysel / it aswageth the Leper &#38;
+
+
+
+
+</page>
+
+<page sig="B4v">
+it is good to kepe a man from dronknesse. It is hote &#38;
+dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="coriandrum(n)">Coriandrum.</form>
+<xpln lexeme="coliander(n)"><emend err="Thik">This</emend> herbe is called Colyandre. The vertue of this
+herbe is thus. If the ioyce therof be dronken with hony
+it wyll slee wormes in a mannes body / &#38; hardeth a man<emend err="">&#173;</emend>
+nes wombe. The sede therof is good to do awaye the fe<emend err="">&#173;</emend>
+uers that come the .iii. day. This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="capillus veneris(n)">Capillus veneris.</form>
+<xpln lexeme="maidenhair(n)" lexeme="waterwort(n)">This herbe is called Mayden heere or waterworte.
+This herbe hathe leues lyke to Ferne / but the leues be
+smaller / and it groweth on walles and stones / and in <expan type="">the</expan>
+myddes of <expan type="">the</expan> lefe is as it were blacke heere. The vertue
+of this herbe is thus. It wyll breke the stone &#38; it be dron&#173;
+ken with wyne. It destroyeth venyme / and it is colde &#38;
+dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="crocus(n)">Crocus.</form>
+<xpln lexeme="saffron(n)">This herbe is called Safron. The vertue of this her&#173;
+be is thus. It wyll destroy all maner of abhomynacy<expan type="">on</expan>s
+of mannes stomake / and wyll make a man to slepe. It
+is good for many medycynes / and namely for Cookes
+to colour theyr meet therwith. It groweth in gardenes
+and it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="centonodium(n)">Centonodium.</form>
+<xpln lexeme="sparrowtongue(n)">This herbe is called Sparowtonge. The vertue of
+this herbe is to breke the stone. And it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="caprifolium(n)">Caprifolium.</form>
+<xpln lexeme="withwind(n)">This herbe is called withwynde / and it hathe a whyte
+flowre. The vertue of this herbe is good to hele C<expan type="">an</expan>kred
+woundes / bladders / and akynge tethe / and soores in the
+tooes of a man. Also it is good for the swellynge in a
+m<expan type="">an</expan>nes body that is venymed. This herbe is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="canabaria(n)">Canabaria.</form>
+
+
+
+
+</page>
+
+<page sig="C1r">
+<xpln lexeme="wild hemp(n)" lexeme="holyrope(n)">This herbe is called wylde hempe or Holy roppe. It
+is lyke to Hempe. His vertue is / yf a man haue the Fe&#173;
+uer / frete well his poure therwith &#38; he shalbe hole. And
+it groweth in watry places.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="costus(n)">Costus.</form>
+<xpln lexeme="cost(n)" lexeme="less deteyn(n)">This is named Coost or lesse Deteyn. his vertue is
+to hele the sekenes of the brest &#38; of <expan type="">the</expan> longes. And it wyl
+breke the postume . Also it draweth out euyll humours
+of a mannes heed. And it is good for a m<expan type="">an</expan>nes stomake.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cepe(n)">Cepe.</form>
+<xpln lexeme="onion(n)">Is named an Onyon. His vertue is to conforte a m<expan type="">an</expan> <emend err="">&#173;</emend>
+nes stomake. It purgeth somwhat the Flewme. It nes&#173;
+sheth somwhat the wombe. Also and it be stamped and
+tempred with Hony &#38; Aysell / it is good for the bytynge
+of a Ho<expan type="">un</expan>de. Also <expan type="">the</expan> ioyce tempred with womans mylke
+is good to hele the akynge of eeres. Also the ioyce tem&#173;
+pered with ony lycoure is good to drynke for ony man
+that hathe lost his speche. Also the ioyce put in the nose&#173;
+thrylles breketh out the wycked Rewme &#38; the stoppyng
+in a mannes heed.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="columbina(n)">Columbina.</form>
+<xpln lexeme="columbine(n)">This is named Columbyne . His vertue is good for
+hym that hathe the Quyney. This herbe must be gade&#173;
+red in August.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cominum(n)">Cominum.</form>
+<xpln lexeme="comyn(n)">This is called Comyn. The leues therof be moche ly&#173;
+ke to Colynadre. It hathe many bra<expan type="">un</expan>ches comynge out
+of one stalke. It is stronge of sauour . His vertue is to
+destroy wycked wyndes &#38; other euyls in a mannes sto&#173;
+make. It helpeth one to make water / &#38; it is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cardiaca(n)">Cardiaca.</form>
+<xpln lexeme="cardiac(n)">This is named Cardiake. It hath leues lyke to blide
+Netelles. And it hath lytell Coddes with sede. His ver<emend err="">&#173;</emend>
+
+
+
+
+</page>
+
+<page sig="C1v">
+tue is good for the fallynge euyll.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cisara(n)">Cisara.</form>
+<xpln lexeme="French peas(n)">This is called a Frensshe Pees. It hathe leues &#38; cod&#173;
+des lyke to other Pees / but the leues be not so great nor
+so longe. And there be. ii. spyces therof. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="camelon(n)">Camelon.</form>
+<xpln lexeme="wolvish thistle(n)" lexeme="wild thistle(n)">This <expan type="">her</expan>be is called a woluysshe thystel or a wylde thy&#173;
+stell. It hathe whyte leues great &#38; brode &#38; a reed flowre.
+It groweth by wayes. The vertue of this herbe is thus
+If thou take this herbe whan <expan type="">the</expan> sonne is in Caprycorne /
+and the moone be newe / the whyle thou berest it aboute
+the / there shall no myschefe the befall.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cauda pulli(n)">Cauda pulli.</form>
+<xpln lexeme="colt's tail(n)">This is named Coltes tayle. This herbe hathe leues
+lyke to wylde Comyn / but they be not stalked lyke.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cabochis(n)">Cabochis.</form>
+<xpln lexeme="French worts(n)">This is named Frenche wortes. It is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="caulus gallica(n)">Caulus gallica.</form>
+<xpln lexeme="tansy, wild(n)">This is named wylde Tansy.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="caulus agrestus(n)">Caulus agrestus.</form>
+<xpln lexeme="glaude(n)" lexeme="kouratum(n)">This is an herbe that men call Glaude or Kouratum
+The leues be lyke to Plantayne / but they be not somoch
+It hathe a whyte flowre and groweth in waters.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="cimbaria(n)">Cimbaria.</form>
+<xpln lexeme="pennywort(n)">This <expan type="">her</expan>be men do call it Penyworte. This herbe hath
+rounde leues. It groweth in walles.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="consolida major(n)"><emend err="Eonsolida">Consolida</emend> maior.</form>
+<xpln lexeme="confery(n)">This is named C<expan type="">on</expan>fery. It hathe leues lyke to Hors&#173;
+helue / but they be not so whyte. There be .ii. spyces ther&#173;
+of. One with a whyte flowre / the other with a reed. His
+vertue is / yf a man be brosed or broken within / take the
+rootes of this herbe &#38; rost them in the asshes / and let the
+seke ete therof fastynge thryes &#38; he shalbe hole. Also it
+
+
+
+
+</page>
+
+<page sig="C2r">
+helpeth to gadre broken bones: It is hote and moyste.
+And it bereth blacke sede.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="consolida minor(n)">Consolida minor.</form>
+<xpln lexeme="daisy(n)" lexeme="browswort(n)">This is called Daysy or Browsworte. His vertue is
+yf it be stamped and layde to a botche / it shall hele it and
+breke it / for it is a spyce of the Confery.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="consolida media(n)">Consolida media.</form>
+<xpln lexeme="bothym(n)">This is called Bothym. This herbe hathe l<expan type="">on</expan>ge leues
+and a lytell endented / and a whyte flowre / and <expan type="">the</expan> flowre
+is somwhat lyke to the Daysy.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">
+Hic incipit litera D. Et primo de <wordentry type="h"><form lexeme="dragancia(n)">Dragancia.</form>
+<xpln lexeme="dragance(n)" lexeme="serpentine(n)">DRagaunce or Serpentyne this herbe is called.
+The vertue of this herbe is thus.  If it be st<expan type="">am</expan>ped
+and dronken with wyne / it dothe awaye all maner of ve<emend err="">&#173;</emend>
+nyme. Also it dothe away the akynge of eeres yf they be
+anoynted therwith. Also the powder therof blowen in
+a mannes nose / shall clense a man of the rewme. Also it
+is good to destroy the Coughe. And to destroy the Can<emend err="">&#173;</emend>
+ker and the fretynge of wycked wyndes. This herbe is
+hote and moyst. It must be gadered in Iune and Iuly.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="diptanum(n)">Diptanum.</form>
+<xpln lexeme="ditander(n)" lexeme="detayne(n)">This is called Dytander or Detayne. The vertue of
+this herbe is thus. If it be dronken / it wyll delyuer a wo<emend err="">&#173;</emend>
+man of a deed chylde. Also this herbe wyll drawe out a
+thorne or an yron out of a mannes body . This herbe is
+hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dancus asininus(n)">Dancus asininus.</form>
+<xpln lexeme="danke(n)">This is called Danke. His vertue is to hele <expan type="">the</expan> Dropsy
+also bytynge of venymous beestes. Also it openeth the
+stoppynge of the lyuer and of the mylte. Also it vnbyn&#173;
+deth <expan type="">the</expan> w<expan type="">om</expan>be &#38; maketh it laxatyue. And it is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dena leonis(n)">Dena leonis.</form>
+<xpln lexeme="dandelion(n)">This herbe is called Daundelyon. The vertue of this
+<expan type="">her</expan>be is thus. The Moore is good for <expan type="">the</expan> Feuer cotydyan.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="C2v">
+<wordentry type="h">
+<form lexeme="dens canis(n)">Dens canis.</form>
+<xpln lexeme="hound's tooth(n)">This is named Houndestothe. It hathe leues lyke to
+Da<expan type="">un</expan>delyon / but they be lesse / &#38; the bra<expan type="">un</expan>ches be not lyke /
+and they droppe mylke.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dancus creticus(n)">Dancus creticus.</form>
+<xpln>This herbe hathe leues lyke to wylde Popy / but the le<emend err="">&#173;</emend>
+ues be more whyte. It hathe a flowre of purple coloure /
+and it groweth in wheet. This is hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="dragantia(n)">Dragantia.</form>
+<xpln lexeme="dragance femell(n)">This is named Dragaunce Femell. It hath leues lyke
+to Rew / but it hathe whyte speckes. It hathe an euen
+stalke the lengthe of .ii. cubytes. And it bereth sede as it
+were a clustre of grapes / &#38; they be yelowe. It groweth in
+moysty places. The vertue is yf it be stamped &#38; medled
+with oyle &#38; put into the eyes of a man / it shall do awaye
+the akynge therfro. Also the Moore therof &#38; the Moore
+of the whyte Onyon stamped therwith &#38; tempered with
+Hony / it heleth all woundes that the Canker hathe be ry<emend err="">&#173;</emend>
+sen in. Also who froteth his handes with the Moore / yf
+it be in May / without doubte he my take Adders / they
+shall not venyme hym. Also the ioyce destroyeth <expan type="">the</expan> derk&#173;
+nesse aboute a mannes eyes / yf they be anoynted ther&#173;
+with. Also yf the ioyce be dronken with wyne / it destroy<emend err="">&#173;</emend>
+eth Lechery. And it is moyst and colde.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">
+Hic incipit litera E. Et primo de <wordentry type="h"><form lexeme="elena campana(n)">Elena c<expan type="">am</expan>pana.</form>
+<xpln lexeme="horshelme(n)">ELena campana is called Horshelme. The vertue
+of this herbe is thus. If a m<expan type="">an</expan> haue wagyng tethe &#38;
+he ete of this herbe / they shall fasten agayne. It helpeth
+a man to make water yf it be dronken. It delyuereth a 
+woman of a deed chylde. It is good for the Coughe. It
+hardeth a mannes wombe. And it is hote and moyst.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="endivia(n)">Endiuia.</form>
+<xpln lexeme="endive(n)" lexeme="sowthistle(n)">This <expan type="">her</expan>be is called Endyue or Sowthystel. His <expan type="">ver</expan>tue
+
+
+
+
+</page>
+
+<page sig="C3r">
+is yf the ioyce therof be medled with hote water &#38; dron&#173;
+ken it helpeth the stoppynge of the mylte and of the ly&#173;
+uer. It is good to hele the yelow euyll and the feuer ter&#173;
+cyan. It is good for hote postumes and forto swage
+great heres of the lyuer and of the stomake. And it it is
+colde and moyst.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="eruca(n)">Eruca.</form>
+<xpln lexeme="scowwhite(n)">This herbe is named Scowwhyte. This herbe hathe
+leues lyke to Bylleryn but they be not so long / and it
+hathe a greater Moore. His <expan type="">ver</expan>tue is. The leues be good
+to hele a mannes mouthe / yf it be holden longe therin.
+Also the ioyce of this herbe sothen &#38; afterwarde dronk<expan type="">en</expan>
+it destroyeth <expan type="">the</expan> blacke coloure. Also this herbe ofte vsed
+styreth a m<expan type="">an</expan> to Lechery &#38; to make water. Also <expan type="">the</expan> Moore
+stamped and medled with oyle &#38; hony denseth a m<expan type="">an</expan>nes
+chyne yf it be anoynted therwith. Also the ioyce therof
+dronken / delyuereth men and women of the coughe / for
+it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="eufrasia(n)">Eufrasia.</form>
+<xpln lexeme="eufrasy(n)">This is called Eufrasy . It is good for eyes. And it
+hathe a lytell ragged lefe.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ebulus(n)">Ebulus</form>
+<xpln lexeme="wallwort(n)">This is called walworte. It hathe leues lyke to Eldre
+leues. It <emend err="hatte">hathe</emend> a longe stalke. The vertue of this herbe
+is good to destroy the Dropsy / scabbes / and teters. And
+it draweth awaye all wycked humoures out of a man.
+This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="edera(n)">Edera.</form>
+<xpln lexeme="ivy(n)">This herbe is called Iuy : This herbe is lyke to Bry&#173;
+an. The vertue therof is. If it be sothen in wyne tyll it
+be thycke / and than lay it all hote to a botche and it shall
+breke it. Also yf thou haue ony akynge in thy heed / take
+the ioyce therof and oyle of Rosyn and whyte wyne / &#38;
+
+
+
+
+</page>
+
+<page sig="C3v">
+medle it togyder and anoynte thy heed therwith / &#38; thou
+shalbe hole therof.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="edera terrestris(n)">Edera terrestris.</form>
+<xpln lexeme="ivy, earth(n)">This is an erthe Iuy. It hathe leues lyke Catmynte /
+but they be not so moch. And it hath a reed flowre. The
+<emend err="The"></emend>vertue of it is yf it be sothen in swynes grece / it is
+good oyntment for all maner aches. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="euforbium(n)">Euforbium.</form>
+<xpln lexeme="clarey(n)">This is called Clarey. This herbe hathe leues lyke to
+Sauge but the leues be broder and ro<expan type="">un</expan>der. His vertue
+is / yf it be put in potage / it wyll make <expan type="">the</expan> flesshe tendre.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="elleborus albus(n)">Elleborus albus.</form>
+<xpln lexeme="pelletour of Spain(n)" lexeme="long wort(n)">This is Pelletour of Spayne / or longe worte. This
+herbe hathe leues moche lyke to Pedelyon / but they be
+not somoche slytte without / and it hathe a flowre as it
+were a Pasnep. His vertue is yf it be put into the nose&#173;
+thrylles of a man / it wyll make hym to nese. Also it he&#173;
+leth scabbes / the morfewe / and teters. Also it purgeth a
+man of wycked coloures / of the flewme / and of <expan type="">the</expan> Eme&#173;
+rawdes / yf it be layde to the place that is dyseased. Also 
+for <expan type="">the</expan> toth ache it is good if it be soth<expan type="">en</expan> in Aysel / &#38; kepe it
+as hote as he may suffre it in his mouth. And it is good
+to purge a mannes stomake and his wombe. Also the
+powder therof put in gruell shall slee wormes. And the
+ioyce medled with mylke shall slee flyes. It is hote &#38; dry.
+</xpln></wordentry>
+ 
+<wordentry type="h">
+<form lexeme="elleborus niger(n)">Elleborus niger.</form>
+<xpln lexeme="pedelyon(n)">This is called Pedelyon. His leues be moche lyke to 
+Longe worte / but they be not so whyte. And it hathe a 
+brode flowre &#38; a blacke rote. His vertue is / yf it be made
+in powder / it wyll destroy &#38; slee rattes. And this herbe
+is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="epatica(n)">Epatica.</form>
+<xpln lexeme="liverwort(n)">This herbe is called Lyuerworte. His vertue is to de&#173;
+
+
+
+
+</page>
+
+<page sig="C4r">
+stroy and clense the hardnes of the lyuer. Also yf it be
+medled with fresshe grece / it wyll hele woundes / and it
+is good to hele the Feuer quartayne.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="erpina(n)">Erpina.</form>
+<xpln lexeme="foxgloves(n)">This herbe is named Foxgloues.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ebulus minor(n)">Ebulus minor.</form>
+<xpln lexeme="wallwort, less(n)">This is <expan type="">the</expan> lesse walworte. It is somwhat lyke to wal&#173;
+worte / and the leues be a lytell reder.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">
+Hic incipit litera F. Et primo de <wordentry type="h"><form lexeme="flaminula(n)">Flaminula.</form>
+<xpln lexeme="flamula(n)" lexeme="sperewort(n)" lexeme="launcell(n)">FLamula is called Spereworte or Launcell. It
+is moche lyke to a spere. And <expan type="">in</expan> <expan type="">the</expan> croppe of <expan type="">the</expan> stalke
+cometh many fayre and small bra<expan type="">un</expan>ches. And it hathe a 
+whyte flowre. And it groweth in waters. His vertue is
+yf a man haue <expan type="">the</expan> Feuers / &#38; the powres of hym be anoyn&#173;
+ted therwith / he shalbe hole. And it is good to breke bot&#173;
+ches and byles. And it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fumus terre(n)">Fumus terre.</form>
+<xpln lexeme="fumitory(n)" lexeme="gall, earth(n)">This herbe is called Fumytory or erthe Gall. His ver<emend err="">&#173;</emend>
+tue is to conforte a mannes stomake. Also it gyueth a 
+man an appetyte to meet. And it helpeth a m<expan type="">an</expan> to make
+water. And it openeth the lyuer . And it clereth a man&#173;
+blode. Also yf ony drynke therof with whey / it destroy&#173;
+eth scabbes / ytches / bladders / and wycked humours. It 
+is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fumicretum(n)">Fumicretum.</form>
+<xpln lexeme="fumycrete(n)">This is called Fumycrete. This herbe hathe a longe
+stalke. And it hathe leues lyke to .iii. leued grasse / and it
+hathe Coddes. His vertue is yf it be sothen in water / it
+maketh a man laxatyue without ony peryll. And it is
+hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fragra(n)">Fragra.</form>
+<xpln lexeme="strawberry wise(n)">This is called Strawbery wyse. The vertue of this
+herbe is good for blered men. Also it is good to destroy
+the webbe in a mannes eyes. Also the ioyce of it medled
+
+
+
+
+</page>
+
+<page sig="C4v">
+with hony and dronken helpeth the Mylte.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fabaria major(n)">Fabaria maior.</form>
+<xpln lexeme="brooklempe(n)">This herbe is called Brooklempe . This herbe hathe
+leues lyke to a Benestele. And it groweth in waters.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="fabaria minor(n)">Fabaria minor.</form>
+<xpln lexeme="brookelempe, less(n)">This is the lesse Brookelempe. It hathe leues in ma&#173;
+ner longe and somwhat rounde lyke to myntes. This
+is good to lay to a place that is brosed or to swellynge /
+yf it be fryed with shepes talow.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="filix(n)">Filix.</form>
+<xpln lexeme="fern(n)" lexeme="polpodie(n)" lexeme="osmunde(n)" lexeme="everfern(n)">This herbe is named Ferne. Of this there be .iii. spy&#173;
+ces. The fyrst as Polpodie. The seconde is Osmunde /
+and it groweth in dytches and woodes / &#38; it hath a great
+Moore / as Pyneapples. It is good to hele brok<expan type="">en</expan> bones
+The .iii. is Euerferne / and it groeth in walles. And Pol<emend err="">&#173;</emend>
+pody groweth in Okes / it is good to make a man laxa&#173;
+tyue. This Ferne that groweth in woodes / is good to
+hele the Potagre. And it maketh senowes stronge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="filipendula(n)">Filipendula.</form>
+<xpln lexeme="drepwort(n)">This herbe is called Drepworte. The vertue of it wyl
+destroy wycked wyndes aboute a mannes lyuer and his
+mylte. And it is good for <expan type="">the</expan> stone / this <expan type="">her</expan>be is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="feniculum(n)">Feniculum.</form>
+<xpln lexeme="fenell(n)" lexeme="fenkyll(n)">This herbe is called Fenell or Fenkell. The vertue of
+this herbe is thus. If the seed by dryed / it is good and co<emend err="">&#173;</emend>
+forteth the stomake. It openeth the stoppynge of <expan type="">the</expan> rey&#173;
+nes and of <expan type="">the</expan> bladder. Also <expan type="">the</expan> ioyce is good to do awaye
+the webbe of the eyes of a man. And it be dronken with
+wyne and water / it is good to do awaye all maner ve&#173;
+nyme. Also the ioyce dropped in the eeres of a man / it
+wyll slee wormes in a man. And also yf it be dronken 
+with wyne / it wyll breke <expan type="">the</expan> Dropsy / &#38; all maner swellyng
+and kepeth hym fro castynge. And yf it be dronken with
+
+
+
+
+</page>
+
+<page sig="D1r">
+with wyne &#38; water / it maketh a womans mylke to en&#173;
+crease. Also yf it be medled with oyle / it is good to hele 
+a mannes yerde that is swollen. And this herbe is hote
+and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="faxinus(n)">Faxinus.</form>
+<xpln lexeme="hertwood(n)">This herbe is named Hertwood. His vertue is yf it be
+powned and layde to a soore / it wyll soone hele it.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="feniculus poitinus(n)">Feniculus poitinus.</form>
+<xpln lexeme="wormseed(n)">This is called worme sede. It is good to destroy wor<emend err="">&#173;</emend>
+mes in a mannes body. And this herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="febrifuga(n)">Febrifuga.</form>
+<xpln lexeme="federfoy(n)">This is named Federfoy. His vertue is to conforte
+a mannes stomake. It is good to asswage the axes co&#173;
+tydyan / <expan type="">the</expan> crampe / and to tempre it that cometh of colde
+stomakes. Also it is good to lay to a soore that is byten
+with venymous beestes / it wyll hele it shortly and it be
+layde therto. Also yf it be tempred with Aysell it wyll
+do a waye the Morfu. Also yf it be stamped and layd to
+a wounde in the whiche be broken bones / it shall brynge
+the broken bones togyder and hele them. And the roote 
+therof is good to stoppe the blody menson. And this
+herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="filago(n)">Filago.</form>
+<xpln lexeme="feldwort(n)" lexeme="hoor wort(n)">This herbe is called Feldworte or Hoore worte. It
+is a lytell herbe / and it groweth in wheet.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="flaminula(n)">Flaminula.</form>
+<xpln lexeme="spearwort, less(n)">This is called the lesse Sperworte. This herbe hath
+small leues lyke Gras / but it is sharpe lyke a spere / and
+it groweth in feldes. His vertue is / yf a heed be cutte / it
+wyll hele it anone.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g">
+Hic <expan type="">in</expan>cipit litera G. Et primo de <wordentry type="h"><form lexeme="gratia dei major(n)">Gratia dei maior.
+GRatia dei maior. </form><xpln lexeme="gratia die, more(n)">This herbe is called <expan type="">the</expan> more Gra<emend err="">&#173;</emend>
+tia dei.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="D1v">
+<wordentry type="h">
+<form lexeme="granum(n)">Granum.</form>
+<xpln lexeme="gronmell(n)" lexeme="lychwale(n)">This is Gromell or Lychwale. The vertue therof is 
+good for the stone / and for al euyls in the bladder. This
+herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="genestula(n)">Genestula.</form>
+<xpln lexeme="genestre(n)" lexeme="brome(n)">This herbe men call it Genestre or Brome . It hathe
+leues lyke to Spygeruyll / and it hathe a yelow flowre.
+His vertue is good to knytte bones &#38; senowes togyder
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gencianus(n)">Gencianus.</form>
+<xpln lexeme="felwort(n)" lexeme="baldomoyne(n)">This is a herbe <expan type="">the</expan> men call Felworte or Baldomoyne.
+The vertue of it is / yf it <emend err="de">be</emend> dronken with water &#38; hony /
+it helpeth <expan type="">the</expan> swellynge in a mannes body / in his stomake
+And it is good for venymo<emend err="9">us</emend> beestes. Also it delyuereth
+a woman of a deed chylde. And it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="galanga(n)">Galanga.</form>
+<xpln lexeme="galingale(n)">This is called Galyngale. The vertue of this herbe 
+is thus. It c<expan type="">om</expan>forteth the stomake / and maketh hym well
+to degest his meet / and vnbyndeth and letteth wycked 
+wyndes out of a mannes body.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="granum solis agrestis(n)">Granum solis agrestis.</form>
+<xpln lexeme="gromell, wild(n)">This is called wylde Gromell. It is somwhat lyke
+to other Gromell / but the sede therof is somwhat Grey
+It groweth in Fytches / &#38; it is good for the stone.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="gladiolus(n)">Gladiolus.</form>
+<xpln lexeme="gladon(n)">This herbe is called Glad<expan type="">on</expan>. The vertue of it is good
+to make a man to cast.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">
+Hic incipit litera H. Et primo de <wordentry type="h"><form lexeme="herba cruciata(n)">Herba cruciata.</form>
+<xpln lexeme="cronwort(n)">HErba cruciata is an herbe that m<expan type="">en</expan> call Cronworte
+This herbe hathe lytell leues &#38; a small stalke with
+whyte flowres / and it is lyke to a crosse. This is good to
+hele woundes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba Christoferi masculi(n)">Herba Christoferi masculi:</form>
+<xpln lexeme="Christopher the male(n)">This is called Chrystofer <expan type="">the</expan> male. It hathe leues lyke
+
+
+
+
+</page>
+
+<page sig="D2r">
+to the Crousope / but they be more whyte / &#38; not fully so
+longe. It hathe yelow flowres. His vertue is to hele the
+Epulence and the Frenesy. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba Christoferi femine(n)">Herba  Christoferi femine.</form>
+<xpln lexeme="Christopher female(n)">This is called Chrystofer Female. It hath leues lyke
+to herbe Peter / but they be not in all so whyte / &#38; it grow
+eth moche by the waters syde / &#38; it hathe a longe stalke.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba walteri(n)">Herba walteri.</form>
+<xpln lexeme="herb walter(n)">This is herbe walter. It hathe leues lyke to Persly / &#38;
+the leues be somwhat thycke / fatte / &#38; tendre.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba roberti(n)">Herba Roberti.</form>
+<xpln lexeme="herb Robert(n)">This is called herbe Robert. It hathe herbes lyke to
+herbe Benet. And it hathe small flowres lyke to purple
+colour. And it hathe a stronge sauour. His vertue is to 
+hele woundes. The powder of it wyll slee Cankers.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba martis(n)">Herba Martis.</form>
+<xpln lexeme="mortagon(n)">This is called Mortagon. It hathe leues lyke to the
+capytall letre M. And some braunches hathe .ii. leues / &#38;
+some .x. and some moo.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="hastura-regia(n)">Hastura-regia.</form>
+<xpln lexeme="woodrose(n)">This is called woodrose. If the More therof be stam<emend err="">&#173;</emend>
+ped and dr<expan type="">on</expan>k<expan type="">en</expan> with wyne / it wyll hele a sore in <expan type="">the</expan> mouth.
+Also the sede stamped &#38; dronken with stronge Aysell /
+wyll staunche the Flyx &#38; make the wombe harde.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba petri(n)">Herba Petri.</form>
+<xpln lexeme="cousloppe(n)">This is called the Cousloppe.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="herba Ioannis(n)">Herba Ioannis.</form>
+<xpln lexeme="Saint John's wort(n)">This is called saynt Iohannes worte. The vertue of
+it is thus. If it be putte in a mannes howse / there shall
+come no wycked spyryte therin.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">
+Hic incipit litera I. Et primo de <wordentry type="h"><form lexeme="Iusquiamus(n)">Iusquiamus:</form>
+<xpln lexeme="henbane(n)">IUsquiamus is Henbane. His vertue is good for
+gowtes / and namely those that come of mal<expan type="">an</expan>coly.
+
+
+
+
+</page>
+
+<page sig="D2v">
+Also the sede therof and the sede of Humlocke medled
+togyder and a C<expan type="">an</expan>dell made therof / or brent vpon a tyle
+stone / and let the smoke go vp into a mannes mouthe /
+in especyall amonge the tethe / and it wyll slee wormes.
+Also the rotes be good for the tothe ache. And the ioyce
+therof is good for all wo<expan type="">un</expan>des. Also it swageth <expan type="">the</expan> cough
+and the hote postume / and the hote potagre. Also <expan type="">the</expan> sede
+of this herbe shulde be gadered in <expan type="">the</expan> moneth of August.
+This herbe is colde and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="isopus(n)">Isopus.</form>
+<xpln lexeme="isope(n)">This herbe is called Isope. His vertue is / yf a man
+take the ioyce therof &#38; put it in his mouthe / it wyll hele
+all maner euylles in the mouthe. Also it sleeth wormes
+in a mannes wombe and maketh it nesshe. Also yf it be
+dronken grene or in powder / it maketh a m<expan type="">an</expan> wel colou&#173;
+red. It is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ireos(n)">Ireos.</form>
+<xpln lexeme="save(n)">This herbe is called Saue. It hath leues moche lyke
+vnto <expan type="">the</expan> Flowredelyce. And it <emend err="hatha">hath a</emend> whyte flowre. It
+groweth in water. The vertue of it is good to hele the
+akynge of senowes. Also yf it be dronken with wyne or
+ale / it wyll destroy wycked humours in a mannes breste
+and the coughe. Also it destroyeth the crampe. It heleth
+the bytyng of venemous beestes. Also yf a wom<expan type="">an</expan> haue
+a deed chylde within her / it wyll delyuer her withouten 
+peryll. And it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="iris(n)">Iris.</form>
+<xpln lexeme="flowredelyce(n)">This herbe is called Flowredelyce. This is lyke to an
+herbe that is called Saue almost in all fetures / but the
+flowre is moore ynde blewe. And this herbe groweth in
+<emend err="waterand">water and</emend> gardynes. It is of the same vertue that Sa<emend err="">&#173;</emend>
+ue is of. )
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="iarus(n)">Iarus.</form>
+
+
+
+
+</page>
+
+<page sig="D3r">
+<xpln lexeme="cuckoo pintle(n)">This herbe is named Cuckkopyntell. This <expan type="">her</expan>be hathe
+leues lyke to Mercury / and a flowre lyke to Dragaunce
+and it is bytter and pryckynge vpon the tonge. His ver<emend err="">&#173;</emend>
+tue is / yf a man haue ony swellynge vpon the tonge / or
+ony swellynge aboute his eeres / take this herbe &#38; sethe
+it with Tube rosetatibus in wyne and oyle and with co<emend err="">&#173;</emend>
+myn / and make a playster therof and lay it to his eeres /
+and it wyll make hym hole . Also take the knobbes of <expan type="">the</expan>
+the roote / and dry them and clense them / and they haue
+vertue to make a man laxatyue / yf it be c<expan type="">on</expan>stypulatyue.
+Also yf thou wyll make thy face whyte and clere take <expan type="">the</expan>
+powder of <emend err="of"></emend> the rootes and lay it in roose water / &#38; set
+it agaynst the sonne tyll it be consumed. Do so twyes or
+thryes. Than rubbe thy face with the powder / or what
+other place thou wyll to frete awaye the superfluyte of
+flesshe. This herbe is hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="iasia nigra(n)">Iasia nigra.</form>
+<xpln lexeme="madfelon(n)" lexeme="bulweed(n)" lexeme="knapweed(n)">This is called Madfelon or Bulwede or Knapwede.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="iasia alba(n)">Iasia alba.</form>
+<xpln lexeme="goosegrass(n)" lexeme="tansy, wild(n)">This is called Gosegras or wyld Tansy. It is good
+for the clensynge of a mannes lymmes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ipia major(n)">Ipia maior.</form>
+<xpln lexeme="pimpernell(n)">This is named Pympernell. It hathe leues lyke to
+Chekyn meet. It is good to hele woundes / &#38; to destroy
+venyme / and to hele a man of the postume / and to hele
+sore eyes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ipia minor(n)">Ipia minor.</form>
+<xpln lexeme="chekyn meet(n)">This herbe is called Chekyn meet. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="iacmetus rusticus(n)">Iacmetus rusticus.</form>
+<xpln lexeme="blewbethym(n)" lexeme="andode(n)" lexeme="kanbow(n)">This herbe is called Blewbethym or Andode or Kan<emend err="">&#173;</emend>
+bow.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">
+<wordentry type="h">
+<form lexeme="lanisticum(n)">Lanisticum.</form>
+<xpln lexeme="louache(n)">LOuache this herbe is called. His vertue is moche
+in the sede. The Mores therof be good to be dr<expan type="">on</expan>&#173;
+
+
+
+
+</page>
+
+<page sig="D3v">
+ken with wyne to hele a m<expan type="">an</expan>nes stomuke. And for other
+euyls within a man. And for to make good degestyon.
+It is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lingua cervina(n)">Lingua ceruina.</form>
+<xpln lexeme="hart's tongue(n)">This is called Hartes t<expan type="">on</expan>ge. The vertue of it is good
+to rype a postume and breke it yf it be sothen with oyle
+of Roses and a playster made therof. Also yf it be dron<emend err="">&#173;</emend>
+ken with wyne or ale / it wyll harden a mannes wombe /
+and it is good for the Coughe. And it is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lilium(n)">Lilium.</form>
+<xpln lexeme="lily(n)">This is called the Lyly. The vertue of it is yf it be st<expan type="">am</expan> <emend err="">&#173;</emend>
+ped with talowe and oyle / and a playster made therof / &#38;
+layde to a place there as the postume is / it shall rype it &#38;
+make it to breke. Also take a great quantyte of <expan type="">the</expan> rootes
+and the sede of the docke / and the Moore of Loueache /
+and put all these in wyne and oyle the space of .ix. dayes
+and afterwarde sethe it and cl<expan type="">en</expan>se it / and do therto wexe
+and make therof an oyntm<expan type="">en</expan>t / &#38; <expan type="">that</expan> is good to hele <expan type="">the</expan> sore
+and the hardnes of the mylte. Also the ioyce therof is
+good to hele the venym of Adders. Also laye the ioyce
+therof to a wo<expan type="">un</expan>de that is byten and it wyll hele it. Also
+take the rootes and roste them &#38; tempre them with oyle
+of olyue / and lay it to a place that is brent / &#38; it wyl hele it
+Also this herbe is good for many other thynges &#38; dys&#173;
+eases yf it be dronken with ale / wyne or water. Also it
+heleth and conforteth moche a mannes senowes. The
+vertue of this herbe is in the Moores. And this herbe is
+hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ligustrum(n)">Ligustrum.</form>
+<xpln lexeme="primrose(n)">This herbe is called Prymrose. This <expan type="">her</expan>be is good to
+potage. Also the ioyce put in a m<expan type="">an</expan>nes nose wyl destroy
+the Mygryme.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lingua bovis(n)">Lingua bouis.</form>
+
+
+
+
+</page>
+
+<page sig="D4r">
+<xpln lexeme="langedbefe(n)">This is called Langedbefe. The vertue of this herbe
+is good to do away the reed coloure of a man / also yf it
+be dronken it dothe awaye the Cardyacle and other wyc<emend err="">&#173;</emend>
+ked humours of a mannes l<expan type="">on</expan>ges. Also the ioyce of this
+herbe dronken with hote water / maketh a man to haue
+a good mynde and good wytte. This muste be gadered
+in Iune or in Iuly. It is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lingua serpentis major(n)">Lingua serpentis maior.</form>
+<xpln lexeme="adder tongue(n)">This is called Adder tonge. This herbe hathe leues
+lyke to Affodyll / but they be more grene and also more
+sharpe in the ende. This must be gadered in Apryll.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lingua serpentis minor(n)">Lingua serpentis minor.</form>
+<xpln lexeme="adder tongue, less(n)">This is called the lesse Adder tonge. This herbe hath
+leues somwhat lyke to Pygyll / &#38; it hath a yelow flowre
+and out of one stalke cometh many braunches / &#38; it grow<emend err="">&#173;</emend>
+eth in woodes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lingua canis(n)">Lingua canis.</form>
+<xpln lexeme="hound's tongue(n)">This is called houndestonge. It is good to destroy <expan type="">the</expan>
+coughe and the postume. And it wyll rype a botche.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lingua hyrcina(n)">Lingua hyrcina.</form>
+<xpln lexeme="buckshorn(n)" lexeme="swinskarce(n)">This is called Buckeshorne or Swynyskarce . This
+herbe hath eues faltred as it were an Hartes home and 
+groweth crepynge by the grounde. And it hathe a lytell
+whyte flowre. It groweth in watry places.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lupinus(n)">Lupinus.</form>
+<xpln lexeme="lupine(n)">This is called Lupyne. This herbe hath leues lyke to
+fyue leued grasse. This Lupyne hathe .vi. leues . And it
+hathe a whyte flowre and a whyte sede that is somwhat
+broder. And it bereth Coddes somwhat lyke vnto Bene
+Coddes. The vertue of this herbe is thus. If a m<expan type="">an</expan> haue
+wormes in his wombe / take <expan type="">the</expan> sede and make mele ther&#173;
+of / &#38; <expan type="">the</expan> mele &#38; the ioyce of wormod &#38; hony &#38; make a cake
+therof &#38; ete it. And it vnbyndeth <expan type="">the</expan> stoppynge of <expan type="">the</expan> lyuer
+
+
+
+
+</page>
+
+<page sig="D4v">
+and of the mylte. Also it is good to destroy the Dropsy.
+Also take the same mele and the ioyce of Arsmert and
+make therof past and lay it to thy eeres and it shall kyll
+the wormes within them / or yf thou make a Cake &#38; hete 
+it / it  wyll do the same. Also yf thou wyll take the ioyce 
+of Lekes and tempre it with the mele / and put it in thyn
+eeres / it shall clense them fro all wycked humoures and
+stynkynge. Also take the same mele and tempre it with
+oyle / and it wyll breke and rype all maner of postumes.
+This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="labrum veneris(n)">Labrum veneris.</form>
+<xpln lexeme="sowthistle(n)">This is called Sowthystel. The vertue of this herbe
+is thus. If a man haue the hote Feuer / take <expan type="">the</expan> ioyce ther<emend err="">&#173;</emend>
+of and tempre it with hote water and let hym drynke it /
+and he shalbe hole. Also yf a man haue venyme within
+hym / take this herbe and dry it and make powder therof
+and do the powder in good wyne and let hym drynke it
+and it wyll cast vp all the venyme. This is hote &#38; dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lavendula(n)">Lauendula.</form>
+<xpln lexeme="lavender(n)">This is called Lauender. If this be sothen in water /
+gyue that water to drynke to a man that hathe the Pal&#173;
+sy and it wyll hele hym. It is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lactuca(n)">Lactuca.</form>
+<xpln lexeme="lettuce(n)" lexeme="slopwort(n)">This herbe is called Lettyce or Slopworte. The ver<emend err="">&#173;</emend>
+tue of this herbe is thus. If it be eten raw or sothen / it
+engendreth good blode. Also this herbe sothen with a ly<emend err="">&#173;</emend>
+tell Aysell and Safron and than dronken / it helpeth a
+man that is stopped in the lyuer and in the mylte. Also
+yf a man may not slepe / take the sede of this herbe and
+stampe it to powder / and tempre it with womans mylke
+and make a playster therof on lynt / and lay it to the t<expan type="">em</expan>&#173;
+ples of thy heed / and thou shall slepe well / orels drynke
+the powder therof with mylke. Also take the sede &#38; tem<emend err="">&#173;</emend>
+
+
+
+
+</page>
+
+<page sig="E1r">
+per it with oyle of Rosyn and make a playster and laye
+it to thy stomake. And it is good to destroy the hote po<emend err="">&#173;</emend>
+stume. Also drynke the ioyce of this herbe or powder of
+the sede for it is good to hele the Flyx. But who <expan type="">that</expan> vseth
+this herbe ouermoche / it wyll destroy theyr syght. This
+herbe is colde and somwhat moyst. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lactuca syluatica(n)">Lactuca syluatica.</form>
+<xpln lexeme="lettuce, wild(n)">This is named wylde Lettyse. This herbe hathe le&#173;
+ues lyke to the Thystell / &#38; they be sharpe and kene. And
+it hathe a flowre of purple colour / and it groweth in fel<emend err="">&#173;</emend>
+des and in wheet. This herbe is hote and dry. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lactula leporica(n)">Lactula leporica.</form>
+<xpln lexeme="harethistle(n)">This herbe is called Harethystell. This herbe hathe le<emend err="">&#173;</emend>
+ues lyke to Sowthystell / but the leues be not so enden&#173;
+ted. It droppeth mylke. The vertue of this <expan type="">her</expan>be is thus.
+If a Hare ete of this herbe in Somer wh<expan type="">an</expan> he is madde
+and he shalbe hole. Also take this herbe &#38; lay it to a man<emend err="">&#173;</emend>
+nes syde whan he slepeth / orels that he knowe not ther&#173;
+of / and it wyll hele hym of the Feuers.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lollium(n)">Lollium. /</form>
+<xpln lexeme="cockle(n)">This herbe is called Cockle. This herbe hathe vertue
+yf it be dronken with Radysshe and a lytell salte / it is
+good to hele the Canker / or other woundes in peryll. Al
+so it is good to conforte the stomake and the lyuer. Al&#173;
+so it wyll vnbynde wormes in a mannes stomake. Also
+it helpeth a man to make water. And it is good for sore
+eyes. Also subfumygacyon therof wyll make a woman
+to bere her chylde without ony peryll or harme. Also it
+wyll aswage the great peynes of akynge of <expan type="">the</expan> Lepur. It
+is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lappacium rubeum(n)">Lappacium rubeum.</form>
+<xpln lexeme="red dock(n)">This is called the Reed docke. If that a man take the
+ioyce therof and holde it in his mouthe / it wyll aswage
+
+
+
+
+</page>
+
+<page sig="E1v">
+the tothe ache. Also yf a man haue the kynges euyl / take
+this herbe and sethe it in wyne and strayne it and gyue
+hym to drynke / and he shalbe hole yf he vse it ofte. Also
+yf a man rubbe hym with the ioyce / it dothe away euyll
+ytchynges. Also this herbe is good to delyuer wyndes
+that be stopped in a mannes stomake by balkynge. Also
+this herbe is good to make scrabbes and botches rype.
+Also it is good to make a man to haue a harde wombe.
+This herbe is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="linum(n)">Linum.</form>
+<xpln lexeme="flex(n)" lexeme="custula(n)" lexeme="English dodure(n)">This is called Flex. It is good yf a man take the sede
+therof and sethe it in water / it maketh a man laxatyue /
+and it is good to make a plastyer therof for akynge so&#173;
+res. Also there is an other spyce therof that is called Cu<emend err="">&#173;</emend>
+stula / it is named Englysshe Dodure / and it groweth
+am<expan type="">on</expan>ge flexe. The vertue of this is good to purge a m<expan type="">an</expan>
+of the colour. Also yf it be take a great quantyte therof
+and sothen in Myrre and oyle togyder / and a playster
+made therof / it is good for the reynes and for the brest /
+and for other akynge lymmes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lauriola(n)">Lauriola.</form>
+<xpln lexeme="laurel(n)">This is called Lawrell. It wyll make a m<expan type="">an</expan> laxatyue.
+And it is good to purge a man of flewme and of <expan type="">the</expan> co&#173;
+lour. It is good for a man that may not here / for yf the
+ioyce therof be put in his eeres / or yf the sayde herbe be
+stamped and a subpository be made therof and layd on
+cotton / it wyll hele it. This is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lycorisia(n)">Lycorisia.</form>
+<xpln lexeme="licorise(n)">This is called Lycoryse. The roote of this herbe is
+swete and it moysteth the kyndly hete of a man. And it
+is good for the coughe. Also yf it be sothen in water / it
+wyll destroy a mannes thrust. Also it maketh a mannes
+brest / his throte / &#38; his l<expan type="">on</expan>ges / moyst and in good tempre.
+
+
+
+
+</page>
+
+<page sig="E2r">
+This is colde and moyst.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lappa(n)">Lappa.</form>
+<xpln lexeme="klotes(n)" lexeme="burres(n)">This is called Klotes or Burres.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="lappa amersa(n)">Lappa amersa.</form>
+<xpln lexeme="colte(n)">This is called a Clote.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">
+M litera. Et primo de <wordentry type="h"><form lexeme="millefolio minore(n)">Millefolio minore.</form>
+<xpln lexeme="milfoil the less(n)">Mylfoyle the lesse this herbe is called. There is no
+dyfference of kynde nor vertue betwene Mylfo&#173;
+ly the lesse and Mylfoly the more / saue the more grow&#173;
+eth in gardenes / &#38; the lesse in wylde places / they be bothe
+of one strengthe / his vertue shalbe <emend err="be"></emend> declared in Myl&#173;
+foly the more folowynge by letre.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="mercurialis(n)">Mercurialis.</form>
+<xpln lexeme="mercury(n)">This is called Mercury. His vertue is good yf a man
+haue akynge in his wombe / gyue hym to drynke <expan type="">the</expan> ioyce
+and he shalbe hole. It wyll clense the stomake / &#38; the sede
+wyll do the same. Also <expan type="">the</expan> ioyce t<expan type="">em</expan>pred with whyte wyne /
+is good to hele sore eyes. Also yf a worme or other ver&#173;
+myne haue byten a man / take the ioyce and warme it &#38;
+wasshe it. Also yf there be ony wormes crop<expan type="">en</expan> into a m<expan type="">an</expan><emend err="">&#173;</emend>
+nes eeres / take the ioyce and warme it &#38; put it into his
+eeres and he shall be hole. This is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="menta(n)">Menta.</form>
+<xpln lexeme="mint(n)">This herbe is called Mynte. His vertue is yf it be oft
+eten / it wyll slee wormes in a mannes wombe. Also yf a
+man haue botches or other rennynges or swellynge in
+his heed / take this herbe and stampe it / and lay it to the 
+sore &#38; it wyll hele it. Also yf a mannes tothe or <expan type="">the</expan> flesshe
+of the tothe ake or stynke / take this herbe and sethe it in
+whyte wyne and in Aysell / &#38; take that lycoure &#38; wasshe
+his mouthe therwith. Than take the powder of <expan type="">the</expan> herbe
+and rubbe well his tethe therwith / and he shall haue a 
+swete smellynge mouthe. Alsoo take thou this herbe
+
+
+
+
+</page>
+
+<page sig="E2v">
+And Aysell and make sauce / &#38; it wyll make the to haue
+a talent to thy meet. Also whan ther shalbe gyuen ony
+medycyne to destroy venym / it wyll be good to be gyu<expan type="">en</expan>
+with the ioyce of this herbe / for it hathe many vertues /
+and namely for venym. There be many spyces therof.
+and it is hote and dry.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="menta romana(n)">Menta romana.</form>
+<xpln lexeme="mint, white(n)">This is called whyte Mynte. The vertue therof is / <expan type="">the</expan>
+the ioyce wyll slee wormes in a mannes wombe. Also <expan type="">the</expan>  
+ioyce wyll slee wormes in the nosethrylles of a man. Al<emend err="">&#173;</emend>
+so the powder therof cast in a mannes meet / shall make
+hym well to defy his meet.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="malva(n)">Malua.</form>
+<xpln lexeme="mallow(n)">This <expan type="">her</expan>be is named Malow. The vertue of it is good
+yf the leues be stamped and layde to a mannes stomake
+it wyll breke a hote postume in the begynnynge. Orels
+medle thy herbe with fresshe swynes grece / and lay it on
+a hote tyle / and lay it all hote to the postume / and it shall
+rype it and breke it. Also it is good to destroy the hard&#173;
+ness of a mannes lyuer &#38; his mylte. Also it wyll make
+a man laxatyue. And it is good for playsters. It is cold
+and moyste. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="morrell(n)" lexeme="night shadow(n)">Morell or Nyght shadowe.</form>
+<xpln>This herbe is colde and drye in <expan type="">the</expan> seconde <emend err="dedre">degre</emend>. The
+leues / the bra<expan type="">un</expan>ches / and the fruyte therof be ryght good
+&#38; best whan they be grene. They be good for stoppynge
+of the Splenne and the lyuer / and best for the Iawnesse
+to drynke the ioyce of it with a lytell Rubarhe. Also for
+a postume in the stomake / in the bowelles or in the lyuer
+sethe the ioyce therof with Barly water &#38; drynke it.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="mastic(n)">Mastyke.</form>
+<xpln>This g<expan type="">um</expan>me is hote and dry in the sec<expan type="">on</expan>de degre. It is
+a g<expan type="">um</expan>me of a tree growynge in a parte of the countre of
+
+
+
+
+</page>
+
+<page sig="E3r">
+Grece. In the later ende of Vere the men of that coun&#173;
+tre slytte the trees / &#38; than make the gro<expan type="">un</expan>de clene aboute
+and lay clothes rounde aboute the trees / or some other
+c<expan type="">on</expan>nynge to kepe the gumme frome the grounde in cho&#173;
+synge of it / to knowe whiche is best to take . The best is
+whyte and clere. The whyte colour is nexte the best / and 
+that is medled with erthe and somwhat derke. The best
+Mastyke hathe vertue of constraynynge / confortynge /
+clensynge / and losynge of humours descendynge fro <expan type="">the</expan>
+heed aboue to the eyes and to the tethe / and for the dys&#173;
+ease of the temples made of an ascendynge wynde fro
+the stomake to <expan type="">the</expan> heed. Take powder of <emend err="en">an</emend> egge and medle
+them well togyder / and ye wyll ye may put in Franken&#173;
+sence / and playster it to <expan type="">the</expan> temples. Also sethe Mastyke
+in water &#38; drynke it / and it wyll conforte well <expan type="">the</expan> stomake
+and make good degestyon. And it conforteth &#38; relaxeth
+the stomake. Also put to it Fenell sede / &#38; it putteth out
+wynde out of the stomake. Also a playster made of Ma&#173;
+styke &#38; Bole Armonyake &#38; the whyte of an egge &#38; vyne<emend err="">&#173;</emend>
+ger &#38; layde on the forke of the stomake or brest / it wyll
+constrayne well the Coleryke vomyte. Also sethe Ma&#173;
+styke in rayne water &#38; drynke it with warme water and
+this medycyne is good for the Flux of the wombe that
+cometh of a sharpe lax that was taken before to stoppe
+hym. Also boyle Mastyke in rayne water or Roos wa&#173;
+ter with .ii. or .iii Cloues / and drynke it warme / and that
+conforteth the Vomyte &#38; the Flux of the wombe that co<emend err="">&#173;</emend>
+meth of sharpnesse and violence of the medycyne. Also
+Mastyke must haue but lytell boylynge for hurtyng of
+his vertue. And it shulde be gyuen warme / for it c<expan type="">on</expan>stray<emend err="">&#173;</emend>
+neth more whan it is gyuen warme / than wh<expan type="">an</expan> it is ouer
+moche hote. 
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="E3v">
+<wordentry type="h">
+<form lexeme="marjoram(n)">Magerum.</form>
+<xpln>This herbe is hote and dry in the seconde degre. The
+flowres and the leues be vsed in medycynes. It shulde
+be gadered in Somer whan it flowreth / and dry it in <expan type="">the</expan>
+shadowe. It may be kepte a yere. It hathe vertue of c<expan type="">on</expan><emend err="">&#173;</emend>
+fortynge / of losynge / of c<expan type="">on</expan>sumynge / &#38; of clensynge. If
+the powder of it be dr<expan type="">on</expan>ken in wyne / orelles boyle <expan type="">the</expan> pow<emend err="">&#173;</emend>
+der of it in wyne / and it wyll hete well a stomake. Also
+it conforteth the degestyon. Also take the leues &#38; flow&#173;
+ers of Magerum and powne th<expan type="">em</expan> a lytell / and make th<expan type="">em</expan>
+hote in a panne and lay it to the greua<expan type="">un</expan>ce / and it taketh
+away the dysease in the stomake that cometh of wynde.
+Also for the rewme in the heed / take this herbe &#38; bynde
+it warme aboute thy heed. Also it dryeth <expan type="">the</expan> mother &#38; con<emend err="">&#173;</emend>
+sumeth the superfluyte of it. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="Millefolium major(n)" lexeme="yarrow(n)">Millefoli<expan type="">um</expan> maior / or yarowe.</form>
+<xpln>Kynge Achylles founde this herbe / and with it he he&#173;
+led his men that were wounded with yron. For wo<expan type="">un</expan>des
+stampe this herbe with Swynes grece / and playster it to
+the wounde and it shall hele it. And <expan type="">the</expan> same is good for
+an ache in the brest or in <expan type="">the</expan> syde. It  is good for hym that
+may not pysse. Take the ioyce of this herbe &#38; vyneger &#38;
+drynke it / &#38; merucylously it helpeth a wounde that hath
+taken colde. Stampe this herbe in butter &#38; laye it to the 
+wounde &#38; it wyll bete it well. Also to degest the stomake
+or that lyeth therin / take <expan type="">the</expan> ioyce of it and medle it with
+good ale and drynke it &#38; it helpeth moche. Also the same
+is good for the herte brunnynge. Also for the heedache
+stampe this herbe &#38; playster it to the heed. Also for by&#173;
+tynge of a wode Dogge / stampe this herbe with <expan type="">the</expan> Gray<emend err="">&#173;</emend>
+nes of wheet / &#38; it heleth it. Also for hym that maye not
+
+
+
+
+</page>
+
+<page sig="E4r">
+holde his meet / stampe this herbe with wyne &#38; drynke it
+warme. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="motherwort(n)" lexeme="mugwort(n)">Motherworte / or Mugworte.</form>
+<xpln lexeme="artemesia(n)">This herbe in latyn is called <term lang="la">Artemesia</term> / and it is hote
+and dry in the .iii. degre. This herbe helpeth a woman to
+conceyue a chylde / &#38; clenseth the mother / and <emend err="Eaketh">Maketh</emend> a 
+woman to haue her flowres / and it destroyeth <emend err="mmeraw">emeraw</emend><emend err="">&#173;</emend>
+des on this maner. Fyrst they must be gadered / th<expan type="">an</expan> take
+powder of Motherworte &#38; of Horehounde togyder / &#38;
+strawe it on the pappes. Also yf a chylde be deed in the
+mothers wombe / take Motherworte &#38; stampe it small /
+and make a playster therof / and lay it to her wombe all
+colde / and with the grace of god she shall haue delyue&#173;
+raunce without peryll. It is good for the stone and the
+grauell in the reynes of a man or of a woman. If a man
+bere this herbe vpon hym / ther shal ne venymous beest
+greue hym. It is good for yelow Iawnes and it be dr<expan type="">on</expan><emend err="">&#173;</emend>
+ken with wyne / for it wyll conforte the stomake &#38; make
+a man or a woman to haue a good colour. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="mace(n)">Maces.</form>
+<xpln>This spyce is hote and dry in the seconde degre. Ma&#173;
+ces be ryndes or huskes / it groweth aboute <expan type="">the</expan> Nutmege /
+as the rynde groweth aboute the Hasell nutte. It maye
+be kepte .x. yere in his vertue. It is confortynge / dyssol&#173;
+uynge / and consumynge. The knowynge of fyne Ma&#173;
+ces is thus. It shulde be in colour lyke to fyne golde / or&#173;
+els lyke to the golde that syluer is gylte with / <expan type="">the</expan> whiche
+hathe a sharpe talage with a bytternesse / &#38; it loketh lyke
+to erthe / and this is to be refused / for it hathe no sharpe
+sauoure. For a colde stomake that maye not defy nor
+degest well / take Maces &#38; boyle them in wyne &#38; drynke
+it. Also a good playster the whiche is best for a feble sto&#173;
+make / make powder of Mastyke and of Maces &#38; medle
+
+
+
+
+</page>
+
+<page sig="E4v">
+them with oyle of Roses and wexe and make a playster
+therof and lay it on the stomake of the seke persone. Al
+so to clense the brayne of superfluous humours / take a
+quantyte of Maces and chewe them well in thy mouthe
+and holde them there a whyle / and that shall lose the fu<emend err="">&#173;</emend>
+mosyte of humours that ryse vp to the brayne / &#38; purge
+the superfluyte of it. Also for feblenesse of the stomake
+and the lyuer of a colde cause / and for the Colyke / &#38; for
+the dyseases of the spyrytuall m<expan type="">em</expan>bres / or flewme / boyle
+Maces in the ioyce of Fenel / and in the ende of the boy&#173;
+lynge / put a lytell wyne / than strayne it and drynke it
+for it is the best remedy for the foresayde dyseases. Al&#173;
+so for the ache of the herte / vse powder of Maces in thy
+meetes and drynkes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="menta(n)">Menta.</form>
+<xpln lexeme="red mint(n)">This is called the reed Mynte. It is hote and dry in
+the .ii. degre. And there be other dyuers myntes / but I
+meane howsee myntes / the whiche properly is sayd gar&#173;
+den myntes / for that moost comunely is in medycynes /
+bothe grene and dry. For great holsomnes it shulde be
+dryed in a shadowed place / &#38; so it wyll be kepte a yere in
+great vertue / to dyssolue or lose / to consume of his pro&#173;
+pre qualyte / &#38; to conforte of his swete sauour . For the
+stynkynge of the mouthe &#38; fylthe of the gomes &#38; of the
+tethe / wasshe thy mouthe &#38; gomes with vyneger <expan type="">that</expan> myn<emend err="">&#173;</emend>
+tes haue be sothen in / after that rubbe hym with <expan type="">the</expan> pow&#173;
+der of myntes or with dry myntes. To prouoke the ap&#173;
+petyte whan an impedyment of the stomake cometh of
+colde humoures <emend err="brynge">beynge</emend> in the mouthe of the stomake /
+make a sauce of Myntes and vyneger with a lytell Sy&#173;
+namum and Peper and vse it well agaynst vomytes <expan type="">that</expan>
+<emend err="that"></emend>come of feblenes of the stomake or of colde causes.
+Sethe Myntes in Sauge water &#38; vyneger &#38; dyppe it
+
+
+
+
+</page>
+
+<page sig="F1r">
+in and lay it on the mouthe of the stomake with <expan type="">the</expan> Myn<emend err="">&#173;</emend>
+tes that be sothen therin. Also gyue to the pacyent to ete
+of the same Myntes for the Syncopyne and feblenesse
+in Feuers and without Feuers / or of medycyne / or of
+what cause it be / stampe Myntes with vyneger and a 
+lytell wyne / yf the pacyent be without Feuer / and yf he
+be with Feuer / stampe Myntes with vyneger alone / th<expan type="">an</expan>
+make a tost of the sowre breed &#38; tost it well tyll it be almost
+brent / than put it in that lycour &#38; let it ly therin tyll it be
+well soked / than put it into his nose and rubbe his lyp&#173;
+pes / gomes / tethe / and temples therwith and bynde it to
+the pulse vaynes of his armes / &#38; let the pacyent ete the
+moystnes that is lefte / and swalowe it in. For to clense
+the mother / take the tendre croppes of myntes and sethe
+them in water or wyne and playster it to <expan type="">the</expan> share and to 
+the reynes. Agaynst the congylynge in a womans bre&#173;
+stes take the small stalkes of myntes and sethe them in
+wyne &#38; oyle and playster it aboute the teetes. Also be it
+knowen <expan type="">that</expan> whan ony medycyne shulde be gyu<expan type="">en</expan> agaynst
+venym / it shulde be gyuen with the ioyce of myntes / for
+myntes haue a maner of strengthe of drawynge out of 
+venym / orels it shulde be gyuen with wyne that myntes
+haue be sothen in for stoppynge of the splenne and the
+lyuer and of the wayes of the vryne of a colde humoure
+and of a hote without Feuer. Take the ioyce of Myn&#173;
+tes alone or Myntes sothen in wyne or <expan type="">the</expan> ioyce of Myn<emend err="">&#173;</emend>
+tes medled with Hony / and gyue it to <expan type="">the</expan> pacy<expan type="">en</expan>t. To slee
+wormes in the bely / take <expan type="">the</expan> ioyce of myntes and drynke
+it and thou shalbe hole. Also the ioyce of Myntes sleeth
+wormes in <expan type="">the</expan> eeres. For a Teter take the ioyce of Myn&#173;
+tes and put therto Brymstone and vyneger and medle 
+them well togyder and anoynt the Teter therwith and
+thou shalbe hole. For a wounde in <expan type="">the</expan> heed stampe Myn&#173;
+
+
+
+
+</page>
+
+<page sig="F1v">
+tes and lay them on the wounde / &#38; For payne in <expan type="">the</expan> syde
+take Mynte <damage source="stc13175.2">and sethe</damage> them in olde wyne or ale / &#38; with
+it stampe .xviii. graynes of Peper &#38; drynke <damage source="stc13175.2">it in the n</damage>yght.
+<damage source="stc13175.2">There is but lytell dyffer<expan type="">en</expan>ce</damage> bytwne this <damage source="stc13175.2">Mynte</damage> and /
+Romayne Mynte / but this is the ryght <damage source="stc13175.2">garden Mynte.</damage></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">
+N littera. Et primo de <wordentry type="h"><form lexeme="nux muscata(n)">Nux muscata.</form>
+<xpln lexeme="nutmeg(n)">NVtmegge is hote and <damage source="stc13175.2">dry in <expan type="">the</expan> .ii. degre.</damage> The beste
+growe in ynde. And in <damage source="stc13175.2">the tyme</damage> of his rypynge
+it is gadered / and .vii. yere it maye be kepte. They that
+be playne and heuy after theyr kynd be best to be chosen
+And whan they be broken they fall not to powder / but
+they haue a swete and sharpe sauour. If they lacke eny
+of these aforesayd / they be not good for medycynes. He
+hathe vertue of confortynge by his swete sauour. For
+coldnesse &#38; feblenesse of degestyon of the stomake take
+in <expan type="">the</expan> mornynge halfe a Nutmegge or a hole Nutmegge 
+and ete it. Also for <damage source="stc13175.2">a c</damage>old stomake that is feble of de&#173;
+gestyon &#38; for the lyuer gyue hym wyne <expan type="">that</expan> Nutmegges
+is boylyd in. Also good for <expan type="">the</expan> same / boyle Nutmegges &#38;
+Mastyke in wyne and drynke it. This is good for <expan type="">the</expan> dys<emend err="">&#173;</emend>
+ease in <expan type="">the</expan> stomake &#38; in the bowelles to <damage source="stc13175.2">brek</damage>e wynde. Al<emend err="">&#173;</emend>
+so in the recouerynge of a sekenesse to conforte the spy&#173;
+rytuall m<expan type="">em</expan>bres / boyle Nutmegges &#38; Mastyke in wyne
+and drynke it. Also take a Nutmegge and smell to it / &#38;
+it wyll conforte the spyrytuall membres.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="napus(n)">De Napo.</form>
+<xpln lexeme="navew(n)">This is called Nauewe / it desyreth grounde that is
+fatte / dry and sandy / it groweth best in suche grounde.
+The property of the Nauewe is. He chaungeth &#38; tour&#173;
+neth into Rape / and after that it retourneth into Na&#173;
+uewe. The best do growe in grounde well donged and
+tourned. Also it groweth well in places that stubble of
+corne hath b<expan type="">en</expan> in in <expan type="">the</expan> same yere. If they growe to thycke
+
+
+
+
+</page>
+
+<page sig="F2r">
+plucke some vp here &#38; there / so that the other may proue
+<expan type="">the</expan> better. And those that you plucke vp / set th<expan type="">em</expan> in voyde
+places. They shulde be sowen in <expan type="">the</expan> ende of Iuly and in
+August. The best sauered Nauewes be they that be lon<emend err="">&#173;</emend>
+ge and streyght and not ouer great / nor braunches in the
+rootes / but one streyght roote. Also of Nauewes maye
+be made a passynge good meet with a lytell salte &#38; vy&#173;
+neger / hony / and Mustarde / and with swete spyces / and
+it may be made without spyces. Nauewes be hote in <expan type="">the</expan>
+seconde degre / &#38; they norysshe the moche / but they be harde
+of degestyon. They make the flesshe softe and wyndy /
+but lesse wyndy than rapes. Therfore whan ye sethe th<expan type="">em</expan>
+in water cast that water away / &#38; sethe them in another
+water / and so his harde substaunce is tempred by that / &#38;
+so meanely bytwene good and euyll they gedre nourys&#173;
+shynge / for they that be thus well sothen be not harde of
+degestyen. They make one wyndy. And they make stop<emend err="">&#173;</emend>
+pynge of vaynes and of poores / but yet they be profyta&#173;
+ble yf they be sothen twyes / and bothe the waters to be
+cast awaye / and they to be soth<expan type="">en</expan> in the thyrde with fatte
+flesshe.
+</xpln>
+<lemenote>I've removed a wordgroup division that occured before this entry: (change the wg to wordgroup)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">
+Hic incipit litera O. Et primo de <wordentry type="h"><form lexeme="olibanum(n)">Olibano.</form>
+<xpln lexeme="frankincense(n)">OLibanum so called Frankensence. This is hote &#38;
+dry in the .iii. degre. It is a g<expan type="">um</expan>me of a tre in Inde
+The purest is the best. Also there be trees of that kynde
+growynge in Damaske / but not so clere nor good / for it
+is derker of colour / therfore it is to be refused in medy&#173;
+cynes. It hathe vertue of confortynge by his swete sa&#173;
+uour. Also of closynge and constraynynge for the tothe
+ache that cometh of superfluyte of humours fro <expan type="">the</expan> heed
+and specyally by the vaynes / make a playster of <expan type="">the</expan> pow&#173;
+der of Frankensence with wyne &#38; the whyte of an egge /
+medle them togyder and playster them aboute the tem&#173;
+
+
+
+
+</page>
+
+<page sig="F2v">
+ples. Also to stoppe the wayes of the vaynes aboue / take
+Frankensence and chewe it well in thy mouthe and that
+shall stoppe and let <expan type="">the</expan> flux of humours comynge downe
+to the nosethrylles. Make pylles of Frankensence and
+swalowe them downe in the mornynge / than boyle Fr<expan type="">an</expan><emend err="">&#173;</emend>
+kensence in wyne / and at euen drynke that wh<expan type="">an</expan> thou go
+<emend err="eo"></emend>to bedde. Also these pylles be good to helpe the dege&#173;
+styon of the stomake / &#38; good agaynst sowre balkynges.
+also to the confortynge and clensynge of the Matryce /
+and helpynge of consepcyon in the rereyuynge the fume
+of Fr<expan type="">an</expan>k<expan type="">en</expan>sence byneth. Also boyle powder of it in wyne
+and whan it is metely warme dyppe a clothe in it &#38; laye
+it so warme to the share of the pacyent / &#38; greatly it con&#173;
+forteth the Matryce.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">
+Hic incipit litera P. Et primo de <wordentry type="h"><form lexeme="pruna(n)">Pruna.</form>
+<xpln lexeme="plum(n)">PLummes be colde &#38; moyst / some be whyte / some
+be blacke / and some be reed. They that be blacke
+and somwhat harde be the best / they be called Damsons
+And whan they be rype gadre them and slytte them and
+sprynge vyneger vpon them &#38; so they may be kepte in a 
+vessell of wood a yere. Fyrst whan they be cut / they must 
+be layde in the sonne .xv. dayes to dry. These Damsons
+haue vertue of coldnesse &#38; clensynge of the inwarde par<emend err="">&#173;</emend>
+tes / wherfore they be good in Feuers that be sharpe and
+for costyfnesse of the bely that cometh of drynesse or of
+coleryke humours dryenge. If it be newe / gyue it hym
+to ete. If it be dry boyle it <expan type="">in</expan> water and gyue the pacyent
+to drynke therof. This is good for <expan type="">the</expan> Feuer tercyan / for
+stoppynge of the lyuer / for the Iawnes &#38; sharpe Feuers
+It softeth the bely. It is good for defawte of appetyte /
+and for many other dyseases.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="piper(n)">Piper.</form>
+<xpln lexeme="pepper(n)">This is called Peper. It is hote and dry in the .iiii. de<emend err="">&#173;</emend>
+
+
+
+
+</page>
+
+<page sig="F3r">
+gre. There be .iii. maner of Pepers / blacke / whyte &#38; l<expan type="">on</expan>ge
+Peper. Diascorides and Constantyne saye that they be
+fruytes of trees growynge in Inde. And some say that
+Peper is made blacke with brennynge in <expan type="">the</expan> fyre / for wh<expan type="">an</expan>
+it is gadered ther be great multytude of serp<expan type="">en</expan>tes about
+it / therfore they put it in the fyre to brenne the serp<expan type="">en</expan>tes 
+that be aboute it. The Sarasyns dry it in an Ouen / by&#173;
+cause it shall not encrease in another lande. But of all <expan type="">the</expan>
+Pepers the blacke is the best &#38; the most holsome. Take
+Peper and put it into thy nosethrylles &#38; it wyll make <expan type="">the</expan>
+to nese. Also sethe Peper and fygges in wyne &#38; drynke
+it &#38; it wyll clense the spyrytuall membres of toughe hu&#173;
+mours. And it is for <expan type="">the</expan> pose that is taken of colde. Also
+for <expan type="">the</expan> same ete powder of Peper with fygges. Also pow<emend err="">&#173;</emend>
+der of Peper put in a mannes meet conforteth the de&#173;
+gestyon of the stomake. Also put l<expan type="">on</expan>ge Peper in a rosted
+Apple &#38; ete it &#38; it shall conforte the degestyon. Also pow<emend err="">&#173;</emend>
+der of Peper wyll frete awaye deed flesshe or prowde
+flesshe. And longe Peper conforteth more than blacke.
+Also blacke Peper hathe vertue of losynge / c<expan type="">on</expan>fortynge
+&#38; of drawynge. It clenseth the spyrytuall membres of 
+colde / flewme / &#38; vyscous humours / &#38; best whan the pow&#173;
+der of it is eten with fygges / for he hathe a great str<expan type="">en</expan>gth
+of hetynge &#38; of confortynge the stomake &#38; prouokynge
+appetyte / but to sangwyne &#38; coleryke persones it is not
+good to vse Peper / for it dryeth and brenneth blode / &#38; it
+engendreth lepre &#38; other euyll sekenesse. Pluto saythe <expan type="">that</expan> 
+Peper is fowle to se in syght without and blacke within
+with a sharpe sauour &#38; a swete odour / lytell in quantyte
+and moche in vertue.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="pimpernel(n)">Pympernell.</form>
+<xpln>This herbe is good to hele woundes / and to destroye
+venym / &#38; to hele a postume &#38; sore eyes.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="F3v">
+<wordentry type="h">
+<form lexeme="pulegium(n)">Pulegium.</form>
+<xpln lexeme="pennyroyal(n)">This is called Pulyoll royall it is hote &#38; dry in <expan type="">the</expan> .iii.
+degre. In the tyme of flowrynge it shulde be gadered.
+And it may be kepte in his vertue all a yere. whan it shal
+be vsed in medycynes / take the leues with the flowres &#38;
+strype them fro the stalkes. It hathe vertue of losynge
+and consumynge. For a colde humour in the heed take
+powder of it &#38; hete it well in a skellet / &#38; all hote bynde
+it to the greua<expan type="">un</expan>ce without ony lycour. Also for a great
+colde taken in the heed / &#38; for a tonge humour or a watry
+humour / make a Gargarisme / sethe Pulyoll royall and
+dry fygges in tarte vyneger / &#38; take a good sponfull ther
+of <emend err="ashote">as hote</emend> as ye may suffre it / and holde it in thy mouth
+tyll it be almost colde / than put it out and take asmoche
+more / &#38; do so .iii. or .iiii. tymes and that shall purge thy
+heed well of flewme. Also sethe it in wyne and drynke
+it and it is good for the dysease in the stomake / in gut&#173;
+tes / &#38; for colde causes / or for wynde in the stomake. Also
+it is good for tonge flewme or flewme in <expan type="">the</expan> brest yf thou
+take powder of it and medle it with claryfyed Hony &#38;
+make a lectuary therof &#38; vse to ete therof. Or take the 
+herbe therof &#38; boyle it with wyne hony or water &#38; vse to
+drynke therof. Also for the blacke colour drynke <expan type="">the</expan> ioyce
+of it or boyle it with wyne &#38; thou shalbe hole. Also for a 
+ytchynge byle / lay this herbe in water &#38; vse to wasshe the
+ytchynge therin warme &#38; thou shalbe hole. Also for an
+ache take this herbe all grene &#38; stampe it &#38; <emend err="playsterit">playster it</emend> to
+the ache &#38; it wyll cease the ache. Also agaynst the coughe
+boyle this herbe in wyne &#38; drynke it luke warme &#38; this
+wyll make one to pysse well. Also for the dysease in the 
+bely st<expan type="">am</expan>pe this herbe with Comyn &#38; water / &#38; lay it hote
+to the Nauyll &#38; lyghtly it shalbe hole. Also for the dys&#173;
+ease in the lyuer stampe this herbe &#38; tempre it with wa&#173;
+
+
+
+
+</page>
+
+<page sig="F4r">
+ter and vyneger &#38; drynke <damage source="stc13175.2">the</damage> ioyce therof &#38; thou shalbe
+hole. For an ache in the legges or armes take <expan type="">the</expan> leues of
+<emend err="of"></emend> Elder &#38; Pulyoll royall &#38; of euery lyke moche &#38; st<expan type="">am</expan>pe
+them togyder well &#38; playster it to the greuaunce. Also it
+is good for the Feuer tercyan / yf thou take the bra<expan type="">un</expan>ches
+of this herbe &#38; wrappe it in a good locke of woll &#38; gyue
+it to the pacyent &#38; let hym smell therto before the Feuer 
+come on hym / &#38; <expan type="">the</expan> shall do hym great ease. Also for heed
+ache take this herbe &#38; bynd it fast all ro<expan type="">un</expan>de aboute thy heed /
+and anone it ceaseth <expan type="">the</expan> ache. Also yf a wom<expan type="">an</expan> haue a deed
+chylde in her wombe / stampe this herbe and gyue her to
+drynke therof with olde wyne and she shall be delyuered
+therof by the grace of god. For the Crampe drynke the
+ioyce with vyneger fastynge &#38; wyll it put it away.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="feniculum(n)" lexeme="peucedanum(n)">Pencedan<expan type="">um</expan>: vel Feniculus porcin<expan type="">us</expan>.</form>
+<xpln lexeme="dog's fennel(n)" lexeme="maythen(n)" lexeme="maidenweed(n)">This herbe is called Mayth / Dogges Fenell / or May&#173;
+denwede. This herbe is hote &#38; dry in the .iii. degre. wh<expan type="">an</expan>
+this herbe is gadered for medycynes <expan type="">the</expan> rote is better th<expan type="">an</expan>
+the herbe. wh<expan type="">an</expan> the rotes be gadered / they may be kepte al
+a yere. It hathe a purgynge vertue. It is good for the
+Stragolyon or <expan type="">the</expan> flyx / &#38; good for stoppynge of <expan type="">the</expan> spl<expan type="">en</expan>ne
+&#38; the lyuer / boyle this herbe in wyne or water &#38; gyue it to
+the pacyent to drynke. Also sethe this herbe in oyle and
+wyne &#38; playster it to the share &#38; it wyll helpe <expan type="">the</expan> Strango<emend err="">&#173;</emend>
+lyon or the Flyx. Also <expan type="">the</expan> same playster is good for hard&#173;
+nesse of the splenne it molyfyeth well the sayde. Also a&#173;
+gaynst <expan type="">the</expan> colde humours of the spyrytuall m<expan type="">em</expan>bres gyue
+hym to drynke water with Barly &#38; this herbe sothen to&#173;
+gyder / &#38; yf it be a feruent colde humoure / than sethe the
+Barly &#38; <expan type="">the</expan> herbe in wyne / &#38; gyue it to <expan type="">the</expan> pacyent to drynk
+with Lycoryce.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="petrocilium(n)">Petrocilium.</form>
+<xpln lexeme="parsley(n)">This is called Persly. This herbe is hote &#38; moyst in <expan type="">the</expan>
+
+
+
+
+</page>
+
+<page sig="F4v">
+iii. degre. It multyplyeth greatly mannes blode &#38; dothe
+awaye the Tysyke. It helpeth well to destroy the Feuer 
+tercyan. It is good for the syde &#38; the drosy. It c<expan type="">on</expan>forteth 
+the herte &#38; the stomake. And it is good in potage and to
+stoppe Chekyns.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="peritorium(n)">Peritorium.</form>
+<xpln lexeme="parietary(n)">This herbe is called Perytori &#38; it is hote &#38; dry. The
+vertue of this herbe is thus. If a man haue an euyll sto&#173;
+make orels akyng within hym / take this herbe and sethe
+it in thy potage &#38; ete therof and thou shall do well. Also
+this herbe is good to hele one of <expan type="">the</expan> stone / yf he be bathed
+with it.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="pastinaca(n)">Pastinaca.</form>
+<xpln lexeme="parsnip(n)">This is called a Pasnep. It is hote &#38; moyst in the se&#173;
+conde degre. There be two maner of Pasneppes. The
+one is the Pasnep of the garden &#38; the other is the wylde
+Pasnep. They be more vsed to meet than to medycyne
+His vertue is to gendre thycke blode &#38; moche / wherfore
+it styreth the lust of <expan type="">the</expan> body yf it be moche vsed / therfore
+it is good for a man that is newly recouered out of his
+great sekenesse to vse to ete of it a whyle. Also they be
+good to be eten rawe or sothen for <expan type="">the</expan> mal<expan type="">an</expan>coli humours
+grene &#38; not dry . To make a syrop to styrre the lust of <expan type="">the</expan>
+body &#38; for to conforte the degestyon / take rotes of Pas&#173;
+neppes &#38; sethe them well in water / than take them out &#38;
+cast awaye that water / &#38; the rootes that be in gobettes
+boyle them agayne in water / than put therto hony well
+claryfyed &#38; let them boyle vnto the thycknesse of Hony
+&#38; c<expan type="">on</expan>tynually styre it that it cleue not to the vessel / and in
+the mydle of the boylynge put in Almondes yf ye haue
+them / &#38; in the ende of the boylynge put in swete sauou&#173;
+red spyces / as Gynger / Galyngale / a lytell Peper / Nut&#173;
+megge &#38; other swete sauoured spyces. Also Pasneppes
+
+
+
+
+</page>
+
+<page sig="G1r">
+may be sowen in December Ianuary &#38; Marche in fatte
+grounde depe doluen and lose grounde &#38; best dygged /
+&#38; they be somwhat wyndy. Boyle them in two waters /
+but cast awaye the fyrst water. Also there is a Pasneppe
+that is somwhat reed / <expan type="">the</expan> whiche may be eten bothe rawe
+&#38; soth<expan type="">en</expan> / &#38; with them &#38; Nauewes togyder / ye may make
+a veray good meet &#38; fayre &#38; reed in coloure / the whiche
+be soen as Pasneppes be.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="plantago(n)">Plantago.</form>
+<xpln lexeme="plantain(n)">This is called Plantayne. It is colde and dry in <expan type="">the</expan> .ii.
+degre. For heed ache take Plantayne &#38; bynde it aboute
+thy necke &#38; <expan type="">the</expan> ache shall go out of thy heed. Also for dys&#173;
+eases in the body / seth this herbe in good lycour what ye
+wyll &#38; vse to drynke it &#38; it shall clense the mawe and the
+other inwardes. Also for hym that bledeth at the nose /
+gyue hym to drynke the ioyce of this herbe &#38; it shal cease
+lyghtly. Also yf the body of ony man be waxen harde /
+stampe this herbe with grece &#38; make a playster of it and
+lay it on the hardnesse / &#38; lyghtly it shalbe softe &#38; make it
+hole. Also for bytyng of a Serpent / take this herbe and
+drynke it with wyne. Also for the dysease in the mouthe
+take <expan type="">the</expan> ioyce of this herbe &#38; holde it longe in thy mouthe
+&#38; ete the leues of this herbe. Also for hym that maye not
+well pysse sethe this herbe &#38; drynke it. Also for a roten
+humour in the brest &#38; aboute the herte / take the ioyce of
+this herbe the weyght of .x. pens &#38; medle it with Hony &#38;
+gyue hym to ete a sp<expan type="">on</expan>ful at one tyme &#38; that shall purge
+the brest. Also for <expan type="">the</expan> ache in fete / take this herbe with vy&#173;
+neger &#38; drynke it. Also it helpeth wo<expan type="">un</expan>des &#38; clenseth the
+fylthe out of woundes. Also it swageth the canklynge
+&#38; sta<expan type="">un</expan>cheth the mencyons bothe with drynke &#38; with play<emend err="">&#173;</emend>
+sters made with powder of Armonyake &#38; of Sandra&#173;
+gowne &#38; Barly mele with the whyte of egges made in
+
+
+
+
+</page>
+
+<page sig="G1v">
+playster &#38; layde to <expan type="">the</expan> sore. Also for the Canker &#38; <expan type="">the</expan> peyne
+in the gummes / take the ioyce therof &#38; medle it with Ho<emend err="">&#173;</emend>
+ny &#38; vyneger &#38; powder of Alume &#38; that shall slee <expan type="">the</expan> Can<emend err="">&#173;</emend>
+ker in the mouthe. Also for the Feuers stampe .iii. rotes
+of Plantayne &#38; tempre it with water &#38; gyue it hym to 
+drynke that hathe the Feuers &#38; he shalbe hole. Also for <expan type="">the</expan>
+Iawnesse stampe Plantayne &#38; Lettuse togyder &#38; tem&#173;
+pre them with vyneger &#38; make a playster therof &#38; laye it
+to the ryght syde &#38; vse it tyl thou be hole. Also it is good
+for bytynge of an Adder / drynke the ioyce of it &#38; lay the
+substaunce of the herbe to the sore. For the same / hange
+the roote of the Plantayne aboute the necke of the pa&#173;
+cyent &#38; merueylously it helpeth. Also for the Potagre &#38;
+for the dysease in the senowes stampe <expan type="">the</expan> leues of it with
+a lytell salte &#38; playster it well therto and merueylously
+it helpeth.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="porrum(n)">Porrum.</form>
+<xpln lexeme="leek(n)">This is called a Leke. It is hote &#38; dry in the thyrde de<emend err="">&#173;</emend>
+gre. It desyreth lose grounde and fatte &#38; well donged /
+in that they shall best profyte in hote places &#38; temperate
+They may be sowen in December in temperate places
+&#38; colde. They may be sowen in Ianuary February and
+Marche whan the grounde is wel dygged &#38; dyght. And
+it may be sowen by it selfe or medled with other sedes
+of herbes in good fatte grounde well dygged &#38; couered
+aboue it with good donge. This sede wolde be sowne
+somwhat thycke. And whan they be somwhat sprongen
+take vp of the greatest Lekes &#38; plante them in forowes /
+but take away none of theyr rotes whan ye set them in
+the forowes / but whan ye set them with a Debyll / th<expan type="">an</expan> cut
+away the rootes almost vp to the Leke heed / &#38; cut a way
+the vppermost of the leues. They may be planted in Iu<emend err="">&#173;</emend>
+ly August September &#38; October. They be moche pro&#173;
+
+
+
+
+</page>
+
+<page sig="G2r">
+fytable in Marche &#38; in Aprell nexte folowynge / but in
+your plantynge you shall not seke after fat soft gro<expan type="">un</expan>de
+for meanely grounde than is best / &#38; that gro<expan type="">un</expan>de that is
+almost dry is best. Ther is two maner of settyng of Le&#173;
+kes / one is in forowes as is the maner in Bonony / &#38; the
+forow must be fro his nexte felowe the brede of a sp<expan type="">an</expan>ne
+large / &#38; the Lekes must be set in the forowe .iiii. fyngers
+brede yche fro other / &#38; whan ye make the nexte forowe /
+cast the erthe on the Lekes &#38; trede it downe softly with
+thy fote. The seconde maner of settynge is thus / whan
+the grounde is well dygged and raked / than make holes
+with a great Dybell &#38; euery hole fro other a large sp<expan type="">an</expan>ne 
+&#38; more in whiche the lekes must be set in / but fyll not the
+holes nor put erthe in hym / but let hym be voyde .iii. we&#173;
+kes / whan wedes growe amonge them pull them vp and
+kepe them clene fro wedes. Dyuers autours say that the
+Lekes that be thus planted be better than ony other. Or
+they may be well planted amonge great Onyons / and
+whan the Onyons be taken awaye / wede the Lekes and
+you shall fynde them fayre &#38; good. And whan ye plucke
+vp some in a place / leue some for sede / the whiche sede
+may be kepte .iii. yere &#38; it be hanged vp in the hulles. Le&#173;
+kes be beste sothen or .iii. tymes wasshed before they be
+eten. For a <emend err="woude">wo<expan type="">un</expan>de</emend> take lekes and stampe them well with
+Hoy &#38; lay it to the wounde &#38; it wyll be hole. Also for the
+coughe take the ioyce of <emend err="Lkes">Lekes</emend> &#38; vse to drynke it. Also
+for the same take the ioyce of Lekes &#38; medle it with wo<emend err="">&#173;</emend>
+mannes mylke &#38; vse to drynke it / and it wyll clense <expan type="">the</expan> l<expan type="">on</expan><emend err="">&#173;</emend>
+ges of all vyces.
+Fracturas solidat: duritias <expan type="">que</expan> relaxat.
+Uulnus<expan type="">que</expan> appositum: cito cum sale claudit.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="pyrethrum(n)">Piretrum.</form>
+<xpln lexeme="pelleter(n)">This is called Pelleter. It is hote and dry in the .iii.
+
+
+
+
+</page>
+
+<page sig="G2r">
+degre. The rote is vsed <expan type="">in</expan> medycynes. Fyue yere he may
+be kepte in his vertue. And knowe ye well that his sharp<emend err="">&#173;</emend>
+nesse is not knowen anone / it shulde be powned and hol&#173;
+den in the mouthe. He hathe vertue of losynge &#38; draw&#173;
+ynge &#38; of c<expan type="">on</expan>sumyng. To make a Gargarisime / take Pel<emend err="">&#173;</emend>
+leter &#38; fygges and boyle th<expan type="">em</expan> in vyneger or swete wyne
+and it wyll clense the brayne of superfluyte of flewme.
+Also yf it be chewed in the mouthe / it helpeth the Palsy
+in the tonge. Also for the Palsy &#38; the Potagre stampe
+it and sethe it in wyne and oyle and playster it to the gre<emend err="">&#173;</emend>
+ua<expan type="">un</expan>ce. This playster helpeth moch / therfore yf you may
+haue grene Pelleter stampe it and laye it in sokynge in
+wyne .xv. days / &#38; after boyle it wel and put therto wexe
+and oyle / for this is the best oyntment <emend err="forall">for all </emend> <expan type="">the</expan> foresayd
+dyseases.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="papaver(n)">Papauer.</form>
+<xpln lexeme="poppy(n)">This is called Popy. It is colde and dry. Ther is .ii.
+maners of them. The whyte Popy is colde and moyste
+and it is good to cause one to slepe. The sede therof wel
+gadered may be kepte .x. yere. It hath vertue of cl<expan type="">en</expan>syng
+It is put in medycynes with a determynacy<expan type="">on</expan> as <expan type="">the</expan> sede
+may be receyued of whyte Popy or black for to prouoke
+a slepe / make a playster of yche of th<expan type="">em</expan> or one of th<expan type="">em</expan> with
+wom<expan type="">an</expan>s mylke and the whyte of an egge &#38; lay it to <expan type="">the</expan> t<expan type="">em</expan><emend err="">&#173;</emend>
+ples. The wom<expan type="">en</expan> of Salerne gaue to yonge chyldren / <expan type="">the</expan>
+Popy / but they wolde gyue them no blacke Popy for it
+made them tomoche heuy. Also for a hote postume in <expan type="">the</expan>
+begynnynge and for chafynge of the lyuer take <expan type="">the</expan> sede
+of whyte Popy orels the herbe of it and stampe it &#38; me&#173;
+dle it with oyle of Roses and playster it to the greua<expan type="">un</expan>ce.
+Also for drynesse in Feuer etyke and in other Feuers /
+take and hete oyle of vyolet medled with poder of Po&#173;
+py sede / &#38; anoynt the small of the backe therwith.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="G3r">
+<wordentry type="h">
+<form lexeme="polipodium(n)">Polipodium.</form>
+<xpln lexeme="polypody(n)">This is called Pollypody. It is hote in the .iii. degre
+&#38; dry in the sec<expan type="">on</expan>de degre. This Polypody it is a Ferne
+that groweth vpon Okes or on walles or stones / but the
+Polypody that groweth on okes is the best. Gadre <expan type="">the</expan> ro&#173;
+tes of it &#38; lay it a day in the sonne. Chose that is grene /
+&#38; that whiche appereth dry whan it is broken is to be re&#173;
+fused. He hathe vertue of dyssoluynge of drawynge &#38; 
+of purgynge flewme &#38; specyally mal<expan type="">an</expan>coly / wherfore co<emend err="">&#173;</emend>
+munely he is put in boylynges and to flewmatyke &#38; ma<emend err="">&#173;</emend>
+lancolyous hole m<expan type="">an</expan> / he is gyuen to preserue theyr helth.
+And knowe well <expan type="">that</expan> in the boylynge of Polypody shulde
+be put in some thynge to exclude &#38; put out ventosyte as
+Anyse sede / Fenell sede / or Comyn / orels all these fore&#173;
+sayd sedes / for they exclude out moche mynde &#38; vnbyn&#173;
+deth humours. Also for cotidian &#38; for Ilica passio &#38; for
+to kepe a m<expan type="">an</expan>nes helthe do thus / stampe halfe an vnce of
+Polypody or an vnce / yf you wyll haue it moch laxatyfe
+than boyle it with prunes and vyolettes in Fenell wa&#173;
+ter or Anyse in a great quantyte / than strayne it &#38; gyue
+it to the pacyent at morowe and at euenynge. Also an
+other vse of it. Stampe it and sethe it in water with Fe<emend err="">&#173;</emend>
+nell sede &#38; with water make a brothe &#38; boyle a Chykyn
+therin with swete sauoured spyces &#38; gyue it to the pacy<emend err="">&#173;</emend>
+ent. Also make a drinke therof after this maner / st<expan type="">am</expan>pe it
+and boyle it in wyne / and after put more wyne therto / &#38;
+so make vp your drynke with swete sauowred spyces.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="pienium(n)">Pienium.</form>
+<xpln lexeme="peony(n)">This is called Pyeny. It is hote and dry in <expan type="">the</expan> seconde
+degre. And so saythe ypocras and Galyen the good phy<emend err="">&#173;</emend>
+losofers. They say <expan type="">that</expan> <expan type="">the</expan> rote therof goeth to dyuers me&#173;
+dycynes / and it wyll last .x. yeres / and it is colde. For the
+Palsy dry the rote and drynke the powder with Caster
+
+
+
+
+</page>
+
+<page sig="G3v">
+sothen in wyne. <emend err="A so">Also</emend> <expan type="">the</expan> same drynke is good for <expan type="">the</expan> stone.
+Also yf a man be costyfe and maye not go to <expan type="">the</expan> draught
+take and strawe the powder therof on Cotton and put
+it into his fundement / &#38; drynke <expan type="">the</expan> powder in wyte wyne.
+Also for a man or woman that hathe the fallynge euyll
+ete it and drynke it with wyne / also hange <expan type="">the</expan> rote aboute
+his necke and it wyll saue hym withouten doubte with&#173;
+in .xv. days. Also it helpeth the sorenes in the mouthe. 
+Also yf thou sethe it in wyne it wyll helpe the splenne.
+Also drynke Pyeny with water and Hony and do ther&#173;
+to powder of Colyander &#38; this is good for the stomake
+for the mylte and for grauel in <expan type="">the</expan> reenes. Also it is good
+for women for dyuers sekenesse. Also sethe it in whyte
+wyne and gyue a woman to drynke therof and it wyll
+hele her bladder and make her to pysse the stone / &#38; it wyll
+hele her of the Maris. Also Pyeny sede wh<expan type="">an</expan> it is blacke
+it maketh delyueraunce of the bedde of the chylde in her
+wombe / and at euery tyme whan she shall vse to drynke
+it / she must drynke .xv. sedes at one tyme.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q">
+Q. litera. Et primo de <wordentry type="h"><form lexeme="quinquefolio(n)">Quinquefolio.</form>
+<xpln lexeme="cinquefoil(n)">QUynckfoyle is colde and dry in the .ii. degre. This
+herbe is good for ache in a mannes lendes and for
+ache of the heed / mouthe / tongue / &#38; throte that be sore /
+take and sethe this herbe in wyne / and gyue the pacyent
+to drynke therof .iii. dayes fyrst and last / &#38; he shalbe hole.
+Also stampe it and drynke the ioyce of it in ale / &#38; it wyll
+cease the akynge and gnawynge of man or woman. Al&#173;
+so yf a man blede sore at the nose / gyue hym to drynke <expan type="">the</expan>
+ioyce of it with wyne / and anoynt his heed well with <expan type="">the</expan>
+ioyce of this herbe / and anone the blode shall stande. Al&#173;
+so for to slee a C<expan type="">an</expan>ker / sethe it in wyne and the grece of a 
+swyne &#38; make a playster therof &#38; lay it on the Canker / &#38;
+it shall slee it. Also take powder of Quynckfoyle &#38; me&#173;
+
+
+
+
+</page>
+
+<page sig="G4r">
+dle it with Hony and therwith rubbe thy mouthe / t<expan type="">on</expan>ge /
+throte / and the chekes within / and it wyll purge it wel.
+Also for poyson or bytynge of a serpent / take the ioyce
+of Quynckfoyle &#38; drynke it with wyne &#38; merueylously
+it resysteth venym.
+</xpln></wordentry>
+</wordgroup1> 
+
+<wordgroup1 type="a" object="r">
+Hic incipit litera R. And fyrst of <wordentry type="h"><form lexeme="ribwort(n)">Rybworte.</form>
+<xpln>Rybworte is good for the Feuer quartayne. Take
+the ioyce of this herbe and drynke it .ii. houres be&#173;
+fore ye thynke the dysease shall come to you / and by the
+grace of god it shall go fro you.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="red nettle(n)">Reed netle.</form>
+<xpln>Take reed Netles and stampe them small and sethe
+them in an erthen pot with a porcyon of whyte wyne tyl
+halfe be wasted / and gyue the pacyent to drynke fyrste &#38;
+last warme / &#38; lay the herbes to the fundem<expan type="">en</expan>t as hote as
+the pacyent may suffer it / and vse this medycyne tyll he
+be hole. 
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="rosa(n)">Rosa.</form>
+<xpln lexeme="rose(n)">This is the reed Rose. It is colde in the fyrst degre &#38;
+dry in the sec<expan type="">on</expan>de degre. Dry roses &#38; grene roses be vsed
+in medycynes / and of grene roses be made many confec<emend err="">&#173;</emend>
+cyons. Also dry roses be put in medycynes wh<expan type="">an</expan> a receyt
+of roses is made for they be soone made in powder. Of
+roses is made Melroset / suger roset / syrop of roses / a
+lectuary of roses / water of roses / and oyle of roses. Mel<emend err="">&#173;</emend>
+roset is made thus / take fayre purified Hony and newe
+reed roses / the whyte endes of them clypped awaye / th<expan type="">an</expan>
+shrede them or chop them small / than put them into the
+<emend err="the"></emend> Hony / and boyle them meanely togyder. The sygne
+to whan it is boyled ynoughe / you shall knowe it by the
+swete odour and the colour Rufe. Fyue yere he may be
+kepte in his vertue. By the roses he hathe vertue of con<emend err="">&#173;</emend>
+fortynge / and by the Hony he hathe vertue of clensynge
+
+
+
+
+</page>
+
+<page sig="G4v">
+In wynter and in somer it may be gyuen competently
+to feble / seke / flewmatyke / malancholy / &#38; coleryke people.
+Also Mulsa is made of water &#38; mell roset / and it maye
+be gyuen after the .iii. daye that it cometh out of <expan type="">the</expan> bathe
+for to clence <expan type="">the</expan> stomake of colde humour. Gyue hym mel
+roset with water that Fenel sede is boyled in / puttynge
+therin .iii. graynes of salte / yf the seke may take it. This
+shulde be <expan type="">the</expan> qu<expan type="">an</expan>tyte of Roses &#38; of Hony. In. vii. po<expan type="">un</expan>de
+of Hony put a pounde of Roses. Suger roset is made
+thus. Take newe gadered roses and stampe them ryght
+small with suger / than put it in a glasse vessell and .xxx.
+dayes let it stande in the sonne / and styre it wel and me&#173;
+dle it wel togyder &#38; so it may be kepte .iii. yere in his ver<emend err="">&#173;</emend>
+tue / the quantyte of suger &#38; of the roses shulde be thus /
+in .iiii. pounde of suger a pounde of Roses / he hathe ver<emend err="">&#173;</emend>
+tue of constraynynge and confortynge of the flux in <expan type="">the</expan>
+wombe. Take suger roset and powder of Mastyke / of
+euery one a dram / and medle them well togyder &#38; gyue
+it to the seke / after that gyue hym rose water that Ma&#173;
+styke and cloues be sothen in. Syrop of Roses is made 
+thus / some do take Roses dyght / as it is before sayde /
+and boyle them in water / &#38; in that water strayned they
+put Suger &#38; make a syrop therof. And some do make
+it better / for they put roses in a vessel hauynge a strayte
+mouthe / and they put to the roses hote water and they
+let it stande a day and a nyght / and of <expan type="">the</expan> water puttynge
+to it suger they make syrop. And some do put more of
+roses in the foresayd vessell and more of hote water / &#38;
+let it stande as is before sayde / and so they make a reed
+water &#38; make therof a syrop. And some do st<expan type="">am</expan>pe newe 
+Roses and they strayne out the ioyce of it &#38; therwith &#38;
+suger they make syrop and this is the best makynge of
+syrop. And knowe well that syrop made of fresshe and
+
+
+
+
+</page>
+
+<page sig="H1r">
+newe roses / fyrst somwhat meanely they lax / &#38; in <expan type="">the</expan> ende
+they bynde / but syrop made of dry roses fyrst &#38; last they
+bynde. Syrop of roses hathe vertue of c<expan type="">on</expan>fortynge and
+constraynynge agaynst the flux of the wombe and <expan type="">the</expan> vo<emend err="">&#173;</emend>
+myte. Gyue it to hym with rayne water or with rose wa<emend err="">&#173;</emend>
+ter in a Feuer. After lettynge of blode gyue it hym with
+colde water. Also the same for the Syncopyne. Oyle of
+roses is made thus. Some boyle roses in oyle and kepe
+it. Some do fyll a vessell of glasse with roses and oyle /
+and they boyle it in a Cawdron full of water / &#38; this oyle
+is good. Some stampe fresshe roses with oyle / and they
+put it in a vessell of glasse / and set in the sonne .l. dayes
+and this oyle is good agaynst the chafynge of the lyuer /
+yf it be anoynted therwith. Also it is good for <expan type="">the</expan> dysease
+in the heed that cometh of hete / anoynte <expan type="">the</expan> foreheed and
+the temples with oyle of roses. The water of roses hath
+vertue of confortynge and constraynynge agaynste the
+flux of <expan type="">the</expan> wombe &#38; the vomyte. Also gyue hym rose wa&#173;
+ter to drynke / orels rose water boyled with Mastyke &#38;
+Cloues / it is best agaynst the flux and feblenesse of ver&#173;
+tue yf it come of a flux by a sharpe medycyne. Also rose
+water is good for the Syncopyne and the Cardyacle /
+gyue it hym to drynke and sprynge <expan type="">the</expan> water on his face.
+Also the water is good for eyes &#38; in oyntm<expan type="">en</expan>tes for the
+face / for it taketh away the wemmes and <expan type="">the</expan> superfluyte
+and strayneth the skynne. Also dry roses put to the nose
+to smell do c<expan type="">on</expan>forte the brayne &#38; the herte &#38; quyckneth <expan type="">the</expan>
+spyryte. Also agaynst the flux of the wombe of coloure /
+gyue hym roses boyled in rayne water. Also a playster
+made of roses &#38; the whyte of egges &#38; vyneger &#38; dyppe a 
+sponge in it and lay it on the mouthe of the stomake. Al<emend err="">&#173;</emend>
+so for gaynste the Syncopyne / gyue hym to drynke water
+that roses haue b<expan type="">en</expan> boyled in. Also gyue hym powder of
+
+
+
+
+</page>
+
+<page sig="H1v">
+roses in a rere egge. To make oyle of Roses / take .ii. li.
+of oyle &#38; a pounde &#38; an halfe of roses and putte all in a
+glasse / &#38; put the glasse in a Cawdron full of water / and
+hange it therin &#38; boyle it tyll the thyrde parte be wasted
+and after strayne it throughe a lynen clothe &#38; kepe it for
+your vse / for this oyle is losynge and serueth for many
+thynges. Some do put rose water in a glasse / &#38; they put
+roses with theyr dewe therto / &#38; they make it to boyle in
+water / than they set it in the sonne tyll it be reed / &#38; this
+water is best / this hathe vertue of confortynge and con&#173;
+straynynge &#38; for <expan type="">the</expan> flux of the wombe &#38; agaynst vomyte.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="rosemary(n)">Rosemary.</form>
+<xpln>This herbe is hote and dry / take the flowres and put
+them in a lynen clothe / &#38; so boyle them in fayre clene wa<emend err="">&#173;</emend>
+ter to <expan type="">the</expan> halfe &#38; coole it &#38; drynke it / for it is moche worth
+agaynst all euylles in the body. Also take the flowres &#38;
+make powder therof and bynde it to the ryght arme in
+a lynen clothe / and it shall make the lyght and mery. Al&#173;
+so ete the flowres with hony fastynge with sowre breed
+and there shall ryse in the none euyll swellynges. Also
+take the flowres and put them in a chest amonge youre
+clothes or amonge bokes and moughtes shall not hurte
+them. Also boyle the flowres in gotes mylke &#38; than let 
+them stande all a nyght vnder the ayer fayre couered / af<emend err="">&#173;</emend>
+ter that gyue hym to drynke therof that hath the tysyke
+and it shall delyuer hym. Also boyle the leues in whyte
+wyne &#38; wasshe thy face therwith / thy berde &#38; thy browes
+and there shall no cornes growe out / but thou shall haue
+a fayre face. Also put the leues vnder thy beddes heed / &#38;
+thou shalbe delyuered of all euyll dremes. Also breke <expan type="">the</expan> 
+leues small to powder &#38; laye them on a Canker &#38; it shall
+slee it. Also take the leues &#38; put th<expan type="">em</expan> into a vessel of wyne
+and it shall preserue <expan type="">the</expan> wyne fro tartnesse &#38; euyl sauour /
+
+
+
+
+</page>
+
+<page sig="H2r">
+and yf thou sell that wyne / thou shall haue good lucke &#38;
+spede in the sale. Also yf thou be feble with vnkyndly
+swette / take and boyle the leues in clene water / &#38; whan <expan type="">the</expan>
+water is colde do therto asmoche of whyte wyne / &#38; than
+make therin soppes &#38; ere thou well therof / &#38; thou shal re<emend err="">&#173;</emend>
+couer appetyte. Also yf thou haue the flux boyle <expan type="">the</expan> leues
+in stronge Aysell &#38; than take bynde them in a lyn<expan type="">en</expan> <emend err="lothe">clothe</emend> and
+bynde it to thy wombe &#38; anone the flux shal withdrawe.
+Also yf thy legges be blowen with the goute / boyle the
+leues in water / &#38; than take the leues &#38; bynde them in a ly<emend err="">&#173;</emend>
+nen clothe aboute thy legges / &#38; it shall do <expan type="">the</expan> moche good. 
+Also take the leues and boyle them in stronge Aysell &#38;
+bynde them in a clothe to thy stomake / &#38; it shall delyuer
+<expan type="">the</expan> of all euylles. Also yf thou haue the coughe / drynke the
+water of the leues boyled in whyte wyne / &#38; thou shalbe 
+hole. Also take the rynde of Rosemary &#38; make powder
+therof and drynke it for the pose / &#38; thou shalbe delyue&#173;
+red therof. Also take the tymbre therof &#38; br<expan type="">un</expan>ne it to co&#173;
+les &#38; make powder therof &#38; th<expan type="">an</expan> put it into a lynen cloth
+and rubbe thy tethe therwith / &#38; yf there be ony wormes
+therin it shall slee them &#38; kepe thy tethe from all euyls.
+Also make the a box of the wood and smell to it and it
+shall <emend err="preserne">preserue</emend> thy youthe. Also put therof in thy doores
+or in thy howse &#38; thou shalbe without daunger of Ad&#173;
+ders and other venymous <emend err="ferpentes">serpentes</emend>. Also make the a
+barell therof &#38; drynke thou of the drynke that standeth
+therin &#38; thou nedes to fere no poyson that shall hurte <expan type="">the</expan> /
+and yf thou set it in thy garden kepe it honestly for it is
+moche profytable. Also yf a m<expan type="">an</expan> haue lost his smellynge
+of the ayre orelles he maye not drawe his brethe / make a 
+fyre of the wood &#38; bake his breed therwith &#38; gyue it hym
+to ete &#38; he shalbe hole.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="ruta(n)">Ruta.</form>
+
+
+
+
+</page>
+
+<page sig="H2v">
+<xpln lexeme="rue(n)">This is called Rewe. This is hote and dry in <expan type="">the</expan> . ii. de&#173;
+gre / the leues and the sedes be vsed in medycynes. The
+sedes may be kepte .x. yere and the leues a yere. He hathe 
+vertue of purgynge / dyssoluynge &#38; consumynge. For <expan type="">the</expan> 
+heed ache take the ioyce of rewe &#38; hete it &#38; put it into his
+nosethrylles for it putteth out flewme &#38; cl<expan type="">en</expan>seth <expan type="">the</expan> brayne
+Also the ioyce sothen with wyne is good for the same. 
+Also for feblenesse of syght put rewe in a pot with ale /
+&#38; let the pacyent vse to drynke of it. Also for stoppynge
+of the splenne &#38; the lyuer / the strangury &#38; the flux / sethe
+rewe in wyne with rotes of Fenell or powder of Rewe
+with ioyce of Fenell and drynke it warme. Also for an
+ache or a fretynge / stampe rewe with powder of Comyn
+and playster it to the greuaunce. Also agaynst venym /
+drynke the ioyce of rewe. For bytynge of a venymous 
+beest or worme / playster rewe to the bytynge. Also for fe<emend err="">&#173;</emend>
+ble eye syght styll water of rewe &#38; roses togyder &#38; putte
+therof in youre eyes. Also an oyntmente for sore eyes /
+stampe rewe and Fenell togyder of yche lyke moche by
+weyght &#38; medle them with Hony &#38; Eufrose &#38; it is good
+oyntment for eyes. Also take rewe / comyn / and Peper /
+of yche lyke moche by weyght / &#38; grynde them small to&#173;
+gyder and medle them with hony <emend err="nnd">and</emend> vyneger. And it
+<emend err="it"></emend>is good for the ache in the brest and in the reynes.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">
+Hic incipit litera S. Et primo de <wordentry type="h"><form lexeme="sinapium(n)">Sinapio.</form>
+<xpln lexeme="mustard(n)">SInapium is called Mustarde. It is hote &#38; dry in <expan type="">the</expan>
+mydle of the .iiii. degre / and not the herbe but the
+sede is put in medycynes. Fyue yere he may be kepte in
+<emend err="in"></emend>his vertue. He hathe vertue of losynge / of drawynge /
+of <emend err="makyngde">makynge</emend> thynne / and of consumynge. For the palsy
+of the tonge take &#38; chewe the sede of it in youre mouthe
+and holde it vnder the tonge &#38; it shall do you good. Al&#173;
+so for the palsy <expan type="">in</expan> other membres / sethe the sede in wyne
+
+
+
+
+</page>
+
+<page sig="H3r">
+and lay it to the sore place &#38; it is best in the begynnynge
+of the dysease. Also take the powder of it &#38; put it into
+your nosethrylles &#38; it wyll make you to nese / &#38; it cl<expan type="">en</expan>seth
+the brayne of superfluyte of flewme. Also sethe it in
+wyne and fygges &#38; holde it warme in your mouthe tyll
+it be almost colde than take asmoche more &#38; do so .v. or.
+vi. tymes. in a day &#38; asmoche in another day / and this is
+good for an olde pose of toughe &#38; flewmy humoure in
+the heed. Also for stoppynge of the splenne &#38; the lyuer /
+sethe the sede in water with rotes of Fenell / th<expan type="">an</expan> strayne
+it &#38; put therto Hony &#38; gyue it to the seke to drynke. Al&#173;
+so for hardnes of <expan type="">the</expan> splenne / sethe the herbe of it in wyne
+and playster it to the greuaunce. Also for to rype &#38; breke
+a postume / stampe this herbe well with Hogges grece &#38;
+lay it vpon the postume. Also for the Strangury take <expan type="">the</expan>
+herbe of this &#38; sethe it in oyle and wyne &#38; playster it to
+the greuaunce &#38; it wyll lose it. Also for the Ciatica &#38; for
+other olde sores take Mustarde sede &#38; the thrydde parte
+of cremes of whyte breed &#38; fygges &#38; hony &#38; vyneger af&#173;
+ter as the ache of the sore requyreth / the more of the fyg&#173;
+ges &#38; the hony that is there the more sharper is <expan type="">the</expan> str<expan type="">en</expan>gth
+of the sede: and the more breed &#38; vyneger that is in it / <expan type="">the</expan>
+more weker is the sede / but I say not that ye shall putte
+this confeccyon to all sores / but to great &#38; olde sores. Al<emend err="">&#173;</emend>
+so his vertue is yf it be eten it sharpeth a mannes wytte
+It clenseth the bely. It breketh the stone. It purgeth <expan type="">the</expan>
+bryne / the m<expan type="">en</expan>struosyte / &#38; conforteth the stomake.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="smallage(n)">Smalage.</form>
+<xpln>Take Smalage sede / Rewe sede / Peper &#38; Salt and
+grynde them well togyder &#38; tempre them with wyne &#38;
+drynke it / for it is good for colde and wycked humoures
+in the stomake &#38; conforteth the stomake / the lyuer / &#38; the
+longes. Also it is good for woundes &#38; for canklynges &#38;
+
+
+
+
+</page>
+
+<page sig="H3v">
+to ceas the brennynge and akynge &#38; to brynge them to
+theyr kynde agayne. Also it is good to drynke for the fe<emend err="">&#173;</emend>
+uer tercyan.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="salvia(n)">Saluia.</form>
+<xpln lexeme="sage(n)">Sage is hote in the fyrst degre &#38; dry in the seconde de<emend err="">&#173;</emend>
+gre. The leues onely be tak<expan type="">en</expan> in medycynes bothe grene
+and dry. He may be kepte a yere. Of sage there be .ii. ma<emend err="">&#173;</emend>
+ners / Sage of the garden &#38; wylde Sage. If thou wyll
+haue Sage for medycynes take <expan type="">the</expan> leues of gard<expan type="">en</expan> Sage
+for Sage of the garden consumeth more &#38; conforteth
+th<expan type="">an</expan> the other dothe. For <expan type="">the</expan> Palsy sethe the leues of sage
+in wyne and vse to drynke it. Also for the same / sethe <expan type="">the</expan>
+leues in wyne and playster it to the greua<expan type="">un</expan>ce. Also it is
+good to put in sawce. Also the strangury / the flux / and
+the matryce it clenseth. Sethe the leues in water and let
+the pacyent sytte ouer it &#38; receyue the hote fume of it /
+&#38; it shal do hym moche good. Also it is good for venym
+or poyson. Sethe Sage in ale or wyne &#38; vse to drynke
+it .iii. dayes &#38; thou shalbe hole by the grace of god. For <expan type="">the</expan>
+stomake drynke the ioyce of Sage with water &#38; Hony.
+Also it is good to clense a mannes body to vse it bothe
+rype &#38; grene. It wyll make a m<expan type="">an</expan>nes body clene / therfore
+who that vseth to ete of this herbe or drynke it / it is mer<emend err="">&#173;</emend>
+uayle that ony inconuenyence shulde greue th<expan type="">em</expan> that vse
+it. Also yf a man haue an ytchynge / wasshe the ytchynge
+well with the ioyce of this herbe &#38; it shall <emend err="slec">slee</emend> <expan type="">the</expan> ytchynge
+soone. Also drynke Sage with wyne and a lytell wor&#173;
+wode &#38; it shall cease the ache vnder the sydes / the w<expan type="">om</expan>be /
+&#38; the stomake. It is good for the dropsy and the palsy.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="satureie(n)">Satureia.</form>
+<xpln lexeme="savory(n)">This is called Saueray. It is hote and dry in <expan type="">the</expan> .iiii.
+degre. Sethe it in wyne or water and drynke it &#38; it pur&#173;
+geth the reynes / the bladder / the menstruosyte in <expan type="">the</expan> bow
+
+
+
+
+</page>
+
+<page sig="H4r">
+elles / &#38; it purgeth the longes &#38; loseth <expan type="">the</expan> great humoures
+and compelleth and putteth hym out by the mouthe by
+spyttynge / therfore he is br<expan type="">en</expan>nynge and styreth hym that
+vseth lechery / therfore it is forboden to vse it moche in
+metes. Also soke it in vyneger or in wyne &#38; drynke them
+and that shall make <expan type="">the</expan> a good meke stomake. Also whan
+it flowreth it shulde be gadered and dryed and powder
+made therof. Also take the powder of Saueray &#38; boyle 
+it with claryfyed Hony and vse to ete therof or boyle it
+in wyne and drynke it and it wyll lose toughe flewme
+in the brest. Also for fretynge in the bely drynke powder
+of it in warme wyne &#38; thou shalbe hole. Also yf ye take
+the lesse Saueraye it hathe the same vertue and str<expan type="">en</expan>gth
+that the other Saueray hathe. Also make grewell with
+water and flowre and powder of Saueray &#38; ete therof
+and that shall clense all the spyrytual membres of a m<expan type="">an</expan>.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sarfrage(n)">Sarfrage.</form>
+<xpln>This is hote &#38; dry in the .iii. degre. For the stone sethe
+the rote of it in wyne &#38; drynke it. Also it is good for the
+dysease of the Colyke and the strangury. And the pow&#173;
+der of it be eten with a egge it is good for the same. It
+may be kepte in his vertue .iii. yere.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="scabiosa(n)">Scabiosa.</form>
+<xpln lexeme="scabious(n)">This is called Scabyas. It is hote and dry in <expan type="">the</expan> thyrd
+degre. To dry it ther is no profyte <expan type="">in</expan> it. For scabbes take
+the ioyce of it / vyneger / &#38; oyle / &#38; boyle them togyder tyll
+they waxe thycke &#38; kepe it for it is good for scabbes. Al&#173;
+so for the Emerawdes sethe them in water / than sytte
+ouer it and take the fume of it &#38; vse it and thou shalbe
+hole. Also stampe it and sethe it in wyne &#38; that drynke
+is good to destroye humours in <expan type="">the</expan> stomake. And drynke
+it euery day fastyng with Ewrose and thou shalbe hole.
+And thou shall neuer haue <expan type="">the</expan> Pestylence bredynge with&#173;
+
+
+
+
+</page>
+
+<page sig="H4v">
+in the whyle thou dose vse it. For the lyuer stampe it and
+sethe it wyne &#38; drynke it.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="southernwood(n)">Sothernwood.</form>
+<xpln>This herbe is good for the coughe &#38; for byndynge in
+the bely &#38; in the brest &#38; for the dysease in the bones / and
+good for them that maye not well pysse. Take the sede
+of this herbe &#38; stampe it &#38; drynke it with water / and it 
+is good for all the foresayd. Also for the dysease in the
+syde / stampe this herbe with Betayne &#38; drynke it and it
+helpeth well. Also for the bytynge of a serpente and for
+venyme stampe this herbe and drynke it with wyne &#38; it
+is good. Also for the colde feuer stampe this herbe with
+wyne and drynke it &#38; thou shalbe hole.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="sengreen(n)">Syngrene.</form>
+<xpln>This is colde and moyst in <expan type="">the</expan> .iii. degre. The ioyce of
+this herbe &#38; also <expan type="">the</expan> same herbe is ryght necessary for ma&#173;
+ny dyseases. <emend err="Sampe">Stampe</emend> this herbe with grece and playster
+it to the dysease and merueylously it heleth. Also for <expan type="">the</expan>
+dysease and derkenesse of eyes / stampe this herbe &#38; put
+of the ioyce in the sore eyes. For chafynge of the lyuer /
+take the ioyce of it and vyneger and dyppe a clothe ther&#173;
+in &#38; playster it to the greuaunce. Also for brennynge or
+scaldynge make an oyntment of the ioyce of this herbe
+and oyle of Roses and wexe / but lay it not to tyll after
+the .iii. fyrst dayes / but fyrst anoynt it with grece &#38; suche
+other. Also for a dysease of a hoote cause / this herbe is
+good <emend err="be">to</emend> be layde therto.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="stitchwort(n)">Stychworte.</form>
+<xpln lexeme="bird's tongue(n)">This is called Stychworte or Byrdestonge. This is
+hote &#38; moyst in the fyrst degre. The vertue of this herbe
+is thus. It is good to hele woundes and sore eyes.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="scammony(n)">Scamony.</form>
+<xpln>Scamony is hote and dry in the .iii. degre. The leues
+
+
+
+
+</page>
+
+<page sig="I1r">
+onely be best for medycynes. It maye be kepte a yere in
+his vertue or two for nede. For the dysease in <expan type="">the</expan> stomake
+boyle lewes of it in wyne and drynke it. Also <expan type="">the</expan> foresayd
+drynke is good for the bely / for the strangury / and for <expan type="">the</expan>
+flyx. Also a stewe made with boylynge of it in water or 
+wyne is good for <expan type="">the</expan> foresayd. Also yf it be boyled in oyle
+and playstred to the foresayd it is better.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="senna(n)">Sene.</form>
+<xpln>Sene is hote &#38; dry in the .iiii. degre. It groweth on <expan type="">the</expan>
+other syde the see / and most aboute Babylon. The beste
+be the flowres &#38; the braunches of it. It is good for ma&#173;
+ny dyseases / for the fallynge euyll / for the synacop / for <expan type="">the</expan>
+splenne / for the emerawdes / and for the quartayne. Sy<emend err="">&#173;</emend>
+rop made of it boyled in water and suger is good for al
+the foresayd. Also syrop of that made with the ioyce of
+Borage it is good for the sayde. Also Dyascorides com&#173;
+ma<expan type="">un</expan>deth to make Exmell of the forsayd with boylynge
+of vyneger and hony / &#38; it wyll be good for the foresayd.
+And this herbe may be kepte ten yere.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="celandine(n)">Selondyne.</form>
+<xpln>This is hote &#38; dry in <expan type="">the</expan> .iiii. degre. And Galyen saythe
+that it is good for sore eyes. Take the ioyce of Selon&#173;
+dyne &#38; boyle them well togyder in a panne / &#38; whan it is
+colde anoynt thy eyes therwith. Also take Selondyne 
+and drawe out the ioyce therof and medle it with whyte
+wyne &#38; anoynt the vysage therwith &#38; it shall do awaye
+freclees of the vysage. Also <expan type="">the</expan> ioyce of Selondyne &#38; Go<emend err="">&#173;</emend>
+tes donge medled togyder small in a morter / &#38; than yf
+thou lay it to a Canker in a womans pappe / it shall slee
+the Canker. Also take the ioyce of Selondyne and pow<emend err="">&#173;</emend>
+der of Brymstone &#38; medle them well togyder and it wyl
+helpe to do awaye the Morfewe. Also sethe the roote in
+wyne / &#38; whan the pot is taken downe / let <expan type="">the</expan> pacyent hold
+
+
+
+
+</page>
+
+<page sig="I1v">
+his mouthe open ouer it / that the brethe may go in to his
+body / &#38; that shall slee the Canker in the mouthe. Also it
+is good for hym that hathe dronken venyme with his
+owne stale &#38; that wyll saue hym.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="savaine(n)">Sauayne.</form>
+<xpln>This is hote and dry in the .ii. degre. It is good to sle
+wormes in the wombe &#38; to brynge them out therof yf it
+be sothen in wyne &#38; gyuen to the pacyent to drynke. Al&#173;
+so it is good with butter or with grece to make with an
+oyntment for the scabbe that renneth for to hele it &#38; dry
+it vp. And it is good for the heed ache / yf it stamped and
+tempred with vyneger &#38; make a playster therof &#38; lay it
+to thy temples and vpon the molde of thy heed.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="scabious(n)">Scabyose.</form>
+<xpln>This is colde and moyst in the sec<expan type="">on</expan>de degre. St<expan type="">am</expan>pe
+it and sethe it in wyne &#38; that drynke is good for the ly&#173;
+uer. And it wyll destroy wycked humours in <expan type="">the</expan> stomake
+&#38; drynke it euery day fastynge with Eurose &#38; thou shall
+neuer haue postume bredynge within <expan type="">the</expan> as l<expan type="">on</expan>ge as thou
+dose vse this medycyne. 
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">
+Litera T. Et primo de <wordentry type="h"><form lexeme="tapsus barbatus(n)">Tapsu barbasto.</form>
+<xpln lexeme="mullein(n)">THis is called Molen. It is colde &#38; dry. It is good
+for the Emerawdes &#38; it be sothen in wyne &#38; scom<emend err="">&#173;</emend>
+med cloysly. Also it is good to wasshe <expan type="">the</expan> greuaunce ther
+with. It is good also for the flux of the bely.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="town cress(n)">Towne Cresses.</form>
+<xpln>This herbe is hote &#38; dry in the thyrde degre. The sede
+wyll endure good .v. yere. And it is good to staunche <expan type="">the</expan>
+flux and the mencyon / yf thou take the sede &#38; brose it in
+a morter of brasse &#38; gyue the seke to drynke therof thre
+dayes / euery day a peny weyght at ones with reed wyne
+warmed / &#38; in those thre dayes he shalbe staunched / orels
+he shalbe deed of that euyll. Also it is good for the Pal&#173;
+
+
+
+
+</page>
+
+<page sig="I2r">
+sy &#38; for the male flanke. Take the sede and sethe it and
+wyne &#38; do it in a poket and bynde it to thy syde there as
+thou felest the sore. Also it is good for hym that maye
+not well pysse / take the sede and sethe it in wyne &#38; oyle
+Olyue &#38; bynde it to thy share. Also it is good for a man<emend err="">&#173;</emend>
+nes fundyment <expan type="">that</expan> gothe out. And yf it be taken of colde 
+th<expan type="">an</expan> it must be put in agayne / &#38; strawe the powder on the
+fundym<expan type="">en</expan>t &#38; anoynt thy lendes with Hony &#38; th<expan type="">an</expan> strawe
+the powder aboue with the powder of Comyn or pow&#173;
+der of Colafyne / for all these be kyndly for it. Also take
+the stalkes of towne Cresses &#38; brenne them / &#38; there shall
+no venymous best ne worme abyde the sauour nor smel
+therof / but it shall dye or fle away.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v">
+Litera V. And fyrste of the <wordentry type="h"><form lexeme="violet(n)">Vyolet.</form> 
+<xpln>Vyolet is colde in the fyrst degre &#38; moyst in <expan type="">the</expan> sec<expan type="">on</expan>de
+degre. For blast in the eyes take the rotes of Vyo&#173;
+lettes &#38; stampe them with Myrre &#38; Safron / &#38; at nyght
+lay it to <expan type="">the</expan> sore eyes. Also for a wo<expan type="">un</expan>de in <expan type="">the</expan> heed stampe
+the leues of Vyolettes with Hony &#38; vyneger &#38; playster
+it to the wounde &#38; it shall hele it. Also for th<expan type="">em</expan> that may
+not slepe for sekenesse / sethe this herbe in water / &#38; at eu<expan type="">en</expan>
+let hym soke well his fete in that water vp to the ancles
+&#38; whan he gothe to his bedde / bynde of this herbe to his
+temples and he shall slepe well by <expan type="">the</expan> grace of god. Take
+Vyolettes / Myrre / &#38; Safron / &#38; make a playster of them
+and lay it to the sore eyes that be sollen / &#38; it shall cease
+akynge &#38; bate the swellynge.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="via suavis(n)">Vya suauis.</form>
+<xpln lexeme="raisin(n)">This is called <expan type="">the</expan> swete Raysynge. It is hote &#38; moyst.
+It hathe vertue of clensynge / scourynge / or smothyng.
+Rasynges etten or boyled in wyne be good for <expan type="">the</expan> colde
+coughe. Also sethe them in wyne &#38; they be good to play<emend err="">&#173;</emend>
+ster on the colde postume &#38; good for a colde stomake.
+</xpln></wordentry>
+
+
+
+
+</page>
+
+<page sig="I2v">
+<wordentry type="h">
+<form lexeme="vervain(n)">Veruayne.</form> 
+<xpln>Veruayne this is hote and dry in the seconde degre.
+It is good agaynst all maner of euylles of venyme / yf
+the pacyent drynke it tempered with wyne and stampe
+the herbe and lay it on euery maner of bytynge of veny<emend err="">&#173;</emend>
+mous beest / &#38; it wyll drawe out the venyme and saue <expan type="">the</expan>
+sore. Also who that vseth it / it wyll make a good brethe
+and dothe awaye stynke of the mouthe. Also who that
+hathe the Feuer tercyan / take .iii. rotes and .iii. croppes
+of the same herbe &#38; stampe them and tempre them with
+fayre clene water &#38; gyue it to the pacy<expan type="">en</expan>t to drynke. Also
+who that hathe the feuer quartayne let hym take <expan type="">the</expan> same
+drynke. Also it is good for the stomake / the lyuer / and <expan type="">the</expan>
+longes. Also <emend err="sake">take</emend> veruayne / betayne / &#38; saxfrage and of
+euery of them lyke moche and stampe th<expan type="">em</expan> &#38; tempre them
+with whyte wyne / and this is good for them that haue
+the stone. Also they that bere Veruayne vpon th<expan type="">em</expan> / they
+shall haue loue and grace of great maysters / &#38; they shall
+graunte hym his askynge / yf his askynge be good and
+ryghtfull.
+</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w">
+Here begynneth w / and fyrst of <wordentry type="h"><form lexeme="water cress(n)">water Cresses.</form>
+<xpln>WAter Cresses be hote and dry in the seconde de&#173;
+gre. Sethe them in water by them self &#38; drynke
+it / or sethe it with flesshe and suppe of the brothe and it
+wyll clense well the inwarde membres. Also it is goods
+agaynst the Strangulyon &#38; the flux of the same.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="nep(n)" lexeme="woodbine(n)">wylde Neppe or woodbynde.
+</form> <xpln>This herbe bereth a flowre lyke to the Hoppe / &#38; after
+the flowre he bereth a grene Bery / and it hathe a great
+rote. The vertue of this herbe is most in the rote. It is
+good for senewes that be shronken or cutte to make th<expan type="">em</expan>
+sowple &#38; to haue theyr owne course in theyr owne kynd.
+Go to the rote of wylde Neppe that is lyke woodbynde
+
+
+
+
+</page>
+
+<page sig="I3r">
+and make an hole in the myddes of the rote / than couer
+it well agayne that none ayre go out / nor that no rayn
+go in / nor no water / powder nor the sonne come not to
+moche to it / &#38; let it stande so all a nyght &#38; a day / than af&#173;
+ter that go to it &#38; thou shall fynde therin a certayne ly&#173;
+cour / take out that lycour with a spone and put it into a
+clene glasse &#38; do so euery day as longe as thou fyndeste
+ought in the hole / &#38; this muste be done in the moneth of
+Apryll or Maye / than anoynt the sore therwith agaynst
+the fyre / &#38; than wete a lynen clothe in the same lycoure &#38;
+lappe it aboute the sore and it shalbe hole within shorte
+tyme on warantyse by the grace of god. For the goute
+a souerayne medycyne. Take the rote of wylde Neppe
+&#38; the rote of <emend err="of"></emend> the wylde docke sothen by it selfe &#38; cutte
+them in thynne pyces &#38; pare awaye the vtter rynde and 
+cut them in quarters / than boyle them in clene water .ii.
+or .iii. houres / than stampe them in a morter as small as
+thou can / than put therto a quantyte of sote of a chym&#173;
+naye / than tempre th<expan type="">em</expan> vp with the mylke of a cowe that
+the heere is of one coloure / than take the vryne of a man
+that is fastynge &#38; put therto &#38; make a playster therof &#38;
+boyle it and laye it to the sore as hote as the seke maye
+suffre it / &#38; let it ly styll a day and a nyght / &#38; do so .ix. ty&#173;
+mes &#38; thou shall be hole on warantyse by <expan type="">the</expan> grace of god.
+</xpln></wordentry>
+
+<wordentry type="h">
+<form lexeme="wormwood(n)">wormwood.</form>
+<xpln>This is hote and dry in the seconde degre. It is good
+for wormes in the wombe yf it be stamped and <expan type="">the</expan> ioyce
+wrongen out and myngled with swete mylke &#38; gyu<expan type="">en</expan> to
+the pacyent to drynke. Also sethe the herbe in wyne and
+make a playster to <expan type="">the</expan> w<expan type="">om</expan>be. Also make powder of worm<emend err="">&#173;</emend>
+wode / centory / &#38; of Betayne / of yche lyke moche by the
+weyght &#38; medle all well togyder / &#38; the powder wyll slee
+wormes in the wombe bothe whan it is eten in potage &#38;
+
+
+
+
+</page>
+
+<page sig="I3v">
+dronken. Also for the mylte <expan type="">that</expan> is swollen of a colde ma&#173;
+ter / sethe it in wyne and let the seke drynke therof &#38; that
+shall hele hym / &#38; make a playster of the substa<expan type="">un</expan>ce of the
+herbe &#38; laye it all hote to thy wombe agaynst <expan type="">the</expan> euyll ther
+as it greueth the. Also stampe wormwood and tempre
+it with vyneger and with tosted sowre breed grounden
+therwith &#38; with the ioyce of Myntes &#38; the ioyce of plan<emend err="">&#173;</emend>
+tayne / of euery lyke moche &#38; fry them well togyder / th<expan type="">an</expan>
+make a playster and lay it to the mouthe of thy stomake
+&#38; this shall staunche brakynge or castynge. Also for wor&#173;
+mes in a m<expan type="">an</expan>nes eeres be it Serpent or Eerwygge / take 
+the ioyce or wormwood &#38; put it in the eere of the pacy<expan type="">en</expan>ent
+Also for the Dropsy sethe it in wyne &#38; gyue the pacyent
+to drynke of it at eu<expan type="">en</expan> and at morowe &#38; it shal helpe hym.
+
+<term lang="gk">
+TELOS. 
+</term>
+
+</xpln></wordentry>
+</wordgroup1>
+</section>
+
+<section type="Table of contents">
+Here foloweth the table of this boke in ordre by <expan type="">the</expan> Al&#173;
+phabete. And fyrst of this letter A.
+
+Agnus castus. 
+Apium.
+Anetum.
+Apumirisus.
+Absinthium.
+Artamasia.
+Affodillus.
+Aristologia l<expan type="">on</expan>ga.
+Aristologia rot<expan type="">um</expan>.
+Abrotinum.
+Ameos.
+Alleluya.
+Asterion.
+Agrimonia.
+Auantia.
+Altea.
+Amarisca.
+Auricula muris.
+Api<expan type="">um</expan> emoroida<expan type="">rum</expan>.
+Apium ranar<expan type="">um</expan>.
+Artiplex d<expan type="">om</expan>estica.
+Anabula.
+Acus demonis.
+Argentilla.
+Acus mustela.
+Allium.
+Anisum.
+B.
+Betonica.
+Balsominta.
+Bete.
+Borago.
+Bugla.
+Burneta.
+Bursa pastoris.
+Borago siluestris
+Byllyre.
+C.
+Camamilla.
+Calamintum.
+Crassula maior.
+Crassula minor.
+Cituca.
+Centaurea maior.
+Centaurea minor.
+
+
+
+
+</page>
+
+<page sig="I4r">
+Cara.
+Celidonia.
+Culamen.
+Colewortes.
+Coriandrum.
+Capulus veneris.
+Crocus.
+Centonodium.
+Caprifolium.
+Canabaria.
+Costus.
+Cepe.
+Columbina.
+Cominum.
+Cardiaca.
+Cisara.
+Camelon.
+Cauda pulli.
+Cabochis.
+Callus gallica.
+Caulus agrestus.
+Cimbaria.
+Consolida maior.
+Consolida minor.
+Consolida media.
+D.
+Dragancia.
+Diptanum.
+Dancus Arinin<expan type="">us</expan>.
+Dens Leonis.
+Dens canis.
+Dancus creticus.
+Drag<expan type="">an</expan>cia femina.
+E.
+Elena campana.
+Endiuia.
+Eruta.
+Eufxasia.
+Ebulus.
+Edera.
+Edera terrestris.
+Euforbium.
+Elleborus albus.
+Elleborus niger.
+Epatica.
+Erpina.
+Ebulus minor.
+F.
+Flaminula.
+Fumus terre.
+Fumicretum.
+Fragra.
+Fabaria maior.
+Fabaria minor.
+Filix.
+Filipendula.
+Feniculum.
+Faxinus.
+Fenicul<expan type="">us</expan> poitin<expan type="">us</expan>.
+Febrifuga.
+Filago.
+Flaminula.
+G.
+Gracia dei maior.
+Granum.
+Genestula.
+Gencianus.
+Galanca.
+Gran<expan type="">um</expan> solis Agre<emend err="">&#173;</emend>
+stis.
+Gladiolus.
+H.
+Herba cruciata.
+Herba <expan type="">christ</expan>oferi
+femine.
+Herba walteri.
+Herba Roberti.
+Herba Martis.
+Hastuca regia.
+Herba petri.
+Herba Iohannis.
+I.
+Iusquinianus.
+Isopus.
+Ireos.
+Iris.
+Iarus.
+Iasia nigra.
+Iasia alba.
+Ipia maior.
+Ipia minor.
+Iacinct<expan type="">us</expan> rusticus.
+L.
+Lanisticum.
+Lingua ceruina.
+Lilium.
+Ligustrum.
+
+
+
+
+</page>
+
+<page sig="I4v">
+Lingua Bouis.
+Lingua serpentis
+maior.
+Lingua canis.
+Lingua hircina.
+Lupinus.
+Labr<expan type="">um</expan> veneris.
+Lauendula.
+Lactuca.
+Lactuca syluatica.
+Lactuca leporica.
+Lollium.
+Lappaci<expan type="">um</expan> rebe<expan type="">um</expan>.
+Linum.
+Lauriola.
+Licorisia.
+Lappa.
+Lappa amersa.
+M.
+Millefolio.
+Mercurialis.
+Menta.
+Menta romana.
+Malua.
+Morell or nyghte
+shadowe.
+Mastyke.
+Magecum.
+Millefoli<expan type="">um</expan> maior.
+Motherworte.
+Maces.
+Menta.
+N.
+Nux muscata.
+Napus.
+O.
+Olibanus.
+P.
+Pruna.
+Piper.
+Pympernell.
+Pulegium.
+Pencedanum.
+Petrocilium.
+Peritorium.
+Pastinaca.
+Plantago.
+Porrum.
+Peretrum.
+Papauer.
+Polipodium.
+Pienium.
+Q.
+Quynckfoyle.
+R.
+Rybworte.
+Reed netle.
+Rosa.
+Rosemary.
+Ruta.
+S.
+Sinapium.
+Smalage.
+Saluia.
+Satureia.
+Saxfrage.
+Scabiosa.
+Sothernwood.
+Syngrene.
+Stychworte.
+Scamony.
+Sene.
+Selondyne.
+Sauayne.
+Scabyous.
+T.
+Tapsu barbastus.
+Towne cresses.
+V.
+Vyolet.
+Vua suauis.
+Veruayne.
+w.
+water Cresses.
+wylde neppe.
+wormwood.
+</section>
+
+<heading>
+<f type="bll"/><term lang="la">FINIS.</term>
+</heading>
+
+<section type="Colophon">
+Cum priuilegio.
+Imprynted by me Rycharde Banckes / dwellynge in
+L<expan type="">on</expan>d<expan type="">on</expan> / a lytel fro <expan type="">the</expan> Stockes in <expan type="">the</expan> Pultry / <expan type="">the</expan>.xxv. day of
+Marche. The yere of our lorde.M.CCCCC.&#38;.xxv. 
+</section>
+
+
+</page>
+</leme>
+

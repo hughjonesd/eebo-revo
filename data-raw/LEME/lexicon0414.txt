@@ -1,0 +1,1263 @@
+<leme no="414">
+
+<page sig="B1v">
+<section type="definitions">
+<heading>
+DEFINITIONS
+</heading>
+
+<wordgroup1 type="t" object="definitions">
+<wordentry type="h"><form lexeme="cord(n)"><f type="r">A Cord, </form> <xpln>or Subtense, is a right line, drawn from the one extre&shy;
+mity to the other of an Arch. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="right sine(n)"><f type="r">2. A right Sine </form> <xpln>is the half Cord of the double Arch proposed,
+and from one extremity of the Arch falleth perpendicularly on the 
+<f type="I">Radius<f type="r">, passing by the other end thereof.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tangent(n)"><f type="r">3. A Tangent </form> <xpln>is a right line, drawn from the Secant by one end of
+the Arch, perpendicularly on the extremity of the Diameter, passing
+by the other end of the said Arch.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="secant(n)"><f type="r">4. A Secant </form> <xpln>is the prolonged <f type="I">Radius<f type="r">, which passeth by the upper
+extremity of the Arch, till it meet with the sine Tangent of the 
+said Arch.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="complement(n)"><f type="r">5. Complement </form> <xpln>is the difference betwixt the lesser Arch, and a 
+Quadrant, or betwixt a right Angle and an Acute.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="complement to a semi-circle(n)"><f type="r">6. The complement to a semi-Circle, </form> <xpln>is the difference betwixt the
+half-Circumference and any Arch lesser, or betwixt two right An&shy;
+gles, and an Oblique Angle, whither blunt or sharp.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="versed sine(n)"><f type="r">7. The versed sine </form> <xpln>is the remainder of the <f type="I">Radius<f type="r">, the sine
+</page>
+
+<page sig="C1r">
+Complement being subtracted from it, and though great use may be
+made of the versed sines, for finding out of the Angles by the sides,
+and sides by the Angles: yet in Logarirhmicall calculations they 
+are altogether useless, and therefore in my <f type="I">Trissotetras<f type="r"> there is no
+mention made of them.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amblygon spherical(n)"><f type="r">8. In <f type="I">Amblygone sphericalls<f type="r">, </form> <xpln>which admit both of an Extrinsecall,
+and Intrinsecall demission of the perpendicular, ninteen severall
+parts are to be considered: viz. The Perpendicular, the Subten&shy;
+dentall, the Subtendentine, two Cosubtendents, the Basall, the Basi&shy;
+dion, the chief Segment of the Base, two Cobases, the double Ver&shy;
+ticall, the Verticall, the Vertical line, two Coverticalls, the next Ca&shy;
+thetopposite, the prime Cathe opposite, and the two Cocathetoppo&shy;
+sites: fourteen whereof, (to wit) the Subtendentall, the Subtenden&shy;
+tine, the Cosubtendents, the Basall, the Basidion, the Cobases, the
+Verticall, the Verticaline, the Coverticalle, and Cocathetopposites,
+are called the first, either Subtendent, Base, Topangle, or Cocathe&shy;
+topposite, whither in the great Triangle or the little, or in the Cor&shy;
+rectangle, if they be ingredients of that Rectanglar, whereof most
+parts are known, which parts are alwayes a Subtendent and a Ca&shy;
+thetopposite: but if they be in the other Triangle, they are called 
+the second Subtendents, Bases, and so forth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="external double vertical(n)"><f type="r">9. The externall double Verticall </form> <xpln>is included by the Perpendicu&shy;
+lar, and Subtendentall, and divided by the Subtendentine,: the inter&shy;
+nall is included by cosubtendents, and divided by the Perpendicular.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+
+<page sig="M4v">
+<section type="preface">
+<heading>
+A <f type="I">Lexicidion<f type="r"> of some of the hardest
+words, that occurre in the discourse of this
+institution <f type="I">Trigonometricall.<f type="r">
+</heading>
+
+BEing certainly perswaded, that a great many
+good spirits ply <f type="I">Trigonometry<f type="r">, that are not ver&shy;
+sed in the learned Tongues, I thought fit, for
+their encouragement, to subjoyne here the ex&shy;
+plication of the most important of those Greek, and Latin
+termes, which, for the more efficacy of expression, I have
+made use of in this Treatise: in doing whereof, that I
+might both instruct the Reader, and not weary him, I have
+endeavoured perspicuity with shortnesse: though (I speak it
+ingenuously) to have been more prolixe therin, could have
+cost but very little labor to me, who have already bin pret&shy;
+ty well versed in the like, as may appear by my Etymolo&shy;
+gicall dictionary of above twenty seven thousand proper
+names, mentioned in the Lemmas of my serveall Volums of 
+Epigrams, the words whereof are for the most part abstru&shy;
+ser, derived from moe Languages, and more liable to
+large, and ample interpretations. However (<f type="I">c&aelig;teris paribus<f type="r">)
+brevity is to be preferred; therefore let us proceed to the 
+Vocabulary in hand.
+</section>
+</page>
+
+<page sig="N1r">
+<section type="glossary">
+<heading>
+THE LEXICIDION.
+</heading>
+
+<wordgroup1 type="a" object="a">A.
+
+<wordentry type="h"><form lexeme="acute(n)"><f type="r">ACute, </form> <xpln><f type="I">comes from <f type="r">Acuo, acuere<f type="i">, to sharpen, and is said
+of an Angle, whose including sides, the more that its mea&shy;
+sure is lesse then a Quadrant, have their concursive, and
+angulary point the more penetrative, sharp, keen and pierce&shy;
+ing: Whence an acutangled triangle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adaequat(n)"><f type="r">Ad&aelig;quat, </form> <xpln><f type="I">is that, which comprehendeth to the full, whatever is in the
+thing to the which it is compared, and for the most part in my <f type="r">Tris&shy;
+soretras<f type="i"> is said of the generall finall <f type="r">Resolvers<f type="i">, in relation to the 
+<f type="r">Moods<f type="i"> resolved by them. It is compounded of <f type="r">Ad<f type="i">, and <f type="r">&aelig;quo, &aelig;&shy;
+quare, parem facere<f type="i">, to make one thing altogether like, or equall to
+another.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adjacent(a)"><f type="r">Adjacent, </form> <xpln><f type="I">signifieth to lie neare, and close, and is applyed both to <f type="r">sides<f type="i">,
+and <f type="r">Angles<f type="i">, in which sense likewise I make use of the words adjoyn&shy;
+ing the, conterminat, or conterminall with, annexed to, intercepted in,
+and other such like, for the more variety, as adherent, bounding,
+bordering, and so forth: It comes from <f type="r">Adjaceo, Adjacere<f type="i">, to lie
+neere unto, as the words <f type="r">Ad<f type="i"> and <f type="r">jaceo<f type="i">, which are the parts whereof
+it is compounded, most perspicuously declare.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="additional(a)"><f type="r">Additionall, </form> <f type="I"><xpln lexeme="line of addition(n)" lexeme="line of continuation(n)" lexeme="extrinsical line(n)" lexeme="excess of secant(n)" lexeme="residuum(n)" lexeme="new secant(n)"><f type="I">is said of the Line, which, in my comment, is indiffer&shy;
+rently called the Line of Addition, the Line of continuation, the ex&shy;
+trinsecall Line, the excesse of the <f type="r">Secant<f type="i"> above the <f type="r">Radius<f type="i">, the Re&shy;
+siduum, or the new Secant: it comes from <f type="r">Addo, Addere<f type="i">, which is
+compounded of <f type="r">Ad<f type="i">, and <f type="r">do<f type="i">, to put to and augment.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="affection(n)"><f type="r">Affection, </form> <xpln><f type="I">is the nature, passion, and quality of an Angle, and consist&shy;
+eth either in the <f type="r">obtusity, acutenesse<f type="i">, or <f type="r">rectitude<f type="i"> thereof: It is
+a verball from <f type="r">Afficio, affeci, affectum<f type="i">, compounded of <f type="r">ad<f type="i">, and <f type="r">facio<f type="i">.
+</xpln></wordentry>
+</page>
+
+<page sig="N1v">
+<wordentry type="h"><form lexeme="aggregate(n)"><f type="r">Aggregat, </form> <xpln><f type="I">is the summe, totall, or result of an Addition, and is com&shy;
+pounded of <f type="r">Ad<f type="i">, and <f type="r">grex<f type="i">; for, as the Shepheard gathers his Sheep
+into a flock, so doth the Arithmetician compact his numbers to be
+added into a summe.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alternate(a)"><f type="r">Alternat, </form> <xpln><f type="I">is said of Angles, made by a Line cutting two or more pa&shy;
+rallels, which Angles may be properly called so; because they differ in
+nothing else but their situation; for of the sectionary Line, to the which
+I suppose the parallels to be fixed, have the highest and lowest points
+thereof to interchange their sites, by a motion progressive towards the 
+roome of the under <f type="r">Alternat<f type="i">, and terminating in that of the
+upper one, we will find, that both the inclination of the Lines towards
+one another, and the quality of the Angles, will, notwithstanding that
+alteration, be the same as before; hence it is that they are called al&shy;
+ternat, because there is no other difference betwixt them: or, if al&shy;
+ternat be taken ( as arithmetically it is ) for that proportion, wherein
+the Antecedent is compared to the Antecedent, and the Consequent to
+the Consequent, the sense will likewise hold in the foresaid Angles; for if
+by the parallelisme of two right Lines, cut with a third, two blunt, and 
+two keen Angles be produced ( as must needs, unlesse the Secant line
+be to the parallels a perpendicular) the keen or acute Angle will be
+to its complement, or successively following obtuse Angle, as the o&shy;
+ther acute unto its following obtuse; therefore alternly, as the An&shy;
+tecedents are to one another, <f type="r">viz.<f type="I"> the Acute to the Acute: so the Con&shy;
+sequents, the obtuse to the obtuse. And if the Angles be right, the di&shy;
+rect and alternat proportion is one and the same; the third, and
+fourth terms of the Analogy being in nothing different from the first,
+and second.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ambient(n)"><f type="r">Ambient, </form> <xpln><f type="I">is taken for any of the legs of a rectangle, or the including,
+containing, or comprehending sides of the right Angle: it comes from
+<f type="r">Ambio, Ambite<f type="i">, which is compounded of <f type="r">Am<f type="i"> and <f type="r">eo<f type="i">, i.e. <f type="r">circu&shy;
+meo<f type="i">, and more properly applied to both, then to any one of them, though
+usually it be usurped for one alone, <f type="r">vide Leg<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amblygonian(a)"><f type="r">Amblygonian, </form> <xpln><f type="I">is said of obtuse angled Triangles, and Amblygonosphe&shy;
+ricall of obtuse sphericals: It is composed of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term> <f type="r">an&shy;
+gulus<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="amfractuosity(n)"><f type="r">Amfractuosities, </form> <xpln><f type="I">are taken here for the cranklings, windings, turnings,
+and involutions belonging to the equisoleary Scheme; of <f type="r">am<f type="i"> and <f type="r">fran&shy;
+go, quod sit quasi via crebris m&aelig;andris undequaque interrupta<f type="i">.
+</xpln></wordentry>
+</page>
+
+<page sig="N2r">
+<wordentry type="h"><form lexeme="analogy(n)"><f type="r">Analogy, </form> <xpln><f type="I">signifieth an equality of proportion, a likenesse of reasons, a 
+conveniencie, or habitude betwixt termes: It is compounded of <term lang="gk">[GREEK]</term> , <f type="r">&aelig;&shy;
+qualiter<f type="i">, and <term lang="gk">[GREEK]</term> , <f type="r">ratio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="analytic(a)"><f type="r">Analytick, </form> <xpln><f type="I">resolutory, and is said of those things, that are resolved into
+their first principles, of <term lang="gk">[GREEK]</term> , <f type="r">re<f type="i">, and <term lang="gk">[GREEK]</term> <f type="r">solvo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="antilogarithm(n)"><f type="r">Antilogarithm, </form> <xpln><f type="I">is the Logarithm of the complement: as for example,
+the Anti-logarithm of a Sine is the Logarithm of the Sine complement,
+<f type="r">vide Logarithm<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anti-secant(n)" lexeme="anti-sine(n)" lexeme="anti-tangent(n)"><f type="r">Anti-secant, <f type="I">Anti-sine, and Anti-tangent, </form> <xpln lexeme="co-secant(n)" lexeme="co-sine(n)" lexeme="co-tangent(n)">are the complements of the 
+Secant, Sine and Tangent, and are called sometime Co-secant, Co-sine,
+and Co-tangent: they have <f type="r">anti<f type="i"> prefixed, because they are not in the
+same colume, and <f type="r">co<f type="i">, because they are in the next to it.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="apodictic(a)"><f type="r">Apodictick, </form> <xpln><f type="I">is that, which is demonstrative, and giveth evident proofs
+of the truth of a conclusion; of <term lang="gk">[GREEK]</term> and <term lang="gk">[GREEK]</term>, <f type="r">monstro, osten&shy;
+do, unde<f type="i"> <term lang="gk">[GREEK]</term>, <f type="r">demonstratio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="area(n)"><f type="r">Area, </form> <xpln><f type="I">is the capacity of a Figure, and whole content thereof.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arch(n)" lexeme="ark(n)"><f type="r">Arch, <f type="I">or Ark, </form> <xpln>is the segment of a circumference lesse then a semicircle: ma&shy;
+jor Arch is above 45. degrees, a minor Arch, lesse then 45. <f type="r">vide Circle<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arithmetical complement(n)"><f type="r">Arithmeticall <f type="I">complement, </form> <xpln>is the difference between the Logarithm to
+be substracted, and that of the double, or single Radius.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="artificiall number(n)"><f type="r">Artificiall <f type="I">numbers, </form> <xpln>are the Logarithms, and artificiall Sine the Loga&shy;
+rithm of the Sine.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="axiom(n)"><f type="r">Axiome, </form> <xpln><f type="I">is a maxim, tenet, or necessary principle, whereupon the Sci&shy;
+ence of a thing is grounded: it cometh from <term lang="gk">[GREEK]</term>, <f type="r">dignus<f type="i">; because
+such things are worthy our knowledge.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">B.
+
+<wordentry type="h"><form lexeme="basal(a)"><f type="r">BAsall, </form> <xpln><f type="I">adjectively is that, which belongeth to the Base, or the sub&shy;
+jacent side, but substantively the great Base.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="basangulary(a)"><f type="r">Basangulary, </form> <xpln><f type="I">is said of the Angles at the Base. 
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="basidion(n)" lexeme="baset(n)"><f type="r">Basidion, <f type="I">or baset, </form> <xpln>is the little Base, all which come from the Greek word
+<term lang="gk">[GREEK]</term>,<term lang="gk">[GREEK]</term>
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="basiradius(n)"><f type="r">Basiradius, </form> <xpln><f type="I">is the totall Sine of that Arch, a Segment whereof is the Base
+of the proposed sphericall Triangle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bisected(a)" lexeme="bisegment(n)"><f type="r">Bisected, <f type="I">and Bisegment, </form> <xpln>are said of lines cut into two equall parts; it 
+comes from <f type="r">biseco, bisecare, bisectum, bisegmen<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bluntness(n)" lexeme="flatness(n)"><f type="r">Bluntnesse, <f type="I">or flatnesse, </form> <xpln>is the obtuse affection of Angles.
+</xpln></wordentry>
+</page>
+
+<page sig="N2v">
+<wordentry type="h"><form lexeme="bucarnon(n)"><f type="r">Bucarnon, </form> <xpln><f type="I">by this name is entitled the seven and fortieth proposition of
+the first of the elements of <f type="r">Euclid<f type="i">; because of the oxe, or, ( as some
+say) the hecatomb which <f type="r">Pythagoras<f type="i">, for gladnesse of the invention,
+sacrificed unto the gods: of <term lang="gk">[GREEK]</term>, <f type="r">bos<f type="i">, and <term lang="gk">[GREEK]</term>, <f type="r">vicissim aliquid
+capio<f type="i">; they being ( as it is supposed ) well pleased with that acknow&shy;
+ledgement of his thankfulnesse for so great a favour, as that was,
+which he received from them: you may see the proposition in the se&shy;
+venteenth of my Apodicticke.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">C.
+
+<wordentry type="h"><form lexeme="canon(n)"><f type="r">CAnon, </form> <xpln><f type="I">is taken here for the Table of Sines and Tangents, or of
+their Logarithms: it properly signifieth the needle or tongue of a 
+balance, and metaphorically a rule, whereby things are examined.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="case(n)"><f type="r">Cases, </form> <xpln><f type="I">are the parts wherein a Mood is divided from <f type="r">cado<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cathetos(n)"><f type="r">Cathetos, </form> <xpln><f type="I">is a Perpendicular line, from <term lang="gk">[GREEK]</term>, <f type="r">demitto<f type="i">, of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="catheteuretic(a)"><f type="r">Catheteuretick, </form> <xpln><f type="I">is concerning the finding out of the Perpendicular
+of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>, <term lang="gk">[GREEK]</term>, <f type="r">invenio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cathetobasal(a)"><f type="r">Cathetobasall, </form> <xpln><f type="I">is said of the Concordances of Loxogenoshericall Moods,
+in the Datas of the Perpendicular, and the Base, for finding out of the
+maine qu&aelig;situm.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cathet opposite(n)"><f type="r">Cathet opposite, </form> <xpln><f type="I">is the Angle opposite to the Perpendicular; it is a 
+hybrid or mungrell word, composed of the Greek <term lang="gk">[GREEK]</term>, and Latin
+<f type="r">oppositus<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cathet orabdos(n)" lexeme="cathetoradius(n)"><f type="r">Cathet orabdos, <f type="I">or Cathetoradius, </form> <xpln><f type="I">is the totall Sine of that Arch, a
+Segment whereof is the Cathetos, or Perpendicular of the proposed
+Orthogonosphericall.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cathetothesis(n)" lexeme="cathetothetic(n)"><f type="r">Cathetothesis, <f type="I">and cathetothetick </form> <xpln>are said of the determinat position of
+the Perendicular, which is sometimes expressed by cathetology, in&shy;
+structing us how it should be demitted, of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>, from 
+<term lang="gk">[GREEK]</term>, <f type="r">pono, colloco<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cathetovertical(a)"><f type="r">Cathetoverticall, </form> <xpln><f type="I">is said of the Concordances of Loxogonosphericall
+Moods in the Datas of the perpendicular, and the verticall Angle in 
+the last operation.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="catoptric(n)"><f type="r">Catoptrick, </form> <xpln><f type="I">the Science of perspective, from <term lang="gk">[GREEK]</term>, <f type="r">perspicio,
+cerno<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="characteristic(n)"><f type="r">Characteristick, </form> <xpln lexeme="figurative(n)" lexeme="determinator(n)"><f type="I">is said of the letters, which are the notes and marks
+of distinction, called sometimes figuratives, or determinators, from
+<term lang="gk">[GREEK]</term>, <f type="r">sculpo, imprimo<f type="i">.
+</xpln></wordentry>
+</page>
+
+<page sig="B3r">
+<wordentry type="h"><form lexeme="circle(n)" lexeme="great circle(n)"><f type="r">Circles, <f type="I">great circles </form> <xpln>are those which bisect the Sphere, lesser Circles those
+which not.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circular part(n)"><f type="r">Circular <f type="i">parts, </form> <xpln>are in opposition to the reall and naturall parts of a Tri&shy;
+angle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumjacent(a)"><f type="r">Circumjacent, </form> <xpln><f type="I">things which lie about, of <f type="r">circum<f type="i">, and <f type="r">jaceo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coalescency(n)"><f type="r">Coalescencie, </form> <xpln><f type="I">a growing together, a compacting of two things in one; it
+is said of the last two operations of the Loxogonosphericals conflated
+into one, from <f type="r">coalesco<f type="i"> or <f type="r">coaleo<f type="i">, of <f type="r">con<f type="i"> and <f type="r">alo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cobase(n)"><f type="r">Cobase, </form> <xpln><f type="I">a fellow Base, or that which with another Base hath a common
+Perpendicular, of <f type="r">con<f type="i"> and <f type="r">basis<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cocathetopposite(n)"><f type="r">Cocathetopposite, </form> <xpln><f type="I">is said of two, Angles at the Base, opposite to one
+and the same Cathetos.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coincidence(n)"><f type="r">Coincidence, </form> <xpln><f type="I">a falling together upon the same thing, from <f type="r">coincido<f type="i">, of
+<f type="r">con<f type="i">, and <f type="r">incido<f type="i">, ex <f type="r">in<f type="i"> &amp; <f type="r">cado<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="comment(n)"><f type="r">Comment, </form> <xpln lexeme="interpretation(n)" lexeme="exposition(n)"><f type="I">is an interpretation, or exposition of a thing, and comes from
+<f type="r">comminiscor, comminisci, mentionem facere<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compacted(a)"><f type="r">Compacted, </form> <xpln><f type="I">joyned, and knit together, put in one; from <f type="r">compingo,
+compegi, compactum<f type="i">, vide <f type="r">Coalescencie<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="complement(n)"><f type="r">Complement, </form> <xpln><f type="I">signifieth the perfecting that which a thing wanteth,
+and usually is that, which an Angle or a Side wanteth of a Quadrant,
+or 90. degrees: and of a Semicircle, or 180. from <f type="r">compleo, complere<f type="i">,
+to fill up.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="concurse(n)"><f type="r">Concurse, </form> <xpln><f type="I">is the meeting of lines, or of the sides of a Triangle, from <f type="r">con&shy;
+curro, concursum<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conflated(a)"><f type="r">Conflated, </form> <xpln lexeme="compacted(a)"><f type="I">compacted, joyned together, from <f type="r">conflo, conflatum , con&shy;
+flare<f type="i">, to blow together, <f type="r">vide Inchased<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="confectary(n)"><f type="r">Confectary, </form> <xpln><f type="I">is taken here for a Corollary, or rather a secondary Axiome,
+which dependeth on a prime one, &amp; being deduced from it, doth necessari&shy;
+ly follow, From <f type="r">consector, consectaris<f type="i">, the frequentative of <f type="r">consequor<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consound(v)"><f type="r">Consound, </form> <xpln><f type="I">to sound with another thing; it is said of consonants, which
+have no vocality without the help of the vowell.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="constitutive(a)"><f type="r">Constitutive, </form> <xpln><f type="I">is said of those things, which help to frame, make, and 
+build up: from <f type="r">constituo<f type="i">, of <f type="r">con<f type="i"> and <f type="r">statuo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="constitutive side(n)"><f type="r">Constitutive <f type="I">sides, </form> <xpln><f type="I">the ingredient sides of a Triangle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="constructive part(n)"><f type="r">Constructive <f type="I">parts, </form> <xpln>are those, whereof a thing is built, and framed: From
+<f type="r">construo, constructum<f type="i">, to heap together, and build up, of <f type="r">con<f type="i"> and
+<f type="r">strues<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conterminal(n)"><f type="r">Conterminall, </form> <xpln><f type="I">is that which bordereth with, and joyneth to a thing, of
+</page>
+
+<page sig="N3v">
+<f type="r">con<f type="i"> and <f type="r">terminus, vide Adjacent<f type="i">, or <f type="r">Insident<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cord(n)" lexeme="cordal(n)"><f type="r">Cordes, <f type="I">and cordall, </form> <xpln>are said of subtenses metaphorically; because the
+Arches and subtenses are as the bow and string; <f type="r">chorda<f type="i">, comes of
+the Greek word <term lang="gk">[GREEK]</term>, <f type="r">intestinum, illa, quia ex illis chord&aelig; con&shy;
+ficiuntur<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="correctangle(n)"><f type="r">Correctangle, </form> <xpln><f type="I">that is on which, with another rectangle, hath a common
+Perpendicular.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="correspondent(n)"><f type="r">Correspondent, </form> <xpln><f type="I">that which answereth with, and hath a reference to a&shy;
+nother thing, of <f type="r">con<f type="i"> and <f type="r">respondeo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consinocosinal(a)"><f type="r">Consinocosinall, </form> <xpln><f type="I">is said of the Concordances of Loxogonosphericall
+Moods, agreeing, in that the termes of their finall Resolvers run upon
+Consines.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cosmography(n)"><f type="r">Cosmography, </form> <xpln><f type="I">is taken here for the Science whereby is described the 
+celestiall Globe, of <term lang="gk">[GREEK]</term> and <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consubtendent(n)"><f type="r">Consubtendent, </form> <xpln><f type="I">is the subtendent of a correctangle, or that which with
+another is substerned to two right Angles, made by the demission of
+one and the same Perpendicular.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="covertical(n)"><f type="r">Coverticall, </form> <xpln><f type="I">is the fellow top Angle, from whence the Perpendicualar
+falleth.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">D.
+
+<wordentry type="h"><form lexeme="data(n)"><f type="r">DAta, </form> <xpln><f type="I">is said of the parts of a Triangle, which are given us, whe&shy;
+ther they be sides or Angles, or both, of <f type="r">do, datum, dare<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="datimista(n)"><f type="r">Datimista, </form> <xpln><f type="I">are those Datas, which are neither Angles onely, nor sides
+onely, but Angles, and sides intermixedly: of <f type="r">data<f type="i">, and <f type="r">mista<f type="i">, from
+<f type="r">misceo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="datangulary(a)"><f type="r">Datangulary, </form> <xpln><f type="I">is said of the Concordances of those Moods, for the ob&shy;
+taining of whose Pr&aelig;noscendas, we have no other Datas, but An&shy;
+gles, unto the foresaid Moods common.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="datapural(a)"><f type="r">Datapurall, </form> <xpln><f type="I">comes from <f type="r">datapura<f type="i">, which be those Datas, that are
+either meerly Angles, or meerly sides.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="datolateral(a)"><f type="r">Datolaterall, </form> <xpln><f type="I">is said of the Concordances of those Moods, for the obtai&shy;
+ning of whose Pr&aelig;noscendas, the same sides serve for Datas.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="datoquaere(n)"><f type="r">Datoqu&aelig;re, </form> <xpln><f type="I">is the very Problem it selfe, wherein two or three things are
+given, and a third or forth required, as by the composition of the word
+appears.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="datisterurgetic(a)"><f type="r">Datisterurgetick, </form> <xpln><f type="I">is said of those Moods which agree in the Datas of 
+the last work: of data <term lang="gk">[GREEK]</term>, <f type="r">-postremum<f type="i">, and <term lang="gk">[GREEK]</term>, <f type="r">opus<f type="i">.
+</xpln></wordentry>
+</page>
+
+<page sig="N4r">
+<wordentry type="h"><form lexeme="demission(n)"><f type="r">Demission, </form> <xpln><f type="I">is the letting fall of the Perpendicular: from <f type="r">demitto; de&shy;
+missum<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="determinater(n)"><f type="r">Determinater, </form> <xpln><f type="I">is the characteristick or figurative letter of a directory:
+from <f type="r">determinare<f type="i">, to prescribe and limit.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diagonal(n)" lexeme="diagony(n)"><f type="r">Diagonall, <f type="I">taken substantively, or <f type="r">diagonie<f type="i">, </form> <xpln>is a line drawn from one 
+Angle to another, of <term lang="gk">[GREEK]</term> and <term lang="gk">[GREEK]</term> what the <f type="r">diagonie<f type="i"> is in surfaces,
+the axle is in solids.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diagrammatise(v)"><f type="r">Diagrammatise, </form> <xpln><f type="I">to make a Scheme or Diagram, from <term lang="gk">[GREEK]</term>, <f type="r">de&shy;
+lineo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diatyposis(n)"><f type="r">Diatyposis, </form> <xpln><f type="I">is a briefe summary desciption, and delineation of a
+thing: or the couching of a great deale of matter, for the in&shy;
+struction of the Reader, in very little bounds, and in a most neat and
+convenient order: from <term lang="gk">[GREEK]</term>, <f type="r">instituo, item melius dispono,
+vide<f type="i"> <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diodot(n)"><f type="r">Diodot, </form> <xpln><f type="I">is <f type="r">Pythagorases<f type="i"> Bucarnon, or the gift bestowed on him by
+the gods: of <term lang="gk">[GREEK]</term>, the genitive of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>, <f type="r">datus<f type="i">, from <term lang="gk">[GREEK]</term>,
+<f type="r">do<f type="i">, vide <f type="r">Bucarnon<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dioptric(n)"><f type="r">Dioptrick, </form> <xpln><f type="I">the art of taking heights and distances, from <term lang="gk">[GREEK]</term>
+<f type="r">pervidendo, altitudinem dimensionemque turrium &amp; murorum
+exploro<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="directly(adv)"><f type="r">Directly, </form> <xpln><f type="I">is said of two rowes of proportionals, where the first terms
+of the first row, is to the first of the second, as the last of the first,
+is to the last of the second.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="directory(n)"><f type="r">Directory, </form> <xpln><f type="I">is that which pointeth out the Moods dependent on an
+Axiome.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="discrepant(a)"><f type="r">Discrepant, </form> <xpln><f type="I">different, dissonant, id est, <f type="r">diverso modo crepare<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="disergetic(n)"><f type="r">Disergeticks, </form> <xpln><f type="I">of two operations, of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="document(n)"><f type="r">Document, </form> <xpln lexeme="instruction(n)"><f type="I">instruction, from <f type="r">doceo<f type="i">.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">E.
+
+<wordentry type="h"><form lexeme="elucidation(n)"><f type="r">ELucidation, </form> <xpln><f type="I">a clearing, explaining, resolving of a doubt, and com&shy;
+menting on some obscure passage, from <f type="r">elucido, elucidare<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="energy(n)"><f type="r">Energie, </form> <xpln lexeme="efficacy(n)" lexeme="power(n)" lexeme="force(n)"><f type="I">efficacie, power, force; from <term lang="gk">[GREEK]</term>, <f type="r">qui in opere est<f type="i">, of <term lang="gk">[GREEK]</term> and
+<term lang="gk">[GREEK]</term>, <f type="r">opus<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enodandum(n)"><f type="r">Enodandum, </form> <xpln><f type="I">that which is to be resolved and explicated, declared, and
+made manifest, from <f type="r">enodo, enodare<f type="i">, to unknit, or cur away the
+knot.
+</xpln></wordentry>
+</page>
+
+<page sig="N4v">
+<wordentry type="h"><form lexeme="equation(n)" lexeme="aequation(n)"><f type="r">Equation, <f type="I">or rather &aelig;quation, </form> <xpln>a making equall, from &aelig;quo, &aelig;quare.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equiangularity(n)"><f type="r">Equiangularity, </form> <xpln><f type="I">is that affection of Triangles, whereby their Angles are
+equall.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equicrural(a)"><f type="r">Equicrurall, </form> <xpln><f type="I">is said of Triangles, whose legs or shanks are equall; of
+<f type="r">&aelig;quale<f type="i">, and <f type="r">crus, cruris<f type="i">; leg being taken here for the thigh and leg.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equilateral(a)"><f type="r">Equilaterall, </form> <xpln><f type="I">is said of Triangles, which have all their sides, shanks,
+or legs equall, of <f type="r">&aelig;quus<f type="i"> and <f type="r">polleo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equisolea(n)" lexeme="equisoleary(n)"><f type="r">Equisolea, <f type="I">and <f type="r">Equisolearie, </form> <xpln><f type="I">are said of the grand Orthogono sphericall
+Scheme; because of the resemblance it hath with a horse-shooe, and 
+may in that sense be to this purpose applied with the same metaphori&shy;
+call congruencie, whereby it is said, that the royall army at Edge-hill
+was imbatteled in a half-moon.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equivalent(n)"><f type="r">Equivalent, </form> <xpln><f type="I">of as much worth and vertue, of <f type="r">&aelig;quus<f type="i"> and <f type="r">valeo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="erected(a)"><f type="r">Erected, </form> <xpln><f type="I">is said of Perpendicular, which are set or raised upright upon
+a Base, from <f type="r">erigere<f type="I">, to raise up, or set aloft.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="external(a)" lexeme="extrinsecal(a)"><f type="r">Externall, <f type="I"> extrinsecall, </form> <xpln>exteriour, outward, <f type="r">or<f type="I"> outer, are said oftest of
+Angles, which being without the Area of a Triangle, are comprehen&shy;
+ded by two of its shanks meeting or cutting one another, accordingly as
+one or both of them are protracted beyond the extent of the figure.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">F.
+
+<wordentry type="h"><form lexeme="facienda(n)"><f type="r">FAciendas, </form> <xpln><f type="I">are the things which are to be done: <f type="r">faciendum<f type="i"> is the ge&shy;
+rund of <f type="r">facio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="figurative(n)"><f type="r">Figurative, </form> <xpln lexeme="characteristic(n)"><f type="I">is the same thing as Characteristick, and is applied to those
+letters which doe figure and point us out a resemblance and distinction
+in the Moods.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="figure(n)"><f type="r">Figures, </form> <xpln><f type="I">are taken here for those partitions of Trigonometry, which are
+divided into Moods.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="flat(a)"><f type="r">Flat, </form> <xpln><f type="I">is said of obtuse, or blunt Angles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="forwardly(adv)"><f type="r">Forwardly, </form> <xpln><f type="I">is said of Analogies, progressive from the first terme to the
+last.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fundamental(a)"><f type="r">Fundamentall, </form> <xpln><f type="I">is said of reasons, taken from the first grounds and prin&shy;
+ciples of a Science.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="O1r">
+<wordgroup1 type="a" object="g">G.
+
+<wordentry type="h"><form lexeme="geodesy(n)"><f type="r">Geodesie, </form> <xpln><f type="I">the Art of Surveying, of <term lang="gk">[GREEK]</term>, or <term lang="gk">[GREEK]</term>, <f type="r">terra<f type="i">, and <term lang="gk">[GREEK]</term>, divi&shy;
+do, <f type="r">partior<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="geography(n)"><f type="r">Geography, </form> <xpln><f type="I">the Science of the Terrestriall Globe, of <term lang="gk">[GREEK]</term> <f type="r">terra<f type="i">, and <term lang="gk">[GREEK]</term>,
+<f type="r">describo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gloss(n)"><f type="r">Glosse, </form> <xpln lexeme="commentary(n)" lexeme="explication(n)"><f type="I">signifieth a Commentary, or explication, it cometh from <term lang="gk">[GREEK]</term>
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gnomon(n)"><f type="r">Gnomon, </form> <xpln><f type="I">is a Figure lesse then the totall square, by the square of a Seg&shy;
+ment: or, according to Ramus, a Figure composed of the two supple&shy;
+ments, and one of the Diagonall squares of a Quadrat.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gnomonic(n)"><f type="r">Gnomonick, </form> <xpln><f type="I">the Art of Dyalling, from <term lang="gk">[GREEK]</term>, the cock of a Dyall.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="great circle(n)"><f type="r">Great Circles, </form> <xpln><f type="I">vide <f type="r">Circles<f type="i">.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">H.
+
+<wordentry type="h"><form lexeme="homogeneal(a)" lexeme="homogeneity(n)"><f type="r">HOmogeneall, <f type="I">and<f type="r"> Homogeneity, </form> <xpln><f type="I">are said of Angles of the same
+kind, nature, quality, or affection: from <term lang="gk">[GREEK]</term>, <f type="r">communio
+generis<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="homologal(a)"><f type="r">Homologall, </form> <xpln><f type="I">is said of sides congruall , correspondent, and agreeable,
+<f type="r">viz.<f type="i"> such as have the same reason or proportion from <term lang="gk">[GREEK]</term>, <f type="r">si&shy;
+milis ratio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypobasal(a)"><f type="r">Hypobasall, </form> <xpln><f type="I">is said of the Concordances of those Loxogonosphericall
+Moods, which, when the Perpendicular is demitted, have for the Da&shy;
+tas of their second operation the same Subtendent and Base.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypocathetal(a)"><f type="r">Hypocathetall, </form> <xpln><f type="I">is said of those which for the Datas of their third ope&shy;
+ration have the same Subtendent sides, from <term lang="gk">[GREEK]</term> and <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypotenusal(a)"><f type="r">Hypotenusall, </form> <xpln><f type="I">is said of Subtendent and Perpendicular.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypotyposis(n)"><f type="r">Hypotyposis, </form> <xpln><f type="I">a laying downe of severall things before our eyes at one
+time, from <term lang="gk">[GREEK]</term>, <f type="r">oculis subjicio, delineo, &amp; repr&aelig;sento<f type="i">, vide
+<term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypovertical(a)"><f type="r">Hypoverticall, </form> <xpln><f type="I">is said of Moods, agreeing in the same Catheteuretick
+Datas of subtendent and verticall, as the Analysis of the word doth
+shew.</xpln></wordentry>
+</wordgroup1> 
+
+<wordgroup1 type="a" object="i">I.
+
+<wordentry type="h"><form lexeme="identity(n)"><f type="r">IDentity, </form> <xpln lexeme="sameness(n)"><f type="I">a samenesse, from <f type="r">idem<f type="i">, the same.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illatitious(a)" lexeme="illative(a)"><f type="r">Illatitious, <f type="I">or<f type="r"> illative, </form> <xpln><f type="I">is said of the terme which bringeth in the <f type="r">qu&aelig;&shy;
+situm<f type="i">, from <f type="r">infero, illatum<f type="i">.
+</xpln></wordentry>
+</page>
+
+<page sig="o1v">
+<wordentry type="h"><form lexeme="inchased(a)" lexeme="coagulated(a)" lexeme="fixed(a)" lexeme="compacted(a)" lexeme="conflated(a)"><f type="r">Inchased, <f type="I">coagulated, fixed in, compacted, or conflated, </form> <xpln>is said of the last
+two Loxogonosphericall operations put into one, <f type="r">vide Compacted,
+Conflated<f type="i">, and <f type="r">Coalescencie<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="including side(n)"><f type="r">Including sides, </form> <xpln><f type="I">are the containing sides of an Angle of what affection
+soever it be, <f type="r">vide, Ambients, Legs<f type="i">, &amp;.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="individuated(a)"><f type="r">Individuated, </form> <xpln><f type="I">brought to the lowest division, <f type="r">vide, Specialised<f type="i">, and <f type="r">Spe&shy;
+cification<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="indowed(a)"><f type="r">Indowed, </form> <xpln><f type="I">is said of the termes of an Analogie, whether sides, or An&shy;
+gles, as they stand affected with Sines, Tangents, Secants, or their com&shy;
+plements, <f type="r">vide Invested<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ingredient(n)"><f type="r">Ingredient, </form> <xpln><f type="I">is that which entreth into the composition of a Triangle, or
+the progresse of an operation, from <f type="r">ingredior<f type="i">, of <f type="r">in<f type="i"> and <f type="r">gradior<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="initial(a)"><f type="r">Initiall, </form> <xpln><f type="I">that which belongeth to the beginning, from <f type="r">initium, ab ineo,
+significante incipio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="insident(a)"><f type="r">Insident, </form> <xpln><f type="I">is said of Angles, from <f type="r">insideo<f type="i">, vide <f type="r">Adjacent<f type="i">, or <f type="r">Conter&shy;
+minall<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="interjacent(a)"><f type="r">Interjacent, </form> <xpln><f type="I">lying betwixt, of <f type="r">inter<f type="i"> and <f type="r">jaceo<f type="i">; it is said of the Side or An&shy;
+gle betweene.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="intermediate(a)"><f type="r">Intermediat, </form> <xpln><f type="I">is said of the middle termes of a proportion.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inversional(a)"><f type="r">Inversionall, </form> <xpln><f type="I">is said of the Concordances of those Moods which agree in 
+the manner of their inversion; that is in placing the second and fourth
+termes of the Analogy, together with their indowments, in the roomes
+of the first and third, and contrariwise.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="invested(a)"><f type="r">Invested, </form> <xpln><f type="I">is the same as indowed, from <f type="r">investio, investire<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="irrational(a)"><f type="r">Irrationall, </form> <xpln lexeme="sard number(n)"><f type="I">are those which are commonly called sard numbers, and are
+inexplicable by any number whatsoever, whether whole, or broken.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="isosceles(n)"><f type="r">Isosceles, </form> <xpln><f type="I">is the Greek word of <f type="r">equicturall<f type="i">, of <term lang="gk">[GREEK]</term>, <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>, cros.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l">L.
+
+<wordentry type="h"><form lexeme="lateral(a)"><f type="r">LAterall, </form> <xpln><f type="I">belonging to the sides of a Triangle, from <f type="r">latus, lateris<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="leg(n)"><f type="r">Leg, </form> <xpln><f type="I">is one of the including sides of an Angle, two sides of every
+Triangle being called the Legs, and the third, the Base; the Legs
+therefore or shankes of an Angle are the bounds insisting or standing
+upon the base of the Angle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="line of interception(n)"><f type="r">Line <f type="I">of interception, </form> <xpln lexeme="residuum(n)">is the difference betwixt the Secant, and the Radi&shy;
+us, and is commonly called the residuum.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="logarithm(n)"><f type="r">Logarithms, </form> <xpln><f type="I">are those artificiall numbers, by which, with addition and
+</page>
+
+<page sig="o2r">
+subtraction onely, we work the same effects, as by other numbers, with
+multiplication and division: of <term lang="gk">[GREEK]</term>, <f type="r">ratio, proportio<f type="i">, and <term lang="gk">[GREEK]</term>, <f type="r">nu&shy;
+merus<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="logarithmication(n)"><f type="r">Logarithmication, </form> <xpln><f type="I">is the working of an Analogy by Logarithms, with&shy;
+out having regard to the old laborious way of the naturall Sines, and
+Tangents; we say likewise Logarithmicall and Logarithmically, for
+Logarithmeticall and Logarithmetically; for by the syncopising of et;
+the pronunciation of those words is made to the eare more pleasant: a
+priviledge warranted by all the dialects of the Greek, and other the
+most refined Languages in the world.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="loxogonospherical(a)"><f type="r">Loxogonosphericall, </form> <xpln><f type="I">is said of oblique sphericals, or <term lang="gk">[GREEK]</term>, <f type="r">obliquus<f type="i">,
+and <term lang="gk">[GREEK]</term>, <f type="r">ad sph&aelig;ram pertinens<f type="i">, from <term lang="gk">[GREEK]</term>, <f type="r">globus<f type="i">.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">M.
+
+<wordentry type="h"><form lexeme="major arch(n)" lexeme="minor arch(n)"><f type="r">MAjor <f type="I">and <f type="r">Minor <f type="I">Arches, </form> <xpln><f type="r">vide Arch<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="maxim(n)" lexeme="axiom(n)" lexeme="principle(n)"><f type="r">Maxim, <f type="I">an axiome, or principle, </form> <xpln>called so ( from <f type="r">maximus<f type="i"> ) be&shy;
+cause it is of greatest account in an Art of Science, and the principall
+thing we ought to know.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mean(n)" lexeme="middle proportion(n)"><f type="r">Meane, <f type="I">or middle proportion, </form> <xpln>is that, the square whereof is equall to the
+plane of the extremes: and called so because of its situation in the 
+Analogy.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mensurator(n)"><f type="r">Mensurator, </form> <xpln><f type="I">is that, whereby the illatitious terme is compared, or mea&shy;
+sured with the maine <f type="r">qu&aelig;situm<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monotropal(a)"><f type="r">Monotropall, </form> <xpln><f type="I">is said of figures, which have one onely Mood, of <term lang="gk">[GREEK]</term>,
+and <term lang="gk">[GREEK]</term>, from <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monurgetic(a)"><f type="r">Monurgeticks, </form> <xpln><f type="I">are said of those Moods, the maine <f type="r">Qu&aelig;sitas<f type="i"> whereof
+are obtained by one operation, of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mood(n)"><f type="r">Moods, </form> <xpln><f type="I">determine unto us the severall manners of Triangles, from <f type="r">mo&shy;
+dus<f type="i">, a way, or manner.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">N.
+
+<wordentry type="h"><form lexeme="natural(a)"><f type="r">NAturall, </form> <xpln><f type="I">the naturall parts of a Triangle, are those of which it is
+compounded, and the circular, those whereby the maine <f type="r">qu&aelig;si&shy;
+tum<f type="i"> is found out.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nearest(a)" lexeme="next(a)"><f type="r">Nearest, <f type="I">or next, </form> <xpln>is said of that Cathetopposite Angle, which is imme&shy;
+diatly opposite to the pendendicular.
+</xpln></wordentry>
+</page>
+
+<page sig="o2v">
+<wordentry type="h"><form lexeme="notandum(n)"><f type="r">Notandum, </form> <xpln><f type="I">is set downe for an admonition to the Reader, of some re&shy;
+markable thing to follow, and is the gerund of <f type="r">Noto, notare<f type="i">.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o">O.
+
+<wordentry type="h"><form lexeme="oblique(a)" lexeme="obliquangulary(a)"><f type="r">OBlique, <f type="I">and obliquangulary, </form> <xpln>are said of all Angles that are not
+right.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oblong(n)"><f type="r">Oblong, </form> <xpln><f type="I">is a parallelogram, of square more long then large: from <f type="r">ob&shy;
+longus<f type="i">, very long.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obtuse(a)" lexeme="obtuse angled(a)"><f type="r">Obtuse, <f type="I">and obtuse angled, </form> <xpln>are said of flat, and blunt Angles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="occurse(n)"><f type="r">Occurse, </form> <xpln><f type="I">is a meeting together, from <f type="r">occurio, occurium<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oppobasal(a)"><f type="r">Oppobasall, </form> <xpln><f type="I">is said of those Moods, which have a Cathereuretick Con&shy;
+cordance in their Datas of the same Cathetopposite Angles, and the 
+same Bases.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oppocatheral(a)"><f type="r">Oppocatherall, </form> <xpln><f type="I">is said of those Loxogonosphericals which have a Da&shy;
+tisterurgetick Concordance in their Datas of the same Angles at
+the Base, and the Perpendicular.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oppovertical(a)"><f type="r">Oppoverticall, </form> <xpln><f type="I">is said of those Moods which have a Catheteuretick
+Concordance in their Datas of the same Cathetopposites, and verticall
+Angles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orthogonospherical(a)"><f type="r">Orthogonosphericall, </form> <xpln><f type="I">is said of right angled Sphericals, of <term lang="gk">[GREEK]</term>,
+<term lang="gk">[GREEK]</term>, <term lang="gk">[GREEK]</term>, <f type="r">angulus<f type="i">, and <term lang="gk">[GREEK]</term>, <f type="r">globus<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oxygonospherical(a)"><f type="r">Oxygonosphericall, </form> <xpln><f type="I">is said of acute-angled sphericals, of <term lang="gk">[GREEK]</term>, <term lang="gk">[GREEK]</term>,
+and <term lang="gk">[GREEK]</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">P.
+
+<wordentry type="h"><form lexeme="parallelism(n)"><f type="r">Parallelisme, </form> <xpln><f type="I">is a Parallel, equality of right lines, cut with a right
+line, or of Sphericals with a Sphericall, from <term lang="gk">[GREEK]</term>, <f type="r">equidi&shy;
+stans<f type="i"> of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parallelogram(n)"><f type="r">Parallelogram, </form> <xpln><f type="I">is an oblong, long square, rectangle, or figure made of
+parallel lines: of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>, <f type="r">linea<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="partial(a)"><f type="r">Partiall, </form> <xpln><f type="I">is said of <f type="r">enodandas<f type="i"> depending on severall Axioms.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="particularise(v)"><f type="r">Particularise, </form> <xpln lexeme="specialize(v)"><f type="I">specialise, by some especiall difference to contract the gene&shy;
+rality of a thing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="partition(n)"><f type="r">Partition, </form> <xpln><f type="I">is said of the severall operations of every Loxogonosphericall
+Mood, and is divided in pr&aelig;noscendall, catheteuretick and hysterur&shy;
+getick.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="permutat(n)" lexeme="proportion(n)" lexeme="proportion by permutation(n)" lexeme="alternate proportion(n)"><f type="r">Permutat <f type="I">proportion, or proportion by permutation, or alternat proporti&shy;
+</page>
+
+<page sig="o3r">
+on, </form> <xpln>is when the Antecedent is compared to the Antecedent, and the Con&shy;
+sequent to the Consequent, <f type="r">vide, Perturbat<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perpendicularity(n)"><f type="r">Perpendicularity, </form> <xpln lexeme="plumb-line(n)"><f type="I">is the affection of the Perpendicular, or plumb-line;
+which comes from <f type="r">perpendendo, id est, explorando altitudinem<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="perturbat(n)"><f type="r">Perturbat, </form> <xpln><f type="I">is the same as <f type="r">permutat<f type="i">, and called so because the order of
+the Analogie is perturbed.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="planobiquangular(a)"><f type="r">Planobiquangular, </form> <xpln><f type="I">is said of plaine Triangles, where in there is no right
+Angle at all.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="planorectangular(a)"><f type="r">Planorectangular, </form> <xpln><f type="I">is said of plaine right-angled Triangles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="planotriangular(a)"><f type="r">Planotriangular, </form> <xpln><f type="I">is said of plaine Triangles, that is, such as are not
+Sphericall.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pleuseotechny(n)"><f type="r">Pleuseotechnie, </form> <xpln><f type="I">the Art of Navigation, of <term lang="gk">[GREEK]</term>, <term lang="gk">[GREEK]</term>, <f type="r">naviga&shy;
+tio<f type="i">, and <term lang="gk">[GREEK]</term> <f type="r">ars<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="plusminused(a)"><f type="r">Plusminused, </form> <xpln><f type="I">is said of Moods which admit of Mensurators or whose
+illatitious termes are never the same, but either more or lesse then the
+maine qu&aelig;ntas.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="poltechyrology(n)"><f type="r">Poltechyrologie, </form> <xpln><f type="I">the Art of fortifying Townes and Cities, of <term lang="gk">[GREEK]</term>,
+<f type="r">urbs, civitas<f type="i"> <term lang="gk">[GREEK]</term>, <f type="r">munio firmo<f type="i">, and <term lang="gk">[GREEK]</term>, <f type="r">ratio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="possubservient(a)"><f type="r">Possubservient, </form> <xpln><f type="I">is that which after another serveth for the resolving of
+a question; of <f type="r">posi<f type="i"> and <f type="r">subserviens<f type="i">; of <f type="r">sub<f type="i"> and <f type="r">servio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="potentia(n)"><f type="r">Potentia, </form> <xpln><f type="I">is that wherein the force and whole result of another thing lies.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="power(n)"><f type="r">Power, </form> <xpln><f type="I">is the square, quadrant , or product of a line extended upon it selfe,
+or of a number in it selfe multiplied.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="powered(a)"><f type="r">Powered, </form> <xpln lexeme="squared(a)" lexeme="quadrified(n)"><f type="I">squared quadrified.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="precept(n)"><f type="r">Precept, </form> <xpln lexeme="document(n)"><f type="I">document, from <f type="r">pr&aelig;cipio, pr&aelig;ceptum<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praenoscenda(n)"><f type="r">Pr&aelig;noscenda, </form> <xpln><f type="I">are the termes, which must be knowne before we can at&shy;
+taine to the knowledge of the maine quasitas: of <f type="r">pr&aelig;<f type="i"> and <f type="r">nosco<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praenoscendal(a)"><f type="r">Pr&aelig;noscendall, </form> <xpln><f type="I">is said of the Concordances of those Moods, which a&shy;
+gree in the same pr&aelig;noscendas.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praefection(n)" lexeme="praefectional(a)"><f type="r">Pr&aelig;fection, <f type="I">pr&aelig;fectionall, </form> <xpln>is concerning the digit towards the left, whose 
+cutting off saveth the labour of subtracting the double or single Ra&shy;
+dius.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praescinded problem(n)"><f type="r">Pr&aelig;scinded <f type="I">problems, </form> <xpln>are those speculative Datoqu&aelig;res, which are not
+applied to any matter by way of practice.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="praesubservient(a)"><f type="r">Pr&aelig;subservient, </form> <xpln><f type="I">is said of those Moods which in the first place we must
+make use of for the explanation of others; of <f type="r">pr&aelig;<f type="i">, and <f type="r">subiervio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prime(n)"><f type="r">Prime, </form> <xpln lexeme="cathetopposite(n)"><f type="I">is said of the furthest Cathetopposite, or Angle at the Base, con&shy;
+tained within the Triangle to be resolved.
+</xpln></wordentry>
+</page>
+
+<page sig="O3v">
+<wordentry type="h"><form lexeme="primify the radius(v)"><f type="r">Primifie <f type="I">the Radius, </form> <xpln>is to put the <f type="r">Radius<f type="i"> in the first place, <f type="r">primum&shy;
+que inter terminus collocare proportionales<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="problem(n)" lexeme="problemet(n)"><f type="r">Problem, <f type="I">problemet, </form> <xpln lexeme="question(n)" lexeme="datoquaere(n)">a question or datoqu&aelig;re, from <term lang="gk">[GREEK]</term>, <f type="r">unde<f type="i">
+<term lang="gk">[GREEK]</term>, <f type="r">propositum, objectaculum<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="product(n)"><f type="r">Product, </form> <xpln><f type="I">is the result, <f type="r">factus<f type="i">, or <f type="r">operatum<f type="i"> of a multiplication, from
+<f type="r">produco, productum<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proportion(n)" lexeme="proportionality(n)"><f type="r">Proportion, <f type="I">proportionality, </form> <xpln lexeme="analogy(n)" lexeme="analogism(n)">are the same as Analogy, and Analogisme;
+the first being a likenesse of termes, the other of proportions.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proposition(n)"><f type="r">Proposition, </form> <xpln><f type="I">a proposed sentence, whether theorem or problem.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prosiliency(n)"><f type="r">Prosiliencie, </form> <xpln><f type="I">is a demission, or falling of the Perpendicular, from <f type="r">pro&shy;
+silio, ex pro &amp; salio<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proturgetic(a)"><f type="r">Proturgetick, </form> <xpln><f type="I">is said of the first operation of every Disergetick Mood,
+of <term lang="gk">[GREEK]</term>, and <term lang="gk">[GREEK]</term>, the <term lang="gk">[GREEK]</term> being Attically contracted into <term lang="gk">[GREEK]</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q">Q.
+
+<wordentry type="h"><form lexeme="quadrant(n)"><f type="r">QUadrant, </form> <xpln><f type="I">the fourth part of a Circle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quadranting(n)"><f type="r">Quadranting, </form> <xpln><f type="I">the protracting of a Sphericall side unto a Qua&shy;
+drant.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quadrat(n)"><f type="r">Quadrat, </form> <xpln><f type="I">a Square, a <f type="r">forma quadr&aelig;<f type="i">, the power or possibility of a line,
+<f type="r">vide, Power<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quadrobiquadraequation(n)"><f type="r">Quadrobiquadr&aelig;quation, </form> <xpln><f type="I">concerneth the Square of the subtendent
+side, which is equall to the Biquadrat, or two Squares of the Am&shy;
+bients.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quadrosubduction(n)"><f type="r">Quadrosubduction, </form> <xpln><f type="I">is concerning the subtracting of the Square of 
+one of the Ambients from the Square of the Subtendent.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quaesitas(n)"><f type="r">Qu&aelig;sitas, </form> <xpln><f type="I">the things demanded from <f type="r">qu&aelig;ro, qu&aelig;situm<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="quotient(n)"><f type="r">Quotient, </form> <xpln><f type="I">is the result of a division, from <f type="r">quoties<f type="i">, how many times.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">R.
+
+<wordentry type="h"><form lexeme="radically meeting(a)"><f type="r">RAdicaly <f type="I">meeting, </form> <xpln>is said of those Oblongs, or Squares, whose
+sides doe meet together.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="radius(n)" lexeme="ray(n)" lexeme="beam(n)"><f type="r">Radius, <f type="I">ray or beame </form> <xpln lexeme="semidiametger(n)">is the Semidiameter, called so metaphorically, from
+the spoake of a wheele which is to the limb thereof, as the Semidiame&shy;
+ter, to the circumference of a circle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="reciprocal(a)"><f type="r">Reciprocall, </form> <xpln><f type="I">is said of the proportionalities, or two rowes of proportionals,
+wherein the first of the first is to the first of the second, as the last of
+</page>
+
+<page sig="O4r">
+the second is to the last of the first, and contrarily.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rectangular(a)"><f type="r">Rectangular, </form> <xpln><f type="I">is said of those figures, which have right Angles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="refinedly(adv)"><f type="r">Refinedly, </form> <xpln><f type="I">is said when we go the shortest way to work by primifying the 
+Radius.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="renvoy(n)"><f type="r">Renvoy, </form> <xpln><f type="I">a remitting from one place to another, it comes from the French
+word <f type="r">Renvoyer<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="representative(a)"><f type="r">Representative, </form> <xpln lexeme="E.(n)" lexeme="L.(n)" lexeme="U(n)"><f type="I">is said of the letters, which stand for whole words; as
+<f type="r">E.<f type="i"> for side, <f type="r">L.<f type="i"> for secant, <f type="r">U.<f type="i"> for subtendent.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="residuate(v)"><f type="r">Residuat, </form> <xpln><f type="I">is to leave a remainder, <f type="r">nempe id quod resider &amp; superest<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resolver(n)"><f type="r">Resolver, </form> <xpln><f type="I">is that which looseth and untieth the knot of a difficulty, of <f type="r">re<f type="i">
+and <f type="r">solvo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resolutory(a)"><f type="r">Resolutory, </form> <xpln><f type="I">is said of the last partition of the Loxogonosphericall opera&shy;
+tions.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="result(n)"><f type="r">Result, </form> <xpln><f type="I">is the last effect of a work.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="root(n)"><f type="r">Root, </form> <xpln><f type="I">is the side of a Square, Cube, or any cossick figure.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">S.
+
+<wordentry type="h"><form lexeme="scheme(n)"><f type="r">SCheme, </form> <xpln><f type="I">signifieth here the delineation of a Geometricall figure, with
+all parts necessary for the illustrating of a demonstration, from <term lang="gk">[GREEK]</term>,
+<f type="r">habeo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sciography(n)"><f type="r">Sciography, </form> <xpln><f type="I">the Art of shadowing, of <term lang="gk">[GREEK]</term>, <f type="r">umbra<f type="i">, and <term lang="gk">[GREEK]</term>, <f type="r">scribo<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="segment(n)"><f type="r">Segment, </form> <xpln><f type="I">the portion of a thing cut off, <f type="r">quasi secamentum, quod a re
+aliqua secatur<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sexagesimat(a)" lexeme="subsexagesimat(a)" lexeme="resubsexagesimat(a)" lexeme="biresubsexagesimat(a)"><f type="r">Sexagesimat, <f type="I">subsexagesimat, resubsexagesimat, and biresubsexagesi&shy;
+mat, </form> <xpln>are said of the division, subdivision, resubdivision, and reer-resub&shy;
+division of a degrees into minuts, seconds, thirds, and fourths in 60.
+of each other: the devisor of the fore goer being successively the fol&shy;
+lowing dividend, and the quotient always sixty.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sharp(a)"><f type="r">Sharp, </form> <xpln><f type="I">is said of acute Angles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sindiforal(a)"><f type="r">Sindiforall, </form> <xpln><f type="I">is said of those Moods, the fourth terme of whose Analogie
+is onely illatitious to the maine qu&aelig;situm.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sindiforation(n)"><f type="r">Sindiforation, </form> <xpln><f type="I">is the affection of those foresaid Moods, whereby the va&shy;
+lue of the mensurator is knowne.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sindiforatal(a)"><f type="r"> Sindiforatall, </form> <xpln><f type="I">is concerning those Moods, whose illatitious terme is an
+Angle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sindiforiutal(a)"><f type="r">Sindiforiutall, </form> <xpln><f type="I">is of those Moods, whose illatitious terme is a side: all
+these foure words are composed of representatives, and ( if I remember
+well) mentioned in my explanation.
+</xpln></wordentry>
+</page>
+
+<page sig="O4v">
+<wordentry type="h"><form lexeme="sinocosinal(a)"><f type="r">Sinocosinall, </form> <xpln><f type="I">is said of the Concordances of those Moods, which agree in 
+this, that their Analogies run upon sines, and sine-complements.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sinocotangental(a)"><f type="r">Sinocotangentall, </form> <xpln><f type="I">is said of those Moods, which agree in that the termes
+of their Analogie run upon Sines and Tangent-complements.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sinus(n)"><f type="r">Sinus, </form> <xpln><f type="I">is so called ( I believe ) because it is alwayes in the very bosome of
+the Circle.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sinused(a)"><f type="r">Sinused, </form> <xpln><f type="I">is said of termes endowed or invested with Sines.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="specialized(a)"><f type="r">Specialized, </form> <xpln><f type="I">contracted to more particular termes, <f type="r">vide, Individuated<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="specifying(n)"><f type="r">Specifying, </form> <xpln lexeme="determinating(n)" lexeme="particularising(n)"><f type="I">determinating particularising.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="specification(n)"><f type="r">Specification, </form> <xpln><f type="I">a making more especiall, by contracting the generality of
+a thing, <f type="r">vide, Specialized<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sphericodisergetic(n)"><f type="r">Sphericodisergeticks, </form> <xpln><f type="I">are the Sphericall Triangles of two operations.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="structure of an operation(n)"><f type="r">Structure <f type="I">of an operation, </form> <xpln>is the whole frame thereof, from <f type="r">struo, stru&shy;
+ctum<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subdatoquaere(n)"><f type="r">Subdatoqu&aelig;re, </form> <xpln><f type="I">is a particular datoqu&aelig;re, and is applied to the pro&shy;
+blems of the cases of every Sphericodisergetick Mood, <f type="r">vide, Sub-pro&shy;
+blems.<f type="i">
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subajcent(n)"><f type="r">Subajcent, </form> <xpln><f type="I">is the substerned side or the Base, of <f type="r">sub<f type="i"> &amp; <f type="r">jaceo<f type="i">, vide, <f type="r">Su&shy;
+stentative, Sustaining side<f type="i"> and <f type="r">Substerned<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subordinate problem(n)"><f type="r">Subordinate <f type="I">problems, </form> <xpln>is the same with subdatoqu&aelig;re.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subproblem(n)"><f type="r">Subproblems, </form> <xpln><f type="I">is the same with subordinate problems, or problemets.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subservient(a)"><f type="r">Subservient, </form> <xpln><f type="I">is said of Moods which serve in the operation of other 
+Moods.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="substerned(a)"><f type="r">Substerned, </form> <xpln><f type="I">is the subjacent side of Base: or, more generally, and side
+opposite to an Angle: of <f type="r">sub<f type="i"> and <f type="r">sterno, sternere<f type="i">, vide, <f type="r">Sub&shy;
+jacent<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subtendent(n)"><f type="r">Subtendent, </form> <xpln lexeme="under-stretched(a)"><f type="I">is the side opposite to the right Angle, of <f type="r">sub<f type="i"> and <f type="r">tendo<f type="i">:
+as if you would say, Under-stretched.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subtendentine(n)"><f type="r">Subtendentine, </form> <xpln lexeme="little subtendent(n)" lexeme="rear subtendent(n)"><f type="I">is the subtendent of a little rectangled Triangle, com&shy;
+prehended within the Area of a great one, and is sometimes called the
+little subtendent, and reere subtendent.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="subtendental(n)"><f type="r">Subtendentall, </form> <xpln lexeme="great subtendent(n)" lexeme="main subtendent(n)"><f type="I">is the subtendent of a great rectangled Triangle, within
+whose capacity is included a little one: it is likewise called the great
+subtendent, and maine subtendent.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="supernumerary(a)"><f type="r">Supernumerary, </form> <xpln><f type="I">is said of the digit, by the which the proposed number
+exceeds in places the number of the places of the Radius.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="supplement(n)"><f type="r">Supplements, </form> <xpln><f type="I">are the Oblongs made of the Segments of the root of a 
+Square; and so called, because they supply all that the Diagonals or
+</page>
+
+<page sig="P1r">
+Squares of the Segments joyned together, want of the whole lines
+square.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="suppone severally(v)"><f type="r">Suppone <f type="I">severally, </form> <xpln>is to signifie severall things.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sustaining side(n)"><f type="r">Sustaining <f type="I">side </form> <xpln>is the substerned, or subjacent side.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sustentative(a)"><f type="r">Sustentative, </form> <xpln lexeme="sustaining(a)" lexeme="substerned(a)" lexeme="subjacent(a)" lexeme="base(a)"><f type="I">is the same with sustaining, substerned, subjacent and
+Base.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sympathy of angle(n)"><f type="r">Sympathie <f type="I">of Angles, </form> <xpln>is a similitude in their affection, of <term lang="gk">[GREEK]</term>, and 
+<term lang="gk">[GREEK]</term>, <f type="r">passio<f type="i">, vide <f type="r">homogeneall<f type="i">.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">T.
+
+<wordentry type="h"><form lexeme="table(n)"><f type="r">TAble, </form> <xpln lexeme="index(n)"><f type="I">is an Index sometimes, and sometimes it is taken for a
+Briefe and summary way of expessing many things.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tangentine(a)"><f type="r">Tangentine, </form> <xpln><f type="I">is that which concerneth Tangents or touch-lines.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tangentosinal(a)"><f type="r">Tangentosinall, </form> <xpln><f type="I">is said of the Concordance of those Loxogonosphe&shy;
+ricals, the termes of whose Analogie runne upon Tangents and
+Sines.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tenet(n)"><f type="r">Tenet, </form> <xpln><f type="I">is a secondary maxim, and is onely said here of Catheto&shy;
+tetick principles.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="theorematic(a)"><f type="r">Theorematick, </form> <xpln lexeme="speculative(a)"><f type="I">speculative, from <term lang="gk">[GREEK]</term>, <f type="r">a speculation<f type="i">, which com&shy;
+eth from <term lang="gk">[GREEK]</term>, or <term lang="gk">[GREEK]</term>, <f type="r">speculare<f type="i">, or <f type="r">contemplare<f type="i">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="topanglet(n)" lexeme="verticalin(n)"><f type="r">Topanglet, <f type="I">and verticalin </form> <xpln>are the same.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trigonometry(n)"><f type="r">Trigonometry, </form> <xpln><f type="I">is the Art of calculating, and measuring of Triangles
+of <term lang="gk">[GREEK]</term>, triangulus, and <term lang="gk">[GREEK]</term>, metior.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trislotetras(n)"><f type="r">Trislotetras, </form> <xpln><f type="I">is that which runneth all upon threes and foures
+of <term lang="gk">[GREEK]</term>, and in plurali, <term lang="gk">[GREEK]</term>, <f type="r">tertius, trinus, triplex, tres<f type="i">, and
+<term lang="gk">[GREEK]</term>, <f type="r">numerus quaternarius<f type="i">, from <term lang="gk">[GREEK]</term>, <f type="r">quatuor<f type="i">.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="u">U.
+
+<wordentry type="h"><form lexeme="variator(n)"><f type="r">VAriator, </form> <xpln><f type="I">is from <f type="r">vario, variare<f type="i">, to diversifie, and is said of cases,
+which upon the same Datas are onely diverse in the manner of re&shy;
+solving the qu&aelig;situm.
+</xpln></wordentry>
+</page>
+
+<page sig="P1v">
+<wordentry type="h"><form lexeme="verticaline(n)" lexeme="vertical(n)" lexeme="verticalet(n)">Verticaline, <f type="I">verticall, verticalet, </form> <xpln>are the top angles, and top anglets, from
+<f type="r">vertex, verticis<f type="f">.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="underproblem(n)" lexeme="problemet(n)" lexeme="subordinate problem(n)" lexeme="sub-problem(n)" lexeme="under-daroquaeere(n)" lexeme="subdatoquaere(n)"><f type="r">Underproblem, <f type="I">problemet, subordinate problem, sub-problem, under-da&shy;
+roqu&aelig;ere, and sub. datoqu&aelig;re </form> <xpln>are, all the same thing.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="unradiated(a)" lexeme="unradiused(a)"><f type="r">Unradiated, <f type="I">or unradiused, </form> <xpln>is said of a summe of Logarithms from
+which the Radius is abstracted.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="z">Z.
+
+<wordentry type="h"><form lexeme="zeteric(a)"><f type="r">ZEterick, </form> <xpln><f type="I">is said of Loxogonosphericall Moods which agree in
+the same <f type="r">qu&aelig;sitas<f type="i">, from <term lang="gk">[GREEK]</term>, <f type="r">qu&aelig;ro, inquiro<f type="i">.</xpln></wordentry>
+</wordgroup1>
+</page>
+</section>
+</leme>

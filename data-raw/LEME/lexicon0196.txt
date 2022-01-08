@@ -1,0 +1,130 @@
+<leme no="196">
+
+<page sig="c4r">
+<heading>
+A Table of the words of art, vsed in the effecting these
+<f type="i">base villanies.
+<f type="r">Wherein is discouered the nature of euery terme, beeing
+<f type="i">proper to none but to the professors therof.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="high law(n)">1. High Law. </form><xpln>Robbing by the high way side.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sacking law(n)">2. Sacking Law, </form><xpln lexeme="lechery(n)">Lechery.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cheting law(n)">3. Cheting Law. </form><xpln>Play at false Dice.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cross-biting law(n)">4. Cros-biting Law. </form><xpln>Coosenage by whores.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="conny-catching law(n)">5. Conny-catching Law. </form><xpln>Coosenage by Cardes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="versing law(n)">6. Versing Law. </form><xpln>Coosenage by false gold.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="figging law(n)">7. Figging Law. </form><xpln>Cutting of purses,
+and picking of pockets.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Barnards law(n)">8. Barnards Law.  </form><xpln>A drunken coosenage by cards.</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="c4v">
+<heading>
+These are the eyght Lawes of villanie leading the high way
+to infamie.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="high law(n)">In high Law.</form><xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="thief(n)">The Theefe </form><xpln lexeme="lawyer, high(n)">is called a High Lawyer.</xpln></wordentry>
+<wordentry type="h"><form>He that setteth the Watch, </form><xpln lexeme="scripper(n)">a Scripper.</xpln></wordentry>
+<wordentry type="h"><form>He that standeth to watch, </form><xpln lexeme="oak(n)">an Oake.</xpln></wordentry>
+<wordentry type="h"><form>He that is robd, </form><xpln lexeme="martin(n)">the Martin,</xpln></wordentry>
+<wordentry type="h"><form>When he yeeldeth, </form><xpln lexeme="stouping(n)">Stouping.</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="sacking law(n)">In Sacking Law.</form><xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form>The Bawde if it be a woman, </form><xpln lexeme="pandar(n)">a Pandar.</xpln></wordentry>
+<wordentry type="h"><form>The Bawde if a man, </form><xpln lexeme="apple-squire(n)">an Apple-squire.</xpln></wordentry>
+<wordentry type="h"><form>The Whore, </form><xpln lexeme="commodity(n)">a Commodity.</xpln></wordentry>
+<wordentry type="h"><form>The Whoorehouse, </form><xpln lexeme="trugging place(n)">a Trugging place.</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="cheting law(n)">In Cheting Law.</form><xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="cheat(n)" lexeme="bard-dice(n)" lexeme="flat(n)"  lexeme="forger(n)"  lexeme="langret(n)"  lexeme="gourd(n)" lexeme="demy(n)">Pardon mee Gentlemen, for although no man could
+better then my selfe discouer this Law &amp; his tearmes,
+and the name of their Cheates, Bard-dice, Flattes,
+Forgers, Langrets, Gourds, Demies, and many o&shy;
+thers, with theyr nature, and the crosses and contra&shy;
+ries to them vppon aduantage, </form><xpln>yet for some speciall
+reasons, heerein I will be silent.</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="cross-biting law(n)">In Cros-biting Law.</form> <xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="whore(n)">The Whore, </form><xpln lexeme="traffic(n)">the Traffique,</xpln></wordentry>
+<wordentry type="h"><form>The man that is brought in, </form><xpln lexeme="simpler(n)">the Simpler.</xpln></wordentry>
+<wordentry type="h"><form>The villaines that take them, </form><xpln lexeme="cross-biter(n)">the Cros-biters,</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="conny-catching law(n)">In Conny-catching
+Law.</form><xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form>The party that taketh vp the Conny, </form><xpln lexeme="setter(n)">the Setter,</xpln></wordentry>
+<wordentry type="h"><form>He that playeth the game, </form><xpln lexeme="verser(n)">the Verser,</xpln></wordentry>
+<wordentry type="h"><form>He that is coosened, </form><xpln lexeme="conny(n)">the Conny,</xpln></wordentry>
+<wordentry type="h"><form>He that comes in to them, </form><xpln lexeme="barnacle(n)">the Barnackle,</xpln></wordentry>
+<wordentry type="h"><form>The money that is wonne, </form><xpln lexeme="purchase(n)">Purchase.</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="versing law(n)">In Versing Law.</form> <xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form>He that bringeth him in, </form><xpln lexeme="verser(n)">the Verser,</xpln></wordentry>
+<wordentry type="h"><form>The poore Countrey man, </form><xpln lexeme="cousin(n)">the Coosin,</xpln></wordentry>
+<wordentry type="h"><form>And the drunkard that comes in, </form><xpln lexeme="suffler(n)">the Suffler.</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="figging law(n)">In Figging Law.</form><xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form lexeme="cut-purse(n)">The Cutte purse, </form><xpln lexeme="nip(n)">a Nippe,</xpln></wordentry>
+<wordentry type="h"><form>He that is halfe with him, </form><xpln lexeme="snap(n)">the Snappe,</xpln></wordentry>
+<wordentry type="h"><form lexeme="knife(n)">The knife, </form><xpln lexeme="cuttle bong(n)">a Cuttle boung,</xpln></wordentry>
+<wordentry type="h"><form lexeme="pick-pocket(n)">The picke pocket, </form><xpln lexeme="foist(n)">a Foist,</xpln></wordentry>
+<wordentry type="h"><form>He that faceth the man, </form><xpln lexeme="stale(n)">the Stale,</xpln></wordentry>
+<wordentry type="h"><form>Taking the Purse, </form><xpln lexeme="drawing(n)">Drawing,</xpln></wordentry>
+<wordentry type="h"><form>Spying of him, </form><xpln lexeme="smoking(n)">Smoaking,</xpln></wordentry>
+<wordentry type="h"><form lexeme="purse(n)">The purse, </form><xpln lexeme="bong(n)">the Bong,</xpln></wordentry>
+<wordentry type="h"><form lexeme="money(n)">The money, </form><xpln lexeme="shells(n)">the Shelles,</xpln></wordentry>
+<wordentry type="h"><form>The act doing, </form><xpln lexeme="striking(n)">Striking.</xpln></wordentry>
+</wordgroup2>
+
+<wordentry type="h"><form lexeme="Barnards law(n)">In Barnards Law.</form><xpln></xpln></wordentry>
+<wordgroup2 type="t">
+<wordentry type="h"><form>He that fetcheth in the man, </form><xpln lexeme="taker(n)">the Taker,</xpln></wordentry>
+<wordentry type="h"><form>He that is taken, </form><xpln lexeme="cousin(n)">the Coosin,</xpln></wordentry>
+<wordentry type="h"><form>The landed man, </form><xpln lexeme="verser(n)">the Verser,</xpln></wordentry>
+<wordentry type="h"><form>The drunken man, </form><xpln lexeme="Barnard(n)">the Barnard,</xpln></wordentry>
+<wordentry type="h"><form>And he that makes the Fray, </form><xpln lexeme="rutter(n)">the Rutter.</xpln></wordentry>
+</wordgroup2>
+</wordgroup1>
+
+<closing lang="la">
+<expression lang="la">Cum multis alijs qu&aelig; nunc pr&aelig;scribere longum est.</expression>
+</closing>
+</page>
+
+<page sig="d1r">
+These quaint tearmes do these base arts vse to shadow
+their villanie withall. for, <expression lang="la">Multa latent qu&aelig; non patent</expression>, ob&shy;
+scuring their filthie craftes with these faire colours, that
+the ignorant may not espie what their subtiltie is: but
+their end will be like their beginning, hatcht with Cain,
+and consumed with Iudas: and so bidding them adue to 
+the deuill, and you farewell to God, I end. And nowe to 
+the arte of Cros-biting.
+</page>
+
+</leme>

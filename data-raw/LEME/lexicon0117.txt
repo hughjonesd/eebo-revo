@@ -1,0 +1,73 @@
+<leme no="117">
+<page sig="ttt6r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 7 4 0 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+<emend err="Th">The</emend> meaning of all those figures whiche are before in the exposition added for
+the better vnderstanding of the Reader, wheresoeuer he fyndeth them.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="metanoia(n)">MEtoymia,</form> <xpln lexeme="denomination(n)">is a figure called 
+de<emend err="nm">nom</emend>inati<expan type="o+_">on</expan>, as when Bac&#173;
+chus is <emend err="or">for</emend> wyne, or Venus for
+lechery.</xpln><lemenote>No other OED entry was found.</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="antithesis(n)">Antithesi,</form> <xpln lexeme="comparison(n)" lexeme="contrariety(n)">is a comparison or con&#173;
+trarietie. Fol. 196</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ironia(n)">Ironia,</form> <xpln>is a figure in speaking, wh<expan type="e+_">en</expan>
+a <emend err="mandissembleth">man dissembleth</emend> in speache that
+which hee thinketh not: as in
+<emend err="scoffingcalling">scoffing calling</emend> that foule whiche
+is fayre, or that swete whiche is
+sower.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hyperbole(n)">Hyperboe,</form> <xpln>is excesse in adua<expan type="u+_">un</expan>ing
+or depressing.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="metaphor(n)">A Metaphor,</form> <xpln>is a transferring of
+woordes from their proper signi&#173;
+fication.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prosopopoeia(n)">Prosopop&#230;ia,</form> <xpln>is a figure vsed wher
+as personages are supposed or
+fayned to speake as one man to
+an other.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="synecdoche(n)">Synecdoche,</form> <xpln>is a figure when parte
+is vsed for the whole, or the whole
+for parte.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypotyposis(n)">Hypotyposis,</form> <xpln lexeme="illustration(n)">is a figure called il&#173;
+lustrati<expan type="o+_">on</expan>, by the which the forme 
+of thinges, is so sette foorthe in
+wordes that it semeth rather to be
+seene with the eyes than hearde 
+with the eares.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hysteron proteron(n)">Hysteron proteron,</form> <xpln>is a figure vsed
+when any thing is declared out of 
+order preposterously.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="paradox(n)">A Paradox,</form> <xpln>is a sentence straunge &#38;
+contrary to the opinion of moste 
+men.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypothesis(n)">Hypothesis,</form> <xpln>is <emend err="as">an</emend> argument so cal&#173;
+led.</xpln></wordentry>
+</wordgroup1>
+
+<term lang="la">
+FINIS.
+</term>
+
+</page>
+</leme>

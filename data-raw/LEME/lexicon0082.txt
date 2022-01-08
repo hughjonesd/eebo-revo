@@ -1,0 +1,91 @@
+
+
+<leme no="82">
+<page sig="b4r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 4 7
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+The interpretacion of cer&#173;
+teyne Woordes.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="contintent(n)">Continente </form><xpln>(that is) the firme lande not inclosed with
+water, or no Ilande.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caravel(n)" lexeme="carvel(n)">A Carauel or Caruel, </form><xpln>a kynde of shyppes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hemispherium(n)">Hemispherium, </form><xpln>the halfe globe of the earth and water.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="peso(n)">Pesus, </form><xpln>a ducate and a halfe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="equinoctial(n)">Equinoctial, </form><xpln>the line that diuideth the heauen and the earthe
+in the myddest betwene the two poles, in the which when
+the sonne commeth, the days &#38; nyghtes are of equal length</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="clime(n)">Clime, </form><xpln>is a portion of the worlde betwene north and south.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="parallel(n)">Paralleles, </form><xpln>are lines whereby the sonne passynge causeth
+variation of tyme.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gatti mammoni(n)">Gatti Mammoni, </form><xpln lexeme="monkey(n)">Monkeys.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sch&#339;ne(n)">Schoenus, </form><xpln>is a space of .xl. furlonges.</xpln></wordentry>
+
+<wordentry type="h"><form lang="it" lexeme="verst(n)">Werst, </form><xpln>is an Italian mile.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="colony(n)">Colonie, </form><xpln lexeme="habitation(n)">an habitacion.</xpln></wordentry>
+</wordgroup1>
+
+<heading>
+The Indian language.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="ha" lexeme="canoa(n)">Canoa, </form><xpln lexeme="boat(n)" lexeme="bark(n)">a boate or barke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="cacique(n)">Caciqui, </form><xpln lexeme="king(n)" lexeme="governor(n)">kynges or gouernours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="Zeme(pn)">Zemes </form><xpln>an Idole.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="tuyra(n)">Tuyra, </form><xpln lexeme="devil(n)">the deuyll,</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="machana(n)">Machana, </form><xpln lexeme="sword(n)">a sworde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="areitos(n)">Areitos, </form><xpln lexeme="song(n)" lexeme="ballad(n)">songes or balades.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="tona(n)">Tona, </form><xpln lexeme="moon(n)">the moone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="tonatico(n)">Tonatico, </form><xpln lexeme="sun(n)">the soonne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="quines(n)">Quines, </form><xpln lexeme="priest(n)">prestes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="chiuy(n)">Chiuy, </form><xpln lexeme="man(n)">a man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="ira(n)">Ira, </form><xpln lexeme="woman(n)">a woman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="boa(n)">Boa, </form><xpln lexeme="house(n)">a house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="cauni(n)">Cauni, </form><xpln lexeme="gold(n)">golde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="ha" lexeme="mayani(n)">Mayani, </form><xpln lexeme="nothing(n)">nothynge.   &#38;c.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lexeme="Hispaniola(pn)">Note that the Ilande of Hispaniola, </form><xpln lexeme="San Domingo(pn)">is nowe cauled San
+Domingo by reason of the chiefe citie so named.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Saint John's Island(pn)" lexeme="Saint John's(pn)" lexeme="Burichena(pn)">Also saynte
+Iohns Ilande cauled sancti Iohannis, or Burichena, </form><xpln lexeme="Boriquen(pn)">is o&#173;
+therwyse cauled Boriquen.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+</leme>

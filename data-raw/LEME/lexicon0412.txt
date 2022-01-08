@@ -1,0 +1,169 @@
+<leme no="412">
+<page sig="a1r">
+<section type="Title-page">
+<term lang="la">VINDEX ANGLICVS</term>;
+OR,
+THE PERFECTIONS
+OF THE
+ENGLISH
+LANGVAGE.
+Defended, and asserted,
+
+Printed, <term lang="la">Anno Dom.</term> 1644.
+</page>
+
+<page sig="a1v">
+<heading>
+<term lang="la">VINDEX ANGLICVS</term>,
+OR,
+The perfections of the English Language
+defended and asserted.
+</heading>
+</section>
+</page>
+
+<page no="5">
+<section type="Branded Words">
+Mothes and Cankers, who with their shallow inventions and silly
+fancyes, must still be engrafti<emend err="u">n</emend>g new coyned words in our English
+nursery, without either art or judgement. I seeke not to discredit
+their worthy and immortall labours, who with unmatchable industry,
+have fetcht hither the best inhabitants of other climates, and made
+them denizens in our Colonies: those who with a skilfull felicity have
+bought, brought, or borrowed, the richest ornaments of other Lan&shy;
+guages to make ours abound with plenty, and variety; but those I
+disclaime, who when the worke is excellently performed already, must
+still be fingring; and when the Quintessence and life of other tongues
+are ours already, must now trafficke for the dregges, to the end they
+may be said to have done somewhat ....
+
+How ridiculous if well considered is the merchandise they seeke to
+<emend err="seeke to"></emend> sell for currant,
+
+Let me afford you a few examples, and I am deceived if they will
+not move both your anger, and laughter, read and censure. 
+
+<wordgroup1 type="a">
+<wordentry type="h"><form lang="en" lexeme="appugn(v)">Adpugne,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="algale(adv)">Algale,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband suggests "algate."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="adstupiate(v)">Adstupiate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="daff(nv)">daffe,</form> <xpln lang="en"></xpln><lemenote>Branded word. In OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="defust(v)">defust,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="depex(v)">depex,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED. </lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="brochity(n)">Brochity,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bulbitate(v)">Bulbitate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="extorque(n)">ex&shy;
+</page>
+
+<page no="5">
+torque,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ebriolate(v)">ebriolate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="caprious(a)">Caprious,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contrast(n)">Contrast,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="catillate(v)">Catillate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fraxate(v)">Fraxate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="froise(n)">Froyce,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband suggests "froise", as such in Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="imporcate(v)">Imporcate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="icenate(v)">Incenabe,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband suggests "icenate" (v).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="incase(v)">incasse,</form> <xpln lang="en"></xpln>
+<lemenote>Branded word. Possibly OED, "encase | incase," v.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gingreate(v)">Gingreate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="glabretall(n)">Glabretall,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="halitate(nv)">Halitate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ligurition(n)">Liguri&shy;
+tion,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lurcate(v)">Lurcate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cement(n)">Kemand,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband mentions "cement."</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mephitic(a)">Mephitick,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mirmidonized(a)">Mirminodizd,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband emends as "mirmidoniz'd", as such in both Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="obsalutate(v)">Obsalutate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="orbation(n)">Or&shy;
+bation,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nixious(a)">Nixious, </form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="naustible(n)">Naustible,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plumative(n)">Plumative,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prodigity(n)">Prodigity,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="puellation(n)">Puellation,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ration(nv)">Raption,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rereft(a)">Rerest,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband emends as "rereft", as such in both Cockeram (1623) and OED. </lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rheumatize(n)">Rumatize,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sudate(v)">Sudate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="solestic(a)">Solestick,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sracone(n)">Sracone,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="subgrund(n)">Subgrund,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tridiculate(v)">Tri&shy;
+diculate,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tristful(a)">Tristfull,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wood-shaw(n)">Wadshaw,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found. Gerhard Graband suggests "woodshaw," as in Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="xantical(a)">Xanticall,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) but not OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yexate(v)">Yexate,</form> <xpln lang="en"></xpln><lemenote>Branded word. Not found.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vitulate(n)">Vitulate,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="undosous(a)">Vndosous,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="vambrash(v)">Vambrash,</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="zoograph(n)">Zoografe.</form> <xpln lang="en"></xpln><lemenote>Branded word. In Cockeram (1623) and OED.</lemenote></wordentry>
+</wordgroup1>
+
+A thousand other so unnaturall phrases, that they cause a loathing
+in a curious and judicious eye. These and such as these, that set up
+mints for such base coyn would I have the Arts to persecute &amp; not suf&shy;
+fer them to mix their counterfeit stuffe amongst our purer ingredients
+so to canonize them for currant. Our Language is copious enough al&shy;
+ready, we need traffick no more to enrich it; at least not so oft, for
+yet I will not deny, but some pearle or other may be left behinde
+uncheapened by our former factors, which is worth the buying, yet
+would I have it naturallized here with judgement, and authority.
+</section>
+</page>
+
+</leme>
+

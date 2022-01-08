@@ -1,0 +1,87 @@
+<leme no="316">  
+<page sig="a1r">
+<section type="Titlepage">
+OF THE 
+Law-Terms: 
+A 
+DISCOURSE 
+Written by 
+The Learned ANTIQUARY. 
+Sir HENRY SPELMAN, Kt. 
+WHEREIN 
+The Laws of the Jews, Grecians, 
+Romans, Saxons and Normans, rela&shy;
+ting to this Subject, are fully ex&shy;
+plained.
+
+LONDON, 
+Printed for Matthew Gillyflower, in 
+Westminster-Hall. 1684.
+</section>
+</page>
+
+<page sig="b1r">
+<section type="Definitions">
+I purpose not to take it upon any
+man's word: but, searching for 
+the fountain, will, if I can, deduce 
+them from thence, beginning with 
+their definition. 
+<wordgroup1 type="t"> <wordentry type="d"><form lang="en" lexeme="term(n)">The Terms</form> <xpln lang="en">be certain portions of the year in which onely the King's Justices 
+hold plea, in the high Temporal Courts, 
+of Causes belonging to their Juris
+diction, 
+</page>
+
+<page sig="b1v">
+in the place thereto assigned, according 
+to the ancient Rites and Custums of the
+Kingdom.
+</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="definition(n)">The definition</form> <xpln lang="en">divides it self, and 
+offers these parts to be consider'd. 
+<lemeformat>
+1. The names they bear. 
+2. The original they come of. 
+3. The time they continue.
+4. The persons they are held by.
+5. The causes they deal with.
+6. The place they are kept in.
+7. The rites they ar performed with.
+</lemeformat>
+</xpln></wordentry> 
+</page>
+
+<page sig="3r">
+<heading>
+Of the Names of the Terms. 
+</heading>
+
+<wordentry type="d"><form lang="en" lexeme="terminus(n)">THE word Terminus</form> <xpln lang="en">is of the 
+Greek <term lang="gk">&#x03C4;&#x03AD;&#x03C1;&#x03BC;&#x03B1;</term>, which signifieth the 
+Bound, End, or Limit of a thing, 
+here particularly of the time for Law-&shy;
+matters. In the Civil-Law it also 
+signifieth a day set to the Defendant, 
+and in that sense doth Bracton and o&shy;
+thers sometimes use it. Mat. Paris 
+calleth the Sheriff's Turn, Terminum 
+Vicecomitis, and in the addition to the 
+M: SS: Laws of King Inas, Terminus 
+is applied to the Hundred-Court; as 
+also in a Charter of Hen. 1. prescrib&shy;
+ing the time of holding the Court. 
+And we ordinarily use it for any set 
+portion of time, as of Life, Years, 
+Lease, &amp;c.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="vacation(n)">The space between the Terms, is 
+named Vacation, </form> <xpln lang="en"><term lang="la">&agrave; Vacando</term>, as being 
+Leasure from Law-business, by Lati&shy;
+nists <term lang="la">Justitium &agrave: jure stando</term>, because 
+the Law is now at a stop or stand.</xpln></wordentry>
+</wordgroup1>
+</page>
+</section> 
+</leme>  

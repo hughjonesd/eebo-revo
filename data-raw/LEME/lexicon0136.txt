@@ -1,0 +1,1965 @@
+
+
+<leme no="136">
+<page sig="m5v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 3 6 0
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<heading>
+A Table of Simples
+</heading>
+
+AND since I haue so nar&#173;
+rowely touched the curati<expan type="">on</expan> 
+of Vlcers in <expan type="">the</expan> former trea&#173;
+tises, I thinke it more ex&#173;
+pedient then vnneedeful, 
+and more worthie the labour, then out of 
+the waye, to set foorth in order the natu&#173;
+rall temperatures, and diuers operati<expan type="">on</expan>s 
+of suche simple medicines, as my slender 
+diligence at oportunitie of tyme, hathe 
+collected and drawen out of diuers wor&#173;
+thie and approued writers: and for the 
+more easie finding of them. I haue tradu&#173;
+ced and brought them into the order of an 
+alphabet, as followeth.
+
+<wordgroup1 type="a" object="a">
+<wordentry type="h"><form lang="la">Aqua,</form> <xpln lexeme="water(n)"><f type="bl"/> water, colde and moist, in the firste
+degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Acetum,</form> <xpln lexeme="vinegar(n)"><f type="bl"/> Vineger, colde in the first, drie 
+in the thirde degree aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aqua aluminosa,</form> <xpln lexeme="alum water(n)"><f type="bl"/> Alom water, drie in the
+fourth degree, abstersiue and repercus&#173;
+siue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Agresta nota,</form> <xpln lexeme="verjuice(n)"><f type="bl"/> Veriuse, colde in the second
+degree, in the thirde repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Acasia,</form> <xpln lexeme="sloes(n)"><f type="bl"/> the iuyce of Sloes, colde and drie 
+in the thirde degree, repercussiue.</xpln></wordentry>
+
+</page>
+
+<page sig="m6r">
+<wordentry type="h"><form lang="la">Acedula,</form> <xpln lexeme="sorrel, little(n)"><f type="bl"/> litle Sorel, colde and drie in the 
+seconde degree, repercussiue.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anthera,</form> <xpln lexeme="yellow, of rose(n)"><f type="bl"/> the yellowe of the Rose, colde &#38;
+drie in the firste degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Atriplex,</form> <xpln lexeme="orach(n)"><f type="bl"/> Arage, colde and moist tempe&#173;
+ratly, maturatiue and lenitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Absinthium.</form> <xpln lexeme="wormwood(n)"><f type="bl"/> Wormewood, hoate in the 
+first degree, drie in the seconde degree, 
+abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Apium,</form> <xpln lexeme="smallage(n)"><f type="bl"/> Smaledge, hote in the first, drie 
+in the seconde degree maturatiue, and 
+mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Agrimonia,</form> <xpln lexeme="egrimony(n)"><f type="bl"/> Egrimonie, hoate and drie 
+in the seconde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Acusmuscate, </form> <xpln>vide pes Columbinus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aristolochia,</form> <xpln lexeme="aristology(n)"><f type="bl"/> Aristologie, hoat and drie in 
+the fourth degree, adustiue and attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="allium(n)">Allium,</form> <xpln lexeme="garlic(n)"><f type="bl"/> Garlike, hoate and drie in the 
+fourth degree, adustiue and attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aloes(n)">Aloes,</form> <xpln><f type="bl"/> a Gumme, hoate in the seconde, 
+drie in the firste degree, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Auena,</form> <xpln lexeme="oats(n)"><f type="bl"/> Oates, hoate and moiste tempo&#173;
+ratly, maturatiue and abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Amilum,</form> <xpln lexeme="starch(n)"><f type="bl"/> Starche, colde and drie in the 
+first degree, lightly binding.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="axunge(n)">Axungia,</form> <xpln><f type="bl"/> fatte or grease of a swyne, hoat
+
+</page>
+
+<page sig="m6v">
+and moist in the first degree, mollifieth 
+and ripeneth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Argentum viuum,</form> <xpln lexeme="quicksilver(n)"><f type="bl"/> Quicksiluer, the tem&#173;
+perature wherof is diuersly supposed and 
+iudged of, for Auicen<f type="bl"/> saith, it is colde and 
+moist in the seconde degree. Dioscorides<f type="bl"/> 
+saith, it is hoate and moiste in the fourth 
+degree. Paulus<f type="bl"/> saith, it is hoate and drie 
+in the fourth degree, &#38; Montanus<f type="bl"/> (whose 
+iudgement I suppose moste allowable) saith it 
+is colde and moist vehementlye, it
+is penetratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anisum,</form> <xpln lexeme="anise seed(n)"><f type="bl"/> Anysseede, hoat in the third, drie 
+in the second degree, dissolueth and cor&#173;
+recteth windines.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anethum,</form> <xpln lexeme="dill(n)"><f type="bl"/> Dill, hoate and drie in the se&#173;
+conde degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Asphodeli radices,</form> <xpln lexeme="daffodil(n)"><f type="bl"/> Daffadil rootes, hoat 
+&#38; drie in the second degree, abstersiue, 
+and corrosiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="anacard(n)">Anacardus,</form> <xpln><f type="bl"/> A kinde of fruite, hoate and 
+drie in the fourth degree, vlceratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Arsenic<expan type="">um</expan>,</form> <xpln lexeme="arsenic(n)"><f type="bl"/> Arsnicke, hoate in <expan type="">the</expan> third, drie 
+in the seconde degree, mortificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="auripigment(n)">Auripigmentum,</form> <xpln lexeme="orpiment(n)"><f type="bl"/> Orpiment, of the pro&#173;
+pertie of arsnicke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Alumen rochinum,</form> <xpln lexeme="rock alum(n)"><f type="bl"/> Roche alome, hoate
+
+</page>
+
+<page sig="m7r">
+and drie in the thirde degree, stipticke.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Argilla,</form> <xpln lexeme="clay(n)"><f type="bl"/> Claie, colde in the first, drie in the
+second degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stibium(n)">Antimoni<expan type="">um</expan> <f type="bl"/> or Stibium,</form> <xpln><f type="bl"/> colde in the firste 
+degree, drie in the seconde, mundifieth 
+and purgeth with correctiues.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ammoniac(n)">Ammoniac<expan type="">um</expan>,</form> <xpln><f type="bl"/> a gumme, hoat in the third, 
+drie in the first degree, mollifieth with 
+attraction.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asafoetida(n)">Assa foetida,</form> <xpln><f type="bl"/> a G<expan type="">um</expan>me, hoate in the third, 
+drie in the firste degree, abstersiue and 
+attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asphalt(n)">Asphalt<expan type="">um</expan>,</form> <xpln><f type="bl"/> a fome hardened of a part of <expan type="">the</expan> sea, named Mare mortu<expan type="">um</expan>,<f type="bl"/> &#38; it is hoate 
+and drie, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acanthus(n)">Acanthus,</form> <xpln lexeme="bearfoot(n)"><f type="bl"/> Bearfoote, hoate and drie in 
+the first degree, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="atrament(n)">Atramentum,</form> <xpln><f type="bl"/> a mineral, hot &#38; drie in the
+third degree, corrosiue with stipticitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aconitum</form> <xpln lexeme="wolf's wort(n)"><f type="bl"/> woulfes wort, it is deadly by 
+reason of putrefaction.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acorus(n)">Acorus</form> <xpln lexeme="gladdon(n)"><f type="bl"/> Gladin, hoate &#38; drie in the thirde
+degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adiantum(n)">Adiantum, </form> <xpln>vide capillus veneris.</xpln>
+<lemenote>Antedates earliest OED citation (1706)</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Aiuga, seu abiga,</form> <xpln lexeme="pine, ground(n)"><f type="bl"/> Ground pine, hoate in 
+the seconde, drie in the thirde, astring<expan type="">en</expan>t.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aizoon, </form> <xpln>vide Semperuiuum.</xpln></wordentry>
+
+</page>
+
+<page sig="m7v">
+<wordentry type="h"><form lang="la">Altea,</form> <xpln lexeme="mallow, high(n)"><f type="bl"/> Highe Mallowe drie without no&#173;
+table heate or colde, loseth and scatte&#173;
+reth humors.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Alcibiadic<expan type="">um</expan>,</form> <xpln lexeme="bugloss, wild(n)"><f type="bl"/> wilde Buglosse, hoate with&#173;
+out manifest drines, expelleth venime.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alisma(n)">Alisma,</form> <xpln lexeme="plantain, water(n)"><f type="bl"/> Water plantaine, hoate, abster&#173;
+siue.</xpln>
+<lemenote>Antedates earliest OED citation (1736)</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="amaracus(n)">Amaracum,</form> <xpln lexeme="featherfew(n)"><f type="bl"/> Fetherfew, hote in the third, 
+drie in the seconde, it mollifieth and de&#173;
+laieth inflammation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Amarantus,</form> <xpln><f type="bl"/> flower amour, hoate and drie
+aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ambubey(n)">Ambubeia, </form> <xpln>vide Endiuia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ammi,</form> <xpln lexeme="ammeos(n)"><f type="bl"/> Ameos, hoat and drie in the third 
+degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anagallis,</form> <xpln lexeme="chickweed(n)"><f type="bl"/> Chickweede, hoate and drie, 
+conglutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anagallis aquatica,</form> <xpln lexeme="pimpernell, water(n)"><f type="bl"/> Water pimpernell, 
+hoate and drie, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Androsemon, </form> <xpln>vide Ipericon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anetum vaccinum,</form> <xpln lexeme="oxe-eye(n)"><f type="bl"/> Oxe eye, hoate and 
+drie, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Angelica,</form> <xpln lexeme="angelica(n)"><f type="bl"/> Angelicke roote, hoate &#38; drie 
+in the thirde degree, dissolueth and o&#173;
+peneth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Angurium, </form> <xpln>vide Cucumer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anisum,</form> <xpln lexeme="anise(n)"><f type="bl"/> Anise, hoat and drie in the third
+
+</page>
+
+<page sig="m8r">
+degree, digesteth and dissolueth.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Annonis,</form> <xpln lexeme="archangel(n)"><f type="bl"/> Arkangel, hoate and drie in the 
+firste degree, abstersiue and aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Anthemis, </form> <xpln>vide Camomilla.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Apium agreste,</form> <xpln lexeme="smallage, wild(n)"><f type="bl"/> Wilde smaledge, hoate &#38; 
+drie vehemently, vlceratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Apium hortense,</form> <xpln lexeme="smallage, garden(n)"><f type="bl"/> Garden smaledge, hoat 
+in the seconde, moiste in the thirde de&#173;
+gree, openeth and mundifieth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Arnoglosson. </form> <xpln>vide Plantago,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="artemisia(n)">Artemisia,</form> <xpln lexeme="mugwort(n)"><f type="bl"/> Mugwort, hoate and drie in 
+the seconde degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="arum(n)">Aron.</form> <xpln lexeme="wake robin(n)"><f type="bl"/> wake Robin, hoate and drie in the 
+thirde, it wipeth and maketh tender.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Asarum <f type="bl"/> or Asara bacca,</form> <xpln><f type="bl"/> Hoate and drie in 
+the thirde degree, the leafe is astrin&#173;
+gent, and the roote is aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="asparagus(n)">Asperagus, </form> <xpln>vide Speragus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Atractilis, </form> <xpln>vide Carduus benedictus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="auricula(n)">Auricula muris,</form> <xpln lexeme="mouse-ear(n)"><f type="bl"/> Mouseare, colde &#38; moist
+attractiue, and mundificatiue.</xpln>
+<lemenote>Antedates earliest OED citation (1655)</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Agaricus,</form> <xpln lexeme="agaric(n)"><f type="bl"/> Agaricke, hoate and drie in the
+firste degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Amigdala,</form> <xpln lexeme="almond(n)"><f type="bl"/> Almondes, hoate and moiste 
+in the firste degree, prouoketh vrine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ambra,</form> <xpln lexeme="amber(n)"><f type="bl"/> Amber, hoate and drie in the se&#173;
+conde degree, comforteth the braine.</xpln></wordentry>
+
+</page>
+
+<page sig="m8v">
+<wordentry type="h"><form lang="la">Argentum &#38; scoria eius,</form> <xpln lexeme="silver(n)"><f type="bl"/> Siluer, and the 
+drosse or filinges thereof, colde &#38; drie, 
+conglutinatiue.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aurum(n)">Aur<expan type="">um</expan>,</form> <xpln lexeme="gold(n)"><f type="bl"/> Golde, t<expan type="">em</expan>peratly hoat,
+c<expan type="">om</expan>fortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="alkekengi(n)">Alcakengi,</form> <xpln lexeme="cherry, winter(n)" lexeme="nightshade(n)"><f type="bl"/> Winter cherie, a kynde of
+nightshade, colde and drie in the sec<expan type="">on</expan>de 
+degree, aperitiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B</alpha>
+<wordentry type="h"><form lexeme="basilicon(n)">Basilicon, </form> <xpln>vide Ozimum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Blacte bizantia,</form> <xpln lexeme="cockle(n)"><f type="bl"/> a kinde of Cocles, hoate 
+and drie in the thirde degree, mundifi&#173;
+catiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="behen(n)">Been,</form> <xpln><f type="bl"/> hoate and drie in the second degree,
+confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bombax(n)">Bombax,</form> <xpln lexeme="bombast(n)" lexeme="cotton(n)"><f type="bl"/> Bombast or Cotton, hoate and 
+drie, constringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Balaustia,</form> <xpln lexeme="pomegranate(n)"><f type="bl"/> Pomegranet flowers, colde &#38; 
+drie in the second degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Berberi,</form> <xpln lexeme="berberry(n)"><f type="bl"/> Berberies, colde and drie in the
+seconde degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Brionia,</form> <xpln lexeme="briony(n)"><f type="bl"/> Brionie, the roote hoate and drie 
+in the second degree, abstersiue and ma&#173;
+turatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bolus armenus,</form> <xpln lexeme="bole armoniac(n)"><f type="bl"/> Bolarmoniacke, cold and 
+drie in the second degree, repercussiue
+
+</page>
+
+<page sig="n1r">
+restringent.</xpln>
+<lemenote>OED "ammoniac" 2</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Baucia,</form> <xpln lexeme="parsnip, wild(n)"><f type="bl"/> wilde persenep, hoate and moiste 
+in the firste degree, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Borago,</form> <xpln lexeme="borage(n)"><f type="bl"/> Borage, hoate and moiste, tem&#173;
+peratly, clenseth the bloud.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Buglossum,</form> <xpln lexeme="bugloss(n)"><f type="bl"/> Buglosse,
+is of like tempera&#173;
+ture, but more drie, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="balsamum(n)">Balsamum,</form> <xpln><f type="bl"/> a Gumme of a tree so called, 
+hoate and drie in the second degree, ab&#173;
+stersiue, attractiue, and confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Butyr<expan type="">um</expan>,</form> <xpln lexeme="butter(n)"><f type="bl"/> Butter, hoate in the first degree, 
+and more moiste, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bdellium(n)">Bdellium,</form> <xpln><f type="bl"/> A gumme, hoate and moiste in the
+firste degree, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bursa Pastoris,</form> <xpln lexeme="purse, shepherd's(n)"><f type="bl"/> Shepeherdes purse, colde 
+and drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="borax(n)">Borax,</form> <xpln><f type="bl"/> Borase, hoate and drie, temperat&#173;
+lie, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bugi&#230;,</form> <xpln lexeme="barberry bark(n)"><f type="bl"/> the Barberie barke, colde &#38; drie,
+consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Berbena,</form> <xpln lexeme="vervain(n)"><f type="bl"/> Veruaine, hoate and drie, mean&#173;
+ly, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Betonica,</form> <xpln lexeme="betony(n)"><f type="bl"/> Betonie, hoate and drie, in the 
+first degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bedeguar(n)">Bedegar,</form> <xpln lexeme="eglantine(n)"><f type="bl"/> Eglantine, colde in the firste de&#173;
+gree, drie meanly.</xpln>
+<lemenote>Predates earliest OED citation (1578)</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lexeme="ballote(n)">Ballote, </form> <xpln>vide Prassium f&#230;tidum.</xpln></wordentry>
+
+</page>
+
+<page sig="n1v">
+<wordentry type="h"><form lang="la">Batrachium, </form> <xpln>vide Pes corui.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Barba caprina,</form> <xpln lexeme="goat's beard(n)"><f type="bl"/> Goates bearde, hoate and 
+drie, abstersiue,</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Beta,</form> <xpln lexeme="beet(n)"><f type="bl"/> Betes, colde &#38; moist,
+mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bellis,</form> <xpln lexeme="daisy, little(n)"><f type="bl"/> Litle Daisies, hoate and drie, con&#173;
+solidatiue, and abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Blitum,</form> <xpln lexeme="beet(n)"><f type="bl"/> a kynd of Bete, rare in Engl<expan type="">an</expan>d, 
+colde and moist in the seconde degree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Botris,</form> <xpln lexeme="oak of Jerusalem(n)"><f type="bl"/> Oke of Hierusalem, hoate &#38; drie,
+resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Bulbus syluestris,</form> <xpln lexeme="onion, wild(n)"><f type="bl"/> wylde Onion, drie,
+astringent.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C</alpha>
+<wordentry type="h"><form lang="la">Camomilla,</form> <xpln lexeme="camomile(n)"><f type="bl"/> Camomill, hoate and drie 
+in the firste degree. resol. mollif.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crassula(n)">Crassula,</form> <xpln lexeme="orpin(n)"><f type="bl"/> Orpin. Fuch.<f type="bl"/> saith, it is hoate &#38; 
+drie in the thirde degree. Vigo &#38; Gui&#173;
+do,<f type="bl"/> colde in the thirde, moiste in the se&#173;
+conde, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Corallus,</form> <xpln lexeme="coral(n)"><f type="bl"/> Corall, colde in the firste, drie 
+in the seconde, restrictiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cerusa,</form> <xpln lexeme="ceruse(n)"><f type="bl"/> Ceruse, colde and drie in the se&#173;
+conde degree, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caulis(n)">Caulis,</form> <xpln lexeme="colewort(n)"><f type="bl"/> Colewortes, hoate in the firste, 
+drie in the seconde degree, maturatiue, 
+and abstersiue.</xpln></wordentry>
+
+</page>
+
+<page sig="n2r">
+<wordentry type="h"><form lexeme="centaurea(n)">Centaurea,</form> <xpln lexeme="centaury(n)"><f type="bl"/> Centorie, hoate and drie in the 
+thirde degree, consolidatiue.</xpln>
+<lemenote>Predates earliest OED citation (1829)</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Cera,</form> <xpln lexeme="wax(n)"><f type="bl"/> Waxe, temperate, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="crocus(n)">Crocus,</form> <xpln lexeme="saffron(n)"><f type="bl"/> Saffron, hoate in the first, drie in
+the seconde, resolutiue and comforta.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="costus(n)">Costus,</form> <xpln><f type="bl"/> a roote, hoate in the thirde drie in
+the seconde.</xpln>
+<lemenote>Predates earliest OED citation (1829)</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">Cinamomum,</form> <xpln lexeme="cinnamon(n)"><f type="bl"/> Cinamon, hoate and drie 
+in the third degree, confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cepa,</form> <xpln lexeme="onion(n)"><f type="bl"/> Onion, hoate in the fourth degree,
+abstersiue, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ciperus,</form> <xpln lexeme="cypress(n)"><f type="bl"/> the Cipresse roote, hoate and drie 
+in the second degree, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Chelidonia,</form> <xpln lexeme="celandine(n)"><f type="bl"/> Salendine, hoate and drie in the
+thirde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cuperosa,</form> <xpln lexeme="copperas(n)"><f type="bl"/> Coperise, hoate and drie in the 
+beginning of <expan type="">the</expan> fourth degree, stiptick, 
+and corrosiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cupressus,</form> <xpln lexeme="cypress tree(n)"><f type="bl"/> Cipresse tree, hoat in the first,
+drie in the second, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cauda(n)">Cauda equina,</form> <xpln lexeme="mare's tail(n)"><f type="bl"/> Mares tayles, colde in the 
+first, drie in the seconde, consolidatiue.</xpln>
+<lemenote>OED "cauda" ("cauda equina"), earliest citation (1848)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="calx(n)">Calx viua,</form> <xpln lexeme="lime, unquenched(n)"><f type="bl"/> Lime vnquenched, hoate and 
+drie in the fourth degree, adustiue.</xpln>
+<lemenote>OED "calx" 2, earliest citation 1581</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="curcuma(n)">Curcuma,</form> <xpln lexeme="celandine, less(n)"><f type="bl"/> the lesse Salendine roote, drie,
+consolidatiue.</xpln>
+<lemenote>Predates earliest OED citation (1617)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="cantharides(n)">Cantharides,</form> <xpln lexeme="fly, Spanish(n)"><f type="bl"/> Flies, hoate and drie in the
+
+</page>
+
+<page sig="n2v">
+thirde degree, adustiue, vlceratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="castoreum(n)">Castoreum,</form> <xpln lexeme="beaver stone(n)"><f type="bl"/> Beuer stones, hoate and drie 
+in the seconde degree, conforteth the si&#173;
+newes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="canais(n)">Canabis,</form> <xpln lexeme="hempseed(n)"><f type="bl"/> Hempseed, hoate and drie, ma&#173;
+turatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Capitellum,</form> <xpln lexeme="lee(n)"><f type="bl"/> Lee, hoate adustiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cinis,</form> <xpln lexeme="ash(n)"><f type="bl"/> Asshes, hoate and drie in the fourth 
+degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cucumer asininus,</form> <xpln lexeme="cucumber, wild(n)"><f type="bl"/> wilde Cowcumer,
+hoate and drie in the second degree,
+resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cresones, </form> <xpln>vide Nasturtium aquaticum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cimin<expan type="">um</expan>,</form> <xpln lexeme="cumin(n)"><f type="bl"/> Comin, hoate in the third, &#38; drie
+in the seconde degree, carminatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Calamentum,</form> <xpln lexeme="calamint(n)"><f type="bl"/> Calaminte, hoate and drie 
+in the thirde degree, resolutiue, attract.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Caseus recens,</form> <xpln lexeme="cheese, new(n)"><f type="bl"/> newe Cheese, the newe is 
+consolidatiue, but the olde is c<expan type="">on</expan>trarie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cichorea, </form> <xpln>vide rostrum porcinum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="caltha(n)">Caltha,</form> <xpln lexeme="marigold(n)"><f type="bl"/> Marigouldes, hoate and drie, a&#173;
+peritiue.</xpln>
+<lemenote>Predates earliest OED citation (1599)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Candelaria,</form> <xpln lexeme="teasel(n)"><f type="bl"/> Tassill, drie in the seconde de&#173;
+gree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Capillus veneris,</form> <xpln lexeme="maidenhair(n)"><f type="bl"/> Maidenhere, drie with&#173;
+out notable heate or colde, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Caprifolium,</form> <xpln lexeme="woodbine(n)"><f type="bl"/> Woodbind, hoate and drie
+
+</page>
+
+<page sig="n3r">
+vehement, restringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cardopatium,</form> <xpln lexeme="wolf's thistle(n)"><f type="bl"/> Woulfes thistle, hoat and 
+drie in the third degree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="carduus(n)">Carduus benedictus,</form> <xpln lexeme="Our Lady's thistle(n)"><f type="bl"/> Our Ladies thistle, 
+hoate and drie, inflatiue, and moderat&#173;
+ly pearsing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cartamum,</form> <xpln lexeme="saffron, garden(n)"><f type="bl"/> garden Saffron, hoate in the 
+second, drie in the firste degree, matura&#173;
+tiue and digestiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Carui,</form> <xpln lexeme="caraway(n)"><f type="bl"/> Carawayes, hoate and drie in the 
+thirde degree, aperitiue, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Castrangula,</form> <xpln lexeme="betony, water(n)"><f type="bl"/> Water Betonie, drie, mun&#173;
+dificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cataputia,</form> <xpln lexeme="spurge(n)"><f type="bl"/> Spourge, hoate in the thirde 
+degree, moist in the seconde, purgeth 
+grosse humors.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Centumnodia,</form> <xpln lexeme="knotgrass(n)"><f type="bl"/> Knotgrasse, colde in the 
+seconde, drie in the thirde, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Centumcapita,</form> <xpln lexeme="holly, sea(n)"><f type="bl"/> Sea hollie, drie, and of a 
+meane temperature.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Camedris, </form> <xpln>vide quercula minor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cherifolium,</form> <xpln lexeme="chervil(n)"><f type="bl"/> Cheruell, drie astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cheiri,</form> <xpln lexeme="violet(n)"><f type="bl"/> white Violet, hote, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cicer nigrum,</form> <xpln lexeme="vetch, black(n)"><f type="bl"/> Blacke fetches, hoate and 
+drie in the first degree, flatuous.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cicuta(n)">Cicuta,</form> <xpln lexeme="hemlock(n)"><f type="bl"/> Hemlocke, colde immoderatlye, a 
+poyson to man, and stupefactiue.</xpln></wordentry>
+
+</page>
+
+<page sig="n3v">
+<wordentry type="h"><form lang="la">Cidonium malum,</form> <xpln lexeme="quince(n)"><f type="bl"/> Quince, colde in the 
+firste, drie in the sec<expan type="">on</expan>d degree, astring<expan type="">en</expan>t.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Citrulli,</form> <xpln lexeme="citron(n)"><f type="bl"/> Citrons cold and moist in the se&#173;
+conde degree, abstersiue, penetratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coloquintida(n)">Coloquintida,</form> <xpln><f type="bl"/> Hote and drie in the third 
+degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Consolida maior,</form> <xpln lexeme="comfrey(n)"><f type="bl"/> the great Comfrey, 
+hote and drie in the seconde degree, con&#173;
+glutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consolida(n)">Consolida minor,</form> <xpln lexeme="daisy, little(n)"><f type="bl"/> litle Daises, hoate and 
+drie, resolutiue, conglutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Coriandrum,</form> <xpln lexeme="coriander(n)"><f type="bl"/> Coriander, colde and drie, 
+somewhat astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cotum, </form> <xpln>vide Bombax.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cresio hortensis, </form> <xpln>vide Nasturti<expan type="">um</expan> hortens.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cucumer,</form> <xpln lexeme="cucumber(n)"><f type="bl"/> Cucumber, colde and moist in 
+the second degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cucurbita,</form> <xpln lexeme="gourd(n)"><f type="bl"/> Gourdes, colde and moist in 
+the second degree, delayeth infl<expan type="">am</expan>mati<expan type="">on</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cassutha,</form> <xpln lexeme="dodder(n)"><f type="bl"/> Doder, hoate in the first, drie in 
+the seconde degree, mundificatiue, re&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cyclamen(n)">Ciclamen, </form> <xpln>vide panis Porcinus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cinoglosson,</form> <xpln lexeme="hound's tongue(n)"><f type="bl"/> Houndes tongue, colde and 
+drie in the seconde degree, restringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cassia(n)">Cassia</form> <xpln lexeme="cassia fistula(n)"><f type="bl"/> fistula, of an equall temperature, 
+and resolutiue.</xpln></wordentry>
+
+</page>
+
+<page sig="n4r">
+<wordentry type="h"><form lang="la">Colophonia,</form> <xpln lexeme="pitch, Greek(n)"><f type="bl"/> Greeke pitche, hoate &#38; drie 
+in the thirde degree, conglutinatiue.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calamus(n)">Calamus aromaticus,</form> <xpln><f type="bl"/> hoat and drie in the 
+seconde degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cardamom(n)">Cardamomum,</form> <xpln><f type="bl"/> hoate and drie in the firste 
+degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Camipitheos,</form> <xpln><f type="bl"/> hoate and drie in the second 
+degree, mundificatiue, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cubeb(n)">Cubebes,</form> <xpln><f type="bl"/> hoate and drie, meanly mundifi&#173;
+catiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Capparus,</form> <xpln><f type="bl"/> the roote, hoate in the first de&#173;
+gree, drie in the seconde, mundificatiue, 
+comfortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="cassia lignea(n)">Cassia lignea,</form> <xpln><f type="bl"/> hoate and drie, mundifica&#173;
+tiue, and aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Calcanthum,</form> <xpln><f type="bl"/> A mineral constringent, 
+adustiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Camfora,</form> <xpln lexeme="camphor(n)"><f type="bl"/> Camphere, cold and drie in the 
+thirde degree astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Cinabrium,</form> <xpln lexeme="vermilion(n)"><f type="bl"/> Vermilion, hoate and drie in 
+the seconde degree, stipticke.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D</alpha>
+<wordentry type="h"><form lexeme="digitalis(n)">Digitalis,</form> <xpln lexeme="lady finger(n)"><f type="bl"/> Ladie finger, hoate and drie, 
+mundificatiue, and aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Digiti citrini,</form> <xpln lexeme="dog's stones(n)"><f type="bl"/> Dogges stones, hoate and
+
+</page>
+
+<page sig="n4v">
+drie in the seconde degree, helpeth the 
+sinewes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Damasonium,</form> <xpln lexeme="plantain, water(n)"><f type="bl"/> waterplantaine, hoate, 
+mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Daphnoeides, </form> <xpln>vide Laureola.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Daucus,</form> <xpln lexeme="parsnip, wild(n)"><f type="bl"/> Wilde perseneppe, hoate &#38; drie,
+prouoketh vrine and Menstrua.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dragunculus,</form> <xpln lexeme="dragons(n)"><f type="bl"/> Dragons, hoate and drie, 
+astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dulcis radix, </form> <xpln>vide liquiritia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dragagantum</form> <xpln lexeme="gum dragon(n)"><f type="bl"/> G<expan type="">um</expan>me Dragagant, hoate 
+and drie consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Dactili,</form> <xpln lexeme="dates(n)"><f type="bl"/> Dates, hoate and moist in the se&#173;
+conde degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Diptanum.</form> <xpln lexeme="dittany(n)"><f type="bl"/> Ditanie, hoate and drie in the 
+seconde degree, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="doronicum(n)">Doronicum,</form> <xpln lexeme="doronic(n)"><f type="bl"/> Doronick rootes, hoate and 
+drie in the third degree, resolutiue, at&#173;
+tractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="diagridium(n)">Diagredium,</form> <xpln><f type="bl"/> hoate and drie in the fourth
+degree, resolutiue, mundificatiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E</alpha>
+<wordentry type="h"><form lang="la">Epatica</form> <xpln lexeme="liverwort(n)"><f type="bl"/> Liuerworte, Guydo. <f type="bl"/>colde and 
+moist, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="enula campana(n)">Enula campana,</form> <xpln lexeme="elecampane(n)"><f type="bl"/> Elecampane, hoate and 
+drie in the second degree, comfortatiue</xpln></wordentry>
+
+</page>
+
+<page sig="n5r">
+<wordentry type="h"><form lang="la">Ebulus,</form> <xpln lexeme="wallwort(n)"><f type="bl"/> Walwoort, hoate and drie in the 
+seconde degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="euforbium(n)">Euforbium,</form> <xpln><f type="bl"/> A gumme, hoate and drie in 
+the fourth degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Aeris flos,</form> <xpln lexeme="verdigris(n)"><f type="bl"/> Verdegrease, hoat &#38; drie in the 
+thirde degree, corrosiue, and stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hermodactyl(n)">Ermodactilus, </form> <xpln>vide Asphodeli radices.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hematite(n)">Ematitis lapis,</form> <xpln><f type="bl"/> A stone, whiche vnquen&#173;
+ched is hoate in the first degree, &#38; drie 
+in the seconde, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Elleborus albus,</form> <xpln lexeme="hellebore, white(n)"><f type="bl"/> white Elebor, hoate and 
+drie in the thirde degree, prouoketh 
+menstrua,<f type="bl"/> and vomiting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Endiuia vera,</form> <xpln lexeme="endive(n)"><f type="bl"/> trewe Endiue, colde &#38; drie, 
+astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Equina mentha.</form> <xpln lexeme="horsemint(n)"><f type="bl"/> Horseminte, hoat in the 
+third degree, drie in the second, astrin&#173;
+gent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eruca(n)">Eruca.</form> <xpln lexeme="rocket(n)"><f type="bl"/> Rocket, the seede, hoate and drie, 
+expelling venim and wormes.</xpln>
+<lemenote>Predates earliest OED citation (1609)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Esula,</form> <xpln lexeme="wolf's milk(n)"><f type="bl"/> Woulfes milke, hoat in the fourth 
+degree, drie vehem<expan type="">en</expan>tly, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Euiscum, </form> <xpln>vide Althea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Eufrasia,</form> <xpln lexeme="eyebright(n)"><f type="bl"/> Eie bright, hoate &#38; drie, it quic&#173;
+keneth the sight and memorie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="eupatory(n)">Eupatori<expan type="">um</expan> adulterin<expan type="">um</expan>,</form> <xpln lexeme="egrimony, counterfeit(n)"><f type="bl"/> co<expan type="">un</expan>terfaite Egri&#173;
+monie, hoate and drie in the seconde de&#173;
+
+</page>
+
+<page sig="n5v">
+gree. Mundifieth and loseth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="epithyme(n)">Epithymum,</form> <xpln><f type="bl"/> hoate and drie in the thirde 
+degree, purgeth mel<expan type="">an</expan>cholike humors.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F</alpha>
+<wordentry type="h"><form lang="la">Flammula, </form> <xpln>vide pes corui.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fabaria.</form> <xpln lexeme="mint, wild(n)"><f type="bl"/> wylde Mynte, hoate in the firste
+degree, drie in <expan type="">the</expan> beginning of the third 
+mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fumus terr&#230;.</form> <xpln lexeme="fumitory(n)"><f type="bl"/> Fumitorie, cold in the first,
+drie in the seconde, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Feniculus,</form> <xpln lexeme="fennel(n)"><f type="bl"/> Fenill, the seede is hoate and 
+drie in the seconde degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Frumentum,</form> <xpln lexeme="wheat(n)"><f type="bl"/> Wheate, hoate and moist 
+temperatly, maturatiue, and mundifi&#173;
+catiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="furfur(n)">Furfur,</form> <xpln lexeme="bran(n)"><f type="bl"/> Branne, hoate and drie in the first 
+degree, resolutiue.</xpln>
+<lemenote>Antedates earliest OED citation (1621)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Fab&#230;,</form> <xpln lexeme="bean(n)"><f type="bl"/> Beanes, colde and drie, resolutiue, 
+and mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fex cer&#230;,</form> <xpln lexeme="wax dregs(n)"><f type="bl"/> Dregges of the Waxe, hoater 
+then the waxe, and more mollifying.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fex olei,</form> <xpln lexeme="oil dregs(n)"><f type="bl"/> Dregges of Oile, hoater &#38; drier 
+then the Oile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ferrum,</form> <xpln lexeme="iron(n)"><f type="bl"/> Iron, cold and drie in the second 
+degree, constrictiue, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ferrugo,</form> <xpln lexeme="rust(n)"><f type="bl"/> Rust, hoate and drie in the sec<expan type="">on</expan>d
+
+</page>
+
+<page sig="n6r">
+degree, restringent, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fenugrecum,</form> <xpln lexeme="fenugreek(n)"><f type="bl"/> Fenugreeke, hoate &#38; drie in 
+the first degree, maturatiue and reso&#173;
+lutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ficus recentes,</form> <xpln lexeme="fig, green(n)"><f type="bl"/> grene Figges, hoate and 
+moiste, the drie be hoate and drie, matu&#173;
+ratiue, and mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fermentum,</form> <xpln lexeme="leaven(n)"><f type="bl"/> Leuen, hoate and moist with 
+mixte operations.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fuligo(n)">Fuligo,</form> <xpln lexeme="soot(n)"><f type="bl"/> Soote, hoate and drie, maruei&#173;
+lously drying.</xpln>
+<lemenote>Antedates earliest OED citation (1646)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Farina volatilis,</form> <xpln lexeme="mill-dust(n)"><f type="bl"/> Myldust, colde and drie, 
+conglutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fraxinus,</form> <xpln lexeme="ash tree(n)"><f type="bl"/> Ashe tree, colde and drie in the 
+seconde degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Folia Oliuarum,</form> <xpln lexeme="olive leaf(n)"><f type="bl"/> Oliue leaues, colde and 
+drie, stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="filix(n)">Filex,</form> <xpln lexeme="fern(n)"><f type="bl"/> Fearne, hoate and drie in the second 
+degree, mundificatiue, and resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Faba crassa, </form> <xpln>vide crassula.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Faseoli, </form> <xpln>vide Dolichi.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ficaria,</form> <xpln lexeme="betony, water(n)"><f type="bl"/> water Betonie, drie, m<expan type="">un</expan>dificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Filago, </form> <xpln>vide Papyrus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="filipendula(n)">Filipendula,</form> <xpln><f type="bl"/> hoate and drie in the thirde 
+degree, diureticke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Flos amoris,</form> <xpln><f type="bl"/> Purple violet flower, hoate 
+and drie, aperitiue.</xpln></wordentry>
+
+</page>
+
+<page sig="n6v">
+<wordentry type="h"><form lang="la">Feniculus porcinus,</form> <xpln lexeme="fennel, hog's(n)"><f type="bl"/> Hogges fenel, hoate 
+in the seconde, drie in the third degree, 
+mundificatiue, incarnatiue, and cica&#173;
+trisatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fortis herba</form> <xpln><f type="bl"/> Drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Fuga Demon<expan type="">um</expan>,</form> <xpln lexeme="St. John's wort(n)"><f type="bl"/> Saint Iohns herbe, hote 
+and drie, mundificatiue, and aperitiue.</xpln>
+<lemenote>OED "John" 5</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Fungus,</form> <xpln lexeme="fungus(n)"><f type="bl"/> Funges, colde and moiste in the 
+thirde degree, constringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fell(n)">Fel,</form> <xpln lexeme="gall(n)"><f type="bl"/> Gall, hoate and drie, more or lesse ac&#173;
+cording to the creature, mundificatiue, 
+and abstersiue.</xpln>
+<lemenote>Antedates earliest OED citation (1590)</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G</alpha>
+<wordentry type="h"><form lang="la">Galla,</form> <xpln lexeme="gall(n)"><f type="bl"/> Galles, the grene are colde in the 
+second degree, and drie in the thirde, 
+stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gland(n)">Glandes,</form> <xpln lexeme="acorn(n)"><f type="bl"/> Acornes, colde and drie in the se&#173;
+conde degree, consolidatiue.</xpln>
+<lemenote>Antedates earliest OED citation (1631)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="Gratia Dei(n)">Gratia Dei,</form> <xpln lexeme="pink-needle(n)"><f type="bl"/> Pinkenedle, hoate and drie in 
+the seconde degree, mundificatiue, and 
+consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gariofili,</form> <xpln lexeme="cloves(n)"><f type="bl"/> Cloues, hoate &#38; drie in the third 
+degree, confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gluten(n)">Gluten,</form> <xpln lexeme="glue(n)"><f type="bl"/> Glewe, hoate and drie in the firste 
+degree, conglutinatiue.</xpln>
+<lemenote>Predates earliest OED citation (1639)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Gentiana,</form> <xpln lexeme="gentian(n)"><f type="bl"/> Gentian, hoate and drie in the
+
+</page>
+
+<page sig="n7r">
+thirde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Gallithricum, </form> <xpln>vide Speragus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gum Arabic(n)">Gummi Arabica,</form> <xpln><f type="bl"/> Colde, with a certayne 
+drienes, and glewenes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Granum Tinctorum,</form> <xpln lexeme="madder(n)"><f type="bl"/> Madder, drie, con&#173;
+solidatiue, and incarnatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gypsum(n)">Gipsum Lyme, </form> <xpln>vide Calx viua.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="galbanum(n)">Galbanum,</form> <xpln><f type="bl"/> hoate in the thirde, drie in the 
+seconde degree, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="genista(n)">Genista,</form> <xpln lexeme="broom(n)"><f type="bl"/> Brome, hoate and drie in the se&#173;
+conde degree, diureticke.</xpln>
+<lemenote>Predates earliest OED citation (1625)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Guadum,</form> <xpln lexeme="woad(n)"><f type="bl"/> Woad, drie astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="galanga(n)">Galanga,</form> <xpln lexeme="galingale(n)"><f type="bl"/> Galingall, hoate and drie in the 
+seconde degree, confortatiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H</alpha>
+<wordentry type="h"><form lexeme="hyoscyamus(n)">Hiosciamus,</form> <xpln lexeme="henbane(n)"><f type="bl"/> Henbane, colde in the thirde 
+degree, stupefactiue.</xpln>
+<lemenote>Predates earliest OED citation (1706)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Herba diui Iohannis, </form> <xpln>vide Fuga demon<expan type="">um</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Herba Stell&#230;, </form> <xpln>vide pes corui.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hermodactyl(n)">Hermodactilus, </form> <xpln>vide Ermodactilus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Hispanach,</form> <xpln lexeme="spinach(n)"><f type="bl"/> Spinage, colde and moist in 
+the first degree, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Hordeum,</form> <xpln lexeme="barley(n)"><f type="bl"/> Barley, colde and drie in the 
+firste degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Humulus,</form> <xpln lexeme="hops(n)"><f type="bl"/> Hoppes, hoate and drie, aperi&#173;
+
+</page>
+
+<page sig="n7v">
+tiue, and mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypericum(n)">Hipericon, </form> <xpln>vide fuga Demonum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Hissopus.</form> <xpln lexeme="hyssop(n)"><f type="bl"/> Hissope, hoate and drie in the 
+thirde degree, mundificatiue, and ape&#173;
+ritiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="harmel(n)">Harmel,</form> <xpln lexeme="rue, wild(n)"><f type="bl"/> Some cal it wylde Rewe, hoate 
+and drie in the thirde degree, it cutteth
+and mundifieth grosse humors.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i"><alpha>I</alpha>
+<wordentry type="h"><form lang="la">Isatis, </form> <xpln>vide Dragagantum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iposistis,</form> <xpln lexeme="toadstool's juice(n)"><f type="bl"/> Toade stooles iuyce, colde and 
+drie in the seconde degree, stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Issopus, </form> <xpln>vide Hissopus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iuniperus,</form> <xpln lexeme="juniper(n)"><f type="bl"/> Iuniper, hoate and drie, con&#173;
+solidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hypericum(n)">Ipericon, </form> <xpln>vide fuga Demonum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iarus. </form> <xpln>vide Aron.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ireos(n)">Ireos,</form> <xpln lexeme="flower de luce(n)"><f type="bl"/> Flowre deluce roote, hoate and drie 
+in the thirde degree, resolueth, mundi&#173;
+fieth and incarnateth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iacobi flos,</form> <xpln><f type="bl"/> hoate and drie astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="indicum(n)">Indicum, </form> <xpln>vide Gnadum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iouis barba, </form> <xpln>vide Semperuiua,</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iringus, </form> <xpln>vide centum capita.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Iua muscata.</form> <xpln lexeme="pine, ground(n)"><f type="bl"/> Ground pine, hoate in the se&#173;
+cond, drie in the third degree astring<expan type="">en</expan>t.</xpln></wordentry>
+
+</page>
+
+<page sig="n8r">
+<wordentry type="h"><form lang="la">Iusquiamus, </form> <xpln>vide Hiosciamus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="jujube(n)">Iuiubes,</form> <xpln><f type="bl"/> a fruite so called, hoate and drie 
+in the first degree, resolutiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k"><alpha>K</alpha>
+<wordentry type="h"><form lang="la">Keirim.</form> <xpln lexeme="violet, white(n)"><f type="bl"/> white Violet, hoat,
+m<expan type="">un</expan>dificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Kerna. </form> <xpln>vide Catapucia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="karabe(n)">Karaba.</form> <xpln lexeme="amber(n)"><f type="bl"/> Amber, hoate in the thirde, drie 
+meanly, astringent, confortatiue.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L</alpha>
+<wordentry type="h"><form lang="la">Lithargyrus.</form> <xpln lexeme="litharge(n)"><f type="bl"/> Letharge, drie, regenera&#173;
+tiue, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lupini.</form> <xpln lexeme="lupine(n)"><f type="bl"/> Lupines, hoate in the firste, drie 
+in the seconde degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lilium.</form> <xpln lexeme="lily(n)"><f type="bl"/> Lillies, the roote hoate &#38; moiste 
+in the second degree, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lini semen.</form> <xpln lexeme="linseed(n)"><f type="bl"/> Linseede, hoate and drie, ma&#173;
+turatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lac.</form> <xpln lexeme="milk(n)"><f type="bl"/> Milke, temperate, whose mitiga&#173;
+tiue is water, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapathum,</form> <xpln lexeme="dock(n)"><f type="bl"/> Docke, colde and drie in the 
+second degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Liquiritia,</form> <xpln lexeme="licorice(n)"><f type="bl"/> Licorise, t<expan type="">em</expan>perate, with a cer&#173;
+taine humiditie, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Licium.</form> <xpln><f type="bl"/> temperate and moist in the sec<expan type="">on</expan>d 
+degree, mitigatiue.</xpln></wordentry>
+
+</page>
+
+<page sig="n8v">
+<wordentry type="h"><form lexeme="labdanum(n)">Labdanum,</form> <xpln><f type="bl"/> hoate and moist in the firste 
+degree, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lentes,</form> <xpln lexeme="lentil(n)"><f type="bl"/> Lintelles, temperate &#38; stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lingua canis, </form> <xpln>vide Cinoglosson.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lixivium(n)">Lixiuium,</form> <xpln lexeme="lee(n)"><f type="bl"/> Lee, hoate &#38; drie in the thirde 
+degree, abstersiue.</xpln>
+<lemenote>Predates earliest OED citation (1612)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Lactuca,</form> <xpln lexeme="lettuce(n)"><f type="bl"/> Lettuse, colde &#38; drie in the third 
+degree, loseth and cooleth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lactucella,</form> <xpln lexeme="sowthistle(n)"><f type="bl"/> Sowthistle, being greene 
+it is colde, but dried, hath some heate and 
+astriction</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lappa inuersa,</form> <xpln lexeme="clot-bur(n)"><f type="bl"/> clot burre, hoate and drie, 
+seperateth and mundifieth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lappa maior,</form> <xpln lexeme="bur, great(n)"><f type="bl"/> the great burre, drie, dige&#173;
+stiue, and astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Larga,</form> <xpln lexeme="larch(n)"><f type="bl"/> the larche tree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Laureola,</form> <xpln lexeme="ribwort(n)"><f type="bl"/> Ribwort, hoate and drie aperi&#173;
+tiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="linaria(n)">Linaria,</form> <xpln lexeme="toad flax(n)"><f type="bl"/> Toad <emend err="staxe">flaxe</emend>, hoate and drie, ape&#173;
+ritiue, mundificatiue.</xpln>
+<lemenote>Predates earliest OED citation (1579)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Lingua bouis, </form> <xpln>vide Buglossum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lingua ceruina,</form> <xpln><f type="bl"/> hoate in the firste, drie in 
+the seconde degree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Luparia, </form> <xpln>vide Aconitum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis spongi&#230;,</form> <xpln lexeme="sponge stone(n)"><f type="bl"/> Sponge stones, drie, con&#173;
+glutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="lign-aloes(n)">Lignum aloes,</form> <xpln><f type="bl"/> hoat and drie in the second
+
+</page>
+
+<page sig="o1r">
+degree, comforteth the brayne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Laurus,</form> <xpln lexeme="laurel(n)" lexeme="bay(n)"><f type="bl"/> Laurell, or Baie, hoate and drie 
+in the thirde degree, abstersiue, &#38; mun&#173;
+dificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis smaragdus</form> <xpln lexeme="smaragd(n)"><f type="bl"/> The Smaragde stone, 
+colde and drie, driueth away venim.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis Adamas,</form> <xpln><f type="bl"/> cold and drie in the fourth 
+degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis hematitis, </form> <xpln>vide Ematitis lapis.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Lapis lazulus,</form> <xpln lexeme="azure(n)"><f type="bl"/> Asure, cold and moist, pur&#173;
+geth melancholie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Limon,</form> <xpln lexeme="lemon(n)"><f type="bl"/> the Lemon frute, colde and drie, 
+confortatiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M</alpha>
+<wordentry type="h"><form lang="la">Margarita,</form> <xpln lexeme="pearl(n)"><f type="bl"/> Pearle, cold and drie, confor&#173;
+tatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Merda ferri,</form> <xpln lexeme="iron dross(n)"><f type="bl"/> Iron drosse, colde and drie, 
+consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="malva(n)">Malua,</form> <xpln lexeme="mallow(n)"><f type="bl"/> Mallowes, colde and moist, miti&#173;
+gatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malmauiscus, </form> <xpln>vide Althea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mandragora(n)">Mandragora,</form> <xpln lexeme="mandrake(n)"><f type="bl"/> Mandrage, colde and drie 
+in the thirde degree, stupefactiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="marrubium(n)">Marubium,</form> <xpln lexeme="horehound(n)"><f type="bl"/> Horehounde, hoate in the se&#173;
+conde, drie in the thirde degree, aperi&#173;
+tiue.</xpln></wordentry>
+
+</page>
+
+<page sig="o1v">
+<wordentry type="h"><form lang="la">Mastix,</form> <xpln lexeme="mastic(n)"><f type="bl"/> Masticke, hoate and drie in the se&#173;
+conde degree, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Melilotum,</form> <xpln lexeme="melitot(n)"><f type="bl"/> Melilot, hoat and drie in the 
+first degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="medulla(n)">Medulla,</form> <xpln lexeme="marrow(n)"><f type="bl"/> Marrey, hoate and moist, molli&#173;
+ficatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mel,</form> <xpln lexeme="honey(n)"><f type="bl"/> Honie, hoate and drie in the seconde 
+degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mira,</form> <xpln lexeme="myrrh(n)"><f type="bl"/> Mirre, hoat and drie in the sec<expan type="">on</expan>d 
+degree, incarnatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Memitha,</form> <xpln lexeme="celandine, lesser(n)"><f type="bl"/> The lesse Salendine, drie in 
+the first degree, restrictiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mespila,</form> <xpln lexeme="medlar(n)"><f type="bl"/> Medlars, constrictiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mummia(n)">Mummia.</form> <xpln lexeme="mummy(n)"><f type="bl"/> Mummie, hoat and drie in the 
+seconde degree, constrictiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="minium(n)">Minium,</form> <xpln lexeme="lead, red(n)"><f type="bl"/> Read lead, cold &#38; drie,
+cicatrix.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Maiorana,</form> <xpln lexeme="majoram(n)"><f type="bl"/> Maioram, hoat and drie in the 
+thirde degree, digesteth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mater sylu&#230;, </form> <xpln>vide caprefolium.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Matricaria,</form> <xpln lexeme="mugwort(n)"><f type="bl"/> Mugwort, hoate and drie in 
+the seconde degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="matricaria(n)">Malauinzana,</form> <xpln lexeme="mad apple(n)"><f type="bl"/> Mad apples, cold &#38; moist, 
+stupefactiue.</xpln>
+<lemenote>Antedating earliest OED citation (1597)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="melissa(n)">Melissa,</form> <xpln lexeme="balm(n)"><f type="bl"/> Balme, hoate in the seconde, drie 
+in the first degree, abstersiue, conglut.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="mentha(n)">Mentha,</form> <xpln lexeme="mint(n)"><f type="bl"/> Minte, hoate in the thirde, drie 
+in the second degree, astringent.</xpln></wordentry>
+
+</page>
+
+<page sig="o2r">
+<wordentry type="h"><form lang="la">Mercurialis,</form> <xpln lexeme="mercury(n)"><f type="bl"/> the trewe Mercurie hoate &#38; 
+drie in the firste degree, solutiue.
+</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="millium(n)">Millium,</form> <xpln lexeme="millet(n)"><f type="bl"/> Millet, colde in the first, drie in 
+the thirde degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Millefolium,</form> <xpln lexeme="yarrow(n)"><f type="bl"/> Yarrowe, drie astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Millemorbia, </form> <xpln>vide Ficaria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mora vaticana.</form> <xpln lexeme="bramble(n)"><f type="bl"/> Bramble, hoate and drie 
+astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Morella.</form> <xpln lexeme="nightshade, lesser(n)" lexeme="alkekengi(n)"><f type="bl"/> Lesse nightshade or Alkakengi,<f type="bl"/> 
+colde in the seconde degree, and meane
+betweene moist and drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Morsus Diaboli.</form> <xpln lexeme="devil's bit(n)"><f type="bl"/> Diuels bitte, hoate and 
+drie, dissolueth and ripeneth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Morsus Gallin&#230;.</form> <xpln lexeme="mouse-ear(n)"><f type="bl"/> Mouseare, colde and 
+moist, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="morum(n)">Morus</form> <xpln lexeme="mulberry(n)"><f type="bl"/> Mulberie, Colde and moist, ab&#173;
+stersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malum Granatum.</form> <xpln lexeme="pomegranate(n)"><f type="bl"/> Pomegranates, the 
+sower be colde and drie, the sweete cold 
+and moist, comforting the stomacke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malum medicum.</form> <xpln lexeme="orange(n)"><f type="bl"/> Orenge, colde and moiste in the
+firste degree, the rinde is hoate and drie, and comforteth the
+stomacke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Macis.</form> <xpln lexeme="mace(n)"><f type="bl"/> Mace, drie in the thirde degree, 
+without manifest heate, astringent.</xpln></wordentry>
+
+</page>
+
+<page sig="o2v">
+<wordentry type="h"><form lexeme="manna(n)">Manna,</form> <xpln><f type="bl"/> hoate and drie in the seconde de&#173;
+gree, constring<expan type="">en</expan>t, sayth Paule Egineta.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mirobalani,</form> <xpln lexeme="myronbalan(n)"><f type="bl"/> Mirabolanes, colde in the 
+firste degree, drie in the seconde, stip&#173;
+tickes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malacidonea, </form> <xpln>vide cidon Malum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Marathrum, </form> <xpln>vide F&#339;niculum,</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="marcasite(n)">Marcasita,</form> <xpln><f type="bl"/> hoate and drie, consolidatiue, 
+and astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Malecoria,</form> <xpln lexeme="pomegranate, rind of(n)"><f type="bl"/> the rindes of Pomegranetes, 
+colde in the seconde, drie in the thirde, 
+restrictiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N</alpha>
+<wordentry type="h"><form lexeme="nenuphar(n)">Nenuphar,</form> <xpln lexeme="water lily(n)"><f type="bl"/> Water Lilies, colde &#38; moist 
+in the second degree, delaying inflam&#173;
+mations.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nuces auellan&#230;,</form> <xpln lexeme="nut(n)"><f type="bl"/> Small nuttes, hoate and 
+drie in the seconde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux Indica,</form> <xpln><f type="bl"/> hoate and moist in the firste 
+degree, confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nuces cupressi,</form> <xpln lexeme="nut, Cypress(n)"><f type="bl"/> Cipresse nuttes, hoat and 
+drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nux vocica(n)">Nux vomica,</form> <xpln lexeme="nut, vomiting(n)"><f type="bl"/> the vomiting nutte, hoate &#38; 
+drie, prouoking strong vomite.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nux moschata(n)">Nux Muscata,</form> <xpln lexeme="nutmeg(n)"><f type="bl"/> Nutmigges, hoate &#38; drie 
+in the seconde degree, confortatiue.</xpln></wordentry>
+
+</page>
+
+<page sig="o3r">
+<wordentry type="h"><form lang="la">Nepita, </form> <xpln>vide Calamentum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nux iugl<expan type="">am</expan>s,</form> <xpln lexeme="walnut(n)"><f type="bl"/> wal nuttes, the withered are 
+hoat in the thirde degree, and drie in the 
+beginning of the second, but the greene 
+are not so hoate and drie, they lose the
+bellie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nasturtium satiuum,</form> <xpln lexeme="cress, garden(n)"><f type="bl"/> Garden Cresses, 
+hoate and drie in the fourth degree, ab&#173;
+iue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nasturtium aquaticum,</form> <xpln lexeme="cress, water(n)"><f type="bl"/> water Cresses, 
+hoate and drie in the thirde degree, a&#173;
+peritiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Nasturtium tector<expan type="">um</expan>,</form> <xpln lexeme="mustard seed, wild(n)"><f type="bl"/> wilde mustard seede, 
+hoate and drie in the fourth degree, a&#173;
+peritiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nil(n)">Nil, </form> <xpln>vide Guadum.</xpln>
+<lemenote>Predates earliest OED citation (1583)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Nigella Romana,</form> <xpln><f type="bl"/> A seede so called, hoate 
+and drie in the thirde degree, clenseth 
+the skinne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="nitrum(n)">Nitrum,</form> <xpln lexeme="saltpetre(n)"><f type="bl"/> Salt peter, subtillatiue &#38; mun&#173;
+dificatiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o"><alpha>O</alpha>
+<wordentry type="h"><form lexeme="opium(n)">Opium,</form> <xpln lexeme="poppy, black(n)"><f type="bl"/> The iuyce of black Poppie dried, 
+colde and drie in the fourth degree, stu&#173;
+pefactiue, and mortificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ordeum,</form> <xpln lexeme="barley(n)"><f type="bl"/> Barley, colde and drie in the 
+first degree, maturatiue and abstersiue.</xpln></wordentry>
+
+</page>
+
+<page sig="o3v">
+<wordentry type="h"><form lang="la">Oleum oliuarum.</form> <xpln lexeme="olive oil(n)"><f type="bl"/> Oile Oliue, tempe&#173;
+rate, and according to the qualities of 
+simples altered.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oleum muscelinum.</form> <xpln><f type="bl"/> hoate, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orobus(n)">Orobus.</form> <xpln lexeme="vetch(n)"><f type="bl"/> Fetches, hoate in the firste, drie 
+in the second degree, apertitiue and ab&#173;
+stersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oua.</form> <xpln lexeme="egg(n)"><f type="bl"/> Egges, temperate, the whyte cold, 
+the yolke hoate, mitigatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="opopanax(n)">Opopanax,</form> <xpln><f type="bl"/> A gumme, hoate and drie in 
+the thirde degree, remollitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Occularia, </form> <xpln>vide eufrasia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oculus boum.</form> <xpln lexeme="oxe-eye(n)"><f type="bl"/> Oxe eie, hoate &#38; drie, reso&#173;
+lutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="oleander(n)">Oleander.</form> <xpln><f type="bl"/> hoate in the thirde, drie in the 
+seconde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="opthalmia(n)">Opthalmia, </form> <xpln>vide Eufrasia.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="origan(n)">Origan<expan type="">um</expan>.</form> <xpln lexeme="pennyroyal(n)"><f type="bl"/> Penirial,
+hote &#38; drie in <expan type="">the</expan> 3. deg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Os mundi</form> <xpln lexeme="vetch(n)"><f type="bl"/> A fetch, hote &#38; drie, astring<expan type="">en</expan>t</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Oriza.</form> <xpln lexeme="rice(n)"><f type="bl"/> Rise, hote &#38; drie in the first degree, 
+astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ocimum, Gariofilatum</form> <xpln lexeme="basil(n)"><f type="bl"/> Basill, hoate in 
+the firste, drie in the second degree, m<expan type="">un</expan>&#173;
+dificatiue, and confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="olibanum(n)">Olibanum.</form> <xpln><f type="bl"/> A gumme, hoate and drie in 
+the seconde degree, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ossa combusta.</form> <xpln lexeme="bone, burnt(n)"><f type="bl"/> Burnt bones, drie, a&#173;
+stringent.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="o4r">
+<wordgroup1 type="a" object="p"><alpha>P</alpha>
+<wordentry type="h"><form lang="la">Plantago.</form> <xpln lexeme="plantain(n)"><f type="bl"/> Plantaine, colde and drie, re&#173;
+percussiue, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="portulaca(n)">Portulaca.</form> <xpln lexeme="porcelain(n)"><f type="bl"/> Purslaine, colde in the thirde, 
+moist in the seconde, mitigatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Populus.</form> <xpln lexeme="poplar(n)"><f type="bl"/> The Poplar tree, colde &#38; drie 
+repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Psillium.</form> <xpln lexeme="fleawort(n)"><f type="bl"/> Fleewort, the seede is colde in 
+the seconde degree, and moiste in the 
+firste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Psidia </form> <xpln>vide Malecoria.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Polium.</form> <xpln lexeme="tyme, wild(n)"><f type="bl"/> Wylde time, hoat in the second, 
+drie in the thirde degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Parietaria.</form> <xpln lexeme="pellitory(n)"><f type="bl"/> Pellitorie, hoate and drie in <expan type="">the</expan> 
+thirde degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Piper.</form> <xpln lexeme="pepper(n)"><f type="bl"/> Pepper, hoate &#38; drie in the fourth 
+degree, attractiue, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="petroleum(n)">Petroleum.</form> <xpln><f type="bl"/> A stone of a rocke, hoate and 
+drie in the fourth degree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pix.</form> <xpln lexeme="pitch(n)"><f type="bl"/> Common pitche, hoate and drie in 
+the thirde degree, maturatiue, abster&#173;
+siue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pinguedo.</form> <xpln lexeme="fat(n)"><f type="bl"/> Fatte, hoate and moist, matu&#173;
+ratiue, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Palma</form> <xpln lexeme="date tree(n)"><f type="bl"/> The Date tree, colde and drie in <expan type="">the</expan> 
+seconde degree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pentaphilon. </form> <xpln>Vide quinque folium.</xpln></wordentry>
+
+</page>
+
+<page sig="o4v">
+<wordentry type="h"><form lang="la">Pimpenella,</form> <xpln lexeme="pimpernel(n)"><f type="bl"/> Pimpernell, hoate and drie, 
+consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Porrum,</form> <xpln lexeme="leek(n)"><f type="bl"/> Leekes, hoate &#38; drie in the third 
+degree, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pinus,</form> <xpln lexeme="pine tree(n)"><f type="bl"/> The Pine tree, the kirnels of the 
+whiche be hoate &#38; moist, but the barke 
+is colde and drie, with much stipticitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Plumbum,</form> <xpln lexeme="lead(n)"><f type="bl"/> Lead, colde and drie in the se&#173;
+cond degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Peonia,</form> <xpln lexeme="peony(n)"><f type="bl"/> Pionie, hoate and drie,
+astring<expan type="">en</expan>t.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pagana lingua,</form> <xpln lexeme="laurel, great(n)"><f type="bl"/> great Laurell, hoate and 
+drie, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Palma Christi(n)">Palma Christi,</form> <xpln lexeme="spurge(n)"><f type="bl"/> Spourge, hoate and drie 
+in the thirde degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Panis cuculus,</form> <xpln lexeme="cuckoo meat(n)"><f type="bl"/> Cocowes meate, colde and 
+drie, conglutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Panis Porcinus,</form> <xpln><f type="bl"/> hoat and drie in the third 
+degree, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Papauer satiuum,</form> <xpln lexeme="poppy, garden(n)"><f type="bl"/> Garden Popie, cold in 
+the fourth degree, stupefactiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pastinaca,</form> <xpln lexeme="parsnip(n)"><f type="bl"/> Persnep, hoate in the seconde, 
+drie in the first degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pastoris bursa, </form> <xpln>vide Bursa pastoris.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Perforata, </form> <xpln>vide Fuga demonum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Persica,</form> <xpln lexeme="peach(n)"><f type="bl"/> Peaches, cold and moist in the se&#173;
+cond degree astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Peruinca, </form> <xpln>vide Laureola.</xpln></wordentry>
+
+</page>
+
+<page sig="o5r">
+<wordentry type="h"><form lang="la">Pes Anserinus,</form> <xpln lexeme="goose-foot(n)"><f type="bl"/> Goose foote, colde in the 
+seconde degree, astringent.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pes Columbinus,</form> <xpln lexeme="dove's foot(n)"><f type="bl"/> Doues foote, drie, a&#173;
+stringent</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pes Corui,</form> <xpln lexeme="crowfoot(n)"><f type="bl"/> Crowe foote, hoate and drie, 
+Vehement Vlceratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pes Leonis,</form> <xpln lexeme="lion's foot(n)"><f type="bl"/> Lions foote, drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pes Vituli, </form> <xpln>vide Aron.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Petroselinum,</form> <xpln lexeme="parsley(n)"><f type="bl"/> Perseley, hoate in the se&#173;
+conde, drie in the thirde degree, aperi&#173;
+tiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pilosella(n)">Pilosella, </form> <xpln>vide auricula muris.</xpln>
+<lemenote>Predates earliest OED citation (1578)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Podagra lini, </form> <xpln>vide Cassutha.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="polipodium(n)">Polipodium,</form> <xpln lexeme="oak fern(n)"><f type="bl"/> Oke fearne, hoate and drie 
+in the thirde degree, mundificatiue, at&#173;
+tractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pollitricon, </form> <xpln>vide capillus veneris.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="potentilla(n)">Potentilla,</form> <xpln lexeme="tansy, wild(n)"><f type="bl"/> Wylde tansey, hoate and drie 
+in the thirde degree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Prassium,</form> <xpln lexeme="horehound(n)"><f type="bl"/> Horehound, hoate in the second, 
+drie in the thirde degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Prassium fetidum,</form> <xpln lexeme="horehound, stinking black(n)"><f type="bl"/> the stinking black ho&#173;
+rehounde, hoate and drie in the thirde 
+degree.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="primula(n)">Primula veris,</form> <xpln lexeme="primrose(n)"><f type="bl"/> Primrose, hoate and drie, 
+conglutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prunella(n)">Prunella,</form> <xpln lexeme="burnet(n)"><f type="bl"/> Burnette, hoate &#38; drie, c<expan type="">on</expan>glut.</xpln>
+<lemenote>Antedating earliest OED citation (1578)</lemenote></wordentry>
+
+</page>
+
+<page sig="o5v">
+<wordentry type="h"><form lexeme="prunus(n)">Prunus</form> <xpln lexeme="damson(n)"><f type="bl"/> Damacens, colde &#38; drie, meanly 
+astringent.</xpln>
+<lemenote>Antedating earliest OED citation (1706)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Pseudomelanthion.</form> <xpln lexeme="cockle(n)"><f type="bl"/> Coccle, hoate and 
+drie in the seconde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pulegium, </form> <xpln>vide Origanum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pyrethrum(n)">Pirethrum syluestr&#230;.</form> <xpln lexeme="pellitory, wild(n)"><f type="bl"/> Wilde Pellitorie, 
+hoate and drie in the seconde degree, 
+mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="papyrus(n)">Papirus.</form> <xpln lexeme="paper(n)"><f type="bl"/> Paper, cold and drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Panis.</form> <xpln lexeme="bread(n)"><f type="bl"/> Bread, hoate and drie in the firste 
+degree, resolutiue, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Passul&#230;.</form> <xpln lexeme="raisins(n)"><f type="bl"/> Reasins, hoate &#38; moist, resolut.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Penidi&#230;</form> <xpln lexeme="penide(n)"><f type="bl"/> Penittes, hoat and moist in the 
+first degree, conglutinatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="panicum(n)">Panicum.</form> <xpln><f type="bl"/> A graine like grommell, colde 
+in the first, drie in the beginning of the 
+seconde, astringent.</xpln>
+<lemenote>Predates earliest OED citation (1844)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Pira.</form> <xpln lexeme="pear(n)"><f type="bl"/> Peares, the ripe are colde and moist 
+in the first degree, the sower or greene, 
+are colde and drie in the second degree, 
+and the halfe ripe, are colde and drie in
+the first degree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Pruna.</form> <xpln lexeme="prune(n)"><f type="bl"/> Prunes, colde and moist in the se&#173;
+cond degree, loseth the belly.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q"><alpha>Q</alpha>
+<wordentry type="h"><form lang="la">Quercus</form> <xpln lexeme="oak(n)"><f type="bl"/> the Oke, hoat &#38; drie, astring<expan type="">en</expan>t.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Quin<expan type="">que</expan> folium.</form> <xpln lexeme="five-leaf(n)"><f type="bl"/> Fiue leaued grasse, drie 
+astringent.</xpln></wordentry>
+
+</page>
+
+<page sig="o6r">
+<wordentry type="h"><form lang="la">Quercula minor.</form> <xpln lexeme="germander(n)"><f type="bl"/> Germander, hoate and 
+drie in the thirde degree, resolutiue, a&#173;
+peritiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R</alpha>
+<wordentry type="h"><form lang="la">Ros&#230; flos.</form> <xpln lexeme="rose flower(n)"><f type="bl"/> Rose flower, colde in the firste, 
+drie in the second, lightly binding, this 
+is the white, the read is more astring<expan type="">en</expan>t 
+and lesse colde, the damaske is partaker 
+of both in lighter substaunce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rubus arbustus.</form> <xpln lexeme="bramble(n)"><f type="bl"/> Bramble, cold and drie,
+stipticke, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rubea tinctor<expan type="">um</expan>, </form> <xpln>vide gran<expan type="">um</expan> tinctor<expan type="">um</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="raphanus(n)">Raphanus.</form> <xpln lexeme="radish(n)"><f type="bl"/> Radishe, hoate and drie, incis&#173;
+siue, abstersiue.</xpln>
+<lemenote>Antedating earliest OED citation (1730-36)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Rapa.</form> <xpln lexeme="rape(n)"><f type="bl"/> Rapes, hoate in the second, moiste 
+in the first degree, maturatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="realgar(n)">Realgar</form> <xpln lexeme="roseager(n)"><f type="bl"/> Roseager, hoate, mortificatiue.</xpln>
+<lemenote>Predates OED earliest citation (1684)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Rapiastrum.</form> <xpln lexeme="charlock(n)"><f type="bl"/> Charlocke, hoat and drie re&#173;
+solutiue, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Remora aratri, </form> <xpln>vide amonis.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="rhabarbarum(n)">Rhabarbar<expan type="">um</expan> monachorum.</form> <xpln lexeme="monk's rubarb(n)"><f type="bl"/> Monkes Ru&#173;
+barbe, cold &#38; drie in the second degree 
+astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ribes(n)">Ribes.</form> <xpln lexeme="raisins, small(n)"><f type="bl"/> Small reasins, cold and drie in the 
+second degree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rosinarinus.</form> <xpln lexeme="rosemary(n)"><f type="bl"/> Rosemarie, hoate and drie, 
+abstesiue, resolutiue.</xpln></wordentry>
+
+</page>
+
+<page sig="o6v">
+<wordentry type="h"><form lang="la">Rosemarinus aculeatus,</form> <xpln><f type="bl"/> Gorse, drie a&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rostrum Ciconi&#230;,</form> <xpln lexeme="pink-needle(n)"><f type="bl"/> Pinkenedle, drie, a&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Rostrum Porcinum,</form> <xpln lexeme="succory(n)"><f type="bl"/> Suckerie, cold and 
+drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Ruta,</form> <xpln lexeme="rue(n)"><f type="bl"/> Rewe, hoate and drie in the thirde 
+degree, Vlceratiue, aperitiue, digestiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Resina,</form> <xpln lexeme="rosin(n)"><f type="bl"/> Rosin, hoate &#38; drie, m<expan type="">un</expan>dificatiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S</alpha>
+<wordentry type="h"><form lang="la">Solatrum,</form> <xpln lexeme="nightshade, great(n)"><f type="bl"/> great nightshade, colde &#38; drie 
+in the fourth degree, stupefactiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="salix(n)">Salix,</form> <xpln lexeme="willow(n)"><f type="bl"/> Willowes, colde and drie in the se&#173;
+conde degree, stipticke meanely.</xpln>
+<lemenote>Antedating earliest OED citation (1775)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Siligo,</form> <xpln lexeme="rye(n)"><f type="bl"/> Rie, colde and drie, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sumach(n)">Sumach,</form> <xpln><f type="bl"/> colde in the seconde, drie in the 
+thirde degree, stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Semperuiua,</form> <xpln lexeme="houseleek(n)"><f type="bl"/> Houseleeke, cold in the third 
+drie in the first, repercussiue.</xpln>
+<lemenote>Cf. OED "sempervive"</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Spica nardi,</form> <xpln lexeme="spikenard(n)"><f type="bl"/> Spikenard, hoate in the first, 
+drie in the seconde, confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sal(n)">Sal,</form> <xpln lexeme="salt(n)"><f type="bl"/> Salt, hoate and drie in the seconde de&#173;
+gree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sulphur(n)">Sulphur,</form> <xpln lexeme="brimstone(n)"><f type="bl"/> Brimstone, hoate and drie in the 
+thirde degree, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Squinantum,</form> <xpln lexeme="squinant(n)"><f type="bl"/> Squinant, hoate and drie,
+
+</page>
+
+<page sig="o7r">
+stipticke.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="salvia(n)">Saluia,</form> <xpln lexeme="sage(n)"><f type="bl"/> Sage, hoate and drie in the second 
+degree, stipticke,</xpln>
+<lemenote>Antedating earliest OED citation (1844)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Sandalus,</form> <xpln lexeme="sanders(n)"><f type="bl"/> Saunders, cold and drie in the 
+seconde degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="spodium(n)">Spodium,</form> <xpln><f type="bl"/> colde in the seconde, drie in the 
+thirde degree, consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scroffularia,</form> <xpln lexeme="celandine, lesser(n)"><f type="bl"/> The lesse Salendine, drie, 
+resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="serapin(n)">Serapinum,</form> <xpln><f type="bl"/> A gumme, hoate and drie in 
+the second degree, mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="squilla(n)">Squilla,</form> <xpln lexeme="onion, sea(n)"><f type="bl"/> Sea Onion, hoate and drie in the 
+seconde degree, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stercus,</form> <xpln lexeme="dung(n)"><f type="bl"/> Donge, hoate and drie, according 
+to the temperature of the creature.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sepium,</form> <xpln lexeme="suet(n)"><f type="bl"/> Sewet, hoate and temperate ac&#173;
+cording to the temperature of the crea&#173;
+ture.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sarcocolla(n)">Sarcocolla,</form> <xpln lexeme="sarcocol(n)"><f type="bl"/> Sarcocoll, hoate in the second 
+drie in the first degree, incarnatiue.</xpln>
+<lemenote>Antedating earliest OED citation (1599)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Sanguis Draconis,</form> <xpln><f type="bl"/> Drie in the second de&#173;
+gree, consolidatiue, constringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sanguis animalium,</form> <xpln><f type="bl"/> Creatures bloude, 
+this hath temperature according to the 
+nature of the creature.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scoria(n)">Scoria,</form> <xpln lexeme="fillings(n)"><f type="bl"/> Filinges, drie and muche consoli&#173;
+datiue.</xpln></wordentry>
+
+</page>
+
+<page sig="o7v">
+<wordentry type="h"><form lang="la">Sapo,</form> <xpln lexeme="soap(n)"><f type="bl"/> Sope, hoate adustiue. Guydo</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spongia maris,</form> <xpln lexeme="sponge(n)"><f type="bl"/> Sponges, hoate in the 
+first, drie in the seconde degree, c<expan type="">on</expan>sump&#173;
+tiue, and desiccatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spuma maris,</form> <xpln lexeme="foam of the sea(n)"><f type="bl"/> Fome of the Sea, hoate in 
+the firste, drie in the thirde degree, ab&#173;
+stersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sinapis,</form> <xpln lexeme="mustard seed(n)"><f type="bl"/> Mustardseede, hoate and drie in 
+the fourth degree, attractiue</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Staphisagria,</form> <xpln lexeme="stavesacre(n)"><f type="bl"/> Staues acre, hoate and drie 
+in the thirde degree, attractiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scabiosa,</form> <xpln lexeme="sacbious(n)"><f type="bl"/> Scabious, hoate and drie in the 
+seconde degree regeneratiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stirax calamit.</form> <xpln><f type="bl"/> A gumme, hoate and drie, 
+mollificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Simissomis,</form> <xpln lexeme="thistle, blessed(n)"><f type="bl"/> Blessed thistle, colde, &#38; ma&#173;
+turatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sambucus,</form> <xpln lexeme="elder(n)"><f type="bl"/> Eldar, hoate in the seconde, 
+drie in the first degree, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sacerdotis virile, </form> <xpln>vide Aron.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Salicaria,</form> <xpln lexeme="loosestrife(n)"><f type="bl"/> Lowstrif, drie astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sanamunda,</form> <xpln lexeme="bennet(n)"><f type="bl"/> Bennet, hoate and drie in the 
+seconde degree, consolidatiue and a&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sancti spiritus radix. </form> <xpln>vide Angelica.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sanguisorba,</form> <xpln lexeme="pimpernel(n)"><f type="bl"/> A kinde of Pimpernell, drie 
+astringent.</xpln></wordentry>
+
+</page>
+
+<page sig="o8r">
+<wordentry type="h"><form lexeme="sanicle(n)">Sanicula,</form> <xpln lexeme="sanicle(n)"><f type="bl"/> Sanicle, hoat and drie in the se&#173;
+conde degree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sardiana glans,</form> <xpln lexeme="chestnut(n)"><f type="bl"/> Chestenuttes, hoate and 
+drie in the first degree, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Satureia,</form> <xpln lexeme="savory(n)"><f type="bl"/> Sauerie, hoate and drie in the third 
+degree, abstersiue, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sabina,</form> <xpln lexeme="savin(n)"><f type="bl"/> Sauin, hoate and drie in the third 
+degree, dissolueth and openeth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Saxifraga,</form> <xpln lexeme="saxifrage(n)"><f type="bl"/> Saxifrage, hoate and drie a&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scariola, </form> <xpln>vide Endiuia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scelerata, </form> <xpln>vide pes corui.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scolopendrium(n)">Scolopendria,</form> <xpln lexeme="hart's tongue(n)"><f type="bl"/> Hartes tongue, hoat in the 
+firste, drie in the seconde degree, astrin&#173;
+gent.</xpln>
+<lemenote>Antedating earliest OED citation (1611)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="senna(n)">Sena,</form> <xpln><f type="bl"/> Senec, hoat in the second, drie in the 
+first degree, abstersiue, and aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Serratula, </form> <xpln>vide Quecula minor.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="serpentaria(n)">Serpentaria, </form> <xpln>vide Aron.</xpln>
+<lemenote>Antedating earliest OED citation (1803)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Serpillum, </form> <xpln>vide satureia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Serpillum Romanum,</form> <xpln lexeme="thyme(n)"><f type="bl"/> Time, hoate and 
+drie in the thirde degree, aperitiue, dis&#173;
+soluing and separating.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Seruilla, </form> <xpln>vide Pastinaca.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sirutum ibidem.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sigillum Salamonis,</form> <xpln lexeme="Solomon's seal(n)"><f type="bl"/> Salamons seale, of 
+a meane temperature, astringent.</xpln></wordentry>
+
+</page>
+
+<page sig="o8v">
+<wordentry type="h"><form lang="la">Siler montanum,</form> <xpln lexeme="siler mountain(n)"><f type="bl"/> Silermountaine, hoate 
+and drie in the second degree, aperitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Simionis herba, </form> <xpln>vide Althea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sorbes,</form> <xpln lexeme="sorb(n)"><f type="bl"/> the Sorbe tree, colde and drie a&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sorgi,</form> <xpln><f type="bl"/> an Italian graine, whiche is colde 
+and drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sparagus(n)">Sparagus,</form> <xpln lexeme="sperage(n)"><f type="bl"/> Sperage, abstersiue, without 
+manifest heate or colde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Spatula f&#339;tida,</form> <xpln lexeme="flag(n)"><f type="bl"/> A flagge bearing coddes 
+with read beries, hoate and drie, ab&#173;
+stersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Stell&#230; herba, </form> <xpln>vide pes corui.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sebesten(n)">Sebesten,</form> <xpln><f type="bl"/> a fruite, temperate of c<expan type="">om</expan>plexion 
+and lenitiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Sal armoniacum,</form> <xpln lexeme="sal-ammoniac(n)"><f type="bl"/> Salt armoniack, hoate 
+and drie in the fourth degree, abster&#173;
+siue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sal-gem(n)">Sal gemm&#230;,</form> <xpln><f type="bl"/> an other kinde of Salte, hoat 
+and drie, abstersiue, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Siseleos,</form> <xpln><f type="bl"/> a Seede, hoat and drie in the end 
+of the seconde degree, prouoketh vrine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Scamonia, </form> <xpln>vide Diagredium.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T</alpha>
+<wordentry type="h"><form lang="la">Thimus, </form> <xpln>vide Serpillum Romanum.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thus(n)">Thus,</form> <xpln lexeme="frankincense(n)"><f type="bl"/> Frankincense, hoate in the second,
+
+</page>
+
+<page sig="p1r">
+drie in the first degree, incarnatiue, c<expan type="">on</expan>&#173;
+solidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="terebinthina(n)">Terebentina.</form> <xpln lexeme="turpentine(n)"><f type="bl"/> Terebentine, hoate &#38; drie, 
+consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Thucia, lapis.</form> <xpln><f type="bl"/> A stone or minerall, colde 
+in the firste, drie in the seconde degree, 
+quickeneth the eie sight.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tartar(n)">Tartarum.</form> <xpln lexeme="wine lees(n)"><f type="bl"/> Wine Lees, hoate and drie in 
+the thirde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tanacetum.</form> <xpln lexeme="tansy(n)"><f type="bl"/> Tansey, hoate and drie, con&#173;
+solidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thapsus(n)">Tapsus barbatus.</form> <xpln lexeme="mullein(n)"><f type="bl"/> Mollen, drie, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Turmentilla.</form> <xpln lexeme="tormentil(n)"><f type="bl"/> Turmentil, hoate and drie, 
+abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tamarix.</form> <xpln lexeme="briar(n)"><f type="bl"/> Brier, drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="taraxacum(n)">Taraxacon. </form> <xpln>vide Rostrum porciuum.</xpln>
+<lemenote>Antedating earliest OED citation (1706)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Testiculus canis.</form> <xpln lexeme="dog's stones(n)"><f type="bl"/> Dogges stones, hoate &#38; 
+moist, resolutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tilia.</form> <xpln lexeme="birch(n)"><f type="bl"/> A kinde of Birche, hoate and drie, astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tinctorius flos. </form> <xpln>vide granum tinctor<expan type="">um</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trifolium(n)">Trifolium.</form> <xpln lexeme="three-leaf(n)"><f type="bl"/> Three leaued grasse, hoat and 
+drie in the thirde degree, aperitiue, ab&#173;
+stersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Trinitatis herba.</form> <xpln lexeme="Jupiter's flower(n)"><f type="bl"/> Iupiters flower, hoate 
+<emend err="hoate"></emend>and drie, abstersiue, and conglu&#173;
+tinatiue.</xpln></wordentry>
+
+</page>
+
+<page sig="p1v">
+<wordentry type="h"><form lang="la">Triticum.</form> <xpln lexeme="wheat(n)"><f type="bl"/> Wheate, hoate in the first de&#173;
+gree, without manifest drienes or moi&#173;
+sture, attractiue, and digestiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Turcium frumentum.</form> <xpln lexeme="Turkish corn(n)"><f type="bl"/> Turkishe corne, 
+hoate and drie meanly, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tela aranea.</form> <xpln lexeme="cobweb(n)"><f type="bl"/> Copweb, colde &#38; drie, astrin&#173;
+gent, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tamarindi.</form> <xpln lexeme="tamarind(n)"><f type="bl"/> Tamarindes, colde and drie 
+in the thirde degree, mundifieth and se&#173;
+perateth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Titimalus.</form> <xpln lexeme="spurge(n)"><f type="bl"/> A kinde of spourge, hoate and 
+drie in the fourth degre, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="terra sigillata(n)">Terra sigillata.</form> <xpln><f type="bl"/> hoate and drie astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Tubera.</form> <xpln><f type="bl"/> round puffes like Musheromes, 
+they engendre grosse humors.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Turbita.</form> <xpln lexeme="turpeth(n)"><f type="bl"/> Turbith, hoate and drie in the 
+thirde degree, mundifieth and loseth 
+the bellie.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v"><alpha>V</alpha>
+<wordentry type="h"><form lang="la">Vinum,</form> <xpln lexeme="wine(n)"><f type="bl"/> Wyne, hoate and drie, or moiste 
+euen according to the age there of, ma&#173;
+turatiue, and consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vua passa, </form> <xpln>vide passul&#230;.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="viola(n)">Viola.</form> <xpln lexeme="violet(n)"><f type="bl"/> Violet, colde and moist in the first 
+degree, ripeneth hoate impostumes, &#38; 
+coleth inflamations.</xpln></wordentry>
+
+</page>
+
+<page sig="p2r">
+<wordentry type="h"><form lang="la">Vmbelicus veneris.</form> <xpln lexeme="penny-grass(n)"><f type="bl"/> Penigrasse, cold and 
+moist in the second degree, delaieth in&#173;
+flammations.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Veruena. </form> <xpln>vide Berbena.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="urtica(n)">Vrtica.</form> <xpln lexeme="nettle(n)"><f type="bl"/> Nettle, hoate and drie, mordifica&#173;
+tiue.</xpln>
+<lemenote>Antedating earliest OED citation (1682)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Virga pastoris.</form> <xpln lexeme="teasel, wild(n)"><f type="bl"/> Wilde tasill, colde in the 
+thirde degree, drie temperate, consoli&#173;
+datiue, and astringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vrina.</form> <xpln lexeme="urine(n)"><f type="bl"/> Vrine, hoate and drie, abstersiue, 
+adustiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vernix(n)">Vernix.</form> <xpln lexeme="varnish(n)"><f type="bl"/> Vernish, hoate and drie in the se&#173;
+conde degree, incarnatiue, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vermes terrestres,</form> <xpln lexeme="earthworm(n)"><f type="bl"/> Earth wormes, con&#173;
+glutinatiue, &#38; conforting the sinewes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="usnea(n)">Vsnea quercina.</form> <xpln><f type="bl"/> The white mosse of the 
+Oke, hoate and drie, confortatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Verdetum. </form> <xpln>vide &#230;ris flos.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vitrium</form> <xpln lexeme="glass(n)"><f type="bl"/> Glasse, hoate in the firste, drie 
+in the seconde degree, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vitriolum.</form> <xpln lexeme="vitriol(n)"><f type="bl"/> Vitrioll, hoate and drie in the 
+thirde degree, stipticke and corrosiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vzifur. </form> <xpln>vide Cinabrium.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Valeriana.</form> <xpln lexeme="valerian(n)"><f type="bl"/> Valerian, hoate and drie in the 
+seconde degree, aperitiue, abstersiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="veronica(n)">Veronica.</form> <xpln lexeme="speedwell(n)"><f type="bl"/> Speedewel, hoat and drie, c<expan type="">on</expan>&#173;
+solidatiue, constringent.</xpln>
+<lemenote>Antedates earliest OED citation (1578)</lemenote></wordentry>
+
+</page>
+
+<page sig="p2v">
+<wordentry type="h"><form lang="la">Vinca peruinca.</form> <xpln lexeme="periwinkle(n)"><f type="bl"/> Perwinke, drie a&#173;
+stringent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Viscum.</form> <xpln lexeme="mistletoe(n)"><f type="bl"/> Miscledine, hoate, attractiue, re&#173;
+solutiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vitealis.</form> <xpln lexeme="withwind(n)"><f type="bl"/> Withwinde, hoate and drie, di&#173;
+gestiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Viticella. </form> <xpln>vide Brionia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vngula caballina.</form> <xpln lexeme="horse-house(n)"><f type="bl"/> Horsehouse, colde and 
+moist, mundificatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="volubilis(n)">Volubilis maior. </form> <xpln>vide Caprefolium.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vrinaris herba.</form> <xpln lexeme="toadflax(n)"><f type="bl"/> <emend err="Toadstax">Toadflax</emend>, aperitiue, m<expan type="">un</expan>&#173;
+dificatiue.</xpln>
+<lemenote>Antedates earliest OED citation (1578)</lemenote></wordentry>
+
+<wordentry type="h"><form lang="la">Vua Lupina.</form> <xpln lexeme="nightshade(n)"><f type="bl"/> A kinde of nightshade, cold 
+&#38; drie in <expan type="">the</expan> second degree, repercussiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vua vulpina </form> <xpln>vide Aconitum</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Vuularia.</form> <xpln lexeme="laurel, great(n)"><f type="bl"/> great Laurell, hoate and drie,
+aperitiue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="x"><alpha>X</alpha>
+<wordentry type="h"><form lexeme="xylobalsamum(n)">Xilobalsamum.</form> <xpln lexeme="balsam wood(n)"><f type="bl"/> The wood of the tree 
+Balsam, hoate and drie in the seconde degree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Xilo aloes. </form> <xpln>vide lignum aloes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Xilon </form> <xpln>vide Bombax.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="z"><alpha>Z</alpha>
+<wordentry type="h"><form lang="la">Zinziber caninum.</form> <xpln lexeme="pepper, Indie(n)"><f type="bl"/> Indie pepper, hoate 
+
+</page>
+
+<page sig="p3r">
+and drie vehem<expan type="">en</expan>tly, attractiue, and ab&#173;
+stersiue.</xpln>
+<lemenote>Antedates earliest OED citation (1578)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="zea(n)">Zea.</form> <xpln lexeme="wheat(n)"><f type="bl"/> A kinde of wheate, hoate and drie, 
+meanely abstersiue, and consolidatiue.</xpln>
+<lemenote>Antedating earliest OED citation (1577)</lemenote></wordentry>
+
+<wordentry type="h"><form lexeme="zedoary(n)">Zedoaria.</form> <xpln><f type="bl"/> A roote, hoate in the third, drie 
+in the seconde degree, conforteth, and 
+mundifieth, and scattreth humors.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Zaccharum.</form> <xpln lexeme="sugar(n)"><f type="bl"/> Suger, hoate and moiste, 
+meanly consolidatiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Zinziber.</form> <xpln lexeme="ginger(n)"><f type="bl"/> Ginger, being green, it is hote 
+in the thirde degree, and moiste in the 
+firste, but being dried, it is drie in the 
+first degree, it heateth the stomake, and
+scattreth moist humors.</xpln></wordentry>
+</wordgroup1>
+
+</page>
+</leme>

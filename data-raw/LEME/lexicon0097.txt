@@ -1,0 +1,270 @@
+
+
+<leme no="97">
+<page sig="@1">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 4 0 3 3 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title page">
+Bulleins
+Bulwarke of def<expan type="">en</expan>ce
+againste all Sicknes, Sornes, and woundes, that dooe
+daily assaulte mankinde, whiche Bulwarke is
+kepte with Hillarius the Gardiner, Health the
+Phisician, with their Chyrurgian, to helpe the
+wounded soldiors.  Gathered and pra&#173;
+ctised fr<expan type="">om</expan> the moste worthie lear&#173;
+ned, bothe old and newe: to
+the greate comforte of
+mankinde: Doen
+by Willyam
+Bulleyn,
+and ended this Marche.
+<term lang="la">Anno salutis.</term> 1562.
+
+Imprinted at London, by
+Jhon Kyngston.
+</section>
+
+</page>
+
+<page sig="I2v">
+<section type="Hard words">
+<heading>Sicknes.</heading>
+NOw you haue ended your Table, with the names of compoun&#173;
+des.  There are certain wordes, very harde for me to vnderstand
+as when you doe name <term lang="la">Apophlegmatismus</term>, <term lang="la">Dropax</term>, <term lang="la">Linement</term>. &#38;c.  I knowe
+not what thei doe meane, by their proper names, I praie you tell me
+the significacions.
+
+<heading>Health.</heading>
+<wordgroup1 type="t">
+<wordentry type="d">
+<form lang="la" lexeme="apophlegmatismus(n)">WHen you come to Apophlegmatismus</form>, <xpln>it is a singuler good medicen
+to purge flegme by vomite, or els to drawe from the hedde,
+euill and grosse humours, and is vsed somtime, as I haue re&#173;
+hersed in the proper place of Apophlegmatismus, before spoken.
+
+And by mixture vnderstande, what sondrie Confections and Electuariis, bee
+mingled together, to be taken in the mornyng, or els three howers be&#173;
+fore repaste of meate and drinke, to purge choller. &#38;c.</xpln>
+</wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="confectura(n)">Confectura</form>, <xpln lexeme="ribus confectus(n)" lexeme="confectio hamech(n)">is a medicene mingled of simples, or some meat digested: as
+<term lang="la">ribus confectus</term>, meat digested. There are sondrie c<expan type="">on</expan>fecti<expan type="">on</expan>s, as <term lang="la">Confectio Hamech.</term>&#38;c</xpln>
+</wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="electuarium(n)">Electuarium</form> <xpln lexeme="electuarium laetificans Rasis(pn)">is commonly knowen, made moiste with Honie, Suger,
+and pouders for to clense humours, beying taken in the mornyng, in
+Bolo, that is in the same masse, rolled with Suger, or els in Potione,
+or drunke with waters, accordyng to the complexion: as to the cholle&#173;
+ricke least, and moste to the Melancholie persone, by the reason of his
+yearthly nature.  And of Electuarijs be diuers, and of sundrie inuencions,
+as Rasis made one for an Heath<expan type="">en</expan> king, whose name was Almonsor.  To this
+kyng he writeth moche, concernyng bodily health, and to put awaie
+pensifenes, heauines, and Melancholie, he made <term lang="la">Electuarium L&#230;tificans Rasis.</term></xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="electuarium de succo rosarum(n)" lexeme="electuarium frigidum cophonis(n)">Electuarium de succo Rosarum of Roses, Electuarium frigidum Cophonis of one called 
+Cophe.</form> <xpln> Reade of this man, and many mo, in the worke of Mesu&#230;.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="electuarium gemmarum(n)">Electuarium gemmarum of precious stones. &#38;c. </form> <xpln>with many mo worthie Electu&#173;
+aries, profitable for mankinde: some warmyng, and some coolyng. &#38;c.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="tragia(n)">Tragia</form>, <xpln>are sondrie pleasaunt pouders, mingled together, whiche are
+caste vpon delicate meates, or put in wine against cold in the stomack
+or Collicke, wholsome for the Melancholie, or Flegmaticke bodie,
+whiche is colde or windie.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="conserve(n)"><f type="bl"/>Conserue</form> <xpln>is knowen, as of Prunes, Barberies. &#38;c. and will c<expan type="">on</expan>serue
+and kepe the strained fruites, wherein the spices with Suger, and
+sometyme swete waters are sodden together, to make it bothe to laste
+in it self, and pleasure moche the receiuer, whiche shall eate thereof,
+Mornyng and Euenyng.  Also young fruites, as Nuttes, Peares. &#38;c.
+and flowers maie bee conserued, preserued, and condited in Syrupes.
+Kepyng their forme and goodnes, with moche vertue.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="trifera saracenica(n)">Trifera saracenica</form> <xpln>against fransie, Melancholie, and coldnes. &#38;c. was in&#173;
+uented of the Saracens, to be dronke in wine.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="esdra(n)">Esdra</form> <xpln>was made by Esdras the holie man, when the people of Israel
+were in captiuitie, the great miserie and affliccion of mynde: thes was
+the bodily remedie for all the paines of the hedde, commyng of cold.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="auria alexandria(n)">Auria Alexandria</form> <xpln>was made in Alexander, and for the singuler vertue a&#173;
+
+</page>
+
+<page sig="I3r">
+gainste colde reumes, and to comfort the brain: like as golde excelleth
+all other mettalles in riches, so doe this all other in vertue.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="lohoch(n)">Lohoch</form> <xpln lexeme="lohoch sanum(n)" lexeme="lohoch de pino(n)">is a pleasaunt thyng,
+as <term lang="la">Lohoch Sanum</term>, <term lang="la">Lohoch de Pino.</term> &#38;c. This <term lang="la">Lohoch</term> is
+to licke or melte vnder the tongue, against paines in the throate, and
+lunges, and are good to helpe the cough.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="syrup(n)"><f type="bl"/>Syruppe</form> <xpln>of Liquorice, Horehounde. &#38;c. are made Simple, or Com&#173;
+pounde, to be taken a mornyng and euenyng, some be hotte, and some
+bee colde.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="rob(n)">Rob</form> <xpln lexeme="dia rob(n)">is a certaine thing made harde, and put into medicines: there is
+<term lang="la">Dia Rob,</term> very wholsom for the liuer, and put in medicins for the mouth
+as in gargarisme.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="decoction(n)">Decoction</form> <xpln>is a drinke moste wholsome to clense the bodie, or to restrain 
+or els maie bee put in Clisters, either to purge, or stoppe, accordyng to
+the nature of the sicknesse.  When ye will purge, take openyng seedes,
+leaues, barkes, rootes. &#38;c. with Suger, and seeth theim, then straine
+them through a cleane wollen clothe, adde to Suger: and let the paci&#173;
+ente drinke a Mornynges, twoo or three daies.  And when you stoppe,
+decocte Planten, Shepherdes purse, gumme Arabike. &#38;c. straine it
+and drinke mornyng and euenyng.  Note also, that Syruppes and de&#173;
+coctions be best newe, specially the decoction, whiche wil not last l<expan type="">on</expan>g.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="julep(n)">Iulep</form> <xpln>is not sodden so thicke as Syrup, but is clere made with sonde&#173;
+rie good waters and clene Suger, and are wholsome for the liuer, as
+of the waters of Chicorie, Endiue, or Sirupes and waters together.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="infusion(n)">Infusion</form>, <xpln lexeme="rhubarb(n)" lexeme="agaric(n)" lexeme="succo rosarum(n)">is when the Apothicarie doe for twelue or xxiiii. howers, put
+purgyng medicenes in water, as <term lang="la">Rhabarbe</term>, <term lang="la">Agarike</term>, <term lang="la">Succo rosarum</term>. &#38;c. and then
+straine them forthe to drinke, and purge in the mornyng.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="trochist(n)">Trochist</form> <xpln>are many, as of Cappers, Wormwoode, Rhabarbe. &#38;c. and are drie
+like small table men, vsed in medicenes, beaten into pouder, and maie 
+be long kepte.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="sufuf(n)">Sufuf</form> <xpln lexeme="galanga(n)">is a goodly Aromatike pouder, made of spices, as <term lang="la">Galanga. &#38;c.</term></xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="sief(n)">Sief</form> <xpln>is made for sore iyen, white and hard, in the forme of a little Su&#173;
+ger lofe, but skant an ynche long, whiche must be steeped in Rose wa&#173;
+ter, and womannes milke, to be applied to the iyen, to helpe them.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="collyrium(n)">Collyrium</form> <xpln>is made of Sief, when it is soft or dissolued for sore iyen.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="pill(n)"><f type="bl"/>Pilles</form> <xpln>are of sundrie kindes and natures, of greate strengthe and
+vertue, to expulse euill matter, and maie bee taken at euenyng, mor&#173;
+ning, and Ante Cibum: according to their natures, as I haue written.  but
+old Pilles are daungerous, newe are good, howbeit, perilous for very
+fat bodies.  There are also Pilles restraining, or stopping, as for flixes.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="subfimentum(n)">Subfimentum</form> <xpln>is sondrie pouders for wom<expan type="">en</expan>, cast vp<expan type="">on</expan> coles, whose smoke
+doe subtilly passe into the bodie, or matrixe, and sometyme for menne.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="nasalia(n)">Nasalia</form> <xpln>is a wholsome thyng, to be put into the nose, to comforte the
+braine: and stoppe the bledyng at the nose.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="frontaria(n)">Frontaria</form> <xpln>is good to reconcile slepe, to bee applied to the forehedde, the
+length twelue inches.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="masticatorum(n)">Masticatorum</form>, <xpln>to champe vpon, to drawe forthe flegme from the hedde,
+
+</page>
+
+<page sig="I3v">
+and to clense the teeth.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="gargarismus(v)">Gargarismus</form>, <xpln>is to gargle in the mouthe, not to swallowe it doune, to
+clense the mouthe, throte, and teeth, put in warme to.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="clister(n)">Clister</form> <xpln>is ministered bee neathe, and are of sonderie kindes: relaxyng,
+bindyng, and restoryng, and muste bee ministered, neither to colde, for
+wind, nor to hot, for excoriacion or skalding.  But temperate to clense
+and worke his proper effecte.  Clisters are good for the stone, and when
+one can take no Purgacion by the mouthe, Clisters are moste beste.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="athanasia(n)">Athanasia</form> <xpln>is <emend err="no">so</emend> named, because it is so excellent in goodnesse, againste
+the immoderate fluxe menstruall in women, it is called a medicen im&#173;
+mortall: of whiche I shall speake of more, in a perticuler booke by it 
+self, God willyng.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="epithima(n)">Epithima</form>, <xpln>are vsed inwardly for the liuer, and also fine Wolle, or rawe
+silke twilted, and steped in waters and pouders, accordyngly.  Scarlet
+in Graine, is wholsome for the same purpose.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="liniment(n)">Liniment</form> <xpln>is made to anointe, or make softe, hauyng no waxe there.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="pessis(n)">Pessis</form> <xpln>is made to be applied, into the secret place of a woman, to helpe
+the euilles of the matrixe.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="sacculum(n)">Sacculum</form> <xpln>is a bagge or twilte, wherein spice cordiall, with wholsome
+herbes are put in, and made warme with wine, vineger, or swete wa&#173;
+ter, and so applied to the stomackes of sicke folkes.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="cerot(n)">Cerot</form> <xpln lexeme="cerotum Galeni(n)">is made of Waxe, Spice, and Oile, spread vpon leather, and ap&#173;
+lied to the breste. &#38;c. as <term lang="la">Cerotum Galenj pro stomacho</term>.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="insessus(n)">Insessus</form> <xpln>is sweete herbes sodden in sweete water and wine, in whiche
+the pacient must sit at euen.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="suppositor(n)"><f type="bl"/>Suppositor</form>, <xpln>is to put vnder in at the fundamente, for to relaxe the
+bellies of weake bodies.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="fomentum(n)">Fomentum</form> <xpln>is to washe the sore bodie with herbes, whiche muste bee
+moche sodden, and applied to the sore place. &#38;c.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="dropax(n)">Dropax</form> <xpln>is good for skalde heddes, to clense them: and for women that
+would haue high forheddes, againste nature.  For a Dropax will pull of
+the heere.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="emplastrum(n)">Emplastrum</form> <xpln>is commonly knowen, and is groslie made of herbes, Spi&#173;
+ces. &#38;c. and warme to be applied to the sore, or pained place of the body</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="frication(n)">Frication</form>, <xpln>is rubbyng or chafyng of the bodie, with warme clothes in
+the mornyng.</xpln></wordentry>
+
+<wordentry type="d">
+<form lang="la" lexeme="dentifrici(v)">Dentifricj</form>, <xpln>is to make thinges to cleanse the teethe, and make theim
+white: as with dried Mallowe rootes. &#38;c.</xpln></wordentry>
+</wordgroup1>
+
+With many more pretie and apte notes of medicins, but these shall
+suffice for mannes healthe: whiche the preparers of medicenes, muste
+wisely make and obserue these. xxi. notes followyng.
+</section>
+
+</page>
+</leme>

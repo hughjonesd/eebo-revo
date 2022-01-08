@@ -1,0 +1,724 @@
+<leme no="800">
+
+<page no="72v">
+<heading>  
+A Table of certain words 
+in the Interpretation whereof 
+the Common Law of this Realme 
+and the Ciuill Law doe seeme 
+to agree. 
+</heading> 
+
+<wordgroup1 type="a" object="A"><alpha>A.</alpha> 
+
+<wordentry type="h"><form lang="la">ACcusatio</form> <xpln lang="en"> A bill of presentment, 
+is a regular fourme of complaint, 
+whereby offences, are opened and 
+punished.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Acquisitum <term lang="en">purchased</term>,</form> <xpln lang="en"> that is said to be 
+whereof the propertie is translated from one 
+to an other.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Affines</form> <xpln lang="en"> are the kinsmen of the husband and 
+the wife by mariage, so called, because two 
+kindreds which are diuerse one from the other, 
+are coupled by marryage, and one of them 
+commeth to the borders or marches of the 
+other kindred.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Ad nos pertinere</form> <xpln lang="en"> is said that which doth 
+belong vnto vs, eyther by way of propertie, or 
+by way of possession, or by charge, or by ad&shy;
+ministration.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">&AElig;des,</form> <xpln lang="en">plural: a house consisting of diuerse 
+rowmes, (for <term lang="la">domus</term> may consist onely of foun&shy;
+dation, wall, couer) as the integrall partes, or 
+as some briefly say, which consisteth of soyle 
+and superficies.</xpln></wordentry>
+</page>
+
+<page no="73r"> 
+<wordentry type="h"><form lang="la">&AElig;stas sommer,</form> <xpln lang="en">a part of the yeare, which be&shy;
+ginneth at the equinoctial of the spring, and 
+endeth at the equinoctiall of Autum, and so 
+sommer &amp; winter are deuided by vi. moneths.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Annona</form> <xpln lang="en">vittaile, is not referred onely to 
+corne, but to the meate of the shambles, aswell 
+to fish as flesh.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Aperta vis,</form> <xpln lang="en">open force, which is manifest and 
+euident, and doth not receiue any excuse of 
+simplicitie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Arbor vento deiecta,</form> <xpln lang="en"> hath not now the name 
+of a tree, but the name of wood. <term lang="la">Arbor dum 
+crescit, lignum cum crescere nescit.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Area,</form> <xpln lang="en"> a floare is a vacant place, therefore cal&shy;
+led Area <term lang="la">quasi exaruerit,</term> and were not able to 
+bring forth any thing, it hath bin taken to be 
+such an emptie place as doth lye discouered, 
+<term lang="la">locus ab aedificio purus,</term> and hath no superfi&shy;
+cies: it is called a plot of gro<expan type="u+_">un</expan>d, court or yard.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Argentum</form> <xpln lang="en"> siluer, it is of three sorts, <term lang="la">infectu<expan type="u+_">un</expan>, 
+factum, signatum. Infectum</term> is that which is 
+vnpollished and not adorned with any particu&shy;
+lar forme being in the ore, or bullion, newly 
+seuered and singled from the ore. <term lang="la">Factum,</term> is 
+that which is beutified with some particuler 
+forme, of which kind is a siluer cuppe, a siluer 
+goblet, a siluer bowle, or a siluer mazard. <term lang="la">Sig&shy;
+natum</term> is that which beareth some speciall I&shy;
+mage or impression, &amp; such is the siluer that is 
+coined &amp; accompted currant, <term lang="la">Argentum fact<expan type="u+_">un</expan></term> 
+</page>
+
+<page no="73v"> 
+must be described by the kinde or shape, <term lang="la">In&shy;
+fectum</term> by the weight, <term lang="la">Signat<expan type="u+_">um</expan></term> by <expan type="y+e">the</expan> number.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Arrestare,</form> <xpln lang="en">is by the authoritie or warrant 
+of the lawe, to hinder that either a man or his 
+goodes bee at his owne libertie, vntill the 
+lawe be satisfied.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Artifices,</form> <xpln lang="en"> artificers, are they which sell 
+things laboured by them, and by their labour 
+reduced into a particular forme, as Shoma&shy;
+kers, Smithes, Glouers, Taylors and Wea&shy;
+uers, but <term lang="la">artificium</term> if it be largely taken, ex&shy;
+tendeth to <expan type="y+e">the</expan> knowledge of euery arte: <term lang="la">artifex</term> 
+and <term lang="la">opifex</term> differ, for in the one there is labour 
+and iudgement, in the other labour only.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Assultus,</form> <xpln lang="en">an assault is a violence done to a 
+mans person, by the person of an other man.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B.</alpha> 
+
+<wordentry type="h"><form lang="la">Bona fides</form> <xpln lang="en">a sincere conscience, excusing one 
+of ill meaning.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C.</alpha> 
+
+<wordentry type="h"><form lang="la">Carcer</form> <xpln lang="en">is taken two wayes, for it is eyther 
+<term lang="la">locus custodiae,</term> or <term lang="la">locus p&aelig;n&aelig;</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Cauillatio </form> <xpln lang="en">when a man turneth his speach <term lang="la">ab euidenter veris, ad euidenter falsa</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Cella</form> <xpln lang="en">because there we do <term lang="la">celare,</term> we do hide 
+that which we would keepe secret or close.</xpln></wordentry> <P> 
+
+<wordentry type="h"><form lang="la">Ciuitas,</form> <xpln lang="en"> a citie: it is taken materially, and 
+formally: being vnderstoode materially, it 
+doth signifie a multitude of houses made of 
+stone and timber, being formally taken it is 
+<term lang="la">ciuilis societas quasi societas simul viuens,</term> and 
+</page>
+
+<page no="74r"> 
+not <term lang="la">viuens</term> simplie, but <term lang="la">viuens bene,</term> for as 
+<term lang="la">Cicero</term> saith, <term lang="la">ciuitas sine legibus</term> is <term lang="la">corpus sine 
+anima,</term> and therefore <term lang="la">Aristotle</term> sayth, <term lang="la">non con&shy;
+cedimus vt homo imperet sed ratio.</term> </xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Cliens,</form> <xpln lang="en">is he that is in suite, so called <term lang="la">quasi 
+colens,</term> and hee who dealeth for him in the 
+cause is called <term lang="la">patronus, quasi pater.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Codicillus,</form> <xpln lang="en">the declarati<expan type="o+_">on</expan> of a m<expan type="a+_">an</expan>s last wil, 
+which without the iust solemnitie of a testa&shy;
+ment a man <term lang="la">ob impedimenti necessitatem</term> is 
+inforced to write, but now the vse of codicills 
+or testaments are without any necessitie con&shy;
+founded, which is contrary to lawe, for a codi&shy;
+cill ought to serue necessitie, &amp; not a rash onset.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Cognatio</form> <xpln lang="en">kindred, it is deuided into three 
+parts; 1. into parents, 2. into childr<expan type="e+_">en</expan>, 3. into cosins. Parents are they of whom we are be&shy;
+gotten, as father, mother, grandfather, grand&shy;
+mother, and these which are in degree aboue 
+them. Children are they which are begotten 
+of our bodies, as sonne, daughter, grandchild, 
+and such as he vnderneath them, <term lang="la">Et nati nato&shy;
+rum et qui nascentur ab illis.</term> Cosins are they 
+which haue neither begotten vs, nor bin begot&shy;
+ten of vs, but haue a common roote and origi&shy;
+nall with vs, as brother, sister, vncle, aunt, and 
+such as do discend from them.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Colludere,</form> <xpln lang="en">is <term lang="la">in fraudem tertij conuenire</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Commenda,</form> <xpln lang="en">the custodie of a Church com&shy;
+mitted and commended to some.</xpln></wordentry> 
+</page>
+
+<page no="74v"> 
+
+<wordentry type="h"><form lang="la">Commodare</form> <xpln lang="en">is to graunt the vse of some 
+thing for a certain time, there is difference be&shy;
+twixt <term lang="la">commodare</term> &amp; <term lang="la">mutuo dare,</term> because <term lang="la">c<expan type="u+_">om</expan>&shy;
+modare</term> is to lend, to haue the same againe, as 
+bookes, apparel, and such like, but <term lang="la">mutuo dare</term> 
+is to trust, hoping to haue the like againe, as 
+money, corne, salt, spices, and such like.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Compromissum,</form> <xpln lang="en">is the power that is giuen 
+to the arbitrator, so called because both the 
+parties doe promise to obey the opinion of the 
+Iudge, &amp; therfore he is called <term lang="la">compromissari&shy;
+us index</term> to whom the matter is referred.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Communitas,</form> <xpln lang="en">a comminalty, is <term lang="la">societas ho&shy;
+minum communi lege viuentium</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Conditio,</form> <xpln lang="en">when a thing dependeth <term lang="la">super ca&shy;
+sum incertum</term> which may tende eyther <term lang="la">ad esse</term> 
+or <term lang="la">ad non esse.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Confessio,</form> <xpln lang="en">is double: either iudicial, or extra&shy;
+iudicial, iudiciall is that which is done before 
+the Iudge, extraiudicial which is done in pre&shy;
+sence of good and honest men.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Consentire,</form> <xpln lang="en">is to meete in one opinion.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Constitutiones,</form> <xpln lang="en">Iudgements, rules and a&shy;
+wardes concerning seueral matters whereup&shy;
+on this verse hath bin made.
+<lemeformat>
+<term lang="la">Quatuor ex verbis virtutem collige legis, 
+Permittit, punit, imperat, at<expan type="q3">que</expan> vetat.</term> </lemeformat>
+</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Controuersum ius,</form> <xpln lang="en">is that which is on both 
+sides doubtful: <term lang="la">certum ius</term> is that which is cer&shy;
+tainly determined &amp; is called positiue Law.</xpln></wordentry> 
+</page>
+
+<page no="75r"> 
+<wordentry type="h"><form lang="la">Copulatiua</form> <xpln lang="en"> the coniunction copulatiue is 
+taken after two sorts, either in a deuided sense, 
+or in a compounded sense, in a deuided sense as 
+when I say, <term lang="la">Sir Robert Booke,</term> and <term lang="la">Sir Iames 
+Dyer</term> were Lord chiefe, Iustices of the C<expan type="o+_">om</expan>mon 
+pleas, for they were not chiefe Iustices toge&shy;
+ther, but at diuerse times: in a compounded 
+sense, as when I say two &amp; three do make fiue. </xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D.</alpha> 
+
+<wordentry type="h"><form lang="la">Debito</form> <xpln lang="en">is he of whom we may against his wil 
+exact money.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Decim&aelig;</form> <xpln lang="en">are of three sorts <term lang="la">pr&aelig;diales, perso&shy;
+nales,</term> and <term lang="la">mixt praediales</term> are they which arise 
+of farmes or lands, as corne, hay, and the fruits 
+of trees: <term lang="la">personal</term> which are due by personall 
+labor, as by some trade, trafick, or mistery, <term lang="la">mixt</term> 
+of which it may be doubted whether they be 
+predial or personal as wool, lambe, milke &amp;c.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Defensio,</form> <xpln lang="en">is the auoiding of a surmised &amp; pre&shy;
+tended offence.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Delegatus</form> <xpln lang="en">a delegate, to whom a cause is c<expan type="o+_">om</expan>&shy;
+mitted to be determined and ordered.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">De plano, vel sine figura iudicij, vel sum&shy;
+marie.</form> <xpln lang="en"></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Deprehendere,</form> <xpln lang="en">is to take a man in <term lang="la">ipso 
+facto,</term> so that he can neuer flye, nor denye the 
+facte.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Discendere</form> <xpln lang="en">to discende or to spring of ones 
+body, hereupon they which are borne of vs are 
+</page>
+
+<page no="75r">
+called by the name of discendents, which with 
+them that ascend make the right line, and the 
+ascendents and discendents cannot marry to&shy;
+gether, wherefore if <term lang="la">Adam</term> were now liuing 
+he could not marrie a wife.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Di&oelig;cesis,</form> <xpln lang="en">the gouernment of a certaine 
+prouince by the Bishop, for as a territorie is 
+so called, <term lang="la">quatenus iudex ius terrendi habet,</term> 
+so a diocese as farre as a Bishop hath <term lang="la">ius ad&shy;
+ministrandi sacra.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Dispensatio,</form> <xpln lang="en">a release of common right, ei&shy;
+ther <term lang="la">ex causa vtilitatis, necessitatis</term>, or <term lang="la">ingen&shy;
+tis pr&aelig;rogatiu&aelig; meritorum</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Diuersa,</form> <xpln lang="en"> such things whose subiect is not 
+alike, or whose definition is not alike.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Dominium</form> <xpln lang="en">is a right to dispose perfitly <term lang="la">de 
+re corporali.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Domus instructa,</form> <xpln lang="en">a house furnished, if a 
+man deuise such a house the household stuffe 
+passeth, but not the wine that is within the 
+house, because by common intendement a 
+house is not furnished by wine.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Dubia causa,</form> <xpln lang="en">is that which is but <term lang="la">semiple&shy;
+ne probata.</term></xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>E.</alpha> 
+<wordentry type="h"><form lang="la">Error,</form> <xpln lang="en">an opinion, whereby that is approo&shy;
+ued and allowed to be true which is false, and 
+that to be false which is true, and error may be 
+two wayes, eyther <term lang="la">in iure constituto,</term> or els 
+</page>
+
+<page no="76r">
+<term lang="la">in iure quod quis in suo habet negotio,</term> the 
+one is an error in lawe, the other <term lang="la">in facto.</term> </xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Euanescit actio,</form> <xpln lang="en">the action doth faile, or 
+abate, <term lang="la">euanescit actio,</term> by the power of the 
+lawe, or of the Iudges, <term lang="la">remittitur actio,</term> by the 
+will of the plaintife.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Executor,</form> <xpln lang="en"> an executor, which is after three 
+sorts, <term lang="la">executor testamentarius, executor le&shy;
+galis,</term> that is to say the ordinarie, <term lang="la">executor da&shy;
+tiuus,</term> the administrator.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Election,</form> <xpln lang="en">is the certainetie of our will, it 
+may be of persons, or of thinges, places, or 
+times: Of things, as if a man should pay a 
+summe of money, or els a horse or a hawke: 
+Or of persons, as if he should pay it to I. S. 
+or to I. N. Or of places, as if he should pay it 
+at London, or at Lincolne. Or of the time, as 
+the first day of April, or the second day of May.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>F.</alpha> 
+<wordentry type="h"><form lang="la">Falsitas,</form> <xpln lang="en">falshood is <term lang="la">immutatio veritatis cum 
+doto &amp; damno alterius,</term> the chaunge of truth 
+with falsehoode to the deceiuing and endama&shy;
+ging of an other man.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Fama,</form> <xpln lang="en">is a common report proceeding from 
+suspition, and published by the voices of men, 
+and it differeth from rumor, because that is a 
+diuerse whispering of men, which is not so 
+effectuall as Fame. <term lang="la">Fama constans</term> is that 
+which is dispersed abroade neither by men 
+</page>
+
+<page no="76v">
+vnknowen, nor of light credit, <term lang="la">nec ignotis nec improbis.</term> </xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Fideiussor</form> <xpln lang="en"> is he which bindeth himselfe for 
+another, <term lang="la">quasi inssu alterius ponens fidem 
+suam.</term></xpln>
+<lemenote>
+"Fideiussor" is partly supplied from the 1620 edition.
+</lemenote>
+</wordentry> 
+
+<wordentry type="h"><form lang="la">Fortuitus casus,</form> <xpln lang="en">a meare chaunce which by 
+mans counsaile, care, and diligence can ney&shy;
+ther <term lang="la">pr&aelig;uideri</term> or <term lang="la">pr&aelig;caueri,</term> be fore-seene or 
+foreclosed.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G.</alpha> 
+<wordentry type="h"><form lang="la">Generalis lex,</form> <xpln lang="en">a general law which compre&shy;
+hendeth all cases, except such as be vnlawfull, 
+and vniust. For there is nothing more absurde 
+then to draw a iust Lawe to an vniust inter&shy;
+pretation.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Germani fratres</form> <xpln lang="en">are they which are of the 
+same Father &amp; Mother, <term lang="la">Consanguinei</term> which 
+haue the same Father, but not the same Mo&shy;
+ther, <term lang="la">Vterini</term> which haue the same Mother, but 
+not the same Father.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Gestores negotion<expan type="u+_">um</expan>,</form> <xpln lang="en"> factors or procurators 
+be of three sorts, <term lang="la">voluntarij</term> which <term lang="la">gratis</term> and 
+of their owne accord do regard the busines of 
+their friend: <term lang="la">Necessarij</term> which by obligation 
+of their office doe follow matters: <term lang="la">Quasi ne&shy;
+cessarij,</term> which haue some colour to deale in 
+matters.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Graeca mercari fide. i. pecunia numerata</form> 
+<xpln lang="en">with money paied in hand.</xpln></wordentry> 
+</wordgroup1>
+</page>
+
+<page no="77r">
+<wordgroup1 type="a" object="I"><alpha>I.</alpha> 
+<wordentry type="h"><form lang="la">Illegitimi</form> <xpln lang="en">bastardes, whereof there be three 
+sortes, <term lang="la">Incestuosi</term> which be begotten of kins&shy;
+men and kinswomen within the degrees pro&shy;
+hibited: <term lang="la">Nefarij,</term> which are begotten of des&shy;
+cendents, the chyldren of the same parent: 
+<term lang="la">Spurij,</term> or <term lang="la">Adulterini,</term> which are borne in ad&shy;
+ulterie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Iniuria</form> <xpln lang="en">whatsoeuer is done against law and 
+right, whether by wordes, as by slander: or by 
+deede, as by violence of hand.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Inops sine ope</form> <xpln lang="en">without helpe, which hath 
+no wealth nor maintenance, whereby he may 
+helpe himselfe.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Instaurare,</form> <xpln lang="en">is to bring a thing into his four&shy;
+mer estate.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Insula,</form> <xpln lang="en">a plot of ground compassed on all 
+sides with the sea, <term lang="la">quasi in fato posita,</term> it is of 
+two sortes: <term lang="la">Perpetua,</term> and <term lang="la">Natiua. Perpetua,</term> 
+which hath bin from time out of minde part of 
+a Prouince: <term lang="la">Natiua,</term> which hath bin lately dis&shy;
+couered by the ebbe and drought of waters.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Interlocutoria sententia,</form> <xpln lang="en">which doth not de&shy;
+fine or determine the controuersie, for that is 
+called <term lang="la">sententia definitiua:</term> an Awarde.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Iudex limitaneus,</form> <xpln lang="en">which hath a limitted in&shy;
+risdiction, as the Lord in Court Baron who 
+onely holdeth plea of a summe vnder xl. shil&shy;
+linges, and within the precinct of his Man&shy;
+nour.</xpln></wordentry> 
+</page>
+
+<page no="77v">
+<wordentry type="h"><form lang="la">Iuramentum</form> <xpln lang="en">an oath, it is the affirming or 
+denying of a thing with religious assertion, or 
+attestation, and it is double: <term lang="la">Extraiudicial</term> or 
+<term lang="la">Iudicial. Extraiudicial,</term> as <term lang="la">Iuramentum con&shy;
+uentionale,</term> when vppon a bargaine one doth 
+sweare to an other. <term lang="la">Iudicial</term> is of two sorts, 
+<term lang="la">Necessarium,</term> &amp; <term lang="la">Suppletiuum: Necessarium,</term> 
+which is <term lang="la">ad litem &aelig;stimandam,</term> when witnes&shy;
+ses are produced by the parties. <term lang="la">Suppletiuum,</term> 
+when the Iudge doth enforce the partie him&shy;
+selfe to sweare for want of other proofes.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Inseperabile,</form> <xpln lang="en">that is said to be which is so 
+inherent in the subiect, that it cannot be remo&shy;
+ued, but they do either stand together or fall 
+together. A thing may be said to be indiuidual 
+or inseperable in many respects, 1. according 
+to the fourme required in the act: And there&shy;
+fore if three be bound iointly, they must be sued 
+iointly, 2. by reason of necessarie depending, 
+and therefore the principal being defeated, the 
+accessorie is also destroyed, because it cleaueth 
+inseperably vnto the principal: and therfore if 
+the marriage be not lawfull, the endowment 
+cannot be lawfull, 3. by the meaning of the 
+parties: as when a submission is made to two 
+arbitrators, it is not to be imagined that the 
+parties had an intent of seuerance, 4. by the 
+nature of the thing: as when a thing will not 
+suffer a particion: as a seignorie in grosse, a 
+common, a condition, and so a iurisdiction is an 
+</page>
+
+<page no="78r">
+entier thing: and therfore if a man will bring 
+an action in a base Court of a debt of 4. li. it 
+is not good for thirtie shillinges, or a lesse 
+summe: for a Iudge or officer hath a precise 
+power of the Law, and if he passe his iurisdic&shy;
+tion, his sentence or act is voide.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Integrum</form> <xpln lang="en">is that which is compounded of 
+diuerse partes, for partes compacted &amp; ioyned 
+together doe make the whole, but an entier 
+thing may be diuersly: for it may be eyther 
+<term lang="la">totum numerale</term> consisting of many numbers 
+lincked together, 2. <term lang="la">totum vniuersale,</term> as the 
+general nature wherof the particulers ar com&shy;
+prehended: as <term lang="la">homo</term> of animal, <term lang="la">auis</term> of <term lang="la">bru&shy;
+tum</term>, 3. <term lang="la">totum integrale</term> which is made whole 
+and entier by many partes, and it is of two 
+sorts, <term lang="la">Heterogene<expan type="u+_">um</expan>,</term> and <term lang="la">Homogeneum: He&shy;
+terogeneum</term> the partes whereof are not of the 
+nature of the whole thing, as a house which 
+doth consist of soyle, stone, woode, morter, &amp; co&shy;
+uer. <term lang="la">Homogeneum</term> which is of the same na&shy;
+ture with <expan type="y+e">the</expan> whole, as water, fier, earth, wher&shy;
+of euery part hath the name of the whole.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L.</alpha> 
+<wordentry type="h"><form lang="la">Lacus</form> <xpln lang="en">is that which hath <term lang="la">perpetu<expan type="a+_">am</expan> aquam. 
+Stagnum</term> that which hath water at sometime, 
+and is sometime drie. <term lang="la">Fossa</term> a receptacle for 
+water made by mans hand.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Lana,</form> <xpln lang="en">wolle, which may be cloath, but 
+yet is not wrought in cloath. And if a man 
+</page>
+
+<page no="78v">
+by his will do deuise his wolle to any, be it 
+wrought or not wrought, dyed or not dyed, or 
+be it spunne, it is comprised vnder the name of 
+wolle, and it is called by the name of Wolle 
+vntill it be made cloth.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Littus,</form> <xpln lang="en">that place to which the greatest 
+floude of the sea doth come.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M.</alpha> 
+
+<wordentry type="h"><form lang="la">Maiestas,</form> <xpln lang="en">a soueraigne honour: Maiestie is said to be the daughter of honor &amp; reuerence.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Marinum et Maritinum</form> <xpln lang="en">do thus differ, <term lang="la">Ma&shy;
+rinum</term> is that <term lang="la">quod Mare incolit,</term> which lyueth 
+in the Sea, or which is bredde in the sea, <term lang="la">Ma&shy;
+ritinum quod Mare accolit,</term> which is adioy&shy;
+ning, or adiacent vnto the sea.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Mercator,</form> <xpln lang="en">a Merchant, is not as some think 
+tearmed a Merce, but of the word <term lang="la">Mercor,</term> 
+which signifieth to buy, and they are properly 
+tearmed <term lang="la">Mercatores, qui res emunt quas in 
+eadem specie cari&uacute;s vendant.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Moneta, &agrave; monendo,</form> <xpln lang="en">Money, so tearmed, 
+because by the impression of the stampe it doth 
+giue vs notice, either of the prince whose it is, 
+or the price which it beareth: It taketh <term lang="la">Le&shy;
+gem valoris,</term> the rule of the value of the superi&shy;
+our, &amp; therefore it cannot be abased or refused, 
+but by the commaundement of the superiour.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Mortua res,</form> <xpln lang="en">that is said to be by which a 
+man is not richer.</xpln></wordentry> 
+</page>
+
+<page no="79r">
+<wordentry type="h"><form lang="la">Motu proprio, ex certa scientia, de pleni&shy;
+tudine potestatis,</form> <xpln lang="en">are <term lang="la">pr&aelig;gnantes clausul&aelig;,</term> 
+clauses of importance, against which none 
+may be heard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Mutuum,</form> <xpln lang="en"><term lang="la">quasi ex meo tuum.</term></xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>N.</alpha> 
+
+<wordentry type="h"><form lang="la">Narratio,</form> <xpln lang="en">a declaration of a matter eyther 
+<term lang="la">ore tenus</term> or in forme of law: If it be <term lang="la">ore te&shy;
+nus,</term> it is called a motion, &amp; thereof it is said, 
+<term lang="la">qui bene narrat, bene impetrat:</term> If it be in 
+forme of law, it is a declaration grounded vp&shy;
+on a writ, contayning the whole state of the 
+matter, as the plaintife supposeth it.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Naturaliter possidere</form> <xpln lang="en">he is said, which pos&shy;
+sesseth a thing corporally, &amp; taketh the profits
+ of the thing possessed, and this of the common 
+ Lawyers is called <term lang="la">possessio in facto:</term> But if a 
+ mans father die seised, &amp; the sonne doth not en&shy;
+ter, nor actually take the profites, neither doth 
+any other disturbe him to take possession, this 
+is called a possession in law, or <term lang="la">eiuilis possessio.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="la">Negotium meum,</form> <xpln lang="en">that is said to be, <term lang="la">cuius 
+luerum &amp; damnum ad me pertinet</term>.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O.</alpha> 
+<wordentry type="h"><form lang="la">Obuentio</form> <xpln lang="en">is a kind of reuenew: it differeth 
+from <term lang="la">Reditus,</term> being strictly taken, in this, that 
+<term lang="la">obu<expan type="e+_">en</expan>tiones</term> are <term lang="la">conting enti<expan type="u+_">un</expan>, reditus certor<expan type="u+_">um</expan>.</term> </xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Oculis res subijci dicitur</form> <xpln lang="en">when it is plaine &amp; 
+manifest, it is well said of Erasmus, <term lang="la">ad cogni&shy;
+tionem magis faciuntaures, ad fidem facien&shy;
+</page>
+
+<page no="79v">
+dam certiores sunt oculi.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Officialis,</form> <xpln lang="en">an Officiall, who in a certaine 
+part of the diocesse is the Bishops deputie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Opera</form> <xpln lang="en">labour, it is double, <term lang="la">Officialis,</term> and 
+<term lang="la">Artificialis: Officialis,</term> is that which is spent &amp; 
+bestowed vpon the diligent attendance done 
+by the seruant to the Master. <term lang="la">Artificialis,</term> is the 
+labour of the trade, as Printing, paueing, 
+seeling, graueing, embrodering, &amp; such like.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P.</alpha> 
+
+<wordentry type="h"><form lang="la">Pactum</form> <xpln lang="en">is the consent of two or more in a 
+matter which pleaseth both parties, <term lang="la">Pollici&shy;
+tatio</term> is when there is not the consent of two, 
+but onely one agreeth. <term lang="la">Pactio nuptialis</term> is a 
+Matrimonial contract. <term lang="la">Pactum retrouend<expan type="e+_">en</expan>di</term> 
+is when the vendee couenanteth, that if the 
+vendor or his heires or executors will within a 
+certain time pay so much money, as the vendee 
+doth pay, that then he shall haue the land again, 
+and be in his former estate.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Palam fact<expan type="u+_">um</expan></form> <xpln lang="en"> is that which is done op<expan type="e+_">en</expan>ly. <term lang="la">Pub&shy;
+lice fact<expan type="u+_">um</expan></term> is that which is done <term lang="la">cor<expan type="a+_">am</expan> populo.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Paries,</form> <xpln lang="en">a wall; thereof there be diuerse 
+kindes: <term lang="la">Lateritius</term> which is made of clay, <term lang="la">Tes&shy;
+taceus</term> which is made of bricke, <term lang="la">C&oelig;mentarius</term> 
+which is made of lime, stone, and water ming&shy;
+led together, <term lang="la">Cratitius</term> which is made of wood, 
+boardes, or boughes, platted together.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Par&aelig;cos,</form> <xpln lang="en">a parishioner, an inhabitant in a 
+certaine place, who hath brought his houshold 
+</page>
+
+<page no="80r">
+to a certaine place, to reside there.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Pr&aelig;tor maior,</form> <xpln lang="en"> the Maior of a city, as <term lang="la">Rhodigi&shy;
+nus</term> saith: for others ar called <term lang="la">Pr&aelig;tores minores.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Priuilegium</form> <xpln lang="en"> is ius singulare, whereby a 
+priuate man, or a particuler Corporation is 
+exempted from the rigor of common Law, for 
+that which is now called <term lang="la">proprium,</term> hath bin 
+called of olde writers <term lang="la">priuum.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Proprium</form> <xpln lang="en">that which doth so belong to one 
+that it is not c<expan type="o+_">om</expan>mon to an other, &amp; though that 
+wherein we haue a ioint propertie with others 
+may be called <term lang="la">nostrum:</term> yet it cannot be called 
+<term lang="la">propri<expan type="u+_">um</expan>,</term> for <term lang="la">propri<expan type="u+_">um</expan></term> doth not admit any com&shy;
+munion, but <term lang="la">proprium</term> &amp; <term lang="la">suum</term> be equipollent, 
+and of the same sense.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Puer</form> <xpln lang="en">hath three significations, either it sig&shy;
+nifieth the estate of a man: as when we call ser&shy;
+uants <term lang="la">pueros</term>: Secondly the sexe, as when we 
+call a male child <term lang="la">puerum</term>: Or els the age, as 
+when we call one that is yong <term lang="la">puerum.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Pars</form> <xpln lang="en">is that wherby the whole is supported, 
+it is either <term lang="la">pars diuisa,</term> or <term lang="la">pars indiuisa,</term> this di&shy;
+uision wil hold both in nature &amp; Law: In na&shy;
+ture that i<emend err="d">s</emend> a diuided part, which consisteth of 
+diuerse parcels: as the wing of a bird, or the 
+clouen hoofe of a beast, or the finne of a fish are 
+said to be parts diuided: In law there is also a 
+diuided part, as the third part wherof a woman 
+is indowed after the death of her husb<expan type="a+_">an</expan>d, &amp; after 
+the assignment made, and the third part of the 
+</page>
+
+<page no="80v">
+land of the tenant in <term lang="la">Capite,</term> which the king 
+hath after his death: Likewise the partes of a 
+manor diuided by parceners: A part vndiuided 
+is manifest to the vnderstanding &amp; to the eye: 
+to the vnderstanding, as the moitie or third 
+part of iointenants, parceners, ten<expan type="a+_">an</expan>ts in com&shy;
+mon, before particion: to the eye, as the vn&shy;
+clouen hoofe of a beast, or the partes of the 
+earth cleauing contumately together. </xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R.</alpha> 
+<wordentry type="h"><form lang="la">Ripa,</form> <xpln lang="en">a banke, it is proper to a floude, as the 
+shoare is to the sea. <term lang="la">Ripa</term> is that which doth 
+<term lang="la">flumen continere,</term> stay the natural force of his 
+course, and that is said to be a banke, <term lang="la">qu&aelig; ple&shy;
+nissimum flumen continet,</term> which stayeth the 
+water, when it is at the highest.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S.</alpha> 
+<wordentry type="h"><form lang="la">Sequestratio</form> <xpln lang="en">is either a seperation, by way 
+of compounding, or by interdiction of possessi&shy;
+on: It is <term lang="la">voluntaria,</term> or <term lang="la">necessaria, Voluntaria,</term> 
+when it is done by the consent of the parties, 
+<term lang="la">Necessaria,</term> when it is done by one that hath a 
+competent aucthoritie to sequester.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Sylua c&aelig;dua,</form> <xpln lang="en">which being cut may grow 
+againe.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T.</alpha>
+<wordentry type="h"><form lang="la">Tugurium, quasi tegurium,</form> <xpln lang="en"> it is taken of 
+some for euery countrie house, but not rightly, 
+</page>
+
+<page no="81">
+for the house which doth consist of walles and 
+tiles or bricke is no cotage, but a cotage is 
+that which doth principally consist of reedes 
+or thatch or soddes, earth and twigs layed to&shy;
+gether, and compacted by clay or slime, or 
+which hath in it a very small deale of tim&shy;
+ber.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Tumultus</form> <xpln lang="en">is taken for euery perilous com&shy;
+motion, if it be publiquely and hastely done.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Turba,</form> <xpln lang="en">a multitude, consisting at the least 
+of the number of tenne.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V.</alpha> 
+<wordentry type="h"><form lang="la">Vacillaus testis,</form> <xpln lang="en">which doth giue an incon&shy;
+stant and diuerse testimonie.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Vagabundus,</form> <xpln lang="en">which hath neither certaine 
+house, nor stedfast habitation, a man, as one 
+tearmeth him, <term lang="la">sine re, sine spe, sine fide, sine 
+sede.</term></xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Vel,</form> <xpln lang="en">a particle, it doth not alwayes dis&shy;
+ioyne, but sometimes explane.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Vis</form> <xpln lang="en">force or violence: it is of diuers sorts, 
+<term lang="la">vis detractiua,</term> when a man taketh a thing 
+from one against his will: <term lang="la">vis compulsiua,</term> 
+when I compell a man to assent to a certaine 
+acte, <term lang="la">vis diuina,</term> commonly called <term lang="la">vis maior,</term> 
+whereof there is no resistance: <term lang="la">vis expulsiua,</term> 
+which is done with weapon, and it is called 
+of some <term lang="la">vis armata, vis inquietatiua,</term> when I 
+</page>
+
+<page no="81v">
+am disseised by force, <term lang="la">vis imminens</term> the striking 
+or assault of a man. <term lang="la">Vis</term> is not <term lang="la">verbis,</term> but <term lang="la">facto,</term> 
+for he is not said <term lang="la">vim pati,</term> which is onely tou&shy;
+ched by wordes.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">Vniuersale quod ad vniuersos pertinet.</form> <xpln lang="en"></xpln></wordentry> 
+</wordgroup1>
+</page>
+</leme>
+
+ 

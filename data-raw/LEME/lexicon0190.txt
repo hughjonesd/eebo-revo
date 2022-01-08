@@ -1,0 +1,2297 @@
+
+
+<leme no="190">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 5 7 9 0
+
+v e r . 1 . 0  ( 2 0 1 8 )
+</term>
+</lemepagenote>
+<section type="title page">
+<heading>
+The Spanish
+
+GRAMMER:
+</heading>
+
+With certeine Rules teaching both the
+Spanish and French tongues.
+
+By which they that haue some knowledge in the French
+tongue, may the easier attaine to the Spanish; and like&shy;
+wise they that haue the Spanish, with more facilitie 
+learne the French: and they that are acquain&shy;
+ted with neither of them, learne either or
+both. Made in Spanish, by M. An&shy;
+thonie de Corro.
+
+With a Dictionarie adioyned vnto it, of all the Spanish
+wordes cited in this Booke:  and other more wordes 
+most necessarie for all such as desire the know&shy;
+ledge of the same tongue.
+
+By Iohn Thorius, Graduate in Oxenford.
+
+Imprinted at London by Iohn Wolfe.
+1590.
+</section>
+
+
+</page>
+
+<page sig="a1v">
+<section type="dedication">
+<expression lang="la">
+REVERENDISSIMO
+IN CHRISTO PARTRI, PR&AElig;VLI&shy;
+QVE PR&AElig;TANTISSIMO, DOMI&shy;
+NO IOHANNI WHITGIFT, SS.
+THEOLOGI&AElig; DOCTORI, CAN&shy;
+TVARIENSI ARCHIEPISCOPO,
+ET TOTIVS ANGLI&AElig; PRIMA&shy;
+TI, VIRO OMNI PIETA&shy;
+TIS, MORVM ET LIT&shy;
+TERARVM, LAVDE
+ILLVSTRI;
+IOHANNES THORIVS
+HANC GRAMMATICAM &Agrave; SE EX
+HISPANICO AD ANGLORVM V&shy;
+SVM CONVERSAM ET DICTIO&shy;
+NARIOLO LOCVPLETATAM; IN 
+GRATI ANIMI TESTIMO&shy;
+NIVM CONSE&shy;
+CRAVIT.
+</expression>
+</section>
+
+
+</page>
+
+<page sig="a2r">
+<section type="Epistle to the Reader">
+<heading>
+The Epistle to the Reader.
+</heading>
+
+GEntle Reader, many suppo&shy;
+sing their Bookes to bee no 
+bookes, vnlesse they bee en&shy;
+larged with tedious prefa&shy;
+ces; they abuse the Readers
+curtesie with superfluous relations: filling
+the first sheete with vaine prayses of the
+matter and subiect of their Pamphlets. I 
+therfore vnwilling to staie you with need&shy;
+lesse prayses; meane not heare to write an
+<term lang="gr"></term> in commendation of the Spanish or
+French tongue: leauing the consideration
+therof vnto euery one his liking, to thinke
+of these tongues according to their owne
+opinion or pleasure.  But thus muche I
+thought necessary to aduertise the Reader
+of; that this Grammar was first written
+the greater part of it in Spanish, and a litle
+of the ende in French; in such manner that
+none could reape any benefit by reading of
+it, but such as were acquainted with both
+the foresayd languages. In so much that I
+beeing requested by diuers, but especially
+
+
+</page>
+
+<page sig="a2v">
+mooued with loue and affection toward
+my country men (beeing most ready at all
+time to vndertake any labour to procure
+their ease, and imploy my dearest time to 
+do them pleasure) haue in such sort trans&shy;
+lated &amp; altered this booke, that any Eng&shy;
+lish man may vse it to his profite. And to
+the ende that the one language may easily
+be knowne from the other, I haue caused it
+to be printed in three sundry kindes of let&shy;
+ters. Besides this, for better order and to a&shy;
+uoyde all confusion, I haue deuided it into 
+sundry parts and sexions: and at the ende
+added a Dictionarie of all the Spanish
+words set down for example in this Gram&shy;
+mar, and also many other wordes most v&shy;
+sed. Which paynes (gentle Reader) I shall
+thinke well imployde if it may doo you
+good and redowne to your profit: reque&shy;
+sting no other meede for my labour, then 
+to haue it accepted as a token of my good
+will and meaning.  And thus I commit
+you to your accustomed exercises, and the 
+further reading of our Grammar. 
+</section>
+
+
+</page>
+
+<page sig="A1r">
+<section type="Dictionary">
+<heading>
+The Spanish
+
+DICTIONARIE.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+
+<wordentry type="h"><form  lang="sp" lexeme="abierto">ABierto</form> <xpln lexeme="open(a)" lang="en"><f type="bl"/>open.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="abogacia">Abogacia</form> <xpln lexeme="bribery(n)" lang="en"><f type="bl"/> bribery.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="abolorio">Abolorio</form> <xpln lexeme="genealogy(n)" lexeme="petigree(n)" lang="en"><f type="bl"/>a genealogy or pet&shy;
+tigree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="abonado">Abonado</form> <xpln lexeme="endowed(a)" lexeme="begifted(a)" lexeme="made good(a)" lang="en"><f type="bl"/>endowed, begifted,
+made good.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="abrir">Abrir</form> <xpln lexeme="open(v)" lang="en"><f type="bl"/>to open.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="abra&ccedil;ar">Abra&ccedil;ar</form> <xpln lexeme="embrace(v)" lang="en"><f type="bl"/>to embrace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="absolution">Absolution</form> <xpln lexeme="absolution(n)" lang="en"><f type="bl"/>absolucion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aburar">Aburar</form> <xpln lexeme="burn(v)" lang="en"><f type="bl"/>to burne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="abuelo">Abuelo</form> <xpln lexeme="grandfather(n)" lang="en"><f type="bl"/>a grandfather.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aca">Aca</form> <xpln lexeme="hither(adv)" lang="en"><f type="bl"/>hither.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acabar">Acabar</form> <xpln lexeme="finish(v)" lexeme="end(v)" lang="en"><f type="bl"/>to finish, to end.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aca&euml;cer">Aca&euml;cer</form> <xpln lexeme="chance(v)" lexeme="happen(v)" lang="en"><f type="bl"/>to chaunce, to happen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="achaque">Achaqu&egrave;</form> <xpln lexeme="causing(n)" lexeme="occasion(n)" lexeme="cause(n)" lang="en"><f type="bl"/>a causing, an occasion or
+cause.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acertar">Acertar</form> <xpln lexeme="hit the mark(v)" lexeme="hit on(v)" lang="en"><f type="bl"/>to hit the marke, to hit on
+a thing. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aculla">Aculla</form> <xpln lexeme="there(adv)" lexeme="thither(adv)" lexeme="that way(n)" lexeme="thence(adv)" lang="en"><f type="bl"/>there, thither, that way, 
+thence, <term lang="sp">De aculla.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="accusado">Accusado</form> <xpln lexeme="accused(a)" lexeme="appeached(a)" lang="en"><f type="bl"/>accused appeached.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="a&ccedil;or">A&ccedil;or</form> <xpln lexeme="hawk(n)" lang="en"><f type="bl"/>a Hauke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="a&ccedil;otar">A&ccedil;otar</form> <xpln lexeme="whip(v)" lexeme="whip with a rod(v)" lang="en"><f type="bl"/>to whippe, to whip with a
+rod.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acatar">Acatar</form> <xpln lexeme="see(v)" lexeme="look(v)" lexeme="honour(v)" lexeme="reverence(v)" lang="en"><f type="bl"/>to see, to looke, and also to
+honour and reuerence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acetre">Acetre</form> <xpln lexeme="brazen pale(n)" lang="en"><f type="bl"/>a brasen pale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acetrero">Acetrero</form> <xpln lexeme="hawker(n)" lang="en"><f type="bl"/>a hauker.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acidente">Acidente</form> <xpln lexeme="chance(n)" lexeme="hap(n)" lang="en"><f type="bl"/>a chaunce, hap.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="acicaladura">Acicaladura</form> <xpln lexeme="trimming(n)" lexeme="garnishing(n)" lexeme="polishing(n)" lang="en"><f type="bl"/>a trimming, garni&shy;
+shing, polishing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="a&ccedil;omar">A&ccedil;omar</form> <xpln lexeme="stir up(v)" lexeme="provoke(v)" lexeme="irritate(v)" lang="en"><f type="bl"/>to stirre vp, to prouoke, 
+to irritate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adelante">Adelante</form> <xpln lexeme="before(adv)" lang="en"><f type="bl"/>before.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adorar">Adorar</form> <xpln lexeme="worship(v)" lang="en"><f type="bl"/>to worship.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adolecer">Adolecer</form> <xpln lexeme="sick(a)" lexeme="grieved(a)" lexeme="ill at ease(a)" lang="en"><f type="bl"/>to bee sicke, grieued, or
+ill at ease.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adeudarse">Adeudarse</form> <xpln lexeme="bring in debt(v)" lang="en"><f type="bl"/>to bring himselfe in
+debt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adelantar">Adelantar</form> <xpln lexeme="prefer(v)" lexeme="get before(v)" lang="en"><f type="bl"/>to prefer, to get before.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adentellar">Adentellar</form> <xpln lexeme="bite(v)" lang="en"><f type="bl"/>to bite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="adul&ccedil;ar">Adul&ccedil;ar</form> <xpln lexeme="sweeten(v)" lang="en"><f type="bl"/>to sweeten.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="affligido">Affligido</form> <xpln lexeme="afflicted(a)" lexeme="vexed(a)" lang="en"><f type="bl"/>to be afflicted, vexed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="affloxar">Affloxar</form> <xpln lexeme="loosen(v)" lexeme="slacken(v)" lang="en"><f type="bl"/>to loosen, to slacken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="afuziar">Afuziar</form> <xpln lexeme="give hope(v)" lexeme="encourage(v)" lang="en"><f type="bl"/>to giue hope, to encorage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ageno">Ageno</form> <xpln lexeme="strange(a)" lexeme="alienate(a)" lexeme="belonging to others(a)" lang="en"><f type="bl"/>straunge, alienate, belong&shy;
+ing to others.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="agua">Agua</form> <xpln lexeme="water(n)" lang="en"><f type="bl"/>water.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="agradable">Agradable</form> <xpln lexeme="thankful(a)" lexeme="pleasing(a)" lexeme="acceptable(a)" lang="en"><f type="bl"/>that which is thankful
+to a man, pleasing, acceptable.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="agradecido">Agradecido</form> <xpln lexeme="thankful(a)" lang="en"><f type="bl"/>thankfull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="agradecimiento">Agradecimiento</form> <xpln lexeme="thankfulness(n)" lang="en"><f type="bl"/>thankfulnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alaban&ccedil;a">Alaban&ccedil;a</form> <xpln lexeme="praise(n)" lang="en"><f type="bl"/>praise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alhaja">Alhaja</form> <xpln lexeme="household stuff(n)" lang="en"><f type="bl"/>housholdstuffe.</xpln></wordentry>
+
+
+</page>
+
+<page sig="A1r">
+<wordentry type="h"><form lang="sp" lexeme="alberchigo">Alberchigo</form> . <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alberchiga">Alberchiga</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alguno">Alguno,</form> <xpln lexeme="somebody(n)" lexeme="someone(pr)" lexeme="some(pr)" lang="en"><f type="bl"/>some body, some one,
+some.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="algo">Algo</form> <xpln lexeme="something(n)" lang="en"><f type="bl"/>some thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alli">Alli</form> <xpln lexeme="there(adv)" lang="en"><f type="bl"/>there.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alla">Alla</form> <xpln lexeme="that way(n)" lang="en"><f type="bl"/>that way.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="al&ccedil;ar">Al&ccedil;ar</form> <xpln lexeme="lift up(v)" lang="en"><f type="bl"/>to lift vp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="algodon">Algodon</form> <xpln lexeme="bombast(n)" lang="en"><f type="bl"/>bombast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="algarue">Algarue</form> <xpln lexeme="cave(n)" lexeme="den(v)" lang="en"><f type="bl"/>a caue, a den.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="alimentar">Alimentar</form> <xpln lexeme="nourish(v)" lexeme="maintain(n)" lang="en"><f type="bl"/>to nurish to maintain.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amonestar">Amonestar</form> <xpln lexeme="admonish(v)" lang="en"><f type="bl"/>to admonish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amenazas">Amenazas</form> <xpln lexeme="threatening(n)" lang="en"><f type="bl"/>threatnings.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amigo">Amigo</form> <xpln lexeme="friend(n)" lang="en"><f type="bl"/>a friende.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amar">Amar</form> <xpln lexeme="love(v)" lang="en"><f type="bl"/>to loue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amo">Amo,</form> <xpln lexeme="master(n)" lang="en"><f type="bl"/>a master to a <emend err="slaueor">slaue or</emend> a ser&shy;
+uant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amargo">Amargo</form> <xpln lexeme="bitter(a)" lang="en"><f type="bl"/>bitter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amassador">Amassador</form> <xpln lexeme="baker(n)" lang="en"><f type="bl"/>a Baker.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="amaslar">Amaslar</form> <xpln lexeme="knead(v)" lexeme="beat small(v)" lang="en"><f type="bl"/>to kneth or beat smal</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="angustiar">Angustiar</form> <xpln lexeme="grieve(v)" lexeme="vex(v)" lexeme="trouble(v)" lang="en"><f type="bl"/>to grieue, to vexe, to 
+trouble.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="a&ntilde;idir">A&ntilde;idir</form> <xpln lexeme="add(v)" lexeme="adjoin(v)" lang="en"><f type="bl"/>to adde to adioyne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="a&ntilde;o">Ano</form> <xpln lexeme="year(n)" lang="en"><f type="bl"/>yeare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="animal">Animal</form> <xpln lexeme="living creature(n)" lexeme="beast(n)" lang="en"><f type="bl"/>a thing that hath life and 
+sence, a liuing creature. a beast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="animado">Animado</form> <xpln lexeme="animated(a)" lexeme="with life(adv)" lexeme="living(a)" lang="en"><f type="bl"/>animated, with life, li&shy;
+uing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="animar">Animar</form> <xpln lexeme="animate(v)" lang="en"><f type="bl"/>to animate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="andar">Andar</form> <xpln lexeme="go(v)" lang="en"><f type="bl"/>to goe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="anunciar">Anunciar</form> <xpln lexeme="report(v)" lexeme="tell(v)" lang="en"><f type="bl"/>to report, to tell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="anidar">Anidar</form> <xpln lexeme="make a nest(v)" lang="en"><f type="bl"/>to make a neaste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="anillo">Anillo</form> <xpln lexeme="ring(n)" lang="en"><f type="bl"/>a ring.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="angell">Angell</form>. <xpln lexeme="angel(n)" lang="en"><f type="bl"/>an Aungell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="a noche">A noche</form> <xpln lexeme="yesternight(n)" lang="en"><f type="bl"/>yester night.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="anochecer">Anochecer</form> <xpln lexeme="wax night(v)" lexeme="become dark(v)" lang="en"><f type="bl"/>to waxen night, to be&shy;
+come darke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="antiguo">Antiguo</form> <xpln lexeme="ancient(a)" lang="en"><f type="bl"/>auncient.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aqui">Aqui</form> <xpln lexeme="there(adv)" lang="en"><f type="bl"/>there.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aquell">Aquell</form> <xpln lexeme="he(pr)" lang="en"><f type="bl"/>hee. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aquellos">Aquellos</form> <xpln lexeme="they(pr)" lang="en"><f type="bl"/>they.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aqueste">Aqueste</form> <xpln lexeme="this man(n)" lang="en"><f type="bl"/>this man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aquexarse">Aquexarse</form> <xpln lexeme="make haste(v)" lexeme="hie(v)" lang="en"><f type="bl"/>to make haste, to hie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="arder">Arder</form> <xpln lexeme="burn(v)" lang="en"><f type="bl"/>to burne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="arador">Arador</form> <xpln lexeme="ploughman(n)" lang="en"><f type="bl"/>a ploughman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="arbol">Arbol</form> <xpln lexeme="tree(n)" lang="en"><f type="bl"/>a tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="arrepentir">Arrepentir</form> <xpln lexeme="repent(v)" lang="en"><f type="bl"/>to repent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="artemeter">Artemeter</form> <xpln lexeme="invade(v)" lexeme="assault(v)" lexeme="set upon(v)" lang="en"><f type="bl"/>to inuade, to assault, to
+set vppon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="arribar">Arribar</form> <xpln lexeme="arrive(v)" lexeme="come to(v)" lang="en"><f type="bl"/>to arriue, to come to.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="arrodillar">Arrodillar</form> <xpln lexeme="kneel(v)" lang="en"><f type="bl"/>to kn<damage type="u">ee</damage>le.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="artificio">Artificio</form> <xpln lexeme="occupation(n)" lexeme="craft(n)" lang="en"><f type="bl"/>an occupation, a crafte,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="assaz">Assaz</form> <xpln lexeme="enough(adv)" lexeme="sufficiently(adv)" lang="en"><f type="bl"/>inough, su<damage type="u">ff</damage>iciently.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="assossegar">Assossegar</form> <xpln lexeme="quiet(v)" lexeme="assuage(v)" lang="en"><f type="bl"/>to quiet, to asswage.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="astucia">Astucia</form> <xpln lexeme="craftiness(n)" lexeme="guile(n)" lexeme="deceit(n)" lang="en"><f type="bl"/>craftinesse, guile, deceipt,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="astutamente">Astutamente</form> <xpln lexeme="craftily(adv)" lexeme="deceitfully(adv)" lang="en"><f type="bl"/>craftily, deceptfully.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="atar">Atar</form> <xpln lexeme="tie(v)" lang="en"><f type="bl"/>to tie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="atajar">Atajar</form> <xpln lexeme="drive away(v)" lexeme="spy to discover(v)" lang="en"><f type="bl"/>to driue away, to spie to
+discouer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="atajo">Atajo</form> <xpln lexeme="short way(n)" lexeme="compendious way(n)" lang="en"><f type="bl"/>a short or c<expan type="o+_">om</expan>pendious way.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aueriguar">Aueriguar</form> <xpln lexeme="verify(v)" lang="en"><f type="bl"/>to verifie</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="auer">Auer</form> <xpln lexeme="have(v)" lang="en"><f type="bl"/>to haue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aumentar">Aumentar</form> <xpln lexeme="enlarge(v)" lexeme="augment(v)" lang="en"><f type="bl"/>to enlarge, to augm<expan type="e+_">en</expan>t.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="auariento">Auariento</form> <xpln lexeme="covetous(a)" lexeme="greedy(a)" lang="en"><f type="bl"/>couetous greedy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="auezez">Auezez</form> <xpln lexeme="sometimes(adv)" lang="en"><f type="bl"/>at sometimes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="aximez">Aximez</form>. <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="axuar">Axuar</form> <xpln lexeme="household stuff(n)" lang="en"><f type="bl"/>howshould stuffe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="azeite">Azeite</form> <xpln lexeme="oil(n)" lang="en"><f type="bl"/>oyle.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="bacin">BAcin</form> <xpln lexeme="basin(n)" lang="en"><f type="bl"/>a basen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ba&ntilde;o">Ba&ntilde;o</form> <xpln lexeme="bathing place(n)" lexeme="hothouse(n)" lang="en"><f type="bl"/>a bathing place, a hote&shy;
+house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="barato">Barato</form> <xpln lexeme="plentiful(a)" lexeme="good cheap(a)" lang="en"><f type="bl"/>plentifull, good cheape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="barragan">Barragan</form> <xpln lexeme="young man(n)" lang="en"><f type="bl"/>a young man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="barrena">Barrena</form> <xpln lexeme="wimble(n)" lang="en"><f type="bl"/>a wimble to bore holes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="beuer">Beuer</form> <xpln lexeme="drink(v)" lang="en"><f type="bl"/>to drinke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bezar">Bezar</form> <xpln lexeme="kiss(v)" lang="en"><f type="bl"/>to kisse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bestia">Bestia</form> <xpln lexeme="beast(n)" lang="en"><f type="bl"/>a beast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="beuida">Beuida</form> <xpln lexeme="drink(n)" lang="en"><f type="bl"/>drinke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bezo">Bezo</form> <xpln lexeme="manner(n)" lexeme="use(n)" lexeme="custom(n)" lang="en"><f type="bl"/>a manner, an vse, a custom,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="blanco">Blanco</form> <xpln lexeme="white(a)" lang="en"><f type="bl"/>white.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bienaventurado">Bienaventurado</form> <xpln lexeme="happy(a)" lexeme="fortunate(a)" lang="en"><f type="bl"/>happie, fortu&shy;
+nate:</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="blanquear">Blanquear</form> <xpln lexeme="whiten(v)" lang="en"><f type="bl"/>to whiten.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="blandura">Blandura</form> <xpln lexeme="meekness(n)" lexeme="fair speech(n)" lang="en"><f type="bl"/>meekenesse faire speach.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="boz">Boz</form> <xpln lexeme="voice(n)" lang="en"><f type="bl"/>the voice.</xpln></wordentry>
+
+
+</page>
+
+<page sig="A2r">
+<wordentry type="h"><form lang="sp" lexeme="bocezar">Bocezar</form> <xpln lexeme="yawn(v)" lexeme="gape(v)" lang="en"><f type="bl"/>to yawn, to gape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bodega">Bodega</form> <xpln lexeme="cellar(n)" lang="en"><f type="bl"/>a sellar.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bueno">Bueno,</form> <xpln lexeme="good(a)" lang="en"><f type="bl"/>good.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bodegon">Bodegon</form> <xpln lexeme="tavern(n)" lang="en"><f type="bl"/>a tauerne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bodigo">Bodigo</form> <xpln lexeme="cake(n)" lang="en"><f type="bl"/>a cake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bofetada">Bofetada</form> <xpln lexeme="buffet(n)" lang="en"><f type="bl"/>a buffet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bolar">Bolar</form> <xpln lexeme="fly(v)" lang="en"><f type="bl"/>to flie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="boluer">Boluer</form> <xpln lexeme="turn(v)" lang="en"><f type="bl"/>to turne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bondad">Bondad</form> <xpln lexeme="goodness(n)" lang="en"><f type="bl"/>goodnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bonete">Bonete</form> <xpln lexeme="cap(n)" lang="en"><f type="bl"/>a cappe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="borro">Borro</form> <xpln lexeme="blot(n)" lang="en"><f type="bl"/>a blot</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="bossar">Bossar</form> <xpln lexeme="vomit(v)" lang="en"><f type="bl"/>to vomit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="botja">Botja</form> <xpln lexeme="hat(n)" lang="en"><f type="bl"/>a hatte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="botar">Botar</form> <xpln lexeme="thrust out(v)" lexeme="expel(v)" lang="en"><f type="bl"/>to thrust out, to expell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="botica">Botica</form> <xpln lexeme="shop(n)" lang="en"><f type="bl"/>a shoppe.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="cabe&ccedil;a">CAbe&ccedil;a</form> <xpln lexeme="head(n)" lang="en"><f type="bl"/>a head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cabello">Cabello,</form> <xpln lexeme="hair(n)" lang="en"><f type="bl"/>a haire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cadauno">Cadauno</form> <xpln lexeme="everyone(pr)" lang="en"><f type="bl"/>euery one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cadauez">Cadauez</form> <xpln lexeme="every time(n)" lang="en"><f type="bl"/>euery time.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ca&ccedil;a">Ca&ccedil;a</form> <xpln lexeme="hunting(n)" lang="en"><f type="bl"/>a hunting.</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="sp" lexeme="ca&ccedil;ador">Ca&ccedil;ador</form> <xpln lexeme="hunter(n)" lang="en"><f type="bl"/>a hunter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ca&ccedil;ar">Ca&ccedil;ar</form> <xpln lexeme="hunt(v)">to hunt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cambiar">Cambiar</form> <xpln lexeme="change(v)" lang="en"><f type="bl"/>to chaunge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="caminar">Caminar</form> <xpln lexeme="travel(v)" lang="en"><f type="bl"/>to trauell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="camino">Camino</form> <xpln lexeme="way(n)" lang="en">the way.<f type="bl"/></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="callar">Callar</form> <xpln lexeme="hold one's peace(v)" lang="en"><f type="bl"/>to hold ones peace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="casto">Casto</form> <xpln lexeme="chaste(a)" lang="en"><f type="bl"/>chast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="castidad">Castidad</form> <xpln lexeme="chastity(n)" lang="en"><f type="bl"/>chastety.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="caro">Caro</form> <xpln lexeme="dear(a)" lang="en"><f type="bl"/>deere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="caridad">Caridad</form> <xpln lexeme="dearth(n)" lang="en"><f type="bl"/>dearth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="camarro">Camarro</form> <xpln lexeme="shepherd's scrip(n)" lang="en"><f type="bl"/>a shepheards scrip.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cansado">Cansado,</form> <xpln lexeme="weary(a)" lang="en"><f type="bl"/>wearie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="car&ccedil;a">Car&ccedil;a,</form> <xpln lexeme="bush(n)" lexeme="thicket(n)" lexeme="bramble(n)" lexeme="wild eglantine(n)" lang="en"><f type="bl"/>a bush. a thicket, a bramble
+a wild Eglentine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="&ccedil;aqui&ccedil;ami">&ccedil;aqui&ccedil;ami</form> <xpln lexeme="roof(n)" lexeme="beam(n)" lang="en"><f type="bl"/>a roofe, a beame.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cauallero">Cauallero</form> <xpln lexeme="knight(n)" lexeme="gentleman(n)" lang="en"><f type="bl"/>a knight or gentleman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cauallo">Cauallo</form> <xpln lexeme="horse(n)" lang="en"><f type="bl"/>a horse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="calor">Calor</form> <xpln lexeme="heat(n)" lang="en"><f type="bl"/>heate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="causa">Causa</form> <xpln lexeme="cause(n)" lang="en"><f type="bl"/>cause.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="causar">Causar,</form> <xpln lexeme="cause(v)" lang="en"><f type="bl"/>to cause.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cantar">Cantar,</form> <xpln lexeme="sing(v)" lang="en"><f type="bl"/>to sing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="camara">Camara</form> <xpln lexeme="chamber(n)" lang="en"><f type="bl"/>a chamber.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="camueso">Camueso</form> <xpln lexeme="pippin tree(n)" lang="en"><f type="bl"/>a pippin tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="camuesa">Camuesa,</form> <xpln lexeme="pippin(n)" lang="en"><f type="bl"/>a pippin.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carta">Carta</form> <xpln lexeme="paper(n)" lang="en"><f type="bl"/>paper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cabo">Cabo</form> <xpln lexeme="end(n)" lang="en"><f type="bl"/>the end.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="castillo">Castillo</form> <xpln lexeme="castle(n)" lang="en"><f type="bl"/>a castell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cargo">Cargo</form> <xpln lexeme="charge(n)" lexeme="loading(n)" lang="en"><f type="bl"/>charge, loding.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cargar">Cargar</form> <xpln lexeme="charge(v)" lexeme="load(v)" lang="en"><f type="bl"/>to charge, to lode.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cantaro">Cantaro</form> <xpln lexeme="pot(n)" lexeme="jug(n)" lexeme="tankard(n)" lang="en"><f type="bl"/>a pot, a iugge, a tan&shy;
+kard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="&ccedil;apato">&ccedil;apato</form> <xpln lexeme="shoe(n)" lang="en"><f type="bl"/>a shoe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carreta">Carreta</form> <xpln lexeme="cart(n)" lang="en"><f type="bl"/>a carte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carne">Carne</form> <xpln lexeme="flesh(n)" lang="en"><f type="bl"/>fleshe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="captiuerio">Captiuerio,</form> <xpln lexeme="captivity(n)" lang="en"><f type="bl"/>captiuitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="capado">Capado</form> <xpln lexeme="gelded(a)" lexeme="eunuch(n)" lang="en"><f type="bl"/>one that is gelded, an
+eunuch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="capilla">Capilla</form> <xpln lexeme="chapel(n)" lang="en"><f type="bl"/>a Chappell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cap&oacute;n">Cap&oacute;n</form> <xpln lexeme="capon(n)" lang="en"><f type="bl"/>a capon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cara">Cara</form> <xpln lexeme="face(n)" lang="en"><f type="bl"/>the face.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carcell">Carcell</form> <xpln lexeme="prison(n)" lang="en"><f type="bl"/>a prison.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carnaual">Carnaual</form> <xpln lexeme="Shrovetide(n)" lang="en"><f type="bl"/>Shrouetide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carnero">Carnero</form> <xpln lexeme="mutton(n)" lang="en"><f type="bl"/>mutton.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carniceria">Carniceria</form> <xpln lexeme="shambles(n)" lang="en"><f type="bl"/>the shambles.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carnicero">Carnicero</form> <xpln lexeme="butcher(n)" lang="en"><f type="bl"/>a butcher.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="carpintero">Carpintero</form> <xpln lexeme="carpenter(n)" lang="en"><f type="bl"/>a carpinter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="casa">Casa</form> <xpln lexeme="house(n)" lang="en"><f type="bl"/>a house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cerca">Cerca,</form> <xpln lexeme="near(pp)" lang="en"><f type="bl"/>neere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ceda&ccedil;o">Ceda&ccedil;o</form> <xpln lexeme="sieve(n)" lexeme="searce(n)" lang="en"><f type="bl"/>a siue, a searce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ceja">Ceja</form> <xpln lexeme="space over the nose(n)" lang="en"><f type="bl"/>the space ouer the nose be&shy;
+tweene the browes.</xpln></wordentry>
+
+<wordentry type="h"><form number="1" lang="sp" lexeme="cerrojo" lexeme="cerradura">Cerrojo. Cerradura</form> <xpln lexeme="lock(n)" lang="en"><f type="bl"/>a locke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cerca">Cerca</form> <xpln lexeme="near unto(pp)" lexeme="about(pp)" lexeme="by(pp)" lang="en"><f type="bl"/>neere vnto, about, bye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cerco">Cerco</form> <xpln lexeme="circle(n)" lexeme="siege(n)" lang="en"><f type="bl"/>a circle, a seege.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cesta">Cesta</form> <xpln lexeme="chest(n)" lang="en"><f type="bl"/>a chest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cera">Cera</form> <xpln lexeme="wax(n)" lang="en"><f type="bl"/>waxe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cercar">Cercar</form> <xpln lexeme="besiege(v)" lexeme="compass about(v)" lang="en"><f type="bl"/>to besege to compas about</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cerueza">Cerueza</form> <xpln lexeme="beer(n)" lang="en"><f type="bl"/>beere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="celozo">Celozo</form> <xpln lexeme="jealous(a)" lang="en"><f type="bl"/>gealous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="celos">Celos</form> <xpln lexeme="jealousy(n)" lexeme="zeal(n)" lang="en"><f type="bl"/>gealosie, zeale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comentar">Comentar</form> <xpln lexeme="lay the foundation(v)" lang="en"><f type="bl"/>to lay the foundation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comentario">Comentario</form> <xpln lexeme="churchyard(n)" lang="en"><f type="bl"/>a churchyard, a place
+where men be buried.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chapin">Chapin</form> <xpln lexeme="slipper(n)" lexeme="pantofle(n)" lang="en"><f type="bl"/>a slipper or pantofle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="charlatan">Charlatan,</form> <xpln lexeme="prattler(n)" lexeme="chatter(n)" lang="en"><f type="bl"/>a prattler, a <emend err="chatetr">chatter</emend>.</xpln></wordentry>
+
+
+</page>
+
+<page sig="A2v">
+<wordentry type="h"><form lang="sp" lexeme="chamarra">Chamarra,</form> <xpln lexeme="chepherd's scrip(n)" lang="en"><f type="bl"/>a sheapheards scrip.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chismear">Chismear,</form> <xpln lexeme="gather the tribute(v)" lang="en"><f type="bl"/>to gather the tribute
+of some place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chismero">Chismero,</form> <xpln lexeme="collector(n)" lexeme="gatherer of tribute(n)" lang="en"><f type="bl"/>a collector, or gatherer
+of tribute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chismeria">Chismeria,</form> <xpln lexeme="collection(n)" lexeme="gathering of tribute(n)" lang="en"><f type="bl"/>collection, or gathe&shy;
+ring of tribute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chiste">Chiste</form>. <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chistar">Chistar</form>. <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chinche">Chinche</form> <xpln lexeme="stinking worm(n)" lang="en"><f type="bl"/>a stinking worme bree&shy;
+ding in wood, or paper. <term lang="sp">Cinex.</term></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chimenea">Chimenea</form> <xpln lexeme="chimney(n)" lang="en"><f type="bl"/>a chimnye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chico">Chico</form> <xpln lexeme="little(a)" lang="en"><f type="bl"/>litle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chiquito">Chiquito</form> <xpln lexeme="very little(a)" lexeme="very small(a)" lang="en"><f type="bl"/>very litle, very small.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chozno">Chozno</form>. <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chueca">Chueca</form> <xpln lexeme="knuckle bone(n)" lang="en"><f type="bl"/>in latin <term lang="la">Coxendix, verte&shy;
+bra</term><f type="bl"/>, a knuckell bone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="chupar">Chupar</form> <xpln lexeme="suck(v)" lexeme="draw(v)" lang="en"><f type="bl"/>to sucke, to draw.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ciruela">Ciruela</form> <xpln lexeme="plum(n)" lang="en"><f type="bl"/>a plumme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ciruelo">Ciruelo</form> <xpln lexeme="plum tree(n)" lang="en"><f type="bl"/>a plumme tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cielo">Cielo</form> <xpln lexeme="heaven(n)" lang="en"><f type="bl"/>heauen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="claro">Claro</form> <xpln lexeme="clear(a)" lexeme="bright(a)" lang="en"><f type="bl"/>cleere, bright.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="claridad">Claridad</form> <xpln lexeme="brightness(n)" lang="en"><f type="bl"/>brightnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cilla">Cilla</form> <xpln lexeme="barn(n)" lang="en"><f type="bl"/>a barne or place to put vppe 
+corne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ciudad">Ciudad</form> <xpln lexeme="city(n)" lang="en"><f type="bl"/>a cittye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ciuera">Ciuera</form> <xpln lexeme="corn(n)" lang="en"><f type="bl"/>corne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="como">Como</form> <xpln lexeme="like(adv)" lexeme="as(adv)" lang="en"><f type="bl"/>like as.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="componer">Componer</form> <xpln lexeme="make(v)" lexeme="compound(v)" lexeme="set together(v)" lang="en"><f type="bl"/>to make, to compo<expan type="u+_">un</expan>d,
+to set together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comprado">Comprado</form> <xpln lexeme="bought(a)" lang="en"><f type="bl"/>bought.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comprar">Comprar</form> <xpln lexeme="buy(v)" lang="en"><f type="bl"/>to buy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comer">Comer</form> <xpln lexeme="eat(v)" lang="en"><f type="bl"/>to eate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comparar">Comparar</form> <xpln lexeme="compare(v)" lang="en"><f type="bl"/>to compare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comparacion">Comparacion</form> <xpln lexeme="comparison(n)" lang="en"><f type="bl"/>a comparison.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="compania">Compania</form> <xpln lexeme="company(n)" lang="en"><f type="bl"/>company.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="comido">Comido</form> <xpln lexeme="meat(n)" lang="en"><f type="bl"/>meate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="contado">Contado</form> <xpln lexeme="counted(a)" lang="en"><f type="bl"/>counted.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="contar">Contar</form> <xpln lexeme="count(v)" lang="en"><f type="bl"/>to count.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="condemnar">Condemnar</form> <xpln lexeme="condemn(v)" lang="en"><f type="bl"/>to condemne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="condemnacion">Condemnacion</form> <xpln lexeme="condemnation(n)" lang="en"><f type="bl"/>condemnation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="conseruar">Conseruar</form> <xpln lexeme="preserve(v)" lexeme="keep(v)" lexeme="conserve(v)" lang="en"><f type="bl"/>to preserue, keepe, and 
+to conserue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="consolar">Consolar</form> <xpln lexeme="comfort(v)" lang="en"><f type="bl"/>to comfort.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="consolation">Consolation</form> <xpln lexeme="comfort(n)" lexeme="consolation(n)" lang="en"><f type="bl"/>comfort, c<expan type="o+_">on</expan>solation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="conoscer">Conoscer</form> <xpln lexeme="know(v)" lang="en"><f type="bl"/>to knowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="confessar">Confessar</form> <xpln lexeme="confess(v)" lang="en"><f type="bl"/>to confesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="confession">Confession</form> <xpln lexeme="confession(n)" lang="en"><f type="bl"/>confession.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="consejo">Consejo</form> <xpln lexeme="counsel(n)" lang="en"><f type="bl"/>counsell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="consentir">Consentir</form> <xpln lexeme="consent(n)" lexeme="assent(n)" lexeme="agree to(v)" lang="en"><f type="bl"/>to consent, assent, to a&shy;
+gree to.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="contradezir">Contradezir</form> <xpln lexeme="gainsay(v)" lang="en"><f type="bl"/>to gainsay.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="contrito">Contrito</form> <xpln lexeme="contrite(a)" lexeme="humble itself(v)" lang="en"><f type="bl"/>contrit, that which hum&shy;
+bleth it selfe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="corregir">Corregir</form> <xpln lexeme="correct(v)" lang="en"><f type="bl"/>to correct.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="correr">Correr</form> <xpln lexeme="run(v)" lang="en"><f type="bl"/>to runne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cora&ccedil;on">Cora&ccedil;on</form> <xpln lexeme="heart(n)" lang="en"><f type="bl"/>hart.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="coser">Coser</form> <xpln lexeme="sow(v)" lang="en"><f type="bl"/>to sowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="corromper">Corromper</form> <xpln lexeme="corrupt(v)" lexeme="mar(v)" lang="en"><f type="bl"/>to corrupt, to marre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cortar">Cortar</form> <xpln lexeme="cut(v)" lang="en"><f type="bl"/>to cutte,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cortadura">Cortadura</form> <xpln lexeme="cut(n)" lexeme="cutting(n)" lang="en"><f type="bl"/>a cutte a cutting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="corona">Corona</form> <xpln lexeme="crown(n)" lang="en"><f type="bl"/>a crowne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cordero">Cordero</form> <xpln lexeme="lamb(n)" lang="en"><f type="bl"/>lamme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cornudo">Cornudo</form> <xpln lexeme="horned(a)" lang="en"><f type="bl"/>horned.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="creer">Creer</form> <xpln lexeme="believe(v)" lang="en"><f type="bl"/>to beleeue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="criar">Criar</form> <xpln lexeme="create(v)" lexeme="bring up(v)" lang="en"><f type="bl"/>to creat, to bring vp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="criado">Criado</form> <xpln lexeme="brought up(a)" lexeme="created(a)" lang="en"><f type="bl"/>brought vp, a seruant, also 
+created.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="crian&ccedil;a">Crian&ccedil;a</form> <xpln lexeme="bringing up(n)" lexeme="manners(n)" lang="en"><f type="bl"/>bringing vp, manners.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="crines" lexeme="cabellos">Crines, cabellos<f type="bl"/></form> <xpln lexeme="hair(n)" lang="en">heare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="crudo">Crudo</form> <xpln lexeme="raw(a)" lang="en"><f type="bl"/>rawe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="crimen">Crimen</form> <xpln lexeme="heinous crime(n)" lexeme="offence(n)" lang="en"><f type="bl"/>a hainous crime, an off<expan type="e+_">en</expan>se</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cruell">Cruell</form> <xpln lexeme="cruel(a)" lang="en"><f type="bl"/>cruell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cruz">Cruz</form> <xpln lexeme="cross(n)" lang="en"><f type="bl"/>a crosse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cuchillo">Cuchillo</form> <xpln lexeme="knife(n)" lang="en"><f type="bl"/>a knife.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="&ccedil;umo">&ccedil;umo</form> <xpln lexeme="juice(n)" lexeme="moisture(n)" lang="en"><f type="bl"/>iuyce, moisture.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cuno">&ccedil;u&ntilde;o</form>. <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cumplir">Cumplir</form> <xpln lexeme="accomplish(v)" lang="en"><f type="bl"/>to accomplish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cuerpo">Cuerpo</form> <xpln lexeme="body(n)" lang="en"><f type="bl"/>body.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="cuenta">Cuenta</form> <xpln lexeme="accounts(n)" lexeme="reckoning(n)" lang="en"><f type="bl"/>accounts, reckoning.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="datill">DAtill</form> <xpln lexeme="palm tree(n)" lang="en"><f type="bl"/>a palme tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dar">Dar</form> <xpln lexeme="give(v)" lang="en"><f type="bl"/>to geue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dad me">Dad me</form> <xpln lexeme="give(v)" lang="en"><f type="bl"/>geue me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dan&ccedil;ar">Dan&ccedil;ar</form> <xpln lexeme="dance(v)" lexeme="leap(v)" lexeme="skip(v)" lang="en"><f type="bl"/>to daunce, to leap or skip.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="da&ntilde;ar">Dan&ntilde;ar</form> <xpln lexeme="hinder(v)" lang="en"><f type="bl"/>to hinder, harme, hurt.</xpln></wordentry>
+
+
+</page>
+
+<page sig="A3r">
+<wordentry type="h"><form lang="sp" lexeme="da&ntilde;o">Dan&ntilde;o</form> <xpln lexeme="loss(n)" lexeme="harm(n)" lexeme="hurt(n)" lang="en"><f type="bl"/>losse, harme, hurt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="da&ntilde;oso">Dan&ntilde;oso</form> <xpln lexeme="hurtful(a)" lang="en"><f type="bl"/>hurtfull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="de">De</form> <xpln lexeme="of(pp)" lang="en"><f type="bl"/>of.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="de aca">De aca</form> <xpln lexeme="from hence(adv)" lang="en"><f type="bl"/>from hence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desebriegar">Desebriegar</form> <xpln lexeme="become sober(v)" lang="en"><f type="bl"/>to become sober.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="de alla">De alla</form> <xpln lexeme="from thence(adv)" lang="en"><f type="bl"/>from thence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="demandar">Demandar</form> <xpln lexeme="ask(v)" lang="en"><f type="bl"/>to aske.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="defiender">Defiender</form> <xpln lexeme="defend(v)" lang="en"><f type="bl"/>to defend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="defuera">Defuera</form> <xpln lexeme="without(adv)" lang="en"><f type="bl"/>without.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="degollar">Degollar</form> <xpln lexeme="behead(v)" lexeme="cut off one's neck(v)" lexeme="cut one's throat(v)" lexeme="murder(v)" lang="en"><f type="bl"/>to behead, to cut off
+ones necke, to cut ones throat,
+to murther.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="de&ntilde;ar">De&ntilde;ar</form> <xpln lexeme="deign(v)" lang="en"><f type="bl"/>to daine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="derecha mano">Derecha mano</form> <xpln lexeme="right hand(n)" lang="en"><f type="bl"/>the right hand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="despedir">Despedir</form> <xpln lexeme="dismiss(v)" lexeme="send away(v)" lang="en"><f type="bl"/>to dismisse, to send away</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="destruction">Destruction</form> <xpln lexeme="destruction(n)" lang="en"><f type="bl"/>destruction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="destruir">Destruir</form> <xpln lexeme="destroy(v)" lang="en"><f type="bl"/>to destroy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desterrar">Desterrar</form> <xpln lexeme="banish(v)" lang="en"><f type="bl"/>to bannishe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desatinar">Desatinar</form> <xpln lexeme="reel(v)" lexeme="stagger(v)" lexeme="waver(v)" lexeme="wag(v)" lang="en"><f type="bl"/>to reele, to stagger, to
+wauer, to wag.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="destorcer">Destorcer,</form> <xpln lexeme="unwreath(v)" lang="en"><f type="bl"/>to vnwreath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desdezir">Desdezir</form> <xpln lexeme="unsay(v)" lexeme="deny(v)" lang="en"><f type="bl"/>to vnsay, to deny that
+which he sayd.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="deshazer">Deshazer</form> <xpln lexeme="undo(v)" lang="en"><f type="bl"/>to vndoe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="deseos">Deseos</form> <xpln lexeme="wish(n)" lang="en"><f type="bl"/>wishes,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desear">Desear</form> <xpln lexeme="desire(v)" lexeme="wish(v)" lang="en"><f type="bl"/>to desire, to wishe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="descubrir">Descubrir</form> <xpln lexeme="uncover(v)" lang="en"><f type="bl"/>to vncouer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desechar">Desechar,</form> <xpln lexeme="forsake(v)" lexeme="put away(v)" lang="en"><f type="bl"/>to forsake, to put away.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dexar">Dexar</form> <xpln lexeme="leave(v)" lang="en"><f type="bl"/>to leaue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="deshonesto">Deshonesto</form> <xpln lexeme="dishonest(a)" lang="en"><f type="bl"/>dishonest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="deuda">Deuda</form> <xpln lexeme="debt(n)" lang="en"><f type="bl"/>debt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desense&ntilde;ar">Desense&ntilde;ar</form> <xpln lexeme="unteach(v)" lang="en"><f type="bl"/>to vnteach.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desde&ntilde;ar">Desde&ntilde;ar</form> <xpln lexeme="disdain(v)" lang="en"><f type="bl"/>to disdaine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desdicha">Desdicha</form> <xpln lexeme="unhappiness(n)" lexeme="misfortune(n)" lexeme="infelicity(n)" lang="en"><f type="bl"/>vnhappinesse, misfor&shy;
+tune, infelicity.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="descoser">Descoser</form> <xpln lexeme="unsow(v)" lang="en"><f type="bl"/>to vnsowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desconcierto">Desconcierto</form> <xpln lexeme="disorder(n)" lexeme="confusion(n)" lang="en"><f type="bl"/>disorder, confusion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="desatar">Desatar</form> <xpln lexeme="untie(v)" lang="en"><f type="bl"/>to vntie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dicho">Dicho</form> <xpln lexeme="said(a)" lexeme="spoken(a)" lang="en"><f type="bl"/>saide, spoken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="diestra">Diestra</form> <xpln lexeme="right hand(n)" lang="en"><f type="bl"/>the right hand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="digestion">Digestion</form> <xpln lexeme="digestion(n)" lang="en"><f type="bl"/>digestion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="digno">Digno</form> <xpln lexeme="worthy(a)" lang="en"><f type="bl"/>worthy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dinero">Dinero</form> <xpln lexeme="money(n)" lang="en"><f type="bl"/>money.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="Dios">Dios</form> <xpln lexeme="God(n)" lang="en"><f type="bl"/>God.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="disputar">Disputar</form> <xpln lexeme="dispute(v)" lang="en"><f type="bl"/>to dispute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="discipulos">Discipulos</form> <xpln lexeme="disciple(n)" lexeme="scholar(n)" lang="en"><f type="bl"/>disciples, <emend err="sthollers">schollers</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="disponer">Disponer</form> <xpln lexeme="dispose(v)" lang="en"><f type="bl"/>to dispose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="diuino">Diuino</form> <xpln lexeme="divine(a)" lang="en"><f type="bl"/>deuine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="diuinar">Diuinar</form> <xpln lexeme="conjecture(v)" lang="en"><f type="bl"/>to coniecture.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="diuulgar">Diuulgar</form> <xpln lexeme="publish(v)" lang="en"><f type="bl"/>to publish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="distancia">Distancia</form> <xpln lexeme="distance(n)" lexeme="difference(n)" lang="en"><f type="bl"/>distance, difference.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="distinguir">Distinguir</form> <xpln lexeme="distinguish(v)" lang="en"><f type="bl"/>to distinguish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="donzella">Donzella</form> <xpln lexeme="damsel(n)" lexeme="young gentlewoman(n)" lang="en"><f type="bl"/>a damsell, a young gen&shy;
+tlewoman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="doctor">Doctor</form> <xpln lexeme="doctor(n)" lexeme="teacher(n)" lang="en"><f type="bl"/>a Doctor, a teacher.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dormir">Dormir</form> <xpln lexeme="sleep(v)" lang="en"><f type="bl"/>to sleepe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dorado">Dorado</form> <xpln lexeme="gilded(a)" lang="en"><f type="bl"/>gilded.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="donoso">Donoso</form> <xpln lexeme="pleasant(a)" lexeme="merry(a)" lang="en"><f type="bl"/>pleasant, merry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="doblar">Doblar</form> <xpln lexeme="double(v)" lang="en"><f type="bl"/>to double.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="doblado">Doblado</form> <xpln lexeme="double(n)" lang="en"><f type="bl"/>double.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="dote">Dote</form> <xpln lexeme="dowry(n)" lang="en"><f type="bl"/>dowry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="duro">Duro</form> <xpln lexeme="hard(a)" lang="en"><f type="bl"/>hard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="duda">Duda</form> <xpln lexeme="doubt(n)" lang="en"><f type="bl"/>doubt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="durar">Durar</form> <xpln lexeme="last(v)" lexeme="continue(v)" lang="en"><f type="bl"/>to last, to continue.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="embiar">EMbiar</form> <xpln lexeme="send(v)" lang="en"><f type="bl"/>to send.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="encerramiento">Encerramiento</form> <xpln lexeme="shutting in(n)" lexeme="penning in(n)" lang="en"><f type="bl"/>a shutting in,
+a penning in.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ense&ntilde;ar">Ense&ntilde;ar</form> <xpln lexeme="teach(v)" lang="en"><f type="bl"/>to teach.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ense&ntilde;amiento">Ense&ntilde;amiento</form> <xpln lexeme="teaching(n)" lang="en"><f type="bl"/>teaching.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ense&ntilde;ador">Ense&ntilde;ador</form> <xpln lexeme="teacher(n)" lang="en"><f type="bl"/>teacher.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="enuierno">Enuierno</form> <xpln lexeme="winter(n)" lang="en"><f type="bl"/>winter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="enuerano">Enuerano</form> <xpln lexeme="summer(n)" lang="en"><f type="bl"/>summer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="encomiendas">Encomiendas</form> <xpln lexeme="commendation(n)" lang="en"><f type="bl"/>commendations.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="enfuziar">Enfuziar</form> <xpln lexeme="foul(v)" lexeme="make dirty(v)" lang="en"><f type="bl"/>to foule, to make durty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="enzina">Enzina</form> <xpln lexeme="oak tree(n)" lang="en"><f type="bl"/>an oake tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="enxugar">Enxugar</form> <xpln lexeme="dry(v)" lang="en"><f type="bl"/>to dry.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="enxambre">Enxambre</form> <xpln lexeme="swarm of bees(n)" lang="en"><f type="bl"/>a swarme of bees.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="errar">Errar</form> <xpln lexeme="err(v)" lexeme="go out of the way(v)" lang="en"><f type="bl"/>to er, to go out of the way.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escama">Escama</form> <xpln lexeme="scale of a fish(n)" lang="en"><f type="bl"/>the scale of a fish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escondido">Escondido</form> <xpln lexeme="hidden(a)" lang="en"><f type="bl"/>hidden.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escudri&ntilde;ar">Escudri&ntilde;ar</form> <xpln lexeme="search(v)" lexeme="seek out(v)" lang="en"><f type="bl"/>to search, to seek out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escuchar">Escuchar</form> <xpln lexeme="harken(v)" lang="en"><f type="bl"/>to harken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escoier">Escoier</form> <xpln lexeme="choose(v)" lexeme="pick out(v)" lang="en"><f type="bl"/>to choose or picke out.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escriuir">Escriuir</form> <xpln lexeme="write(v)" lang="en"><f type="bl"/>to write.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="escalentar">Escalentar</form> <xpln lexeme="warm(v)" lang="en"><f type="bl"/>to warme.</xpln></wordentry>
+
+
+</page>
+
+<page sig="A3v">
+<wordentry type="h"><form lang="sp" lexeme="espiritu">Espiritu</form> <xpln lexeme="spirit(n)" lang="en"><f type="bl"/>spirite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="esperan&ccedil;a">Esperan&ccedil;a</form> <xpln lexeme="hope(n)" lang="en"><f type="bl"/>hope.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="espinilla">Espinilla</form> <xpln lexeme="shank-bone(n)" lexeme="shin-bone(n)" lang="en"><f type="bl"/>the shanke or shin bone 
+of the legge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="estos">Estos</form> <xpln lexeme="these(pr)" lang="en"><f type="bl"/>these.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="estar">Estar</form> <xpln lexeme="be(v)" lang="en"><f type="bl"/>to bee.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ethimol&ograve;gia">Ethimol&ograve;gia</form> <xpln lexeme="true saying(n)" lexeme="true exposition(n)" lexeme="true reason(n)" lang="en"><f type="bl"/>a true saying, a true
+exposition or reason.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="euangelizar">Euangelizar</form> <xpln lexeme="preach the gospel(v)" lang="en"><f type="bl"/>to preach the Gos&shy;
+pell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="exprimir">Exprimir</form> <xpln lexeme="express(v)" lang="en"><f type="bl"/>to expresse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="estiercol">Estiercol</form> <xpln lexeme="dung(n)" lang="en"><f type="bl"/>dunge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="estufa">Estufa</form> <xpln lexeme="hothouse(n)" lang="en"><f type="bl"/>a hote house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="estudiar">Estudiar</form> <xpln lexeme="study(v)" lang="en"><f type="bl"/>to study.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="faltar">FAltar</form> <xpln lexeme="want(v)" lexeme="lack(v)" lang="en"><f type="bl"/>to want, to lacke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fatiga">Fatiga</form> <xpln lexeme="weariness of the body(n)" lexeme="troublesomeness of the mind(n)" lang="en"><f type="bl"/>wearinesse of the body
+or the troublesomnesse of
+the minde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fe">Fe</form> <xpln lexeme="faith(n)" lang="en"><f type="bl"/>faith.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="feo">Feo</form> <xpln lexeme="ill-favoured(a)" lang="en"><f type="bl"/>ilfauoured.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="feamente">Feamente</form> <xpln lexeme="ill-favouredly(adv)" lang="en"><f type="bl"/>ilfauouredly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fieles">Fieles</form> <xpln lexeme="faithful(n)" lang="en"><f type="bl"/>they th<damage type="u">a</damage>t be faithfull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fiebre">Fiebre</form> <xpln lexeme="ague(n)" lang="en"><f type="bl"/>an ague.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fiesta">Fiesta</form> <xpln lexeme="holy day(n)" lang="en"><f type="bl"/>an holy day.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fornicario">Fornicario,</form> <xpln lexeme="fornicator(n)" lang="en"><f type="bl"/>a fornicator.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fortalecimiento">Fortalecimiento</form> <xpln lexeme="fortification(n)" lexeme="munition(n)" lang="en"><f type="bl"/>fortification, mu&shy;
+nition.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fragua">Fragua,</form> <xpln lang="en"><f type="bl"/>a hanuiedld.</xpln><lemenote>The Spanish term means "forge" but the English translation is not known.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fruto">Fruto,</form> <xpln lexeme="fruit(n)" lang="en"><f type="bl"/>fruite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="frio">Frio</form> <xpln lexeme="cold(a)" lang="en"><f type="bl"/>colde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="frito">Frito,</form> <xpln lexeme="fried(a)" lang="en"><f type="bl"/>fried.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fuero">Fuero,</form> <xpln lexeme="without(adv)" lang="en"><f type="bl"/>without.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fuerca">Fuerca,</form> <xpln lexeme="force(n)" lexeme="strength(n)" lang="en"><f type="bl"/>force, strength.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="fundamento">Fundamento,</form> <xpln lexeme="foundation(n)" lang="en"><f type="bl"/>foundation.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="gallo">GAllo</form> <xpln lexeme="cock(n)" lang="en"><f type="bl"/>a cocke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gallina">Gallina</form> <xpln lexeme="hen(n)" lang="en"><f type="bl"/>a henne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gastar">Gastar</form> <xpln lexeme="spend(v)" lang="en"><f type="bl"/>to spende.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ganar">Ganar</form> <xpln lexeme="win(v)" lexeme="gain(v)" lang="en"><f type="bl"/>to winne, to gaine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ganado">Ganado</form> <xpln lexeme="flock of sheep(n)" lexeme="gotten(a)" lexeme="gained(a)" lang="en"><f type="bl"/>a flocke of sheep, also got&shy;
+ten, gayned.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ganir">Ganir</form> <xpln lexeme="prattle(v)" lexeme="chat(n)" lang="en"><f type="bl"/>to prattle, to chat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gar&ccedil;as ojos">Gar&ccedil;as ojos</form> <xpln lexeme="squint eyes(n)" lang="en"><f type="bl"/>squint eyes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="garsio">Garsio</form> <xpln lexeme="hook(n)" lexeme="crooked nail(n)" lang="en"><f type="bl"/>a hooke or crooked naile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gentileza">Gentileza</form> <xpln lexeme="gentleness(n)" lang="en"><f type="bl"/>gentlenesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gemido">Gemido,</form> <xpln lexeme="wailing(n)" lexeme="lamenting(n)" lexeme="sigh(n)" lexeme="sob(n)" lang="en"><f type="bl"/>a wailing, a lamenting,
+a sigh, a sobbe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="generall">Generall,</form> <xpln lexeme="general(a)" lang="en"><f type="bl"/>generall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gesto">Gesto,</form> <xpln lexeme="behaviour(n)" lexeme="demeanor(n)" lang="en"><f type="bl"/>behauiour, demeanure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gente">Gente,</form> <xpln lexeme="people(n)" lang="en"><f type="bl"/>people.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gengibre">Gengibre,</form> <xpln lexeme="ginger(n)" lang="en"><f type="bl"/>ginger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gigantes">Gigantes,</form> <xpln lexeme="giant(n)" lang="en"><f type="bl"/>giantes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="girifalte">Girifalte,</form> <xpln lexeme="hawk(n)" lang="en"><f type="bl"/>a hauke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gloton">Gloton,</form> <xpln lexeme="glutton(n)" lang="en"><f type="bl"/>a glutton.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="glorifiear">Glorifiear,</form> <xpln lexeme="glorify(v)" lang="en"><f type="bl"/>to glorify.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="glosar">Glosar,</form> <xpln lexeme="expound(v)" lexeme="make commentary(v)" lang="en"><f type="bl"/>to expound, to make a co&shy;
+mentary</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="golpe">Golpe,</form> <xpln lexeme="blow(n)" lang="en"><f type="bl"/>a blowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gonees">Gonees,</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gouernar">Gouernar,</form> <xpln lexeme="govern(n)" lang="en"><f type="bl"/>to gouerne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gozar">Gozar,</form> <xpln lexeme="enjoy(v)" lang="en"><f type="bl"/>to enioy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gozo">Gozo,</form> <xpln lexeme="gladness(n)" lexeme="joy(n)" lang="en"><f type="bl"/>gladnesse, ioy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gota">Gota,</form> <xpln lexeme="gout(n)" lang="en"><f type="bl"/>the goute.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gomito">Gomito,</form> <xpln lexeme="vomit(n)" lexeme="vomiting(n)" lang="en"><f type="bl"/>vomit, vomiting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gracia">Gracia,</form> <xpln lexeme="grace(n)" lang="en"><f type="bl"/>grace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gracioso">Gracioso,</form> <xpln lexeme="gracious(a)" lang="en"><f type="bl"/>gracious.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="grado">Grado,</form> <xpln lexeme="degree(n)" lang="en"><f type="bl"/>a degree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guardar">Guardar,</form> <xpln lexeme="keep(v)" lang="en"><f type="bl"/>to keepe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guastar">Guastar,</form> <xpln lexeme="mar(v)" lang="en"><f type="bl"/>to marre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guia">Guia,</form> <xpln lexeme="guide(n)" lang="en"><f type="bl"/>a guide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guiar">Guiar,</form> <xpln lexeme="guide(v)" lang="en"><f type="bl"/>to guide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guiado">Guiado,</form> <xpln lexeme="guided(a)" lang="en"><f type="bl"/>guided.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guisa">Guisa,</form> <xpln lexeme="manner(n)" lexeme="guise(n)" lang="en"><f type="bl"/>manner, guise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gusto"><emend err="C">G</emend>usto,</form> <xpln lexeme="taste(n)" lang="en"><f type="bl"/>taste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gustar">Gustar,</form> <xpln lexeme="taste(v)" lang="en"><f type="bl"/>to taste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="gusano">Gusano,</form> <xpln lexeme="worm(n)" lang="en"><f type="bl"/>a worme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guerra">Guerra,</form> <xpln lexeme="war(n)" lang="en"><f type="bl"/>warre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="guarida">Guarida,</form> <xpln lexeme="refuge(n)" lexeme="place of safety(n)" lang="en"><f type="bl"/>a refuge, a place of
+safety.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="hablar">HAblar,</form> <xpln lexeme="speak(v)" lang="en"><f type="bl"/>to speake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hambre">Hambre,</form> <xpln lexeme="hunger(n)" lang="en"><f type="bl"/>hunger.</xpln></wordentry>
+
+
+</page>
+
+<page sig="A4v">
+<wordentry type="h"><form lang="sp" lexeme="haron">Haron,</form> <xpln lexeme="Aaron(pn)" lang="en"><f type="bl"/>Aaron.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hazer">Hazer,</form> <xpln lexeme="do(v)" lang="en"><f type="bl"/>to doe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hazienda">Hazienda</form> <xpln lexeme="substance(n)" lexeme="goods(n)" lang="en"><f type="bl"/>substance, goods.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hecho">Hecho,</form> <xpln lexeme="done(a)" lang="en"><f type="bl"/>done.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hender">Hender,</form> <xpln lexeme="cleave(v)" lexeme="chop(v)" lang="en"><f type="bl"/>to cleaue, to choppe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="heredero">Heredero,</form> <xpln lexeme="heir(n)" lang="en"><f type="bl"/>an heire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hermoso">Hermoso</form>. <xpln lexeme="fair(a)" lang="en"><f type="bl"/>faire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hermano">Hermano,</form> <xpln lexeme="brother(n)" lang="en"><f type="bl"/>brother.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="herrerero">Herrerero,</form> <xpln lexeme="smith(n)" lang="en"><f type="bl"/>a smith.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="herrar">Herrar,</form> <xpln lexeme="set on irons(v)" lang="en"><f type="bl"/>to sette on irons.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="herido">Herido,</form> <xpln lexeme="hurt(a)" lexeme="wounded(a)" lexeme="thrust(a)" lang="en"><f type="bl"/>hurt, wounded, thrust.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="higuera">Higuera,</form> <xpln lexeme="fig tree(n)" lang="en"><f type="bl"/>a figge tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="higo">Higo,</form> <xpln lexeme="fig(n)" lang="en"><f type="bl"/>a figge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hijo">Hijo</form> <xpln lexeme="son(n)" lang="en"><f type="bl"/>sonne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hilar">Hilar,</form> <xpln lexeme="spin(v)" lang="en"><f type="bl"/>to spinne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hilo">Hilo,</form> <xpln lexeme="thread(n)" lang="en"><f type="bl"/>threed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hinchado">Hinchado,</form> <xpln lexeme="swelled(a)" lexeme="puffed up(a)" lexeme="big(a)" lang="en"><f type="bl"/>swelled, puffed vp, big.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hombre">Hombre,</form> <xpln lexeme="man(n)" lang="en"><f type="bl"/>a man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="hormiga">Hormiga</form> <xpln lexeme="pismire(n)" lang="en"><f type="bl"/>a pissemyer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="humillar">Humillar,</form> <xpln lexeme="humble(v)" lang="en"><f type="bl"/>to humble.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="humilde">Humilde,</form> <xpln lexeme="humble(a)" lang="en"><f type="bl"/>humble.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="huyr">Huyr,</form> <xpln lexeme="run away(v)" lexeme="fly(v)" lang="en"><f type="bl"/>to runne away, to flie.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="iamas">IAmas,</form> <xpln lexeme="never(adv)" lang="en"><f type="bl"/>neuer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iarro">Iarro,</form> <xpln lexeme="ewer(n)" lang="en"><f type="bl"/>an Ewer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iardin">Iardin,</form> <xpln lexeme="garden(n)" lang="en"><f type="bl"/>a gardeine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="impio">Impio,</form> <xpln lexeme="ungodly(a)" lexeme="incredulous(a)" lang="en"><f type="bl"/>vngodly, incredulous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="indigno">Indigno,</form> <xpln lexeme="unworthy(a)" lang="en"><f type="bl"/>vnworthy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="induzir">Induzir,</form> <xpln lexeme="persuade(v)" lexeme="exhort(v)" lexeme="induce(v)" lang="en"><f type="bl"/>to perswade, exhorte, to
+induce.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="infinito">Infinito,</form> <xpln lexeme="infinite(a)" lang="en"><f type="bl"/>infinite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="igualdad">Igualdad,</form> <xpln lexeme="equality(n)" lang="en"><f type="bl"/>equality.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="infame">Infame,</form> <xpln lexeme="infamous(a)" lang="en"><f type="bl"/>infamous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="instrumento">Instrumento,</form> <xpln lexeme="instrument(n)" lang="en"><f type="bl"/>instrument.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iornal">Iornal,</form> <xpln lexeme="day's work(n)" lang="en"><f type="bl"/>a daies worke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iubon">Iubon,</form> <xpln lexeme="doublet(n)" lang="en"><f type="bl"/>a do<damage type="u">u</damage>blet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iugar">Iugar,</form> <xpln lexeme="play(v)" lang="en"><f type="bl"/>to play.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iuramento">Iuramento,</form> <xpln lexeme="oath(n)" lang="en"><f type="bl"/>an oath.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iurar">Iurar,</form> <xpln lexeme="swear(v)" lang="en"><f type="bl"/>to sweare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iusto">Iusto,</form> <xpln lexeme="just(a)" lang="en"><f type="bl"/>iust.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="iustamente">Iustamente,</form> <xpln lexeme="justly(adv)" lang="en"><f type="bl"/>iustly. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="ladron">LAdron,</form> <xpln lexeme="thief(n)" lang="en"><f type="bl"/>a theefe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="leer">Leer,</form> <xpln lexeme="read(v)" lang="en"><f type="bl"/>to read.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lengua">Lengua,</form> <xpln lexeme="tongue(n)" lang="en"><f type="bl"/>a tongue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="leche">Leche,</form> <xpln lexeme="milk(n)" lang="en"><f type="bl"/>milke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lexia">Lexia,</form> <xpln lexeme="lye made of ashes(n)" lang="en"><f type="bl"/>lie made of ashes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lexo">Lexo,</form> <xpln lexeme="far off(adv)" lexeme="far from(adv)" lang="en"><f type="bl"/>farre off, far from.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ley">Ley,</form> <xpln lexeme="law(n)" lang="en"><f type="bl"/>a lawe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="liberall">Liberall,</form> <xpln lexeme="liberal(a)" lang="en"><f type="bl"/>liberall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="librar">Librar,</form> <xpln lexeme="deliver out of bondage(v)" lang="en"><f type="bl"/>to deliuer out of bondage</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="libertar">Libertar,</form> <xpln lexeme="set at freedom(v)" lang="en"><f type="bl"/>to sette at freedome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="llamar">Llamar,</form> <xpln lexeme="call(v)" lang="en"><f type="bl"/>to call.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="llaue">Llaue,</form> <xpln lexeme="key(n)" lang="en"><f type="bl"/>a key.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="llegar">Llegar,</form> <xpln lexeme="approach(v)" lexeme="draw near(v)" lexeme="come unto(v)" lexeme="arrive(v)" lang="en"><f type="bl"/>to approch, to draw near.
+to come vnto, to arriue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="leuantar">Lleuantar,</form> <xpln lexeme="rise(v)" lang="en"><f type="bl"/>to rise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lleno">Lleno,</form> <xpln lexeme="full(a)" lang="en"><f type="bl"/>full.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="libreria">Libreria,</form> <xpln lexeme="library(n)" lexeme="shop of books(n)" lang="en"><f type="bl"/>a library, a shop of books</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="limpiar">Limpiar,</form> <xpln lexeme="make clean(v)" lang="en"><f type="bl"/>to make cleane.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="libro">Libro,</form> <xpln lexeme="book(n)" lang="en"><f type="bl"/>a booke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lorar">Lorar,</form> <xpln lexeme="weep(v)" lexeme="wail(v)" lexeme="cry(v)" lang="en"><f type="bl"/>to weepe, waile, cry,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="llouer">Llouer,</form> <xpln lexeme="rain(v)" lang="en"><f type="bl"/>to raine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lodo">Lodo,</form> <xpln lexeme="dirt(v)" lang="en"><f type="bl"/>durt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lobrego">Lobrego,</form> <xpln lexeme="wretched(a)" lexeme="miserable(a)" lexeme="sorrowful(a)" lang="en"><f type="bl"/>wretched, miserable, 
+sorrewfull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lobo">Lobo,</form> <xpln lexeme="wolf(n)" lang="en"><f type="bl"/>a wolfe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="loco">Loco,</form> <xpln lexeme="fool(n)" lang="en"><f type="bl"/>a foole.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="loar">Loar,</form> <xpln lexeme="praise(v)" lang="en"><f type="bl"/>to praise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lugar">Lugar,</form> <xpln lexeme="place(n)" lang="en"><f type="bl"/>place.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="luchar">Luchar,</form> <xpln lexeme="wrestle(v)" lang="en"><f type="bl"/>to wrestle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="luego">Luego,</form> <xpln lexeme="by and by(adv)" lexeme="straightway(adv)" lexeme="incontinently(adv)" lang="en"><f type="bl"/>by and by, straight way,
+incontinently.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="luego que">Luego que,</form> <xpln lexeme="as soon as(adv)" lang="en"><f type="bl"/>as soone as.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lumbral">Lumbral,</form> <xpln lexeme="threshold(n)" lang="en"><f type="bl"/>a threshold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lumbre">Lumbre,</form> <xpln lexeme="light(n)" lang="en"><f type="bl"/>light.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lurado">Lurado,</form> <xpln lexeme="covered over with dirt(a)" lang="en"><f type="bl"/>kiuered ouer with durt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="luz">Luz,</form> <xpln lexeme="light(n)" lexeme="brightness(n)" lang="en"><f type="bl"/>light, brightnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="luzir">Luzir,</form> <xpln lexeme="be light(v)" lexeme="shine(v)" lexeme="glister(v)" lang="en"><f type="bl"/>to bee light, to shine, to gli&shy;
+ster.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="lluvia">Lluvia,</form> <xpln lexeme="rain(n)" lang="en"><f type="bl"/>raine.</xpln></wordentry>
+</wordgroup1>
+
+
+</page>
+
+<page sig="A4v">
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="ma&ccedil;a">Ma&ccedil;a,</form> <xpln lexeme="mallet(n)" lang="en"><f type="bl"/>mallet, a hammer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="maestro">Maestro,</form> <xpln lexeme="schoolmaster(n)" lang="en"><f type="bl"/>schoole maister.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="maldad">Maldad,</form> <xpln lexeme="mischief(n)" lexeme="naughtiness(n)" lang="en"><f type="bl"/>mischiefe, nough&shy;
+tinesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="malo">Malo,</form> <xpln lexeme="naught(n)" lang="en"><f type="bl"/>naught.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mancha">Mancha,</form> <xpln lexeme="stain(n)" lang="en"><f type="bl"/>a staine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="man&ccedil;ano">Man&ccedil;ano,</form> <xpln lexeme="apple tree(n)" lang="en"><f type="bl"/>an apple tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="man&ccedil;ana">Man&ccedil;ana,</form> <xpln lexeme="apple(n)" lang="en"><f type="bl"/>an apple.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="manjar">Manjar,</form> <xpln lexeme="meat(n)" lang="en"><f type="bl"/>meate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ma&ntilde;a">Ma&ntilde;a,</form> <xpln lexeme="manner(n)" lexeme="deceit(n)" lexeme="subtlety(n)" lang="en"><f type="bl"/>manner, deceipt, subtilty,
+or wile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ma&ntilde;ana">Ma&ntilde;ana,</form> <xpln lexeme="morning(n)" lexeme="tomorrow(n)" lang="en"><f type="bl"/>a morning, also to mor&shy;
+rowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mandamiento">Mandamiento,</form> <xpln lexeme="commandment(n)" lang="en"><f type="bl"/>commandement.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="manifestar">Manifestar,</form> <xpln lexeme="make manifest(v)" lang="en"><f type="bl"/>to make manifest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="merrauilla">Merrauilla,</form> <xpln lexeme="marvel(n)" lang="en"><f type="bl"/>meruaile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="marescido">Merescido</form>. <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mas">Mas,</form> <xpln lexeme="more(a)" lang="en"><f type="bl"/>more.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="massa">Massa,</form> <xpln lexeme="mass(n)" lexeme="lump(n)" lang="en"><f type="bl"/>a masse, a lumpe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mascar">Mascar,</form> <xpln lexeme="chaw(v)" lexeme="eat(v)" lang="en"><f type="bl"/>to chaw, to eate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mastin">Mastin,</form> <xpln lexeme="mastiff dog(n)" lang="en"><f type="bl"/>a mastiefe dog.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="matar">Matar,</form> <xpln lexeme="kill(v)" lexeme="slay(v)" lexeme="murder(v)" lang="en"><f type="bl"/>to kill, slaie, or murther.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="matricula">Matricula,</form> <xpln lexeme="catalogue of proper names(n)" lang="en"><f type="bl"/>a catalogue of proper
+names.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="menester es">Menester es,</form> <xpln lexeme="wanting(a)" lexeme="lacking(a)" lexeme="needful(a)" lang="en"><f type="bl"/>it is wanting, lacking
+needfull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="medida">Medida,</form> <xpln lexeme="measure(n)" lang="en"><f type="bl"/>measure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="menor">Menor,</form> <xpln lexeme="less(adv)" lang="en"><f type="bl"/>lesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mejor">Mejor,</form> <xpln lexeme="better(adv)" lang="en"><f type="bl"/>better.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mentira">Mentira,</form> <xpln lexeme="lie(n)" lang="en"><f type="bl"/>a lie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="membrillo">Membrillo,</form> <xpln lexeme="quince(n)" lexeme="quince tree(n)" lang="en"><f type="bl"/>a Quince, and also a 
+Quince tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mengua">Mengua,</form> <xpln lexeme="want(n)" lexeme="poverty(n)" lexeme="indigence(n)" lang="en"><f type="bl"/>want, pouerty, indigence
+lacke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mendigar">Mendigar,</form> <xpln lexeme="beg(v)" lang="en"><f type="bl"/>to begge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mercado">Mercado,</form> <xpln lexeme="market-place(n)" lexeme="cheap(n)" lexeme="market(n)" lang="en"><f type="bl"/>the market place, also
+cheap, a market.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mesa">Mesa,</form> <xpln lexeme="table(n)" lang="en"><f type="bl"/>a table.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mexiza">Mexiza,</form> <xpln lexeme="jaw(n)" lang="en"><f type="bl"/>the iawe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mio">Mio,</form> <xpln lexeme="mine(pr)" lang="en"><f type="bl"/>mine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="misericordia">Misericordia,</form> <xpln lexeme="pity(v)" lang="en"><f type="bl"/>pittie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mismo">Mismo,</form> <xpln lexeme="self(n)" lang="en"><f type="bl"/>selfe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="misericordioso">Misericordioso,</form> <xpln lexeme="pitiful(a)" lang="en"><f type="bl"/>pittifull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="miesse">Miesse,</form> <xpln lexeme="harvest(n)" lang="en"><f type="bl"/>haruest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mirar">Mirar,</form> <xpln lexeme="look(v)" lexeme="see(v)" lexeme="behold(v)" lang="en"><f type="bl"/>to looke, to see, to behold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="milagro">Milagro,</form> <xpln lexeme="thing seldom seen(n)" lexeme="strange(a)" lexeme="monstrous(a)" lang="en"><f type="bl"/>a thing seldome seene,
+strange, monstrous.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="miedo">Miedo,</form> <xpln lexeme="fear(n)" lang="en"><f type="bl"/>feare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="morel">Morel,</form> <xpln lexeme="mulberry tree(n)" lang="en"><f type="bl"/>a mulberie tree, called <term lang="la">Mo&shy;
+rus</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="morar">Morar,</form> <xpln lexeme="dwell(v)" lang="en"><f type="bl"/>to dwell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="moreno">Moreno,</form> <xpln lexeme="brown(a)" lexeme="tawny(a)" lexeme="swartish(a)" lang="en"><f type="bl"/>brown, tawnie, swartish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="morir">Morir,</form> <xpln lexeme="die(v)" lang="en"><f type="bl"/>to die.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mosca">Mosca,</form> <xpln lexeme="fly(n)" lang="en"><f type="bl"/>a flie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mortuorio">Mortuorio,</form> <xpln lexeme="funeral(n)" lexeme="burial(n)" lang="en"><f type="bl"/>a Funerall belonging
+to the buriall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mosquear">Mosquear,</form> <xpln lexeme="drive away(v)" lang="en"><f type="bl"/>to driue awaie flies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mostrar">Mostrar,</form> <xpln lexeme="shew(v)" lang="en"><f type="bl"/>to shewe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="muger">Muger,</form> <xpln lexeme="woman(n)" lang="en"><f type="bl"/>a woman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mundo">Mundo,</form> <xpln lexeme="world(n)" lang="en"><f type="bl"/>the world.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="muncho">Muncho,</form> <xpln lexeme="much(a)" lexeme="great(a)" lexeme="greatly(adv)" lang="en"><f type="bl"/>much, great, greatly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="muerte">Muerte,</form> <xpln lexeme="death(n)" lang="en"><f type="bl"/>death.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mulo">Mulo,</form> <xpln lexeme="mule(n)" lang="en"><f type="bl"/>a Mule.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="multitud">Multitud,</form> <xpln lexeme="multitude(n)" lang="en"><f type="bl"/>a multitude.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mu&ntilde;eco">Mu&ntilde;eco,</form> <xpln lexeme="baby(n)" lexeme="puppet(n)" lang="en"><f type="bl"/>a babie, a puppet, a thing
+that children play with.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mudar">Mudar,</form> <xpln lexeme="change(v)" lexeme="alter(v)" lang="en"><f type="bl"/>to change, to alter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="mudan&ccedil;a">Mundan&ccedil;a,</form> <xpln lexeme="change(n)" lexeme="alteration(n)" lang="en"><f type="bl"/>a change, an alteration.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="nacer">NAcer,</form> <xpln lexeme="born(a)" lexeme="proceed(v)" lexeme="rise(v)" lexeme="grow(v)" lang="en"><f type="bl"/>to be borne, to proceed, to
+rise, to grow, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nadar">Nadar,</form> <xpln lexeme="swim(v)" lang="en"><f type="bl"/>to swimme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nalga">Nalga,</form> <xpln lexeme="buttocks(n)" lang="en"><f type="bl"/>the buttocks.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="naranja">Naranja,</form> <xpln lexeme="orange(n)" lang="en"><f type="bl"/>an Orange.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="naranjo">Naranjo,</form> <xpln lexeme="orange tree(n)" lang="en"><f type="bl"/>an Orange tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nariz">Nariz,</form> <xpln lexeme="nose(n)" lang="en"><f type="bl"/>nose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="maue">Naue,</form> <xpln lexeme="ship(n)" lang="en"><f type="bl"/>a ship.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nauio">Nauio,</form> <xpln lexeme="ship(n)" lang="en"><xref target="Naue"><f type="bl"/>the same.</xref></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nauegar">Nauegar,</form> <xpln lexeme="sail(v)" lang="en"><f type="bl"/>to saile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nauidad">Nauidad,</form> <xpln lexeme="Christmas tide(n)" lang="en"><f type="bl"/>Christmasse tide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="necessidad">Necessidad,</form> <xpln lexeme="necessity(n)" lang="en"><f type="bl"/>necessitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="necessario">Necessario,</form> <xpln lexeme="necessary(a)" lang="en"><f type="bl"/>necessarie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="negotio">Negotio,</form> <xpln lexeme="business(n)" lang="en"><f type="bl"/>busines.</xpln></wordentry>
+
+
+</page>
+
+<page sig="S1r">
+<wordentry type="h"><form lang="sp" lexeme="negro">Negro,</form> <xpln lexeme="black(a)" lang="en"><f type="bl"/>blacke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="neuar">Neuar,</form> <xpln lexeme="snow(v)" lang="en"><f type="bl"/>to snow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="negligente">Negligente,</form> <xpln lexeme="negligent(a)" lang="en"><f type="bl"/>negligent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="negror">Negror,</form> <xpln lexeme="blackness(n)" lang="en"><f type="bl"/>blacknes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="necedad">Necedad,</form> <xpln lexeme="ignorance(n)" lexeme="unskillfulness(n)" lexeme="foolishness(n)" lang="en"><f type="bl"/>ignorance, vnskilfulnes,
+foolishnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="neblina">Neblina,</form> <xpln lexeme="cloud(n)" lang="en"><f type="bl"/>a cloude.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ni">Ni,</form> <xpln lexeme="neither(adv)" lexeme="nor(adv)" lang="en"><f type="bl"/>neither, nor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nido">Nido,</form> <xpln lexeme="nest(n)" lang="en"><f type="bl"/>a neast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ni&ntilde;o">Ni&ntilde;o,</form> <xpln lexeme="child(n)" lang="en"><f type="bl"/>a childe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nebla">Nebla,</form> <xpln lexeme="cloud(n)" lang="en"><f type="bl"/>a cloude.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ninguno">Ninguno,</form> <xpln lexeme="nobody(n)" lang="en"><f type="bl"/>no bodie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nieto">Nieto,</form> <xpln lexeme="nephew(n)" lang="en"><f type="bl"/>nephew.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ni&ntilde;ez">Ni&ntilde;ez,</form> <xpln lexeme="childhood(n)" lang="en"><f type="bl"/>childhood.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="no">No,</form> <xpln lexeme="no(adv)" lexeme="not(adv)" lang="en"><f type="bl"/>no, not.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nogal">Nogal,</form> <xpln lexeme="nut tree(n)" lang="en"><f type="bl"/>a nut tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="noche">Noche,</form> <xpln lexeme="night(n)" lang="en"><f type="bl"/>night.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nombrar">Nombrar,</form> <xpln lexeme="name(v)" lang="en"><f type="bl"/>to name.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nosotros">Nosotros,</form> <xpln lexeme="we(pr)" lang="en"><f type="bl"/>we.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nombre proprio">Nombre proprio,</form> <xpln lexeme="proper name(n)" lang="en"><f type="bl"/>a proper name.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="notazilla">Notazilla,</form> <xpln lexeme="little note(n)" lang="en"><f type="bl"/>a little note.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nouela">Nouela,</form> <xpln lexeme="fable(n)" lexeme="tale(n)" lang="en"><f type="bl"/>a fable or tale.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nouedad">Nouedad,</form> <xpln lexeme="newness(n)" lang="en"><f type="bl"/>newnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nueuas">Nueuas,</form> <xpln lexeme="news(n)" lexeme="tidings(n)" lang="en"><f type="bl"/>newes, tidings.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nuez">Nuez,</form> <xpln lexeme="nut(n)" lang="en"><f type="bl"/>a nut.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nuez moscada">Nuez moscada,</form> <xpln lexeme="nutmeg(n)" lang="en"><f type="bl"/>a nutmeg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nubloso">Nubloso,</form> <xpln lexeme="cloudy(a)" lang="en"><f type="bl"/>cloudie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="nudoso">Nudoso,</form> <xpln lexeme="full of knots(a)" lang="en"><f type="bl"/>full of knots.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="obra">OBra,</form> <xpln lexeme="work(n)" lang="en"><f type="bl"/>a worke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="obedecer">Obedecer,</form> <xpln lexeme="obey(v)" lang="en"><f type="bl"/>to obey.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="obispo">Obispo,</form> <xpln lexeme="bishop(n)" lang="en"><f type="bl"/>a Bishop.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oblada">Oblada,</form> <xpln lexeme="offering(n)" lang="en"><f type="bl"/>a cake, an offering.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="obligar">Obligar,</form> <xpln lexeme="bind(v)" lang="en"><f type="bl"/><emend err="too">to</emend> bind.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="obligado">Obligado,</form> <xpln lexeme="bound(a)" lang="en"><f type="bl"/>bound.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="obrar">Obrar,</form> <xpln lexeme="work(v)" lang="en"><f type="bl"/>to worke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oficial">Oficial,</form> <xpln lexeme="officer(n)" lexeme="art(n)" lexeme="occupation(n)" lang="en"><f type="bl"/>an Officer, also an arte or
+occupation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ofrecer">Ofrecer</form> <xpln lexeme="offer(v)" lang="en"><f type="bl"/>to offer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ofrenda">Ofrenda,</form> <xpln lexeme="sacrifice(n)" lang="en"><f type="bl"/>a sacrifice.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oir">Oir,</form> <xpln lexeme="hear(v)" lang="en"><f type="bl"/>to heare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ojo">Ojo,</form> <xpln lexeme="eye(n)" lang="en"><f type="bl"/>an eie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oliua">Oliua,</form> <xpln lexeme="olive(n)" lang="en"><f type="bl"/>an Oliue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oler">Oler,</form> <xpln lexeme="smell(v)" lang="en"><f type="bl"/>to smell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="olla">Olla,</form> <xpln lexeme="pot(n)" lang="en"><f type="bl"/>a pot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="olor">Olor,</form> <xpln lexeme="smell(n)" lang="en"><f type="bl"/>a smel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="olmo">Olmo,</form> <xpln lexeme="elm tree(n)" lang="en"><f type="bl"/>an Elme tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="olvidar">Olvidar,</form> <xpln lexeme="forget(v)" lang="en"><f type="bl"/>to forget.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="omiziano">Omiziano,</form> <xpln lexeme="manslayer(n)" lang="en"><f type="bl"/>a manslayer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ora">Ora,</form> <xpln lexeme="hour(n)" lang="en"><f type="bl"/>an houre.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="orador">Orador,</form> <xpln lexeme="orator(n)" lang="en"><f type="bl"/>an Orator.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="orar">Orar,</form> <xpln lexeme="pray(v)" lang="en"><f type="bl"/>to praie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="orden">Orden,</form> <xpln lexeme="order(n)" lang="en"><f type="bl"/>order.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="origen">Origen,</form> <xpln lexeme="offspring(n)" lexeme="beginning(n)" lang="en"><f type="bl"/>an ofspring, beginning.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oreja">Oreja,</form> <xpln lexeme="ear(n)" lang="en"><f type="bl"/>an eare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="orella">Orella,</form> <xpln lexeme="hem of a coat or garment(n)" lexeme="skirt of a coat or garment(n)" lang="en"><f type="bl"/>the hem or skirt of a coate
+or garment.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="orin">Orin,</form> <xpln lexeme="rust(n)" lang="en"><f type="bl"/>rust.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ostinado">Ostinado,</form> <xpln lexeme="obstinate(a)" lang="en"><f type="bl"/>obstinate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="osadia">Osadia,</form> <xpln lexeme="boldness(n)" lexeme="audacity(n)" lang="en"><f type="bl"/>boldnes, audacitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="osar">Osar,</form> <xpln lexeme="bold(a)" lang="en"><f type="bl"/>to be bold.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="otero">Otero,</form> <xpln lexeme="high hill(n)" lexeme="watch-towner(n)" lang="en"><f type="bl"/>a high hill, or watch tower.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="otorgar">Otorgar,</form> <xpln lexeme="grant(v)" lexeme="allow(v)" lexeme="privilege(v)" lang="en"><f type="bl"/>to graunt, to allowe, to
+priuiledge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="otro">Otro,</form> <xpln lexeme="another(n)" lang="en"><f type="bl"/>another.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="otra y ostra vez">Otra y ostra vez,</form> <xpln lexeme="again and again(adv)" lang="en"><f type="bl"/>againe and again.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="otio">Otio,</form> <xpln lexeme="leisure(n)" lang="en"><f type="bl"/>leasure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oueja">Oueja,</form> <xpln lexeme="sheep(n)" lang="en"><f type="bl"/>a sheepe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ouillo">Ouillo,</form> <xpln lexeme="bottom(n)" lexeme="clew(n)" lang="en"><f type="bl"/>a bottom or clew of threed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oxala">Oxala,</form> <xpln lexeme="would to God(v)" lexeme="God grant(v)" lang="en"><f type="bl"/>would to God, God gr<expan type="a+_">an</expan>t.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="oxear">Oxear,</form> <xpln lexeme="drive away(v)" lang="en"><f type="bl"/>to driue awaie.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="padecer">PAdecer,</form> <xpln lexeme="suffer(v)" lang="en"><f type="bl"/>to suffer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="padre">Padre,</form> <xpln lexeme="father(n)" lang="en"><f type="bl"/>father.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pagar">Pagar,</form> <xpln lexeme="pay(v)" lang="en"><f type="bl"/>to paie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="palma">Palma,</form> <xpln lexeme="palm(n)" lexeme="palm of the hand(n)" lang="en"><f type="bl"/>palme:  also the palme of 
+the hand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="palabra">Palabra,</form> <xpln lexeme="word(n)" lang="en"><f type="bl"/>a word.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="palo">Palo,</form> <xpln lexeme="stick(n)" lang="en"><f type="bl"/>a sticke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pa&ntilde;o">Pa&ntilde;o,</form> <xpln lexeme="cloth(n)" lang="en"><f type="bl"/>cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pan">Pan,</form> <xpln lexeme="bread(n)" lang="en"><f type="bl"/>bread.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="parra">Parra</form> <xpln lexeme="vine(n)" lang="en"><f type="bl"/>a vine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="partir">Partir,</form> <xpln lexeme="part(v)" lexeme="divide(v)" lang="en"><f type="bl"/>to part, to diuide.</xpln></wordentry>
+
+
+</page>
+
+<page sig="S1v">
+<wordentry type="h"><form lang="sp" lexeme="passear">Passear,</form> <xpln lexeme="walk(v)" lang="en"><f type="bl"/>to walke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="patria">Patria,</form> <xpln lexeme="country(n)" lang="en"><f type="bl"/>Countrie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="paz">Paz,</form> <xpln lexeme="peace(n)" lang="en"><f type="bl"/>peace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pared">Pared,</form> <xpln lexeme="wall(n)" lang="en"><f type="bl"/>a wall.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="parir">Parir,</form> <xpln lexeme="de delivered(v)" lexeme="be in childbed(v)" lang="en"><f type="bl"/>to bee deliuered, to bee in
+childbed.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pariente">Pariente,</form> <xpln lexeme="kinsman(n)" lang="en"><f type="bl"/>kinsman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="parida">Parida,</form> <xpln lexeme="woman lately brought to bed(n)" lang="en"><f type="bl"/>a woman lately brought
+<emend err="tobed">to bed</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pararse">Pararse,</form> <xpln lexeme="rest(v)" lexeme="stay(v)" lexeme="stand still(v)" lang="en"><f type="bl"/>to rest, to stay, to st<expan type="a+_">an</expan>d stil.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="partera">Partera,</form> <xpln lexeme="midwife(n)" lang="en"><f type="bl"/>a midwife.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="paxaro">Paxaro,</form> <xpln lexeme="bird(n)" lang="en"><f type="bl"/>a bird.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pastel">Pastel,</form> <xpln lexeme="pie(n)" lang="en"><f type="bl"/>a pie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peccado">Peccado,</form> <xpln lexeme="sin(n)" lang="en"><f type="bl"/>sinne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peor">Peor,</form> <xpln lexeme="worse(a)" lang="en"><f type="bl"/>worse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pena">Pena,</form> <xpln lexeme="punishment(n)" lang="en"><f type="bl"/>punishment.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pequeno">Pequeno,</form> <xpln lexeme="little(a)" lang="en"><f type="bl"/>little.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pece">Pece,</form> <xpln lexeme="fish(n)" lang="en"><f type="bl"/>fish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peque&ntilde;ito">Peque&ntilde;ito,</form> <xpln lexeme="very little(a)" lang="en"><f type="bl"/>verie little.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="perdiz">Perdiz,</form> <xpln lexeme="partridge(n)" lang="en"><f type="bl"/>a partridge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pedaro">Pedaro,</form> <xpln lexeme="piece(n)" lang="en"><f type="bl"/>a peece</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="permitir">Permitir</form> <xpln lexeme="suffer(v)" lang="en"><f type="bl"/>to suffer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peal">Peal,</form> <xpln lexeme="sock(n)" lang="en"><f type="bl"/>a socke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="perdonar">Perdonar,</form> <xpln lexeme="pardon(v)" lang="en"><f type="bl"/>to pardon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pegar">Pegar,</form> <xpln lexeme="paste together(v)" lang="en"><f type="bl"/>to paste together.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peral">Peral</form> <xpln lexeme="pear tree(n)" lang="en"><f type="bl"/>a peare tree.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peynar">Peynar,</form> <xpln lexeme="come(v)" lang="en"><f type="bl"/>to come.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pera">Pera,</form> <xpln lexeme="pear(n)" lang="en"><f type="bl"/>a peare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peyne">Peyne,</form> <xpln lexeme="comb(n)" lang="en"><f type="bl"/>a combe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="perder">Perder,</form> <xpln lexeme="lose(v)" lang="en"><f type="bl"/>to leese.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pelear">Pelear,</form> <xpln lexeme="fight(v)" lang="en"><f type="bl"/>to fight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pertenese">Pertenese,</form> <xpln lexeme="appertain(v)" lang="en"><f type="bl"/>it appertaineth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peligro">Peligro,</form> <xpln lexeme="danger(n)" lang="en"><f type="bl"/>danger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="perfecto">Perfecto,</form> <xpln lexeme="perfect(a)" lang="en"><f type="bl"/>perfect.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pedo">Pedo,</form> <xpln lexeme="hair(n)" lang="en"><f type="bl"/>a haire.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="persona">Persona,</form> <xpln lexeme="person(n)" lang="en"><f type="bl"/>a person.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pensar">Pensar,</form> <xpln lexeme="think(v)" lang="en"><f type="bl"/>to thinke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="peon">Peon,</form> <xpln lexeme="footman(n)" lexeme="light horseman(n)" lexeme="journeyman(n)" lexeme="mercenary workman(n)" lang="en"><f type="bl"/>a footman: also a light horse
+man, also a iourneyman, a mer&shy;
+cenarie workman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pereza">Pereza,</form> <xpln lexeme="laziness(n)" lexeme="sluggishness(n)" lexeme="sorry(a)" lang="en"><f type="bl"/>lasines, sluggishnes: also to
+be sorie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pesar">Pesar,</form> <xpln lexeme="weigh(v)" lexeme="heavy(a)" lang="en"><f type="bl"/>to waigh, to be heauie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="piadoso">Piadoso,</form> <xpln lexeme="pitiful(a)" lexeme="merciful(a)" lang="en"><f type="bl"/>pittifull, mercifull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pichel">Pichel,</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pie">Pie,</form> <xpln lexeme="foot(n)" lang="en"><f type="bl"/>a foot.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="piensar">Piensar,</form> <xpln lexeme="think(v)" lang="en"><f type="bl"/>to thinke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pimienta">Pimienta,</form> <xpln lexeme="pepper(n)" lang="en"><f type="bl"/>pepper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="piedra">Piedra,</form> <xpln lexeme="stone(n)" lang="en"><f type="bl"/>a stone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pintar">Pintar,</form> <xpln lexeme="paint(v)" lang="en"><f type="bl"/>to paint.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="plazer">Plazer,</form> <xpln lexeme="pleasure(n)" lexeme="delight(n)" lang="en"><f type="bl"/>pleasure, delight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pleyto">Pleyto,</form> <xpln lexeme="suit in law(n)" lang="en"><f type="bl"/>a sute in law.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="platero">Platero,</form> <xpln lexeme="goldsmith(n)" lexeme="engraver(n)" lexeme="carver(n)" lang="en"><f type="bl"/>a gold-smith an ingrauer,
+a caruer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="plegar">Plegar,</form> <xpln lexeme="fold(v)" lang="en"><f type="bl"/><emend err="tofold">to fold</emend>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="plomo">Plomo,</form> <xpln lexeme="lead(n)" lang="en"><f type="bl"/>Lead.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pluma">Pluma,</form> <xpln lexeme="feather(n)" lexeme="pen(n)" lang="en"><f type="bl"/>a feather, a pen to write.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pobre">Pobre,</form> <xpln lexeme="poor(a)" lang="en"><f type="bl"/>poure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="poder">Poder,</form> <xpln lexeme="able(a)" lang="en"><f type="bl"/>to be able.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="poco">Poco,</form> <xpln lexeme="little(n)" lang="en"><f type="bl"/>a little</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="poner">Poner,</form> <xpln lexeme="put(v)" lang="en"><f type="bl"/>to put.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="poluo">Poluo,</form> <xpln lexeme="dust(n)" lexeme="sand(n)" lang="en"><f type="bl"/>dust, sand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="por">Por,</form> <xpln lexeme="for(pp)" lang="en"><f type="bl"/>for.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pourque">Pourque</form>? <xpln lexeme="wherefore(adv)" lang="en"><f type="bl"/>wherefore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="polla">Polla,</form> <xpln lexeme="chicken(n)" lang="en"><f type="bl"/>a chicken.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="por mi">Por mi,</form> <xpln lexeme="for me(pr)" lang="en"><f type="bl"/>for me.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="por ti">Por ti,</form> <xpln lexeme="for thee(pr)" lang="en"><f type="bl"/>for thee.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="porque">Porque,</form> <xpln lexeme="because(c)" lang="en"><f type="bl"/>because.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="posar">Posar,</form> <xpln lexeme="rest(v)" lang="en"><f type="bl"/>to rest.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="porsiar">Porsiar,</form> <xpln lexeme="stand upon a thing obstinately(v)" lexeme="persevere(v)" lang="en"><f type="bl"/>to affirme, to stand vppon
+a thing obstinatly, to perseuer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="posseer">Posseer,</form> <xpln lexeme="possess(v)" lang="en"><f type="bl"/>to possesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pozo">Pozo,</form> <xpln lexeme="well(n)" lang="en"><f type="bl"/>a well.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="postigo">Postigo,</form> <xpln lexeme="back door(n)" lang="en"><f type="bl"/>a backe dore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="prima">Prima,</form> <xpln lexeme="cousin(n)" lexeme="kinsman(n)" lang="en"><f type="bl"/>cosine, kinsman</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="principall">Principall,</form> <xpln lexeme="principal(a)" lexeme="chief(a)" lang="en"><f type="bl"/>principall, chiefe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="presto">Presto,</form> <xpln lexeme="quickly(adv)" lexeme="soon(adv)" lang="en"><f type="bl"/>quickly, soone.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="prestar">Prestar,</form> <xpln lexeme="borrow(v)" lexeme="lend(v)" lang="en"><f type="bl"/>to borrow or lend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="preceptos">Preceptos,</form> <xpln lexeme="precept(n)" lang="en"><f type="bl"/>precepts.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="predicar">Predicar,</form> <xpln lexeme="preach(v)" lang="en"><f type="bl"/>to preach.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="preguntar">Preguntar,</form> <xpln lexeme="ask(v)" lang="en"><f type="bl"/>to aske.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="prometer">Prometer,</form> <xpln lexeme="promise(v)" lang="en"><f type="bl"/>to promise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="prouecho">Prouecho,</form> <xpln lexeme="profit(v)" lang="en"><f type="bl"/>profite.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="produzir">Produzir,</form> <xpln lexeme="produce(v)" lexeme="bring forth(v)" lang="en"><f type="bl"/>to produce, to br<expan type="i+_">in</expan>g forth</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="prontamente">Prontamente,</form> <xpln lexeme="readily(adv)" lang="en"><f type="bl"/>readilie, promptly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="propriamente">Propriamente,</form> <xpln lexeme="properly(adv)" lang="en"><f type="bl"/>properly.</xpln></wordentry>
+
+
+</page>
+
+<page sig="S2r">
+<wordentry type="h"><form lang="sp" lexeme="promessas">Promessas,</form> <xpln lexeme="promise(n)" lang="en"><f type="bl"/>promises.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="prouar">Prouar,</form> <xpln lexeme="prove(v)" lexeme="try(v)" lang="en"><f type="bl"/>to proue, to try.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="proueer">Proueer,</form> <xpln lexeme="provide(v)" lang="en"><f type="bl"/>to prouide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pua">Pua,</form> <xpln lexeme="iron pike(n)" lexeme="point of a weapon(n)" lexeme="spear-head(n)" lang="en"><f type="bl"/>an iron pike, an iron prick, <expan type="y+t">the</expan>
+point of a weapon, a spear head.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="publicar">Publicar,</form> <xpln lexeme="publish(v)" lang="en"><f type="bl"/>to publish.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pueblo">Pueblo,</form> <xpln lexeme="people(n)" lang="en"><f type="bl"/>people.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="puento">Puento,</form> <xpln lexeme="bridge(n)" lang="en"><f type="bl"/>a bridge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="puerta">Puerta,</form> <xpln lexeme="gate(n)" lexeme="door(n)" lang="en"><f type="bl"/>a gate, a dore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="puerco">Puerco,</form> <xpln lexeme="hog(n)" lang="en"><f type="bl"/>a hogge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="pulga">Pulga,</form> <xpln lexeme="flea(n)" lang="en"><f type="bl"/>a flea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="purgar">Purgar,</form> <xpln lexeme="make clean(v)" lang="en"><f type="bl"/>to make cleane.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="qval">QVal,</form> <xpln lexeme="what kind of thing(n)" lang="en"><f type="bl"/>what kinde of thing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quando">Quando,</form> <xpln lexeme="when(c)" lang="en"><f type="bl"/>when.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quando">Quanto,</form> <xpln lexeme="how much(adv)" lang="en"><f type="bl"/>how much.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quantos">Quantos,</form> <xpln lexeme="how many(adv)" lang="en"><f type="bl"/>how many.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quebrar">Quebrar,</form> <xpln lexeme="break(v)" lang="en"><f type="bl"/>to breake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quebrantar">Quebrantar,</form> <xpln lexeme="break(v)" lexeme="violate(v)" lang="en"><f type="bl"/>to breake or violate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quedar">Quedar,</form> <xpln lexeme="remain(v)" lexeme="stay(v)" lang="en"><f type="bl"/>to remaine, to stay.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quemar">Quemar,</form> <xpln lexeme="burn(v)" lang="en"><f type="bl"/>to burne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="querer">Querer,</form> <xpln lexeme="will(v)" lang="en"><f type="bl"/>to will.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="queso">Queso,</form> <xpln lexeme="cheese(n)" lang="en"><f type="bl"/>cheese.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="querella">Querella,</form> <xpln lexeme="complaint(n)" lang="en"><f type="bl"/>a complainte.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quexura">Quexura,</form> <xpln lexeme="haste(n)" lexeme="making of haste(n)" lang="en"><f type="bl"/>hast, or making of hast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quitar">Quitar,</form> <xpln lexeme="take away(v)" lexeme="separate(v)" lang="en"><f type="bl"/>toake away, to seperat,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="quexa">Quexa,</form> <xpln lexeme="complaint(n)" lang="en"><f type="bl"/>a complaint.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="raez">RAez,</form> <xpln lexeme="easy(a)" lang="en"><f type="bl"/>easie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rayo">Rayo,</form> <xpln lexeme="rayon of the sun(n)" lexeme="beam of the sun(n)" lang="en"><f type="bl"/>the rayon or beame of
+the sunne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="raiz">Raiz,</form> <xpln lexeme="root(n)" lang="en"><f type="bl"/>a roote.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rama">Rama,</form> <xpln lexeme="branch(n)" lang="en"><f type="bl"/>a braunch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="razo">Razo,</form> <xpln lexeme="raised silk(n)" lang="en"><f type="bl"/>rased silke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="razimo">Razimo,</form> <xpln lexeme="bunch of grapes(n)" lang="en"><f type="bl"/>a bunch of grapes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rauia">Rauia,</form> <xpln lexeme="madness(n)" lexeme="woodness(n)" lang="en"><f type="bl"/>madnesse, woodnesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="recebir">Recebir,</form> <xpln lexeme="receive(v)" lang="en"><f type="bl"/>to receiue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="redemptor">Redemptor,</form> <xpln lexeme="redemptor(n)" lang="en"><f type="bl"/>a redemptor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="redemtion">Redemtion,</form> <xpln lexeme="redemption(n)" lang="en"><f type="bl"/>redemtion.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="regir">Regir,</form> <xpln lexeme="govern(v)" lang="en"><f type="bl"/>to gouerne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="regeneracion">Regeneracion,</form> <xpln lexeme="regeneration(n)" lang="en"><f type="bl"/>regeneration.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="reir">Reir,</form> <xpln lexeme="laugh(v)" lang="en"><f type="bl"/>to laugh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="re&ntilde;egar">Re&ntilde;egar,</form> <xpln lexeme="deny(v)" lexeme="rebel(v)" lexeme="revolt(v)" lang="en"><f type="bl"/>to deny, to rebell, to re&shy;
+uolt.
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="re&ntilde;ir">Re&ntilde;ir,</form> <xpln lexeme="chide(v)" lang="en"><f type="bl"/>to chide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="repartir">Repartir,</form> <xpln lexeme="distribute(v)" lexeme="divide(v)" lexeme="part(v)" lang="en"><f type="bl"/>to distribute, to deuide,
+to part.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="reprimir">Reprimir,</form> <xpln lexeme="repress(v)" lang="en"><f type="bl"/>to represse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rescatar">Rescatar,</form> <xpln lexeme="redeem(v)" lang="en"><f type="bl"/>to redeeme.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="requerir">Requerir,</form> <xpln lexeme="require(v)" lang="en"><f type="bl"/>to require.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="resultar">Resultar,</form> <xpln lexeme="rebound(v)" lexeme="leap back(v)" lang="en"><f type="bl"/>to rebo<expan type="u+_">un</expan>d, to leape back.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="reuerenciar">Reuerenciar,</form> <xpln lexeme="reverence(v)" lang="en"><f type="bl"/>to reuerence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rey">Rey,</form> <xpln lexeme="king(n)" lang="en"><f type="bl"/>a king.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="reyno">Reyno,</form> <xpln lexeme="kingdom(n)" lang="en"><f type="bl"/>a kingdome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rezio">Rezio,</form> <xpln lexeme="strong(a)" lexeme="hard(a)" lang="en"><f type="bl"/>strong, hard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rezar">Rezar,</form> <xpln lexeme="rehearse(v)" lang="en"><f type="bl"/>to rehearse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="reziente">Reziente,</form> <xpln lexeme="fresh(a)" lexeme="new(a)" lang="en"><f type="bl"/>fresh, newe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rezma de papel">Rezma de papel,</form> <xpln lexeme="ream of paper(n)" lang="en"><f type="bl"/>a ream of paper.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ria">Ria,</form> <xpln lexeme="haven(n)" lang="en"><f type="bl"/>a hauen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="riatillo">Riatillo,</form> <xpln lexeme="little river(n)" lang="en"><f type="bl"/>a little riuer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ribera">Ribera,</form> <xpln lexeme="seashore(n)" lexeme="sea-coast(n)" lexeme="sea-bank(n)" lang="en"><f type="bl"/><expan type="y+t">the</expan> sea shoar, coast or banck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="riguroso">Riguroso,</form> <xpln lexeme="rigorous(a)" lexeme="hard(a)" lexeme="cruel(a)" lang="en"><f type="bl"/>rigorous, hard, cruell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ricor">Ricor,</form> <xpln lexeme="rich(a)" lang="en"><f type="bl"/>rich.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="risa">Risa,</form> <xpln lexeme="laughter(n)" lang="en"><f type="bl"/>laughter.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rincon">Rincon,</form> <xpln lexeme="corner(n)" lang="en"><f type="bl"/>a corner.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rio">Rio,</form> <xpln lexeme="river(n)" lang="en"><f type="bl"/>a riuer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="riqueza">Riqueza,</form> <xpln lexeme="riches(n)" lang="en"><f type="bl"/>riches.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="robar">Robar,</form> <xpln lexeme="rob(v)" lang="en"><f type="bl"/>to robbe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rodar">Rodar,</form> <xpln lexeme="turn a thing like a wheel(v)" lexeme="swing about(v)" lang="en"><f type="bl"/>to turne a thinge like a 
+wheele, to swing about.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="romper">Romper,</form> <xpln lexeme="break(v)" lang="en"><f type="bl"/>to breake.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ro&ntilde;a">Ro&ntilde;a,</form> <xpln lexeme="scabbedness(n)" lexeme="itch(n)" lang="en"><f type="bl"/>scabbednesse, itch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="roxo">Roxo,</form> <xpln lexeme="red(a)" lang="en"><f type="bl"/>read.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ruido">Ruido,</form> <xpln lexeme="noise(n)" lang="en"><f type="bl"/>a noise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="rumiar">Rumiar,</form> <xpln lexeme="chew the cud(v)" lang="en"><f type="bl"/>to chewe the cudde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ruim">Ruim,</form> <xpln lexeme="nought(pr)" lang="en"><f type="bl"/>nought.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="saber">SAber,</form> <xpln lexeme="know(v)" lang="en"><f type="bl"/>to knowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sabio">Sabio,</form> <xpln lexeme="wise(a)" lang="en"><f type="bl"/>wise.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sabiduria">Sabiduria,</form> <xpln lexeme="wisdom(n)" lang="en"><f type="bl"/>wisedome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sabiamente">Sabiamente,</form> <xpln lexeme="wittily(adv)" lang="en"><f type="bl"/>wittely.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sacramento">Sacramento,</form> <xpln lexeme="sacrament(n)" lang="en"><f type="bl"/>the Sacrament.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sacrar">Sacrar,</form> <xpln lexeme="take forth(v)" lang="en"><f type="bl"/>to take forth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="saco">Saco,</form> <xpln lexeme="sack(n)" lexeme="bag(v)" lang="en"><f type="bl"/>a sacke, a bagge.</xpln></wordentry>
+
+
+</page>
+
+<page sig="S2v">
+<wordentry type="h"><form lang="sp" lexeme="sacudir">Sacudir,</form> <xpln lexeme="beat down(v)" lang="en"><f type="bl"/>to beate downe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="saeta">Sae<damage>ta</damage>,</form> <xpln lexeme="arrow(n)" lang="en"><f type="bl"/>an arrowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sagrario">Sagrario,</form> <xpln lexeme="sanctuary(n)" lang="en"><f type="bl"/>a sanctuary.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="saltar">Saltar,</form> <xpln lexeme="leap(v)" lang="en"><f type="bl"/>to leape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="saltear">Saltear,</form> <xpln lexeme="assail(v)" lexeme="set upon(v)" lexeme="rob(v)" lexeme="spoil(v)" lang="en"><f type="bl"/>to assaile, or sette vpon,
+to robbe or spoile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="salud">Salud,</form> <xpln lexeme="health(n)" lang="en"><f type="bl"/>health, the good state of
+<emend err="once">ones</emend> condition, or life. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sanctidad">Sanctidad,</form> <xpln lexeme="holiness(n)" lang="en"><f type="bl"/>holinesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sancto">Sancto,</form> <xpln lexeme="holy(a)" lang="en"><f type="bl"/>holy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sana">Sana,</form> <xpln lexeme="anger(n)" lang="en"><f type="bl"/>anger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sanidad">Sanidad,</form> <xpln lexeme="health(n)" lang="en"><f type="bl"/>health of the body.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sano">Sano,</form> <xpln lexeme="healthful(a)" lexeme="whole(a)" lexeme="sound(a)" lexeme="not sick(a)" lang="en"><f type="bl"/>healthfull, whole, sounde,
+not sicke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="Sathanas">Sathanas,</form> <xpln lexeme="Satan(n)" lexeme="devil(n)" lang="en"><f type="bl"/>sathan, the deuill.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="satisfaction">Satisfaction,</form> <xpln lexeme="satisfaction(n)" lang="en"><f type="bl"/>satisfaction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sauana">Sauana,</form> <xpln lexeme="sheet(n)" lang="en"><f type="bl"/>a sheete.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sazon">Sazon,</form> <xpln lexeme="season(n)" lexeme="time(n)" lang="en"><f type="bl"/>season, time.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sangre">Sangre,</form> <xpln lexeme="blood(n)" lang="en"><f type="bl"/>blood.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="salir">Salir,</form> <xpln lexeme="go out(v)" lexeme="issue(v)" lang="en"><f type="bl"/>to goe out, to issue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sed">Sed,</form> <xpln lexeme="thirst(n)" lang="en"><f type="bl"/>thirst.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="seda">Seda,</form> <xpln lexeme="silk(n)" lang="en"><f type="bl"/>silke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="seguir">Seguir,</form> <xpln lexeme="follow(v)" lang="en"><f type="bl"/>to follow.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="semejante">Semejante,</form> <xpln lexeme="like(a)" lang="en"><f type="bl"/>like.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="segun">Segun,</form> <xpln lexeme="according(pp)" lang="en"><f type="bl"/>according.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="se&ntilde;or">Se&ntilde;or,</form> <xpln lexeme="lord(n)" lexeme="sir(n)" lang="en"><f type="bl"/>Lord, sir.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sentir">Sentir,</form> <xpln lexeme="perceive(v)" lexeme="feel(v)" lexeme="discern(v)" lang="en"><f type="bl"/>to perceiue, to feele, to dis&shy;
+cerne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ser">Ser,</form> <xpln lexeme="be(v)" lang="en"><f type="bl"/>to bee.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="seruir">Seruir,</form> <xpln lexeme="serve(v)" lang="en"><f type="bl"/>to serue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="seuero">Seuero,</form> <xpln lexeme="severe(a)" lexeme="cruel(a)" lexeme="hard(a)" lexeme="grave(a)" lang="en"><f type="bl"/>seuere, cruell, hard, graue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="seueramente">Seueramente,</form> <xpln lexeme="cruelly(adv)" lexeme="severely(adv)" lexeme="hardly(adv)" lang="en"><f type="bl"/>cruelly, seuerely,
+hardly.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="se&ntilde;al">Se&ntilde;al,</form> <xpln lexeme="sign(n)" lexeme="token(n)" lang="en"><f type="bl"/>a signe or token.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="seruidor">Seruidor,</form> <xpln lexeme="servant(n)" lexeme="minister(n)" lang="en"><f type="bl"/>a seruant, a minister.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sefos">Sefos,</form> <xpln lexeme="brains(n)" lang="en"><f type="bl"/>the braines.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="silla">Silla,</form> <xpln lexeme="stool(n)" lexeme="settle(n)" lang="en"><f type="bl"/>a stoole, a settell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="siempre">Siempre,</form> <xpln lexeme="always(adv)" lang="en"><f type="bl"/>alwaies.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="simiente">Simiente,</form> <xpln lexeme="feed(n)" lang="en"><f type="bl"/>feede.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sitio">Sitio,</form> <xpln lexeme="situation(n)" lang="en"><f type="bl"/>the situation.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="so">So,</form> <xpln lexeme="under(pp)" lang="en"><f type="bl"/>vnder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="soberuio">Soberuio,</form> <xpln lexeme="proud(a)" lang="en"><f type="bl"/>proud.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sobornar">Sobornar,</form> <xpln lexeme="suborn(v)" lexeme="instruct how to deceive(v)" lexeme="instruct how to bear false witness(v)" lang="en"><f type="bl"/>to suborne, to instruct
+one how to deceiue, or how to
+be a false witnes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="soldado">Soldado,</form> <xpln lexeme="soldier(n)" lang="en"><f type="bl"/>a souldier.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="solaz">Solaz,</form> <xpln lexeme="comfort(n)" lexeme="solace(n)" lang="en"><f type="bl"/>comfort, solace.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="soliuiar">Soliuiar,</form> <xpln lexeme="ease(v)" lexeme="defend(v)" lexeme="succour(v)" lexeme="lighten(v)" lexeme="lessen(v)" lang="en"><f type="bl"/>to ease, to defende, to
+succour, to lighten, to lessen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sobrar">Sobrar,</form> <xpln lexeme="remain over(v)" lang="en"><f type="bl"/>to remaine ouer.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="soler">Soler,</form> <xpln lexeme="be accustomed(v)" lexeme="use(v)" lang="en"><f type="bl"/>to bee accustomed, to vse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sollo&ccedil;ar">Sollo&ccedil;ar,</form> <xpln lexeme="yex(v)" lexeme="sob often(v)" lang="en"><f type="bl"/>to yex, to sob often.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="so&ntilde;ar">Son&ntilde;ar,</form> <xpln lexeme="dream(v)" lang="en"><f type="bl"/>to dreame.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="soltura">Soltura,</form> <xpln lexeme="losing(n)" lexeme="untying(n)" lexeme="undoing(n)" lang="en"><f type="bl"/>a losing, vntying, vndo&shy;
+ing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="suelo">Suelo,</form> <xpln lexeme="ground(n)" lang="en"><f type="bl"/>the ground.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="subir">Subir,</form> <xpln lexeme="go up(v)" lang="en"><f type="bl"/>to goe vppe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="suerte">Suerte,</form> <xpln lexeme="chance(n)" lexeme="hap(n)" lang="en"><f type="bl"/>chaunce, hap.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sufrir">Sufrir,</form> <xpln lexeme="suffer(v)" lang="en"><f type="bl"/>to suffer,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sujuzgar">Sujuzgar,</form> <xpln lexeme="subdue(v)" lang="en"><f type="bl"/>to subdew.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sumar">Sumar,</form> <xpln lexeme="cast a sum(v)" lang="en"><f type="bl"/>to cast a summe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="suzo">Suzo,</form> <xpln lexeme="upon(pp)" lang="en"><f type="bl"/>vppon</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="suzio">Suzio,</form> <xpln lexeme="foul(a)" lexeme="dirty(a)" lang="en"><f type="bl"/>fowle, durty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sudar">Sudar,</form> <xpln lexeme="sweat(v)" lang="en"><f type="bl"/>to sweate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="suegra">Suegra,</form> <xpln lexeme="mother-in-law(n)" lang="en"><f type="bl"/>the wiues or husbandes
+mother, a mother in law.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sue&ntilde;o">Sue&ntilde;o,</form> <xpln lexeme="dream(n)" lang="en"><f type="bl"/>a dreame.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sustentar">Sustenar,</form> <xpln lexeme="maintain(v)" lexeme="keep(v)" lexeme="uphold(v)" lexeme="bear up(v)" lang="en"><f type="bl"/>to maintaine, to keep,
+to vphold, to beare vp.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="sugoso">Sugoso,</form> <xpln lexeme="full of juice(a)" lexeme="moist(a)" lang="en"><f type="bl"/>full of iuice, moiste.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="suyo">Suyo,</form> <xpln lexeme="his(pr)" lang="en"><f type="bl"/>his.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="tabla">TAbla,</form> <xpln lexeme="table(n)" lexeme="board(n)" lang="en"><f type="bl"/>a table, or boord,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tachar">Tachar,</form> <xpln lexeme="show one his vice(v)" lexeme="rebuke(v)" lexeme="blame(v)" lexeme="find fault with(v)" lang="en">to shew one his vice,
+to rebuke, to blame, to find fault
+with.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tajar">Tajar,</form> <xpln lexeme="cut(v)" lexeme="cleave(v)" lang="en"><f type="bl"/>to cut, to cleaue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tan">Tan,</form> <xpln lexeme="so(adv)" lexeme="so cold(a)" lang="en"><f type="bl"/>so. <subform>Tan frio,</subform> <subxpln><f type="bl"/>so colde.</subxpln></xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tanto">Tanto,</form> <xpln lexeme="so much(adv)" lang="en"><f type="bl"/>so much.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tantoque">Tantoque,</form> <xpln lexeme="whilst(c)" lang="en"><f type="bl"/>whilst.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tardo">Tardo,</form> <xpln lexeme="late(a)" lang="en"><f type="bl"/>late.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="temer">Temer,</form> <xpln lexeme="fear(v)" lang="en"><f type="bl"/>to feare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="templo">Templo,</form> <xpln lexeme="church(n)" lexeme="temple(n)" lang="en"><f type="bl"/>a church, a temple.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tener">Tener,</form> <xpln lexeme="hold(v)" lang="en"><f type="bl"/>to holde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="terciopelo">Terciopelo,</form> <xpln lexeme="velvet three-pile(n)" lang="en"><f type="bl"/>veluet three pile.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="termprano">Temprano,</form> <xpln lexeme="betimes(adv)" lexeme="early(a)" lang="en"><f type="bl"/>betimes earely.</xpln></wordentry>
+
+
+</page>
+
+<page sig="S3r">
+<wordentry type="h"><form lang="sp" lexeme="templado">Templado,</form> <xpln lexeme="temperate(a)" lexeme="modest(a)" lexeme="sober(a)" lang="en"><f type="bl"/>temperate, modest,
+sober.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tenazas">Tenazas,</form> <xpln lexeme="pair of tongs(n)" lexeme="pair of pincers(n)" lexeme="pair of nippers(n)" lang="en"><f type="bl"/>a paire of tongs, a paire
+of pincers, or nippers.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="texer">Texer,</form> <xpln lexeme="weave(v)" lang="en"><f type="bl"/>to weaue.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="texillo">Texillo,</form> <xpln lexeme="weaver's shuttle(n)" lang="en"><f type="bl"/>the weauers shuttle.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tiembra">Tiembra,</form> <xpln lexeme="trembling(n)" lexeme="quaking(n)" lang="en"><f type="bl"/>a trembling, a quaking.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tierra">Tierra,</form> <xpln lexeme="earth(n)" lexeme="country(n)" lang="en"><f type="bl"/>earth, countrie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tinta">Tinta,</form> <xpln lexeme="ink(n)" lang="en"><f type="bl"/>inke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tibieza">Tibieza,</form> <xpln lexeme="between hot and cold(a)" lexeme="slowness(n)" lexeme="carelessness(n)" lexeme="negligence(n)" lang="en"><f type="bl"/>betweene hot and colde:
+also slownesse, carelesness, and
+negligence.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tirar">Tirar,</form> <xpln lexeme="draw(v)" lexeme="hook(v)" lexeme="pull(v)" lang="en"><f type="bl"/>to drawe, to hooke, to pull.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tintero">Tintero,</form> <xpln lexeme="inkhorn(n)" lang="en"><f type="bl"/>an inkehorne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tocar">Tocar,</form> <xpln lexeme="touch(v)" lang="en"><f type="bl"/>to touch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="topar">Topar,</form> <xpln lexeme="meet with one(v)" lexeme="go right against(v)" lexeme="go upon one(v)" lang="en"><f type="bl"/>to meete with one, to goe
+right against, or vpon one.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="todo">Todo,</form> <xpln lexeme="all(a)" lang="en"><f type="bl"/>all.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tomar">Tomar,</form> <xpln lexeme="take(v)" lang="en"><f type="bl"/>to take.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="toro">Toro,</form> <xpln lexeme="bull(n)" lang="en"><f type="bl"/>a bul. </xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="torcer">Torcer,</form> <xpln lexeme="wreathe(v)" lexeme="wrest(v)" lexeme="wring(v)" lexeme="turn round(v)" lang="en"><f type="bl"/>to wreath, to wreast, to
+wring, to turne round.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tornar">Tornar,</form> <xpln lexeme="turn back(v)" lang="en"><f type="bl"/>to turne backe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="trapo">Trapo,</form> <xpln lexeme="linen cloth(n)" lexeme="woolen cloth(n)" lang="en"><f type="bl"/>a linnen or wollen cloth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="trabaiar">Trabaiar,</form> <xpln lexeme="work(v)" lang="en"><f type="bl"/>to worke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tratar">Tratar,</form> <xpln lexeme="entreat(v)" lexeme="handle(v)" lexeme="use(v)" lang="en"><f type="bl"/>to intrea<emend err="r">t</emend>e, to handle, to
+vse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="traer">Traer,</form> <xpln lexeme="bring(v)" lexeme="carry(v)" lang="en"><f type="bl"/>to bring, to carrie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="trauar">Trauar,</form> <xpln lexeme="knit(v)" lexeme="tie(v)" lang="en"><f type="bl"/>to knit, to tie,</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tregua">Tregua,</form> <xpln lexeme="truce(n)" lexeme="peace for a time(n)" lang="en"><f type="bl"/>truce, peace for a time.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="trespaser">Trespaser,</form> <xpln lexeme="trespass(v)" lexeme="often(v)" lang="en"><f type="bl"/>to trespasse, to offend.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="trigo">Trigo,</form> <xpln lexeme="corn(n)" lang="en"><f type="bl"/>corne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="trouar">Trouar,</form> <xpln lexeme="find(v)" lexeme="invent(v)" lang="en"><f type="bl"/>to finde, to inuent.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tronar">Tronar,</form> <xpln lexeme="thunder(v)" lang="en"><f type="bl"/>to thunder.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="truhan">Truhan,</form> <xpln lexeme="parasite(n)" lexeme="belly feast(n)" lang="en"><f type="bl"/>a parasite, a belly feast.</xpln><lemenote>"belly feast" was not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tu">Tu,</form> <xpln lexeme="thou(pr)" lexeme="you(pr)" lang="en"><f type="bl"/>thou, you.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tuerto">Tuerto,</form> <xpln lexeme="crooked(a)" lang="en"><f type="bl"/>crooked.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tutar">Tutar,</form> <xpln lexeme="keep(v)" lang="en"><f type="bl"/>to keepe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="tuyo">Tuyo,</form> <xpln lexeme="thine(pr)" lang="en"><f type="bl"/>thine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="turbar">Turbar,</form> <xpln lexeme="trouble(v)" lexeme="disturb(v)" lang="en"><f type="bl"/>to trouble, to disturbe.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="UV"><alpha>V</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="vanidad">VAnidad,</form> <xpln lexeme="vanity(n)" lang="en"><f type="bl"/>vanitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vara">Vara,</form> <xpln lexeme="yard(n)" lexeme="measure(n)" lang="en"><f type="bl"/>a yard, a measure.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="varon">Varon,</form> <xpln lexeme="man(n)" lang="en"><f type="bl"/>a man.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vando">Vando,</form> <xpln lexeme="faction(n)" lang="en"><f type="bl"/>a faction.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vazio">Vazio,</form> <xpln lexeme="empty(a)" lang="en"><f type="bl"/>emptie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vencer">Vencer,</form> <xpln lexeme="overcome(v)" lang="en"><f type="bl"/>to ouercome.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vender">Vender,</form> <xpln lexeme="sell(v)" lang="en"><f type="bl"/>to sell.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="verdad">Verdad,</form> <xpln lexeme="truth(n)" lang="en"><f type="bl"/>truth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="verde">Verde,</form> <xpln lexeme="green(a)" lang="en"><f type="bl"/>greene.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="verdaderamente">Verdaderamente,</form> <xpln lexeme="truly(adv)" lexeme="verily(adv)" lang="en"><f type="bl"/>truly, verily.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vestidos">Vestidos,</form> <xpln lexeme="apparell(n)" lexeme="clothes(n)" lang="en"><f type="bl"/>apparell, clothes.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vez">Vez,</form> <xpln lexeme="time(n)" lexeme="course(n)" lexeme="turn(n)" lang="en"><f type="bl"/>time, course, turne.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vezino">Vezino,</form> <xpln lexeme="neighbour(n)" lang="en"><f type="bl"/>a neighbor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vinagre">Vinagre,</form> <xpln lexeme="vinegar(n)" lang="en"><f type="bl"/>vinager.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vihuela">Vihuela,</form> <xpln lexeme="viol(n)" lang="en"><f type="bl"/>the violl.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vianda">Vianda,</form> <xpln lexeme="meat(n)" lang="en"><f type="bl"/>meate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vida">Vida,</form> <xpln lexeme="life(n)" lang="en"><f type="bl"/>life.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vidro">Vidro,</form> <xpln lexeme="glass(n)" lang="en"><f type="bl"/>a glasse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="viejo">Viejo,</form> <xpln lexeme="old(a)" lang="en"><f type="bl"/>olde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="virgen">Virgen,</form> <xpln lexeme="virgin(n)" lexeme="maid(n)" lang="en"><f type="bl"/>a virgin, a maide.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vista">Vista,</form> <xpln lexeme="sight(n)" lang="en"><f type="bl"/>the sight.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vientre">Vientre,</form> <xpln lexeme="belly(n)" lang="en"><f type="bl"/>the bellie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="viento">Viento,</form> <xpln lexeme="wind(n)" lang="en"><f type="bl"/>the winde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vileza">Vileza,</form> <xpln lexeme="vildness(n)" lexeme="of small price(n)" lang="en"><f type="bl"/>vildnes, of small price.</xpln><lemenote>Antedates earliest OED citation (1597).</lemenote></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vino">Vino,</form> <xpln lexeme="wine(n)" lang="en"><f type="bl"/>wine.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vircy">Vircy,</form> <xpln lexeme="viceroy(n)" lang="en"><f type="bl"/>viceroy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vilescer">Vilescer,</form> <xpln lexeme="wask(v)" lexeme="vile(a)" lexeme="base(a)" lang="en"><f type="bl"/>to waske, vile, base.</xpln><lemenote>"waske" not found in OED.</lemenote></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vosotros">Vosotros</form> <xpln lang="en" lexeme="ye(pr)"><f type="bl"/>ye.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="voto">Voto,</form> <xpln lexeme="vow(n)" lang="en"><f type="bl"/>a vowe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="votar">Votar,</form> <xpln lexeme="give voice(v)" lexeme="elect(v)" lexeme="choose by voice(v)" lang="en"><f type="bl"/>to giue voices, to elect or
+choose by voices.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="v&ntilde;a">V&ntilde;a,</form> <xpln lexeme="nail(n)" lang="en"><f type="bl"/>the naile of ones finger.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vnion">Vnion,</form> <xpln lexeme="unity(n)" lang="en"><f type="bl"/>vnitie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vnguento">Vnguento,</form> <xpln lexeme="ointment(n)" lang="en"><f type="bl"/>ointment.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vsar">Vsar,</form> <xpln lexeme="use(v)" lang="en"><f type="bl"/>to vse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="verfano">Verfano,</form> <xpln lexeme="pupil(n)" lexeme="orphan(n)" lang="en"><f type="bl"/>a pupill or orphan.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="vrina">Vrina,</form> <xpln lexeme="urine(n)" lexeme="piss(n)" lang="en"><f type="bl"/>vrine, pisse.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="X"><alpha>X</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="xabon">XAbon,</form> <xpln lexeme="soap(n)" lang="en"><f type="bl"/>sope.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="xaquima">Xaquima,</form> <xpln lexeme="halter(n)" lexeme="rope(n)" lexeme="collar(n)" lang="en"><f type="bl"/>a halter, a rope, a col&shy;
+ler.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="xara">Xara,</form> <xpln lexeme="labdamum(n)" lang="en"><f type="bl"/>the hearbe whereof Ladba&shy;
+num is made, which is a kinde
+of g<expan type="u+_">um</expan> much vsed in pomanders</xpln></wordentry>
+
+
+</page>
+
+<page sig="S3v">
+<wordentry type="h"><form lang="sp" lexeme="xergon">Xergon,</form> <xpln lexeme="mattress(n)" lang="en"><f type="bl"/>a matresse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="xenable">Xenable, <f type="bl"/><term lang="en">or</term> Mosta&ccedil;a,</form> <xpln lexeme="linseed(n)" lexeme="mustardseed(n)" lexeme="mustard(n)" lang="en">lineseede,
+whereof mustard is made, mu&shy;
+tard.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="xeruilla">Xeruilla,</form> <xpln lexeme="spout(n)" lexeme="pump(n)" lang="en"><f type="bl"/>a spout, also a pumpe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="ximia">Ximia,</form> <xpln lexeme="ape(n)" lang="en"><f type="bl"/>an Ape.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="xiringa">Xiringa,</form> <xpln lexeme="iron pipe(n)" lexeme="flute(n)" lang="en"><f type="bl"/>a kinde of yron pipe or
+flute.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="ya">YA,</form> <xpln lexeme="already(adv)" lang="en"><f type="bl"/>alreadie.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yaque">Yaque,</form> <xpln lexeme="now(adv)" lexeme="that(c)" lang="en"><f type="bl"/>now, that.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yegua">Yegua,</form> <xpln lexeme="mare(n)" lang="en"><f type="bl"/>a mare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yerro">Yerro,</form> <xpln lexeme="error(n)" lang="en"><f type="bl"/>an error.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yerua">Yerua,</form> <xpln lexeme="herb(n)" lang="en"><f type="bl"/>an herbe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yerno">Yerno,</form> <xpln lexeme="daughter's husband(n)" lang="en"><f type="bl"/>the daughters husband.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yo">Yo,</form> <xpln lexeme="I(pr)" lang="en"><f type="bl"/>I</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="yugo">Yugo,</form> <xpln lexeme="yoke(n)" lang="en"><f type="bl"/>a yoake.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z"><alpha>Z</alpha>
+
+<wordentry type="h"><form lang="sp" lexeme="zarco">ZArco,</form> <xpln lexeme="bluish and gray eyes(n)" lexeme="white of the eyes(n)" lang="en"><f type="bl"/>it is commonly taken for
+one whose eies are blewish
+and graie: also one that turneth
+his eies, so that all the white is 
+seene.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="zorra" lexeme="rapaz">Zorra, <f type="bl"/><term lang="en">or</term> Rapaz,</form> <xpln lexeme="fox(n)" lang="en">a Foxe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="sp" lexeme="zorzal">Zorzal,</form> <xpln lexeme="thrush(n)" lexeme="blackbird(n)" lang="en"><f type="bl"/>a thrush, a black bird.</xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</section>
+
+</page>
+</leme>

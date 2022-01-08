@@ -1,0 +1,208 @@
+
+
+<leme no="185">
+<page sig="a3r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 3 1 4 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="lexicon">
+<heading>CERTAINE TEARMES OF COSMOGRA&#173;
+graphie, brieflie expounded, for those that are not
+learned in that science, to the intent they
+may the better vnderstand
+this Treatise.</heading>
+
+<note type="rm">
+The Axle
+<emend err="trre">tree</emend> of the
+world.
+The two
+Poles.
+The greter
+Circle.
+</note>
+<wordentry type="h"><form lexeme="axle-tree(n)">THe Axle tree of the Worlde </form> <xpln lexeme="Arctic Pole(n)" lexeme="north pole(n)" lexeme="Antarctic Pole(n)" lexeme="south pole(n)" lexeme="hook(n)" lexeme="hengle(n)">is a 
+right line, imagined to passe
+through the Center or midst of the
+earth, from the one ende of heauen
+to the other: the vpper ende of
+which Axle tree is called the Pole
+Artike, that is to say, the North
+Pole: &#38; the nether end, the Pole
+Antartike, that is, the South
+Pole: vpon which two Poles, otherwise called the hooks
+or hengils of the world, the heauens doe turne rounde a&#173;
+bout the earth. Moreouer the Cosmographers doe de&#173;
+uide the worlde into diuers partes by certaine Circles,
+whereof some are called greater, and some lesser. 
+
+The greater are those which doe deuide the world in&#173;
+to 2 equall partes: whereof there be 6: that is, the Equi&#173;
+noctiall, the Zodiake, the Meridian, the Horizon, and the 2
+Colures.</xpln></wordentry>
+
+<note type="rm">
+The Equi&#173;
+noctiall.
+</note>
+<wordentry type="h"><form lexeme="equinoctial(n)">The Equinoctiall </form> <xpln>is a great Circle, girding the world
+in the verie midst betwixt the 2 Poles, by reason where&#173;
+of there are two latitudes, the one Northern, &#38; the other
+Southerne.</xpln></wordentry>
+
+<note type="rm">
+The north
+latitude.
+</note>
+<wordentry type="h"><form lexeme="latitude(n)" lexeme="northern(a)">The Northerne latitude </form> <xpln>is that space, which is con&#173;
+teined betwixt the Equinoctiall and the North Pole.</xpln></wordentry>
+
+<note type="rm">
+The South 
+latitud.
+</note>
+<wordentry type="h"><form lexeme="latitude(n)" lexeme="southern(a)">The Southerne latitude </form> <xpln>is that space, which is contei&#173;
+ned betwixt the Equinoctial &#38; the South Pole; and either
+of these two spaces conteineth in bredth 50 degrees.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="a3v">
+<note type="lm">
+A Degree.
+</note>
+<wordentry type="h"><form lexeme="degree(n)">A Degree </form> <xpln>is one part of a Circle, beeing deuided into
+360 partes called degrees.</xpln></wordentry>
+
+<note type="lm">
+Longitude.
+</note>
+<wordentry type="h"><form lexeme="circuit(n)" lexeme="equinoctial(n)">Againe, the circuit of the Equinoctial, </form> <xpln lexeme="longitude(n)" lexeme="meridian(n)">containing 360
+degrees, is the verie longtitude of the Earth: the first de&#173;
+gree of which longitude beginneth at <emend err="the the">the</emend> first Meridi&#173;
+an, placed in the West, and so proceedeth Eastward vn&#173;
+to the 180 degree of the Equinoctiall, and from thence re&#173;
+turneth by the West vntill you come againe to the 360
+degree, which is the last degree of longitude. And note
+by the way that euerie degree of the Equinoctiall contai&#173;
+neth 60 English miles, so as the longitude of the whole
+Earth is 21600 miles.</xpln></wordentry>
+
+<note type="lm">
+The Zodiake,
+</note>
+<wordentry type="h"><form lexeme="zodiac(n)">The Zodiake </form> <xpln lexeme="ecliptic(a)" lexeme="line(n)" lexeme="shoring(a)">is a great, broad, and slope or shoring
+Circle, carrying the 12 Signes: in the middest whereof
+is a line called the Ecliptike line, from which the Sun
+neuer swarueth.</xpln></wordentry>
+
+<note type="lm">
+The Meridian
+</note>
+<wordentry type="h"><form lexeme="meridian(n)">The Meridian </form> <xpln lexeme="noontide(n)">is a greate Circle, passing ouer our
+heades, in what parte of the World soeuer we be, and al&#173;
+so through both the Poles: which line when the Sunne
+toucheth it aboue the Horizon, it is Noonetide or midday
+to those that dwell vnder the same.</xpln></wordentry>
+
+<note type="lm">
+The Horison.
+</note>
+<wordentry type="h"><form lexeme="horizon(n)">The Horizon </form> <xpln>is a great Circle, deuiding the vpper
+halfe of the World which we see, from the nether halfe
+which wee see not: in <emend err="the the">the</emend> very middest or Center of
+which Circle, if in a plaine field you looke rounde about
+you, you shall alwaies finde your selfe to be.</xpln></wordentry>
+
+<note type="lm">
+The 2 Colures
+</note>
+<wordentry type="h"><form lexeme="colure(n)">Now as touching the two Colures, </form> <xpln>because they differ
+not in effect, though in name, from two Meridians, I
+leaue to speake of them, aswell for that I haue spoken of
+them at large in my Sphere, as also for that they are not
+mentioned in this Treatise.</xpln></wordentry>
+
+<note type="lm">
+4 lesser circles
+</note>
+
+<note type="lm">
+The Circles 
+Artike and
+Antartike.
+</note>
+<wordentry type="h"><form lexeme="lesser(a)" lexeme="circle(n)">Of the lesser Circles </form> <xpln lexeme="Arctic Circle(n)" lexeme="Antarctic Circle(n)" lexeme="polar(a)">there be foure: that is, the two
+Polar Circles, and the two Tropikes. Of the two Po&#173;
+lar Circles, the one enuironeth the North Pole, &#38; ther&#173;
+fore is called the Circle Artike, &#38; the other enuironeth
+the South Pole, and is called the Circle Antartike, bee&#173;
+
+
+
+</page>
+
+<page sig="a4r">
+cause it is opposit to the other.</xpln></wordentry>
+
+<note type="rm">
+The Tropike 
+of Cancer.
+The Tropike
+of Capricorn.
+The greatest
+declination of
+the Sun.
+</note>
+<wordentry type="h"><form lexeme="tropic(n)">Again, of the two Tropiques, </form> <xpln lexeme="tropic(n)" lexeme="cancer(n)" lexeme="Capricorn(n)" lexeme="declination(n)">the one is placed betwixt
+the Equinoctiall and the Circle Artike, and is called the
+Tropike of Cancer: and the other is placed betwixt the
+Equinoctiall and the Circle Antartike, and is called the
+Tropike of Capricorne: and each of these Tropikes is di&#173;
+stant from the Equinoctiall 23 degrees and a halfe, which
+is the greatest declination of the Sun from the Equino&#173;
+ctiall, for he neuer mounteth higher then the Tropique of
+Cancer, nor descendeth lower than the Tropike of Capri&#173;
+corne, and these two Circles are Paralels to the Equi&#173;
+noctiall.</xpln></wordentry>
+
+<note type="rm">
+Paralels.
+
+Zones.
+</note>
+<wordentry type="h"><form lexeme="parallel(n)">Paralels </form> <xpln lexeme="zone(n)">are 2 lines or Circles, equally distant in all
+places one from another. And by these foure lesser Cir&#173;
+cles the Earth is deuided into 5 Zones or broade spaces,
+whereof there be two colde. 2. temperate, and one hotte
+described both in my Sphere and also in this treatise.</xpln></wordentry>
+
+<note type="rm">
+A Paralell of
+<expan type="">the</expan> longest day.
+</note>
+<wordentry type="h"><form lexeme="parallel(n)" lexeme="longest(a)" lexeme="day(n)">A Paralell </form> <xpln>of the longest day, is a space of the Earth,
+wherein the day increaseth by one quarter of an hower,
+proceeding from Equinoctiall towards any of the Poles.</xpln></wordentry>
+
+<note type="rm">
+A Clyme.
+</note>
+<wordentry type="h"><form lexeme="clime(n)">A Clime </form> <xpln>is a space of the Earth, conteining two such
+Paralells wherein the day increaseth by halfe an hower,
+of which Clymes according to the old Writers, there be
+7 declared at the full in my Sphere, and also somewhat
+touched in this Treatise.</xpln></wordentry>
+</section>
+
+
+</page>
+</leme>

@@ -1,0 +1,749 @@
+
+
+<leme no="124">
+<page sig="+1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 8 5 8 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="titlepage">
+A GEOMETRICAL 
+Practise, named PANTOMETRIA,
+diuided into three Bookes, Longimetra,
+Planimetra and Stereometriea, containing Rules manifolde
+for mensuration of all lines, Superfices and Solides. With
+sundry straunge conclusions both by instrument
+and without, and also by Perspectiue glasses, to
+set forth the true description or exact plat of
+an whole Region: framed by Leonard
+Digges Gentleman, lately finished
+by Thomas Digges his
+sonne.
+</section>
+
+
+
+</page>
+
+<page sig="B1r">
+<section type="Definitions of Elements of Geometry">
+<heading>
+Elementes of Geometrie,
+or Diffinitions.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="d"><form lang="en" lexeme="point(n)">A Poynt</form> <xpln lang="en">I call whiche cannot be diuided, whose parte is
+nothing.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="line(n)">A Lyne</form> <xpln lang="en">is a length without breadth or thicknesse, whose ex&#173;
+tremities are two poyntes.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="short(a)" lexeme="draw(v)" lexeme="between(pp)" lexeme="point(n)">THe shortest drawen between two Poyntes</form> <xpln lang="en">is a streight
+line, the contrary are crooked lines.</xpln></wordentry>
+
+A poincte A right line Crooked lines
+
+<wordentry type="d"><form lang="en" lexeme="superficie(n)">A Superficies</form> <xpln lang="en">is that hath length and breadth onely, beeing
+bounded or determined with lines.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="plain(a)" lexeme="superficie(n)">A Playne Superficies</form> <xpln lang="en">is that whiche lieth equally and euen&#173;
+ly betweene his lines or boundes.</xpln></wordentry>
+
+A superficies.
+
+<wordentry type="d"><form lang="en" lexeme="plain(a)" lexeme="angle(n)">A Playne Angle</form> <xpln lang="en">is the inclination of two lines lying in one
+playne Superficies, concurring or meeting in a poynt.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B1v">
+<wordentry type="d"><form lang="en" lexeme="line(n)" lexeme="angle(n)" lexeme="straight(a)">IF those lines that containe the Angle be straight,</form> <xpln lang="en" lexeme="right angle(n)">it is called
+a right lined Angle, and those two lines his containing sides,
+but if a third straight line be drawne crosse the former from 
+one to the other, that shall be called the subtending side.</xpln></wordentry>
+
+ABC the contayned angle
+AB BC the contayninge
+sides
+AC the syde
+subtendent.
+
+<wordentry type="d"><form lang="en" lexeme="straight(n)" lexeme="lined(a)" lexeme="angle(n)" lexeme="kind(n)">OF straight lined angles there are three kindes,</form> <xpln lang="en" lexeme="orthogonal(a)" lexeme="obtuse angle(n)" lexeme="acute angle(n)" lexeme="angle(n)">the Ortho&#173;
+gonall, the Obtuse and the Acute Angle.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="right line(n)" lexeme="fall(v)" lexeme="perpendicularly(adv)">WHen any right line falleth Perpendicularly vpon an o&#173;
+ther, that is to say, making the Angles on either side e&#173;
+quall, eche of those Angles</form> <xpln lang="en" lexeme="orthogonal(a)" lexeme="right angle(n)" lexeme="perpendicular(n)">is an Orthogonall or right Angle,
+and that falling line a Perpendicular.</xpln></wordentry>
+
+AB is the Perpendicular
+DC the ground line.
+A Perpendicular
+A right angle
+
+BAC the right angle contained of the Perpendicular, and one
+part of the ground line equall to BAD the right angle contained
+of the Perpendicular, and the other portion of the grounde line, and
+therfore both Orthogonall.
+
+
+
+</page>
+
+<page sig="B2r">
+Longimetra
+
+<wordentry type="d"><form lang="en" lexeme="broad(a)" lexeme="obtuse(a)" lexeme="angle(n)">The Brode or Obtuse Angle</form> <xpln lang="en">is greater than the Orthogonal.</xpln></wordentry>
+
+Abroode
+
+<wordentry type="d"><form lang="en" lexeme="acute(n)" lexeme="sharp(n)">The Acute or sharpe,</form> <xpln lang="en">is lesser than the right angle.</xpln></wordentry>
+
+a sharpe
+
+<wordentry type="d"><form lang="en" lexeme="figure(n)">A Figure</form> <xpln lang="en">is comprehended within limites and bounds, whe&#173;
+ther it be one or many.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="circle(n)">A Circle</form> <xpln lang="en">is a plaine figure, determined with one line, which
+is called a Circumference, in whose mids there is a point
+named his Centre. From the which all right lines drawne to
+the circumference are equall.</xpln></wordentry>
+
+A circle. A circumferens.
+
+<wordentry type="d"><form lang="en" lexeme="semicircle(n)" lexeme="half(a)" lexeme="circle(n)">A Semicircle or halfe Circle,</form> <xpln lang="en">doth conteine both the Dime&#173;
+tient and Centre of his circle, with the precise halfe of his
+circumference.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B2v">
+<wordentry type="d"><form lang="en">A Right line drawne through the Centre vnto the Circum&#173;
+ference of both sides,</form> <xpln lang="en" lexeme="diameter(n)" lexeme="dimetient(n)" lexeme="semidiameter(n)">is named his Diameter or Dimeti&#173;
+ent, the halfe of it is called his Demidiameter.</xpln>
+<lemenote>
+"Demidiameter" not found in OED.
+</lemenote>
+</wordentry>
+
+An halfe circle 
+Dimetient
+
+<wordentry type="d"><form lang="en">ALl Straight lines besides the Diameter in any Circle
+pulled from one part of the Circumference to the other, be
+called</form> <xpln lang="en" lexeme="chord(n)">cordes.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en">THe portion of the Circumference from that corde compre&#173;
+hended, is named</form> <xpln lang="en" lexeme="arc(n)">an Arcke.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="touchline(n)">A Touch line</form> <xpln lang="en">is that toucheth a circle in a Pointe.
+</xpln></wordentry>
+
+an arck
+A corde
+Diametre
+A corde
+A touche lyne
+
+A triangle 
+
+<wordentry type="d"><form lang="en">EMong Right-lined figures,
+suche as haue onely three si&#173;
+des are</form> <xpln lang="en" lexeme="triangle(n)">Triangles, whereof
+there be sundrie sortes bearing seuerall names, according to
+the diuersitie of their sides and Angles.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B3r">
+<wordentry type="d"><form lang="en">IF the Triangles three sides be euery of them of like length,
+it is called</form> <xpln lang="en" lexeme="equilater(a)" lexeme="triangle(n)"> an Equilater Triangle.</xpln></wordentry>
+
+<wordentry type="d"> <form lang="en" lexeme="isosceles(n)">ISoscheles</form> <xpln lang="en">is such a Triangle as hath onely two sides like,
+the thirde being vnequall, and that is the Base.</xpln> </wordentry>
+
+<wordentry type="d"> <form lang="en" lexeme="scalenum(n)">Schalenum</form> <xpln lang="en">hath three vnequall sides.</xpln>
+<lemenote>
+"Schalenum" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="right-angled(a)" lexeme="triangle(n)">A Rightangled Triangle</form> <xpln lang="en">is suche a one as hath one Righte
+Angle.</xpln> </wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="obtuse-angled(a)" lexeme="triangle(n)">AN Obtuseangle Triangle</form> <xpln lang="en">hath one obtuse angle, and is
+called Ambligonium.</xpln> </wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="*oxygonium(n)">Oxigonium</form> <xpln lang="en">hath all acute or sharpe Angles.</xpln> </wordentry>
+
+<wordentry type="d"><form lang="en">THere be also foure sided Figures called Quadrangles, 
+whose Opposite sides and angles are equall, suche are na&#173;
+med </form><xpln lang="en" lexeme="parallelogram(n)">Paralelogrammes, whereof there are but foure sortes.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en">IF all the sides be equall, and al the angles right, than is that
+Paralelogramme called</form> <xpln lang="en" lexeme="square(n)">a square.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B3v">
+<wordentry type="d"><form lang="en">If one side containing the right Angle, be longer than the o&#173;
+ther containing side, then is that figure called</form> <xpln lang="en" lexeme="rectangle(n)">a Rectangle.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en">If all the sides be equall, and no angle aright, then is it called</form> 
+<xpln lang="en" lexeme="rhombus(n)">Rhombus.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en">BUt if it haue only the Opposite sides equall, and the other
+that containe an Angle vnequall, it shall be named </form> <xpln lang="en" lexeme="rhomboid(n)">Rhom&#173;
+boides.</xpln></wordentry>
+
+<wordentry type="d"><form lang="en">All other quadrangles are</form> <xpln lang="en" lexeme="trapezia(n)">Trapezia.</xpln>
+<lemenote>
+"trapezia" antedates earliest OED quotation (1631).
+</lemenote>
+</wordentry>
+
+<wordentry type="d"><form lang="en" lexeme="polygon(n)">POlygona,</form> <xpln lang="en">are such figures as haue moe than foure sides,
+whose angles if they be all like and equall, they are termed
+Equiangle Polygona.</xpln></wordentry>
+
+A figure of 
+manie sides
+
+<wordentry type="d"><form lang="en">AL other plain Superficies, whether they be enuironed with
+straight or crooked lines, shalbe named</form> <xpln lang="en" lexeme="irregular(a)" lexeme="figure(n)">irregulare figures.</xpln> </wordentry>
+
+
+
+</page>
+
+<page sig="B4v">
+Longimetra
+ 
+<wordentry type="d"><form lang="en">WHen two right lines drawne in one plaine Superficies,
+are so equedistantly placed, that though they were infi&#173;
+nitely extended on either side, yet would neuer meete nor con&#173;
+curre, they shall be called</form> <xpln lang="en" lexeme="parallel(n)">Paralleles.</xpln></wordentry>
+
+Paralleles.
+
+<wordentry type="d"> <form lang="en" lexeme="quadrant(n)">A Quadrant</form> <xpln lang="en">is the fourth part of a Circle, included with two
+Semidiameters commonly diuided in 90. portions, which
+partes are named grades or degrees.</xpln> </wordentry>
+</wordgroup1>
+</section>
+
+<section type="Definitions from Planimetra">
+
+
+
+</page>
+
+<page sig="L4r">
+<heading>
+The second kynde of Geome&#173;
+trie called Planimetra.
+</heading>
+
+HAVING accomplished the first part called Longimetra, con&#173;
+tayning sundrie rules to measure l<expan type="">en</expan>gthes, breadthes, heigths,
+depthes, and distances: I thinke it meete now to proceede to
+the seconde kynde named Planimetra, wherein ye shall haue
+rules for the mensuration of all manner playne Figures, to 
+know their contente superficiall. And forasmuch as there is no Superficies,
+but is enuironed with lines either streight or curue. And all Figures com&#173;
+prehended with streight lines may be resolued into Triangles: It seemeth
+most meete, first to teache the measuring of Triangles as followeth.
+
+<heading>
+The fyrst Chapter.
+
+Of Triangles.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="d"><form lang="en">
+AS there are three kind of Angles, so is there also three kind
+of Triangles:</form> <xpln lang="en" lexeme="orthogonium(n)" lexeme="ambligonium(n)" lexeme="oxygonium(n)" lexeme="isosceles(n)" lexeme="scalenum(n)">the first is called Orthogonium, hauing one of
+his angles a right: the other Ambligonium contayning one
+obtuse angle: the third kinde is called Oxigonium, whose
+three angles are all acute. Of right angled Triangles also
+there are two kindes, for eyther it hath two equall sides, and then is it
+called Isoscheles, or three vnequall, and that is Scalenum.</xpln>
+<lemenote>
+"Ambligonium" not a headword in the OED (but see quotation of 1570 under "obtuse-angled."
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+
+
+
+</page>
+
+<page sig="P4r">
+<section type="Definitions from Stereometria">
+<heading>
+The thirde kynde of Geome&#173;
+trie named Stereometria.
+</heading>
+
+IN THIS thirde booke ye shall receyue sundrie rules to mea&#173;
+sure the Superficies and Crassitude of solide bodies, whereof,
+although an infinite sorte of differente kyndes might be ima&#173;
+gined, yet shall I only entreate of such as are both vsually re&#173;
+quisite to be moten, and also may sufficiently induce the inge&#173;
+nious to the mensuration of all other solides what forme or figure soeuer
+they beare. And forasmuch as in setting foorth their seuerall kyndes, I haue
+chosen to vse the accustomable and auncient names well knowen to any
+trauelled in Geometrie, rather than to forge newe Englishe wordes which
+can neither so breefly nor so aptly expresse the like effecte, least to the com&#173;
+mon sorte any obscuritie might growe, I thinke good to adioyne euery of
+their diffinitions,
+
+<heading>
+DIFFINITIONS.
+</heading>
+
+<wordgroup1 type="t">
+1 <wordentry type="d"><form lang="en" lexeme="solid(a)" lexeme="body(n)">A Solide body</form> <xpln lang="en">is that hath lengthe, breadth and thicknesse boun&#173;
+ded or limited with Superficies.</xpln></wordentry>
+
+2 <wordentry type="d"><form lang="en" lexeme="like(a)" lexeme="solid(n)">Lyke solides</form> <xpln lang="en">are such as are encompassed with superfices that are
+lyke and of equall number.</xpln></wordentry>
+
+3 <wordentry type="d"><form lang="en" lexeme="prism(n)">A Prisma</form> <xpln lang="en">is a solide Figure comprehended of playne Superficies,
+whereof two are equall, like, and Parallele, the reste Parallelogr<expan type="">am</expan>mes.</xpln>
+<lemenote>
+"Prisma" not a headword in the OED.
+</lemenote>
+</wordentry>
+
+4 <wordentry type="d"><form lang="en" lexeme="pyramid(n)">A Pyramis</form> <xpln lang="en">is a solide Figure enclosed with many playne Superfi&#173;
+cies rysing from one, and concurring or meeting in a pointe.</xpln></wordentry>
+
+5. <wordentry type="d"><form lang="en" lexeme="sphere(n)">A Sphere</form> <xpln lang="en">is a grosse or solide body comprehended of one coruex
+Superficies. In the middes whereof there is a pointe from whence all
+right lines to the same superficies extended, are equall.</xpln></wordentry>
+
+6. <wordentry type="d"><form lang="en" lexeme="centre(n)">That poincte is called his Center, and a streight line by that Cen&#173;
+tre passing throroughe this solide bounded on eyther side with the conuex
+superficies is called </form><xpln lang="en" lexeme="diameter(n)">the Diameter of that Sphere.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="P4v">
+7 <wordentry type="d"><form lang="en">Also intellectually ye may thus conceyue a Sphere to be made.
+Suppose a semicircle (his diameter remayning immouably fixed) to be
+turned round about til it returne to the place whence it firste beganne to
+moue, the figure so described, is </form><xpln lang="en" lexeme="sphere(n)">a Sphere.</xpln></wordentry>
+
+8 <wordentry type="d"><form lang="en">Likewise, if a right angled triangle (one of the contayning sides re&#173;
+mayning fixed) be turned circularly about the Figure so described, it is
+called</form> <xpln lang="en" lexeme="cone(n)">a Cone.</xpln></wordentry>
+
+9 <wordentry type="d"><form lang="en" lexeme="right(a)" lexeme="line(n)" lexeme="that(c)" lexeme="remainer(v)" lexeme="fixed(a)]">The right line that remayneth fixed is</form> <xpln lang="en" lexeme="axis(n)">the Axis.</xpln></wordentry>
+
+10 <wordentry type="d"><form lang="en" lexeme="circle(n)" lexeme="described(a)" lexeme="by(adv)" lexeme="other(a)" lexeme="containing(a)" lexeme="side(n)">The circle described by the other contayning side is </form><xpln lang="en" lexeme="base(n)">the Base.</xpln></wordentry>
+
+11 <wordentry type="d"><form lang="en" lexeme="third(a)" lexeme="line(n)" lexeme="hypotenuse(n)">The third line or Hypothenusa, is </form><xpln lang="en">the side of the Cone.</xpln></wordentry>
+
+12 <wordentry type="d"><form lang="en">If a right angled parallelogramme (the one of the sides conteyning
+a right angle remayning immouable) be circularly turned, the Figure so
+described, is </form><xpln lang="en" lexeme="cylinder(n)" lexeme="axis(n)">a Cylinder, and the immouable side is his Axis.</xpln></wordentry>
+
+13 <wordentry type="d"><form lang="en" lexeme="base(n)">The Bases</form> <xpln lang="en">are the Circles by reuolution of the two opposite Pa&#173;
+rallele sides described.</xpln></wordentry>
+
+14 <wordentry type="d"><form lang="en" lexeme="altitude(n)">The altitude</form> <xpln lang="en">or heigth of any solide body, is a line perpendicular&#173;
+ly falling from the toppe or highest parte of the solide vppon the playne
+whereon the body lyeth.</xpln></wordentry>
+
+15 <wordentry type="d"><form lang="en" lexeme="perpendicular(n)">This perpendicular</form> <xpln lang="en">or line of altitude in directe solides falleth
+within the body, and vppon the base, but in declyning solides, it falleth
+without the bodies and bases.</xpln></wordentry>
+
+16 <wordentry type="d"><form lang="en">As the concourse of lines maketh a playne angle, so the concurring
+or meeting of many superficies in a pointe, maketh</form> <xpln lang="en" lexeme="solid angle(n)">a solide angle.</xpln></wordentry>
+
+17 <wordentry type="d"><form lang="en">In euery solide body a right line drawen from one solide angle to
+one other is called</form> <xpln lang="en" lexeme="line(n)" lexeme="diagonal(a)" lexeme="diameter(n)">a line Diagonall. But if it passe betweene opposite an&#173;
+gles, it is named the Diameter.</xpln></wordentry>
+
+</wordgroup1>
+</section>
+
+
+
+</page>
+
+<page sig="S4v">
+<section type="Definitions on Mathematical Solids">
+A Mathematical Discourse of Geometrical solides.
+
+<heading>The Preface.</heading>
+
+ALthough the Rules and Preceptes already geuen abun&#173;
+dantly may suffice for the exact mensuration of any m<expan type="">an</expan>&#173;
+ner Solides or vessels that are vsually occupied, or may
+be proponed to be moten, yet for the satisfaction also of
+such as deliting in matters only new, rare and difficile,
+seeke to reache aboue the common sorte, I haue thought
+good to adioyne this Treatise of the 5 Platonicall bodies,
+meaning not to discourse of their secrete or mysticall appliances to the
+Elementall regions and frame of Celestiall Spheres, as things remote
+and farre distant from the Methode, nature and certaintie of Geometrical
+demonstration, only heere I intend Mathematically to c<expan type="">on</expan>ferre the Super&#173;
+ficiall and Solide capacities of these Regulare bodies with their Circum&#173;
+scribing or inscribed spheres or Solides, &#38; Geometrically by Algebraycall
+Calculations to search out the sides, Diameters, Axes, Altitudes, and lines
+Diagonal, together with the Semidimetients of their Equiangle Bases,
+containing or contained Circles, and as in the Problemes ye shal perceiue
+by Preceptes and Examples, the quantities and proportions of all these
+lines, Superficies and Crassitudes, with numbers Rationall and Radicall
+expressed, so haue I by Theoremes sowne the seede of Rules innumerable,
+wherin the studious may delite him selfe with infinite varietie: Finally I
+shall in the last Chapiter by Diffinitions and Theoremes partly set forthe
+the forme, nature and proportion of other fiue vniforme Geometricall So&#173;
+lides, created by the transformation of the fiue bodyes Regulare or Plato&#173;
+nicall: but not in so ample manner, as the noueltie or difficultie of the mat&#173;
+ter requireth, meaning as I see these the first frutes of my studies liked and
+accepted, to bestowe time and trauaile vppon an other peculiare Volume,
+
+
+
+</page>
+
+<page sig="T1r">
+which shall conteyne, not onely the demonstrations of these Theorems
+of spherall solides, but also of Conoydall, Parabollical, Hyperbollical and
+Ellepseycal circumscribed &#38; inscribed bodies, &#38; many mo lynes &#38; solides
+produced by the sections of these, and reuolution of their secti<expan type="">on</expan>s: but to re&#173;
+turne to this present Treatise, let no man muse <expan type="">the</expan> writing in the English
+toung, I haue retayned the Latin or Greeke names of sundry lines and
+figures, as cordes Pentagonall, lines Diagenall, Icosaedron, Dedocae&#173;
+dron, or such like, for as the Romanes and other Latin writers, not with&#173;
+standing the copiouse and abundante eloquence of their toung, haue
+not shamed to borrow of the Gretians these and many other termes of
+arte: so surely do I thinke it no reproche, either to the English toung,
+or any English writer, where fitte words fayle to borrow of them both,
+but rather should we seeme therby to do them great iniurie, these beeing
+in deede certayne testimonies and memorials where such sciences firste
+tooke their originall, and in what languages and countreys they chieflye
+florished, which names or words how straunge soeuer they seeme at the
+firste acquayntaunce, by vse will grow as familiar as these, a triangle, a
+circle, or suche like, which by custome and continuance seeme meere En&#173;
+glish, yet to auoyde all obscuritie that may grow by the noueltie of them,
+I haue adioyned euery of their diffinitions, and so proceded to Problems
+and Theoremes with suche methode, as howe obscure or harde soeuer
+they appeare at the firste, through the rarenesse of the matter: I 
+doubt not but by orderly reading, the ingeniouse Student,
+hauing any meane taste of cossicall numbers, shall
+finde them playne and easie.  
+
+
+
+</page>
+
+<page sig="T1v">
+<heading>
+Diffynitions.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="d"><form lang="en" lexeme="proportion(n)">PRoportion</form> <xpln lang="en">is a mutuall or enterchangeable relation of two
+magnitudes, being of one kind, compared togither in respecte
+of their quantities.</xpln></wordentry>
+
+The second d<emend err="">i</emend>ffinition.
+<wordentry type="d"><form lang="en">When the proportion of two magnitudes is such as may be expressed
+with numbers, then is it certaine &#38; apparant and here is called rational:
+But when the proportion is such as cannot be expressed with numbers,
+but with their rootes onely, then is that proportion certayne also, but
+not apparante, and therfore here I name it</form> <xpln lang="en" lexeme="surd(a)" lexeme="irrational(a)">surde or irrationall.</xpln></wordentry>
+
+The thirde diffinition.
+<wordentry type="d"><form lang="en">When there be three suche magnitudes or quantities that the first to
+the second retayne the same proportion that the second doth to the third,
+those quantities are saide to be</form> <xpln lang="en" lexeme="proportional(a)">proportionall, and the first to the thirde
+retayneth double the proportion of the first to the second, and the seconde
+is named meane proportionall betweene the first and the last.</xpln></wordentry>
+
+The fourth Diffinition
+<wordentry type="d"><form lang="en" lexeme="continual proportion(n)">When foure magnitudes are likewise in continual proportion, the
+first &#38; fourth are the extremes, and the second and thirde the meanes,
+and the extreames are sayd</form> <xpln lang="en" lexeme="triple(a)" lexeme="proportion(n)" lexeme="mean(n)">to haue triple the proportion of the meanes.</xpln></wordentry>
+
+The fifth diffinition.
+<wordentry type="d"> <form lang="en" lexeme="mean proportional(a)">Any lyne or number is sayde to be diuided by extreame &#38; meane pro&#173;
+portion,</form> <xpln lang="en">when the diuision or section is suche or so placed, that the whole
+line or numer retayne the same proportion to the greater parte, that
+the greater doth to the lesser.</xpln></wordentry>
+
+The sixth diffinition.
+<wordentry type="d"> <form lang="en" lexeme="equal in power(a)">A lyne is sayde to be equall in power with two or moe lynes,</form> <xpln lang="en">when
+his square is equall to all their squares.</xpln></wordentry>
+
+The seuenth diffinition.
+<wordentry type="d"> <form lang="en" lexeme="in power(adv)">A lyne is sayd to matche a superficies in power,</form> <xpln lang="en">when the square of
+that line is equall to the superficies.</xpln></wordentry>
+
+The eyght diffinition.
+<wordentry type="d"><form lang="en">When any equiangle triangle, square, or Pentagonum is in suche
+sorte described within a circle, that euery of their angles touche the cir&#173;
+cumference,</form> <xpln lang="en" lexeme="trigonal(a)" lexeme="tetragonal(a)" lexeme="pentagonal(a)" lexeme="chord(n)">their sides are called the trigonal, tetragonall and pentago&#173;
+nall Cordes of that circle.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="T2r">
+The ninth diffinition.
+<wordentry type="d"><form lang="en">About euery equilater triangle, square, or Pentagonum, a circle may
+be described, precisely touching euery of those figures angles, and that
+circle shall be called</form> <xpln lang="en" lexeme="circumscribing(a)" lexeme="containing(a)" lexeme="circle(n)">the circumscribing or contayning circle.</xpln></wordentry>
+
+The tenth diffinition.
+<wordentry type="d"><form lang="en">Also within euery of these equiangle figures a circle may be drawen,
+not cutting but only touching euery of their sides, this is called</form> <xpln lang="en" lexeme="inscribed(a)" lexeme="circle(n)">the in&#173;
+scribed circle.</xpln></wordentry>
+
+The eleuenth diffinition.
+<wordentry type="d"><form lang="en">Any right line drawen from angle to angle in those equiangle figures
+passing through the superficies, I name</form> <xpln lang="en" lexeme="line(n)" lexeme="diagonal(a)">the line diagonall.</xpln></wordentry>
+
+The twelfth diffinition.
+<wordentry type="d"><form lang="en">A right line falling from any angle of these superficies perpendicu&#173;
+larly to the opposite side shalbe named that</form> <xpln lang="en" lexeme="plane(n)" lexeme="perpendicular(a)">playnes perpendiculare.</xpln></wordentry>
+
+The. 13. Diffinition.
+<wordentry type="d"><form lang="en" lexeme="tetrahedron(n)">TETRAEDRON</form> <xpln lang="en">is a body Geometricall
+encompassed with fowre equall equiangle tri&#173;
+angles.</xpln></wordentry>
+
+Tetraedron.
+
+The fourtenth Diffinition.
+<wordentry type="d"><form lang="en" lexeme="hexehedron(n)" lexeme="cube(n)">HEXAEDRON or CVBVS</form> <xpln lang="en">is a solide fi&#173;
+gure, enclosed with sixe equall squares.</xpln></wordentry>
+
+Cubus.
+
+The fiftenth Diffinition.
+<wordentry type="d"><form lang="en" lexeme="octahedron(n)">OCTAEDRON</form> <xpln lang="en">is a body comprehended
+of eight equall equiangle triangles.</xpln></wordentry>
+
+Octahedron
+
+
+
+</page>
+
+<page sig="T2v">
+The 16. Diffinition.
+<wordentry type="d"><form lang="en" lexeme="icosahedron(n)">ICOSAEDRON</form> <xpln lang="en">is a solide Figure, vnder
+twentye equall equiangle triangles conteyned.</xpln></wordentry>
+
+Icosaedrum
+
+The. 17. Diffinition.
+<wordentry type="d"> <form lang="en" lexeme="dodecahedron(n)">DODECAEDRON</form> <xpln lang="en">is a solide com&#173;
+prehended of twelue equall equiangle pentago&#173;
+nall Superficies.</xpln></wordentry>
+
+The. 18. Diffinition.
+<wordentry type="d"><form lang="en">These fiue bodies are called regular, and about euery of them a sphere
+may be described, that shall with his concaue peripherie exactly touche e&#173;
+uery of their solide angles, and it shall be called their comprehending or
+circumscribing sphere or globe, and these solides shalbe called</form> <xpln lang="en" lexeme="inscribed(a)" lexeme="contained(a)" lexeme="body(n)">the inscri&#173;
+bed or conteyned bodies of that sphere.</xpln></wordentry>
+
+The. 19. Diffinition.
+<wordentry type="d"><form lang="en">Also within euery of these regulare bodies a sphere may be described
+that shall with his conuex superficies precisely touche all the centres of
+those equiangle figuers wherewith these bodies are enuironed, and such
+a one I terme their inscribed or conteyned sphere, and those bodies shall
+be termed</form> <xpln lang="en" lexeme="circumscribing(a)" lexeme="solid(n)">the circumscribing solides of that sphere.</xpln></wordentry>
+
+The. 20. Diffinition.
+<wordentry type="d"><form lang="en" lexeme="semidiameter(n)">The semidiameter</form> <xpln lang="en">of this inscribed sphere, forasmuche as it is the
+very Axis or Kathetus of euery Pyramis, hauing his base one of the equi&#173;
+
+
+
+</page>
+
+<page sig="T3r">
+angle playnes, and concurring in the centre, of which Pyramides (intel&#173;
+lectually conceyued) these bodies seeme to be compounded, it shal be na&#173;
+med the Axis or Kathetus of that body.</xpln></wordentry>
+
+The 21 diffinition.
+<wordentry type="d"><form lang="en">Euery of these bodies side, I call any one of those</form> <xpln lang="en" lexeme="equal(a)" lexeme="right line(n)">equall righte lines
+wherewith these equiangle Figures are enuironed that comprehende
+and include these bodyes.</xpln></wordentry>
+
+The 22 diffinition.
+<wordentry type="d"><form lang="en">Any one of the Figures wherewith these solides be enuironed is</form> <xpln lang="en" lexeme="base(n)">cal&#173;
+led the base of that solide.</xpln></wordentry>
+
+The 23 diffinition.
+<wordentry type="d"><form lang="en">A line falling from any solide angle of these bodyes perpendicularlye
+on the opposite playne or base, shall be named</form> <xpln lang="en" lexeme="perpendicular(n)">that solides Perpendi&#173;
+culare.</xpln></wordentry>
+
+The 24 diffinition.
+<wordentry type="d"><form lang="en" lexeme="extreme(a)" lexeme="proportional(n)" lexeme="mean proportional(n)">The power of any line gyuen is sayde to be diuided into lines re&#173;
+tayning extreame and meane proportion,</form> <xpln lang="en">when two suche lines are
+found as both make their squares ioyned togither, equall to the square of
+the line giuen, and also holde such proportion one to another as the two
+partes of a line diuided by extreame and meane proportion.</xpln></wordentry>
+
+The 25 diffinition.
+<wordentry type="d"><form lang="en" lexeme="described(a)">One of these regulare solides is saide to be described within an other,
+</form> <xpln lang="en">when all the angles of the internall or inscribed body at once touche the
+superficies of the comprehending or circumscribing regulare solide.</xpln></wordentry>
+
+</wordgroup1>
+</section>
+
+
+
+</page>
+
+<page sig="Ff4r">
+<section type="Definition of Transformed Regular Solids">
+<heading>
+The. 25. Probleme.
+</heading>
+
+A Metamorphosis or transformation of the fiue
+regulare bodies.
+
+HItherto haue I onely intreated of the fiue regulare bodies.
+Theoretically and practically opening sundrie meanes to
+search out the proportion and quantities of their sides,
+diameters, axes, perpendiculares, altitudes, and contentes
+both superficiall and solide, and that not onely in these so&#173;
+lides considered by them selues, but also conferred with other, aswell by
+inscription as circumscription, both of themselues and their spheres: so
+as I suppose hardely any question may be proponed concerning these bo&#173;
+dies, whiche by the formal problemes or theoremes may not be resol&#173;
+ued. Yet before I finishe this Treatise I thought good to adioyne one
+Chapter of the transformation of these Solides into suche bodies (as
+though they may not be tearmed regulare, for that Euclide hath demon&#173;
+strate onely fiue, and no mo possibly to be founde or imagined) yet haue
+they such vniforme composition and conuenience with these solides, that
+they are not onely enuironed with equilater and equiangle superficies
+as they be, but also haue all their sides equall, and one comprehending
+sphere exactly and at once touching all their solide angles, they are also
+capable of the regulare bodies, and onely herein different, that whereas
+the regulare solides be inuironed with one kinde of playnenes and re&#173;
+ceiue one internal sphere, and so consequently one axis. These Transfor&#173;
+med bodies are incompassed with seuerall kinde of playnesse, and haue se&#173;
+uerall axes and contayned spheres, of which their diuersitie aryseth ma&#173;
+
+
+
+</page>
+
+<page sig="Ff4v">
+nyfolde mo straunge, rare, and differente kinds of proportions, than may
+in a very large volume (I will not saye be demonstrate, but onely by 
+Theoremes) be declared. Transformed regulare solydes I call them,
+both to auoyde the forging of newe names, which I should be inforced to
+vse for distinction sake, and also bicause they seeme to be created by the
+vnifourme section of the regulare bodies, and may by addition of certaine
+proportionall equall Pyramides, be reduced to the regulare solides, and
+are in sundry proportions and proprieties so agreable and resemblante
+to those regulare solides, whose names they beare, that they seeme onely
+to lose the fourme, and yet still to retayne the nature of them. I meane
+not here in so ample maner as the noueltie of the matter requireth to in&#173;
+treate of them, but onely by diffinitions and Theoremes open so muche
+as may be sufficient to explane the composition, fourme, nature, and pro&#173;
+portion of these, and also giue light to the ingeniouse infinitely to pro&#173;
+ceede for inuention of the like, whose vse and appliance may be manyfold
+to conclusions no lesse straunge than necessarie: but thereof in due place
+for the nature of these transfourmed solides peruse their seuerall diffini&#173;
+tions and Theoremes immediately ensuing.
+
+Of Tetraedron transformed.
+<wordgroup1 type="t">
+The firste Diffinition.
+<wordentry type="d"><form lang="en" lexeme="*tetrahedron(n)" lexeme="transformed(a)">TEtraedron transformed</form> <xpln lang="en">is a solide incompassed with foure equall
+equilater triangles, and foure equall equiangle playnes Heragonall,
+hauing equall sides with the triangles.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="Gg2r">
+Of the transfigured Cube.
+
+The seconde Diffinition.
+<wordentry type="d"><form lang="en" lexeme="*transformed(a)" lexeme="cube(n)">A Transfourmed Cube</form> <xpln lang="en">is a figure geometrical enuironed with 6 equi&#173;
+angle Octogonall and 8 equilater triangular playnes or bases, whose
+sides are all equall.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="Gg3v">
+Of Octaedron transformed.
+
+The 3 Diffinition.
+<wordentry type="d"><form lang="en" lexeme="octahedron(n)" lexeme="transfigure(v)">A Transfigured Octaedron</form> <xpln lang="en">is a Geometricall Figure incompassed
+with 14 bases, whereof 8 are equall equiangle Hexagonall playnes,
+and the other 6 are equall squares.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="Gg4v">
+Of the transfigured Icosaedron.
+
+The fourth Diffinition.
+<wordentry type="d"><form lang="en" lexeme="icosahedron(n)" lexeme="transfigure(v)">ICosaedron transfigured,</form> <xpln lang="en">is a solide bodye incompassed with 32 Equi&#173;
+angle and equilater bases, whereof 20 are Hexagonall, and the other
+12 Pentagonall playnes.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="Hh2r">
+Of Dodecaedron transformed.
+
+The fifthe Diffinition.
+<wordentry type="d"><form lang="en" lexeme="transformed(a)" lexeme="dodecahedron(n)">A Transformed Dodecaedron</form> <xpln lang="en">is a massie or solide figure, compreh<expan type="">en</expan>ded
+of 12 equiangle dexagonal, and 20 equilater triangular bases.</xpln>
+<lemenote>
+"dexagonal" not found in OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+
+
+</page>
+</leme>
+

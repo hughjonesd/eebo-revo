@@ -1,0 +1,726 @@
+
+<leme no="1306"> 
+<page no="1">
+<section type="Title-page">
+<heading>
+A
+Dictionary
+Of
+The <f type="i">Hudson's Bay Indian</f> Language.
+</heading>
+</section>
+
+<section type="Preface">
+
+The Personal Notes are as follow, <f type="i">viz.</f>
+<wordgroup1 type="t" object="t"><alpha></alpha>
+<wordentry type="h"><form lang="en" lexeme="I(pr)">I, or Me:</form> <xpln lang="al">Netha</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="thee(pr)">Thee, or Thou:</form> <xpln lang="al">Kethea</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="he(pr)">He, or Him:</form> <xpln lang="al">Wetha</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="we(pr)">We:</form> <xpln lang="al">Ne thaun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="you(pr)">You:</form> <xpln lang="al">Ke tha woa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="you(pr)" lexeme="party(n)" lexeme="we(pr)" lexeme="include(v)">Your Party and ours included:</form> <xpln lang="al">Ke thawn noe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="they(pr)" lexeme="company(n)">They, or them of a Company:</form> <xpln lang="al">We thaw woa</xpln></wordentry>
+
+Note, When you wou'd speak of any thing concerning your self, or, That it
+is mine, observe always to put the word <term lang="al">Ne</term>, or least pronounce the N to
+begin the word with; as for Example, to say, 
+<wordentry type="h"><form lang="en" lexeme="awl(n)">it is my awl,</form> <xpln lang="al">Noos kaq jik,</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="you(pr)" lexeme="thy(pr)">it is
+yours, or thine,</form> <xpln lang="al">Koos ka jick.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="say(v)" lexeme="they(pr)" lexeme="he(pr)">To say it is theirs or his,</form> <xpln lang="al">Woos ka jick;</xpln></wordentry> and
+in the plural Cases you must use those Words at length, as are inserted in the
+personal Notes, as for Example, 
+<wordentry type="h"><form lang="en" lexeme="say(v)" lexeme="belong(v)" lexeme="we(pr)">to say it belongs to us,</form> <xpln lang="al">Ne thaun Noos
+ka jick coom.</xpln></wordentry> To say 
+<wordentry type="h"><form lang="en" lexeme="belong(v)" lexeme="they(pr)">it belongs to they or them,</form> <xpln lang="al">We thaw woa oos
+ka jick coom.</xpln></wordentry> To say 
+<wordentry type="h"><form lang="en" lexeme="belong(v)" lexeme="you(pr)" lexeme="party(n)">it belongs to your Party,</form> <xpln lang="al">Ke tha woa koos ka jick
+coom</xpln></wordentry>, &c.
+</wordgroup1>
+</section>
+
+<section type="Glossary">
+<heading>
+Words beginning Alphabetically
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="en" lexeme="all(a)">All:</form> <xpln lang="al">ca kith tha</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="awl(n)">awls:</form> <xpln lang="al">oss kau jick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="always(adv)">always:</form> <xpln lang="al">kess cutt</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arrive(v)" lexeme="with(c)" lexeme="canoe(n)" lexeme="ship(n)">arrive with Canoe, or Ship:</form> <xpln lang="al">Mish sha gua</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ash(n)" lexeme="powder(n)">ashes or Powder:</form> <xpln lang="al">Peh co</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="axe(n)" lexeme="hatchet(n)">ax or hatchet:</form> <xpln lang="al">Chick ka higgen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="assist(v)" lexeme="help(v)">assist or help us:</form> <xpln lang="al">Nee shoo ca mou wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arrive(v)" lexeme="by(pp)" lexeme="land(n)">arrived by Land:</form> <xpln lang="al">Ta coosh in</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ask(v)" lexeme="question(n)">ask a question:</form> <xpln lang="al">Cau quea che ma</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ask(v)" lexeme="desire(v)" lexeme="he(pr)" lexeme="they(pr)" lexeme="give(n)" lexeme="give(v)" lexeme="you(pr)" lexeme="such(a)" lexeme="thing(n)">ask or desire, him or them, to give you such
+a thing:</form> <xpln lang="al">na tut ta mou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="able(a)" lexeme="strong(a)">able or strong:</form> <xpln lang="al">Cau thau wissue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="able(a)" lexeme="man(n)">an able Man:</form> <xpln lang="al">Cau thau wau pai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="company(n)" lexeme="able(a)" lexeme="man(n)">a Company of able Men:</form> <xpln lang="al">Cau thau wau
+pai wee uck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="above(adv)">above:</form> <xpln lang="al">is spim mihk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="abandon(v)" lexeme="forsake(v)" lexeme="leave(v)">abandon, to forsake or leave:</form> <xpln lang="al">Na cut taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arrow(n)">arrows:</form> <xpln lang="al">at tuss</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arrow-head(n)">arrow-heads:</form> <xpln lang="al">at tuss au bisk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="angry(a)">angry:</form> <xpln lang="al">This kau tai see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="air(n)">air:</form> <xpln lang="al">Ke shick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="abaft(v)" lexeme="hinder(v)" lexeme="part(n)" lexeme="vessel(n)">abaft, or hinder part of a Vessel:</form> <xpln lang="al">Oo tachk
+a ta kuk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ashame(a)">ashamed:</form> <xpln lang="al">Ne pai wissue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="abhor(v)" lexeme="loathe(v)">abhor or loath:</form> <xpln lang="al">Pa qua tau</xpln></wordentry>
+</page>
+
+<page no="2">
+<wordentry type="h"><form lang="en" lexeme="advise(v)" lexeme="instruct(v)">advise, or instruct:</form> <xpln lang="al">Kiss ke mau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="afraid(a)">afraid:</form> <xpln lang="al">Goos ta chee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="aged(a)" lexeme="man(n)">aged Man:</form> <xpln lang="al">Ke shay noa pai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="aged(a)" lexeme="woman(n)">aged Woman:</form> <xpln lang="al">Ke shay e squae</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arm(n)" lexeme="man(n)">arm of a Man:</form> <xpln lang="al">Spitt tone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="almost(adv)">almost:</form> <xpln lang="al">Ke gat</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ankle-bone(n)">ancle-bone:</form> <xpln lang="al">Thu thu me cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="another(a)">another:</form> <xpln lang="al">Co tuck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="apparel(n)">apparel:</form> <xpln lang="al">ock co ho winn</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arm(n)" lexeme="branch(n)" lexeme="river(n)">arm, or branch of a River:</form> <xpln lang="al">Pus ca yoau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="assault(n)">assault:</form> <xpln lang="al">Moos kish tou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="augment(v)" lexeme="put(v)" lexeme="more(n)">augment, or put more to it:</form> <xpln lang="al">Ah shit tin
+na</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="awkward(a)" lexeme="unhandy(a)">aukward, or unhandy:</form> <xpln lang="al">Ny eh tau wissee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="avoid(v)" lexeme="run(v)" lexeme="from(pp)" lexeme="danger(n)">avoud, or run from Danger:</form> <xpln lang="al">Oosh she moe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="alarm(n)">allarum:</form> <xpln lang="al">A mut tiss foo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="alone(a)">alone:</form> <xpln lang="al">Ne shick cut</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="asleep(adv)">asleep:</form> <xpln lang="al">Ne paou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="athirst(a)">athirst:</form> <xpln lang="al">Ne pau quea</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="abundance(n)" lexeme="many(n)">abundance, or many:</form> <xpln lang="al">Me chaytee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ground(n)" lexeme="vessel(n)">a ground with a Vessel:</form> <xpln lang="al">Miss sis Cai tinn</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="alike(adv)">alike:</form> <xpln lang="al">Shin nau guone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="alive(a)">alive:</form> <xpln lang="al">Ith thith the wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="anon(adv)">anon:</form> <xpln lang="al">Esh quoa</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="apart(adv)">apart:</form> <xpln lang="al">Pah caun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="appear(v)">appear:</form> <xpln lang="al">No quos see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="archer(n)">archer:</form> <xpln lang="al">Na haw shoo way</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="arse(n)">Arse:</form> <xpln lang="al">Chisk</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="en" lexeme="brain(n)">Brains:</form> <xpln lang="al">We the tihp</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beard(n)">beard:</form> <xpln lang="al">Me thish to wan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="back(n)">back:</form> <xpln lang="al">Spis quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="belly(n)">belly:</form> <xpln lang="al">Tye</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="backbone(n)">back-bone:</form> <xpln lang="al">Wau we cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="broken-backed(a)">broken-back'd:</form> <xpln lang="al">Cuss cau we cun na</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="broken-legged(a)">broken-leg'd:</form> <xpln lang="al">Cuss ke cott tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="broken-armed(a)">broken-arm'd:</form> <xpln lang="al">Cuss ke pit tone na</xpln><lemenote> Sense of "broken-armed(a)" not found in OED.</lemenote></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bad(a)" lexeme="naught(a)">bad or nought:</form> <xpln lang="al">Mau thau tun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bag(n)" lexeme="sack(n)">bag or sack:</form> <xpln lang="al">Miss ca moot <term lang="en">or</term> Me wot</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="black bear(n)">bear black:</form> <xpln lang="al">Miss squa</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="white bear(n)">bear white:</form> <xpln lang="al">Wau pusk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bait(n)" lexeme="fish(n)">bait for Fish:</form> <xpln lang="al">Coos cai yauo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bead(n)">beads:</form> <xpln lang="al">Me kiss</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="brass(n)">brass:</form> <xpln lang="al">Saw weh co man</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="black(a)">black:</form> <xpln lang="al">Cuss ke tai see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bayonet(n)">baggonets:</form> <xpln lang="al">Tah curch e gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="brandy(n)">brandy:</form> <xpln lang="al">Squil tay wau boe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="blanket(n)">blankets:</form> <xpln lang="al">Wau pe wy an</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beaver(n)" lexeme="creature(n)">beaver, the Creature:</form> <xpln lang="al">Am misk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beaver-skin(n)" lexeme="parchment(n)">beaver-skin, parchement:</form> <xpln lang="al">Ah tye <term lang="en">or</term> cauth
+cah tye</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beaver-coat(n)">beaver-coat:</form> <xpln lang="al">Match che wy an</xpln><lemenote>"beaver-coat(n)" not found in OED.</lemenote></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beat(v)">beat:</form> <xpln lang="al">Tom ma hoe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bend(v)">bend:</form> <xpln lang="al">Wau kin nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bay(n)">bay:</form> <xpln lang="al">Waw shaw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="blind(n)">blind:</form> <xpln lang="al">Na ma ke nut ta wa be</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="blood(n)">blood:</form> <xpln lang="al">Mith co</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bread(n)">bread:</form> <xpln lang="al">A thoo ka nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="book(n)" lexeme="writing(n)">book, or writing:</form> <xpln lang="al">Miss en a higgen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bough(n)" lexeme="knot(n)" lexeme="tree(n)">bough, or knot of a Tree:</form> <xpln lang="al">Wot tihk quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="blow(v)">blew:</form> <xpln lang="al">Ass ke toh co</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="break(v)">break:</form> <xpln lang="al">Cuss cut tin nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="break(v)">broak:</form> <xpln lang="al">Boas cuss cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="burnt(a)">burnt:</form> <xpln lang="al">Mesh te tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="broth(n)">broath:</form> <xpln lang="al">Moosh ca mee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bow(n)" lexeme="shoot(v)">bow to shoot with:</form> <xpln lang="al">Ah cha pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="build(v)" lexeme="house(n)" lexeme="tent(n)">build a House or Tent:</form> <xpln lang="al">Man noo cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="build(v)" lexeme="ship(n)" lexeme="canoe(n)">build a Ship of Cannoe:</form> <xpln lang="al">Ash to thee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="boy(n)">Boy:</form> <xpln lang="al">Nau pai ish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="barefooted(a)">barefooted:</form> <xpln lang="al">Sha sha ke sit tai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="berry(n)">berries in general:</form> <xpln lang="al">Mee nish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bitter(a)">bitter:</form> <xpln lang="al">We so gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="body(n)">body:</form> <xpln lang="al">We ou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="brittle(a)">brittle:</form> <xpln lang="al">Woh so gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="broiled(a)">broiled:</form> <xpln lang="al">Mess ca tai puoy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="boil(v)">boil:</form> <xpln lang="al">Pah kauh tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bundle(n)">bundle:</form> <xpln lang="al">Me eush</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="burden(n)">burden:</form> <xpln lang="al">Nay ah reh che gan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="boil(n)" lexeme="sore(n)">boyl, sore:</form> <xpln lang="al">See kihp</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bell(n)">bells:</form> <xpln lang="al">Shee way hoo tau gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beautiful(a)">beautiful:</form> <xpln lang="al">Ke shish shoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="beguile(v)">beguile:</form> <xpln lang="al">Wy esh e ca moe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="behold(v)">behold:</form> <xpln lang="al">Cun nau wau bum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="believe(v)">believe:</form> <xpln lang="al">Taw puy tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bewail(v)">bewail:</form> <xpln lang="al">Mih taut tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="bloody(a)">bloody:</form> <xpln lang="al">Mith co wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="brother(n)">brethren:</form> <xpln lang="al">We che shauto wuck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="born(v)">born:</form> <xpln lang="al">Nih tau wig gee</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="catch(v)" lexeme="trap(n)">Catcht in a trap:</form> <xpln lang="al">To soos soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="catch(v)" lexeme="fish(n)" lexeme="net(n)">catch Fish in a Net:</form> <xpln lang="al">Pit tau hum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="catch(v)" lexeme="beaver(n)" lexeme="net(n)">catch a Beaver in a Net:</form> <xpln lang="al">Pet tau hoth
+tha</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="call(v)">call:</form> <xpln lang="al">Nutt tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="change(v)">change:</form> <xpln lang="al">Miss cutch</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cheek(n)">cheek:</form> <xpln lang="al">Won nuoy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="chaw(v)">chaw:</form> <xpln lang="al">Maw quohtch e gay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="chide(v)">chide:</form> <xpln lang="al">Ke tote taou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="child(n)">child:</form> <xpln lang="al">A wash ish <term lang="en">or</term> appe thotch is</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="choked(a)">choaked:</form> <xpln lang="al">At to hoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="corpse(n)">corps:</form> <xpln lang="al">Me no ca now</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="couch(v)" lexeme="stoop(v)">couch or stoop:</form> <xpln lang="al">Oo tiht appe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="creek(n)">creek:</form> <xpln lang="al">See be ish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="candle(n)">candle:</form> <xpln lang="al">Wash tan a maw gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="captive(n)">captive:</form> <xpln lang="al">Wau kaun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="castle(n)">castle:</form> <xpln lang="al">Wass cau higgen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cedar(n)">cedar:</form> <xpln lang="al">Maush a keesk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="challenge(n)">challenge:</form> <xpln lang="al">Mow we nai hoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="channel(n)">channel:</form> <xpln lang="al">Tim me may gun <term lang="en">or</term> Tim m
+pay yaou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="child(n)">children:</form> <xpln lang="al">A wash ish uck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cloudy(a)">cloudy:</form> <xpln lang="al">Woss co wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="copper(n)">copper:</form> <xpln lang="al">Saw wih co man <term lang="en">or</term> Mith co co
+man</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="creep(v)">creep:</form> <xpln lang="al">Muss coh tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cripple(n)">cripple:</form> <xpln lang="al">Mass kiss sue</xpln></wordentry>
+</page>
+
+<page no="3">
+<wordentry type="h"><form lang="en" lexeme="cry(v)">crying:</form> <xpln lang="al">Mau tow</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="current(n)" lexeme="river(n)">current of a River:</form> <xpln lang="al">Pim itch che wom</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cut(v)">cut:</form> <xpln lang="al">Mau tish sha</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="canoe(n)">cannoe:</form> <xpln lang="al">Oatte <term lang="en">or</term> Che man</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="comb(n)">combs:</form> <xpln lang="al">Shick cau hone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cap(n)">cap:</form> <xpln lang="al">Ash tut tin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="coat(n)">coat:</form> <xpln lang="al">Oc cohpe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cat(n)">cat, <f type="i">English</f>:</form> <xpln lang="al">Cau shuck keesh</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wild cat(n)">cat wild:</form> <xpln lang="al">Pish shoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="castoreum(n)">castorum:</form> <xpln lang="al">Wee shee naw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="climb(v)">climb:</form> <xpln lang="al">Ke chay guss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="carry(v)">carry:</form> <xpln lang="al">Nay yah tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cold(a)">cold:</form> <xpln lang="al">Kiss sin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="calm(n)">calm:</form> <xpln lang="al">Ath thwash tin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="complain(v)">complain:</form> <xpln lang="al">Mau she mush towe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cover(v)">cover:</form> <xpln lang="al">Ock quaun nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="covetous(a)">covetous:</form> <xpln lang="al">Ass poon niss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="chin(n)">chin:</form> <xpln lang="al">Quos coon nay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="cowardly(adv)">cowardly:</form> <xpln lang="al">Shoak coo ta hay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="consider(v)">consider:</form> <xpln lang="al">We shoo beth the tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="crooked(a)">crooked:</form> <xpln lang="al">Wau caou</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="en" lexeme="dance(v)">Dance:</form> <xpln lang="al">Nim mee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dawn(n)">dawn:</form> <xpln lang="al">Petr rau bun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dead(a)">dead:</form> <xpln lang="al">Ne pew <term lang="en">or</term> Che pye</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="deaf(a)">deaf:</form> <xpln lang="al">Nau mah nau heh tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="deer(n)">deer:</form> <xpln lang="al">Ah tihk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dirt(n)" lexeme="mud(n)">dirt or mud:</form> <xpln lang="al">Ash shish kee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dish(n)">dish:</form> <xpln lang="al">Ooth au gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="door(n)">door:</form> <xpln lang="al">Squah tem</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="draw(v)">draw:</form> <xpln lang="al">Oo tap pay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dream(n)">dream:</form> <xpln lang="al">Pow wau mew</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="drink(v)">drink:</form> <xpln lang="al">Min ne queah</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="drunk(a)">drunk:</form> <xpln lang="al">Kees squea bea</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dung(n)" lexeme="man(n)">dung of a Man:</form> <xpln lang="al">Mai yea</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dung(n)" lexeme="beast(n)">dung of a Beast:</form> <xpln lang="al">Mai chee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dust(n)">dust:</form> <xpln lang="al">Ath thawkle caw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dark(a)">dark:</form> <xpln lang="al">Won ne tau biss cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="daughter(n)">daughter:</form> <xpln lang="al">Taw niss</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="deny(v)">deny:</form> <xpln lang="al">Cau taou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="depart(v)">depart:</form> <xpln lang="al">Ke way</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="despair(n)">despair:</form> <xpln lang="al">Ke wosh eth the tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="destroy(v)">destroy:</form> <xpln lang="al">Peek co bitt tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="despatch(v)">dispatch:</form> <xpln lang="al">Kith the pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="day(n)">day:</form> <xpln lang="al">Ke shick cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dreamer(n)">dreamer:</form> <xpln lang="al">Pow waum ish ke</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dreadful(adv)">dreadful:</form> <xpln lang="al">Guss tas sin nau gus see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="drowned(a)">drowned:</form> <xpln lang="al">Nish tau aw way</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="don't(n)">don't:</form> <xpln lang="al">He rau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="defy(v)">defie:</form> <xpln lang="al">Maw theath im may</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="displease(v)">displease:</form> <xpln lang="al">Keesh sheim mau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dispute(v)">dispute:</form> <xpln lang="al">Ke kih queaw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="dried(a)">dried:</form> <xpln lang="al">Pass saw gun a wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="duffel(n)">duffils:</form> <xpln lang="al">Piss sway wy an</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="duck(n)">ducks:</form> <xpln lang="al">She ship</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="ear(n)">Ear:</form> <xpln lang="al">Tow wog guy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="earth(n)">earth:</form> <xpln lang="al">Ass kee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="eat(v)">eat:</form> <xpln lang="al">Metch chis sue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="egg(n)">eggs:</form> <xpln lang="al">Wau wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="eight(a)">eight:</form> <xpln lang="al">I yea nau nay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="eagle(n)">eagle:</form> <xpln lang="al">Mai kiss sue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="empty(a)">empty:</form> <xpln lang="al">Nau mah ass so wot tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="eye(n)">eye:</form> <xpln lang="al">Skeesh ick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="elbow(n)">elbow:</form> <xpln lang="al">Tose quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="equal(a)">equal:</form> <xpln lang="al">Tab biss cootch</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="exchanger(n)">exchanger:</form> <xpln lang="al">Miss cootch <term lang="en">or</term> Misscoo tun
+nay mow wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ermine(n)">ermins:</form> <xpln lang="al">See coos</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="en" lexeme="fear(n)">Fear:</form> <xpln lang="al">Gush tain</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fool(n)">fool:</form> <xpln lang="al">Miss sitt</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="few(a)">few:</form> <xpln lang="al">Che cau wash ish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fire(n)">fire:</form> <xpln lang="al">Ish squit tao</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="first(a)">first:</form> <xpln lang="al">Nish tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fish(n)">fish:</form> <xpln lang="al">Nau mace</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="five(a)">five:</form> <xpln lang="al">Ne ath thaw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flame(n)">flame:</form> <xpln lang="al">Pass see tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flank(n)">flank:</form> <xpln lang="al">Oo chais ta tye</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flesh(n)">flesh:</form> <xpln lang="al">We ash</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flying(a)">flying:</form> <xpln lang="al">Pim  mith thay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flint(n)">flints:</form> <xpln lang="al">Mash tau twa bisk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flood(n)">flood:</form> <xpln lang="al">Pa peth thea</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="foolish(a)">foolish:</form> <xpln lang="al">Na mau ith the boak caw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fowl(n)">fowl in general:</form> <xpln lang="al">Pith thais see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="find(v)">found:</form> <xpln lang="al">Miss cum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="four(a)">four:</form> <xpln lang="al">Nay wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fresh(a)">fresh:</form> <xpln lang="al">Osh kee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="friend(n)">friends:</form> <xpln lang="al">Ne tow tem</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="frog(n)">frogs:</form> <xpln lang="al">Ath theel</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="frot(v)">froit:</form> <xpln lang="al">Ock qua tim</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="flint(n)" lexeme="gun(n)">flints for Guns:</form> <xpln lang="al">Cha kish a higgen <term lang="en">or</term> pass
+ca siggen appit</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fire steel(n)">fire steels:</form> <xpln lang="al">Ap piht</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="file(n)">files:</form> <xpln lang="al">Keesh ke mun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fish-hook(n)">fish-hooks:</form> <xpln lang="al">Mith kih quon <term lang="en">or</term> she quatch
+che gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="father(n)">father:</form> <xpln lang="al">Noh tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="feather(n)">feathers:</form> <xpln lang="al">Oo pee wye</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="finish(v)">finished:</form> <xpln lang="al">Ne she tane ne wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="forehead(n)">forehead:</form> <xpln lang="al">Scoh tihk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="food(n)">food:</form> <xpln lang="al">Meetch im</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="forty(n)">forty:</form> <xpln lang="al">Nay we mit ten nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fifty(n)">fifty:</form> <xpln lang="al">Ne ath tha Mit ten nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="firebrand(n)">firebrands:</form> <xpln lang="al">Es squas cu shai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="feeble(a)">feeble:</form> <xpln lang="al">Ne thaw Miss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fragment(n)">fragments:</form> <xpln lang="al">Es quoth che gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="further(adv)">further:</form> <xpln lang="al">A woss see tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fat(n)">fat:</form> <xpln lang="al">Weeth in no</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fat(n)" lexeme="dried(a)">fat dried:</form> <xpln lang="al">Pim me</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="fox(n)">foxes:</form> <xpln lang="al">Mau keesh shoo</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en" lexeme="give(n)">Give:</form> <xpln lang="al">Me thee</xpln></wordentry>
+</page>
+
+<page no="4">
+<wordentry type="h"><form lang="en" lexeme="glad(a)">glad:</form> <xpln lang="al">We noch co maw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="gone(a)">gone:</form> <xpln lang="al">Shaw shy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="good(a)">good:</form> <xpln lang="al">Mith wash shee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="grain(n)">grain in general:</form> <xpln lang="al">Muss cush shee min</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="grass(n)">grass:</form> <xpln lang="al">Muss cush shee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="groan(n)">groan:</form> <xpln lang="al">May tway moe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="great(a)">great:</form> <xpln lang="al">Mish shegg gee tee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="giant(n)">giant:</form> <xpln lang="al">Mish tau pay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="girdle(n)">girdle:</form> <xpln lang="al">Pah quah tay hone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="greedy(a)">greedy:</form> <xpln lang="al">Caw shuck kin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="gun(n)">guns:</form> <xpln lang="al">Pass ca siggen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="go(v)">go:</form> <xpln lang="al">Pim mooh tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="good(n)">goods:</form> <xpln lang="al">I o win ish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="gravel(n)">gravel:</form> <xpln lang="al">Ath ake caw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="geese(n)">geese:</form> <xpln lang="al">Gray niss ka</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="gall(n)">gaul:</form> <xpln lang="al">We so be</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="en" lexeme="head(n)">Head:</form> <xpln lang="al">Ish tea quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hair(n)" lexeme="man(n)" lexeme="head(n)">hair of a Man's Head:</form> <xpln lang="al">Esh tug guy.</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="haste(n)">hast:</form> <xpln lang="al">Ne kih twaun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hate(v)">hate:</form> <xpln lang="al">Pah quao taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="heel(n)">heel:</form> <xpln lang="al">Woh quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hear(v)">hear:</form> <xpln lang="al">Peh ten</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hearth(n)">hearth:</form> <xpln lang="al">Coot tau wan ihk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="heat(n)">heat:</form> <xpln lang="al">Up poy aou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="helve(n)">helve:</form> <xpln lang="al">Ah tihk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hide(n)" lexeme="skin(n)">hide or skin:</form> <xpln lang="al">Woss shug guy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hire(v)" lexeme="engage(v)">hire or engage:</form> <xpln lang="al">At tut taow</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hold(v)">hold:</form> <xpln lang="al">Tuh coon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hole(n)" lexeme="ground(n)">hole in the Ground:</form> <xpln lang="al">Wau tew</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hole(n)" lexeme="cloth(n)" lexeme="skin(n)">hole in cloath or skin:</form> <xpln lang="al">Puck quon nye a</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hoof(n)" lexeme="claws(n)">hoofs or claws:</form> <xpln lang="al">Oos kush shee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="heart(n)">heart:</form> <xpln lang="al">Oo tai he</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hatchet(n)">hatchetts:</form> <xpln lang="al">Chic ca higgen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="horn(n)">horns:</form> <xpln lang="al">Esh cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="horn(n)" lexeme="powder(n)">horns for Powder:</form> <xpln lang="al">Pitch che pe quan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="half(n)">half:</form> <xpln lang="al">Au biht taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hang(v)">hangs:</form> <xpln lang="al">Ock cu taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hungry(a)">hungry:</form> <xpln lang="al">Thee won niss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hunter(n)">hunter:</form> <xpln lang="al">Thee won niss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hemp(n)">hemp:</form> <xpln lang="al">Shaish tuck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hail(v)">hail:</form> <xpln lang="al">Say say gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="hand(n)">hand:</form> <xpln lang="al">Tilych che</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+<wordentry type="h"><form lang="en" lexeme="jesting(n)">Jesting:</form> <xpln lang="al">We yeah tway</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="jealous(a)">jealous:</form> <xpln lang="al">Cau queath the tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ice(n)">ice:</form> <xpln lang="al">Muss quom mee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="icicle(n)">iceicles:</form> <xpln lang="al">Assissoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="iron(n)">iron:</form> <xpln lang="al">Pe wau bisk</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="K"><alpha>K</alpha>
+<wordentry type="h"><form lang="en" lexeme="keep(v)">Keep:</form> <xpln lang="al">Cun nau weth the tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kick(v)">kick:</form> <xpln lang="al">Tohk kiss caw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="knee(n)">knee:</form> <xpln lang="al">Chick quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kiss(n)">kiss:</form> <xpln lang="al">Toh kee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kneel(v)">kneel:</form> <xpln lang="al">Chick quon appee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="knife(n)">knife:</form> <xpln lang="al">Mo co man</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="knit(v)" lexeme="net(n)">knit a net:</form> <xpln lang="al">Ath thappe cai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="knit(n)" lexeme="snow(n)" lexeme="shoe(n)">knit snow shoos:</form> <xpln lang="al">Ash kin may</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kindred(n)">kindred:</form> <xpln lang="al">Woh co maw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="know(v)">know:</form> <xpln lang="al">Kiss keth the mine</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kidney(n)">kidneys:</form> <xpln lang="al">Oo titht tee coos see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kindness(n)">kindness:</form> <xpln lang="al">Tit te maw geth the im maw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kettle(n)">kettle:</form> <xpln lang="al">Ass keehk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="kill(v)">kill:</form> <xpln lang="al">Ne pau haow</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="en" lexeme="lake(n)">Lake:</form> <xpln lang="al">Saw cau higgen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lance(n)">launce:</form> <xpln lang="al">Shim maw gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="large(a)">large:</form> <xpln lang="al">Miss sheggy tee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="laugh(v)">laugh:</form> <xpln lang="al">Pah pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="leaf(n)">leafs:</form> <xpln lang="al">Ne pih</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lean(a)">lean:</form> <xpln lang="al">Puss ca way</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="leave(v)">leave:</form> <xpln lang="al">Na cut taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lice(n)">lice:</form> <xpln lang="al">Eh quah</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lick(n)">lick:</form> <xpln lang="al">Nooth quatt tah</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lie(v)">lie:</form> <xpln lang="al">Kith thaus kee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lift(v)">lift:</form> <xpln lang="al">Oh pin na</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="like(v)">like:</form> <xpln lang="al">Shin nau guon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="light(n)">light:</form> <xpln lang="al">Thaw cush in</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="long(a)">long:</form> <xpln lang="al">kin woos quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="loft(n)">loft:</form> <xpln lang="al">Won nih taun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="low(a)">low:</form> <xpln lang="al">Tau bosh ilh</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="linen(n)">linnen:</form> <xpln lang="al">Pa pack ke wy an</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="little(n)">little:</form> <xpln lang="al">Pish ash shee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="lodging(n)">lodging:</form> <xpln lang="al">Ne pay win</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="liar(n)">lyar:</form> <xpln lang="al">Kith thass kish seew</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="looking-glass(n)">looking-glass:</form> <xpln lang="al">Wau bum moe win</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="leather(n)">leather:</form> <xpln lang="al">Kee shin ne gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="loin(n)">loins:</form> <xpln lang="al">Took cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="liver(n)">liver:</form> <xpln lang="al">Oos coon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="light(n)">lights:</form> <xpln lang="al">Uth pun</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="en" lexeme="make(v)">Make:</form> <xpln lang="al">Woss she tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="maw(n)">maw:</form> <xpln lang="al">Piss quot tye</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="meet(v)">meet:</form> <xpln lang="al">Nuck kish cow</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="mouse(n)">mice:</form> <xpln lang="al">Ab ba co sish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="milk(n)">milk:</form> <xpln lang="al">To tosh au boe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="moist(a)">moist:</form> <xpln lang="al">Neesh cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="moon(n)">moon:</form> <xpln lang="al">Ta bisk au peace im</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="more(a)">more:</form> <xpln lang="al">Min na</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="mouth(n)">mouth:</form> <xpln lang="al">Mitt tone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="mountain(n)">mountain:</form> <xpln lang="al">Wot chee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="martin(n)">martin:</form> <xpln lang="al">Wau bish stan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="morning(n)">morning:</form> <xpln lang="al">ke shape paou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="man(n)">man:</form> <xpln lang="al">Nau pay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="mine(a)">mine:</form> <xpln lang="al">Ne thaun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="mitten(n)">mittens:</form> <xpln lang="al">As stiss</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="en" lexeme="naked(a)">Naked:</form> <xpln lang="al">Moo shes cut tai</xpln></wordentry>
+</page>
+
+<page no="5">
+<wordentry type="h"><form lang="en" lexeme="name(n)">name:</form> <xpln lang="al">Weeth thoo win</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="nought(pr)">nought:</form> <xpln lang="al">Muh che cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="neck(n)">neck:</form> <xpln lang="al">o qui ah</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="near(a)">near:</form> <xpln lang="al">Pay sutch</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="night(n)">night:</form> <xpln lang="al">Ta bis cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="nine(a)">nine:</form> <xpln lang="al">Shoak</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="noon(n)">noon:</form> <xpln lang="al">Ab biht tau keesh she cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="nose(n)">nose:</form> <xpln lang="al">Skee won</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="needy(a)">needy:</form> <xpln lang="al">Way wan nis see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="nimble(a)">nimble:</form> <xpln lang="al">Cha chas tau pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="nostril(n)">nostrils:</form> <xpln lang="al">Teth the com may</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="nothing(n)">nothing:</form> <xpln lang="al">Noth thau wosh</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="net(n)">nets:</form> <xpln lang="al">Ath thap pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="net-line(n)">net-lines:</form> <xpln lang="al">Shin noo taw gun</xpln><lemenote>"net-line(n)" not found in OED.</lemenote></wordentry>
+<wordentry type="h"><form lang="en" lexeme="needle(n)">needles:</form> <xpln lang="al">Shob book ny cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="new(a)">new:</form> <xpln lang="al">Osh caw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="navel(n)">navel:</form> <xpln lang="al">Oo tis i aub be</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="narrow(a)">narrow:</form> <xpln lang="al">Shaw shaw co wau</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O"><alpha>O</alpha>
+<wordentry type="h"><form lang="en" lexeme="one(a)">One:</form> <xpln lang="al">Pai yoag</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="oil(v)">oyl:</form> <xpln lang="al">Mish tick o pim me</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="oar(n)" lexeme="paddle(n)">oar or paddle:</form> <xpln lang="al">Up pouy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="owl(n)">owl:</form> <xpln lang="al">Ho ho miss soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="outside(adv)">outside:</form> <xpln lang="al">Au thoo min</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="oatmeal(n)">oatmeal:</form> <xpln lang="al">Au thoo min</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="otter(n)">otters:</form> <xpln lang="al">Ne kick</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="porcupine(n)">Porcupine:</form> <xpln lang="al">Kauk quoh</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="paunch(n)">paunch:</form> <xpln lang="al">We naush tugguy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pheasant(n)">pheasant:</form> <xpln lang="al">Assis co</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="path(n)">path:</form> <xpln lang="al">Mess cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="peep(n)">peep:</form> <xpln lang="al">Pass paub be</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pinch(n)">pinch:</form> <xpln lang="al">Chees tin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pipe(n)">pipe:</form> <xpln lang="al">Oo spo gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="piss(n)">piss:</form> <xpln lang="al">Sick cue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="play(v)">play:</form> <xpln lang="al">Mett tau way</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pull(v)">pull:</form> <xpln lang="al">O chib bih ta</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pluck(v)" lexeme="foul(n)">pluck a Fowl:</form> <xpln lang="al">Puss coon ny thai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pole(n)">poles:</form> <xpln lang="al">A push shoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pool(n)">pool:</form> <xpln lang="al">Pih tau paig</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="proud(a)">proud:</form> <xpln lang="al">Mah taug gus see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="paint(n)">paint:</form> <xpln lang="al">Woth thom man</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="paleness(n)">paleness:</form> <xpln lang="al">Wau pih queau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="parent(n)">parents:</form> <xpln lang="al">Nee ke higg</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="people(n)">people:</form> <xpln lang="al">E thith thee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="perish(v)" lexeme="cold(n)">perish with cold:</form> <xpln lang="al">Sea cutch chee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pillow(n)">pillow:</form> <xpln lang="al">Ass pish e mone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pleasant(a)">pleasant:</form> <xpln lang="al">Mith waou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="plenty(n)">plenty:</form> <xpln lang="al">Way thote tis soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="powder(n)">powder:</form> <xpln lang="al">Peh co</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pigeon(n)">pidgeon:</form> <xpln lang="al">Oo Mew mew</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="partner(n)">partner:</form> <xpln lang="al">Wee che haw gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="pricking(n)">pricking:</form> <xpln lang="al">Ke shish in</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="partridge(n)">partridges:</form> <xpln lang="al">Wau pe thay</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+<wordentry type="h"><form lang="en" lexeme="quaking(n)">Quaking:</form> <xpln lang="al">Wau we putch che</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="quarrel(n)">quarrel:</form> <xpln lang="al">Ke cau wit tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="quiet(n)">quiet:</form> <xpln lang="al">Ke aum a wiss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="quench(v)" lexeme="fire(n)">quench Fire:</form> <xpln lang="al">Ash tau wain nao</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="quickly(adv)">quickly:</form> <xpln lang="al">Kith ip</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en" lexeme="rain(n)">Rain:</form> <xpln lang="al">Kim me wan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rise(v)" lexeme="sleep(n)">rise from sleep:</form> <xpln lang="al">Won nis cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="root(n)">root:</form> <xpln lang="al">Wot tap pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="round(a)">round:</form> <xpln lang="al">Wau we ass soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="row(v)" lexeme="paddle(v)">row or paddle:</form> <xpln lang="al">Pim miss cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rump(n)">rump:</form> <xpln lang="al">Oo shoo cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="river(n)">river:</form> <xpln lang="al">Sea bee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ring(n)">rings:</form> <xpln lang="al">Ah tun <term lang="en">or</term> Tab bi tetch a biss
+soon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rib(n)">rib:</form> <xpln lang="al">O spig gai gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="red(n)">red:</form> <xpln lang="al">Mith co sue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="railing(n)">railing:</form> <xpln lang="al">Ath the moe wit tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rather(a)">rather:</form> <xpln lang="al">Te au quotch</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="refresh(v)">refresh:</form> <xpln lang="al">E the co hossoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="remain(n)">remains:</form> <xpln lang="al">Ash tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="repeat(v)">repeat:</form> <xpln lang="al">Nuss pe to tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="report(n)">report:</form> <xpln lang="al">E tih tau quon <term lang="en">or</term> atche maun
+ne wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="retain(v)" lexeme="memory(n)">retain in memory:</form> <xpln lang="al">Kiss kiss sin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rifle(n)">rifle:</form> <xpln lang="al">Muss cum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rusty(a)">rusty:</form> <xpln lang="al">Ock quoa bis cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="reason(n)">reasons:</form> <xpln lang="al">Shoo min uck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="rabbit(n)">rabbit:</form> <xpln lang="al">Wau pash</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="run(v)">run:</form> <xpln lang="al">Chitch e bah tau</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="sailing(n)">Sailing:</form> <xpln lang="al">Pim maush she</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="scabby(a)">scabby:</form> <xpln lang="al">Me gew</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="scrape(v)" lexeme="skin(n)">scrape a Skin:</form> <xpln lang="al">Mau tau hau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="scum(n)">scum:</form> <xpln lang="al">Peesh tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sea(n)">sea:</form> <xpln lang="al">Ween ny paig</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="seal(n)" lexeme="sea-dog(n)">seal, or sea Dog:</form> <xpln lang="al">Ath kick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="seek(v)">seek:</form> <xpln lang="al">Na tun nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sew(v)" lexeme="cloth(n)" lexeme="leather(n)">sew Cloth, or Leather:</form> <xpln lang="al">Kish tai quote
+tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shame(n)">shame:</form> <xpln lang="al">Ne pai wiss soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sharp(a)">sharp:</form> <xpln lang="al">Cau shis in <term lang="en">or</term> keen ny cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sheath(n)" lexeme="case(n)">sheath, or case:</form> <xpln lang="al">Spick in nau gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shoe(n)">shooes:</form> <xpln lang="al">Muss kis in</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shoot(v)" lexeme="bow(n)">shoot with Bow:</form> <xpln lang="al">Pikm moo tohk quea</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shoot(v)" lexeme="gun(n)">shoot with Gun:</form> <xpln lang="al">Pass ke siggay</xpln></wordentry>
+</page>
+
+<page no="6">
+<wordentry type="h"><form lang="en" lexeme="short(a)">short:</form> <xpln lang="al">Chim mass co shin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shout(v)">shout:</form> <xpln lang="al">Tay puoy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sick(a)">sick:</form> <xpln lang="al">No chee moe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sore(n)" lexeme="pain(n)">sore, or pain:</form> <xpln lang="al">Ohk qua see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="side(n)">side:</form> <xpln lang="al">Ose spig guy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sink(v)">sunk:</form> <xpln lang="al">Coo sab bai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="six(a)">six:</form> <xpln lang="al">Ne coot twau shick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="skin(n)">skin:</form> <xpln lang="al">Wy an</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sky(n)">sky:</form> <xpln lang="al">Kee shick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="skirt(n)" lexeme="bird(n)">skirt of a beast:</form> <xpln lang="al">Kee pau ho win</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="skull(n)">skull:</form> <xpln lang="al">Oos te quan ni cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sleep(v)">sleep:</form> <xpln lang="al">Ne pan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="slow(a)">slow:</form> <xpln lang="al">Pai kis cau tis see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="smart(a)">smart:</form> <xpln lang="al">We so kiss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="smell(v)">smell:</form> <xpln lang="al">Mith thaum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="smith(n)">smiths:</form> <xpln lang="al">Wiss co john</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="smoke(n)">smoak:</form> <xpln lang="al">Pash tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="snow(n)">snow:</form> <xpln lang="al">Cone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="soft(a)">soft:</form> <xpln lang="al">Thoos kis sue</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="some(a)">some:</form> <xpln lang="al">Pose co</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sour(a)">sowre:</form> <xpln lang="al">She wis see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="speech(n)">speech:</form> <xpln lang="al">Ath the me taug gus see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="spew(v)">spew:</form> <xpln lang="al">Pau co moe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stink(v)">stink:</form> <xpln lang="al">Weh chai gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stand(v)">stand:</form> <xpln lang="al">Ne pow we</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stay(v)">stay:</form> <xpln lang="al">Pai he</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="steal(v)">steal:</form> <xpln lang="al">Kin moot tee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stiff(a)">stiff:</form> <xpln lang="al">Muss cow wis see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stone(n)">stone:</form> <xpln lang="al">As sin ne</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stoop(v)">stoop:</form> <xpln lang="al">Nau wuck ke cau pow wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="straight(a)">straight:</form> <xpln lang="al">Quy ass quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stream(n)" lexeme="runs(v)">stream that runs:</form> <xpln lang="al">Pim mitch e won</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="string(n)">string:</form> <xpln lang="al">Pe shag gay nai pe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="suck(v)">suck:</form> <xpln lang="al">Noon nau tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sing(v)">sing:</form> <xpln lang="al">Ne cum moe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="swan(n)">swan:</form> <xpln lang="al">Waw piss soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sweat(v)">sweat:</form> <xpln lang="al">Up puoy see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sweet(a)">sweet:</form> <xpln lang="al">Weh co tish she <term lang="en">or</term> we co shin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="swelled(a)">swelled:</form> <xpln lang="al">Pau kish tin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="swim(v)">swim:</form> <xpln lang="al">Tha thaun nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stocking(n)">stockings:</form> <xpln lang="al">Mit tass</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="scraper(n)">scrapers:</form> <xpln lang="al">Man ni tow aske</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="scissors(n)">scissars:</form> <xpln lang="al">Moo shoo to win</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sharpen(v)">sharpen:</form> <xpln lang="al">Kee ny put tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="softly(adv)">softly:</form> <xpln lang="al">Nish sheehk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stomach(n)">stomach:</form> <xpln lang="al">Naus ke cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="stony(a)">stony:</form> <xpln lang="al">Ass sin ny wis wohk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shelter(n)">shelter:</form> <xpln lang="al">Tau bin nau wohk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="snake(n)">snake:</form> <xpln lang="al">Kin nai pick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="seven(a)">seven:</form> <xpln lang="al">Ne shoo wash ick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="shot(a)">shot:</form> <xpln lang="al">Assinnee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="spoon(n)">spoon:</form> <xpln lang="al">Em me quohn</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="skunk(n)">scunck:</form> <xpln lang="al">Shee kauk quoh</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="squirrel(n)">squirril:</form> <xpln lang="al">Nick co chi</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="star(n)">stars:</form> <xpln lang="al">Woh tohk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="sun(n)">sun:</form> <xpln lang="al">Pee sim</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="summer(n)">summer:</form> <xpln lang="al">Nee pin</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="thirsty(a)">Thirsty:</form> <xpln lang="al">Ne paw quai</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tail(n)">tail:</form> <xpln lang="al">Oo soo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tremble(v)">tremble:</form> <xpln lang="al">We pe beth thee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="talk(v)">talk:</form> <xpln lang="al">I yoam me</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tired(a)">tired:</form> <xpln lang="al">Ty es co se</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="taste(v)">tast:</form> <xpln lang="al">Cohtch e puoy</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tooth(n)">teeth:</form> <xpln lang="al">Me pitt</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="that(c)">that:</form> <xpln lang="al">An nim mau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="ten(a)">ten:</form> <xpln lang="al">Me tah taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="there(adv)">there:</form> <xpln lang="al">Heck coo tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="this(pr)">these:</form> <xpln lang="al">Oo coo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="they(pr)">they:</form> <xpln lang="al">We thau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="thigh(n)">thigh:</form> <xpln lang="al">Puoym</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="think(v)">think:</form> <xpln lang="al">Mit tone eth the tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="through(pp)">through:</form> <xpln lang="al">Shob boe beth the</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="this(pr)">those:</form> <xpln lang="al">An nick ke</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="three(a)">three:</form> <xpln lang="al">Nish toe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="thread(n)">thread:</form> <xpln lang="al">Kish te quotch che gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="throw(v)">throw:</form> <xpln lang="al">Web bin nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="throat(n)">throat:</form> <xpln lang="al">Coh taw gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="thrust(v)">thrust:</form> <xpln lang="al">Thuhck in nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tie(n)">tye:</form> <xpln lang="al">Tohk co bit tau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="toe(n)" lexeme="hoof(n)">toe or hoofs:</form> <xpln lang="al">Oo thus sit</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tongue(n)">tongue:</form> <xpln lang="al">Tea thin ney</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="torn(a)">torn:</form> <xpln lang="al">Tau too beth the</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="trap(n)">trapp:</form> <xpln lang="al">Wan ne higgen</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tread(v)">tread:</form> <xpln lang="al">Tohk cus cau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="try(v)">try:</form> <xpln lang="al">Cau quay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="two(a)">two:</form> <xpln lang="al">Ne shoo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="twin(n)">twins:</form> <xpln lang="al">Ne shoo tay wis see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tobacco(n)">tobacco:</form> <xpln lang="al">Shtem mau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tobacco-tongs(n)">tobacco-tongs:</form> <xpln lang="al">moak quotch e gai ap
+peht</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tender(a)">tender:</form> <xpln lang="al">Pick ish cau shee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="thunder(n)">thunder:</form> <xpln lang="al">Naimis ke <term lang="en">or</term> Pe thay see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="traffic(n)">traffick:</form> <xpln lang="al">at taw way</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tin(n)">tin:</form> <xpln lang="al">Wau pih co man</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="turtle(n)">turtle:</form> <xpln lang="al">Miss ke noahk</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="twenty(a)">twenty:</form> <xpln lang="al">Ne shoo mit tenna</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="thirty(a)">thirty:</form> <xpln lang="al">Nish toe Mit tenna</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="traveller(n)">traveller:</form> <xpln lang="al">Pim moo hoo tai hone</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="tother(pr)">tother:</form> <xpln lang="al">Co tuck</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="this(pr)">this:</form> <xpln lang="al">Oo maw</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="vein(n)">Veins:</form> <xpln lang="al">Mith co wy au pee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="vex(v)">vex:</form> <xpln lang="al">Kiss sheim</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="view(n)">veiw:</form> <xpln lang="al">Cun nau wau bah tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="use(v)">use:</form> <xpln lang="al">Au wee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="under(pp)">under:</form> <xpln lang="al">It taum ihk</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page no="7">
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="en" lexeme="walk(v)">Walk:</form> <xpln lang="al">Pim mooth tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="warm(a)">warm:</form> <xpln lang="al">Ke she puoi</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="warp(v)">warpt:</form> <xpln lang="al">Wau cauo</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wash(v)">wash:</form> <xpln lang="al">Chis staw paou wot taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="waste(n)">waste:</form> <xpln lang="al">We yeah ge taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="watch(v)">watch:</form> <xpln lang="al">A shoo weth the tum</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="weak(a)">weak:</form> <xpln lang="al">Ne thau mis se</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="whelp(n)">whelp:</form> <xpln lang="al">at tim oo sish</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="whither(v)">whither:</form> <xpln lang="al">Taun tay</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="where(c)">where:</form> <xpln lang="al">Taun nee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="white(a)">white:</form> <xpln lang="al">Wau paou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="whole(a)">whole:</form> <xpln lang="al">Miss se way aou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wink(v)">wink:</form> <xpln lang="al">Pass a gua bee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wipe(v)" lexeme="wring(v)">wipe or wring:</form> <xpln lang="al">See nau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wish(n)">wish:</form> <xpln lang="al">Pit taun ny mau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wolf(n)">wolf:</form> <xpln lang="al">Maw heh cun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="womb(n)">womb:</form> <xpln lang="al">Oos py aou</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wood(n)">wood:</form> <xpln lang="al">Mish tick</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="word(n)">words:</form> <xpln lang="al">Tit tway win</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wrong(n)">wrong:</form> <xpln lang="al">Me yat taw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="water(n)">water:</form> <xpln lang="al">Nee pe</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="weighty(a)">weighty:</form> <xpln lang="al">Cuss se quon</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="woman(n)">woman:</form> <xpln lang="al">E squeaw</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wounded(a)">wounded:</form> <xpln lang="al">Mish wau gun</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="who(pr)">who:</form> <xpln lang="al">A wain</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="worm(n)">worms:</form> <xpln lang="al">Ket ta higgen <term lang="en">or</term> wih co tai
+pe quoan</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="when(adv)">when:</form> <xpln lang="al">Taw ne spee</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wife(n)">wife:</form> <xpln lang="al">Ke shay wat tis see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wanton(a)">wanton:</form> <xpln lang="al">ith the wau wiss see</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="wind(n)">wind:</form> <xpln lang="al">Tho tin</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="winter(n)">winter:</form> <xpln lang="al">Pee poon</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Y"><alpha>Y</alpha>
+<wordentry type="h"><form lang="en" lexeme="you(pr)">You:</form> <xpln lang="al">Ke thau</xpln></wordentry>
+<wordentry type="h"><form lang="en" lexeme="yonder(adv)">yonder:</form> <xpln lang="al">Nai tay</xpln></wordentry>
+</wordgroup1>
+</section>
+
+<section type="Closing">
+<closing>
+<f type="i">FINIS</f>
+</closing>
+</section>
+</page>
+</leme>
+
+

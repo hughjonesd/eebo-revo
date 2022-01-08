@@ -1,0 +1,18 @@
+<leme no="226">
+
+<page>
+<heading>
+<f type="i">Epigr. 15. In Mirum medicum.<f type="r">
+</heading>
+
+<wordgroup1 type="u">
+<wordentry type="g"> <form lexeme="salivation(n)" lexeme="toph(n)" lexeme="pustule(n)" lexeme="febricitation(n)" lexeme="ingurgitate(v)" lexeme="tussicate(v)" lexeme="inveterate(v)" lexeme="evacuated(a)" lexeme="ingenie(n)">PHisition <f type="i">Mirus <f type="r">talkes of saliuation,<br>
+Of <f type="i">Tophes<f type="r"> and <f type="i">Pustules<f type="r">, and <f type="i">Febricitation<f type="r">;<br>
+Who doth ingurgitate, who tussicate,<br>
+And who an vlcer hath inueterate.<br>
+Thus while his Inkehorne termes he doth apply,<br>
+Euacuated is his ingenie.</form><xpln></xpln></wordentry>
+</wordgroup1>
+</page>
+
+</leme>

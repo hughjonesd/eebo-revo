@@ -1,0 +1,1089 @@
+<leme no="54">
+<page sig="A1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 4 3 5 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+
+<section type="Title-page">
+<heading><term lang="la">Libellus de
+RE HERBARIA NOVUS</term></heading>
+
+<term lang="la">in quo herbarum aliquot no&#173;
+mina greca, latina, et Anglica
+habes, una cum nomini&#173;
+bus officinarum, in
+gratiam stud&#173;
+iosae
+iuuentutis nunc pri&#173;
+mum in lucem
+aeditus</term>
+</section>
+
+<section type="Preface">
+
+
+</page>
+
+<page sig="A1v">
+
+<heading><term lang="la">GVILIELMVS TVRNERVS CAN&#173;
+DIDO LECTORI S P D.</term></heading>
+
+<term lang="la">Ad stuporem vs<expan type="">que</expan> mirabere forsan (candidissime
+lector) que me potissimum res impulerit, imber&#173;
+bem adhuciuuenem, &#38; medicin&#230; cognitione te&#173;
+nuiter tinctum, de re herbaria libellum in lucem
+&#230;dere, quum non sim ignarus sexc<expan type="">en</expan>tos apud anglos esse,
+qui me in hoc doctrin&#230; genere equis (quod aiunt) albis
+pr<expan type="">&#230;</expan>cedant. Fateor equidem ingenue me indignum esse
+qui doctissimo clementi vel matulam porrigam. Aliis<expan type="">que</expan>
+doctissimis uiris facile cedo. Ceter<expan type="">um</expan> si vel doctissimo cle&#173;
+menti, uel aliis in remedica exquisite versatis, h<expan type="">an</expan>c oper<expan type="">am</expan>
+anglis suis locare libuisset, qu<expan type="">am</expan> ruellius gallis, &#38; otho ger&#173;
+manis locauerunt, non essem in pr&#230;sentia de nominibus
+herbar<expan type="">um</expan> vel verbul<expan type="">um</expan> dicturus. Sed qu<expan type="">um</expan> cernerem doctos
+nihil istiusmodi moliri, consilium esse duxi potius auda&#173;
+cter huiusmodi r<expan type="">em</expan> <expan type="">quam</expan>libet ardu<expan type="">am</expan> t<expan type="">en</expan>tare, <expan type="">quam</expan> vt studiosa iuu<expan type="">en</expan>&#173;
+tus (que vix tria herbarum no<expan type="">min</expan>a recte callet) vt antea ce&#173;
+cutiat committere. L<expan type="">&#230;</expan>ta igitur fronte, c<expan type="">an</expan>didissime lector,
+hunc meum laborem suscipito, &#38; si per me in cognos&#173;
+cendis herbis quic<expan type="">quam</expan> profeceris, hoc mihi nihil
+erit gratius. Si vero me hallucinari con&#173;
+tigerit (<expan type="">quod</expan> hac in re facilimum est)
+a doctis Viris me corripi fa&#173;
+cile patiar. non enim
+adeo mihi ap&#173;
+plaudo placeo<expan type="">que</expan> quin s<emend err="ii">i</emend>m
+doctorum iudiciis lu&#173;
+bens cessurus.
+Vale.</term>
+</section>
+
+
+
+</page>
+
+<page sig="A2r">
+<section type="Dictionary">
+<wordgroup1 type="a" object="A">
+
+<wordentry type="h"><form lang="la">ABSINTHIVM.
+Absinthium</form> <xpln lang="la" lexeme="wormwood(n)" lexeme="(en)lavender(n)" lexeme="cotton(n)">ab <term lang="gk">&#x1f05;&#968;&#949;&#963;&#952;&#945;&#953;</term> quod tactum ire significat, nomen ha&#173;
+bet, ex aduerso nomen Greci deflexer<expan type="">un</expan>t: quod null<expan type="">um</expan> a<expan type="">nim</expan>al hanc
+herbam ob insignem amaritudinem attingat. Absinthii tria
+sunt genera, Ponticum: marinum &#38; santonicum. Ponticum
+est uulgare hoc quod uocamus <term lang="en">Wormewod</term>. Marinum seriphi<expan type="">um</expan> uocatur,
+huius anglicum mihi nomen non occurrit. Santonicum, quod a santonibus
+galliae nomen traxit, puto esse <term lang="en">Lauander cotton</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ABROTONVM.
+Abroton<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)southernwood(n)">latini, g<emend err="">r</emend>ecis (ut infiniatas alias uoces) debent, hanc herb<expan type="">am</expan> galli
+auronum germani <term lang="gr">Stubwurtz</term>, Angli <term lang="en">Sothernewod</term> nominant.</xpln>
+<lemenote>
+"Infiniatas" is a misspelling of "infinitas."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ACANTHVS.
+Acanthi</form> <xpln lang="la" lexeme="(en)bear's-foot(n)" lexeme="(en)brank-ursine(n)">duo sunt genera, leue &#38; aculeatum. Leuem acanthum pe&#173;
+derota &#38; melamphillon eruditi nomin<expan type="">an</expan>t, <term lang="fr">officine</term> branc<expan type="">am</expan> ursinam, uulgus
+<term lang="en">Brank vrsyne</term> appellat. Porro f&#339;de hallucinantur qui putant brancam
+ursinam esse <term lang="en">Bearefote</term>, quum illud potius sit helliborus niger. Aculeatum
+&#38; crispum dioscorides syluestrem acanthum uocat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)seg(n)" lexeme="(en)lug(n)" lexeme="(en)gladdon(n)" lexeme="(en)flag(n)" lexeme="(en)fleur-de-lis(n)">ACORVM.
+Acorum</form> <xpln lang="la">aut xiphion, officin&#230; gladiol<expan type="">um</expan> uocant. Angli pro uarietate soli
+et regionis uarie nominant Northumbrienses <term lang="en">a seg</term>, slienses &#38; in palustri&#173;
+bus locis propter eliam habitantes <term lang="en">a lug</term>, tritissima no<expan type="">min</expan>a sunt <term lang="en">gladon</term>
+&#38; <term lang="en">a flag</term>, &#38; <term lang="en">a yelowe floure delyce</term>.</xpln>
+<lemenote>
+The term "seg" was not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)water plantain(n)" lexeme="(en)water waybread(n)">ALISMA.
+Alisma</form> <xpln lang="la">dioscorid&#230;, est recentioribus fistula pastoralis, officinis &#38; her&#173;
+bariis plantago aquatica aliquibus barba syluana nostratibus <term lang="en">water
+plantane or water waybrede</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)hollyhock(n)">ALTHEA.
+Altheam</form> <xpln lang="la">aliqui ebiscum, siue ibiscum nominant, officinae mal&#173;
+uam bismaluam, nostrates <term lang="en">Holy oke</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)sauce-alone(n)" lexeme="(en)jack-of-the-hedge(n)">ALLIARIA.
+Alliaria</form> <xpln lang="la">est herba passim in sepibus proueniens circinato fol<emend err="">i</emend>o allium
+odore mire referens. Hec est (ni coniectura faller) <term lang="en">sauce alone</term> aut, ut alii
+uocant, <term lang="en">Jak of the hedge</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">A<emend err="">L</emend>SINE.
+
+
+
+</page>
+
+<page sig="A2v">
+Alsine</form> <xpln lang="la" lexeme="(en)chickweed(n)" lexeme="(en)chicken(n)" lexeme="(en)weed(n)">dicta est <expan type="">quod</expan> lucos (quos Greci <term lang="gk">&#x1f04;&#955;&#963;&#951;</term> uocant) umbrosa<expan type="">que</expan> &#38; nemorosa
+amet loca. Myosotis etiam hec dicitur, latine auricula muris, sed non est
+nostra <term lang="en">Mouseare</term>, que in asperis &#38; incultis locis crescit. C&#230;terum
+herba ilia est quam nostrates mulieres uocant <term lang="en">Chykwede</term> aut <term lang="en">Chy&#173;
+kenwede</term>. Qui alunt auiculas caueis inclusas, hac solent illas (si
+quando cibos fastidiant) recreare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">AMARANTHVS
+Amaranthus</form> <xpln lang="la" lexeme="(en)baldare(n)"><term lang="gkt">heliochryson</term> galeno, quibusdam flos amoris, Gallis est <term lang="fr">passe&#173;
+uelutum</term> anglis autem <term lang="en">Baldare</term>.</xpln>
+<lemenote>
+The term "baldare" was not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ANETHVM
+Anethum</form> <xpln lang="la" lexeme="(en)dill(n)" lexeme="(en)anise(n)" lexeme="(en)aniseed(n)">uulgus appellat <term lang="en">Dyll</term>. Anisum uero <term lang="en">Anys</term> aut <term lang="en">Anyssede</term>.
+Quare toto errant coelo qui anethum interpretantur <term lang="en">Anys</term> quod uir<expan type="">um</expan>
+qu<expan type="">en</expan>dam c&#230;tera doctum nuper fecisse legimus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ANAGALLIS
+Anagallis</form> <xpln lang="la" lexeme="(en)pimpernel(n)" lexeme="(en)chickweed(n)">Latine morsus gallinae dicitur anglice <term lang="en">Pympernell</term>, n<expan type="">on</expan> est
+<term lang="en">Chykwede</term>, ut quidam fal<emend err="l">s</emend>o asserunt. Anagallidis due sunt species. Mas
+est, que puniceum habet florem, et foeminina, que ceruleum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ANONIVM
+Anoni<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)archangel(n)" lexeme="(en)dead-nettle(n)">dicitur lami<expan type="">um</expan>, urtica iners, urtica mortua, &#38; anglice <term lang="en">Arch<expan type="">an</expan>&#173;
+gell</term> aut <term lang="en">Dede nettell</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">AMPELOS LEVCE
+Ampelos leuce</form> <xpln lang="la" lexeme="(en)bryony(n)" lexeme="(en)wild(a)" lexeme="(en)neep(n)">latinis est vitis alba &#38; bryonia, anglis <term lang="en">Bryoni</term> aut
+<term lang="en">Wylde nepe</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">APPARINE
+Apparine</form> <xpln lang="la" lexeme="(en)goose-grass(n)" lexeme="(en)gooshareth(n)">siue philanthropos ab officinis aspergula uel ruella uocatur
+ab anglis <term lang="en">Goosgyrs</term> aut <term lang="en">Gooshareth</term>.</xpln>
+<lemenote>
+The term "gooshareth" was not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">APOLLINARIS
+Apollinaris</form> <xpln lang="la" lexeme="(en)henbane(n)">grece dicitur <term lang="gkt">hyoscyamos</term>, non <term lang="gkt">iusquiamus</term>, ut barbari scrib<expan type="">un</expan>t
+&#38; loqu<expan type="">un</expan>tur, aliqui uocant fabam suillam angli <term lang="en">Henbayne</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">APIVM
+Apium</form> <xpln lang="la" lexeme="(en)smallage(n)">nostrates uocare solent <term lang="en">Smallage</term>. Ruellius tamen gallis suis
+dicit <expan type="">per</expan>sil<expan type="">um</expan> uocari, que res effecit ut aliquantisper dubitar<expan type="">em</expan>, quin<expan type="">am</expan> hanc her&#173;
+bam anglice interpreter. Caeterum credo non esse nostrum persilum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ARTHRITICA
+Arthritica</form> <xpln lang="la" lexeme="(en)primrose(n)">officinis est primula ueris, <expan type="">quae</expan> ab <expan type="">an</expan>glis dicitur <term lang="en">a prymerose</term>.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="A3r">
+<wordentry type="h"><form lang="la">ARTEMISIA
+Artemisia</form> <xpln lang="la" lexeme="(en)mugwort(n)">nomen ab artemisia, uxore mausoli (que hanc herb<expan type="">am</expan> sibi adop&#173;
+tauit cum antea parthenis uocaretur) traxisse creditur, uel ab artemide <expan type="">quod</expan>
+priuatim f&#339;minarum malis medeatur quibus artemis. i. diana pr&#230;est, uu&#173;
+lgus hanc herbam ubi<expan type="">que</expan> uocat <term lang="en">Mugwort</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ATHANASIA
+Athanasia</form> <xpln lang="la" lexeme="(en)tansy(n)"><expan type="">quae</expan> grece tagetes, latine tanacet<expan type="">um</expan>, anglice dicitur <term lang="en">Tansey</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">AROS
+Aros</form> <xpln lang="la" lexeme="(en)cuckoo-pint(n)">ab officinis pes uituli &#38; serpentaria minor uocatur, a nostris ue&#173;
+ro <term lang="en">Cockowpyntell</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ARISARON
+Arisaron</form> <xpln lang="la" lexeme="(en)rams(n)" lexeme="(en)ramps(n)">siue aris si non sit ipsum aron, eius saltem species est arisa&#173;
+ron puto hodie a nostris dici <term lang="en">rammes</term> aut <term lang="en">rampes</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ASARVM
+Asar<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)asarabacca(n)" lexeme="(en)foalfoot(n)">perp<expan type="">en</expan>sa, uulgago, sanguis martis, rustica nardus, &#38; uulgo <term lang="en">aza&#173;
+rabaccara</term> dicitur. Eram eo loco ubi uocaretur <term lang="en">Folfot</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="(en)asparagus(n)">ASPARAGVS
+<term lang="la">Asparag<expan type="">um</expan></term></form> <xpln lang="la" lexeme="(en)sperage(n)">officine sparag<expan type="">um</expan> uocant uulgus autem <term lang="en">Sperage</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ASPHODELVS
+Ashphodelus</form> <xpln lang="la" lexeme="(en)affodill(n)" lexeme="(en)daffodilly(n)">a latinis hasta regia &#38; albuc<expan type="">um</expan> dicitur, a barbaris &#38; lati&#173;
+ne lingue corruptoribus aphrodillus &#38; affodillus, ab anglis <term lang="en">Affadyll</term> &#38;
+<term lang="en">Daffadilly</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ATRIPLEX
+Atriplex</form> <xpln lang="la" lexeme="(en)orache(n)" lexeme="(en)red ochre(n)">grece <term lang="gkt">atraphaxis</term> dicitur, anglice <term lang="en">Areche</term> aut <term lang="en">red oreche</term>.
+Atriplex hispaniensis quibusdam uidetur nostra esse <term lang="en">spinachia</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">
+<wordentry type="h"><form lang="la">BETONICA
+Betonica</form> <xpln lang="la" lexeme="(en)betony(n)" lexeme="(en)gillyflower(n)" lexeme="(en)clove-gillyflower(n)" lexeme="(en)carnation(n)">siue uetonica aut uettonic<expan type="">um</expan> grece cestron dicitur &#38; <term lang="gkt">psycho&#173;
+trophon</term> a uetonibus hispani&#230;, qui illam primi inuener<expan type="">un</expan>t, nom<expan type="">en</expan> sortita est.
+hanc uulgus nostrum uocat <term lang="en">Betony</term>.
+Betonica altilis siue coronaria, que a quibusdam uocatur cariophillat<expan type="">um</expan>,
+est herba qu<expan type="">am</expan> uernacula lingua uocamus a <term lang="en">Gelofer</term>, aut <term lang="en">a Clowge&#173;
+lofer</term> aut <term lang="en">an Incarnacyon</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">BELLIS
+Bellis</form> <xpln lang="la" lexeme="(en)daisy(n)" lexeme="(en)bonewort(n)">siue bellius ab officinis consolida minor dicitur. hec est illa herba
+quam uocamus <term lang="en">a Dasy</term>, quan<expan type="">quam</expan> apud North<expan type="">um</expan>brienses meos ea sola
+
+
+
+</page>
+
+<page sig="A3v">
+uocatur <term lang="en">a Dasy</term>, que puniceo flore altilis &#38; hor<emend err="o"></emend>tensis est arraticam
+illam uocant <term lang="en">a Banwort</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">BRASSICA
+Brassica</form> <xpln lang="la" lexeme="(en)wort(n)" lexeme="(en)cole(n)" lexeme="(en)colewort(n)">grecis crambe dicitur, quibusd<expan type="">am</expan> caulis, <expan type="">quod</expan> reli<expan type="">qui</expan>s herbis maio&#173;
+r<expan type="">em</expan> habeat caul<expan type="">em</expan>, anglice uocatur <term lang="en">Wortes</term> aut <term lang="en">Cole</term> aut <term lang="en">Colewortes</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">BRYON THALASSION
+Bryon thalassion</form> <xpln lang="la" lexeme="(en)slawk(n)">latine muscus marinus dicitur hec a North<expan type="">um</expan>briensi&#173;
+bus uocatur <term lang="en">Slauke</term> hac herba bene cocta <expan type="">in</expan> quadragesima tenues <expan type="">qui</expan>bus
+pecunia, ad <emend err="">e</emend>mendos pisces non suppetit libenter uescuntur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">BVGLOSSVM
+Buglo<expan type="&#223;">ss</expan><expan type="">um</expan></form> <xpln lang="la" lexeme="(en)borage(n)" lexeme="(en)langue de boeuf(n)">grecis, latinis est bouis lingua officinis borago, uulgo <term lang="en">Borrage</term>
+Helleboro egent <expan type="">qui</expan> contend<expan type="">un</expan>t hanc herb<expan type="">am</expan> esse anglor<expan type="">um</expan> <term lang="en">Langdebefe</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">
+<wordentry type="h"><form lang="la">CANABIS
+Canabis</form> <xpln lang="la" lexeme="(en)hemp(n)">unde funes &#38; uestes canabe&#230; nectuntur, &#38; tex<expan type="">un</expan>tur, nostrati
+sermone uocatur <term lang="en">Hemp</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CARIOPHILLON 
+Cariophillon</form> <xpln lang="la" lexeme="(en)clove(n)"> quod aliqui clauum uel clau<expan type="">um</expan> uoc<expan type="">an</expan>t, propter similitudin<expan type="">em</expan>
+quam habet cum clauis, angli uocant <term lang="en">Clowes</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CARDAMINE
+Cardamine</form> <xpln lang="la" lexeme="(en)watercress(n)">siue sisymbrium alterum dioscorid&#230;, officinis est nasturti<expan type="">um</expan>
+aquaticum, anglis <term lang="en">Water cresses</term>.</xpln>
+<lemenote>
+OED "cardamine" (first appearance in 1753) appears to be a different plant fromn the water cress described here.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">CALTHA
+Caltha</form> <xpln lang="la" lexeme="(en)marigold(n)">, que ab officinis calendula uocatur, est lutea illa herba quam
+uulgus appellat <term lang="en">a Marygolde</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CASSVTHA
+Cassutham</form> <xpln lang="la" lexeme="(en)dodder(n)">officin&#230; uocant cuscutam aliqui podagram lini, angli 
+<term lang="en">Dodder</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CAROS
+Caros</form> <xpln lang="la" lexeme="(en)caraway(n)">, siue carium, est herba cuius sem<expan type="">en</expan> saccharo obductum, uernacu&#173;
+la lingua uocamus <term lang="en">Carawayes</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CENTAVRIVM
+Centaurii</form> <xpln lang="la" lexeme="(en)centory(n)">duo sunt genera, maius &#38; minus. Maius est quod officin&#230;
+reuponticum nomin<expan type="">an</expan>t. Minus libadion fel terre &#38; febrifugia dicitur, an&#173;
+gli uocant <term lang="en">Centory</term>.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="A4r">
+<wordentry type="h"><form lang="la">CIRSION
+Cirsion</form> <xpln lang="la" lexeme="(en)bugloss(n)" lexeme="(en)langue de beouf(n)" lexeme="(en)cat's tail(n)">aliqui guglo<expan type="&#223;">ss</expan><expan type="">um</expan> magn<expan type="">um</expan> uocant angli <term lang="en">Buglos</term>, &#38; aculeat<expan type="">am</expan>
+illam herbam, quam uocamus <term lang="en">Langdebefe</term> huius buglo<expan type="&#223;">ss</expan>i esse speciem
+arbitror, huc<expan type="">que</expan> referendam censeo agrestem herbam quam rustici uocant
+<term lang="en">Cattes tayle</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CICERBITA
+Cicerbita</form> <xpln lang="la" lexeme="(en)sow-thistle(n)">a grecis <term lang="gkt">sonchos</term>, a nostris <term lang="en">Sowthystell</term> appellatur, hec
+herba cuniculor<expan type="">um</expan> palatis (ut uulgus putat) plurim<expan type="">um</expan> arridet.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CORIANDRVM
+Coriandrum</form> <xpln lang="la" lexeme="(en)coriander(n)" lexeme="(en)coliander(n)">, greci <term lang="gkt">corion</term> siue <term lang="gkt">corianon</term> appellant angli <term lang="en">Coryander</term>
+aut <term lang="en">Colander</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CONVOLVVLVS
+Conuoluulus</form> <xpln lang="la" lexeme="(en)bind(n)" lexeme="(en)wind(n)">, dioscorid&#230; clematis, altera, est aliquibus liliastr<expan type="">um</expan>, anglis
+autem <term lang="en">The comon bynde</term>, aut <term lang="en">The lytell wynde</term>. Hec est ilia her&#173;
+ba que improbo cauliculorum suor<expan type="">um</expan> reptatu, proximas quas<expan type="">que</expan> herbas &#38;
+frutices humiliores irretit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">COLVTEA
+Colutea</form> <xpln lang="la" lexeme="(en)senna(n)">ab officinis sena, ab anglis <term lang="en">Sene</term> nuncupatur. Preter theo&#173;
+phrast<expan type="">um</expan> haud temere qu<expan type="">em</expan><expan type="">quam</expan> ueterum offendes <expan type="">qui</expan> huius colute&#230; meminit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CHAMEDRYS
+Chamedrys</form> <xpln lang="la" lexeme="(en)germander(n)" lexeme="(en)English(a)" lexeme="treacle(n)">latine gamandrea aut quercula, anglice <term lang="en">Germander</term> aut
+<term lang="en">engly<expan type="&#223;">ss</expan>he tryacle</term> dicitur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CINARA
+Cinara</form> <xpln lang="la" lexeme="(en)artichoke(n)">scolymos &#38; carduus idem s<expan type="">un</expan>t, nisi forte cinara sit herba culta 
+&#38; scolimus inculta h<expan type="">an</expan>c herb<expan type="">am</expan> a n<expan type="">ostr</expan>atibus dici puto <term lang="en">Archychoke</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CLEMATIS
+Clematis</form> <xpln lang="la" lexeme="(en)periwinkle(n)">daphnoides, latinis u<expan type="">in</expan>ca <expan type="">per</expan>uinca, <expan type="">an</expan>glis <term lang="en">Perwyncle</term> dicitur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CHAMEACTE
+Chameacte</form> <xpln lang="la" lexeme="(en)danewort(n)" lexeme="(en)wallwort(n)">a latinis ebulus, ab anglis <term lang="en">Danwort</term> aut <term lang="en">Walwort</term>
+uocatur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CHAMEMELON
+Chamaemelon</form> <xpln lang="la" lexeme="(en)camomile(n)">dicitur <expan type="">quod</expan> odorem habeat mali. Eranthemis uere floreat, di&#173;
+citur &#38; anthemis, vulgo dicitur <term lang="en">Camomyle</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CHELIDONIVM
+
+
+
+</page>
+
+<page sig="A4v">
+Chelidonio</form> <xpln lang="la" lexeme="(en)celandine(n)" lexeme="(en)celidony(n)">siue latine mauis hirundinari&#230;, hirundo auis, que grecis 
+<term lang="gk">&#967;&#949;&#955;&#953;&#963;&#x03ce;&#957;</term> dicitur, nomen indidit, uel quod hanc prim<expan type="">um</expan> inuenit &#38; oculis pul&#173;
+lorum in nido uisum restituit, uel quod hirundinum aduentu floreat herba &#38;
+earum discessu commarcescat. dicitur sandonia etiam, angli uocant
+<term lang="en">Celendyne</term> aut <term lang="en">Celidony</term>. Et hec sunt nomina chelidoni<emend err="j">i</emend> maioris.
+Chelidonium minus officine uocant scrofulariam. Quinam uulgus appel&#173;
+litet non dum didici.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CVCVRBITA
+Cucurbitam</form> <xpln lang="la" lexeme="(en)gourd(n)">greci <term lang="gkt">colocynthan</term>, angli <term lang="en">a Gowrde</term> nominant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CYANVS
+Cyanus</form> <xpln lang="la" lexeme="(en)blue(a)" lexeme="(en)blaw(n)" lexeme="(en)bluebottle(n)">a gallis teste Ruellio blauium dicitur hanc ego herbam arbitror
+esse quam northumbria uocat <term lang="en">a Blewblaw</term> aut <term lang="en">a Blew bottell</term>, hanc
+corollis intex<expan type="">un</expan>t pueri eo tempore quo baptistae sacra peraguntur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CYPERVS BABYLONICVS
+Cyperum babylonicum</form> <xpln lang="la" lexeme="(en)galanga(n)" lexeme="(en)galangal(n)">officin&#230; uocant Galangam, angli <term lang="en">Galanga</term>
+etiam &#38; <term lang="en">Galangale</term> nuncupant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CYNORRHODOS
+Cynorrhodos</form> <xpln lang="la" lexeme="(en)sweet-briar(n)" lexeme="(en)eglantine(n)">quantum mihi cernere datur est frutex cuius folia pri&#173;
+mo uere suauiter olent, quem uulgus opinor uocat <term lang="en">Swetebrere</term> aut
+<term lang="en">Eglentyne</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">CYNOSBATOS
+Cynosbatos</form> <xpln lang="la" lexeme="(en)brier(n)" lexeme="(en)tree(n)">latinis <expan type="">est</expan> rubus canis, anglis <term lang="en">a wylde heptre, or a brere tre</term>.</xpln>
+<lemenote>
+A modern term for "a wylde heptre" was not found.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">
+<wordentry type="h"><form lang="la">DAVCVS CRETICVS
+Daucus creticus</form> <xpln lang="la" lexeme="(en)wild(a)" lexeme="(en)carrot(n)">que latine pastinaca gallica dicitur, mihi uidetur, anglis
+esse <term lang="en">Wylde carot</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">DAPHNOIDES
+Daphnoides</form> <xpln lang="la" lexeme="(en)laury(n)" lexeme="(en)laureole(n)">aliquibus eupatalon n<expan type="">on</expan>nullis camedaphne dicitur, herbarij lau&#173;
+reol<expan type="">am</expan> appellant, uulgus <expan type="">autem</expan> <term lang="en">Laury</term> aut <term lang="en">Lauriell</term> aut <term lang="en">Lowre</term>.</xpln>
+<lemenote>
+The term "lowre" was not found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">DRACONTIA
+Dracontia</form> <xpln lang="la" lexeme="(en)dragon(n)">latine drac<expan type="">un</expan>culus, colubrina, &#38; serpentaria dicitur, angli&#173;
+ce <term lang="en">Dragon</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">DYPSACVS
+Dipsacos</form> <xpln lang="la" lexeme="(en)wild(a)" lexeme="(en)teasel(n)">latine labr<term lang="en">um</term> ueneris aut lauacrum ueneris dicitur, officine hanc
+herbam uirgam pastoris uocant, anglor<expan type="">um</expan> uulgus a <term lang="en">wylde tasyll</term>.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B1r">
+<wordentry type="h"><form lang="la">DRIOPTERIS
+Dryopteris</form> <xpln lang="la" lexeme="(en)break(n)" lexeme="(en)tree(n)">, latinis est filicula, <expan type="">quae</expan> in arboribus precipue <expan type="">in</expan> robore &#38; quercu
+nascitur hanc uulgus appellat <term lang="en">The brake of the tre</term>.</xpln>
+<lemenote>
+"Break of the tree" could not be found in the OED and may refer to the fern growing beneath trees.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E">
+<wordentry type="h"><form lang="la">ENDIVIA
+Endiuia</form> <xpln lang="la" lexeme="(en)succory(n)">qua pharmacopole nostrae aetatis utuntur, non est endiuia qua
+ueteres olim usi sunt, hec enim qua hodie utuntur nihil aliud est <expan type="">quam</expan> lactuca
+agrestis. Intybus siue intyb<expan type="">um</expan>, quod uulgus hodie uocat <term lang="en">Suckery</term> ueter<expan type="">um</expan>
+erat endiuia. Scandix diuin<expan type="">an</expan>tibus aliquot doctis est uulgaris endiuia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">EVZOMON siue ERVCA
+Euzomon</form> <xpln lang="la" lexeme="(en)rocket(n)" lexeme="(en)white pepper(n)">latini erucam nominant, uulgus <term lang="en">Rocket</term>, aliqui uo&#173;
+cant <term lang="en">whyte pepper</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">EPHIMERON
+Ephimeron</form> <xpln lang="la" lexeme="(en)great(a)" lexeme="(en)park(n)" lexeme="(en)lily(n)">est lilium conuallium grandius, quod angli uocant
+<term lang="en">Great parke lyly</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ELLEBORVM ALBVM
+Elleborum album</form> <xpln lang="la" lexeme="(en)longwort(n)" lexeme="(en)neezing(n)" lexeme="(en)powder(n)">romani ueratrum album appellant. Hec est illa her&#173;
+ba cuius radicis puluis naribus inditus, sternutamenta mouet. Radicem uul&#173;
+gus appellat <term lang="en">Nesynge powder</term>, herbam autem <term lang="en">Lyngwort</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ELLEBORVM NIGRVM
+Elleborum nigrum</form> <xpln lang="la" lexeme="(en)lion(n)" lexeme="(en)foot(n)" lexeme="(en)padelion(n)" lexeme="(en)bear's foot(n)">aliqui melampodion uocant, Romani ueratrum ni&#173;
+grum, angli <term lang="en">Lyons fote</term>, aut <term lang="en">Pedelyon</term>. C&#230;terum ego censeo illam
+herbam quam uulgus cantabrigiense, uocat <term lang="en">Bearefote</term> esse uerum el&#173;
+leborum nigrum.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">EVPATORIVM
+Eupatorium</form> <xpln lang="la" lexeme="(en)water pepper(n)" lexeme="(en)wild(a)" lexeme="(en)sage(n)" lexeme="(en)agrimony(n)">aliis hepatorium aut hepatis, non est <term lang="en">Water peper</term>,
+ut quidam perperam asseuerant, ne<expan type="">que</expan> ut ali<emend err="j">i</emend> falso scribunt <term lang="en">wylde
+sauge</term>, sed herba est quam omnes hodie uocant <term lang="en">Agrimony</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">
+<wordentry type="h"><form lang="la">FILIX
+Filicem</form> <xpln lang="la" lexeme="(en)fern(n)" lexeme="(en)brake(n)" lexeme="(en)bracken(n)">greci <term lang="gkt">pterim</term> et <term lang="gkt">pterion</term> uocant, angli <term lang="en">a Ferne</term> aut <term lang="en">a brak</term>
+aut <term lang="en">a bracon</term>, F&#339;mina filix que grece dicitur <term lang="gkt">thelypteris</term>, siue nymph&#230;a
+pteris: non prodit singulari pediculo, ut altera que mas est, sed ramis plu&#173;
+ribus et altioribus fruticat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">FENICVLVM
+F&#339;niculum</form> <xpln lang="la" lexeme="(en)fennel(n)" lexeme="(en)finkle(n)">graeci <term lang="gkt">marathron</term>, angli <term lang="en">F&#339;nell</term> aut <term lang="en">Fyncle</term> nominant.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B1v">
+<wordentry type="h"><form lang="la">FRAGVM
+Fragum</form> <xpln lang="la" lexeme="(en)strawberry(n)">non fragrum (ut quidam scioli scribunt) ab anglis uocatur
+<term lang="en">a Strawbery</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G">
+<wordentry type="h"><form lang="la">GITHAGO siue NIGELLASTRVM
+Githago</form> <xpln lang="la" lexeme="(en)cockle(n)" lexeme="(en)popple(n)">, siue grece mauis, <term lang="gkt">pseudomelanthion</term> est herba ilia procera,
+que in tritico flavescente existit, inde corollas apud morpetenses meos pue&#173;
+ri in die diui baptist&#230;, texunt, uulgus appellat <term lang="en">Coccle</term> aut <term lang="en">pople</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)nigella(n)">GIT siue NIGELLA
+Git, siue <term lang="en">nigella</term></form> <xpln lang="la">, grece <term lang="gkt">melanthion</term> dicitur, officine una cum uulgo
+Nigellam romanam appellant.</xpln>
+<lemenote>
+"Nigella Romana" was not found in the OED; however "nigella" appears there abd can refer to many subspecies of its genus.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">GALEOPSIS
+Galeopsis</form> <xpln lang="la" lexeme="(en)red(a)" lexeme="(en)archangel(n)">, galeobdolon Romanis labeo, uulgo <term lang="en">Rede archangell</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">GINGIDIVM
+Gingidium</form> <xpln lang="la" lexeme="(en)chervil(n)">, siue ch&#230;refolium, a nostratibus mulieribus uocatur <term lang="en">cher&#173;
+uell</term> falluntur qui myrrhin putant esse ch&#230;refolium, cum myrrhis sit po&#173;
+tius <term lang="en">robertiana</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">GLYCYRRHYZA
+Glycyrrhyza</form> <xpln lang="la" lexeme="(en)licorice(n)">, est officinarum liquiricia, &#38; anglis <term lang="en">Lycores</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">
+<wordentry type="h"><form lang="la">HEDERA
+Hederam</form> <xpln lang="la" lexeme="(en)ivy(n)">greci <term lang="gkt">cisson</term> uocant, angli <term lang="en">Iuy</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HALICACABVS
+Halicacabus</form> <xpln lang="la" lexeme="(en)alkekengi(n)">, a latinis solanum uesicarium, ab officinis Alkakengi
+&#38; uulgo dicitur <term lang="en">Alcakenge</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HELENIVM
+Helenium</form> <xpln lang="la" lexeme="(en)elecampane(n)">, latinis est inula, officinis enula campana, uulgo <term lang="en">Allicam&#173;
+pane</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HELXINE
+Helxine</form> <xpln lang="la" lexeme="(en)parietary(n)">, latinis parietaria dicitur, uulgo <term lang="en">Paritory</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HEPTAPHILLON
+Heptaphillon</form> <xpln lang="la" lexeme="(en)tormentil(n)" lexeme="(en)turmeric(n)">, officinis bistorta, &#38; tormentilla, nostratibus <term lang="en">Tor&#173;
+mentyll</term> &#38; <term lang="en">Tormeryke</term> dicitur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HYPERICON
+Hypericon</form> <xpln lang="la" lexeme="(en)St John(n)" lexeme="(en)wort(n)" lexeme="(en)grass(n)">, ali<emend err="j">i</emend> carion, alii andros&#230;mon, appellant, nonnulli herbam per&#173;
+foratam, uulgus appellat <term lang="en">Saynt Iohns gyrs</term>.</xpln>
+<lemenote>
+The term "St John's Grass" was not found in the OED; however it appears to be the same herb as "St. John's Wort," with the term "wort" denoting its medicinal purposes.
+</lemenote></wordentry>
+
+
+
+</page>
+
+<page sig="B2r">
+<wordentry type="h"><form lang="la">HIPPOLAPATHON
+Hyppolapathon</form> <xpln lang="la" lexeme="(en)patience(n)">officine patientiam uocant, uulgus <term lang="en">Patience</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HEMIONITIS siue HEMONION
+Hemionitis</form> <xpln lang="la" lexeme="(en)hart's-tongue(n)" lexeme="(en)hind's tongue(n)">, splenion, &#38; teucrion dicitur. hec est illa herba quam her&#173;
+barij quidam falso scolopendriam nominant. Nam scolopendrion siue as&#173;
+plenon est officinarum Citerac Phillitis sane ceruin&#230;ae lingua non est
+di<expan type="&#223;">ss</expan>imilis, sed ea tamen non est, nam phillitis ceruina lingua rectior est.
+quum ceruina lingua que hemionitis est nonnihil incuruetur, Vulgus cer&#173;
+uinam uocat <term lang="en">Hertes tonge</term> uidi &#38; herbam cum agerem nor&#173;
+thumbri&#230;, quam uulgus appellabat <term lang="en">Hyndes tonge</term> &#38; uulgus conten&#173;
+debat non esse <term lang="en">Hertes tonge</term> erat enim minor &#38; rectior. Hec fortasse
+phillitis est.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">HIPPVRIS</form> <xpln lang="la" lexeme="(en)horse-tail(n)" lexeme="(en)holy water(n)" lexeme="(en)strinkle(n)" lexeme="(en)shavegrass(n)" lexeme="(en)dish-washings(n)">, anglice dicitur <term lang="en">Shauynge gyrs</term>.
+Hippuris, latinis dicitur equiset<expan type="">um</expan>, aut ca<emend err="n">u</emend>da e<expan type="">qui</expan>na, huius herb&#230; du&#230; s<expan type="">un</expan>t
+species, prior gallis uocatur <term lang="fr">prela</term>. Hac solent opus su<expan type="">um</expan> adhuc rude expo&#173;
+lire artifices quor<expan type="">um</expan> ars circa pectines &#38; c&#230;tera id genus uersatur. Poste&#173;
+rior a nostris pro uarie<emend err="">t</emend>ate soli uaria sortitur nomina. aliquibus dicitur
+<term lang="en">Horstayle</term> nonnullis <term lang="en">Hally Waterstryncle Dy<expan type="&#223;">ss</expan>hewa<expan type="&#223;">ss</expan>hynges</term> <expan type="">quod</expan>
+forta<expan type="&#223;">ss</expan>is huius herb&#230; ad fricandos discos &#38; patinas aliquis sit usus. huius
+etiam herb&#230; coliculo pugionum buxea manubria leuigari apud meos non
+semel uidi.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">
+<wordentry type="h"><form lang="la">INTVBVM siue INTYBVS
+Intubum</form> <xpln lang="la" lexeme="(en)right(a)" lexeme="(en)garden(n)" lexeme="(en)succory(n)" lexeme="(en)wild(a)">, grecis dicitur <term lang="gkt">seris</term>. Intuborum duo sunt genera, Satiu<expan type="">um</expan> &#38; er&#173;
+ratic<expan type="">um</expan>. Satiu<expan type="">um</expan>, rursus in duo genera diuiditur, latifoli<expan type="">um</expan> &#38; <expan type="">an</expan>gustifolium.
+Latifolium arbitror esse <term lang="en">Ryght gardyn suckery</term>. Erraticus intibus di&#173;
+citur etiam cichorium &#38; ambubeia. Huius persuasionis sunt aliquot artis
+medic&#230; pulchre gnari, ut putent hanc herbam heli<emend err="">o</emend>tropium &#38; uerum sol&#173;
+sequium esse. hanc cra<expan type="&#223;">ss</expan>iores, sponsam solis, angli <term lang="en">Wylde suckery</term>
+nominant. Non desunt qui putent <term lang="en">Dandelyon</term>, siue latine mauis den&#173;
+tem leonis (quam nonnulli hidipnoida uocant) huius erratici intubi esse speciem.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)iris(n)">IRIS
+Iris</form> <xpln lang="la" lexeme="(en)fleur-de-lis(n)">est herba, que ab officinis in gignendi casu ireos dicitur. Huius
+herbae radix, in taleolas orbiculares fissa &#38; posteaqu<expan type="">am</expan> desiccata fuerit, &#38; in
+
+
+
+</page>
+
+<page sig="B2v">
+puluerem contusa, est <term lang="en">Vartspowder</term>, uocatur herba ipsa ab anglis
+<term lang="en">Floure delyce</term>, aut <term lang="en">Floure deluce</term></xpln>
+<lemenote>
+"Iris" (assuming this is the English term) antedates the earliest OED occurrence (1562).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">ISATIS
+Isatis</form> <xpln lang="la" lexeme="(en)wad(n)">siue glastum, est herba qua lanarum infectores utuntur. uulgus
+herbam appellat <term lang="en">Wad</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">
+<wordentry type="h"><form lang="la">LACTVCA
+Lactuca</form> <xpln lang="la" lexeme="(en)lettuce(n)">grecis <term lang="gkt">thridaca</term>, nostratibus f&#339;minis <term lang="en">Lettuse</term> dicitur, la&#173;
+ctuca agrestis est officinarum endiuia.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">LAPATHON
+Lapathon</form> <xpln lang="la" lexeme="(en)dock(n)" lexeme="(en)water dock(n)" lexeme="(en)patience(n)" lexeme="(en)sour dock(n)" lexeme="(en)sorell(n)">, romani rumicem uocant, angli <term lang="en">a Doc</term>, oxilapathon est
+<term lang="en">a Water doc</term>, hippolapathon <term lang="en">Patience</term>, lapathum acetos<expan type="">um</expan> (quod est
+quart<expan type="">um</expan> genus lapathi) siue rumex acetosus aut oxalis est herba, quam uul&#173;
+gus appellat <term lang="en">Sorell</term>, aut <term lang="en">Sourdoc</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">LIGVSTRVM
+Ligustrum</form> <xpln lang="la" lexeme="(en)primrose(n)">, arbor est, non herba, ut literator<expan type="">um</expan> uulgus credit, nihil que
+minus est quam <term lang="en">a Prymerose</term>, Vergilius hoc uersu. Alba ligustra ca&#173;
+dunt uaccinia nigra leguntur non de ramis sed de candidis huius arboris
+floribus locutus est. ligustr<expan type="">um</expan> grece dicitur <term lang="gkt">cyprus</term> officine uocant ligustr<expan type="">um</expan>,
+alcannam aut henne, licebit igitur utrouis horum uti pro anglico nomine
+tantis<expan type="">per</expan> dum aptius nobis nomen occurrerit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">LOLIVM
+Lolium</form> <xpln lang="la" lexeme="(en)darnel(n)" lexeme="(en)coccle(n)" lexeme="(en)popple(n)">, gr&#230;ci eram uocant, nonnulli <term lang="gkt">zizanion</term>, angli <term lang="en">Darnell</term>,
+indocti quid<expan type="">am</expan> <term lang="en">Cockell</term>, qu<expan type="">um</expan> nihil illi cum <term lang="en">Cocle</term> conueniat. Loli<expan type="">um</expan>
+ut doctor<expan type="">um</expan> scriptis relictum offendi herba recticaulis &#38; tritico similima.
+Herba <expan type="">autem</expan> qu<expan type="">am</expan> uocamus <term lang="en">Cocle</term>, aut <term lang="en">Pople</term> (qu<expan type="">am</expan> constat esse nigella&#173;
+str<expan type="">um</expan>) a tritico bis (quod ai<expan type="">un</expan>t) per omnia differt, Quare loli<expan type="">um</expan> non est nigel&#173;
+lastr<expan type="">um</expan> multo minus nigella quod si ita sit, quant<expan type="">um</expan> huic disticho posthac tri&#173;
+buend<expan type="">um</expan> erit? Frumentis nocu<expan type="">am</expan> lolium grecus uocat herbam qu<expan type="">am</expan> nostri di&#173;
+cunt uulgari more nigellam, hic etiam lolium grecam facit uocem quum
+nus<expan type="">quam</expan> (quod vidi) apud grecos sit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">LVPVS SALICTARIVS
+Lupus</form> <xpln lang="la" lexeme="(en)hop(n)">salictarius, officinis dicitur lupulus, anglice <term lang="en">Hoppes</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la" lexeme="(en)lichen(n)">LICHEN
+Lichen</form> <xpln lang="la" lexeme="(en)liverwort(n)">, siue bryon, ab herbari<emend err="j">i</emend>s hepatica dicitur, ab anglis <term lang="en">Lyuerwort</term>.</xpln>
+<lemenote>
+"Lichen" (assuming this is the English term) antedates the earliest OED occurrence (1601).
+</lemenote>
+</wordentry>
+
+
+
+</page>
+
+<page sig="B3r">
+<wordentry type="h"><form lang="la">LENS PALVSTRIS
+Lens palustris</form> <xpln lang="la" lexeme="(en)duck's meat(n)">creditur esse herba, qu<expan type="">am</expan> uulgus appellat <term lang="en">Duckes meat</term>
+crescit in s<expan type="">um</expan>mis stagnis, aut ali<emend err="j">i</emend>s aquis stantibus, &#38; torpentibus ut in fo<expan type="&#223;">ss</expan>is
+&#38; in quibusdam piscinis &#38; puteis.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">
+<wordentry type="h"><form lang="la">MACER
+Macer</form> <xpln lang="la" lexeme="(en)mace(n)">, siue macir, ab anglis uocatur <term lang="en">Mace</term> unde nobis ueniat non
+est opus ut hic refer<expan type="">am</expan>, Quan<expan type="">quam</expan> pr&#230;ter institut<expan type="">um</expan> uideri quibusdam po<expan type="&#223;">ss</expan>it ar&#173;
+borum nomina, herbis miscere: Non pigebit tamen in gratiam puerorum
+(quos turpiter huiusmodi rer<expan type="">um</expan> ignaros hodie uideo) aliquot etiam arbor<expan type="">um</expan>
+nomina nostrati sermone donare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">MALUS CONTONEA
+</form> <xpln lang="en" lexeme="(en)quince tree(n)">a Quynce tre.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUM CONTONEUM
+</form> <xpln lang="en" lexeme="(en)quince(n)">a Quynce.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry next to "MALUS CONTONEA."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUS PERSICA
+</form> <xpln lang="en" lexeme="(en)peach tree(n)">a Peche tre.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUM PERSICUM
+</form> <xpln lang="en" lexeme="(en)peach(n)">a Peche.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry next to "MALUS PERSICA."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUS MEDICA
+</form> <xpln lang="en" lexeme="(en)orange tree(n)">an orege tre.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUM MEDICUM
+</form> <xpln lang="en" lexeme="(en)orange(n)">an oreche.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry next to "MALUS MEDICA."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUS PUNICA
+</form> <xpln lang="en" lexeme="(en)pomegranate tree(n)">a Pomgarnet tre.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MALUM P<emend err="n">U</emend>NICUM
+</form> <xpln lang="en" lexeme="(en)pomegranate(n)">a Pomgarnat
+<term lang="la">aut</term> a Pomgranat.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was included under the "MACER" entry next to "MALUS PUNICA."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MARRVBIVM
+Marubium</form> <xpln lang="la" lexeme="(en)horehound(n)">, grecis dicitur <term lang="gkt">prasion</term>, anglis <term lang="en">Horehounde</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">MERCVRIALIS
+Mercurialis</form> <xpln lang="la" lexeme="(en)mercury(n)">, a grecis <term lang="gkt">linozostis</term>, ab anglis <term lang="en">Mercury</term> uocatur, eius duo
+sunt genera mas &#38; f&#339;mina. Mas haud temere apud nos reperitur. vidi ta&#173;
+men cantabrigie in horto aul&#230; regi&#230;, unde radic<expan type="">em</expan> in nostr<expan type="">um</expan> transtulimus,
+hortum. Mari semen est iuxta foli<expan type="">um</expan> exigu<expan type="">um</expan>, testiculor<expan type="">um</expan> modo c<expan type="">on</expan>nex<expan type="">um</expan> f&#339;&#173;
+inam omnes fere f&#339;mine norunt.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">MESPILUS
+</form> <xpln lang="en" lexeme="(en)medlar(n)" lexeme="(en)open-arse(n)" lexeme="(en)tree(n)">a Medlor or an openars tre.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MILLEFOLIVM
+Millefolium</form> <xpln lang="la" lexeme="(en)milfoil(n)" lexeme="(en)yarrow(n)">, siue supercili<expan type="">um</expan> ueneris, aut achillea, a gr&#230;cis miriophillon
+dicitur, ab anglis <term lang="en">myllefoly</term> aut <term lang="en">Yarow</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">MORUS
+</form> <xpln lang="en" lexeme="(en)mulberry tree(n)">a Mulbery tre.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MORUM
+</form> <xpln lang="en" lexeme="(en)mulberry(n)">the mulbery.</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading and was on the same line as "MORUS."
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">MOSCHOCARION
+Moschocaryon</form> <xpln lang="la" lexeme="(en)nutmeg(n)">, siue moschocaridion, latinis est nux moschata, anglis
+<term lang="en">a nutmuge, or a nutmege</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N">
+<wordentry type="h"><form lang="la">NARCISSVS
+Narcissus</form> <xpln lang="la" lexeme="(en)French(a)" lexeme="(en)gillyflower(n)">, diu hie apud nos sub peregrinis nominibus delituit. Nec erat
+ulla herba que me magis narcisso torsit, nam postquam uigesies eius pictu&#173;
+ram &#38; deliniationem uidissem, &#38; quam potui diligenti<expan type="&#223;">ss</expan>ime perpendi<expan type="&#223;">ss</expan><expan type="">em</expan>
+
+
+
+</page>
+
+<page sig="B3v">
+nus<expan type="">quam</expan> tamen potuit inueniri, qui hanc mihi herbam potuit exhibere, multo&#173;
+minus eius <expan type="">an</expan>glic<expan type="">um</expan> nom<expan type="">en</expan> indicare, tand<expan type="">em</expan> qu<expan type="">um</expan> a<expan type="">nimi</expan> recreandi gratia in North&#173;
+folcia rusticarer, ambulanti commod<expan type="">um</expan> puella nondum septennis in uico mi&#173;
+hi obuiam uenit, dextera manu alborum florum manipulum gestans, conti&#173;
+nuo conspectis herbis mec<expan type="">um</expan> ita cogitabam, hi sunt Narci<expan type="&#223;">ss</expan>i (nam descrip&#173;
+tionis illius herb&#230; adhuc recens erat lectio<emend err="">)</emend> aliquot<expan type="">que</expan> ab illa precibus emen&#173;
+dicabam. C&#230;terum rogantem nomen herb&#230; nullo responso dignabatur.
+Percontabar <expan type="">autem</expan> ab illis qui proximos pagos &#38; castella habitarent: quod
+nam esset huic herbe nomen indit<expan type="">um</expan>. Respondebant omnes herbam uocari
+Laus tibi, nec aliud nomen potui ab illis expiscari. C&#230;ter<expan type="">um</expan> dom<expan type="">um</expan> reuersus
+asphodelum multis etiam uocari laus tibi didici. Seniculus quidam cui no&#173;
+men est Guarinus A<expan type="&#223;">ss</expan>he, <term lang="en">Barnwelliensis</term> monasterii canonicus rei
+herbari&#230; pulchre gnarus hanc herbam <term lang="en">Frenche gelofer</term> uocari affir&#173;
+mabat, hi<emend err="j">i</emend>s licebit uti nominibus donec aptiora occurrerint.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">NASTVRTIVM
+Nasturtium</form> <xpln lang="la" lexeme="(en)garden(n)" lexeme="(en)cress(n)">, greci <term lang="gkt">cardamon</term> uocant, angli <term lang="en">Gardyn cresses</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">NEPETA
+Nepeta</form> <xpln lang="la" lexeme="(en)nep(n)" lexeme="(en)catmint(n)">, grecis est <term lang="gkt">calaminthe</term>, anglis <term lang="en">Nepe</term>, aut <term lang="en">catmynte</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">NYMPHEA
+Nymphaea</form> <xpln lang="la" lexeme="(en)water(n)" lexeme="(en)rose(n)">heracleum ropalon &#38; alga palustris dicitur, barbaris <term lang="en">ne&#173;
+nuphar</term>, a nostris <term lang="en">Water rose</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">NUX PERSICA
+</form> <xpln lang="la" lexeme="(en)walnut(n)" lexeme="(en)walnut-tree(n)" lexeme="(en)hazelnut(n)" lexeme="(en)filbert(n)">regia, iuglans idem <term lang="en">a Walnut, or a Walnut tre.</term>
+Et Nux epitheto uacans significat <term lang="en">a Walnutte</term>, ut Ouidius de
+nuce scribens, non depingit nobis auellanam quam constat esse <term lang="en">a hasyll
+nutte, or a fylbert</term> sed <term lang="en">a Walnut</term> quod facile ex hisce uersiculis sub&#173;
+sequentibus intelliges:
+<lemeformat>
+C&#230;tera sepe tamen potuere admissa negare
+Et crimen <emend err="u">n</emend>ox est inficiata suum
+Nostra notant fusco digitos iniuria succo
+Cortice contactas inficiente manus
+Ille cruor meus est illo maculato cruore.
+Non profectura dextra lauatur aqua.
+</lemeformat>
+</xpln>
+<lemenote>
+This entry was not formatted with a capitalized heading.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O">
+<wordentry type="h"><form lang="la">OLVS ATRVM
+Olus atr<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)alexander(n)">quod gr&#230;ci uoc<expan type="">an</expan>t hipposelinon aliqui putant esse <term lang="en">Alexander</term>.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B4r">
+<wordentry type="h"><form lang="la" lexeme="(en)clary(n)" lexeme="(en)wild(a)">ORMINVM
+Ormini</form> <xpln lang="la">, siue, ut ali<emend err="j">i</emend> scribunt, hormini, duo sunt genera, satiu<expan type="">um</expan>, &#38; syl&#173;
+uestre. Satiu<expan type="">um</expan> a latinis dicitur geminalis, a gallis oruala aut tota bona, ab
+anglis <term lang="en">Clare</term>, hormin<expan type="">um</expan> syluestre herbari<emend err="j">i</emend> uocant centr<expan type="">um</expan> gallin&#230; officin&#230;
+gallitric<expan type="">um</expan>, a nostris eti<expan type="">am</expan> arbitror dici <term lang="en">Clare</term> aut <term lang="en">Wylde clare</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ORIZA
+Orizam</form> <xpln lang="la" lexeme="(en)rice(n)">, omnes (quos legi) recentiores concordibus suffragi<emend err="j">i</emend>s ris<expan type="">um</expan> esse
+asserunt. Quare adducor ut cred<expan type="">am</expan> herbam esse cuius semen nos uocamus
+<term lang="en">Ryce</term>. Quod si ita sit, alica non erit <term lang="en">Ryce</term>, ut doctus quidam superio&#173;
+ribus hisce annis scriptum reliquit.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">ORIGANVM
+Origanum</form> <xpln lang="la" lexeme="(en)pennyroyal(n)" lexeme="(en)pudding grass(n)">(quant<expan type="">um</expan> mihi ex eius descriptione colligere licet) est herba
+quam uulgus appellat <term lang="en">Peny ryall</term>, aut <term lang="en">puddynge gyrse</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">OXIACANTHA
+Oxiacantha</form> <xpln lang="la" lexeme="(en)barberry(n)" lexeme="(en)pipperidge(n)">, siue pyxacanthis aut pyrena, ab officinis &#38; uulgo <term lang="en">berbe&#173;
+ris</term> dicitur. aliquibus <term lang="en">Pypryge</term> uocatur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">OXYS
+Oxys</form> <xpln lang="la" lexeme="(en)hallelujah(n)" lexeme="(en)wood-sorrel(n)" lexeme="(en)cuckoo's meat(n)">, siue oxytriphillon, a latinis dicitur trifoli<expan type="">um</expan> acetosum, ab officinis
+<term lang="en">Alleluya</term>, uulgus etiam uocat <term lang="en">Alleluya</term>, <term lang="en">Wodsore</term>, &#38; <term lang="en">cuckowes meat</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">
+<wordentry type="h"><form lang="la">PERICLIMENON
+Periclimenon</form> <xpln lang="la" lexeme="(en)woodbind(n)">, romani uolucr<expan type="">um</expan> maius, appellant. herbarior<expan type="">um</expan> uulgus ca&#173;
+prifoli<expan type="">um</expan> &#38; matrisylu<expan type="">am</expan> nominant. angli uocant <term lang="en">Wodbynde</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PALIVRVS
+Paliurus</form> <xpln lang="la" lexeme="(en)whin(n)" lexeme="(en)furze(n)">, uarias habet sub se species, quar<expan type="">um</expan> una est frutex ille quem ali&#173;
+qui <term lang="en">a Whyn</term> ali<emend err="j">i</emend> <term lang="en">a furre</term> nominant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PALMA
+Palma</form> <xpln lang="la" lexeme="(en)date tree(n)" lexeme="(en)date(n)">, grece ph&#339;nix dicitur, anglice <term lang="en">a Date tre</term>. fruct<expan type="">um</expan> eius greci
+uocant <term lang="gkt">dactylos</term>, latini palmulas, angli <term lang="en">a Date</term>. Palm<expan type="">am</expan> arborem in an&#173;
+glia nun<expan type="">quam</expan> me uidisse memini. In die tamen ramis palmar<expan type="">um</expan> (ut illi loqu<expan type="">un</expan>tur)
+s&#230;pius sacerdot<expan type="">em</expan> dicent<expan type="">em</expan> audiui. Benedic eti<expan type="">am</expan> &#38; hos palmar<expan type="">um</expan> ramos, qu<expan type="">um</expan>
+preter salignas frondes nihil omnino uider<expan type="">em</expan> ego, quid ali<emend err="j">i</emend> uiderint nescio.
+Si nobis palmarum frondes non suppeterent: prestaret me iudice mutare
+lectionem &#38; dicere. Benedic hos salic<expan type="">um</expan> ramos, <expan type="">quam</expan> falso &#38; mendaciter sa&#173;
+licum frondes palmarum frondes uocare.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="B4v">
+<wordentry type="h"><form lang="la">PAPAVER SATIVVM
+Papauer satiu<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)poppy(n)" lexeme="(en)red(a)" lexeme="(en)corn-rose(n)" lexeme="(en)wild(a)">, gr&#230;ci <term lang="gkt">mecona</term> satiu<expan type="">um</expan> dicunt, angli <term lang="en">Poppi</term>. Papauer
+erraticum <term lang="en">redecorne rose</term>, aut <term lang="en">Wylde pappy</term> uocatur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PERSICARIA
+Persicari<expan type="">am</expan></form> <xpln lang="la" lexeme="(en)arsesmart(n)" lexeme="(en)culerage(n)">, angli uocant <term lang="en">Arsmert</term> aut <term lang="en">Culerage</term>, eruditi al<emend err="">i</emend>quot pu&#173;
+tant hanc a ueteribus molibden<expan type="">am</expan>, aut pl<expan type="">um</expan>bagin<expan type="">em</expan> dictam fuisse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PARTHENIVM
+Partheni<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)featherfew(n)" lexeme="(en)feverfew(n)">, <expan type="">quod</expan> officine uoc<expan type="">an</expan>t matricari<expan type="">am</expan> (nisi longe fallar) est herba illa
+qu<expan type="">am</expan> uulgus appellat <term lang="en">Feuer few</term>, aut <term lang="en">fetherfew</term> sSimile est tanaceto.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PETASITES
+Petasites</form> <xpln lang="la" lexeme="(en)butterbur(n)" lexeme="(en)eldin(n)">, a petaso pileum aut galer<expan type="">um</expan> significante nom<expan type="">en</expan> traxit, f&#339;mine
+huius herb&#230; foli<emend err="j">i</emend>s butyr<expan type="">um</expan> inuoluunt unde nomen fecerunt <term lang="en">a butter bur</term>,
+northumbrienses uocant <term lang="en">an Elden</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PHENIX
+Ph&#339;nix</form> <xpln lang="la" lexeme="(en)way(n)" lexeme="(en)bent(n)">, romanis lolium murinum, siue hordeum murin<expan type="">um</expan> dicitur. Qui&#173;
+busd<expan type="">am</expan> auena sterilis uocatur. Nascitur in aruis tegulis<expan type="">que</expan> rec<expan type="">en</expan>s illitis, uoca&#173;
+tur hec herba <expan type="">qui</expan>busd<expan type="">am</expan>, <term lang="en">Waybent</term>, propterea <expan type="">quod</expan> iuxta semitas crescat.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PLANTAGO
+Plantagin<expan type="">em</expan></form> <xpln lang="la" lexeme="(en)waybread(n)" lexeme="(en)plantain(n)" lexeme="(en)ribwort(n)" lexeme="(en)ribgrass(n)" lexeme="(en)lancell(n)">, greci <term lang="gkt">arnoglosson</term> nomin<expan type="">an</expan>t. Eius du&#230; s<expan type="">un</expan>t species, maior &#38;
+minor. Maior<expan type="">em</expan> uulgus appellat <term lang="en">Waybred</term> aut <term lang="en">Plantane</term>, minorem
+uero <term lang="en">Rybwort</term>, <term lang="en">rybgyrse</term>, aut <term lang="en">Lancell</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">POLIGONON
+Poligonon</form> <xpln lang="la" lexeme="(en)swine's grass(n)" lexeme="(en)knotgrass(n)">, Romani uocant sanguinariam. Hanc uulgus appellat
+<term lang="en">Swyne gyrs</term>, &#38; <term lang="en">knot-gyrs</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">POPVLVS ALBA
+Populus alba</form> <xpln lang="la" lexeme="(en)asp(n)" lexeme="(en)tree(n)">, a grecis <term lang="gk">&#955;&#949;&#x03cd;&#954;&#951;</term> dicitur ab <expan type="">an</expan>glis <term lang="en">an aspe</term> aut <term lang="en">an esp tre</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">POLYPODIVM
+Polypodion</form> <xpln lang="la" lexeme="(en)break(n)" lexeme="(en)wall(n)">, romani filiculam appellant. nascitur in muscosis petris &#38;
+uetustis robor<expan type="">um</expan> caudicibus, palmi altitudine, filici simile, subhirsut<expan type="">um</expan>. Hanc
+herbam uulgus appellat <term lang="en">Brake of the wall</term>.</xpln>
+<lemenote>
+The term "break of the wall" could not be found in the OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="la">PORTVLACA
+Portulaca</form> <xpln lang="la" lexeme="(en)purslane(n)">, a grecis <term lang="gkt">andrachne</term>, ab anglis <term lang="en">Porcellyne</term> dicitur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">PSEVDONARDVS
+Pseudonardus</form> <xpln lang="la" lexeme="(en)lavendar(n)">, est nostra <term lang="en">lauandula</term>, uulgo dicitur <term lang="en">Lauander</term>.</xpln></wordentry>
+
+
+
+</page>
+
+<page sig="C1r">
+<wordentry type="h"><form lang="la">PHELLANDRYON
+Phellandryon</form> <xpln lang="la" lexeme="(en)filipendula(n)" lexeme="(en)dropwort(n)">, officin&#230; filipendulam, uulgus Filipendulam, &#38;
+<term lang="en">Droppewort</term> nuncupat.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q">
+<wordentry type="h"><form lang="la">QVINQVE FOLIVM
+Quin<expan type="">que</expan> foli<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)cinquefoil(n)">, grecis <term lang="gkt">pentaphillon</term>, a nostris <term lang="en">Synckfoly</term>.</xpln></wordentry> 
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">
+<wordentry type="h"><form lang="la">RANVNCVLVS
+Ranuncul<expan type="">um</expan></form> <xpln lang="la" lexeme="(en)crowfoot(n)" lexeme="(en)kingcup(n)" lexeme="(en)golland(n)" lexeme="(en)ache(n)">, gr&#230;ci <term lang="gkt">batrachion</term> appellant. Multa sunt ranunculi genera.
+Primum genus ab herbari<emend err="j">i</emend>s pes corui, a nostris <term lang="en">Crowfote</term> dicitur.
+Eius flos uocatur <term lang="en">Kyngcuppe</term>, aut <term lang="en">a Golland</term>. Secundum genus ab
+herbari<emend err="j">i</emend>s uocatur apium risus ab historicis herba sardonia, unde risus sar&#173;
+donius origin<expan type="">em</expan> traxit. Quidam putant uocari nostrati lingua <term lang="en">Ache</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">RAPHANON
+Raphanon</form> <xpln lang="la" lexeme="(en)radish(n)">, latini radic<expan type="">em</expan>, aut radicul<expan type="">am</expan>, angli <term lang="en">Radyce</term> nuncupant.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">RVBIA
+Rubiam</form> <xpln lang="la" lexeme="(en)madder(n)">, gr&#230;ci <term lang="gkt">erithrodanon</term> appellant, angli <term lang="en">Madder</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">RVBVS
+Rubus</form> <xpln lang="la" lexeme="(en)bramble(n)" lexeme="(en)blackberry-bush(n)" lexeme="(en)blackberry(n)" lexeme="(en)brambleberry(n)">aut sentes a grecis <term lang="gkt">batos</term>, aliquibus morus uaticana dicitur. Ru&#173;
+bum angli uocant <term lang="en">a bramble</term> aut <term lang="en">a blakbery bu<expan type="&#223;">ss</expan>he</term>. Fructus eius
+uocatur aut <term lang="en">blacke beryes</term>, aut <term lang="en">blacke byers</term>, aut <term lang="en">bumble berys</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">RVSCVS
+Ruscus</form> <xpln lang="la" lexeme="(en)butcher's broom(n)" lexeme="(en)petigrew(n)" lexeme="(en)holly-tree(n)" lexeme="(en)hulver(n)" lexeme="(en)tree(n)">, dicitur syluestris myrtus &#38; oximyrsine. Eius duo s<expan type="">un</expan>t genera.
+Humile &#38; procerum. Humile officin&#230; uocant bruscum, angli <term lang="en">Butchers
+broome</term>, &#38; <term lang="en">Petygrew</term>. Procer<expan type="">um</expan> <expan type="">autem</expan> galli hous<expan type="">um</expan>, angli <term lang="en">an holy tre</term>,
+&#38; <term lang="en">an Huluar tre</term> nominant, hec eti<expan type="">am</expan> arbor, si ruellio credimus, ilex aqui&#173;
+folia dicitur e cuius corticibus ipse admod<expan type="">um</expan> puer uisc<expan type="">um</expan> confeci.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S">
+<wordentry type="h"><form lang="la">SABINA
+Sabina</form> <xpln lang="la" lexeme="(en)savin(n)">a gr&#230;cis dicitur <term lang="gkt">brathis</term>, ab anglis uero <term lang="en">Sauyn</term> appellatur.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">SAMBVCA
+Sambucus</form> <xpln lang="la" lexeme="(en)elder(n)" lexeme="(en)tree(n)" lexeme="(en)bourtree(n)">, siue, ut quintus serenus legend<expan type="">um</expan> contendit, Sabucus a gr&#230;cis
+<term lang="gkt">acte</term>, ab anglis <term lang="en">an Elder tre</term>, aut <term lang="en">a bour tre</term> uocatur.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">SAMPSVCVM
+Sampsucum</form> <xpln lang="la" lexeme="(en)marjoram(n)" lexeme="(en)gentle(n)">siue amaracus, latinis maiorana dicitur, Nostratibus
+<term lang="en">Margerum</term>, aut <term lang="en">Margerum gentyll</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">SATVREIA
+
+
+
+</page>
+
+<page sig="C1v">
+Satureia</form> <xpln lang="la" lexeme="(en)savory(n)">, siue thymbra, anglis est <term lang="en">Sauery</term>.</xpln></wordentry> 
+
+<wordentry type="h"><form lang="la">SEDVM
+Sedum</form> <xpln lang="la" lexeme="(en)houseleek(n)" lexeme="(en)thrift(n)" lexeme="(en)stonecrop(n)">, siue ocul<expan type="">um</expan> iouis gr&#230;ci uocant <term lang="gkt">aizoon</term> <expan type="">quod</expan> semper uiuat, eius duo
+sunt genera, maius &#38; minus. Maius sedum uulgo dicitur <term lang="en">Housleke</term>.
+Sed<expan type="">um</expan> minus puto esse herb<expan type="">am</expan> qu<expan type="">am</expan> uulgus appellat <term lang="en">Thryft</term> aut <term lang="en">Stoncrop</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">SENECIO
+Senecio</form> <xpln lang="la" lexeme="(en)groundsel(n)">, grecis dicitur <term lang="gkt">erigeron</term>, quia uere canescit, angli uocant
+<term lang="en">Grunswell</term>, &#38; <term lang="en">grundeswell</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">SEVTLOMALOCHON
+Seutlomalachon</form> <xpln lang="la" lexeme="(en)spinach(n)">a quibusd<expan type="">am</expan> spinachia, a <expan type="">nostr</expan>is <term lang="en">Spynache</term> no<expan type="">min</expan>atur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">SYMPHYTVM
+Symphytum</form> <xpln lang="la" lexeme="(en)comfrey(n)">herbari<emend err="j">i</emend> uocant consolidam maiorem, uulgus <term lang="en">Comfrey</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">SOLANVM
+Solanum</form> <xpln lang="la" lexeme="(en)morel(n)" lexeme="(en)nightshade(n)">, gr&#230;ci <term lang="gkt">strychnon</term> uocant, officin&#230; solatr<expan type="">um</expan>, uulgus <term lang="en">Morell</term>,
+aut <term lang="en">nyghtshad</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">SOLANVM SOPORIFERVM
+Solanum soporiferum</form> <xpln lang="la" lexeme="(en)dwale(n)">, aliqui uocant <term lang="en">Dwale</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">STAPHIS AGRIA
+Staphis agria</form> <xpln lang="la" lexeme="(en)stavesacre(n)">, romanis herba pedicularis dicitur, uulgo <term lang="en">Stauesacre</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">
+<wordentry type="h"><form lang="la">TAXVS
+Taxus </form> <xpln lang="la" lexeme="(en)yew tree(n)"><term lang="en">an Vhe tre</term>, unde hodie apud nos fiunt arcus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">TELEPHIVM
+Telephium</form> <xpln lang="la" lexeme="(en)orpine(n)">, herbari<emend err="j">i</emend> fabam inuersam, aut crassulam minorem uocant
+uulgus <term lang="en">Orpyn</term> appellat.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V">
+<wordentry type="h"><form lang="la">VACCINIVM
+Vaccinium</form> <xpln lang="la">, gr&#230;ci <term lang="gkt">hyacinthum</term> uocant. galli uacietum, quinam a nostris
+uocetur nondum comperi. Verum (si seruio credimus) inter purpureas uio&#173;
+las hyacinthus referendus est, quod si uer<expan type="">um</expan> sit non erit res ardua nomen
+illi britannicum adhibere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">VERBASCVM
+Verbascum</form> <xpln lang="la" lexeme="(en)lungwort(n)" lexeme="(en)mullein(n)">, a gr&#230;cis phlomos, ab officinis taxus barbatus, a uulgo
+<term lang="en">Mullen</term> aut <term lang="en">Longwort</term> appellatur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">VERBENA
+Verbena</form> <xpln lang="la" lexeme="(en)verbene(n)" lexeme="(en)oculus Christi(n)" lexeme="(en)vervain(n)">, &#38; uerbenaca, gr&#230;ce peristereon dicitur eius duo s<expan type="">un</expan>t genera,
+
+
+
+</page>
+
+<page sig="C2r">
+uerbena recta scilicet, que uulgo dicitur <term lang="en">Veruyne</term>, &#38; uerbena
+supina que a uulgo uocatur <term lang="en">Oculus christi</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="la">VISCVM
+Viscum</form> <xpln lang="la" lexeme="(en)mistletoe(n)">, angli uocant <term lang="en">Mysceltyne</term>, aut <term lang="en">Myscelto</term>. Densi<expan type="&#223;">ss</expan>imus
+iste frutex nus<expan type="">quam</expan> nisi in arboribus nascitur, e terra nun<expan type="">quam</expan> <expan type="">pro</expan>uenit. uiscum tot
+secula anglis ignot<expan type="">um</expan> fui<expan type="&#223;">ss</expan>e plurimum demiror, qu<expan type="">um</expan> in pyris &#38; malis syl&#173;
+uestribus nus<expan type="">quam</expan> non proueniat.</xpln>
+<lemenote>
+The term "mysceletyne" could not be found in the OED.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Z">
+<wordentry type="h"><form lang="la">ZADVRA
+Zadura</form> <xpln lang="la" lexeme="(en)setwall(n)">, uel zaduaria, anglice dicitur <term lang="en">Setwall</term>.</xpln></wordentry>
+</wordgroup1> 
+</section>
+
+<section type="Closing">
+<term lang="la">FINIS</term>
+</section>
+
+<section type="Dedication">
+<heading><term lang="la">TUDIOSE IVVENTVTIS, VNICO HVIVS
+&#230;tatis patrono longe benigniffinio, M. Thom&#230;
+Patinfono facr&#230; theologi&#230; doctori,
+Guilielmus Turnerus S P D.</term></heading>
+
+<term lang="la">
+Svmmam mihi huic libello man<expan type="">um</expan> mox imposi&#173;
+turo (m<expan type="">&#230;</expan>cenas optime) in mentem forte fortu&#173;
+na uenit ab <expan type="">omni</expan>bus scriptoribus receptum esse,
+libellos fuos heroi cuipiam, qui eor<expan type="">um</expan>patro&#173;
+cinium susciperet, nuncupare. At inter heroas 
+(quos noui innumeros) multis mihi nominibus profecto,
+dignissimus ipse visus es, cui ingeni<emend err="j">i</emend> mei primitas (si quid
+tibi aut laudis aut decoris possunt adiicere) dedicarem. 
+Ali<emend err="j">i</emend> (quibus copi&#230; cornu contigit) in magnifica <expan type="">&#230;</expan>dificia,
+quicquid sibi diuitar<expan type="">um</expan>congessere, insumunt, alii toti huc
+inc<expan type="">um</expan>bunt, ut confanguineos fuos ditent, alios deni<expan type="">que</expan> alia
+iuuant, capiunt<expan type="">que</expan>. Hoc solum tibi cordi est, hec re res sola
+iuuat, ut in literaria, iuuentus scolastica tuis impensis
+&#38; auspiciis alta fota<emend err="q3">que</emend> proficiat, quare si merito benefi&#173;
+</term>
+
+
+
+</page>
+
+<page sig="C2v">
+<term lang="la">
+centia m<expan type="">&#230;</expan>cenatem immortali fama nobilitanerit: <expan type="">omnium</expan>
+vere eruditorum mihi interesse videtur tuum nomen qui
+tot tantis<expan type="">que</expan> impensis tot doctos adolesc<expan type="">en</expan>tes educasti, as
+sydera us<expan type="">que</expan> laudibus euehere, &#38; ad posteros tr<expan type="">an</expan>smittere.
+Quod ego haud dubie facer<expan type="">em</expan>, si eruditio mea uotis meis
+ulla ex parte responderet. C&#230;ter<expan type="">um</expan> si has ingenii mei pri&#173;
+mitias boni confulueris, olim cum plus mihi eruditionis
+accreuerit, elaboratius &#38; eruditius tibi munus (fauente
+Christo) mittam. Cale m<expan type="">&#230;</expan>cenas optime. 
+
+LONDINI APVD IOANNEM
+Bydellum. Anno d<expan type="">omin</expan>i
+1538
+</term>
+</section>
+
+
+</page>
+</leme>

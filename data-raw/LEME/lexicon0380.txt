@@ -1,0 +1,169 @@
+<leme no="380">
+
+<page sig="oooo2r">
+<heading>THE 
+TECHNOLOGICALL 
+AND GEOGRAPHICALL WORDS 
+mentioned in this Worke, defined and explained.</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en">The World</form> <xpln lang="en">called in Latine <term lang="la">Orbis</term>, in respect of the 
+Orbicular round forme, and in Greeke <term lang="gk">&#x039A;&#x03BF;&#x03C3;&#x1F78;&#x03C2;</term> in non-Latin alphabet &shy;
+in respect of the beauty 
+thereof, is devided by Geographers into parts:
+
+Reall, viz.
+<editoraddition>Imaginary, viz.</editoraddition>
+</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Continent</form> <xpln lang="en">which 
+containeth many Coun&shy;
+tries and Territories.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">An Island</form> <xpln lang="en">in La&shy;
+tine <term lang="la">Insula, quasi in sa&shy;
+lo sita</term>, a Land situated 
+in the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Peninsula</form> <xpln lang="en">is so 
+called <term lang="la">quasi Paen&egrave; In&shy;
+sula</term>, in Greeke <term lang="gkt">Cher&shy;
+sonesus</term>, being a com&shy;
+pound word of <term lang="gk">&#x03C7;&#x03AD;&#x03C1;&#x03BF;&#x03C2;</term> 
+and <term lang="gk">&#x03BD;&#x1FC6;&#x03C3;&#x03BF;&#x03C2;</term>, signifying a 
+a forsaken Island.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Promontory</form> <xpln lang="en">is a 
+part of Land lying out 
+farther than the rest, 
+and is contrary to a 
+Bay, the uttermost end 
+is called a Cape,</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Bay or Sinus,</form> <xpln lang="en">is a 
+Bosome of Land recei&shy;
+ving the Sea into it, 
+and so making a Ha&shy;
+ven.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The Ocean</form> <xpln lang="en">is so cal&shy;
+led from the Greeke 
+word <term lang="gk">&#x1F60;&#x03BA;&#x1F7A;&#x03C2;</term> signifying 
+swift.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t">
+<heading>Imaginary, 
+viz.</heading>
+
+<wordentry type="h"><form lang="en">The Aequinoctiall</form> <xpln lang="en"> 
+so stiled because when 
+the Sunne is under this 
+Circle in the Heaven 
+which answeres to this 
+on the Earth, the dayes 
+and nights bee of one 
+length.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The Tropickes</form> <xpln lang="en">are two 
+nominate Circles that 
+be Parallel to the Ae&shy;
+quator, from which 
+the Northerne Tro&shy;
+picke of Cancer is di&shy;
+stant 23. degrees, and 
+the Southerne called 
+the Tropick of Capri&shy;
+corne, as much.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Parallels</form> <xpln lang="en">are defined 
+by Keckerman, <term lang="la">quod 
+sint line&aelig; qu&aelig; in infi&shy;
+nitum duct&aelig; nunqu<expan type="a+_">am</expan>
+concurrunt</term>, that they 
+are two equidistant 
+lines, which being in&shy;
+finitely drawne forth, 
+yet do not, nor will ever 
+meete.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Latitude</form> <xpln lang="en">is the di&shy;
+stance of a place North 
+or South from the &AElig;&shy;
+quator or middle of the 
+World.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Longitude</form> <xpln lang="en">is the di&shy;
+stance of any place East 
+and West, from the 
+chiefe Meridian, and 
+is measured by the de&shy;
+grees of the &AElig;quator, 
+it is placed in the Iland 
+of St. Michael one of 
+the 9. Azores in the 
+Atlantick Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">A Clime</form> <xpln lang="en">is a space of 
+the Earth comprehen&shy;
+ded betweene 3. Pa&shy;
+rallels, lesser innomi&shy;
+nate Circles which 
+compasse the Earth 
+from East to West.</xpln>
+<lemenote>
+A sense not noted in OED, "clime," n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Peri&aelig;ci</form> <xpln lang="en">so called 
+from the Greeke word 
+<term lang="gk">&#x03C0;&#x03B5;&#x03C1;&#x03B9;&#x03BF;&#x03B9;&#x03BA;&#x03AD;&#x03C9;</term>, i. e. <term lang="la">habito 
+circum</term>, are those that 
+dwell under the same 
+Parallel.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Antaeci</form> <xpln lang="en">so named from 
+<term lang="gk">&#x03B1;&#x03BD;&#x03C4;&#x03BF;&#x03B9;&#x03BA;&#x03B5;&#x03C9;</term>, i. e. <term lang="la">ex adver&shy;
+so habitare</term>, are those 
+that dwell alike di&shy;
+stant from the &AElig;&shy;
+quator, but the one 
+Northward, and the 
+other Southward.</xpln>
+<lemenote>
+"Antaeci" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en">Antipodes</form> <xpln lang="en">so stiled 
+from <term lang="gk">&#x03B1;&#x03BD;&#x03C4;&#x03B9;</term> &amp; <term lang="gk">&#x03C0;&#x03CC;&#x03B4;&#x03B1;&#x03C2;</term>, q.d.
+<term lang="la">adversa vestigia si&shy;
+gentes</term>, are people 
+dwelling on the other 
+side of the Earth, with 
+their feet directly a&shy;
+gainst ours.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">The Artick Pole</form> <xpln lang="en">so 
+called for its neerenesse 
+to a constellation in the 
+North Hemisphere 
+called <term lang="gk">&#x0391;&#x03C1;&#x03B7;&#x03C4;&#x03BF;&#x03C2;</term> which 
+signifieth a Beare.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">Antartick Pole</form> <xpln lang="en">so 
+called because it is op&shy;
+posite to the Articke 
+Pole.</xpln></wordentry>
+</wordgroup1>
+
+<closing>FINIS.
+
+<term lang="la">Finem habet hic Mundus, finem terrenus habebit. 
+Sit Soli dempto Gloria fine Deo.</term>
+</closing>
+</page>
+</leme>
+
+

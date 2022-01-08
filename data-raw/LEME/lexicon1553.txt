@@ -1,0 +1,68 @@
+<leme no="1553">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+R i c h a r d  H a k l u y t ' s  P r i n c i p a l  N a v i g a t i o n s   1 5 9 8
+s t c  1 2 6 2 6
+v e r . 1 . 0  ( 2 0 2 1 )
+</term>
+</lemepagenote>
+
+<page no="408">
+<heading>
+<term lang="en">
+The famous voyage of Sir Francis Drake into the South sea, and 
+therehence about the whole Globe of the earth, begun in
+the yeere of our Lord, 1577.
+</term>
+</heading>
+</page>
+
+Vol. 15: 408-47
+
+<page no="435">
+<wordgroup1 type="t" object="Words in the Javanese Language"><alpha>Certaine wordes of the naturall language of Iaua, learned and obserued by our men there.</alpha>
+
+<wordentry type="h"><form lang="ja">Sabuck,</form> <xpln lang="en" lexeme="silk(n)">silke.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Sagu,</form> <xpln lang="en" lexeme="bread(n)" lexeme="country(n)">bread of the Countrey.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Larnike,</form> <xpln lang="en" lexeme="drink(n)">drinke.</xpln></wordentry>
+</page>
+
+<page no="435">
+<wordentry type="h"><form lang="ja">Paree,</form> <xpln lang="en" lexeme="rice(n)" lexeme="husk(n)">ryce in the huske.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Braas,</form> <xpln lang="en" lexeme="sodden(a)" lexeme="rice(n)">sodden ryce.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Calapa,</form> <xpln lang="en" lexeme="coco(n)">Cocos.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Cricke,</form> <xpln lang="en" lexeme="dagger(n)">dagger.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Catcha,</form> <xpln lang="en" lexeme="looking-glass(n)">a looking glasse.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Arbo,</form> <xpln lang="en" lexeme="ox(n)">an oxe.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Vados,</form> <xpln lang="en" lexeme="goat(n)">a goate.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Cabo,</form> <xpln lang="en" lexeme="gold(n)">golde.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Gardange,</form> <xpln lang="en" lexeme="plantain(n)">a plantane.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Hiam,</form> <xpln lang="en" lexeme="hen(n)">a henne.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Seuit,</form> <xpln lang="en" lexeme="linnen(n)" lexeme="cloth(n)">linnen cloth.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Doduck,</form> <xpln lang="en" lexeme="blue(a)" lexeme="cloth(n)">blew cloth.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Totopps,</form> <xpln lang="en" lexeme="cap(n)">one of their caps.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Gula,</form> <xpln lang="en" lexeme="black(a)" lexeme="sugar(n)">blacke sugar.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Tadon,</form> <xpln lang="en" lexeme="woman(n)">a woman.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Bebeck,</form> <xpln lang="en" lexeme="duck(n)">a ducke.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Aniange,</form> <xpln lang="en" lexeme="deer(n)">a deere.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Popran,</form> <xpln lang="en" lexeme="ointment(n)">oyntment.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Coar,</form> <xpln lang="en" lexeme="head(n)">the head.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Endam,</form> <xpln lang="en" lexeme="rain(n)">raine.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Ionge,</form> <xpln lang="en" lexeme="ship(n)">a shippe.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Chay,</form> <xpln lang="en" lexeme="sea(n)">the sea.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">apelo,</form> <xpln lang="en" lexeme="ten(n)" lexeme="number(n)">ten in number.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Dopolo,</form> <xpln lang="en" lexeme="twenty(n)">twentie.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Treda,</form> <xpln lang="en" lexeme="no(n)">no.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Lau,</form> <xpln lang="en" lexeme="understand(v)" lexeme="you(pr)">vnderstand you.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Bayer,</form> <xpln lang="en" lexeme="go(v)">goe.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Adadizano,</form> <xpln lang="en" lexeme="fetch(v)">I will fetch it.</xpln></wordentry>
+<wordentry type="h"><form lang="ja">Suda,</form> <xpln lang="en" lexeme="enough(n)">ynough.</xpln></wordentry>
+</wordgroup1>
+</page>
+</leme>
+
+
+
+
+

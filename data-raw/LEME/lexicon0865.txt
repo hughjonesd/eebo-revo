@@ -1,0 +1,229 @@
+
+
+<leme no="865">
+<page sig="c3v">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+w i n g a 7 6 5
+
+v e r . 1 . 0  ( 2 0 1 8 )
+</term>
+</lemepagenote>
+<heading>An Explanation 
+OF 
+Some Terms of the ART of
+PAINTING.</heading>
+
+<wordgroup1 type="a">
+
+<wordentry type="h"><form lang="en" lexeme="air(n)">Air.</form> 
+<xpln lang="en">IS properly taken for the Look of a Fi&shy;
+gure, and is used in this Manner, The 
+Air of the Heads of Young Women, or 
+Grave Men, &amp;c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="antique(a)">Antique.</form> 
+<xpln lang="en">This word Comprehends all the Works of 
+Painting, Sculpture, and Archite&shy;
+cture that have been made in the Time of 
+the Antient Greeks and Romans, from 
+Alexander the Great, to the Emperour 
+Phocas; under whom the Goths Ravaged 
+Italy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="aptitude(n)">Aptitude.</form> 
+<xpln lang="en">It comes from the Italian word <expression lang="it">Attitu&shy;
+dine</expression>, and means the posture and action that 
+any Figure is represented in.</xpln></wordentry>
+
+
+</page>
+
+<page sig="c4r">
+<wordentry type="h"><form lang="en" lexeme="cartoon(n)">Cartoon.</form> 
+<xpln lang="en">It is taken for a Design made of many 
+Sheets of Paper pasted together; in which 
+the whole Story to be painted in Fresco, is 
+all drawn exactly, as it must be upon the Wall 
+in Colours: Great Painters never paint&shy;
+ing in Fresco, but they make Cartoons first.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="colouring(n)">Colouring.</form> 
+<xpln lang="en">'Tis one of the parts of Painting, by 
+which the Objects to be painted receive their 
+Complexion, together with their True 
+Lights and Shadows.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chiaroscuro(n)">Chiaro-Scuro.</form> 
+<xpln lang="en">It is taken in two Senses: first, Painting 
+in Chiaro-Scuro, is meant, when there are 
+only two Colours employed. Secondly, It 
+is taken for the disposing of the Lights and 
+Shadows Skilfully; as when we say, A 
+Painter understands well the Chiaro-
+Scuro.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="contour(n)">Contour.</form>
+<xpln lang="en">The Contours of a Body, are the Lines
+
+
+</page>
+
+<page sig="c4v">
+that environ it, and make the Superficies 
+of it.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="design(n)">Design.</form> 
+<xpln lang="en">Has two Significations: First, As a part 
+of Painting, it signifies the just Measures,
+Proportions, and Outward Forms 
+that a Body, imitated from Nature, ought 
+to <emend err="havt">have</emend>. Secondly, It signifies the whole 
+Composition of a piece of Painting; 
+as when we say, There is great Design 
+in such a Piece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="distemper(n)">Distemper.</form> 
+<xpln lang="en">A sort of Painting that implys the Co&shy;
+lours mingled with Gumm. And the dif&shy;
+ference between that and Miniature, is, 
+that the one only uses the Point of the Pen&shy;
+cil, the other gives the Pencil its whole Li&shy;
+berty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="drapery(n)">Drapery.</form> 
+<xpln lang="en">Is a General Word for all sorts of Cloa&shy;
+thing, with which Figures are Adorn&shy;
+ed: So we say, Such a Painter disposes 
+well the Foldings of his Drapery.</xpln></wordentry>
+
+
+</page>
+
+<page sig="d1r">
+<wordentry type="h"><form lang="en" lexeme="figure(n)">Figure.</form> 
+<xpln lang="en">Though this word be very General, and may 
+be taken for any painted Object; yet it is 
+in Painting, generally taken for Humane 
+Figures.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fresco(n)">Fresco.</form> 
+<xpln lang="en">A sort of Painting, where the Colours 
+are applyed upon fresh Mortar, that they 
+may Incorporate with the Lime and Sand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="festoon(n)">Festoon.</form> 
+<xpln lang="en">Is an Ornament of Flowers, employed in 
+Borders and Decorations.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="grotesque(n)">Grotesk.</form> 
+<xpln lang="en">Is properly the Painting that is found un&shy;
+der Ground in the Ruines of Rome; but it 
+signifies more commonly a sort of Painting that 
+expresses odd Figures of Animals, Birds,
+Flowers, Leaves, or such like, mingled to&shy;
+gether in one Ornament or Border.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gruppo(n)">Gruppo.</form> 
+<xpln lang="en">Is a Knot of Figures together, either in 
+the middle or sides of a piece of Painting.
+
+
+</page>
+
+<page sig="d1v">
+So Carache would not allow above three
+Gruppos, nor above twelve Figures for 
+any Piece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="history(n)">History.</form> 
+<xpln lang="en">History-Painting is an Assembling of 
+many Figures in one Piece, to Represent any 
+Action of Life, whether True or Fabulous, 
+accompanied with all its Ornaments of Land&shy;
+skip and Perspective.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="manner(n)">Manner.</form> 
+<xpln lang="en">We call Manner the Habit of a Painter, 
+not only of his Hand, but of his Mind; that is, 
+his way of expressing himself in the three prin&shy;
+cipal Parts of Painting, Design, Colou&shy;
+ring, and Invention; it answers to Stile 
+in Authors; for a Painter is known by his
+Manner, as an Author by his Stile, or a
+Man's Hand by his Writing.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="model(n)">Model.</form> 
+<xpln lang="en">Is any Object that a Painter works by, either 
+after Nature, or otherwise; but most common&shy;
+
+
+</page>
+
+<page sig="d2r">
+ly it signifies that which Sculptors, Pain&shy;
+ters, and Architects make to Govern them&shy;
+selves by in their Design.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nudity(n)">Nudity.</form> 
+<xpln lang="en">Signifies properly any Naked Figure of Man 
+or Woman; but most commonly of Woman; as 
+when we say, 'Tis a Nudity, we mean the 
+Figure of a Naked Woman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="print(n)">Print.</form> 
+<xpln lang="en">Is the Impression of a Graven or Wooden 
+Plate upon Paper or Silk, Representing some 
+Piece that it has been Graved after.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="relievo(n)">Relievo.</form> 
+<xpln lang="en">Is properly any Embossed Sculpture that 
+rises from a flat Superficies. It is said like&shy;
+wise of Painting, that it has a great Relie&shy;
+vo, when it is strong, and that the Figures 
+appear round, and as it were, out of the Piece.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mezzo-relievo(n)">Mezzo-Relievo.</form> 
+<xpln lang="en">Is where the Figures rise, but not above 
+half of them is seen, the rest being supposed in 
+the Marble or Wood.</xpln></wordentry>
+
+
+</page>
+
+<page sig="d2v">
+<wordentry type="h"><form lang="en" lexeme="basso-relievo(n)">Basso-Relievo,</form> 
+<xpln lang="en">Is, when the Figures are little more than
+Designed, and do rise but very little above 
+the Plain: Such are the Figures of the An&shy;
+tients about their Cups and other Vessels.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shortening(n)">Shortning.</form> 
+<xpln lang="en">Is, when a Figure seems of greater quantity 
+than really it is; as, if it seems to be three 
+foot long, when it is but one: Some call it 
+Fore-Shortning.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stucco-work(n)">Stucco-Work.</form> 
+<xpln lang="en">Is Figures of all sorts, made in a kind of 
+Plaister, and employed to Adorn a Room, ei&shy;
+ther under the Cornishes, or round the Cei&shy;
+ling, or in Compartiments, or Divisi&shy;
+ons.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="schizzo(n)">Schizzo.</form> 
+<xpln lang="en">Is the first Design or Attempt of a Painter to 
+Express his Thoughts upon any Subject. The Schiz&shy;
+zos are ordinarily reduced into Cartoons in Fresco
+Painting, or Copyed and Enlarged in Oyl-Painting.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tinto(n)">Tinto.</form> 
+<xpln lang="en">Is, when a thing is done only with one Colour, and 
+that generally Black.</xpln></wordentry>
+
+</wordgroup1>
+
+</page>
+</leme>

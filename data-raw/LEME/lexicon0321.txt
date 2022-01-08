@@ -1,0 +1,240 @@
+ <leme no="321">
+<section type="Title-page">
+<page sig="[*1r]">
+LATHAMS 
+FALCONRY 
+OR 
+The Faulcons Lure, and Cure: 
+IN TWO BOOKES.
+
+The First, concerning the ordering and training vp of all 
+Hawkes in generall; especially the HAGGARD 
+FAVLCON GENTLE.
+
+The second, teaching approued medicines for the cure 
+of all Diseases in them.
+
+Gathered by long practice and experience, and published 
+for the delight of noble mindes, and instruction of 
+young Faulconers in things pertaining 
+to this Princely Art.
+
+By SYMON LATHAM. Gent.
+
+Printed at London for Roger Iackson, and are to be sold at his shop 
+neere Fleet-street Conduit, 1614.
+</page>
+</section>
+
+<section type="Glossary of Hard Words">
+<page sig="para1r">
+An Explanation of 
+the wordes of art contained in
+this Booke.
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="en" lexeme="bathing(n)">BAthing</form> <xpln lang="en">is when you set your Hawke to the water, to wash
+or bath her selfe, either abroad or in the house.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="batting(n)" lexeme="bat(v)">Batting, or to batte</form> <xpln lang="en">is when a Hawk fluttereth with her wings
+either from the pearch or the mans fist, stryuing as it were to flie
+away, or get liberty.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bousing(n)">Bousing</form> <xpln lang="en">is when a Hawke drinketh often, and seemes to be
+continually thirsty.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="en" lexeme="creance(n)">CReance</form> <xpln lang="en">is a fine small long line of strong and euen twound
+Packthreed, which is fastened to the Hawks leash, when she
+i first lured.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ceasing(n)">Ceasing</form> <xpln lang="en">is when a Hawke taketh any thing into her foot,
+and gripeth or holdeth it fast.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="check(v)">Checke</form> <xpln lang="en">or to kill, Checke is when Crowes, Rookes, Pies, or 
+</page>
+
+<page sig="para1v">
+other birds comming in the view of the Hawke, shee forsaketh
+her naturall flight to flie at them. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="casting(n)">Casting,</form> <xpln lang="en">is any thing that you giue your Hawk to clense her
+gorge with, whether it be flannell, thrummes, feathers, or such
+like. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cast a hawk(v)">To cast a Hawke,</form> <xpln lang="en">is to take her in your hands before the pini-
+ons of her wings, and to hold her from bating or striuing, when
+you administer any thing vnto her. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cadge(n)">Cadge,</form> <xpln lang="en">is taken for that on which Faulconers carry many
+Hawkes, together when they bring them to sell. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="en" lexeme="dropping(n)">DRopping</form> <xpln lang="en">is when a Hawke muteth directly downeward,
+in seuerall drops, and ierketh it not longwaies from her. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="disclose(v)">Disclosed,</form> <xpln lang="en">is when young Hawkes are newly hatch'd, and as
+it were disclosed from their shels. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>E</alpha>
+<wordentry type="h"><form lang="en" lexeme="aerie(n)">ERie</form> <xpln lang="en">is the nest or place where a Hawke buildeth and brin-
+geth vp her young ones, whether in woods, rockes, or any
+other places. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="endew(v)">Endew,</form> <xpln lang="en"> is when a Hawke digesteth her meat, not onely put-
+ting it ouer from her gorge, but also cleansing her pannell. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="en" lexeme="gorge(n)">GOrge,</form> <xpln lang="en">is that part of the Hawke which first receiueth the
+meat, and is called the Craw or crop in other fowles. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gurgiting(n)">Gurgiting,</form> <xpln lang="en">is when a Hawke is stuft or sufforated with any
+thing, be it meat or otherwise. </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="para2r">
+<wordgroup1 type="a" object="I"><alpha>I</alpha>
+
+<wordentry type="h"><form lang="en" lexeme="ink(n)">INke,</form> <xpln lang="en">whether it be of Partridge, fowle, doues, or any
+other pray, is the necke from the head to the body. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="intermewed(a)">Intermew'd</form> <xpln lang="en">is from the first exchaunge of a Hawkes
+coat, or from her first mewing, till shee come to bee a white
+Hawke. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="jess(n)">Iesses,</form> <xpln lang="en">are those short straps of leather, which are fastned
+to the Hawks legs, & so to the lease by varuels, anlets, or such
+like. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L"><alpha>L</alpha>
+<wordentry type="h"><form lang="en" lexeme="lure(n)">LVer</form> <xpln lang="en">is that whereto Faulconers call their young Hawkes
+by casting it vp in the aire, being made of feathers and 
+leather in such wise that in the motion it lookes not vnlike a
+fowle. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lease(n)" lexeme="leash(n)">Lease or leashe</form> <xpln lang="en">is a small long thong of leather, by which
+the Faulconer holdeth his Hawke fast, folding it many times
+about their fingers. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lice(n)">Lice,</form> <xpln lang="en">are a small kind of white vermin, running amongst
+the feathers of the Hawke. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="en" lexeme="muting(n)">MVting</form> <xpln lang="en">is the excrements or order which comes from
+Hawkes, and containeth both dunge and vrine. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="make-hawk(n)">A Make-hawke</form> <xpln lang="en"> is an old staunche flying Hawke, which
+being inur'd to her flight, wil easily instruct a younger Hawk
+to be waining in her pray. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="managing(n)">Managing,</form> <xpln lang="en">is to handle any thing with cunning accor-
+ding to the true nature thereof. </xpln></wordentry>
+</page>
+
+<page sig="para2r">
+<wordentry type="h"><form lang="en" lexeme="mew(n)">Mew,</form> <xpln lang="en">is that place, whether it be abroad or in the house
+where you set downe your Hawke, during the time that shee
+raseth her feathers. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mite(n)">Mites,</form> <xpln lang="en">are a kind of vermine smaller then Lice, and most
+about the heads and nares of Hawkes. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="en" lexeme="pluming(n)">PLumming,</form> <xpln lang="en">is when a Hawke ceaseth a fowle, and pul-
+leth the feathers from the body. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plumage(n)">Plummage</form> <xpln lang="en">are small downie feather which the Hawke
+takes, or are giuen her for casting. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pelt(n)">Pelt,</form> <xpln lang="en">is the dead body of any fowle howsoeuer dismem-
+bred. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pill(n)">Pill,</form> <xpln lang="en">and pelfe of a fowle, is that refuse and broken re-
+maines, which are left after the Hawke hath beene releiued. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plume(n)">Plume</form> <xpln lang="en">is the generall colour or mixtures of feathers in a 
+Hawke, which sheweth her constitution. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="perch(n)">Pearch,</form> <xpln lang="en">is any thing whereon you set your Hawke, when
+shee is from your fist. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="prey(n)">Pray,</form> <xpln lang="en">is any thing that a Hawke killeth, and feedeth her
+selfe thereupon. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="panel(n)">Pannell
+</form> <xpln lang="en">is that part of the Hawke next to the fundament
+whither the Hawke disgesteth her meat from her body. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>Q</alpha>
+<wordentry type="h"><form lang="en" lexeme="quarry(n)">QVarrie,</form> <xpln lang="en">is taken for the fowle which is flowne at, and
+slaine at any time, especially when young Hawkes are
+flowne thereunto. </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="para3r">
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="en" lexeme="rufter-hood(n)">RVfter-hood</form> <xpln lang="en">is the first hood which a Hawke weareth,
+being large, wide, and open behind. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="reclaiming(n)">Reclaiming</form> <xpln lang="en">is to tame, make gentle, or to bring a Hawke
+to familiaritie with the man. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raised in flesh(a)">Raised in flesh,</form> <xpln lang="en">is when a Hawke growes fat, or prospe-
+eth in flesh. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ramage(n)">Ramage</form> <xpln lang="en">is when a Hawke is wild, coy, or disdainfull to
+<emend err="he">the</emend> man, and contrary to be reclaimed. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="en" lexeme="sliming(n)">SLiming,</form> <xpln lang="en">is when a Hawke muteth from her longwaies
+in one intire substance, and doth not drop any part there-
+of. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stooping(n)">Stooping,</form> <xpln lang="en">is when a Hawke being vpon her wings at the
+height of her pitch, bendeth violentlie downe to strike the
+fowle or any other pray. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="summed(a)">Summ'd</form> <xpln lang="en">is when a Hawke hath all her feathers, and is
+fit either to be taken from the Crie or Mew. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="setting down(n)">Setting downe,</form> <xpln lang="en">is when a Hawke is put into the Mew</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sore-hawk(n)">Sore-hawke,</form> <xpln lang="en">is from the first taking of her from the eiry,
+till shee haue mewed her feathers. </xpln>
+<lemenote>
+"sore-hawk" not in OED as a phrasal noun.
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object=""><alpha>T</alpha>
+<wordentry type="h"><form lang="en" lexeme="trussing(n)">TRussing</form> <xpln lang="en">is when a Hawke raseth a fowle aloft, and so
+descendeth downe with it to the ground, </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="para3v">
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="en" lexeme="ungummed(a)">VN<emend err="s">g</emend>umm'd</form> <xpln lang="en">is when a Hawkes feathers are not come
+forth, or els not com'd home to their full length. </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="en" lexeme="weathering(n)">WEathering</form> <xpln lang="en">is when you set your Hawke abroad to
+take the aire, either by day or night, in the frost, or in
+the sunne, or at any other season. </xpln></wordentry>
+</wordgroup1>
+</page>
+</section>
+</leme>

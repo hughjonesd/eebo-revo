@@ -1,0 +1,182 @@
+<leme no="1204">
+<page sig="3r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+C a m b r i d g e U n i v e r s i t y L i b r a r y F f . I . 1 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Lexicon">
+
+<heading>
+english wordes usuall in
+the marches of wales.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="even(n)" lexeme="staff(n)">Evens. or staves evens.</form> <xpln lang="en">timb<expan type="">er</expan> quartered out for stafes but not made 
+into Staves.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="evil(n)">yevil.</form> <xpln lang="en" lexeme="muck fork(n)">a muckyevil. or muck forke.</xpln>
+<lemenote>
+"mucky-evil" not found in OED, but see "muck-fork," n.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gate(n)">Glat.</form> <xpln lang="en">a gate. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shard(n)">a sharde.</form> <xpln lang="en" lexeme="gate(n)">a gate.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="alder(n)">Orses.</form> <xpln lang="en" lexeme="alder tree(n)">ollers. alder trees.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sheame(n)">a Sheame of wood.</form> <xpln lang="en">an horse loade of woode <term lang="la">Su<expan type="">m</expan>magiu<expan type="">m</expan></term> /</xpln>
+<lemenote>
+"Sheame" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dingle(n)">a Dingle.</form> <xpln lang="en">a peece of ground scituate betwixt two hils.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rise(n)">a Rise.</form> <xpln lang="en" lexeme="eddering(n)">or etheringe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="by-let(n)">a By-let,</form> <xpln lang="en">a peece of grou<expan type="">n</expan>d co<expan type="">m</expan>passed about w<expan type="">i</expan>th wat<expan type="">e</expan>r</xpln>
+<lemenote>
+"By-let" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nook(n)">a nooke of errable lande,</form> <xpln lang="en">some say it is the land eu<expan type="">er</expan> <expan type="">that</expan> lyeth fallowe yet I have
+seen motion made of ij nook<expan type="">es</expan> of errable lande, a noke is the 
+4th. p<expan type="">ar</expan>te of a yd land &#38; co<expan type="">n</expan>taineth of the most p<expan type="">ar</expan>te about 15 acres.</xpln>
+<lemenote>
+See OED, "nook," 4b.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dark man(n)">a darke man,</form> <xpln lang="en" lexeme="blind(a)">a blinde ma<expan type="">n</expan>.</xpln>
+<lemenote>
+"darke man" not in the OED in this sense.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="twill(n)">a twil.</form> <xpln lang="en" lexeme="web(n)" lexeme="woof(n)" lexeme="hurds(n)">linnen cloth the web &#38; wofe being one of teere &#38; the oth<expan type="">er</expan> of hard<expan type="">es</expan>. q<expan type="">iury</expan> twi=file?</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fongell(n)">a fongell of corne.</form> <xpln lang="en" lexeme="leasing(n)">a handful of leasing<expan type="">es</expan> of corne /</xpln>
+<lemenote>
+"fongell" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="yoking(n)" lexeme="land(n)">a lownd or yoking,</form> <xpln lang="en">is as much as a teame ca<expan type="">n</expan> plowe in a day as much as
+3 bushels of barli wil so </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fine(n)" lexeme="finestal(n)">a Fine, or Finestal.</form> <xpln lang="en" lexeme="bullery(n)"><term lang="la">vinestallu<expan type="">m</expan></term> a place where thei lai wood for their buleries
+in droitw<expan type="">ich</expan> /</xpln>
+<lemenote>
+"fine" not found in OED in this sense, and "finistal" not found there.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wauling(n)">a wauling.</form> <xpln lang="en" lexeme="bullery(n)">or Bullery of salt wat<expan type="">er</expan> in droit w<expan type="">ich</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="undern(n)">a underne,</form> <xpln lang="en" lexeme="evening(n)">eveninge.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="loan(n)">a lewne.</form> <xpln lang="en" lexeme="levy(n)" lexeme="taxation(n)" lexeme="assessment(n)">alevy of monye taxation or assesm<expan type="">ent</expan>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fold(n)">a folde,</form> <xpln lang="en" lexeme="court(n)" lexeme="yard(n)">a courte or yarde.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hole(n)">in Hole</form> <xpln lang="en" lexeme="childbed(n)">or childbed.</xpln>
+<lemenote>
+See OED, "hole," n. 8.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tack(n)">tacke.</form> <xpln lang="en" lexeme="agisting(n)">taking of cattle to tacke, or aqishing of cattle /</xpln>
+<lemenote>
+"tack" in this sense (pasture) antedates the first OED citation (1804; see OED, "tack," n.2, 4).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tensty(n)">tensty.</form> <xpln lang="en"><expan type="">an</expan> yreli su<expan type="">m</expan>me of moni p<expan type="">aid</expan> in gdsal att Shuffenhal in coun<expan type="">tie</expan> Salop.</xpln>
+<lemenote>
+"tensty" not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leaker(n)">a leaker</form> <xpln lang="en" lexeme="headland(n)">or hedlond.</xpln>
+<lemenote>
+"leaker" not found in OED in this sense.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mere(v)">laudskerred &#38; meered out.</form> <xpln lang="en">p<expan type="">er</expan> landscarnd carnedd is an heape of stones &#38; in meaning out 
+y dividing of land<expan type="">es</expan> thei cast in the meers smal heapes of stones in wales. landscarred
+<term lang="la">qui ea<expan type="">m</expan> ynta<expan type="">n</expan>t et<expan type="">c</expan></term> land=skarres.</xpln>
+<lemenote>
+Possibly "landskerred", "landscarned", and "landscarred" are "land-scarred" (not in OED).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="haggard(n)">Hagard:</form> <xpln lang="en" lexeme="rick(n)">or ricke</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dinder(n)">Dinders.</form> <xpln lang="en">old Roma<expan type="">n</expan> coine. <term lang="la">n<expan type="">o</expan>ta</term> there is a hil in herefordshire so called
+Leetefieldes or co<expan type="">m</expan>ms field<expan type="">es</expan>.</xpln>
+<lemenote>
+"Dinders" antedates the earliest OED citation (1751).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="Gladmer(n)">a Gladmer</form> <xpln lang="en">is a device made of dry lether &#38; sowyd vp to geth<expan type="">er</expan>
+rou<expan type="">n</expan>d &#38; hollowe like a fut
+bal set uppon a staf &#38; filled w<expan type="">ith</expan> little stones This being shake<expan type="">n</expan> maketh 
+so feareful a noise to rattle that thei wil not endure w<expan type="">ith</expan> in the noice
+therof.</xpln>
+<lemenote>
+"Gladmer" (?="gladdener") not found in OED.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="teale(n)">a teale of pilcorme :?</form> <xpln lang="en"></xpln>
+<lemenote>
+"teale" and "pilcorme" have an unclear meaning here, "teal" seems to be a water-fowl, and "pilcorn" is oats. 
+</lemenote>
+</wordentry>
+</wordgroup1>
+
+
+
+
+</page>
+
+<page sig="1r">
+
+<heading>
+Northwals mesur<expan type="">es</expan>
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en">peckied.</form> <xpln lang="en" lexeme="peck(n)">a pecke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hobbet(n)">anherob.</form> <xpln lang="en"><term lang="la">p<expan type="">er</expan> hanu<expan type="">m</expan></term> hobed</xpln>
+<lemenote>
+"hobed" antedates the first OED citation of "hobbit," n. (1863).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hobbit(n)">hobed.</form> <xpln lang="en" lexeme="bushel(n)">a bushel or 4 pecks</xpln></wordentry>
+
+<wordentry type="h"><form lang="en">ne<damage></damage>lied.</form> <xpln lang="en">2 bushels.</xpln></wordentry>
+</wordgroup1>
+</section>
+
+
+
+</page>
+</leme>
+
+
+
+

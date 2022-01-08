@@ -1,0 +1,286 @@
+<leme no="170">
+<set tag="expression" lang="en">
+
+<page sig="H2v">
+<heading>
+A TABLE OF SIGNIFI&shy;
+CATION OF SOME WORDS
+AS THEY AR VSED BEFORE.
+
+Words. Significations.
+</heading>
+
+<wordentry type="h"><form lexeme="Abderois(pn)"><f type="i">ABderois. </form> <xpln><f type="r">Prophane &amp; delicate Epicurs.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abile(pn)"><f type="i">Abile. </form> <xpln><f type="r">A hill in <term><f type="i">Affrica<f type="r"></term>, one of the 
+<term><f type="i">Pillers<f type="r"></term> of <term><f type="i">Hercules.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Abraham(pn)"><f type="i">Abraham. </form> <xpln><f type="r">Father of the Iewes or the 
+faithfull.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Achelois(pn)" lexeme="imp(n)"><f type="i">Achelois <f type="r">Ympes. </form> <xpln lexeme="siren(n)" lexeme="mermaid(n)"><f type="r"><term><f type="i">Sirenes<f type="r"></term> or <term><f type="i">Mermaids.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Amram(pn)"><f type="i">Amram. </form> <xpln><f type="r">The father of <term><f type="i">Moyses.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Assur(pn)"><f type="i">Assur. <f type="r">A<f type="i">ssurs <f type="r">head. </form> <xpln lexeme="Assyria(pn)"><f type="r">the countrey of <term><f type="i">Assyria<f type="r"></term> or
+their king.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Assyrian(a)"><f type="i"><f type="r">A<f type="i">ssyrian <f type="r">Prince.</form> <xpln lexeme="Holophernes(pn)" lexeme="viceroy(n)" lexeme="general(n)"><f type="r"><term><f type="i">Holophernes.<f type="r"></term> Vizroy or g<expan type="e_">en</expan>rall.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Agamemnon(pn)"><f type="i">Agamemnon.</form> <xpln><f type="r">The generall of the <term><f type="i">Grekes<f type="r"></term>, 
+being present at the sacrificing of his onely
+Doughter was painted with a bend about his
+eies, either for th vnskilfulnes of the <term><f type="i">painter<f type="r"></term>, who
+could not sufficiently expres the fathers speciall
+teares, or els for that he thought it not decent
+to paint so mightie a Prince weeping, or vnna&shy;
+turall not to weepe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="aconite(n)"><f type="i"><f type="r">A<f type="i">conite.</form> <xpln><f type="r">A poisonable herbe.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Autan(pn)"><f type="i"><f type="r">A<f type="i">utan.</form> <xpln lexeme="south wind(n)"><f type="r">the South or south wind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Aurora(pn)"><f type="i"><f type="r">A<f type="i">urora.</form> <xpln lexeme="morning(n)"><f type="r">the morning.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Arphaxat(pn)"><f type="i"><f type="r">A<f type="i">rphaxat.</form> <xpln lexeme="Arbactus(pn)"><f type="r">supposed to be <term><f type="i"><f type="r">A<f type="i">rbactus<f type="r"></term>, King
+of <term><f type="i">Medes<f type="r"></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Atlas(pn)"><f type="i"><f type="r">A<f type="i">tlas.</form> <xpln><f type="r">A great <term><f type="i">Gyant.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Argus(pn)"><f type="i"><f type="r">A<f type="i">rgus.</form> <xpln><f type="r">Had a hundreth eyes.</xpln></wordentry>
+</page>
+
+<page sig="H3r">
+<wordentry type="h"><form lexeme="Alexander(pn)"><f type="i"><f type="r">A<f type="i">lexander.</form> <xpln><f type="r">The great.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Apelles(pn)"><f type="i"><f type="r">A<f type="i">pelles.</form> <xpln><f type="r">An excellent painter.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bethull(pn)" lexeme="Bethulia(pn)"><f type="i">Bethull or Bethulia.</form> <xpln><f type="r">the Citie where <term><f type="i">Iudith<f type="r"></term> dwelt.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Babel(pn)"><f type="i">Babell.</form> <xpln lexeme="Babylon(pn)"><f type="r"><term><f type="i">Babyl<expan type="o_">on</expan><f type="r"></term>, or the whole co<expan type="u_">un</expan>trey.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bellona(pn)"><f type="i">Bellona.</form> <xpln><f type="r">Goddesse of Battell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="bricole(n)"><f type="i">Briccoll.</form> <xpln><f type="r">an engine of warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Briarius(pn)"><f type="i">Briarius.</form> <xpln><f type="r">a Giant with a h<expan type="u_">un</expan>dreth h<expan type="a_">an</expan>ds.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Bacchus(pn)"><f type="i">Bacchus.</form> <xpln lexeme="wine(n)" lexeme="drunkenness(n)"><f type="r">Wyne or drunkennes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Boreas(pn)"><f type="i">Boreas.</form> <xpln lexeme="north(n)" lexeme="north wind(n)"><f type="r">the north or north wind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="camelion(n)"><f type="i">Camelion.</form> <xpln><f type="r">a beast that chaungeth his
+collours.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ctesiphon(pn)"><f type="i">Ctesiphon.</form> <xpln><f type="r">a cunning <term><f type="i"><f type="r">A<f type="i">rchitecture<f type="r"></term> or 
+builder.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="chaos(n)"><f type="i">Chaos.</form> <xpln><f type="r">a confusion before the worlds
+creation.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Capharois(pn)"><f type="i">Capharois.</form> <xpln><f type="r">TWO perilous Rocks.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cyanes(pn)"><f type="i">Cyanes</form> <xpln><f type="r">straits</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Calpe(pn)"><f type="i">Calpe.</form> <xpln><f type="r">A hill in <term><f type="i">Spaine<f type="r"></term> one of the pil&shy;
+lours of <term><f type="i">Hercules<f type="r"></term>.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cyprian(pn)"><f type="i">Cyprian <f type="r">Dame</form> <xpln lexeme="Venus(pn)" lexeme="love(n)" lexeme="lust(n)"><f type="r"><term><f type="i">Venus<f type="r"></term>, loue, or lust.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cupido(pn)"><f type="i">Cupido.</form> <xpln lexeme="love(n)" lexeme="lust(n)"><f type="r">Loue or lust.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corvey(n)"><f type="i">Coruies.</form> <xpln><f type="r">crooked yrons to draw down
+buildings.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Castor(pn)" lexeme="sister(n)"><f type="i">Castors <f type="r">sister.</form> <xpln lexeme="Helen(pn)"><f type="r"><term><f type="i">Helen<f type="r"></term> the dishonest wife of
+<term><f type="i">Menelaus.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="canace(n)"><f type="i">Canaces.</form> <xpln><f type="r">Incestuous wemen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circe(n)"><f type="i">Circes.</form> <xpln lexeme="witch(n)"><f type="r">witches, abusers of louers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Cyrene(pn)"><f type="i">Cyrene.</form> <xpln lexeme="drouth(n)"><f type="r">a dry sandy co<expan type="u_">un</expan>trie, or drouth.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Carmel(pn)"><f type="i">Carmell.</form> <xpln><f type="r">a montain in <term><f type="i"><f type="r">I</f>udea<f type="r"></term> or the whole c<expan type="o_">on</expan>trey.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Danow(pn)"><f type="i">Danow.</form> <xpln lexeme="Danubius(pn)"><f type="r"><term><f type="i">Danubius<f type="r"></term>, a riuer in <term><f type="i">Germanie.<f type="r"></term> </xpln></wordentry>
+</page>
+
+<page sig="H3v">
+<wordentry type="h"><form lexeme="Denis(pn)"><f type="i">Denis <f type="r">twice borne.</form> <xpln lexeme="Bacchus(pn)"><f type="r">Bachus.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Diana(pn)" lexeme="cynthia(n)"><f type="i">Diana <f type="r">or</f> Cynthia,</form> <xpln lexeme="Moone(n)"><f type="r">The Moone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Dina(pn)"><f type="i">Dina.</form> <xpln><f type="r">The daughter of <term><f type="i"><f type="r">I</f>acob.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">&AElig;giptian <f type="r">Queene.</f></form> <xpln lexeme="Cleopatra(pn)"><f type="r"><term><f type="i">Cleopatra<f type="r"></term> the Concubine of
+<term><f type="i">M. Antonius<f type="r"></term>, who swallowed a rich pearle.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Elimia(pn)"><f type="i">Elimia <f type="r">Land.</f></form> <xpln lexeme="Elamits(pn)"><f type="r">The Elamits.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Eeurus(pn)"><f type="i">Eurus.</form> <xpln lexeme="east(n)" lexeme="east wind(n)"><f type="r">The East, or East wind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="AEgean(pn)"><f type="i">&AElig;geans <f type="r">stable.</f></form> <xpln><f type="r">where horses deuoured men.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Encelade(pn)"><f type="i">Encelade.</form> <xpln><f type="r">a Giant burried vnder mount
+<hungword><term><f type="i">Etna.<f type="r"></term></hungword></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Genrall(pn)"><f type="i">Genrall.</form> <xpln lexeme="Holophernes(pn)"><f type="r"><term><f type="i">Holophernes.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Gibraltar(pn)"><f type="i">Gibaltar.</form> <xpln><f type="r">A Cittie in <term><f type="i">Spaine<f type="r"></term>, neare to 
+<term><f type="i">Calpe<f type="r"></term>-hill, one of the Pillers of <term><f type="i">Hercules.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Holopherne(pn)"><f type="i">Holopherne.</form> <xpln lexeme="Vizroy(n)"><f type="r">Vizroy, chiefe of the Armie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hermon(pn)"><f type="i">Hermon.</form> <xpln><f type="r">a Hill in <term><f type="i"><f type="r">I</f>udea<f type="r"></term>, or the co<expan type="u_">un</expan>trey
+<hungword>of <term><f type="i"><f type="r">I</f>udea.<f type="r"></term></hungword> </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Hesperian(pn)"><f type="i">Hesperian <f type="r">coste.</f></form> <xpln lexeme="west(n)"><f type="r">The west.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="hyade(n)"><f type="i">Hyade.</form> <xpln lexeme="water nymph(n)"><f type="r">a water nymph or watrie star.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="herault(n)"><f type="i">Heraults.</form> <xpln lexeme="apostle(n)" lexeme="preacher(n)"><f type="r">Apostles, or preachers.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jacob(pn)"><f type="i"><f type="r">I</f>acobs <f type="r">sonnes,</form> <xpln><f type="r">the people of <term><f type="i"><f type="r">I</f>zrell.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Israel(pn)" lexeme="Jacob(pn)"><f type="i"><f type="r">I</f>zrell <f type="r">or</f> <f type="r">I</f>acob.</form> <xpln lexeme="Judea(n)"><f type="r">the land of <term><f type="i"><f type="r">I</f>udea.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Isaac(pn)"><f type="i"><f type="r">I</f>zaak.</form> <xpln lexeme="Jews(n)"><f type="r">the people of the Iewes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ismael(pn)"><f type="i"><f type="r">I</f>smaell. </form> <xpln lexeme="Idumeans(pn)" lexeme="Edom(pn)"> <term><f type="i"><f type="r">I</f>dumeans<f type="r"></term> or <term><f type="i">Edom.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Ixion(pn)"><f type="i"><f type="r">I</f>xion.</form> <xpln><f type="r">One tormented in Hell</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jebus(pn)"><f type="i"><f type="r">I</f>ebus <f type="r">place.</f></form> <xpln lexeme="Jerusalem(pn)" lexeme="Sion(pn)"><f type="r"><term><f type="i"><f type="r">I</f>erusalem<f type="r"></term> or <term><f type="i">Syon.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Judith(pn)"><f type="i"><f type="r">I</f>udith.</form> <xpln><f type="r">of <term><f type="i">Bethulia<f type="r"></term> of the trybe of <term><f type="i">Ru&shy;
+<hungword>ben.</hungword><f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jesse(pn)" lexeme="race(n)"><f type="i"><f type="r">I</f>essies <f type="r">race.</form> <xpln><f type="r"><term><f type="i">Dauid<f type="r"></term> and his seede.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Jethro(pn)"><f type="i"><f type="r">I</f>ethro.</form> <xpln><f type="r">Father in law to <term><f type="i">Moyses.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Latmie(pn)"><f type="i">Latmies <f type="r">sonne.</f></form> <xpln lexeme="Endymion(pn)"><f type="r"><term><f type="i"><f type="r">E</f>ndymion<f type="r"></term>, the long sleper sup&shy;
+posed to lye with the Moone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Lysippus(pn)"><f type="i">Lysippus.</form> <xpln><f type="r">a cunning caruer.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monarch(n)"><f type="i">Monark.</form> <xpln><f type="r">One sole gouernour.</xpln></wordentry>
+</page>
+
+<page sig="H4r">
+<wordentry type="h"><form lexeme="Memphite(pn)"><f type="i">Memphits.</form> <xpln><f type="r">Men of that Cittie in <term><f type="i">&AElig;gypt.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Misraim(pn)"><f type="i">Misraim.</form> <xpln lexeme="Egypt(pn)"><f type="r">The land of <term><f type="i">Egypt.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mocmur(pn)"><f type="i">Mocmur.</form> <xpln><f type="r">the riuer neare <term><f type="i">Bethulia.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Momus(pn)"><f type="i">Momus.</form> <xpln><f type="r">a scornfull detractour of all
+<hungword>thing.</hungword></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Mars(pn)"><f type="i">Mars..</form> <xpln><f type="r">God of strife or battell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Myrrhaes(pn)" lexeme="Syllaes(pn)"><f type="i">Myrrhaes &amp; Syllaes.</form> <xpln><f type="r">wemen betrayers of their c<expan type="o_">on</expan>&shy;
+<hungword>trey.</hungword></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="minotaur(n)"><f type="i">Minotaurs.</form> <xpln><f type="r">Vnnaturall monsters.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Medusa(pn)"><f type="i">Medusaes.</form> <xpln><f type="r">furies of hell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Neptune(pn)" lexeme="back(n)"><f type="i">Neptunes <f type="r">back.</f></form> <xpln lexeme="sea(n)"><f type="r">the Sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Niphathaei(pn)"><f type="i">Niphath&aelig;i.</form> <xpln><f type="r">A mightie strong Roch or
+mountaine in Syria.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Palestine(pn)"><f type="i">Palestene.</form> <xpln><f type="r">the land of the <term><f type="i">Philistins.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pharia(pn)"><f type="i">Pharia.</form> <xpln><f type="r">a famous tower in <term><f type="i">Egypt.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phlegon(pn)"><f type="i">Phlegon.</form> <xpln><f type="r">One of the foure horses that
+was supposed to draw the sunne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phoebus(pn)"><f type="i">Ph&oelig;bus.</form> <xpln lexeme="sun(n)"><f type="r">the sunne.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Phoebe(pn)"><f type="i">Ph&oelig;be.</form> <xpln lexeme="moon(n)"><f type="r">His sister the moone.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Proteus(pn)"><f type="i">Proteus.</form> <xpln><f type="r">A man changing him selfe in
+sundry formes, there is a fish of like nature.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Priam(pn)"><f type="i">Priams <f type="r">wife.</form> <xpln lexeme="Hecuba(pn)"><f type="r"><term><f type="i">Hecuba<f type="r"></term> the honorable.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pellmell(n)"><f type="i"><emend err="Peslmell">Pellmell</emend>.</form> <xpln><f type="r">all mixt confusedly together.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ram(n)"><f type="i">Ramme.</form> <xpln><f type="r">an ingine of warre for battrie.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sina-hill(pn)"><f type="i">Sina-<f type="r">hill.</f></form> <xpln lexeme="Sinai hill(pn)"><f type="r"><term><f type="i">Sinai<f type="r"></term>-hill.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Salem(pn)"><f type="i">Salem.</form> <xpln lexeme="Jerusalem(pn)"><f type="r"><term><f type="i"><f type="r">I</f>erusalem.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Solyma(pn)"><f type="i">Solyma.</form> <xpln lexeme="Jerusalem(n)"><f type="r"><term><f type="i"><f type="r">I</f>erusalem.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sichem(pn)"><f type="i">Sichem.</form> <xpln><f type="r">the rauisher of <term><f type="i">Dina.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Sabean(pn)" lexeme="queene(n)"><f type="i">Sabean <f type="r">Queene.</f></form> <xpln><f type="r">Sabours of <term><f type="i">Saba<f type="r">land</f>.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Simeon(pn)"><f type="i">Simeon.</form> <xpln><f type="r"><term><f type="i">Dinaes<f type="r"></term> brother.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Scythic Rampier(pn)"><f type="i">Scythique Rampier.</form> <xpln><f type="r">The tombe of <term><f type="i">Semele<f type="r"></term>, mother
+of <term><f type="i">Bacchus.<f type="r"></term></xpln></wordentry>
+</page>
+
+<page sig="H4v">
+<wordentry type="h"><form lexeme="Styx(pn)"><f type="i">Styx.</form> <xpln><f type="r">a Riuer in hell.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sympathy(n)"><f type="i"><f type="r">S</f>ympathie.</form> <xpln><f type="r">Concordance of natures and
+<hungword>things.</hungword></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sentinel(n)"><f type="i"><f type="r">S</f>entinelles.</form> <xpln lexeme="watchman(n)"><f type="r">watchmen.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="semiram(n)"><f type="i"><f type="r">S</f>emirames.</form> <xpln lexeme="virago(n)"><f type="r">wemen <term><f type="i">Viragoes.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Syrtes(pn)"><f type="i"><f type="r">S</f>yrtes.</form> <xpln><f type="r">Dangerous sands.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="satrap(n)"><f type="i"><f type="r">S</f>atrap.</form> <xpln lexeme="prince(n)"><f type="r">Prince.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="stymphalid(n)"><f type="i">stymphalids.</form> <xpln lexeme="harpy(n)"><f type="r">Rauenous foules with female
+faces <term><f type="i">Harpyes.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Syrian(pn)"><f type="i"><f type="r">S</f>yrian <f type="r">camp.</f></form> <xpln><f type="r">the Hoste of <term><f type="i">Holophernes.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Semel(pn)"><f type="i"><f type="r">S</f>emels <f type="r">sonne.</f></form> <xpln lexeme="Bacchus(pn)" lexeme="wine(n)"><f type="r">Bacchus or wine.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="transparent(a)"><f type="i">Transparant.</form> <xpln><f type="r">that which may <emend err="">be</emend> seene throgh 
+and whole like glasse.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="tortuse(n)"><f type="i">Tortus&eacute;.</form> <xpln><f type="r">An engine of warre.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="trepan(n)"><f type="i">Trepan.</form> <xpln><f type="r">An engine of warre.</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">The forrain tyde.</form> <xpln lexeme="Noah's flood(n)"><f type="r">Supposed to haue beene the 
+flood of <term><f type="i">Noah<f type="r"></term>, or the deluge of <term><f type="i">Deucalion<f type="r"></term> that
+<emend err="uided">deuided</emend> <term><f type="i">Affrica<f type="r"></term> from <term><f type="i">Europe<f type="r"></term>, &amp; <term><f type="i">Sicilia<f type="r"></term> fr<expan type="o_">om</expan> <term><f type="i"><f type="r">I</f>talia.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Thetis(pn)"><f type="i">Thetis.</form> <xpln lexeme="sea(n)"><f type="r">The sea.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thurim(n)"><f type="i">Thurims.</form> <xpln><f type="r">Deceitfull Aduocats.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Theban(pn)"><f type="i">Theban <f type="r">knight.</f></form> <xpln><f type="r">Captain of the Grekes army.</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Theefe that stole 
+the fire.</form> <xpln lexeme="Prometheus(pn)"><f type="r"><term><f type="i">Prometheus<f type="r"></term>, who stole fire fr<expan type="o_">om</expan>
+<term><f type="i"><f type="r">I<f type="i">upiter.<f type="r"></term></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zedechias(n)"><f type="i">Zedechias.</form> <xpln><f type="r">Last king of the Iewes.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zephyrus(pn)"><f type="i">Zephyrus.</form> <xpln lexeme="west(n)" lexeme="west wind(n)"><f type="r">West or west wind.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Zeuxis(pn)"><f type="i">Zeuxis.</form> <xpln><f type="r">A painter of <term><f type="i"><f type="r">I</f>talie<f type="r"></term>, who being
+required to paint the picture of <term><f type="i">Helen<f type="r"></term>, desired to
+haue all the fairest wemen of <term><f type="i"><f type="r">C</f>roto<f type="r">n<f type="r"></term> to be pre&shy;
+sent for his paterne.</xpln></wordentry>
+
+<closing>
+F I N I S.
+</closing>
+</page>
+</leme>

@@ -1,0 +1,377 @@
+<leme no="180">
+
+<page no="76">
+<section type="glossary">
+Strange words, and affected phrases, which the
+Iesuits in their Latin translation of the English Te&shy;
+<f type="i">stament haue without need vsed, as it may<f type="r">
+seeme for these causes:
+
+<f type="i">First, to show their fine eloquence, and thereby to mooue their sim&shy;
+ple readers and hearers to admire them, who commonly
+haue in admiration such strange things as
+they do not vnderstand.
+
+<f type="i">Secondly, to make the Scripture darke and hard to be vn&shy;
+derstood of the vnlearned people, and so to depriue
+them of that profit and comfort
+which they might re&shy;
+cieue by it.
+
+<f type="i">And lastly, for that they would as much dissent,
+and as little agree with vs, as
+they might<f type="r">.
+
+<wordentry type="h"><f type="i"><form lexeme="dismiss(v/x)">Matt.<f type="r"> 1, 19 Dismisse hir, </form> <xpln lexeme="put away(v)"><f type="i">for<f type="bl"> put away.</xpln></wordentry>
+
+<wordentry type="h"><f type="r"><form lexeme="adore(v/x)">2, 2 Adore, </form> <xpln lexeme="worship(n)"><f type="i">for<f type="bl"> worship.</xpln></wordentry>
+
+<wordentry type="h"><f type="r"><form lexeme="deluded(a/x)">16 Deluded. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="desert(n/x)">3, 1 Desert. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="scandalize(v/x)">5, 30 Scandalize. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superstantial(a/x)">6, 11  Supersubstantiall. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="darkness, exterior(n/x)">8, 12 Exterior darknes. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gratis(adv/x)">10, 8 Gratis, </form> <xpln lexeme="freely(adv)"><f type="i">for<f type="r"> fr&eacute;ely.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proposition, loaves of(n/x)">12, 4 Loaues of proposition. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impose his hands(v/x)">19, 13 Impose his hands. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="consummation(n/x)">24, 14 Consummation, </form> <xpln lexeme="end(n)"><f type="i">for<f type="r"> end.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Advent(pn/x)">27 Aduent. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Pasche(pn/x)">26, 2 Pasche. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="day of Azymes(n/x)">17 Day of azymes. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="corbon(n/x)">27, 6 Corbona. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="sindon(n/x)">59 Syndon. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="monument(n/x)">60 Monument. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Parasceve(pn/x)">62 Parasceue. </form> <xpln></xpln></wordentry>
+</page>
+
+<page no="77">
+<wordentry type="h"><f type="i"><form lexeme="explicated(a/x)">Mark.<f type="r"> 4, 34 Explicated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="avarice(n/x)">7, 21 Auarices, </form> <xpln lexeme="impudicity(n)">impudicities.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="incredulous(a/x)">9, 19 Incredulous. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="victim(n/x)">49 Victime. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="holocaust(n/x)">12, 33 Holocausts. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="refectory(n/x)">14, 14 <emend err="Refertorie">Refectorie</emend>. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="transfer(v/x)">36 Transferre. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="infirm(a/x)">38 Infirme. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exprobated(a/x)">16, 14 Exprobrated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="exulation(n/x)">Luke<f type="r"> 1, 14 Exultation. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="congratulate(v/x)">58 Congratulate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="erected(a/x)">69 Erected. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="orient from an high(n/x)">78 The orient from an high. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illuminate(v/x)">79 To illuminate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calumniate(v/x)">3, 14 Calumniate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obsecration, make(n/x)">5, 33 Make obsecrations. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inundation(n/x)">6, 48 Inundation. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="gurmander(n/x)">7, 34 A gurmander. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="decease(v/x)">9, 31 Decease. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="designed(a/x)">10, 1 Designed. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="superogate(v/x)">35 Supererogate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exactor(n/x)">12, 58 Exactor. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="argue of sin(v/x)">Iohn<f type="r"> 8, 46 Argue me of sinne. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="indurated(a/x)">12, 40 Indurated their hart. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Paraclete(pn/x)">14, 116 Paraclete. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="torrent Cedron(n/x)">18, 1 The torrent Cedron. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contaminated(a/x)">28 Contaminated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="time(n/x)">Acts<f type="r"> 1, 7 Times </form> <xpln lexeme="moment(n)">or moments. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="elevated(a/x)">9 He was eleuated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prevaricate(v/x)">25 Hath preuaricated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="compunct in heart(a/x)">2, 37 Were compunct in hart. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circumventing our stock(v/x)">7, 19 Circumuenting our stocke </form> <xpln lexeme="expose(v)">expose their chil&shy;
+dren.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="invocating(v/x)">59 Inuocating. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="evangelizing(v/x)">8, I2 Euangelizing. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="expugned(a/x)">9, 21 Expugned </form> <xpln lexeme="invocated(a)">those that inuocated this name.</xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="excess of mind(n/x)">Acts<f type="r"> 10, 10 Excesse of mind. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="converse(v/x)">11, 26 Conuersed there in the Church. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="avert the proconsul(v/x)">13, 8 Auerte the proconsull. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contradict(v/x)">45 Contradicted those things. </form> <xpln></xpln></wordentry>
+</page>
+
+<page no="78">
+<wordentry type="h"><f type="i"><form lexeme="immolated(a/x)">Acts.<f type="r"> 15, 29 Immolated to idols. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="insinuating(v/x)">17, 3 Insinuating. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="violated(a/x)">21, 28 Violated this holy place. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emulator of the Law(n/x)">22, 3 An emulator of the Law. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="delivering into custody(v/x)">4 Deliuering into custodies. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="converse before(v/x)">23, I Haue conuersed before God. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="turpitude, working(n/x)">Rom.<f type="r"> 1, 27 Working turpitude. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="detraction(n/x)">31 Detractions, </form> <xpln lexeme="odible(a)">odible to God.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="longanimity(n/x)">2, 3 Longanimitie, </form> <xpln lexeme="benignity(n)">benignitie. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prevarication of the Law(n/x)">23 Preuarication of the Law. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prepuce(n/x)">26 If then the prepuce keepe the Iustices of the
+Law</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impious(a/x)">4, 5 Impious. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="complanted(a/x)" lexeme="similitude(n/x)">6, 5 Complanted to the Similitude. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="condign(a/x)">8, 18 Condigne to the glorie. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="operiate(v/x)">28 All things operiate vnto good. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="indurate(v/x)">9, 18 Indurate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contumely(n/x)">21 Vnto contumelie. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emulate(v/x)">11, 11 Emulate them. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="host, living(n/x)">12, 1 A liuing host. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="co-adjutor(n/x)">1. <f type="i">Cor.<f type="r"> 3, 9 Gods coadiutors. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="profundity(n/x)">2, 10 Yea the profundities of God. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="deputed(a/x)">4, 9 Deputed to death. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="pedagogue(n/x)">4, 15 Tenne thousand pedagoges. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="Azyme(pn/x)" lexeme="immolated(a/x)">5, 7 As ye are azimes, for our pasche Christ is im&shy;
+molated.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="thing, secular(n/x)">6, 3 Secular things. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="fornicate(v/x)">18 He that doth fornicate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="franchised(n/x)">7, 22 Is the franchised of our Lord. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="participate withe altar(v/x)">9, 13 Participate with the altar. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emulate(v/x)">22 Do we emulate our Lord. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="commemoration(n/x)">11, 24 Commemoration of me. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emulator(n/x)">14, 12 Be emulators of spirits. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="abortive(a/x)">15, 8 Of an Abortiue. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="conversed(a/x)">2. Cor.<f type="r"> I. I2 Haue conuersed in this world. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adulterating(v/x)">2, 17 Adulterating the word of God. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illumination(n/x)">4, 4 Illumination of the Gospell. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="dilated(a/x)">6, 13 Be you also dilated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="inquination(n/x)">7, 1 Inquination of our flesh. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="instance, daily(n/x)">11, 28 My daily instance. </form> <xpln></xpln></wordentry>
+</page>
+
+<page no="79">
+<wordentry type="h"><f type="i"><form lexeme="expugned(a/x)">Galat.<f type="r"> 1, 13 Expugned it, </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proscribed(a/x)">3, 1 Was proscribed. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="evacuated(a/x)">5, 4 Euacuated from Christ. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="ebriety(n/x)">21 Ebrieties, </form> <xpln lexeme="commessation(n)">commessations. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="preoccupated(a/x)">6, 1 Preoccupated in any fault. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="domestical(n/x)">110 Domesticals of faith. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="coelestial(n/x)">Ephes.<f type="r"> 1, 3 In c&oelig;lestials.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="acquisition(n/x)">14 To the redemption of acquisition. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illuminated(a/x)">18 Eies of your hart illuminated. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="evacuating(v/x)">2, 14 Euacuating the law. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coheir(n/x)" lexeme="concorporate(a/x)" lexeme="comparticipant(n/x)">3 6 Coheires and concorporate and compartici&shy;
+pant. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="prefinition(n/x)">9 To the prefinition of worlds. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="impudicity(n/x)">4, 19 To impudicitie, </form> <xpln>vnto the operation of all vn&shy;
+cleannes, vnto auarice. </xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contristrate(v/x)">30 Contristate </form> <xpln>not the spirit.  </xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="exaninate(v/x)">Phillip.<f type="r"> 2, 7 He exinanited himselfe. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="immolated(a/x)">17 If I be immolated. </form> <xpln lexeme="congratulate(v)">congratulate with you all.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="emulation(n/x)">3, 6 According to emulation. </form> <xpln>conuersing without
+blame.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="configurated(a/x)">9 Configurated to his death. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vocation(n/x)" lexeme="supernal(a/x)">14 Supernall vocation. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="adulation(n/x)">1. <f type="i">Thess.<f type="r"> 2, 5 In the word of adulation. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="advent(n/x)">4, 15 In the aduent of our Lord. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="moment(n/x)">5, 1 Moments. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="contaminate(n/x)">1. <f type="i">Tim.<f type="r"> 1I, 9 To the wicked and contaminate. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="neophyte(n/x)">3, 6 Not a Neophyte. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="detracting(v/x)">11 Not detracting. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="depositum(n/x)">6, 20 Keepe the depositum. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resuscitate(v/x)">2. <f type="i">Tim.<f type="r"> 1I, 6 That thou resuscitate the grace of God. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="time, secular(n/x)">9 Secular times. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="illumination(n/x)">110 By the illumination of our Sauiour. </form> <xpln lexeme="illuminated(a)">illumina&shy;
+ted life.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="averted(a/x)">15 Be auerted from me. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="resolution, time of(n/x)">4, 6 Time of my resolution. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="consummate(v/x)">Hebr.<f type="r"> 2, 110 To consummate the author of their saluation. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="repropitiate(v/x)">17 That he might repropitiate the Sinnes of the
+people. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obdurate(a/x)">3, 12 Be obdurate with the fallacie of Sinne. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="obdurate(v/x)" lexeme="exacerbation(n/x)">13 That none of you obdurate your harts as in
+</page>
+
+<page no="80">
+the exacerbation.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="inexplicable(a/x)">Hebr.<f type="r"> 5, 11 Inexplicable to vtter. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="interpose(v/x)">6,17 He interposed an oth. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="precursor(n/x)">20 Where Iesus the precursor for vs. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="indissoluble(a/x)">7, 15 Of life indissoluble. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="proposition of loaves(n/x)">9, 2 Proposition of Loaues. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="test(v/x)">17 Whiles he that tested liueth. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="exhaust(v/x)">28 To exhaust the sinnes of many. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="holocaust(n/x)">10, 6 Holocausts and for sinne did not please thee. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="remuneration(n/x)">35 Which hath a great remuneration. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="circuit(v/x)">11, 30 By circuiting seuen daies. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="repugning(v/x)">12, 4 Repugning against sinne. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="promerited(a/x)">13, 16 And beneficence and communication do not
+forget, for with such hosts God is promeri&shy;
+ted.</form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="detract(v/x)">Iames.<f type="r"> 4, 11 Detract not one from an other. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="calumniate(v/x)">1. <f type="i">Pet.<f type="r"> 3, 16 Which Caluminate your good conuersation. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="world, original(n/x)">2. <f type="i">Pet.<f type="r"> 2, 5 Originall world. </form> <xpln>Bringing in the deluge vpon
+the world of the impious.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="coinquination(n/x)">13 Coinquinations, </form> <xpln lexeme="delicacy(n)">delicacies.</xpln></wordentry>
+
+<wordentry type="h"><form lexeme="longanimity(n/x)">3, 15 The Longanimitie of our Lord. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="annunciation(n/x)">1. <f type="i">Iohn.<f type="r"> 1, 5 This is the Annuntiation which. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="impious(a/x)">Inde ve.<f type="r"> 114 Impious, </form> <xpln lexeme="impiety(n)" lexeme="impiously(adv)">impietie, impiously.</xpln></wordentry>
+
+<wordentry type="h"><f type="i"><form lexeme="dominical(a/x)">Apoc.<f type="r"> 1, 10 Dominicall day. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="vested(a/x)">13 Vested in a princely garment. </form> <xpln></xpln></wordentry>
+
+<wordentry type="h"><form lexeme="turpitude(n/x)">16, 15 See his turpitude. </form> <xpln></xpln></wordentry>
+
+These be the fine words wherewith our fine Iesuites
+haue sought to beautifie this there translation, of which I
+<note type="m">
+<f type="i"><expression lang="la">Hieron. lib. 1. ad&shy;
+uersus Iouinian.</expression>
+</note>
+may say as S. <f type="i">Hierom<f type="r"> sometime said. <expression lang="la"><f type="i">Rogo qu&aelig; sunt h&aelig;c
+portenta Verborum?</expression><f type="r"> that is, I pray th&eacute;e what monstrous
+words be these? And as <f type="i">Demosthenes<f type="r"> said, these be not <expression lang="gk">&#x1FE4;&#x03AE;&#x03BC;&#x03B1;&#x03C4;&#x03B1;</expression>
+but <expression lang="gk">&#x03B8;&#x03B1;&#x03CD;&#x03BC;&#x03B1;&#x03C4;&#x03B1;</expression>, not words but wonders. This is not to obey the
+<note type="m">
+<f type="i"><expression lang="la">Nazianzen. de mo&shy;
+dest. seruanda in
+disput.</expression>
+</note>
+wise counsell of <f type="i">Gregorie Nazianzene<f type="r"> who saith: <expression lang="gk">&#x1F14;&#x03C7;&#x03B3; &#x03C4;&#x03C9;&#x0303;&#x03BD;
+&#x03C3;&#x03C5;&#x03BD;&#x03C4;&#x03B6;&#x03BF;&#x03C6;&#x03C9;&#x0303;&#x03BD; &#x1FE4;&#x03B7;&#x03BC;&#x03AC;&#x03C4;&#x03C9;&#x03BD;</expression>. that is, vse natiue and common words. Nor
+to doo the office of a good interpretor, whose dutie is as S. <f type="i">Hi&shy;
+<note type="m">
+<f type="i"><expression lang="la">Hieron. ad Mar&shy;
+cellam, tom. 4</expression>
+</note>
+erom<f type="r"> saith, <expression lang="la"><f type="i">Non quo ipse disertus appareat, &c. </expression><f type="r">Not that he
+should s&eacute;eme to be eloquent himselfe, but to make him that
+readeth it, so to vnderstand it, as he that write it.
+</page>
+</section>
+</leme>

@@ -1,0 +1,1292 @@
+<leme no="102">
+<page sig="*1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 4 3 3 5
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="title-page">The eyght bookes of
+Caius Iulius C&#230;sar contey&#173;
+ning his martiall exploytes in
+the Realme of Gallia and the
+Countries bordering vppon 
+the same translated oute
+of latin into English
+by Arthur Gold&#173;
+dinge G.
+
+Imprinted at London
+by Willyam Seres
+
+Anno. 1565
+</section>
+
+</page>
+
+<page sig="Mm1r">
+<section type="glossary">
+<heading>
+AN EXPOSITION OF
+the old names of the Countries, Ci&#173;
+ties, Townes, Hilles, and Riuers mentioned
+in this booke, together with a descrip&#173;
+tion of certaine Engines of warre
+vsed in those dayes by
+the Romanes.
+</heading>
+
+<wordgroup1 type="a" object="A">
+<wordentry type="h">
+<form lexeme="Advatics(n)"><f type="bk"/>ADVATICKES.</form> <xpln>PEO&#173;
+ple of Belgicke betwene Lo<emend err="">&#173;</emend>
+uan and Aldenburg in Bra&#173;
+band nowe called people of 
+Bosleduke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Agendicum(pn)">Agendicum.</form> <xpln>a Towne of the
+Senons in Celticke called Sens or Pro&#173;
+uince.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Alduasdubis(pn)" lexeme="Alduasdusius(pn)">Alduasdubis, or, after Ptolome Alduasdusius</form>
+<xpln lexeme="Dubius(pn)" lexeme="Doux(pn)">a Riuer of Celticke, rising about the mount 
+S. Claud and deuidinge Burgundye from
+Swicerland, whiche falleth into the ryuer
+Soan not far from the Citie Cabillon: it is
+now called in Latin <term lang="la">Dubius</term> and in Fr<expan type="">en</expan>ch
+<term lang="fr">Doux.</term></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Alexia(pn)">Alexia</form>, <xpln lexeme="Alset(pn)" lexeme="Lausoys(pn)" lexeme="Alyse(pn)" lexeme="Arras(pn)">a Towne of Celticke in Burgundye
+nor far from Langres nowe called Alset, or
+Lausoys or Alyse, as Raym<expan type="">un</expan>d Marlian af&#173;
+firmeth in his Annotacions vppon Cesars
+Commentaries. But according to thopini&#173;
+
+</page>
+
+<page sig="Mm1v">
+on of Ioseph Molet in his Commentaries
+vpon Ptolomies Geographie it is a town
+of Artoys in Belgicke called Arras.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Aliobrogians(pn)">Aliobrogians</form> <xpln>people of Prouince conteyning
+the Countries of Sauoy and Delphinoys.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Alps(pn)">Alpes</form> <xpln>the high hilles which deuide Fraunce
+and Italy a sunder.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ambarrians(pn)"><emend err="Ambarrrians"> Ambarrians</emend></form>, <xpln>people of Celticke supposed of
+some to be the people of Burbon: &#38; of some,
+the people of Niuers. Jucundus calleth th<expan type="">em</expan>
+the people of Semar and Montar.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Amagetobria(pn)">Amagetobria</form> <xpln lexeme="Toaut(pn)">a place in Celticke where Ari&#173;
+ouistus kinge of the Germanes vanquished
+the power of the Galles, not far from the
+Rhine, supposed to be called Toaut.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ambians(pn)">Ambians</form> <xpln>a people of Picardy about the citye
+Amiens: it is in Belgicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ambibarets(pn)">Ambibarets</form> <xpln>people also adioyning to the citie
+Amiens.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ambibarians(pn)">Ambibarians</form> <xpln>a people of littell Britaine in
+Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ambuiates(pn)">Ambiliates</form> <xpln>the people of Auranches in littell
+Britaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ambivarits(pn)">Ambiuarits</form>, <xpln><expan type="">the</expan> people of Braband in Belgick</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Andians(pn)">Andians</form>, <xpln>the people of Aniow in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Antuates(pn)">Antuates</form> <xpln>the people of Vawd in Sauoy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Aquileia(pn)">Aquileia</form> <xpln>a towne of Italy at the Gulf of Ve&#173;
+nice vpon the riuer Natilone.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Armoricke(pn)">Armoricke</form> <xpln>the country of littell Britaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ardeine(pn)">Ardeine</form> <xpln>a forest in Belgicke beginning at the
+Rhine and so runninge by the space of more
+than fiue hundred miles throughe the terri&#173;
+tory of Triers to the entr<expan type="">an</expan>ce of the boundes
+
+</page>
+
+<page sig="Mm2r">
+of Rhemes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Arar(pn)">Arar</form> <xpln lexeme="Soan(pn)">a riuer of Celticke nowe called Soan
+which springeth in the borders of Burgun&#173;
+dy and Loreyn not far from the mountayne
+Vosegus, and falleth into Rhone at Lions</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Arecomikes(pn)" lexeme="Aremikes(pn)" lexeme="Artomikes(pn)">Arecomikes, or Aremikes, or Artomikes</form> <xpln>peo<emend err="">&#173;</emend>
+ple of Arminacke in Prouince.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Atrebatians(pn)">Atrebatians</form> <xpln>the people of Artoys in Belgick </xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Auaricum(pn)">Auaricum</form> <xpln lexeme="Viarron(pn)">the town of Viarron, or Bourges
+in Berrey in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Auenticum(pn)">Auenticum</form> <xpln lexeme="Avench(pn)" lexeme="Wilburg(pn)">the towne of Auench in the coun&#173;
+trye of Vaud, or the towne of Wilburg.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Aulerkes(pn)">Aulerkes</form> <xpln>people of Celticke sometime retey&#173;
+ners of the Heduanes, now called people of
+Auge or of Roane.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Aulerkes(pn)" lexeme="Cenomannes(pn)">Aulerkes Cenomannes</form>, <xpln>the people of Mayne
+in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Aulerkes(pn)" lexeme="Deabolites(pn)" lexeme="Diablinthres(pn)">Aulerkes Diabolites or  Diablinthres</form>, <xpln>the
+people Leondull.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Anscians(pn)" lexeme="Auscitanes(pn)">Anscians, or Auscitanes</form> <xpln>people about Aux in
+Aquitaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Axona(pn)">Axona</form> <xpln lexeme="Disne(pn)" lexeme="Aesne(pn)">the name of twoo riuers thone called
+Disne in Guien, and thother in Belgicke in
+the countrye of Rhemes called Aesne.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B">B.
+<wordentry type="h">
+<form lexeme="Bacenis(pn)">Bacenis</form> <xpln lexeme="Swartswald(pn)">a forest in Germanye whyche some
+suppose to be part of the forest Hercinia which
+runneth through Germany euen to the bor&#173;
+ders of the Dacers, and the fenne of Meo&#173;
+tis, it is now called Swartswald.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Baleare(pn)">Baleares</form> <xpln lexeme="Majorica(pn)" lexeme="Minorica(pn)">are two Ilands in the midland sea 
+nere vnto Spaine, wherof thone is called
+
+</page>
+
+<page sig="Mm2v">
+Maiorica and thother Minorica.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Batavians(pn)">Batauians</form> <xpln>the Hollanders a people of Bel&#173;
+gicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Bellocassians(pn)">Bellocassians</form> <xpln>a people of Celtick about Ba&#173;
+yews.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Beliovacanes(pn)">Bellouacanes</form> <xpln>the people of Beawuoysin in 
+Celtik.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Bibract(pn)">Bibract</form> <xpln lexeme="Beawne(pn)">the towne of Beawne in the Duchy
+of Burgundy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Bibrax(pn)">Bibrax</form> <xpln lexeme="Bray(pn)">the town of Bray by the riuer Aesne
+in Belgicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Biturigians(pn)">Biturigians</form> <xpln>the people of Berrey in Celtick</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Bibrokes(pn)">Bibrokes</form> <xpln>people of greate Britaine inhabi&#173;
+ting the sea coast whose Englyshe name is
+yet vnknowen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Bigerrones(pn)">Bigerrones</form> <xpln>the people of Bierne and Bigor
+in Aquitaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Boians(pn)">Boians</form> <xpln lexeme="Bavier(pn)" lexeme="Burbon(pn)">a people somtime of Germany mar&#173;
+ching vpon Franconia, thalpes of Italy, the
+sowtherne Swoabes, &#38; the riuer Danow,
+the which country is nowe called Bauier.
+Theis passing the Rhine in the time of Ce&#173;
+sar and takinge part with the Heluetians,
+against him, being vanquished were placed
+by him vnder the iurisdiction of the Hedu&#173;
+anes (whych now with the Sequanes are
+called Burgonions,) in the country which
+now is called Burbon in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Brannovians(pn)" lexeme="Brannovikes(pn)">Brannouians or Br<expan type="">an</expan>nouikes</form> <xpln lexeme="Moriane(pn)">people of Cel&#173;
+ticke called Moriane nere vnto Burgundy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Bratuspantium(pn)">Bratuspantium</form> <xpln>a town of Beawuoysin.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C">C.
+<wordentry type="h">
+<form lexeme="Cabillon(pn)">Cabillon</form> <xpln lexeme="Chalons(pn)">the towne of Chalons in Burg<expan type="">un</expan>dy
+
+</page>
+
+<page sig="Mm3r">
+vpon the riuer Soan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Cadetes(pn)">Cadetes</form> <xpln>the people of Hipercorentiue or as
+some think) of Castlebri<expan type="">an</expan>t in littel Britain.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Cadurkes(pn)">Cadurkes</form> <xpln>the people of Cahors in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Cherusciens(pn)">Cherusciens</form> <xpln>people of Germanye inhabiting
+sometime those countries wheras are nowe
+the territories of the Princes of Anholt,
+Stolberg, Maunsfield, and Swartzburg.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ceresians(pn)">Ceresians</form> <xpln>a people of Germany.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Caletanes(pn)">Caletanes</form> <xpln>the people about Calis in Belgick</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Cantabrians(pn)">Cantabrians</form> <xpln>the people of Biscay in Spain.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Carnutes(pn)">Carnutes</form> <xpln>the people about Charters in Cel&#173;
+ticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Carcasons(pn)">Carcason</form> <xpln>a city in Prouince called Caracass<expan type="">on</expan></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Catuakes(pn)">Catuakes</form> <xpln>people about Doway.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Caturigians(pn)">Caturigians</form> <xpln>theis with the Garoceles and
+Centrones are nowe the people of Taran&#173;
+tayse vnder the dominion of the Duke of 
+Sauoy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Cauillons(pn)">Cauillon</form> <xpln>bereath the same name still. it is a
+citye in Prouince.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Centrones(pn)">Centrones</form> <xpln><xref>loke Caturigians</xref>. the chiefe citye
+of thys country is called Munster.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Cimbrians(pn)">Cimbrians</form> <xpln>people of Germany whyche helde
+somtime al the coast of Megalburg eu<expan type="">en</expan> vn&#173;
+to Cimbrica.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Chersonesus(pn)">Chersonesus.</form> <xpln>Theis passing the Rhine before 
+Cesars time &#38; leauing certain to kepe their 
+stuffe &#38; baggage which they left in Fra<expan type="">un</expan>ce, 
+made a viage into Italye. of them discende 
+those that are now thinhabiters of Zeland.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Condrusians(pn)">Condrusians</form> <xpln>the people betwene Vtreight &#38;
+Iuliers.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="Mm3v">
+<wordentry type="h">
+<form lexeme="Creta(pn)">Creta</form> <xpln>the Ile of Candy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Curiosolites(pn)">Curiosolites</form> <xpln>the people of Cornewal in littell
+Britaine.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="D">D.
+<wordentry type="h">
+<form lexeme="Diabliters(pn)">Diablinters</form> <xpln>people aboute Londull in littell
+Britaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Daces(pn)">Daces</form> <xpln>a people beyond the Rhine boundinge
+vppon the Riuer Danow and the forest of
+Hartswald who are supposed to haue some&#173;
+time inhabited a piece of Hungary and from
+thence remoued to the hither parte of Nor&#173;
+wey.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Danow(pn)">Danow</form> <xpln lexeme="Pontus(pn)">one of <expan type="">the</expan> famousest riuers in Europe
+which (as Solinus affirmeth) risinge in
+the hilles of Germany and receyuing into it
+lxx. riuers all able to beare ships, lastlye fal&#173;
+leth with seuen mouthes into the sea called
+Pontus.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E">E.
+<wordentry type="h">
+<form lexeme="Eburones(pn)">Eburones</form> <xpln>the people of Liege in Belgicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Eburonikes(pn)" lexeme="Eburovikes(pn)">Eburonikes or Eburouikes</form> <xpln>the people of
+Eureux in Celticke</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Elaver(pn)">Elauer</form> <xpln lexeme="Allyer(pn)">a riuer of Celticke now called Allyer
+runneing by Cleremount in Auverne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Essuans(pn)">Essuans</form> <xpln>the people of Retelais beyond Tou&#173;
+ray.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F">F.
+<wordentry type="h">
+<form lexeme="Flustates(pn)">Flustates</form> <xpln>the people of the county of Flusse in
+Aquitaine.</xpln>
+</wordentry>
+</wordgroup1>
+
+</page>
+
+<page sig="Mm4r">
+<wordgroup1 type="a" object="G">G.
+<wordentry type="h">
+<form lexeme="Gaballes(pn)">Gaballes</form> <xpln>the people of Lodesue in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Garites(pn)">Garites</form> <xpln>the people of Agenoys in Guien.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Garumnes(pn)">Garumnes</form> <xpln>people of Aquitaine by the Riuer
+Gerond wherof they take their name.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Gerond(pn)">Gerond</form> <xpln>a riuer that springeth out of the mo<expan type="">un</expan><emend err="">&#173;</emend>
+taines Pyrenes and falleth into the weste
+Ocean accordinge to Cesar, it deuideth A&#173;
+quitaine from Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Garocels(pn)">Garocels</form> <xpln><xref>loke in Caturigians.</xref></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Gebenna(pn)">Gebenna</form> <xpln lexeme="Cemnii(pn)">the mountaines called also Cemenij
+nowe named the mountaines of Auverne,
+which seperate Celticke from Prouince ac&#173;
+cording vnto Cesar.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Genabum(pn)">Genabum</form> <xpln lexeme="Orleance(pn)">the city of Orleance vpon the riuer
+Loyre.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Geneva(pn)">Geneua</form> <xpln>a city of Sauoy standing vp<expan type="">on</expan> Rhone
+not farre from the Lake Losan, oute of the
+which town there is a bridge into Swicer&#173;
+land.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Gergobia(pn)" lexeme="Gergovia(pn)">Gergobia or Gergouia</form> <xpln lexeme="Cleremount(pn)">the Towne of Clere&#173;
+mount in Auverne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Gordunes(pn)">Gordunes</form> <xpln>the people of Gaunt in Flaunders</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Grudians(pn)">Grudians</form> <xpln>people about Louane.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H">H.
+<wordentry type="h">
+<form lexeme="Harutes(pn)">Harutes</form> <xpln>people inhabiting vppon the further
+side of the Rhine about the city Constance.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Heduanes(pn)">Heduanes</form> <xpln>a people of Celticke who together
+with the Sequanes are nowe the Burgo&#173;
+nions.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Helvetians(pn)">Heluetians</form> <xpln>the Switzers or Swicers and
+
+</page>
+
+<page sig="Mm4v">
+(and as some holde opinion) the Quades.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Helvians(pn)">Heluians</form> <xpln lexeme="Albians(pn)">people bordering vp<expan type="">on</expan> Auverne now
+called Albians.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Hercinia(pn)">Hercinia</form> <xpln><xref>loke Bacenis.</xref></xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="I">I.
+<wordentry type="h">
+<form lexeme="Iura(pn)" lexeme="Iurassus(pn)">Iura, or Iurassus</form>, <xpln lexeme="Mount St. Claud(pn)" lexeme="Leverberg(pn)" lexeme="Jarten(pn)">a Mountaine in Celticke
+which deuideth Burgundye from Swicer&#173;
+land. it is nowe called mount S. Claud. of
+the Swicers it is called Leuerberg: and of
+the men of Sauoy Iarten.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Itius(pn)">Itius</form> <xpln lexeme="Portus(pn)">portus the towne of Calis.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Illericke(pn)">Illericke.</form> <xpln lexeme="Slavony(pn)">this and Dalmatia are called both
+by the name of Slauony.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="L">L.
+<wordentry type="h">
+<form lexeme="Lacobrigians(pn)" lexeme="Latogrigians(pn)" lexeme="Latouikes(pn)">Lacobrigians or Latobrigians or Latouikes</form>
+<xpln>the people of Losan. vnder the Duke of Sa<emend err="">&#173;</emend>
+uoy. or the people of Valoys.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Leman(pn)">Leman</form>, <xpln lexeme="Losan, Lake(pn)">the Lake of Geneua called also Lake
+Losan.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Lemouikes(pn)">Lemouikes</form> <xpln><expan type="">the</expan> people of Limosins in Celticke</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Lepontians(pn)">Lepontians</form> <xpln lexeme="Switers(pn)" lexeme="Rhinwalders(pn)">the people of Graundpunter, or
+(as Marlian sayth) the people called Swi&#173;
+ters inhabiting betwene the heade of the ri&#173;
+uer Rhone and the Alpes of Rhetia, among
+whome springeth the Riuer Rhine. Giles
+Tschude affirmeth they be now called Rhin<emend err="">&#173;</emend>
+walders.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Leuakes(pn)">Leuakes</form> <xpln>the people of Louane accordinge to
+Marlian.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Lewkes(pn)">Lewkes</form> <xpln>the people of the Bishoprick of Tul
+or Toll in Celticke.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="Mm5r">
+<wordentry type="h">
+<form lexeme="Lexobians(pn)" lexeme="Lexovians(pn)">Lexobians or Lexouians</form> <xpln>the people of Ly&#173;
+siewx in Celticke in the duchie of Norm<expan type="">an</expan>dy</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Lingones(pn)">Lingones</form> <xpln>the people of Langres in the sayde
+Bishopricke of Tull in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Loire(pn)">Loyre</form> <xpln>a riuer which springeth in lowe Bur&#173;
+gundy and running through Celticke (ac&#173;
+cording to Cesar) falleth into the west O&#173;
+cean. but according to Ptolomie it deuideth
+Celticke from Aquitaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Lutetia(pn)">Lutetia</form> <xpln lexeme="Paris(pn)">the Citye of Paris standinge vppon
+Seane accompted vnto Belgick. it is now
+the head city of Fraunce.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M">M.
+<wordentry type="h">
+<form lexeme="Menapians(pn)">Menapians</form> <xpln>the people of Gelderlande and
+Cleueland. or as some suppose the people of
+Iuliers in Belgicke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Mandubians(pn)">Mandubians</form> <xpln lexeme="Alexia(pn)" lexeme="Lausoys(pn)">a people of Celticke about the
+Citie Alexia called now Lausoys.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Marcomannes(pn)">Marcomannes</form> <xpln lexeme="Marecomana(pn)">people of Germanye beyonde
+the Rhine which came ouer with Artoui&#173;
+stus and afterward inhabited the valey that
+bordereth vpon Swicerland which is called
+Marecomana next vnto high Burgundy &#38;
+the mountaine Iura: with whom M. An&#173;
+tonius themperour surnamed the Philoso&#173;
+pher had long and perillous warre, vntyl at
+length beinge vanquished by the prayers of
+the Christians they submitted themselues.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Marne(pn)">Marne</form>, <xpln>a riuer rising in the borders of Lan&#173;
+gres whiche runneth throughe Shalons in
+Campaine and deuiding partlye the Celtes
+fr<expan type="">om</expan> the Belgies falleth into Seane a littell
+
+</page>
+
+<page sig="Mm5v">
+aboue Paris.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Matiscon(pn)">Matiscon</form> <xpln lexeme="Mascon(pn)" lexeme="Macon(pn)">a city of Celticke by the riuer So&#173;
+an in the borders of low Burg<expan type="">un</expan>dy betwene
+the townes of Lions and Cauill<expan type="">on</expan>. it is now
+called Mascon or Macon.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Maze(pn)" lexeme="Meuse(pn)">Maze or meuse</form> <xpln>a riuer which springeth out of
+the mountaine Vogesus in Celticke in the
+borders of Langres not far from the heades
+of Marne and Soan, and takinge into it
+an arme of the Rhine called Walis aboute
+fowerscore miles from the sea it maketh an
+Iland which is called Holland.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Mediomatrikes(pn)">Mediomatrikes</form> <xpln>the people of Lorein aboute
+Mets.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Meldians(pn)">Meldians</form> <xpln>people of Meaulx.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Melodunum(pn)">Melodunum</form> <xpln lexeme="Melune(pn)">a towne in an Iland of the ri&#173;
+uer Seane nere vnto Parris called Me&#173;
+lune.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Metiosedum(pn)" lexeme="Iosedum(pn)">Metiosedum or Iosedum</form> <xpln lexeme="Corbeil(pn)">a towne vppon the
+riuer Seane called Corbeil.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Morines(pn)">Morines</form> <xpln>the people of Tirwin in Belgicke 
+or (as Ioseph Molet sayth) the Flemings.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N">N.
+<wordentry type="h">
+<form lexeme="Nannets(pn)">Nannets</form> <xpln>people of Na<expan type="">un</expan>tes in Britaine Bri&#173;
+tonant.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Nantuates(pn)" lexeme="Antvates(pn)">Nantuates or Antuates</form> <xpln>people of Germanie
+on thys syde the Rhyne about Constance,
+called the people of Vawd.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Narbone(pn)">Narbone</form> <xpln>the chief Cytie of Prouince wherof
+all the Prouynce was called Narbonensis.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Nemets(pn)">Nemets</form> <xpln>the people about Spire.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Nitiobriges(pn)" lexeme="Nitiobrigians(pn)">Nitiobriges or Nitiobrigi<expan type="">an</expan>s</form> <xpln>people of Mo<expan type="">un</expan>t
+
+</page>
+
+<page sig="Mm6r">
+pelyer in Celticke, Vzes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Neruians(pn)">Neruians</form> <xpln>the people aboute Tornay in Bel&#173;
+gycke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Noreia(pn)">Noreia</form> <xpln>the city of Norimberg in Germanye.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Noricum(pn)">Noricum.</form> <xpln>the country about the sayd city.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Noviodunum(pn)">Nouiodunum</form> <xpln lexeme="Noyon(pn)">the name of thre cities. wher&#173;
+of one is in Belgicke, not far from Paris,
+and is called Noyon. thother twoo are in
+Celtycke thone in the countrye of Berrey
+nere vnto Bourges, and thother in lowe
+Burgundy at the ryuer Loyre.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Numidians(pn)">Numidians</form> <xpln>people of Affrycke.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="O">O.
+<wordentry type="h">
+<form lexeme="Ocelum(pn)" lexeme="Oscellum(pn)">Ocelum, (whyche also is called Oscellum)</form> <xpln>a
+towne in Piemount by the ryuer Daria.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Octodure(pn)">Octodure</form> <xpln lexeme="Martanach(pn)">the city Martanach in lower Va&#173;
+loys.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Orcinia(pn)">Orcinia</form> <xpln><xref>loke Bacenis</xref>.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Osissines(pn)">Osissines</form> <xpln>the people of Landgriguer in Bry&#173;
+tayne.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P">P.
+<wordentry type="h">
+<form lexeme="Parthians(pn)">Parthians</form> <xpln>a people of Asia.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Petrocorians(pn)">Petrocorians</form> <xpln>the people of Perrygort in A&#173;
+quitaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Pictones(pn)">Pictones</form> <xpln>the people of Poyters in Aquitain.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Pleumosians(pn)">Pleumosians</form> <xpln lexeme="Flemings(pn)">the Flemynges.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Precianes(pn)">Precianes</form> <xpln>people of Aquitayne nere vnto
+Bierne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Pirustes(pn)">Pirustes</form> <xpln>people of Dalmatia whych now is
+a part of Slauony.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Po(pn)">Po</form>, <xpln>the chyef ryuer of Italy whych ryseth at
+
+</page>
+
+<page sig="Mm6v">
+the foote of the mountayne Vesulus and af&#173;
+terward receyuing xxx. ryuers into him fal&#173;
+leth wyth seuen chanelles into the Adria&#173;
+ticke sea.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Pyrenes(pn)">Pyrenes</form>, <xpln lexeme="Foyes(pn)" lexeme="Rounceval(pn)">the Mountaynes whyche deuyde
+Fraunce from Spayne they are now called
+the mountaynes of Foyes and Rounceual.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R">R.
+<wordentry type="h">
+<form lexeme="Rauracians(pn)">Rauracians</form> <xpln>people of Celticke about Basill.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Rhedones(pn)">Rhedones</form> <xpln>people about Rhenes in Britaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Rhegium(pn)">Rhegium</form> <xpln lexeme="Pelorus(pn)">a tow<emend err="">n</emend>e in Italye on the sea coast o&#173;
+uer agaynst the promontary of Sicill called
+Pelorus.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Rhemes(pn)">Rhemes</form> <xpln>a towne in Champaine in Belgycke 
+and the people of the country therabout.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Rhone(pn)">Rhone</form> <xpln>a ryuer rysing out of thalpes whyche
+deuydeth the Romane Prouynce from the
+Swycers, and then turning into the south,
+cutteth through the myds of the Prouince,
+and lastly falleth into the mydland sea.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ruthenes(pn)">Ruthenes</form> <xpln>a people of the Prouynce called
+Rhodes.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S">S.
+<wordentry type="h">
+<form lexeme="Sabis(pn)">Sabis</form> <xpln>the ryuer Sambre in Belgyck which
+runneth into Maze by the Towne of Na&#173;
+mures.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Samarobrina(pn)">Samarobrina</form> <xpln>the town of Cambray in Bel&#173;
+gycke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Santones(pn)">Santones</form> <xpln>the people of Santon in Aquitain.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Scaldis(pn)">Scaldis</form> <xpln>the riuer Skeld in Belgycke it run&#173;
+neth through Tornay &#38; falleth into Maze.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="Mm7r">
+<wordentry type="h">
+<form lexeme="Seine(pn)">Seane</form> <xpln>a Ryuer rysinge nere the borders of
+Langres and lowe Burgundy in <expan type="">the</expan> coun&#173;
+try of Alcet. It runneth through Paris, &#38;
+deuidinge Celticke from Belgicke falleth
+into the Britysh Ocean by Newhauen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Sebusians(pn)" lexeme="Secusians(pn)" lexeme="Segusians(pn)">Sebusians, Secusians, or Segusians</form> <xpln> people
+of Celticke nere vnto Sauoy and Burgun<emend err="">&#173;</emend>
+dy betwene the dyocesses of Lausan and Li&#173;
+ons whych by coniecture shoulde be aboute
+the Citye Bizance. or the people of Bresse.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Sedunes(pn)" lexeme="Sedusians(pn)">Sedunes or Sedusians</form> <xpln>the people aboute Si&#173;
+on in Valoys.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Senons(pn)">Senons</form> <xpln>the people of Sens in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Sequanes(pn)">Sequanes</form> <xpln><xref lexeme="Heduanes">looke Heduans.</xref> </xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Sycambers(pn)">Sycambers</form> <xpln>the people of Gelderland.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Swessions(pn)">Swessions</form> <xpln><expan type="">the</expan> people of Soysons in Belgick.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Swevians(pn)">Swevians</form> <xpln lexeme="Swoabs(pn)" lexeme="Pomeranes(pn)">people on the furthersyde of the
+Rhyne nowe called the Swoabes, or (as
+Melancthon affirmeth) the Pomeranes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Soane(pn)">Soan</form> <xpln><xref>loke Arar.</xref></xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T">T.
+<wordentry type="h">
+<form lexeme="Tarbelles(pn)">Tarbelles</form> <xpln>the people about Tarb or Bayon
+in Guyen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Tarusats(pn)">Tarusats</form> <xpln>the people about Turse in Guyen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Tectosages(pn)">Tectosages</form> <xpln>the people of Languedock in Pro<emend err="">&#173;</emend>
+uince.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Teucthers(pn)">Teucthers</form> <xpln>somtyme a people of Germany be&#173;
+yond the Rhyne now thought to be the peo&#173;
+ple of Iulyers on thys syde the Rhyne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Tiguryne(pn)">Tiguryne</form> <xpln>the Canton of Zurich in Swicer&#173;
+land.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Toulouse(pn)">Tolous</form> <xpln>a citye in Prouynce.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="Mm7v">
+<wordentry type="h">
+<form lexeme="Tolosatians(pn)">Tolosatians</form> <xpln>people of the co<expan type="">un</expan>try about <expan type="">the</expan> city.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Trevires(pn)">Treuires</form> <xpln>people of Tryers and the countrye
+thereabouts.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Tribokes(pn)">Tribokes</form> <xpln>the people about Strawsbrough</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Turones(pn)">Turones</form> <xpln>the people about Towres vppon
+Loyre in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Tulingians(pn)">Tulingians</form> <xpln>the people of Loreyne.</xpln>
+</wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V">V.
+<wordentry type="h">
+<form lexeme="Vangions(pn)">Vangions</form> <xpln>the people of wormbes and there&#173;
+aboutes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vatuca(pn)" lexeme="Varuta(pn)" lexeme="Ratuca(pn)">Vatuca, Varuta, or Ratuca</form> <xpln>as some suppose
+was a Castell wheras is now the towne of
+Iulyers.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vacalos(pn)">Vacalos</form> <xpln lexeme="Walis(pn)">an arme of the Rhyne called walis
+whych falleth into the ryuer Maze.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Ubians(pn)">Vbians</form> <xpln>the people about Colon on the other
+side of the Rhyne.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vellaunians(pn)">Vellaunians</form> <xpln>the people of Vellay about S.
+Flowre in Celticke.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vellaunodunum(pn)">Vellaunodunum</form> <xpln lexeme="Villeneuf(pn)">Villeneuf in Loreine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Venets(pn)">Venets</form> <xpln>the people of Vannes in Britaine.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Veragrians(pn)">Veragrians</form> <xpln>people of lower Valoys aboute
+Martanach.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Veromanduans(pn)">Veromanduans</form> <xpln>the people of Vermandoys
+in Picardy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vesontio(pn)">Vesontio</form> <xpln lexeme="Besanson(pn)">the City Besanson in Burgundy.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vienna(pn)">Vienna</form> <xpln lexeme="Vien(pn)">the citye of Vien in Delphynoys.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vuelles(pn)">Vuelles</form> <xpln>the people of Perche.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vocontians(pn)">Vocontians</form> <xpln><xref>loke in Centrones.</xref></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Vogesus(pn)" lexeme="Vosegus(pn)">Vogesus or Vosegus</form> <xpln>a Mountayne in the
+marches of Langres, out of the whyche the
+Maze spryngeth.</xpln>
+</wordentry>
+
+</page>
+
+<page sig="Mm8r">
+<wordentry type="h">
+<form lexeme="Volces Tectosages(pn)">Volces Tectosages</form> <xpln>are the people of L<expan type="">an</expan>gue&#173;
+docke about Avinion.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Volces Arecomickes(pn)">Volces Arecomickes</form> <xpln><xref>loke Arecomikes.</xref></xpln>
+</wordentry>
+
+<wordentry type="h">
+<form lexeme="Uxeliodunum(pn)">Vxeliodunum</form> <xpln lexeme="Cadenacke(pn)">the Citie Cadenacke in Quer&#173;
+cye in Celticke.</xpln>
+</wordentry>
+</wordgroup1>
+
+<closing>
+FINIS
+</closing>
+</section>
+
+<section type="prosedescription">
+<wordgroup1 type="topical">
+<wordentry type="h">
+<form location="margin" lexeme="battle ram(n)">Battel
+Ram.</form>
+<xpln lexeme="tortoise(n)" lexeme="sythe(n)"><f type="bk"/>O<f type="bl"/>F the battell Ram Vegetius in hys
+iiij. booke of cheualry maketh a shorte
+dyscription, lykenyng it to the engine
+called a Tortoyse, in these words.  Of
+tymber and wordes is framed the Tortyse:
+whych bycause it shuld not be hurt with fier,
+is couered wyth rawe hydes, or wyth hayres
+and course cloth. Thys inwardly receyueth a
+beame whych is armed before wyth a hooked
+piece of yron called a Sythe bycause it boweth
+inwarde to pull stones out of the wall wyth.
+Or elles is the head thereof clad wyth steele,
+and it is called a Ram, eyther bicause it hath a
+very hard front, whych pusheth vp the wals,
+or els bicause after the manner of Rammes it
+goeth backe to thentent to stryke wyth grea&#173;
+ter violence. Nowe the Tortoyse hathe hys
+name of his lykenesse to the true Tortoyse: bi&#173;
+cause that as the Tortoyse sometyme putteth
+forth her head &#38; sometyme draweth it into her
+shell agayne: so the engy<emend err="u">n</emend>e doth one whyle put
+backe the beame and another whyle thruste it
+forward agayn to thentent it may stryke with
+greater vyolence, theis are the wordes of Ve&#173;
+
+</page>
+
+<page sig="Mm8v">
+getius. Iosephus in hys booke of the warres
+in Iewry descrybeth it in thys wyse. The ma&#173;
+ner of the yron Ram sayth he is thus. Fyrste
+they take a great long thycke beame: vpon the
+forepart wherof they put a great strong heade
+made lyke vnto a Rammes head with hornes
+all of pryncipal strong yron the weight wher&#173;
+of is asmuche as halfe the beame, and couereth
+the beame also to the myds. Then fasten they
+into the ground against the place that they in&#173;
+tend to batter, two great trees lyke mastes of
+shyppes, betwene whych they hang the beame
+that is called the Ram wyth stronge ropes of
+hemp and yron wyer twysted together. At
+the hynder part of thys beame from the wall&#173;
+warde are rynges of yron fastened wyth lyke
+ropes of hemp and iron wier tied to them, that
+when thassaulters wil batter the walles, they
+pushe forward the beame as though it were a
+speare, and fasten hys stronge hornes amonge
+the stones of the wal, then hang they weights
+at the rynges in the hynder parte, and muche
+people a far of take hold of the ropes that come
+through the rynges behynd, and hale the hyn&#173;
+der part of the beame vpon the ground, by such
+meanes that they shake the wall, and wrinch
+out the stones, so that afterwarde the walles
+fall downe. There be also (as the same author
+in the same place affirmeth) other Rammes
+that are driu<expan type="">en</expan> vpon wheles by force of people
+after the same sort and facion. Leonarde Are&#173;
+tine in hys first boke of the warres in Italye
+agaynst the Gothes describeth it in this wyse.
+
+</page>
+
+<page sig="Nn1r">
+Fower postes  (sayth he) of lyke heygth equal&#173;
+ly distant are set square one agaynste another,
+and fastened wyth fower beames aboue and
+as many beneath, so that they st<expan type="">an</expan>d like a prety
+square house: the whych is couered ouer wyth
+leather to thentent that such as are wythin it
+should not be hurt from the walles. Alofte is
+layde a beame ouerthwhart, at thend wherof
+hangeth downe another beame as it were to
+the middel of the pyllars fastened wyth plates
+of yron, the which hath a great square head of
+steele lyke an Anuield. The whole engyne is
+drawen vpon fower wheles fastned in the fete
+of the pillers, and when it is remoued, there
+are not fewer than fifty souldiers within it to
+driue it forward. who after the time they haue
+brought it to the wall, do wyth a wynche wey
+by the foresayde beame, and when they haue it
+aloft let it fall wyth all the sway and violence
+it hath. Then the head of the beame beyng let
+downe, partly wyth vyolence of the men and
+partly wyth weyght of it selfe fallyng vppon
+the wall doth batter and breake in pieces all
+that euer it lighteth vp<expan type="">on</expan>. There are also other
+facions of the battell Ram: whych whoso de&#173;
+sireth to know, shall finde them playnlye des&#173;
+crybed, about the latter end of the tenth booke
+of Robert Valtur concernyng Cheualry.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="vine(n)" lexeme="vinet(n)">Vines or
+Vinets.</form> 
+<xpln>Vines or Vynets are engynes compacted
+of smaller tymber eyght foote hygh, seuen fote
+brode, and six fote l<expan type="">on</expan>g. the roof wherof is made
+<emend err="d">b</emend>oth of tymber and boordes, and the sydes are
+splenten to defend them that are wythin from
+
+</page>
+
+<page sig="Nn1v">
+stones and other weapons and artillerye sent
+from the walles, and to saue theym from fier,
+they be couered with rawe hydes. Manye of
+theis were w<expan type="">on</expan>t to be made and set one by one
+on a rowe for menne to goe vnder sauflye to
+vndermyne and dygge downe the walles of
+Townes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="muscle(n)">muscules</form>
+<xpln>Muscules so called of their likenesse to the
+Muscles in the sea, were lesser engynes much
+of <expan type="">the</expan> same makyng that the Vinets are, vnder
+whych men of war went sauf to fill vp the di&#173;
+ches and to make playne and leuell the waye,
+for the mouable towres to come to the wals.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="plutie(n)">Pluties</form>
+<xpln lexeme="penthouse(n)" lexeme="shed(n)">Pluties (whych in this boke I haue trans&#173;
+lated penthowses and sheddes) were engines
+of wycker made lyke a helmet couered ouer
+with raw hydes or hayres whych went vp<expan type="">on</expan>
+three wheles whereof two were before &#38; one
+in the middes, and were moueable euery way
+at pleasure like a wagon. vnder the defence of
+the whiche souldiers didde beat the defendan&#173;
+tes from the walles, wyth shotte of arrowes,
+crossebowes, slinges. &#38;c. that their fellowes
+myght the easier come to scaling. They were
+also P<expan type="">en</expan>thowses ioyned to the moueable tow&#173;
+res to beare of the violence of artillerye from
+them that fought within at the loopeholes and
+windowes.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="legion(n)" lexeme="cohort(n)">Legion.
+Cohort</form>.
+<xpln>Euery Legion (as sayeth Vegetius) consi&#173;
+sted of ten Cohortes. Wherof the first Cohort
+had in it a thousand a hundred and fyue foote&#173;
+men, and a hundred and two and thyrty hors&#173;
+men. The seconde Cohort had in it fyue hun&#173;
+
+</page>
+
+<page sig="Nn2r">
+dreth fifty and fiue fotemen, and threscore and
+six horsmen, and so had lykewyse all the other
+eyght so that a ful Legion c<expan type="">on</expan>sisted of six thou&#173;
+sand and a hundred fotemen and <emend err="seuenhundred">seuen hundred</emend>
+xxvi. horsemen.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="tribune(n)">Trubune</form>
+<xpln lexeme="marshall(n)">Of Tribunes (which we call Marshalles)
+there were two in euery Legion. The hygh or
+Chyefmarshall was alwayes admytted and
+assigned by the letters patentes of the Empe&#173;
+ror, and before there were Emperors, by the
+Lieuetenant generall of the field. The vnder
+marshall was promoted thereto for hys good
+seruice. The Tribune or Marshall hadde al&#173;
+ways the leadyng of the fyrst Cohort. and his
+duty was to see al the whole Legion wel fur&#173;
+nished, decked, garnyshed, practysed, and exer&#173;
+cysed, and therfore it behoued hym to be a man
+of great knowledge and experience,</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="centurion(n)">Centuri<expan type="">on</expan></form>
+<xpln>There were in euery Legion. 155. Centu&#173;
+rions. of whom the chief who was called C<expan type="">en</expan>&#173;
+nturio principili (or Captayn of the chief band)
+had the charge of 400. souldyers.</xpln>
+</wordentry>
+
+<wordentry type="h">
+<form location="margin" lexeme="lieutenant(n)">Lieuete&#173;
+nant.</form>
+<xpln>The Liuetenant accordynge to hys name
+supplyed the roume of the Generall when he
+was absent.</xpln>
+</wordentry>
+</wordgroup1>
+
+<closing>
+<term lang="la">
+FINIS.
+</term>
+</closing>
+</section>
+
+</page>
+</leme>

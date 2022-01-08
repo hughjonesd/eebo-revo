@@ -1,0 +1,277 @@
+<leme no="1401">
+<page sig="*1r">
+<section type="Title-page">
+THE PARFAIT
+MARESCHAL,
+or Compleat 
+FARRIER. 
+WHICH TEACHETH, 
+
+I. To know the Shapes and Goodness, as well as Faults and Imperfections of Horses. 
+II. The Signs and Causes of their Diseases, the Means to prevent them, their Cure, 
+and the good or bad use of Purging and Bleeding. 
+III. The way to order and Preserve them, when upon Travel, to Feed, and to Dress 
+them. 
+IV. The Art of Shoeing, according to a new design of Shoes, which will recover 
+bad feet, and preserve the Good. 
+
+Together with a Treatise, how to raise and bring up a true and Beautiful Race of 
+Horses: As also Instructions, whereby to fit all kinds of Horses with Proper 
+Bits, whereof the chief Draughts are Represented in Copper-plates.
+
+Written originally in French by the Sieur de 
+Solleysel Escuyer, sometime one of the Overseers of 
+the French Kings Royal Academy of Riding, near 
+to the Hostel de Conde in Paris. 
+
+And translated from the last Paris impression, by Sir WILLIAM HOPE 
+of Kirkliston Kt. Lieutenant Governour of the Castle of Edinburgh. By 
+whom is also added as a Supplement to the first part, a most compendious and 
+excellent Collection of Horsemanship, taken from the best and most modern 
+Writers upon that Subject, such as Mr. De la Brow, Pluvinel, and the Great 
+Duke of Newcastle. 
+
+Part I. 
+
+EDINBURGH.
+Printed by GEORGE MOSMAN, M. DCXCVI.
+</section>
+</page>
+
+<page sig="*********">
+<section type="Glossary">
+<heading>
+AN 
+EXPLICATION 
+OF 
+Some French Terms of Horseman&shy;
+ship, mentioned in this Book.
+</heading>
+
+<wordgroup1 type="a" object="A"><alpha>A</alpha>
+<wordentry type="h"><form lang="fr">AIDES.</form> <xpln lang="en">Are Assistances or Helps, which the 
+Rider draws from the gentle and delicate 
+Effects of the Bridle, Cavezon, Spurs, Rod, 
+Action of his Legs, and pressure of his Thighs; 
+As also from the sound or Clack of his Tongue, 
+to make a Horse ride just, and as he ought: They 
+are also made use of to prevent Chastisements, 
+which a man is sometimes obliged to make use 
+of, while he is a dressing Horses. See Suppl. p. 26 &amp;c</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">AIR. An Air,</form> <xpln lang="en">is a Cadence and Liberty of 
+movement, accommodate to the natural Dispo&shy;
+sition of a Horse, which maketh him Ride, and 
+Raise himself, according to the Riders Inclinati&shy;
+on, and that both in measure and Cadence: 
+They are generally reckoned to be six. See 
+Supplement. p. 36</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">AMBLE.</form> <xpln lang="en">See Suppl. p. 33. and 60</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">APPUY. <term lang="en">An</term> Appuy</form> <xpln lang="en" lexeme="bars(n)">may be considered 
+several ways, as First, it may be taken for a 
+Reciprocal Sentiment or Feeling, betwixt the 
+Rider's hand, and the Horse's mouth: 2ly. For 
+a Horse's rest upon the Bit mouth: And 3ly. For 
+the Pressure of the Bit-mouth on the Barrs</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">APPUY &agrave; Pleine-main.</form> <xpln lang="en">Is a firm Pressure of 
+a Horse's Barrs against the Bit-mouth, but how&shy;
+ever, so as not to be heavy on the Rider's hand; 
+and this is a Quality which all Horses appointed 
+for the Warrs, ought to have; because they are 
+thereby the more sure for the Rider, who in time 
+of Action, cannot be supposed to consider atten&shy;
+tively the Aides of his Bridle-hand.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">APPUY au de l&agrave; de Pleine-main.</form> <xpln lang="en" lexeme="appui(n)">Is a very 
+hard pressure of a Horse's Barrs against the Bit-&shy;
+mouth, but however, so as not to force the 
+Rider's hand, and therefore may be turn'd, and 
+Stopt with a little strength: This kind of Appuy 
+is thought convenient for such people, as hav&shy;
+ing weak Thighs, cannot keep themselves firm 
+on Horse-back with them, and therefore hold 
+fast, and cleave to the Bridle-reins.</xpln>
+<lemenote>
+"Appuy" as an English term antedates the earliest OED citation (1728).
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="fr">ARMER.</form> <xpln lang="en">See Part 1. p. 254 and Supple&shy;
+ment p. 66</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="B"><alpha>B</alpha>
+<wordentry type="h"><form lang="fr">BALOTTADE.</form> <xpln lang="en">See Suppl. p. 36</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="C"><alpha>C</alpha>
+<wordentry type="h"><form lang="fr">CAPRIOLE.</form> <xpln lang="en">See Suppl. p. 36</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">CAVESSON.</form> <xpln lang="en" lexeme="cavesson(n)" lexeme="musrol(n)">A Cavezon, is a kind of 
+Musrole or Nose-band, made either of Iron, 
+Leather, or Rope, sometimes flat upon the inside, 
+and sometimes hollow, as also twisted, and which 
+is placed by help of a Head-stale upon a Horse's 
+Nose, the better to constrain him, and assist the 
+Rider in the suppling of his Shoulders: Those 
+of Iron, flat upon the inside, and also quilted 
+with soft Leather, are most proper for this, and 
+those of Cord or Leather fittest to be made use 
+of betwixt the Pillars.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">CHEVALER.</form> <xpln lang="en">See <term lang="fr">Passager</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">CORVET.</form> <xpln lang="en">See Suppl. p. 36</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">CROUPADE.</form> <xpln lang="en">See Suppl. p. 36</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="[**********]">
+<wordgroup1 type="a" object="D"><alpha>D</alpha>
+<wordentry type="h"><form lang="fr">DEMY-VOLT.</form> <xpln lang="en" lexeme="piste(n)">Is a half Circle, or Round, 
+which a Horse performeth upon one of the Cor&shy;
+ners of the Square wherein he is Riding, or at 
+the end of a <term lang="fr">Passade</term>, and which he marketh with 
+either one or two Pists, as the Rider pleases, that 
+so he may change hands, and fall in again exactly 
+to the same Line of the Square or <term lang="fr">Passade</term> from 
+whence he turned; and when it happens that 
+he falls not in exactly upon the same Line, then 
+People say, He hath not closed exactly his <term lang="fr">Demy&shy;
+volt.</term> <term lang="la">Nota</term>, That it is always better to form a 
+Square in Riding, than a Circle; this is agreed 
+to by all good Horse-men.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">DES-UNY. <term lang="en">Or Disunited</term>,</form> <xpln lang="en">See Suppl. p. 35</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="E"><alpha>E</alpha>
+<wordentry type="h"><form lang="fr">ENTIER.</form> <xpln lang="en">See Suppl. p. 66</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="F"><alpha>F</alpha>
+<wordentry type="h"><form lang="fr">FERME &agrave; Ferme.</form> <xpln lang="en">Is when a Horse per&shy;
+formeth <term lang="fr">Corvets</term> or <term lang="fr">Pesades</term> in one place, with 
+out in the least either advanceing or retireing.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="G"><alpha>G</alpha>
+<wordentry type="h"><form lang="fr">GALLOP.</form> <xpln lang="en">See Suppl. p. 34</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="H"><alpha>H</alpha>
+<wordentry type="h"><form lang="fr">HEAVY.</form> <xpln lang="en">On the Hand. See Part I p. 242</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="M"><alpha>M</alpha>
+<wordentry type="h"><form lang="fr">MANEGE,</form> <xpln lang="en">May be considered two ways, 
+as 1. It may be taken for the place where People 
+ride. 2. For any particular Air that is taught a 
+Horse</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">MES-AIR,</form> <xpln lang="en" lexeme="manage(n)">is an Air or Manage betwixt the 
+<term lang="fr">Terre &agrave; Terre</term> and <term lang="fr">Corvet</term>, and is commonly cal&shy;
+led the <term lang="fr">Volts</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="N"><alpha>N</alpha>
+<wordentry type="h"><form lang="fr">NOUER. l'eguillette,</form> <xpln lang="en">See <term lang="fr">Capriole</term>.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="P"><alpha>P</alpha>
+<wordentry type="h"><form lang="fr">PAS.</form> <xpln lang="en">See Walk.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">PASSADE.</form> <xpln lang="en">See Suppl. p. 48</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">PASSAGER.</form> <xpln lang="en">See Suppl. p. 1 &c.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">PIROUETTE.</form> <xpln lang="en">See Suppl. p. 47</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">PISTE.</form> <xpln lang="en" lexeme="gallop(n)">Is the Print O Mark, made by a 
+Horse's Feet upon the ground as he is Rideing, 
+so that he may either mark one or two, if he 
+be a ready Horse, as the Rider hath a mind for 
+it, For Example, if the Rider make him go 
+but at an ordinary Gallop in a Circle, or rather 
+Square, then he will mark but one Pist, but if 
+he make him Gallop either with his Haunches 
+in, or go the <term lang="fr">Terre &agrave; Terre</term>, then he will mark 
+two Pists, and the same if the Rider make him 
+<term lang="fr">Passage</term>, or go sidewise, either in a streight Line
+or upon a Circle.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="Q"><alpha>Q</alpha>
+<wordentry type="h"><form lang="fr">QUART EN QUART.</form> <xpln lang="en" lexeme="square(n)">Is when a Horse 
+is wrought or Rid upon a Square, to ride him 
+three times together along the first of its four 
+sides, and at the third time to pass the first Angle, 
+and ride him as many times along the second, and 
+<emend err="and"></emend> so successively to the rest, untill the Rider 
+hath made him go over the whole four sides of 
+the Square, that so he may finish his <term lang="fr">Reprise</term> upon 
+that side of it where he began.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="R"><alpha>R</alpha>
+<wordentry type="h"><form lang="fr">REPRISE.</form> <xpln lang="en">Is the Reiteration, or Repeti&shy;
+tion of a Horse's Lesson.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="S"><alpha>S</alpha>
+<wordentry type="h"><form lang="fr">SACCADE.</form> <xpln lang="en" lexeme="opiniatrety(n)">Is a sudden twitch that the Rid&shy;
+er giveth a Horse with the Reins of the Bri&shy;
+dle, when he either with Opiniatrety, Arms 
+himself, or rests too much on the hand: it is 
+a kind of Correction, but should be very rarely 
+made use of, because it is apt to spoil a horse's 
+mouth.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">SERPEGER.</form> <xpln lang="en">Is to ride a horse in a Serpen&shy;
+tine or Undulate Line.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">SOUTENIER.</form> <xpln lang="en">Is to stay or keep up a 
+horse's head with the Bridle-hand.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="T"><alpha>T</alpha>
+<wordentry type="h"><form lang="fr">TERRE &agrave; terre.</form> <xpln lang="en">See Suppl. p. 36</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">TIRER &agrave; la main.</form> <xpln lang="en">Is to resist and press a&shy;
+gainst the Rider's Bridle-hand. See Part I: p. 242</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">TRIDE.</form> <xpln lang="en">Is the quick and short motion of 
+a horse's Legs, upon any natural or artificial 
+Action.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">TROT.</form> <xpln lang="en">See Suppl. p. 33</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="W"><alpha>W</alpha>
+<wordentry type="h"><form lang="fr">WALK.</form> <xpln lang="en">See Suppl. p. 32</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="V"><alpha>V</alpha>
+<wordentry type="h"><form lang="fr">VOLTE.</form> <xpln lang="en" lexeme="air(n)">May be considered two ways; 
+As 1. Forby the Circle or Round wherein a horse 
+rideth. 2. For a kind of Air betwixt the <term lang="fr">Terre 
+&agrave; Terre</term> and <term lang="fr">Corvet</term>, called also a <term lang="fr">Mes-air</term>.</xpln></wordentry>
+
+<wordentry type="h"><form lang="fr">VOLTE Renvers&eacute;e.</form> <xpln lang="en" lexeme="manage(n)" lexeme="volt(n)">Is when a horse per&shy;
+formeth a Mannage or Volt of two Pists, his 
+fore-parts making the lesser Circle, and his 
+hind the larger, or his Head being next the 
+Center, and his Croupe out.</xpln>
+<lemenote>
+"Volt" as an English word antedates the earliest OED citation (1727).
+</lemenote>
+</wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>
+

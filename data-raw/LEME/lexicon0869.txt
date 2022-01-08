@@ -1,0 +1,439 @@
+<leme no="869">
+
+<page sig="251">
+<heading>
+An Alphabetical Table.
+</heading>
+
+<i>Containing the uncouth and unusuall Words 
+which are found in our Author; those which 
+are in a different Character, being used by 
+him in a differing sense from that which 
+commonly they carry.</i>
+
+<wordgroup1 type="a" object="a"><alpha>A</alpha>
+<wordentry type="h"><form lexeme="acquist(n)">ACquist</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accollado(n)">Accalladoes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ablude(v)">Ablude</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aviso(n)">Avisoes</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="affix(v)"><f type="i">Affix<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adoption(n)">Adoption</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acclaim(v)">Acclaime</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="asperse(v)">Asperse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="l'improviste(n)"><emend err="Alimprovist">A l'improviste</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="abstruse(a)">Abstruse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="appliated(a)">Appliated</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="ad&oelig;quate(v)">Ad&oelig;quate</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="anealed(a)">Anealed</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="august(a)"><f type="i">August<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anthem(n)"><f type="i">Anthemes<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aculeated(a)">Aculeated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="acquiescing(n)">Acquiescing</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="amphibious(a)">Amphibious</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accostable(a)">Accostable</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aborted(a)">Aborted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="autopsy(n)">Autopsie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="atocrity(n)">Atocritie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="anniversary(n)"><f type="i">Anniversary<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="annasity(n)">Annasitie</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="anomabous(a)">Anomabous</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange: "anomalous"?</lemenote></wordentry>
+<wordentry type="h"><form lexeme="apostrophe(n)">Apostrophe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="accriminated(a)">Accriminated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="agnified(a)">Agnified</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange: "agnised"?</lemenote></wordentry>
+<wordentry type="h"><form lexeme="aetiology(n)">&AElig;tiologie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="animadverted(a)">Animadverted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="articulate(v)">Articulate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="aggression(n)">Agression</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="antagonist(n)">Antagonist</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adventitious(a)">Adventitious</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="alleviate(v)">Alleviate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="adiaphorus(a)">Adiaphorus</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b"><alpha>B</alpha>
+<wordentry type="h"><form lexeme="borne(a)">BOorne</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c"><alpha>C</alpha>
+<wordentry type="h"><form lexeme="complicated(a)">COmplica&shy;
+ted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="cuergo(n)">Cuergo</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="ceremonial(n)">Ceremoniale</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="conflagration(n)"><f type="i">Conflagration<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="celebrity(n)">Celebrities</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="culpability(n)">Culpabilitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="condignity(n)"><f type="i">Condignitie<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="coition(n)">Coition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="canceleir(n)">Canceleir</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange unless "chancellor."</lemenote></wordentry>
+<wordentry type="h"><form lexeme="concinness(n)">Concinnesse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="compensate(v)">Compensate</form> <xpln></xpln></wordentry>
+</page>
+
+<page sig="252">
+<wordentry type="h"><form lexeme="cogniscible(a)">Cognascible</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="conceded(a)">Conceded</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="commensurate(a)">Commensurate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="complacence(n)">Complacence</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="combustion(n)"><f type="i">Combustion<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="caress(n)">Caresses</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="concrete(a)">Concrete</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="cajolled(a)">Cajolled</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="causality(n)">Causalitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="clientelary(n)">Clientelary</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="confraternity(n)">Confraternitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="concriminary(n)">Concriminaries</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="clancular(a)">Clancular</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="configuration(n)">Configuration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="congelable(a)">Congelable</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="chirography(n)">Chirographie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="cachexy(n)">Chachexie</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d"><alpha>D</alpha>
+<wordentry type="h"><form lexeme="delatory(a)">DElatory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="dual(a)">Duall</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="destination(n)">Destination</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="depredation(n)">Depredation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="despondence(n)">Despondence</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="detrunk(v)">Detrunk</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="despensation(n)">Despensation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="decussation(n)">Decussation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="donative(a)"><f type="i">Donative<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="desponding(a)">Desponding</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="decore(v)">Decore</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="decocted(a)">Decocted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="deplumed(a)">Deplumed</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="desideration(n)">Desideration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="diaphanous(a)">Diaphonous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="dilapidation(n)"><f type="i">Dilapidation<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="detrenching(n)">Detrenching</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="decretory(a)">Decretory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="dysopsy(n)">Disopsie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="delatorian(n)">Delatorians</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e"><alpha>E</alpha>
+<wordentry type="h"><form lexeme="exass(n)">EXasse</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="erect(a)"><f type="i">Erect<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="enormitant(n)">Enormitants</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="exuberancy(n)">Exuberancie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="extern(a)">Externe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="elemented(a)">Elemented</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="exorated(a)">Exorated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="emerging(n)">Emerging</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ebulitian(n)">Ebullitians</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="emposted(a)">Emposted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="evacuate(v)">Evacuate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="equilibrated(a)">Equilebrated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="excogitate(v)">Excogitate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="equiparate(v)">Equiperate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="emrod(n)">Emrod</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="ematin(n)">Ematin</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="embryo(n)">Embryo</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="epiphonema(n)">Epiphonoma</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="effigy(n)">Effigies</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="emergent(a)">Emergent</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="emolument(n)">Emolument</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="evert(v)">Everteth</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="excoriated(a)">Excoriated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="erudition(n)">Erudition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="eradicated(a)">Eradicated</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f"><alpha>F</alpha>
+<wordentry type="h"><form lexeme="fuliginous(a)">FUligenous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ferocient(a)">Ferocient</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="fortuitously(adv)">Fortuitously</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="feculent(a)">Foculent</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="g"><alpha>G</alpha>
+<wordentry type="h"><form lexeme="germinated(a)">GErmina&shy;
+ted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="gust(n)">Gust</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="gestation(n)">Gestation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="grison(n)">Grison</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h"><alpha>H</alpha>
+<wordentry type="h"><form lexeme="holocaust(n)">HOlocaust</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="Halcyonian(a)">Halcionian</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="hectic(n)">Hectique</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="hailemen(n)">Hailemen</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="horizontal(a)">Horizontall</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="hibernal(a)">Hibernall</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="hypothesis(n)">Hypothesis</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i"><alpha>I</alpha>
+<wordentry type="h"><form lexeme="impede(v)">IMpede</form> <xpln></xpln></wordentry>
+</page>
+
+<page sig="253">
+<wordentry type="h"><form lexeme="Ithaca(pn)"><emend err="Ithacu">Ithaca</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="incurious(a)">Incurious</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inhumed(a)">Inhumed</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="iteration(n)">Iteration</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inauspicious(a)">Inauspicious</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="innitiated(a)"><f type="i">Innitiated<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="intrinsic(a)">Intrinsique</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="incuriosity(n)"><emend err="Incuriassitie">Incuriosity</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="individuation(n)">Individuation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="impetuously(adv)">Impetuously</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="incendiary(n)"><f type="i">Incendiary<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="initiation(n)">Innitiation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inventioned(a)">Inventioned</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="irritate(v)">Irritateth</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="judication(n)">Judications</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="infortunium(n)">Infortunium</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="joco-seriously(adv)">Joco-seriously</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="intersect(v)">Intersect</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inflame(v)">Inflame</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inaudible(a)">Inaudable</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="intend(v)"><f type="i">Intend<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="impunity(n)">Impunitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inorganical(a)">Inorganicall</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="impertinence(n)"><f type="i">Impertinence<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="insolation(n)">Insolation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="intense(a)">Intense</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="intemerate(v)">Intemorate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="imperiosity(n)">Imperiositie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="inquietude(n)">Inquietude</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="incantation(n)">Incantations</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="incompassible(a)">Incompassible</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="identity(n)">Identitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="interfered(a)">Interfered</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="juror(n)"><f type="i">Jurors<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="impregned(a)">Impregned</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="imminent(n)">Imminent</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="l"><alpha>L</alpha>
+<wordentry type="h"><form lexeme="luminary(n)">LUminaries</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="luxuriancy(n)">Luxuriancie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="leve-le-quere(n)">Leve-se-quere</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="luminous(a)"><emend err="Luminans">Luminous</emend></form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m"><alpha>M</alpha>
+<wordentry type="h"><form lexeme="molis(n)">MOlis</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="magnetic(a)">Magnetique</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="meticulosity(n)">Metuculossitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="morass(n)">Morasse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="missive(n)"><f type="i"><emend err="Missivus">Missives</emend><f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="metastrophe(n)">Metastrophe</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="metamorphosis(n)"><emend err="Meamorphusis">Metamorphosis</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="mode(n)">Mode</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="meliorate(v)">Meliorate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="mercurialist(n)">Mercurialists</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="mutilated(a)">Mutulated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="minatory(a)">Mynatorie</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n"><alpha>N</alpha>
+<wordentry type="h"><form lexeme="nonsense(n)">NOnsense</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="neutrality(n)"><f type="i">Neutralitie<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="noxiousness(n)">Noxiousnesse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="narrator(n)">Narrators</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="nave(n)">Nave</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="nude(a)">Nude</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="o"><alpha>O</alpha>
+<wordentry type="h"><form lexeme="oblique(a)"><emend err="OBliqus">Oblique</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ocular(a)">Ocular</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="organical(a)">Organicall</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="omen(n)">Omen</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="operate(v)">Operate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="otium(n)">Otium</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="occult(n)">Occult</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="odium(n)">Odium</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="offertory(n)">Offertory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="opine(v)">Opine</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="officiate(v)"><f type="i">Officiate<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="onerous(a)">Onerous</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p"><alpha>P</alpha>
+<wordentry type="h"><form lexeme="postlimineated(a)">POstliminea&shy;
+ted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="puisne(a)">Puisnesse</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="patrite(n)">Patrite</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="procluded(n)">Procluded</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="principality(n)"><f type="i">Principalitie<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ponderous(a)">Ponderous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="postlimineation(n)">Postlimineation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pollicitation(n)">Pollicitation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="parole(n)"><f type="i">Parole<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="precarious(a)">Precarious</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="piaculary(a)">Piaculary</form> <xpln></xpln></wordentry>
+</page>
+
+<page sig="254">
+<wordentry type="h"><form lexeme="protervity(n)">Protervity</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="par-royal(n)"><f type="i">Pare-Royall<f type="r"></form> <xpln></xpln>
+<lemenote>Mistake for "Port Royal."</lemenote></wordentry>
+<wordentry type="h"><form lexeme="portentous(a)">Portentous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pendulous(a)">Pondulous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="periclitation(n)">Periclitations</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pact(n)">Pact</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="paramount(a)">Paramonts</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="posthume(a)">Posthume</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="presidence(n)"><emend err="Presidianes">Presidence</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="preponderate(v)">Preponderate</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="parade(n)">Parade</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="protended(a)">Protended</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="paralious(a)">Paralious</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="parasceve(n)"><emend err="Parashier">Parasceue</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="philargicus(n)"><emend err="Philargicus">Philargyrous</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="precognition(n)">Precognition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="prevarication(n)">Prevarication</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="Pan Angliam(n)">Pan Angliam</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="placable(a)">Placable</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="portentous(a)">Portentous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="pertrude(v)">Pertrude</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="penultimo(n)">Penultimo</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="palladium(n)">Palladium</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="perpending(a)">Perpending</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="preterition(n)">Preterition</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="promove(v)">Promove</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="propensitio(n)"><emend err="Propensitio">Propensity</emend>.</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r"><alpha>R</alpha>
+<wordentry type="h"><form lexeme="reverberation(n)">REverbera&shy;
+tion</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="rependans(n)">Rependans</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="remora(n)">Remora</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="recondite(a)">Recondito</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="ritention(n)">Ritention</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="rituality(n)">Ritualities</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="reciprocated(a)">Reciprocated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="reductive(a)">Reductive</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="respond(v)">Respond</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="rancidity(n)">Ranciditie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="repartie(n)">Reparti</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="renvoy(n)">Renvoy</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="relax(v)">Relax</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="relative(n)"><f type="i">Relatives<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="refulgent(a)">Refulgent</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="recomation(n)">Recomation</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="repertory(n)">Repertory</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="radiant(a)">Radiant</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="rusticity(n)">Rusticitio</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="researched(a)">Researched</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="recidivation(n)">Recidivatior</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="recognitante(a)"><f type="i">Recognitante<f type="r"></form> <xpln></xpln>
+<lemenote>Not found in L'Estrange: "recognizance"?</lemenote></wordentry>
+<wordentry type="h"><form lexeme="resorted(a)"><emend err="Resurted">Resorted</emend></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="rancidity(n)">Ranciditie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="reduction(n)">Reduction.</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="s"><alpha>S</alpha>
+<wordentry type="h"><form lexeme="single unite(n)">SIngle unite</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="superinducted(a)">Superinducted</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="scintillation(n)">Scintillation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="superfetation(n)">Superfetation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="seminality(n)">Seminasities</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="sterile(a)">Sterill</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="synodity(n)">Synodites</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="subsortitiously(adv)"><f type="i">Subsortitiously<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="series(n)">Series</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="stipulate(v)">Stipulateth</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="salubrious(a)">Salubrius</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="stimulated(a)">Stimulated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="stricture(n)">Strictures</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="statiurch(n)">Statiurch</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="salvas(n)">Salvas</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="simulary(a)">Simulary</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="synopsis(n)">Synopsis</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="susceptible(a)">Susceptible</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="salitary(a)"><f type="i">Salitary<f type="r"></form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="suburbicary(a)">Suburbicary</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="superannuate(v)"><f type="i">Superannuate<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="sedulous(a)">Sedulous</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="symbol(n)">Symbale</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="syteme(n)">Syteme</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="supinely(a)">Supinely</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="succenturiated(a)">Succentoriated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="stronded(a)">Stronded</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="scheme(n)">Scheme</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="sopited(a)">Sopited</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t"><alpha>T.</alpha>
+<wordentry type="h"><form lexeme="temporality(n)">TEmporali&shy;
+ties</form> <xpln></xpln></wordentry>
+</page>
+
+<page sig="255">
+<wordentry type="h"><form lexeme="temerated(a)">Temerated</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="temerity(n)">Temeritie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="terrene(a)">Terrene</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="trepidation(n)">Trepidation</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="tendancy(n)">Tendancie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="transfiguration(n)"><f type="i">Transfiguration<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="transpretation(n)">Transpretation</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="tempestively(adv)">Tempestively</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="treatment(n)">Treatment</form> <xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v"><alpha>V</alpha>
+<wordentry type="h"><form lexeme="valediction(n)">VAlediction</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="unanim(a)">Unanim</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="veteran(n)">Veteran</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="unite(v)"><f type="i">Vnite<f type="r"></form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="vigil(n)">Vigill</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="virile(a)">Virile</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="vanum(n)">Vanum</form> <xpln></xpln>
+<lemenote>Not found in L'Estrange.</lemenote></wordentry>
+<wordentry type="h"><form lexeme="vacuity(n)">Vacuitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="veniality(n)">Venialitie</form> <xpln></xpln></wordentry>
+<wordentry type="h"><form lexeme="unison(n)">Unizon</form> <xpln></xpln></wordentry>
+</wordgroup1>
+        
+and so I end this table with the Counsell of an old Gram&shy;
+marian, who adviseth thus;
+
+<f type="i"><expression lang="la">Moribus antiquis, pr&aelig;sentibus utere verbis:</expression><f type="r">
+
+That is to say,
+
+<ftype="i">Retaine old Vertues, but forbear,
+New words, not fitted to the eare.
+
+<closing>
+The End.
+</closing>
+</page>
+	
+</leme>

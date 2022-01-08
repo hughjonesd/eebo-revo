@@ -1,0 +1,255 @@
+
+<leme no="723">
+<page no="[para1r]">
+<section type="Title-page">
+PVRCHAS 
+HIS 
+PILGRIMES. 
+IN FIVE BOOKES. 
+The sixth, Contayning English Voyages, to the East, West, 
+and South parts of America: Many Sea and Land Fights, Inuasions 
+and Victories against the Spaniards in those parts, and the 
+Spanish Ilands, and Coast Townes on this side; Plantations 
+in Guiana, and many strange aduentures of 
+English-men amongst the Americans.
+
+The seuenth, Voyages to and about the Southerne America, 
+with many Marine Obseruations and Discourses of those Seas 
+and Lands, by English-men and others.
+
+The eighth, Voyages to and Land-Trauels in Florida; Virgina, 
+and other parts of the No<emend err="">r</emend>therne AMERICA. French 
+Plantings, Spanish Supplantings; English-Virginian voy&shy;
+ages, and to the Ilands AZORES.
+
+The ninth, English Plantations, Discoueries, Acts, and 
+Occurrents, in Virginia and Summer Ilands, since the 
+Yeere 1606. till 1624.
+
+The tenth, English Discoueries and Plantations in New England, 
+New-found-land; with the Patent and Voy<emend err="u">a</emend>ges to New 
+Scotland: Relations also of the Fleets set forth by 
+Queene ELIZABETH against the Spaniards.
+
+The Fourth Part.
+
+<term lang="la">Vnus Deus, Vna Veritas.</term>
+
+LONDON 
+Printed by William Stansby for Henrie Fetherstone, and are to be sold at his shop in 
+Pauls Church-yard at the signe of the Rose.
+
+1625.
+</section>
+</page>
+
+<page no="1659">
+<section type="Chapter Title">
+CHAP. XIII. 
+Extracts of a Virginian Voyage made An. 1605. by Captaine GEORGE 
+WAYMOVTH, in the Arch-angell. Set forth by the Right Ho&shy;
+norable HENRY Earle of South-hampton, and the 
+Lord THOMAS ARVNDEL, written by 
+IAMES ROSIER
+</section>
+</page>
+
+<page no="1667">
+<section type="glossary">
+<heading>
+Words which I learned of the Sauages, in their Language.
+</heading>
+
+<wordgroup1 type="t">
+<wordentry type="h"><form lang="en" lexeme="sun(n)" lexeme="moon(n)">Sunne or Moone,</form>, <xpln lang="al">Kesus.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cod-fish(n)">Cod-fish,</form>, <xpln lang="al">Biskeiore.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fish(n)" lexeme="horn(n)">A fish with hornes,</form>, <xpln lang="al">Manedo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lobster(n)">Lobster</form>, <xpln lang="al">Shoggah.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rockfish(n)">Rock-fish</form>, <xpln lang="al">Shagatocke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cockle(n)" lexeme="fish(n)">Cockle-fish</form>, <xpln lang="al">Hesucke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mussel(n)">Muskell</form>, <xpln lang="al">Shoorocke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cunner(n)" lexeme="fish(n)">Cunner-fish</form>, <xpln lang="al">Tattaucke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crab(n)">Crabbe</form>, 
+<xpln lang="al">Wussorasha.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="porpoise(n)">Porpoise</form>, <xpln lang="al">Muscopeiuck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plaice(n)">Plaise</form>, <xpln lang="al">Anego.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tortoise(n)">Tortoise</form>, <xpln lang="al">Romcaneeke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pease(n)">Pease</form>, <xpln lang="al">Vshcomono.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tobacco(n)">To&shy;
+bacco</form>, <xpln lang="al">Tomoch.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leaf(n)">A leafe</form>, <xpln lang="al">Mebeere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="weed(n)">A weed</form>, <xpln lang="al">Cashterush.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fir-tree(n)">A Firre tree</form>, <xpln lang="al">Seteock.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="stone(n)">A stone</form>, <xpln lang="al">Nabscurr.</xpln></wordentry>
+
+
+<wordentry type="h"><form lang="en" lexeme="bow(n)">A Bowe</form>, <xpln lang="al">Shoanor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="arrow(n)">An Arrow</form>, <xpln lang="al">Tobood. </xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bark(n)" lexeme="tree(n)">Barke of a tree</form>, <xpln lang="al">Mashquere.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="water(n)">Water</form>, <xpln lang="al">Shamogoon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sand(n)">Sand</form>, 
+<xpln lang="al">Cheemuck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="crow(n)">Crowe</form>, <xpln lang="al">Cagagoose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hair(n)">Haire</form>, <xpln lang="al">Messer <term lang="en">or</term> Meris.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beard(n)">A beard</form>, <xpln lang="al">Nicowur.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bear(n)">A Beare</form>, <xpln lang="al">Rogsoo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="beaver(n)">Bea&shy;
+uer</form>, <xpln lang="al">Paneah.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="otter(n)">Otter</form>, <xpln lang="al">Nymemano.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rat(n)">Rat</form>, <xpln lang="al">Sanuke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="polecat(n)">Polcat</form>, <xpln lang="al">Pocamka.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cat(n)">Cat</form>, <xpln lang="al">Pushuck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fallow deer(n)">Fallow Deere</form>, 
+<xpln lang="al">Coribo.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hog(n)">Hogge</form>, <xpln lang="al">Madoso.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red deer(n)">Red Deere</form>, <xpln lang="al">Moosurr. <term lang="en">They tell vs of other beasts, which they call,</term> Ta&shy;
+squus, Pisho, Narsim.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="tooth(n)">Teeth</form>, <xpln lang="al">Ibider.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="hand(n)" lexeme="finger(n)">A hand and finger</form>, <xpln lang="al">Breecke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nail(n)" lexeme="hand(n)">A Naile of the hand</form>, <xpln lang="al">Cushe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="leg(n)">A legge</form>, <xpln lang="al">Codd.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="foot(n)">A foot</form>, <xpln lang="al">Musseete.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="plum tree(n)">Plum-tree</form>, <xpln lang="al">Epsegan.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="strawberry(n)">Strawberry</form>, <xpln lang="al">Pishoa.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="gooseberry(n)">Gooseberry</form>, <xpln lang="al">Shewa&shy;
+nor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cherry(n)" lexeme="tree(n)">Cherry tree</form>, <xpln lang="al">Espegononino.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="currant-tree(n)">Corant tree</form>, <xpln lang="al">Asheemena.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="raspberry(n)">Rashberrie</form>, <xpln lang="al">Kiskeemy.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="lip(n)">A lippe</form>, <xpln lang="al">Me&shy;
+toan.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fire(n)">Fire</form>, <xpln lang="al">Squida.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mainland(n)">The maine Land</form>, <xpln lang="al">Bemoquiducke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="seaweed(n)">Sea</form>, <xpln lang="al">Shoubbe.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="father(n)">Father</form>, <xpln lang="al">Wado.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="son(n)">Sonne</form>, <xpln lang="al">Vsto.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wane(n)" lexeme="sea(n)">Wane of the Sea</form>, <xpln lang="al">Toboogg.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="pitch(n)" lexeme="tallow(n)">Pitch and Tallow</form>, <xpln lang="al">Poco.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wild(a)" lexeme="rose(n)">Wilde Rose</form>, <xpln lang="al">Minusheck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="birch(n)">Birch</form>, <xpln lang="al">Pasquar.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="sword(n)">Sword</form>, <xpln lang="al">Edagawancke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="mountain(n)">Mountaine</form>, <xpln lang="al">Machoucke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="wind(n)">Winde</form>, <xpln lang="al">Puckchawsen.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="blood(n)">Bloud</form>, <xpln lang="al">Pag&acirc;gocun.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="red(a)" lexeme="paint(n)">Red 
+Paint</form>, <xpln lang="al">Woroman.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="black(a)" lexeme="paint(n)">Blacke Paint</form>. <xpln lang="al">Cogosho.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="dog(n)">A Dogge</form>, <xpln lang="al">Remoose.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ship(n)" lexeme="boat(n)">A Ship or Boat</form>, <xpln lang="al">Quiden.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oar(n)">An Oare</form>, 
+<xpln lang="al">Wuttohogauor.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="garnepo fly(n)">A Garnepo Fly</form>, <xpln lang="al">Chussuah.</xpln>
+<lemenote>
+"Garnepo Fly" not found in OED but appears as "garnipper" in the <i>Dictionary of Newfoundland English</i>, ed. G. M. Story, W. J. Kirwin, and J. D. A. Widdowson, 2nd edn. (1982): 693.
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="bread(n)">Bread</form>, <xpln lang="al">Paune.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rain(n)">Raine</form>, <xpln lang="al">Soogoran.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="nose(n)">A nose</form>, <xpln lang="al">Peech-ten.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="axe(n)" lexeme="hatchet(n)">An 
+Axe or Hatchet</form>, <xpln lang="al">Tomaheegon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="knife(n)">A Knife</form>, <xpln lang="al">Quodogon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="oak(n)">Oake</form>, <xpln lang="al">Askabesse.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="white bone(n)">White Bone, whereof they 
+haue Chaines, Girdles, Bracelets</form>, <xpln lang="al">Speesone.</xpln>
+<lemenote>
+"White Bone" has one citation (1511) in OED. 
+</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="cheek(n)">The Cheeke</form>, <xpln lang="al">Canoah.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="shirt(n)" lexeme="coat(n)">A Shirt or Coat</form>, <xpln lang="al">Tenoga&shy;
+nuke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="chin(n)">The Chinne</form>, <xpln lang="al">Queh.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eye(n)">An Eye</form>, <xpln lang="al">Sheesuck.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="eyelid(n)">Eylid</form>, <xpln lang="al">Momon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="forehead(n)">Forehead</form>, <xpln lang="al">Scottoquah.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="ear(n)">An Eare</form>, <xpln lang="al">Faw&shy;
+wucke.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="fish-hook(n)">A fish-hooke</form>, <xpln lang="al">Makeecon.</xpln></wordentry>
+
+<wordentry type="h"><form lang="en" lexeme="rainbow(n)">A Rainbow</form>, <xpln lang="al">Shomogon.</xpln></wordentry>
+</wordgroup1>
+</section>
+</page>
+</leme>
+
+

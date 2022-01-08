@@ -1,0 +1,892 @@
+<leme no="378">
+<set tag="form" lang="al">
+
+<page sig="O2r">
+Because many have desired to heare some of the Na&shy;
+tives Language, I have here inserted a small <f type="i">Nomen&shy;
+clator, with the Names of their chiefe Kings, Rivers, Moneths,
+and dayes, whereby such as have in-sight into the Tongues,</f>
+may know to what Language it is most inclining; and such as
+desire it as an unknowne Language onely, may reape
+<f type="i">delight, if they can get no profit.</f>
+
+<wordgroup1 type="a" object="a">A
+
+<wordentry type="h"><form><f type="i">Aberginian</f> </form><xpln lexeme="Indian(n)">an Indian </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Abbamocho</f> </form><xpln lexeme="Devil(pn)">the divell </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Aunum </f> </form><xpln lexeme="dog(n)">a dogge </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ausupp</f> </form><xpln lexeme="raccoon(n)">a Rackoone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Au so hau nauc hoc</f> </form><xpln lexeme="lobster(n)">Lobstar </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Assawog</f> </form><xpln lexeme="play(v)">will you play </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">A saw upp</f> </form><xpln lexeme="tomorrow(n)">to morrow </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ascoscoi</f> </form><xpln lexeme="green(a)">greene </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ausomma petuc quanocke</f> </form><xpln lexeme="bread(n)">give me some bread </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appepes naw aug</f> </form><xpln lexeme="mind(n)">when I see it I will 
+tell you my minde </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Anno ke nugge</f> </form><xpln lexeme="sieve(n)">a sieve </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">An nu ocke</f> </form><xpln lexeme="bed(n)">a bed </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Autchu wompocke</f> </form><xpln lexeme="today(n)">to day </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appause</f> </form><xpln lexeme="morn(n)">the morne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ascom quom pauputchim</f> </form><xpln lexeme="thanks(n)" lexeme="God(pn)">thankes be given to 
+God</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="b">
+
+<wordentry type="h"><form><f type="i">Boquoquo</f> </form><xpln lexeme="head(n)">the head </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Bisquant</f> </form><xpln lexeme="shoulder-bone(n)">the shoulderbones</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="c">C
+
+<wordentry type="h"><form><f type="i">Chesco kean</f> </form><xpln lexeme="lie(v)">you lye </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Commouton kean</f> </form><xpln lexeme="steal(v)">you steale </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cram</f> </form><xpln lexeme="kill(v)">to kill </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Chicka chava</f> </form><xpln>
+<f type="i">osculari podicem</f> </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cowimms</f> </form><xpln lexeme="sleep(v)">sleepes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cocam </f> </form><xpln lexeme="navel(n)">the navell </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cos</f> </form><xpln lexeme="nail(n)">the nailes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Conomma</f> </form><xpln lexeme="spoon(n)">a spoone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cossaquot </f> </form><xpln lexeme="bow(n)" lexeme="arrow(n)">bow and arrowes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cone</f> </form><xpln lexeme="sun(n)">the Sunne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cotattup</f> </form><xpln lexeme="drink to(v)">I drinke to you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Coetop</f> </form><xpln lexeme="tobacco(n)">will you drinke To&shy;
+bacco </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Connucke sommona</f> </form><xpln lexeme="night(n)">It is almost night </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Connu</f> </form><xpln lexeme="good-night(n)">good night to you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cowompaum sin</f> </form><xpln lexeme="good-morrow(n)">God morrow </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Coepot</f> </form><xpln lexeme="ice(n)">ice</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="d">D
+
+<wordentry type="h"><form><f type="i">Dottaguck</f> </form><xpln lexeme="backbone(n)">the backe bone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Docke taugh he necke</f> </form><xpln lexeme="name(n)">what is your name</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="e">E
+
+<wordentry type="h"><form><f type="i">Et chossucke</f> </form><xpln lexeme="knife(n)">a knife </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Eat chumnis</f> </form><xpln lexeme="corn, Indian(n)">Indian corne </xpln></wordentry>
+<wordentry type="h"><form><f type="i">Eans causuacke</f> </form><xpln lexeme="fathoms, four(n)">4 fathomes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Easu tommoc quocke</f> </form><xpln lexeme="beaver(n)">halfe a skin of Beaver </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Epimetsis</f> </form><xpln lexeme="meat(n)">much good may your 
+meate doe you</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="f">F is not used.
+</wordgroup1>
+
+<wordgroup1 type="a" object="g">G
+
+<wordentry type="h"><form><f type="i">Gettoquaset </f> </form><xpln lexeme="toe, great(n)">the great toe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Genebuncke</f> </form><xpln lexeme="forefinger(n)">the fore finger </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Gettoquacke</f> </form><xpln lexeme="knee(n)">the knees </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Gettoquun </f> </form><xpln lexeme="knuckle(n)">the knuckles </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Gettoquan</f> </form><xpln lexeme="thumb(n)">the thumb </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Gegnewaw og</f> </form><xpln lexeme="see(v)">let me see</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="h">H
+
+<wordentry type="h"><form><f type="i">Haha</f> </form><xpln lexeme="yes(ex)">yes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Hoc</f> </form><xpln lexeme="body(n)">the body </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Hamucke</f> </form><xpln lexeme="almost(adv)">almost </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Hub hub hub</f> </form><xpln lexeme="come(v)">come come come </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Haddo quo dunna moquonash</f> </form><xpln lexeme="buy(v)">where did you buy 
+that </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Haddogoe weage</f> </form><xpln lexeme="live(v)">who lives here</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="i">I
+
+<wordentry type="h"><form><f type="i">Isattonaneise</f> </form><xpln lexeme="bread(n)">the bread </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Icattop</f> </form><xpln lexeme="faint(a)" lexeme="hunger(n)">faint with hunger </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Icattoquam</f> </form><xpln lexeme="sleepy(a)">very sleepie</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="k">K
+
+<wordentry type="h"><form><f type="i">Kean</f> </form><xpln lexeme="I(pr)">I </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Keisseanchacke</f> </form><xpln lexeme="hand, back of (n)">backe of the hand </xpln></wordentry>
+</page>
+
+<page sig="O2v">
+<wordentry type="h"><form><f type="i">Ksitta</f> </form><xpln lexeme="hurt(v)">it hurts me </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Kawkenog wampompeage</f> </form><xpln lexeme="money(n)">let me see money </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Kagmatcheu</f> </form><xpln lexeme="eat(v)" lexeme="meat(n)">will you eate meate </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ketottug</f> </form><xpln lexeme="whetstone(n)">a whetstone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Kenie</f> </form><xpln lexeme="sharp(a)">very sharpe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Kettotanese</f> </form><xpln lexeme="lend(n)" lexeme="money(n)">lend me monie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Kekechoi</f> </form><xpln lexeme="pain(n)">much paine</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="m">M
+
+<wordentry type="h"><form><f type="i">Matchet</f> </form><xpln lexeme="naught(n)">It is naught </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mattamoi</f> </form><xpln lexeme="die(v)">to die </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mitchin</f> </form><xpln lexeme="meat(n)">meat </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Misquantum</f> </form><xpln lexeme="angry(a)">very angrie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mauncheake</f> </form><xpln lexeme="go(v)">be gonne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matta</f> </form><xpln lexeme="no(ex)">no </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Meseig</f> </form><xpln lexeme="hair(n)">haire </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mamanock</f> </form><xpln lexeme="eyebrow(n)">the eye brees </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matchanne</f> </form><xpln lexeme="nose(n)">the nose </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mattone</f> </form><xpln lexeme="lips(n)">the lippes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mepeiteis</f> </form><xpln lexeme="teeth(n)">the teeth </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mattickeis</f> </form><xpln lexeme="shoulder(n)">the shoulders </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mettosowset</f> </form><xpln lexeme="toe, little(n)">the little toe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Metosaunige</f> </form><xpln lexeme="finger, little(n)">the little finger </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Misquish</f> </form><xpln lexeme="vein(n)">the veines </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mohoc</f> </form><xpln lexeme="waist(n)">the wast </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Menisowhock</f> </form><xpln lexeme="genitals(n)">the genitals </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mocossa</f> </form><xpln lexeme="nail, black of(n)">the black of the naile </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matchanni</f> </form><xpln lexeme="sick(a)">very sicke </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Monacus</f> </form><xpln lexeme="bow(n)" lexeme="arrow(n)">bowes and arrowes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Manehops</f> </form><xpln lexeme="sit down(v)">sit downe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Monakinne</f> </form><xpln lexeme="coat(n)">a coate </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mawcus sinnus</f> </form><xpln lexeme="shoes, pair of(n)">a paire of shooes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matchemauquot</f> </form><xpln lexeme="stink(v)">it stinketh </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Muskana</f> </form><xpln lexeme="bone(n)">a bone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Menota</f> </form><xpln lexeme="basket(n)">a basket </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Meatchis</f> </form><xpln lexeme="merry(a)">be merrie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mawpaw</f> </form><xpln lexeme="snow(v)">it snowes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mawnaucoi</f> </form><xpln lexeme="strong(a)">very strong </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mutchecu</f> </form><xpln lexeme="man, poor(n)">a very poore man </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Monosketenog</f> </form><xpln lexeme="this(pr)">whats this </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mouskett</f> </form><xpln lexeme="breech(n)">the breech </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matchet wequon</f> </form><xpln lexeme="blunt(a)">very blunt </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matta ka tau caushana</f> </form><xpln lexeme="trade(v)">will you not trade </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mowhacheis</f> </form><xpln lexeme="gold, Indian(n)">Indian gold</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="n">N
+
+<wordentry type="h"><form><f type="i">Nuncompees</f> </form><xpln lexeme="boy(n)">a boy </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nicke squaw</f> </form><xpln lexeme="maid(n)">a maide </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nean</f> </form><xpln lexeme="you(pr)">you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nippe</f> </form><xpln lexeme="water(n)">water </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nasamp</f> </form><xpln lexeme="pottage(n)">pottadge </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nota</f> </form><xpln lexeme="six(a)">sixe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nisquan</f> </form><xpln lexeme="elbow(n)">the elbow </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noenaset</f> </form><xpln lexeme="toe, third(n)">the third toe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nahenan</f> </form><xpln lexeme="turkey(n)">a Turkie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Niccone</f> </form><xpln lexeme="blackbird(n)">a blacke bird </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Naw naunidge</f> </form><xpln lexeme="finger, middle(n)">the middle finger </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Napet</f> </form><xpln lexeme="arm(n)">the arme </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nitchicke</f> </form><xpln lexeme="hand(n)">the hand </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nottoquap</f> </form><xpln lexeme="skin(n)">the skinne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nogcus</f> </form><xpln lexeme="heart(n)">the heart </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nobpaw nocke</f> </form><xpln lexeme="breastbone(n)">the breast bone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nequaw</f> </form><xpln lexeme="thigh(n)">the thighes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Netop</f> </form><xpln lexeme="friend(n)">a friend </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nenmia </f> </form><xpln lexeme="give(v)">give me </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noeicantop</f> </form><xpln lexeme="do(v)">how doe you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nawhaw nissis</f> </form><xpln lexeme="farewell(v)">farewell </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noei pauketan</f> </form><xpln lexeme="kill(v)">by and by kill </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nenetah ha</f> </form><xpln lexeme="fight(v)">Ile fight with you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noei comquocke</f> </form><xpln lexeme="codfish(n)">a codfish </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nepaupe</f> </form><xpln lexeme="stand by(v)">stand by </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">No ottut</f> </form><xpln lexeme="journey(n)">a great journie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Necautauh han</f> </form><xpln lexeme="matter(n)">no such matter </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noewamma</f> </form><xpln lexeme="laugh(v)">he laugheth </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noeshow</f> </form><xpln lexeme="father(n)">a father </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nitka </f> </form><xpln lexeme="mother(n)">a mother </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Netchaw</f> </form><xpln lexeme="brother(n)">a brother </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Notonquous</f> </form><xpln lexeme="kinsman(n)">a kinseman </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nenomous</f> </form><xpln lexeme="kinswoman(n)">a kinswoman </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nau mau nais</f> </form><xpln lexeme="son(n)">my sonne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Taunais</f> </form><xpln lexeme="daughter(n)">my daughter </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">No einshom </f> </form><xpln lexeme="corn(n)">give me corne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nemnis</f> </form><xpln lexeme="take(v)">take it </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nenimma nequitta ta auchu </f> </form><xpln lexeme="span(n)" lexeme="give(v)">give me a span of any
+thing. </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nees nis ca su acke</f> </form><xpln lexeme="fathom, two(n)">2 fathome </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Notchumoi </f> </form><xpln lexeme="strong(a)">a little strong </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Negacawgh hi</f> </form><xpln lexeme="lend(v)">lend me </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nebuks quam </f> </form><xpln lexeme="adieu(ex)">adiew </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noe winyah</f> </form><xpln lexeme="come in(v)">come in </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Naut seam</f> </form><xpln lexeme="weary(a)">much wearie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Noe wammaw ause</f> </form><xpln lexeme="love(v)">I love you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Net noe whaw missu</f> </form><xpln lexeme="man, of middle statue(n)">a man of a middle 
+stature </xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="O3r">
+<wordgroup1 type="a" object="o">O
+
+<wordentry type="h"><form><f type="i">Ottucke</f> </form><xpln lexeme="deer(n)">a Deere </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Occone</f> </form><xpln lexeme="deerskin(n)">a Deere skinne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Oquan</f> </form><xpln lexeme="heel(n)">the heele </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ottump</f> </form><xpln lexeme="bow(n)">a bow </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ottommaocke</f> </form><xpln lexeme="tobacco(n)">Tobacco </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ottannapeake</f> </form><xpln lexeme="chin(n)">the chinne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Occotucke</f> </form><xpln lexeme="throat(n)">the throate </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Occasu</f> </form><xpln lexeme="quarter, half-(n)">halfe a quarter </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Unquagh saw au</f> </form><xpln lexeme="cunning(a)">you are cunning </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ontoquos</f> </form><xpln lexeme="wolf(n)">a Wolfe </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="p">P
+
+<wordentry type="h"><form><f type="i">Pow-wow</f> </form><xpln lexeme="conjurer(n)" lexeme="wizard(n)">a conjurer or wizard </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Petta sinna</f> </form><xpln lexeme="tobacco, pipe of(n)">give me a pipe of To&shy;
+baco </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pooke</f> </form><xpln lexeme="colt's foot(n)">Colts-foote </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pappouse</f> </form><xpln lexeme="child(n)">a child </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Petucquanocke</f> </form><xpln lexeme="bread(n)">bread </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Picke</f> </form><xpln lexeme="pipe(n)">a pipe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ponesanto</f> </form><xpln lexeme="fire(n)">make a fire </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Papowne</f> </form><xpln lexeme="winter(n)">winter </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pequas</f> </form><xpln lexeme="fox(n)">a Foxe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pausochu</f> </form><xpln lexeme="journey(n)">a little journie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Peamissin</f> </form><xpln lexeme="little(n)">a little </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Peacumshis</f> </form><xpln lexeme="work(v)">worke hard </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pokitta</f> </form><xpln lexeme="smoke(v)">smoake </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Petogge</f> </form><xpln lexeme="bag(n)">a bagge </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Paucasu</f> </form><xpln lexeme="quarter(n)">a quarter </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pausawniscosu</f> </form><xpln lexeme="fathom, half(n)">halfe a fathome </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Peunctaumocke</f> </form><xpln lexeme="pray(v)">much pray </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pesissu</f> </form><xpln lexeme="man, little(n)">a little man </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pausepissoi</f> </form><xpln lexeme="sun(n)">the sunne is rising </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pouckshaa</f> </form><xpln lexeme="broken(a)">it is broken </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Poebugketaas</f> </form><xpln lexeme="burn(v)">you burne </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Poussu</f> </form><xpln lexeme="woman, big-bellied(n)">a big bellied woman </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="q">Q
+
+<wordentry type="h"><form><f type="i">Quequas nummos</f> </form><xpln lexeme="cheer(n)">what cheare </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Quequas nim</f> </form><xpln lexeme="day(n)">it is almost day </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Quog quosh</f> </form><xpln lexeme="haste, make(v)">make haste </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Quenobpuuncke</f> </form><xpln lexeme="stool(n)">a stoole </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Quenops</f> </form><xpln lexeme="quiet(a)">be quiet </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="r">R is never used.
+</wordgroup1>
+
+<wordgroup1 type="a" object="s">S
+
+<wordentry type="h"><form><f type="i">Sagamore</f> </form><xpln lexeme="king(n)">a king </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sachem</f> </form><xpln lexeme="king(n)">idem </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sannup</f> </form><xpln lexeme="man(n)">a man </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Squaw</f> </form><xpln lexeme="woman(n)">a woman </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Squitta</f> </form><xpln lexeme="spark, of fire(n)">a fire sparke </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Suggig</f> </form><xpln lexeme="bass(n)">a Basse </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Seasicke</f> </form><xpln lexeme="rattlesnake(n)">a rattle snake </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Shannucke</f> </form><xpln lexeme="squirrel(n)">a Squerill </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Skesicos</f> </form><xpln lexeme="eyes(n)">the eyes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sickeubecke</f> </form><xpln lexeme="neck(n)">the necke </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Supskinge</f> </form><xpln lexeme="wrist-bones(n)">the wrist bones </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Socottocanus</f> </form><xpln lexeme="breast-bone(n)">the breast bone </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Squehincke</f> </form><xpln lexeme="blood(n)">blood </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Siccaw quant</f> </form><xpln lexeme="hams(n)">the hammes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sis sau causke</f> </form><xpln lexeme="shin(n)">the shinnes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Suppiske</f> </form><xpln lexeme="ankle(n)">ancle bones </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Seat</f> </form><xpln lexeme="foot(n)">the foote </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Seaseap</f> </form><xpln lexeme="duck(n)">a ducke </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Suckis suacke</f> </form><xpln lexeme="clam(n)">a Clam </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sequan</f> </form><xpln lexeme="summer(n)">the summer </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Soekepup</f> </form><xpln lexeme="bite(v)">he will bite </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sis</f> </form><xpln lexeme="come out(v)">come out </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Squi</f> </form><xpln lexeme="red(a)">red </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Swanscaw suacko</f> </form><xpln lexeme="fathoms, three(n)">3 fathomes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sawawampeago</f> </form><xpln lexeme="weak(a)">very weake </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Succomme</f> </form><xpln lexeme="eat(v)">I will eate you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sasketupe</f> </form><xpln lexeme="man, great(n)">a great man </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="t">T
+
+<wordentry type="h"><form><f type="i">Taubut nean hee</f> </form><xpln lexeme="thank(v)">Thankes heartily </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tantacum</f> </form><xpln lexeme="beat(v)">beate him </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tap in</f> </form><xpln lexeme="go in(v)">goe in </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Titta</f> </form><xpln lexeme="tell(v)">I cannot tell </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tahanyah</f> </form><xpln lexeme="news(n)">what newes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tonagus</f> </form><xpln lexeme="ears(n)">the eares </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tannicke</f> </form><xpln lexeme="cranny(n)">a cranie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Thaw</f> </form><xpln lexeme="calf of leg(n)">the calfe of the leg </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tahaseat</f> </form><xpln lexeme="sole of foot(n)">the sole of the foote </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tasseche quonunck</f> </form><xpln lexeme="instep(n)">the insteppe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tonokete naum</f> </form><xpln lexeme="whither(r)" lexeme="go(v)">whither goe you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tannissin may</f> </form><xpln lexeme="way(n)">which is the way </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tunketappin</f> </form><xpln lexeme="live(v)">where live you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tonocco wam</f> </form><xpln lexeme="where(r)">where have you bin </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tasis</f> </form><xpln lexeme="stockings, pair of(n)">a paire of stockings </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tockucke</f> </form><xpln lexeme="hatchet(n)">a hatchet </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Towwow</f> </form><xpln lexeme="sister(n)">a sister </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tom maushew</f> </form><xpln lexeme="husband(n)">a husband </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tookesin</f> </form><xpln lexeme="sleep(n)">enough sleepe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Titto kean Icatoquam</f> </form><xpln lexeme="nod(v)" lexeme="sleep(v)">doe you nod and 
+sleepe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tau kequam</f> </form><xpln lexeme="heavy(a)">very heavie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tauh coi</f> </form><xpln lexeme="cold(a)">it is very cold </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="v">V
+
+<wordentry type="h"><form><f type="i">Vkepemanour</f> </form><xpln lexeme="breast-bone(n)">the breast bone </xpln></wordentry>
+</page>
+
+<page sig="O3v">
+<wordentry type="h"><form><f type="i">Vnkesheto</f> </form><xpln lexeme="truck(v)">will you trucke </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="w">W
+
+<wordentry type="h"><form><f type="i">Wampompeage</f> </form><xpln lexeme="money, Indian(n)">Indian money </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Winnet</f> </form><xpln lexeme="good(a)">very good </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Web</f> </form><xpln lexeme="wife(n)">a wife </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wigwam</f> </form><xpln lexeme="house(n)">a house </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wawmott</f> </form><xpln lexeme="enough(a)">enough </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Whenan</f> </form><xpln lexeme="tongue(n)">the tongue </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Whauksis</f> </form><xpln lexeme="fox(n)">a Foxe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wawpatucke</f> </form><xpln lexeme="goose(n)">a Goose </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wawpiske</f> </form><xpln lexeme="belly(n)">the bellie </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Whoe nuncke</f> </form><xpln lexeme="ditch(n)">a ditch </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wappinne</f> </form><xpln lexeme="wind(n)">the wind </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wawtom</f> </form><xpln lexeme="understand(v)">understand you </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wompey</f> </form><xpln lexeme="white(a)">white </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wa aoy</f> </form><xpln lexeme="sun(n)">the sunne is downe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Waacoh</f> </form><xpln lexeme="day(n)">the day breakes </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wekemawquot</f> </form><xpln lexeme="smell(v)" lexeme="sweet(a)">it smells sweete </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Weneikinne</f> </form><xpln lexeme="handsome(a)">it is very handsome </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Whissu hochuck</f> </form><xpln lexeme="boil(v)">the kettle boyleth </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Waawnew</f> </form><xpln lexeme="lose(v)">you have lost your 
+way </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Woenaunta</f> </form><xpln lexeme="summer(n)" lexeme="warm(a)">it is a warme summer </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wompoca</f> </form><xpln lexeme="tomorrow(n)">to morrow </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wawmauseu</f> </form><xpln lexeme="man, honest(n)">an honest man </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Weneicu</f> </form><xpln lexeme="man, rich(n)">a rich man </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Weitagcone</f> </form><xpln lexeme="day, clear(n)">a cleere day </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wawnauco</f> </form><xpln lexeme="yesterday(n)">yesterday </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="a" object="x">X never used
+</wordgroup1>
+
+<wordgroup1 type="a" object="y">Y
+
+<wordentry type="h"><form><f type="i">yeips</f> </form><xpln lexeme="sit down(v)">sit downe </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">yaus</f> </form><xpln lexeme="side(n)">the sides </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">yaugh</f> </form><xpln lexeme="there(adv)">there </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">yough yough</f> </form><xpln lexeme="now(adv)">now </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">yoakes</f> </form><xpln lexeme="lice(n)">lice </xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="numbers">The number of 20.
+
+<wordentry type="h"><form><f type="i">A quit</f> </form><xpln lexeme="1(nu)">1</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nees</f> </form><xpln lexeme="2(nu)">2</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nis</f> </form><xpln lexeme="3(nu)">3</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Yoaw</f> </form><xpln lexeme="4(nu)">4</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Abbona</f> </form><xpln lexeme="5(nu)">5</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Ocquinta</f> </form><xpln lexeme="6(nu)">6</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Enotta</f> </form><xpln lexeme="7(nu)">7</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sonaske</f> </form><xpln lexeme="8(nu)">8</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Assaquoquin</f> </form><xpln lexeme="9(nu)">9</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Piocke</f> </form><xpln lexeme="10(nu)">10</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponna qiut</f> </form><xpln lexeme="11(nu)">11</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponees</f> </form><xpln lexeme="12(nu)">12</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponis</f> </form><xpln lexeme="13(nu)">13</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appoyoaw</f> </form><xpln lexeme="14(nu)">14</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponabonna</f> </form><xpln lexeme="15(nu)">15</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponaquinta</f> </form><xpln lexeme="16(nu)">16</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponenotta</f> </form><xpln lexeme="17(nu)">17</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponsoaske</f> </form><xpln lexeme="18(nu)">18</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Apponasquoquin</f> </form><xpln lexeme="19(nu)">19</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Neenisschicke</f> </form><xpln lexeme="20(nu)">20</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="days">The <f type="i">Indians</f> count their time by nights, and not by
+dayes, as followeth.
+
+<wordentry type="h"><form><f type="i">Sawup</f> </form><xpln lexeme="1 sleeps, 1(n)">sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Isoqunnocquock</f> </form><xpln lexeme="sleeps, 2(n)">2 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sucqunnocquocke</f> </form><xpln lexeme="sleeps, 3(n)">3 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Yoawqunnocquock</f> </form><xpln lexeme="sleeps, 4(n)">4 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Abonetta ta sucquunocquock</f> </form><xpln lexeme="sleeps, 5(n)">5 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nequitta ta sucqunnocquock</f> </form><xpln lexeme="sleeps, 6(n)">6 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Enotta ta sucqunnocquock</f> </form><xpln lexeme="sleeps, 7(n)">7 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Suesicta sucqunnocquock</f> </form><xpln lexeme="sleeps, 8(n)">8 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pausa quoquia sucqunnocquock</f> </form><xpln lexeme="sleeps, 9(n)">9 sleepes</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pawquo qunnocquock</f> </form><xpln lexeme="sleeps, 10(n)">10 sleepes</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="months">How they call their Moneths.
+
+<wordentry type="h"><form><f type="i">A quit-appause</f> </form><xpln lexeme="months, 1(n)"> moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nees-appause</f> </form><xpln lexeme="months, 2(n)">2 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nis-appause</f> </form><xpln lexeme="months, 3(n)">3 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Yoaw appause</f> </form><xpln lexeme="months, 4(n)">4 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Abonna appause</f> </form><xpln lexeme="months, 5(n)">5 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nequit appause</f> </form><xpln lexeme="months, 6(n)">6 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Enotta appause</f> </form><xpln lexeme="months, 7(n)">7 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Sonaske appause</f> </form><xpln lexeme="months, 8(n)">8 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Assaquoquin appause</f> </form><xpln lexeme="months, 9(n)">9 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Piocke appause</f> </form><xpln lexeme="months, 10(n)">10 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appona quit appause</f> </form><xpln lexeme="months, 11(n)">11 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appon nees appause</f> </form><xpln lexeme="months, 12(n)">12 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appon nis appause</f> </form><xpln lexeme="months, 13(n)">13 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Appon yoaw appause</f> </form><xpln lexeme="months, 14(n)">14 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nap nappona appause</f> </form><xpln lexeme="months, 15(n)">15 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nap napocquint appause</f> </form><xpln lexeme="months, 16(n)">16 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nap nap enotta appause</f> </form><xpln lexeme="months, 17(n)">17 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Napsoe sicke appause</f> </form><xpln lexeme="months, 18(n)">18 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nappawsoquoquin appause</f> </form><xpln lexeme="months, 19(n)">19 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Neesnischicke appause</f> </form><xpln lexeme="months, 20(n)">20 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Neesnischicke appon a quit appause</f> </form><xpln lexeme="months, 21(n)">21 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Neesnischicke apponees appause</f> </form><xpln lexeme="months, 22(n)">22 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Neesnischick apponis appause</f> </form><xpln lexeme="months, 23(n)">23 moneths</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Neesnischick appo yoaw appause</f> </form><xpln lexeme="months, 24(n)">24 moneths</xpln></wordentry>
+</wordgroup1>
+</page>
+
+<page sig="O4r">
+<wordgroup1 type="t" object="Indians">The names of the <f type="i">Indians</f> as they be divided into
+severall Countries.
+
+<wordentry type="h"><form><f type="i">Tarrenteens</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Churchers</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Aberginians</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Narragansets</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pequants</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nipnets</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Connectacuts</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mowhacks</f> </form><xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="Sagamores">The Names of <f type="i">Sagamores.
+
+<wordentry type="h"><form><f type="i">Woenohaquahham</f> </form><xpln lexeme="King John(pn)"> <f type="i">Anglice</f> King <f type="i">Iohn</f> </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Montowompate</f> </form><xpln lexeme="King James(pn)"> <f type="i">Anglice</f> King <f type="i">Iames</f> </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mausquonomend</f> </form><xpln> <f type="i">Igowam</f> Sagamore</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Chickkatawbut</f> </form><xpln> <f type="i">Naponset</f> Sagamore</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nassawwhonan Woesemagen</f> </form><xpln>Two Sagamoes of
+<f type="i">Nipust.</f> </xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Canonicus</f> </form><xpln> <f type="i">Narraganset</f> Sagamore</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Osomeagen</f> </form><xpln> Sagamore of the <f type="i">P&egrave;quants</f></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Kekut</f> </form><xpln> <f type="i">Petchutacut</f> Sagamore</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pissacannua</f> </form><xpln> A Sagamore and most noted
+Nigromancer.</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i"></f>Nepawhamis Asteco Assotomowite Nannopounacund Nattonanite, Noenotchuock </form><xpln> Sagamores to the East and North-east, bea&shy;
+ring rule amongst the <f type="i">Churchers</f> and <f type="i">Tar&shy;
+renteens.</xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="habitations">The names of the noted Habitations.
+
+<f type="i">Anglice.</f>
+
+<wordentry type="h"><form><f type="i">Merrimack</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Igowam</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Igosbaum</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Chobocco</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nahumkeake</f> </form><xpln lexeme="Salem(pn)"> Salem</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Saugus</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Swampscot</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nahant</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Winnisimmet</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mishaum</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mishaumut</f> </form><xpln lexeme="Charleston(pn)"> Charles towne</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Massachusets</f> </form><xpln lexeme="Boston(pn)"> Boston</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mistick</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pigsgusset</f> </form><xpln lexeme="Waterton(pn)"> Water towne</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Naponset</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Matampan</f> </form><xpln lexeme="Dorchester(pn)"> Dorchester</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pawtuxet</f> </form><xpln lexeme="Plymouth(pn)"> Plymouth</xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wessagusus</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Conihosset</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mannimeed</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Soewampset</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Situate</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Amuskeage</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pemmiquid</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Saketehoe</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Piscataqua</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Cannibek</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Penopscot</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Pantoquid</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nawquot</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Musketoquid</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Nipnet</f> </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Whawcheusets</f> </form><xpln></xpln></wordentry>
+</wordgroup1>
+
+<wordgroup1 type="t" object="rivers">At what places be Rivers of note.
+
+<wordentry type="h"><form><f type="i">Cannibeck</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Merrimacke</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Tchobocco</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Saugus</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mistick</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Mishaum</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Naponset</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Wessaguscus</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Luddams</f> Foard</form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Narragausets</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Muske toquid</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Hunniborne</f> River </form><xpln></xpln></wordentry>
+
+<wordentry type="h"><form><f type="i">Connectacut</f> River </form><xpln></xpln></wordentry>
+</wordgroup1>
+
+<closing>
+FINIS.
+</closing>
+</page>
+</leme>

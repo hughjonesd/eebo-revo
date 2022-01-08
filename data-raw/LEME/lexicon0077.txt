@@ -1,0 +1,149 @@
+<leme no="77">
+<page sig="a1r">
+<lemepagenote type="display">
+<term lang="un">
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 9 9 0 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+</term>
+</lemepagenote>
+<section type="Title-page">
+Pierce
+the Ploughmans
+Crede.
+</section>
+</page>
+
+<page sig="d3v">
+<section type="Glossary">
+<heading>
+&para; For to occupie this leaff, which els shuld haue ben vacant, I haue made 
+an interpretation of certayne hard wordes vsed in this booke for the 
+better vnderstandyng of it.
+</heading>
+
+<wordentry type="h"><form lang="me" lexeme="fraining(n)">Frayning, </form> <xpln lexeme="forsaking(n)">forsakyng</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="wone(v)">Wunede, </form> <xpln lexeme="wont(v)">wont</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="graith(n)">Graith, </form> <xpln lexeme="truth(n)">truth</xpln>
+<lemenote>See OED "graith," a and adv., 2b.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="erd(n)">Erde, </form> <xpln lexeme="earth(n)">erth</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="leve(v)">Leue, </form> <xpln lexeme="believe(v)">beleue</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="good(a)">God, </form> <xpln lexeme="good(a)">good</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="bejape(v)">Byiapeth, </form> <xpln lexeme="deceive(v)">deceiueth</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="glavering(n)">Glaueryng, </form> <xpln lexeme="flattering(n)">flattering</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="people(n)">Puple, </form> <xpln lexeme="people(n)">people</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="thole(v)"><emend err="Cholede">Tholede</emend>, </form> <xpln lexeme="suffer(v)">suffered</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="glee(n)">Glees, </form> <xpln lexeme="play(n)">playes</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="hobbling(a)">Hobelen, </form> <xpln lexeme="skipping(n)">skipping</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="money-like(a)"><emend err="Monelich">Moneles</emend>, </form> <xpln>monylesse</xpln>
+<lemenote>Misreads original form as "money-like".</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="pulched(a)">Pulched, </form> <xpln lexeme="polished(a)">polished</xpln>
+<lemenote>See OED "pulche."</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="might(v)" lexeme="thou(pr)">Mightestou, </form> <xpln lexeme="might(v)">mi<emend err="hg">gh</emend>test thou</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="seem(v)">Semed, </form> <xpln lexeme="gaze(v)">gased</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="yerne(adv)">yerne, </form> <xpln lexeme="oft(adv)">ofte</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="quaintly(adv)">Queintly, </form> <xpln lexeme="strangely(adv)">strangely</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="pure(adv)">Pure, </form> <xpln lexeme="very(adv)">very</xpln>
+<lemenote>See OED "pure" a. (n., adv.), C.1.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="mount(v)">Munte, </form> <xpln lexeme="went(v)">went</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="belliche(adv)">Bellich, </form> <xpln lexeme="well(adv)">well.</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="teld(v)">Tild, </form> <xpln lexeme="set(v)">set</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="hern(n)">Hyrnes, </form> <xpln lexeme="cave(n)">caues</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="fele(a)">Feele, </form> <xpln lexeme="many(a)">many.</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ey(n)">Ey, </form> <xpln lexeme="egg(n)">egge</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="leally(adv)">Lellich, </form> <xpln lexeme="truly(adv)">truely</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="egg(v)">Egged, </form> <xpln lexeme="move(v)">moued</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="though(c)">Theigh, </form> <xpln lexeme="though(c)">though</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="loresman(n)">Loresmen, </form> <xpln lexeme="learned(a)" lexeme="man(n)">learned men</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="stightle(v)">Stightle, </form> <xpln lexeme="stay(v)">stay</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="cherely(adv)">Cherlich, </form> <xpln lexeme="gladly(adv)">gladly</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lout(v)">Louted, </form> <xpln lexeme="bow(v)">bowed</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="praying(n)">Preing, </form> <xpln lexeme="praising(n)">praisyng</xpln>
+<lemenote>Uncertain headword.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="find(v)">Fonden, </form> <xpln lexeme="walk(v)">walk</xpln>
+<lemenote>Possibly OED "find", v. 4</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="hold(v)">Halt, </form> <xpln lexeme="kept(v)">kept</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="hete(n)">Hetes, </form> <xpln lexeme="commandment(n)">commaundements</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="say(v)">Sigge, </form> <xpln lexeme="say(v)">say</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="ho(pr)">Ho, </form> <xpln lexeme="she(pr)">she</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="rotheren(a)">Rotheren, </form> <xpln lexeme="oxen(n)">oxon</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="dretch(v)">Dreccheth, </form> <xpln lexeme="drown(v)">drouneth</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="latch(v)">Lacchen, </form> <xpln lexeme="catch(v)">catchen</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="lack(n)">Lakke, </form> <xpln lexeme="blame(n)">Blame</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="yard(n)">Yerd, </form> <xpln lexeme="rod(n)">rodde</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="mystery-man(n)">Mystremen, </form> <xpln>nedy men</xpln>
+<lemenote>Antedates earliest OED citation: see "mystery-man", n. 1, 2 (1671).</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="tetter(n)" lexeme="pough(n)">Tetre poughe, </form> <xpln lexeme="tar-box(n)">tar box</xpln></wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="pricely(adv)"><emend err="Prisliif">Priidliik</emend>, </form> <xpln lexeme="chief(a)" lexeme="young(a)">cheif or young</xpln>
+<lemenote>See OED "price, prise" b.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="forgab(v)">Forgabbed, </form> <xpln lexeme="belie(v)">belyed</xpln>
+<lemenote>See OED "for-" 5.</lemenote>
+</wordentry>
+
+<wordentry type="h"><form lang="me" lexeme="waive(v)">Wayuen, </form> <xpln lexeme="banish(v)">banysh.</xpln></wordentry>
+</section>
+
+<section type="Colophon">
+<closing>
+&para; The residue the diligent reader shall you (I trust) well ynough perceiue.
+</closing>
+</section>
+</page>
+</leme>
+
