@@ -4,17 +4,17 @@ library(readr)
 args <- commandArgs(trailingOnly = TRUE)
 lexicon_file <- args[1]
 
-l <- read_tsv(lexicon_file, col_names = c("word", "lexeme", 
-                                                    "pos"))
+lexicon <- read_tsv(lexicon_file, col_names = c("word", "lexeme", 
+                    "pos"), show_col_types = FALSE)
 
-counts <- l |> 
-        group_by(word, lexeme) |> 
-        count() 
+counts <- lexicon |> 
+          group_by(word, lexeme) |> 
+          count() 
 
 first_choice <- counts |> 
-        group_by(word) |> 
-        dplyr::filter(n == max(n)) |>
-        select(word, lexeme) |>
-        arrange(lexeme)
+                group_by(word) |> 
+                dplyr::filter(n == max(n)) |>
+                select(word, lexeme) |>
+                arrange(lexeme)
 
 write_tsv(first_choice, lexicon_file, col_names = FALSE)

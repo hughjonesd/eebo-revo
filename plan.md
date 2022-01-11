@@ -106,3 +106,11 @@ And a sample metadata:
     - maybe we can create a valence score after doing the glove?
   - update embeddings
     - is there a way to create embeddings without downloading everything at once?
+
+# How to run it
+
+* Takes about a day to make the texts on my laptop (53K texts)
+  - could make it faster with lxml instead of BeautifulSoup
+* Google compute is $3/hr/GPU
+* How fast is running spacy?
+* 

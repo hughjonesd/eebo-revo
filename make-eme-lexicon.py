@@ -46,6 +46,9 @@ for _, wordentry in  etree.iterparse(lexicon_path, tag = "wordentry",
     lexeme = None
     l_type = None
     for form in wordentry.iter("form"):
+        # get rid of "<note>" tags, which are common in one
+        # lexicon
+        etree.strip_elements(form, "note", with_tail = False) 
         word = etree.tostring(form, method = "text", 
                               encoding = "unicode")
         if word is None: continue
