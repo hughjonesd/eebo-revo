@@ -1,10 +1,16 @@
 
+import re
 import sys
-from bs4 import BeautifulSoup, SoupStrainer
+import os
 from lxml import etree
 
-output_path = "data/eme-lexicon.tab"
+# unicode definition of punctuation
+re.ASCII = False
+
+
 lexicon_path = sys.argv[1]
+output_path = f"data/leme-cleaned/{os.path.basename(lexicon_path)}"
+output_file = open(output_path, 'w')
 
 def get_lexeme(node):
     """Returns a lexeme and type, or (None, None)"""
@@ -20,31 +26,53 @@ def get_lexeme(node):
     # we just grab the first and pray
     # documentation says that multiple lexemes should
     # be separated by |
+    # in fact that ain't so
     lexeme = form.get("lexeme")
-    # foo(n)
-    
+    if not isinstance(lexeme, str): return nowt
+    lex_match = re.match(r"(.*?)(\(.+\))", lexeme)
+    if lex_match is None: return nowt
+    lex_word = lex_match[1]
+    lex_type = lex_match[2]
+    lex_type = lex_type[1:-1] # remove brackets
+    # skip multiword lexemes
+    if " " in lex_word: return nowt 
+    return lex_word, lex_type
+
+
+
 
 for _, wordentry in  etree.iterparse(lexicon_path, tag = "wordentry", 
                                      recover = True):
-   """
-   <wordentry type="h"><form lang="en" lexeme="absurdity(n)">Absurditie,</form> 
-  <xpln lang="en">a thing clean contrary (or at least wise irksom)
-  too reason, suche a thing as it greeueth a man too heere it,
-  irksomnesse, fondnesse.</xpln></wordentry>
-   """
-    del lexeme
+    lexeme = None
+    l_type = None
     for form in wordentry.iter("form"):
-        word = form.text
-        # form text can be very long; can contain spaces or "the ..."
-        # may be mix of lower and upper
-        if len(word) >= 25: continue
-        word = word.lstrip()
-        word = word.rstrip()
+        word = etree.tostring(form, method = "text", 
+                              encoding = "unicode")
+        if word is None: continue
+        # form text can be very long, and if so
+        # it's unlikely to always have the first word right
+        if len(word) > 25: continue
+        # can contain spaces or "the ..."
+        # or "A..."
+        word = re.sub("^an?\s+", "", word, re.IGNORECASE)
+        word = re.sub("^the\s+", "", word, re.IGNORECASE)
+        word = re.sub("^to\s+", "", word, re.IGNORECASE)
+        word = re.sub("&#182;\s+", "", word)
+        # we take the first word, up to spaces
+        try:
+            word = word.split()[0]
+        except:
+            continue
+        # get rid of punctuation at the end
+        word = re.sub(r"\W+$", "", word)
+        word = word.lower()
         lexeme, l_type = get_lexeme(form)   
         if lexeme is None:
             for xpln in wordentry.iter("xpln"):
                 lexeme, l_type = get_lexeme(xpln)
+        if lexeme is not None and len(word) > 0:
+            output_file.write(f"{word}\t{lexeme}\t{l_type}\n")
 
-    # write word, lexeme, type to 
-    output_file.write(f"{word}\t{lexeme}\t{l_type}\t")
     wordentry.clear(keep_tail = True)
+
+output_file.close()
