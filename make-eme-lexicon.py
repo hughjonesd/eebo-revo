@@ -63,11 +63,13 @@ for _, wordentry in  etree.iterparse(lexicon_path, tag = "wordentry",
             word = word.split()[0]
         except:
             continue
-        
+
         # get rid of punctuation at the end:
         word = re.sub(r"\W+$", "", word)
         # get rid of dashes:
         word = word.replace("-", "")
+        # get rid of '##sp##' which occurs in one lexicon
+        word = word.replace("##sp##", "")
         word = word.lower()
         lexeme, l_type = get_lexeme(form)   
         if lexeme is None:
