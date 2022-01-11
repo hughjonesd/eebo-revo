@@ -9,8 +9,11 @@ l <- read_tsv(lexicon_file, col_names = c("word", "lexeme",
 
 counts <- l |> 
         group_by(word, lexeme) |> 
-        count() |> 
-        group_by(word) |> 
-        dplyr::filter(n == max(n)) 
+        count() 
 
-write_tsv(counts, lexicon_file, col_names = FALSE)
+first_choice <- counts |> 
+        group_by(word) |> 
+        dplyr::filter(n == max(n)) |>
+        select(word, lexeme)
+
+write_tsv(first_choice, lexicon_file, col_names = FALSE)
