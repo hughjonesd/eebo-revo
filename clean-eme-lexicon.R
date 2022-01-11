@@ -14,6 +14,7 @@ counts <- l |>
 first_choice <- counts |> 
         group_by(word) |> 
         dplyr::filter(n == max(n)) |>
-        select(word, lexeme)
+        select(word, lexeme) |>
+        arrange(lexeme)
 
 write_tsv(first_choice, lexicon_file, col_names = FALSE)

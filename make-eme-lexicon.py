@@ -53,18 +53,21 @@ for _, wordentry in  etree.iterparse(lexicon_path, tag = "wordentry",
         # it's unlikely to always have the first word right
         if len(word) > 25: continue
         # can contain spaces or "the ..."
-        # or "A..."
+        # or "A...":
         word = re.sub("^an?\s+", "", word, re.IGNORECASE)
         word = re.sub("^the\s+", "", word, re.IGNORECASE)
         word = re.sub("^to\s+", "", word, re.IGNORECASE)
         word = re.sub("&#182;\s+", "", word)
-        # we take the first word, up to spaces
+        # we take the first word, up to spaces:
         try:
             word = word.split()[0]
         except:
             continue
-        # get rid of punctuation at the end
+        
+        # get rid of punctuation at the end:
         word = re.sub(r"\W+$", "", word)
+        # get rid of dashes:
+        word = word.replace("-", "")
         word = word.lower()
         lexeme, l_type = get_lexeme(form)   
         if lexeme is None:
