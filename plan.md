@@ -81,10 +81,18 @@ And a sample metadata:
 * There's VARD (unmaintained, doesn't work out of the box)
 * And MorphAdorner (unmaintained, runs but errors out of the box)
 * And a paper by 2 guys explaining what they did in papers/
+* And there's LEME
 * Simplest version might be just "create embeddings on the raw
   variants", if you get very close variants with very close
   spellings, lemmatize". Or even don't bother, perhaps it isn't
   relevant? (What if you did letter-based prediction?)
+* LEME approach:
+  - some of the 282 lexicons have been annotated like:
+  <wordentry type="h"><form lang="en" lexeme="absurdity(n)">Absurditie,</form> 
+  <xpln lang="en">a thing clean contrary (or at least wise irksom)
+  too reason, suche a thing as it greeueth a man too heere it,
+  irksomnesse, fondnesse.</xpln></wordentry>
+  - We can convert this into something like: Absurditie  absurdity n
 
 # The code will look like:
 
