@@ -9,8 +9,8 @@ zf = sys.argv[1]
 xml_path = sys.argv[2]
 
 xml = get_xml(zf, xml_path)
-text = get_text(xml)
-text = normalize_unicode(text)
-print(text)
+for text in get_text(xml):
+    text = normalize_unicode(text)
+    print(text)
 
 

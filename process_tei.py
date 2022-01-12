@@ -1,5 +1,6 @@
 
 from bs4 import BeautifulSoup, SoupStrainer
+from lxml import etree
 import zipfile
 import unicodedata
 
@@ -26,65 +27,60 @@ def get_xml(zip_path, xml_path):
 
 def get_text(xml):
     """Takes a TCP XML document and returns just the original text"""
-    soup = BeautifulSoup(xml, "xml")
-    # there may be more than one "text". See the <group> tag.
-    body = soup.find('text').body
-    gaps = body.find_all("gap", desc = "illegible")
-    for g in gaps: g.unwrap()
+    # soup = BeautifulSoup(xml, "xml")
+    doc = etree.fromstring(xml)
 
-    #   gap when "illegible": could try to keep guess
-    #  g ref = '...' is special chars
-
-    # Paragraph-like tags, denote a gap between contents
-    # for now we just surround with newlines
     para_tags = ["item", "p", "label", "postscript", "q", "salute",
                  "signed", "sp", "argument", "opener", "closer", "head",
                  "note", "div1", "div2", "div3", "div4", "div5", 
                  "div6", "div7", "lg", "postscript", "headnote", "tailnote"]
-    doc_para_tags = body.find_all(para_tags)
-    for t in doc_para_tags: 
-        t.insert(0, "\n")
-        t.append("\n")
-        t.unwrap()
-
-    # Not real text, delete contents
-    delete_tags = ["gap", "bibl", "figDesc", "fw", "table", "vid"]
-    doc_delete_tags = body.find_all(delete_tags)
-    for t in doc_delete_tags: t.decompose()
-
-    # Irrelevant, ignore but keep contents in place
-    ignore_tags = ["sub", "sup", "signed", "add", "del", "above", "hi", 
-                   "below", "lb", "dateline", "date", "figure", 
-                   "l", "milestone", "pb", "ref", "unclear", "g"]
-    doc_ignore_tags = body.find_all(ignore_tags)
-    for t in doc_ignore_tags: t.unwrap() # how add spaces? do we need?
-
-    choice_tags = body.find_all("choice")
-    for t in choice_tags:
-        if t.expan is not None:
-            t.replace_with(t.expan.string)
-        else:
-            t.unwrap() # I guess?
-    expan_tags = body.find_all("expan")
-    for t in expan_tags: 
-        if t.ex is not None: 
-            t.replace_with(t.ex.string)
-        else:
-            t.decompose()
     
-    # <choice><abbr></abbr><expan></expan>
-    # you sometimes want to just replace with expan
+    ignore_tags = ["sub", "sup", "signed", "add", "del", "above", "hi", 
+                    "below", "lb", "dateline", "date", "figure", 
+                    "l", "milestone", "pb", "ref", "unclear", "g"]
 
-    # todo with the text itself (maybe separate fn)
-    # - get rid of newlines? (but before we inserted them to have meaning)
-    # "f" to s?
-    # "v" to u?
-    # lowercase everything?
-    # get rid of punctuation alone? (probably not via b.s. though)
-    # replace cmbAbbrStroke with n sometimes 
-    # (maybe a good lemmatizer will deal with this)
+    delete_tags = ["gap", "bibl", "figDesc", "fw", "table", "vid"]
 
-    return body.get_text()
+    tei_ns = "{http://www.tei-c.org/ns/1.0}"  
+    para_tags = [tei_ns + t for t in para_tags]
+    ignore_tags = [tei_ns + t for t in ignore_tags]
+    delete_tags = [tei_ns + t for t in delete_tags]
+
+    to_unicode = lambda x: etree.tostring(x, method = "text", encoding = "unicode")
+    for text in doc.findall(".//{*}text"):
+        body = text.find(".//{*}body") # only one, we hope
+        for _, elem in etree.iterwalk(body, tag = [*para_tags, *ignore_tags, *delete_tags]):
+            # lxml plan: iterate tags and only output text:
+            #  - in para_tags, surrounded by \n...\n
+            #  - in ignore_tags
+            #  - delete everything in gaps, except illegible gaps which we treat like ignore_tags
+            if elem.tag in para_tags:
+                yield "".join(["\n", to_unicode(elem), "\n"])
+            elif elem.tag in ignore_tags:
+                yield to_unicode(elem)
+            elif elem.tag in delete_tags:
+                pass # need to make sure we then skip everything in it
+            elif elem.tag == tei_ns + "gap" and elem.desc == "illegible":
+                yield to_unicode(elem)
+            elif elem.tag == tei_ns + "choice":
+                expan = elem.find("{*}expan")
+                if expan is not None:
+                    yield to_unicode(expan)
+            elif elem.tag == tei_ns + "expan" and elem.get("ex") is not None:
+                yield elem.get("ex")
+
+                # <choice><abbr></abbr><expan></expan>
+                # you sometimes want to just replace with expan
+
+                # todo with the text itself (maybe separate fn)
+                # - get rid of newlines? (but before we inserted them to have meaning)
+                # "f" to s?
+                # "v" to u?
+                # lowercase everything?
+                # get rid of punctuation alone? (probably not via b.s. though)
+                # replace cmbAbbrStroke with n sometimes 
+                # (maybe a good lemmatizer will deal with this)
+
 
 def get_metadata(xml):
     """Takes a TCP XML document and returns informative metadata"""
