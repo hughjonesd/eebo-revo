@@ -21,3 +21,9 @@
     NB different from leme.library.utoronto.ca !
   * Terms of use (CC4.0): 
     https://leme.library.utoronto.ca/help/termsofuse - i.e. do what you like but give credit
+
+* Files in fastText-0.9.2 (library, not in data-raw)
+  * URL: https://github.com/facebookresearch/fastText/archive/v0.9.2.zip
+  * Download date: 12/1/2022
+  * MIT license
+  * To build: unzip fastText-0.9.2.zip; cd fastText-0.9.2; make
