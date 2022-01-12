@@ -3,9 +3,11 @@
 
 # Plan -------------
 
+# should communicate document metadata from within the path_generator
 # specifically re the spacy implementation
 # - should we translate "funny f" to s and u to v?
 # how implement the lemmatizer
+
 
 # Implementation
 
@@ -24,8 +26,13 @@ n_bytes = 1000
 def path_generator(paths):
     global n_bytes
     for p in paths:
-        lines = p.open("r").readlines(n_bytes)
-        yield "".join(lines)
+        if p.is_file():
+            print(p)
+            with p.open("r") as f:
+                lines = f.readlines(n_bytes)
+                while len(lines) > 0:
+                    yield "".join(lines)
+                    lines = f.readlines(n_bytes)
 
 
 # tokenize
@@ -46,7 +53,7 @@ eebo_paths = [path for path in Path("data/texts").glob("*")]
 docs = nlp.pipe(path_generator(eebo_paths), batch_size = 2)
 
 for i, doc in enumerate(docs):
-    print(f"{i} {time.asctime()}")
+    pass
 
 
 # Create a blank Tokenizer with just the English vocab
