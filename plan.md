@@ -109,10 +109,11 @@ And a sample metadata:
 
 # How to run it
 
-* Takes about 3 hrs? to make the texts on my laptop (53K texts)
-  - will need about 20G of storage too
+* Takes about 2 hrs? to make the texts on my laptop (53K texts)
+  - will need about 17G of storage too
+
 * Google compute is $3/hr/GPU. NB my free trial is overr...
 * Could sign up to the UEA one again...
 * How fast is running spacy?
-  - FUCKING NUCLEAR, so far. Puts my BS to shame....
-* For Google, you'd want scripts to download the raw data if at all possible!
+  - Uh, already at about 10/minute, so not really doable on your laptop
+* For Google, you'd want scripts to download the raw data

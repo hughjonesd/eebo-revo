@@ -5,3 +5,5 @@ data-raw/eebo-zips
 data/
 papers
 __pycache__
+renv/settings.dcf
+.vscode/launch.json
