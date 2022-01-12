@@ -28,6 +28,7 @@ from spacy.tokenizer import Tokenizer
 from spacy.lang.en import English
 import time
 import pandas as pd
+from EMELemmatizer import EMELemmatizer
 
 # how many bytes (roughly) to return per chunk
 n_bytes = 1000
@@ -55,18 +56,32 @@ def path_generator(paths):
 
 # tokenize
 # try to lemmatize with the data/eme-lexicon.tab word list
+#   - standard lemmatizer lookup format is just json like {"Argentines": "Argentine", ...}
+#   - but a simpler approach might be to subclass the Lemmatizer and just override lookup_lemmatize()
+#   - useful example here: https://github.com/Liebeck/spacy-iwnlp
+#
 # build a tok2vec layer and create embeddings
 #  - for the whole period
 #  - for each decade
 
 nlp = English()
+nlp = spacy.load("en_core_web_sm")
 
 eebo_paths = [path for path in Path("data/texts").glob("*")]
 
-docs = nlp.pipe(path_generator(eebo_paths), batch_size = 2, as_tuples = True)
+eme_lemmatizer = nlp.add_pipe("EMELemmatizer", after = "tok2vec")
+docs = nlp.pipe(path_generator(eebo_paths), batch_size = 2, as_tuples = True, 
+                disable=["tagger", "parser", "attribute_ruler", "lemmatizer"])
+nlp.enable_pipe("EMELemmatizer")
 
-for i, doc in enumerate(docs):
-    pass
+for i, (doc, context) in enumerate(docs):
+    # for tok in doc[:200]:
+    #     print(f"{tok}\t\t\t\t\t{tok._.eme_lemmas}")
+    found = [len(tok._.eme_lemmas) for tok in doc]
+    print(f"Found {sum(found)} out of {len(doc)} lexemes")
+    if i >= 20: 
+        break
+
 
 
 # Create a blank Tokenizer with just the English vocab
