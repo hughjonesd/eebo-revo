@@ -109,8 +109,10 @@ And a sample metadata:
 
 # How to run it
 
-* Takes about a day to make the texts on my laptop (53K texts)
-  - could make it faster with lxml instead of BeautifulSoup
-* Google compute is $3/hr/GPU
+* Takes about 3 hrs? to make the texts on my laptop (53K texts)
+  - will need about 20G of storage too
+* Google compute is $3/hr/GPU. NB my free trial is overr...
+* Could sign up to the UEA one again...
 * How fast is running spacy?
-* 
+  - FUCKING NUCLEAR, so far. Puts my BS to shame....
+* For Google, you'd want scripts to download the raw data if at all possible!
