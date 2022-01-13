@@ -111,9 +111,20 @@ And a sample metadata:
 
 * Takes about 2 hrs? to make the texts on my laptop (53K texts)
   - will need about 17G of storage too
-
 * Google compute is $3/hr/GPU. NB my free trial is overr...
 * Could sign up to the UEA one again...
 * How fast is running spacy?
   - Uh, already at about 10/minute, so not really doable on your laptop
 * For Google, you'd want scripts to download the raw data
+
+# TODO
+* fastText input probably should throw away more punctuation
+  - and can it cope with weird characters, and what about u/v?
+* do we need to prelemmatize? fT seems pretty good at realizing
+  that similarly spelled words are the same. But not always, e.g.
+  good/goode; perhaps there are spelling changes over time so
+  we don't want this to mislead us.
+* lemmatization plan (nice resource anyway):
+  - for each modern English lexeme, find fastText
+  nearest neighbours which are also near by levenshtein distance
+  - maybe compare with the eme approach? Maybe combine?

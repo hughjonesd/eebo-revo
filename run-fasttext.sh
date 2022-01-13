@@ -14,4 +14,4 @@ for f in data/texts/*; do
     cat $f >> data/fasttext-input
   fi
 done
-./fastText-0.9.2/fasttext skipgram -input data/fasttext-input -output data/fasttext-vectors
+./fastText-0.9.2/fasttext skipgram -input data/fasttext-input -output data/fasttext-vectors -thread 4 -epoch 1 
