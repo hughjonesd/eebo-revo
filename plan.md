@@ -111,7 +111,9 @@ And a sample metadata:
 
 * Takes about 2 hrs? to make the texts on my laptop (53K texts)
   - will need about 17G of storage too
-* Google compute is $3/hr/GPU. NB my free trial is overr...
+* Google compute is $3/hr for a GPU machine. NB my free trial is over...
+  - A standard cheapo computer is more like 16 cents per hour
+  - 
 * Could sign up to the UEA one again...
 * How fast is running spacy?
   - Uh, already at about 10/minute, so not really doable on your laptop
@@ -120,6 +122,7 @@ And a sample metadata:
 # TODO
 * fastText input probably should throw away more punctuation
   - and can it cope with weird characters, and what about u/v?
+* manually check some of your texts
 * do we need to prelemmatize? fT seems pretty good at realizing
   that similarly spelled words are the same. But not always, e.g.
   good/goode; perhaps there are spelling changes over time so

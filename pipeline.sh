@@ -24,3 +24,6 @@ sh make-eme-lexicon.sh
 # create texts from data/tei-files.tab
 # also uses process_tei.py, a python library
 sh create-text.sh
+
+# run FastText to create vectors
+sh run-fasttext.sh

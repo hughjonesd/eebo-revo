@@ -3,7 +3,7 @@
 # about how many files to randomly select for input
 n_files=1000
 
-# seed RANDOM
+# seed RANDOM number generator
 RANDOM=1027
 
 tot_files=$(ls data/texts | wc -l)
