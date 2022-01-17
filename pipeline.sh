@@ -25,6 +25,12 @@ source env/bin/activate
 # Install libraries with pip
 python3 -m pip install -r requirements.txt
 
+# download and make fastText
+wget https://github.com/facebookresearch/fastText/archive/v0.9.2.zip
+unzip v0.9.2.zip
+cd fastText-0.9.2
+make
+
 # get the eebo zipfiles from dropbox if you haven't already
 sh download-eebo-zips.sh
 

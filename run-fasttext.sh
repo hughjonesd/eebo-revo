@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # about how many files to randomly select for input
-n_files=1000
+n_files=50000
+# n_files=1000
 
 # seed RANDOM number generator
 RANDOM=1027
