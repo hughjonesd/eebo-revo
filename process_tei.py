@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup, SoupStrainer
 from lxml import etree
 import zipfile
 import unicodedata
+import re
 
 def get_xml_from_line(line):
     """
@@ -106,3 +107,14 @@ def get_metadata(xml):
 
 def normalize_unicode(str):
     return unicodedata.normalize('NFC', str)
+
+trans_table = str.maketrans({"v":"u", "ſ":"s"})
+def clean_text(text):
+    global trans_table
+    # remove punctuation
+    # all u to v
+    # all funny-s to s
+    text = re.sub(r"[^\w \t\n]", "", text)
+    text = text.casefold()
+    text = text.translate(trans_table)
+    return text
