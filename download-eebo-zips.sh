@@ -14,4 +14,4 @@ unzip -t "data-raw/eebo-zips-from-dropbox.zip"
 
 mkdir -p "data-raw/eebo-zips"
 # you can use the -u option to only update files if you had a partial download
-unzip -d "data-raw/eebo-zips" "data-raw/eebo-zips-from-dropbox.zip" "*P5_XML_OXF*.zip"
+unzip -j -d "data-raw/eebo-zips" "data-raw/eebo-zips-from-dropbox.zip" "*P5_XML_OXF*.zip"
