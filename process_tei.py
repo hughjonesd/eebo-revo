@@ -52,33 +52,19 @@ def get_text(xml):
     delete_tags = [tei_ns + t for t in delete_tags]
     for text in doc.findall(".//{*}text"):
         body = text.find(".//{*}body") # only one, we hope
-        etree.strip_elements(body, *delete_tags, with_tail = False)
         for eol_hyphen in body.findall(".//{*}g[@ref='char:EOLhyphen']"):
             eol_hyphen.clear(keep_tail = True)
         for abbr_stroke in body.findall(".//{*}g[@ref='char:cmbAbbrStroke']"):
             abbr_stroke.tail = "~" + abbr_stroke.tail
             abbr_stroke.clear(keep_tail = True)
+        etree.strip_elements(body, *delete_tags, with_tail = False)
         yield(to_unicode(body))
 
     # still todo:
     # replace <choice> ... <expan></expan> </choice> just with contents of expan
     # <expan ex="blah" /> just with blah
+    # no sign of ~ anywhere, why not?
 
-    # goal: only output text:
-    #  - in para_tags, surrounded by \n...\n
-    #  - in ignore_tags
-    #  - delete everything in delete_tags
-    #    
-    #  - replace certain characters:
-    #    - delete <g ref="char:EOLhyphen" />
-    #    - replace <g ref="char:cmbAbbrStroke"/> with ~
-
-    # plan:
-    # build the tree (no evidence it's slow)
-    # clear delete_tags
-    # replace characters
-    # output all the text content within <text>
-    # don't bother with paragraphs
 
 def get_metadata(xml):
     """Takes a TCP XML document and returns informative metadata"""
