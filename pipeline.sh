@@ -5,7 +5,6 @@
 # sh files usually call .R/.py files with the same name
 # if possible, policy decisions should be in the .sh 
 # files and passed to scripts as arguments
- 
 
 # start R in the project directory. It should auto-install renv.
 # Run renv::restore() to install needed R libraries
