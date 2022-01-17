@@ -26,9 +26,13 @@ def get_xml(zip_path, xml_path):
     xml = zf.read(xml_path)
     return xml
 
+def to_unicode(elem):
+    """Returns the text of an element as unicode."""
+    text = etree.tostring(elem, method = "text", encoding = "unicode")
+    return text
+
 def get_text(xml):
     """Takes a TCP XML document and returns just the original text"""
-    # soup = BeautifulSoup(xml, "xml")
     doc = etree.fromstring(xml)
 
     para_tags = ["item", "p", "label", "postscript", "q", "salute",
@@ -46,42 +50,35 @@ def get_text(xml):
     para_tags = [tei_ns + t for t in para_tags]
     ignore_tags = [tei_ns + t for t in ignore_tags]
     delete_tags = [tei_ns + t for t in delete_tags]
-
-    to_unicode = lambda x: etree.tostring(x, method = "text", encoding = "unicode")
     for text in doc.findall(".//{*}text"):
         body = text.find(".//{*}body") # only one, we hope
-        for _, elem in etree.iterwalk(body, tag = [*para_tags, *ignore_tags, *delete_tags]):
-            # lxml plan: iterate tags and only output text:
-            #  - in para_tags, surrounded by \n...\n
-            #  - in ignore_tags
-            #  - delete everything in gaps, except illegible gaps which we treat like ignore_tags
-            if elem.tag in para_tags:
-                yield "".join(["\n", to_unicode(elem), "\n"])
-            elif elem.tag in ignore_tags:
-                yield to_unicode(elem)
-            elif elem.tag in delete_tags:
-                pass # need to make sure we then skip everything in it
-            elif elem.tag == tei_ns + "gap" and elem.desc == "illegible":
-                yield to_unicode(elem)
-            elif elem.tag == tei_ns + "choice":
-                expan = elem.find("{*}expan")
-                if expan is not None:
-                    yield to_unicode(expan)
-            elif elem.tag == tei_ns + "expan" and elem.get("ex") is not None:
-                yield elem.get("ex")
+        etree.strip_elements(body, *delete_tags, with_tail = False)
+        for eol_hyphen in body.findall(".//{*}g[@ref='char:EOLhyphen']"):
+            eol_hyphen.clear(keep_tail = True)
+        for abbr_stroke in body.findall(".//{*}g[@ref='char:cmbAbbrStroke']"):
+            abbr_stroke.tail = "~" + abbr_stroke.tail
+            abbr_stroke.clear(keep_tail = True)
+        yield(to_unicode(body))
 
-                # <choice><abbr></abbr><expan></expan>
-                # you sometimes want to just replace with expan
+    # still todo:
+    # replace <choice> ... <expan></expan> </choice> just with contents of expan
+    # <expan ex="blah" /> just with blah
 
-                # todo with the text itself (maybe separate fn)
-                # - get rid of newlines? (but before we inserted them to have meaning)
-                # "f" to s?
-                # "v" to u?
-                # lowercase everything?
-                # get rid of punctuation alone? (probably not via b.s. though)
-                # replace cmbAbbrStroke with n sometimes 
-                # (maybe a good lemmatizer will deal with this)
+    # goal: only output text:
+    #  - in para_tags, surrounded by \n...\n
+    #  - in ignore_tags
+    #  - delete everything in delete_tags
+    #    
+    #  - replace certain characters:
+    #    - delete <g ref="char:EOLhyphen" />
+    #    - replace <g ref="char:cmbAbbrStroke"/> with ~
 
+    # plan:
+    # build the tree (no evidence it's slow)
+    # clear delete_tags
+    # replace characters
+    # output all the text content within <text>
+    # don't bother with paragraphs
 
 def get_metadata(xml):
     """Takes a TCP XML document and returns informative metadata"""
