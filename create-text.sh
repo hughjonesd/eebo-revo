@@ -1,6 +1,6 @@
 #!/bin/bash
 
-batchsize=10
+batchsize=20
 
 mkdir -p data/texts/test
 
@@ -15,4 +15,6 @@ while read -r zip xml_file split; do
     echo "Created $output"
   fi
 done <data/tei-files.tab 
+
+wait
 
