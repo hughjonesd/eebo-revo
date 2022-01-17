@@ -111,7 +111,7 @@ def clean_text(text):
     # remove punctuation
     # all u to v
     # all funny-s to s
-    text = re.sub(r"[^\w \t\n]", "", text)
+    text = re.sub(r"[^\w \t\n~]", "", text)
     text = text.casefold()
     text = text.translate(trans_table)
     return text
