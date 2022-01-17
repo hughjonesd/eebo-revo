@@ -7,6 +7,24 @@
 # files and passed to scripts as arguments
 
 
+# start R in the project directory. It should auto-install renv.
+# Run renv::restore() to install needed R libraries
+
+# You'll need python 3.9
+# One approach via conda
+conda create env
+conda activate env
+conda install python=3.9
+
+# Create a python virtual environment:
+python3 -m venv env
+
+# And activate it:
+source env/bin/activate
+
+# Install libraries with pip
+python3 -m pip install -r requirements.txt
+
 # get the eebo zipfiles from dropbox if you haven't already
 sh download-eebo-zips.sh
 
@@ -23,7 +41,7 @@ sh make-eme-lexicon.sh
 
 # create texts from data/tei-files.tab
 # also uses process_tei.py, a python library
-sh create-text.sh
+bash create-text.sh
 
 # run FastText to create vectors
 sh run-fasttext.sh
