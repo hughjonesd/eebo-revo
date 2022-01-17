@@ -1,5 +1,8 @@
+#!/bin/sh
 
-for lexicon in data-raw/leme/*.txt; do
+mkdir -p data/leme-cleaned
+
+for lexicon in data-raw/LEME/*.txt; do
   python make-eme-lexicon.py $lexicon
 done
 
