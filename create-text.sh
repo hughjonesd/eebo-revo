@@ -1,5 +1,6 @@
 #!/bin/bash
 
+batchsize=10
 
 mkdir -p data/texts/test
 
@@ -9,7 +10,8 @@ while read -r zip xml_file split; do
   if [ $split == "train" ]; then split=''; fi
   output=data/texts/$split/$cleaned_file
   if [ ! -e $output ]; then
-    python3 create-text.py $zip $xml_file > $output
+    ((i=i%batchsize)); ((i++==0)) && wait
+    python3 create-text.py $zip $xml_file > $output &
     echo "Created $output"
   fi
 done <data/tei-files.tab 
