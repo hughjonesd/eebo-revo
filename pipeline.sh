@@ -6,6 +6,10 @@
 # if possible, policy decisions should be in the .sh 
 # files and passed to scripts as arguments
 
+
+# get the eebo zipfiles from dropbox if you haven't already
+sh download-eebo-zips.sh
+
 # create metadata on files
 sh get-metadata.sh
 
