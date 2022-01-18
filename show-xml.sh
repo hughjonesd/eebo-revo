@@ -11,7 +11,7 @@ find_file () {
 		unzip -l $path | grep -q $text
 		if [ $? -eq 0 ]; then
 			zip_path="$1/$text.P5.xml"
-			unzip -c $path $zip_path
+			unzip -p $path $zip_path
 			exit
 		fi
 	fi 
