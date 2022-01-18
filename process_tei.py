@@ -57,13 +57,14 @@ def get_text(xml):
         for abbr_stroke in body.findall(".//{*}g[@ref='char:cmbAbbrStroke']"):
             abbr_stroke.tail = "~" + abbr_stroke.tail
             abbr_stroke.clear(keep_tail = True)
+        for margin_note in body.findall(".//{*}note[@place='margin']"):
+            margin_note.clear(keep_tail = True)
         etree.strip_elements(body, *delete_tags, with_tail = False)
         yield(to_unicode(body))
 
     # still todo:
     # replace <choice> ... <expan></expan> </choice> just with contents of expan
     # <expan ex="blah" /> just with blah
-    # no sign of ~ anywhere, why not?
 
 
 def get_metadata(xml):
