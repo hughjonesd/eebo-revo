@@ -102,13 +102,21 @@ def normalize_unicode(str):
     return unicodedata.normalize('NFC', str)
 
 
-trans_table = str.maketrans({"v":"u", "ſ":"s"})
+# remove punctuation
+# all u to v
+# all funny-s to s
+# . and , to space
+trans_table = str.maketrans({
+                            "v" : "u", 
+                            "ſ" : "s", 
+                            "." : " ", 
+                            "," : " ", 
+                            ";" : " ", 
+                            ":" : " ",
+                            })
 def clean_text(text):
     global trans_table
-    # remove punctuation
-    # all u to v
-    # all funny-s to s
+    text = text.translate(trans_table)
     text = re.sub(r"[^\w \t\n~]", "", text)
     text = text.casefold()
-    text = text.translate(trans_table)
     return text
