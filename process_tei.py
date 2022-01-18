@@ -26,10 +26,36 @@ def get_xml(zip_path, xml_path):
     xml = zf.read(xml_path)
     return xml
 
+
+def get_metadata(xml):
+    """Takes a TCP XML document and returns informative metadata"""
+    just_the_header = SoupStrainer("teiHeader")
+    soup = BeautifulSoup(xml, "xml", parse_only = just_the_header)
+    fd = soup.fileDesc
+    id = fd.publicationStmt.find("idno", type = "DLPS").string
+    try:
+        # just the first title
+        title = fd.titleStmt.title
+        if title is not None: title = title.string
+        author = fd.titleStmt.author
+        if author is not None: author = author.string
+        date = fd.editionStmt.edition.date
+        if date is not None: date = date.string
+        pub_place = fd.sourceDesc.biblFull.publicationStmt.pubPlace
+        if pub_place is not None: pub_place = pub_place.string
+        lang = soup.profileDesc.langUsage.language.get("ident")
+    except:
+        raise RuntimeError(f"Problem in id {id}")
+
+    return {'id': id, 'author': author, 'title': title, 'date': date, 
+            'pub_place': pub_place, 'lang': lang}
+
+
 def to_unicode(elem):
     """Returns the text of an element as unicode."""
     text = etree.tostring(elem, method = "text", encoding = "unicode")
     return text
+
 
 def get_text(xml):
     """Takes a TCP XML document and returns just the original text"""
@@ -67,30 +93,9 @@ def get_text(xml):
     # <expan ex="blah" /> just with blah
 
 
-def get_metadata(xml):
-    """Takes a TCP XML document and returns informative metadata"""
-    just_the_header = SoupStrainer("teiHeader")
-    soup = BeautifulSoup(xml, "xml", parse_only = just_the_header)
-    fd = soup.fileDesc
-    id = fd.publicationStmt.find("idno", type = "DLPS").string
-    try:
-        # just the first title
-        title = fd.titleStmt.title
-        if title is not None: title = title.string
-        author = fd.titleStmt.author
-        if author is not None: author = author.string
-        date = fd.editionStmt.edition.date
-        if date is not None: date = date.string
-        pub_place = fd.sourceDesc.biblFull.publicationStmt.pubPlace
-        if pub_place is not None: pub_place = pub_place.string
-    except:
-        raise RuntimeError(f"Problem in id {id}")
-
-    return {'id': id, 'author': author, 'title': title, 'date': date, 
-            'pub_place': pub_place}
-
 def normalize_unicode(str):
     return unicodedata.normalize('NFC', str)
+
 
 trans_table = str.maketrans({"v":"u", "ſ":"s"})
 def clean_text(text):

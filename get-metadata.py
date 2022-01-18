@@ -8,7 +8,7 @@ from process_tei import get_xml_from_line, get_metadata
 metadata_path = "data/metadata.csv"
 
 metadata_df = pd.DataFrame(columns = ["id", "date", "author", 
-                    "title", "pub_place"])
+                    "title", "pub_place", "lang"])
 md_list = []
 
 for line in sys.stdin.readlines():
