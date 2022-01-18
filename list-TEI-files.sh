@@ -3,7 +3,7 @@
 # recreate a list of every tei file like:
 # zipfile xmlfile
 
-tei_files_path='data/tei-files.tab'
+tei_files_path='data/TEI-files.tab'
 test_prop=0.2
 
 rm $tei_files_path

@@ -37,7 +37,7 @@ sh download-eebo-zips.sh
 # create metadata on files
 sh get-metadata.sh
 
-# make data/tei-files.tab, list of files
+# make data/TEI-files.tab, list of files
 # also decide which is test, which is train
 sh list-tei-files.sh
 
@@ -45,7 +45,7 @@ sh list-tei-files.sh
 # also uses clean-eme-lexicon.R
 sh make-eme-lexicon.sh
 
-# create texts from data/tei-files.tab
+# create texts from data/TEI-files.tab
 # also uses process_tei.py, a python library
 sh create-text.sh
 

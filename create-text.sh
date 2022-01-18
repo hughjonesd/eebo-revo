@@ -16,7 +16,7 @@ while read -r zip xml_file split; do
     echo "Created $output"
   fi
 
-done <data/tei-files.tab 
+done <data/TEI-files.tab 
 
 wait
 

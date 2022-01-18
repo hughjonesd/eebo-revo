@@ -7,7 +7,7 @@ import re
 
 def get_xml_from_line(line):
     """
-    Returns the xml text from one zipped file in a line of tei-files.tab
+    Returns the xml text from one zipped file in a line of TEI-files.tab
     """
     zip_path, xml_path = line.split("\t")
     return get_xml(zip_path, xml_path)
