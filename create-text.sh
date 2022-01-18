@@ -1,6 +1,6 @@
 #!/bin/bash
 
-batchsize=20
+batchsize=100
 
 mkdir -p data/texts/test
 
