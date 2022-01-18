@@ -61,10 +61,10 @@ def get_text(xml):
     """Takes a TCP XML document and returns just the original text"""
     doc = etree.fromstring(xml)
 
-    lang = doc.teiHeader.profileDesc.langUsage.language.get("ident")
+    lang = doc.find("./{*}teiHeader/{*}profileDesc/{*}langUsage/{*}language").get("ident")
     if lang != "eng":
-        raise StopIteration
-
+        return
+    
     para_tags = ["item", "p", "label", "postscript", "q", "salute",
                  "signed", "sp", "argument", "opener", "closer", "head",
                  "note", "div1", "div2", "div3", "div4", "div5", 
@@ -80,7 +80,8 @@ def get_text(xml):
     para_tags = [tei_ns + t for t in para_tags]
     ignore_tags = [tei_ns + t for t in ignore_tags]
     delete_tags = [tei_ns + t for t in delete_tags]
-    for text in doc.findall(".//{*}text[@lang='eng' or @lang='unk']"):
+    for text in [*doc.findall(".//{*}text[@{http://www.w3.org/XML/1998/namespace}lang='eng']"), 
+                 *doc.findall(".//{*}text[@{http://www.w3.org/XML/1998/namespace}lang='unk']")]:
         body = text.find(".//{*}body") # only one, we hope
         for eol_hyphen in body.findall(".//{*}g[@ref='char:EOLhyphen']"):
             eol_hyphen.clear(keep_tail = True)
