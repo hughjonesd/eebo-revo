@@ -6,7 +6,7 @@ import pandas as pd
 import Levenshtein as lvn
 
 # other possibility is to take a weighted score and a single max
-SEM_DIST_MAX = 2
+SEM_DIST_MAX = 0.1
 LEV_DIST_MAX = 4
 
 def are_neighbours(row, m):
@@ -16,7 +16,7 @@ def are_neighbours(row, m):
     row_score = np.asarray(row[1:], dtype = "float")
     row_score = np.expand_dims(row_score, 0)
     m_score   = np.asarray(m.iloc[:, 1:], dtype = "float")
-    sem_dist = cdist(row_score, m_score)
+    sem_dist = cdist(row_score, m_score, "cosine")
     sem_close = sem_dist < SEM_DIST_MAX
     sem_close = sem_close.squeeze()
 
@@ -38,12 +38,17 @@ def are_neighbours(row, m):
 # Now you can just repeat. And you don't need to redo the original words.
 
 dnames = ["word", *['d'+str(x+1) for x in range(500)] ]
+dtypes = dict.fromkeys(dnames, "float")
+dtypes["word"] = "string"
 ws = pd.read_table("data/fasttext-vectors.vec", 
+                    dtype     = dtypes,
                     sep       = " ", 
                     skiprows  = 1, 
                     names     = dnames,
                     index_col = False,
-                    nrows     = 10000
+                    nrows     = 10000,
+                    na_values = [],
+                    na_filter = False
                   )
 
 ws = ws.sort_values(by = "word")
