@@ -109,7 +109,7 @@ def normalize_unicode(str):
 trans_table = str.maketrans({
                             "v" : "u", 
                             "ſ" : "s", 
-                            "." : " ", 
+                            "." : "\n", 
                             "," : " ", 
                             ";" : " ", 
                             ":" : " ",
@@ -117,6 +117,6 @@ trans_table = str.maketrans({
 def clean_text(text):
     global trans_table
     text = text.translate(trans_table)
-    text = re.sub(r"[^\w \t\n~]", "", text)
+    text = re.sub(r"[^\w \t\n~&]", "", text)
     text = text.casefold()
     return text
