@@ -1,15 +1,15 @@
 
 
-from sre_constants import MAX_REPEAT
 from scipy.spatial.distance import cdist
 import numpy as np
 import pandas as pd
 import Levenshtein as lvn
 
-SEM_DIST_MAX = 4.5
-LEV_DIST_MAX = 5
+# other possibility is to take a weighted score and a single max
+SEM_DIST_MAX = 2
+LEV_DIST_MAX = 4
 
-def is_neighbour(row, m):
+def are_neighbours(row, m):
     global NBR_DIST, LEV_DIST
 
     # is semantic distance small enough?
@@ -18,6 +18,7 @@ def is_neighbour(row, m):
     m_score   = np.asarray(m.iloc[:, 1:], dtype = "float")
     sem_dist = cdist(row_score, m_score)
     sem_close = sem_dist < SEM_DIST_MAX
+    sem_close = sem_close.squeeze()
 
     # is levenshtein distance small enough?
     row_word = str(row[0])
@@ -29,29 +30,42 @@ def is_neighbour(row, m):
     return close
 
 
-dnames = ["word", *['d'+str(x+1) for x in range(100)] ]
-ws = pd.read_table("data/fasttext-vectors.vec", sep = " ", skiprows = 1, 
-                     names     = dnames,
-                     index_col = False,
-                     nrows     = 10000
-                   )
-
-
-ws = ws.sort_values(by = "word")
-ws = ws.iloc[5000:, ]
-
-max_r = 50
-nbrs = [is_neighbour(ws.iloc[i, :], ws.iloc[:max_r, :]) for i in range(max_r)]
-
-nbrs = np.asarray(nbrs)
-nbrs = np.squeeze(nbrs, axis = 1)
-
-[print(f"{ws.iloc[i, 0]}   {ws.iloc[j, 0]}   {nbrs[i, j]}") 
-       for i in range(max_r) for j in range(max_r)]
-
 # plan
 # Start with the top 10K words. Find the "neighbours" with distance < D, levenshtein < L.
 #  - only go forward i.e. word x looks only at words x+1...end
 # Add them to a list: <from to>.
 # Find the neighbours of the new neighbours, but add them like <origin to> not <neighbour to>.
 # Now you can just repeat. And you don't need to redo the original words.
+
+dnames = ["word", *['d'+str(x+1) for x in range(500)] ]
+ws = pd.read_table("data/fasttext-vectors.vec", 
+                    sep       = " ", 
+                    skiprows  = 1, 
+                    names     = dnames,
+                    index_col = False,
+                    nrows     = 10000
+                  )
+
+ws = ws.sort_values(by = "word")
+ws = ws.iloc[5000:, ]
+
+words = ws['word']
+word_root = dict(zip(words, words))
+
+changed = True
+while changed:
+    for ix, word in enumerate( words[:-1] ):
+        changed = False
+        nbrs = are_neighbours(ws.iloc[ix, ], ws.iloc[(ix+1):, ])
+        nbrs = words.iloc[(ix+1):].loc[nbrs]
+        for nbr in nbrs:
+            # if they don't share a word root, change that
+            if word_root[nbr] != word_root[word]:
+                changed = True
+                word_root[nbr] = word_root[word]
+
+[print(f"{k} ============ {v}") for k, v in word_root.items()]
+
+
+
+
