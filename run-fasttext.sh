@@ -9,6 +9,8 @@ RANDOM=1027
 tot_files=$(ls data/texts | wc -l)
 prob=$((32767*$n_files/$tot_files))
 
+rm data/fasttext-input
+
 for f in data/texts/*; do 
   if [ $RANDOM -le $prob ]; then
     cat $f >> data/fasttext-input
