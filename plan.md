@@ -120,17 +120,14 @@ And a sample metadata:
 * For Google, you'd want scripts to download the raw data
 
 # TODO
-* fastText input probably should throw away more punctuation
-  - and can it cope with weird characters, and what about u/v?
-* Why so much Welsh??
+
 * Are full stops relevant? Shouldn't they be replaced by a " " anyway?
 * manually check some of your texts
   - Should &amp; be replaced by "and"? or just left as it is
     (if so after deleting punctuation it would be "amp")
     - Again maybe just replace it with & and let & through punctuation.
       (other entities will be killed one hopes!)
-  - Deleting margin notes as they create a lot of joined words and put
-    things out of place.
+
 * do we need to prelemmatize? fT seems pretty good at realizing
   that similarly spelled words are the same. But not always, e.g.
   good/goode; perhaps there are spelling changes over time so
@@ -141,6 +138,9 @@ And a sample metadata:
   - maybe compare with the eme approach? Maybe combine?
 
 # DONE
+
+  - Why so much Welsh?? 
+    - use xml:lang and language tags now
   - Deleting margin notes as they create a lot of joined words and put
     things out of place.
   - <g ref="char:cmbAbbrStroke"> is usually for a ~ instead of an n
@@ -148,3 +148,5 @@ And a sample metadata:
     Replace with n? Take a look at a few examples. 
     - Maybe just replace with ~ and let ~ through the punctuation filter.
     - Yeah, it's almost always n or m.
+  - Deleting margin notes as they create a lot of joined words and put
+    things out of place.

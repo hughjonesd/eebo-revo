@@ -34,6 +34,7 @@ if __name__ == "__main__":
 
 
 
-
+# problems: A47589 and friends; A30498 and friends. Why?
+# it doesn't seem to be a whole zip file
 
 
