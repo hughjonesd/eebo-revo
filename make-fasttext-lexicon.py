@@ -1,6 +1,7 @@
 
 from datetime import datetime
 from scipy.spatial.distance import cdist
+from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import pandas as pd
 import Levenshtein as lvn
@@ -16,7 +17,7 @@ def are_neighbours(row, m):
     row_score = np.asarray(row[1:], dtype = "float")
     row_score = np.expand_dims(row_score, 0)
     m_score   = np.asarray(m.iloc[:, 1:], dtype = "float")
-    sem_dist = cdist(row_score, m_score, "cosine")
+    sem_dist = cosine_similarity(row_score, m_score)
     sem_close = sem_dist < SEM_DIST_MAX
     sem_close = sem_close.squeeze()
 
@@ -30,14 +31,7 @@ def are_neighbours(row, m):
     return close
 
 
-# plan
-# Start with the top 10K words. Find the "neighbours" with distance < D, levenshtein < L.
-#  - only go forward i.e. word x looks only at words x+1...end
-# Add them to a list: <from to>.
-# Find the neighbours of the new neighbours, but add them like <origin to> not <neighbour to>.
-# Now you can just repeat. And you don't need to redo the original words.
-
-dnames = ["word", *['d'+str(x+1) for x in range(500)] ]
+dnames = ["word", *['d' + str(x + 1) for x in range(500)] ]
 dtypes = dict.fromkeys(dnames, "float")
 dtypes["word"] = "string"
 ws = pd.read_table("data/fasttext-vectors.vec", 
@@ -46,7 +40,6 @@ ws = pd.read_table("data/fasttext-vectors.vec",
                     skiprows  = 1, 
                     names     = dnames,
                     index_col = False,
-                    na_values = [],
                     na_filter = False
                   )
 
@@ -60,6 +53,7 @@ while changed > 0:
     print(f"{datetime.now()} Changed: {changed}")
     changed = 0
     for ix, word in enumerate( words[:-1] ):
+        if ix > 30: exit(0) 
         nbrs = are_neighbours(ws.iloc[ix, ], ws.iloc[(ix+1):, ])
         nbrs = words.iloc[(ix+1):].loc[nbrs]
         for nbr in nbrs:
@@ -67,6 +61,8 @@ while changed > 0:
             if word_root[nbr] != word_root[word]:
                 changed += 1
                 word_root[nbr] = word_root[word]
+        print(f"{datetime.now()} Index {ix} Word {word}")
+    changed = 0 # to break
 
 with open("data/lemmas.tab", "w") as outfile:
     for word, root in word_root.items():
