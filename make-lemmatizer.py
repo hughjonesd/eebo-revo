@@ -1,13 +1,13 @@
 
-
+from datetime import datetime
 from scipy.spatial.distance import cdist
 import numpy as np
 import pandas as pd
 import Levenshtein as lvn
 
 # other possibility is to take a weighted score and a single max
-SEM_DIST_MAX = 0.1
-LEV_DIST_MAX = 4
+SEM_DIST_MAX = 0.225
+LEV_DIST_MAX = 5
 
 def are_neighbours(row, m):
     global NBR_DIST, LEV_DIST
@@ -46,31 +46,31 @@ ws = pd.read_table("data/fasttext-vectors.vec",
                     skiprows  = 1, 
                     names     = dnames,
                     index_col = False,
-                    nrows     = 10000,
                     na_values = [],
                     na_filter = False
                   )
 
 ws = ws.sort_values(by = "word")
-ws = ws.iloc[5000:, ]
 
 words = ws['word']
 word_root = dict(zip(words, words))
 
-changed = True
-while changed:
+changed = 1
+while changed > 0:
+    print(f"{datetime.now()} Changed: {changed}")
+    changed = 0
     for ix, word in enumerate( words[:-1] ):
-        changed = False
         nbrs = are_neighbours(ws.iloc[ix, ], ws.iloc[(ix+1):, ])
         nbrs = words.iloc[(ix+1):].loc[nbrs]
         for nbr in nbrs:
             # if they don't share a word root, change that
             if word_root[nbr] != word_root[word]:
-                changed = True
+                changed += 1
                 word_root[nbr] = word_root[word]
 
-[print(f"{k} ============ {v}") for k, v in word_root.items()]
-
+with open("data/lemmas.tab", "w") as outfile:
+    for word, root in word_root.items():
+        print(f"{word}\t{root}\n", file = outfile)
 
 
 
