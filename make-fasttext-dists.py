@@ -6,6 +6,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from multiprocessing import Pool
 from Levenshtein import distance as lev_dist
 
+lev_dist_array = np.vectorize(lev_dist, otypes="i")
+strlen_array = np.vectorize(len, otypes = "i")
+
+SEMANTIC_MAX_DIST = -0.2
 
 if __name__ == "__main__":
     dnames = ["word", *['d' + str(x + 1) for x in range(500)] ]
@@ -17,36 +21,58 @@ if __name__ == "__main__":
                         skiprows  = 1, 
                         names     = dnames,
                         index_col = False,
-                        na_filter = False
+                        na_filter = False,
+                        # nrows     = 20000,
                       )
     ws = ws.sort_values("word")
-    
+    ws = ws.iloc[8500:,]
+
     npws = np.asarray(ws.iloc[:, 1:], dtype = "float32")
-    words = np.asarray(ws["word"], dtype = "str")
-    lev_dist_array = np.vectorize(lev_dist, otypes="i")
+    words = np.asarray(ws["word"], dtype = "U50")
 
     step = 1000
-    SEMANTIC_MAX_DIST = -0.05
-    LEV_DIST_WEIGHT = 3 # where semantic distance weight = 1
-    MAX_NBR_SCORE = 3
-    for sr in range(0, npws.shape[0] + 1, step):
+
+    for sr in range(0, npws.shape[0], step):
         print(f"Row {sr}")
         print(datetime.now())
         er = min(npws.shape[0], sr + step)
         npws_subset = npws[sr:er, :]
+        words_subset = words[sr:er]
+
         # step x nrow npws matrix
+        # we convert the cosine to a [0, 1] range here  
         dists = cosine_similarity(npws_subset, npws)
         # nrow npws vector
         min_dists = np.min(dists, 0)
         closeish = min_dists < SEMANTIC_MAX_DIST
-        target_subset = npws[closeish, : ] 
+        target_words  = words[closeish]
 
         # could I vectorize twice? Maybe but it's complingcated...
-        ldists = [lev_dist_array(words[i], words[closeish]) for i in range(sr, er)]
+        ldists = [lev_dist_array(words[i], target_words) for i in range(sr, er)]
         ldists = np.asarray(ldists)
-
+        # normalize by word length
+        word_len1 = np.sqrt(strlen_array(words[sr:er]))
+        word_len2 = np.sqrt(strlen_array(target_words))
+        ldists = ldists/np.outer(word_len1, word_len2)
+        # -- calculate matrix of overall scores and possible neighbours -- 
         # step x nrow target_subset
-        scores = dists[:, closeish] + LEV_DIST_WEIGHT * ldists 
+        
+        # scores = dists[:, closeish] + LEV_DIST_WEIGHT * ldists 
+        scores = ldists
         # where this is small enough we have candidate neighbours
-        scores < MAX_NBR_SCORE
-        # find row/column pairs where scores is true; these are candidate words
+        nbrs = scores < .2
+
+        # -- find row/column pairs where scores is true; these are candidate words --
+        nbrs = nbrs.nonzero()
+        word1 = nbrs[0]
+        word2 = nbrs[1]
+        word1 = words_subset[word1]
+        word2 = target_words[word2]
+        not_same = word1 != word2
+        word1 = word1[not_same]
+        word2 = word2[not_same]
+        word_pairs = np.stack((word1, word2)).T
+        print(word_pairs)
+        print(word_pairs.shape)
+        with open("data/similar-words.tab", "a") as sw:
+            np.savetxt(sw, word_pairs, fmt = "%s", delimiter = "\t")
