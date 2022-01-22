@@ -1,5 +1,10 @@
 #!/bin/sh
 
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=davidhughjones@gmail.com
+#SBATCH -o list-TEI-files.sh-%j.out
+#SBATCH -e list-TEI-files.sh-%j.err
+
 # recreate a list of every tei file like:
 # zipfile xmlfile
 

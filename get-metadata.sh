@@ -4,7 +4,7 @@
 #SBATCH --mail-user=davidhughjones@gmail.com
 #SBATCH --exclusive
 #SBATCH -o get-metadata.sh-%j.out
-#SBATCH -e get-metadata.sh-%j.out
+#SBATCH -e get-metadata.sh-%j.err
 
 for zipfile in $(ls data-raw/eebo-zips/*.zip); do
   zipname=$(basename $zipfile)
