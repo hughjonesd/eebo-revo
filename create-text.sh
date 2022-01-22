@@ -1,5 +1,12 @@
 #!/bin/bash
 
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=davidhughjones@gmail.com
+#SBATCH -o create-text.sh-%j.out
+#SBATCH -e create-text.sh-%j.err
+#SBATCH --exclusive
+# create the raw EEBO text files from the XML in zips
+
 batchsize=100
 
 mkdir -p data/texts/test
