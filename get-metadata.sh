@@ -1,3 +1,10 @@
+#!/bin/bash
+
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=davidhughjones@gmail.com
+#SBATCH --exclusive
+#SBATCH -o get-metadata.sh-%j.out
+#SBATCH -e get-metadata.sh-%j.out
 
 for zipfile in $(ls data-raw/eebo-zips/*.zip); do
   zipname=$(basename $zipfile)
