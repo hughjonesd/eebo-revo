@@ -51,3 +51,10 @@ sh create-text.sh
 
 # run FastText to create vectors
 sh run-fasttext.sh
+
+# using vectors make word pairs to treat as "same"
+python3 make-fasttext-dists.py
+
+# using word pairs from the above in data/similar-words.tab, make lexicon
+python3 make-fasttext-lexicon.py
+
