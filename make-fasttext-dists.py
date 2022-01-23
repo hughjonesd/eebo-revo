@@ -9,10 +9,10 @@ from Levenshtein import distance as lev_dist
 lev_dist_array = np.vectorize(lev_dist, otypes="i")
 strlen_array = np.vectorize(len, otypes = "i")
 
-SEMANTIC_MAX_DIST = -0.2
+SEMANTIC_MAX_DIST = -0.12
 
 if __name__ == "__main__":
-    dnames = ["word", *['d' + str(x + 1) for x in range(500)] ]
+    dnames = ["word", *['d' + str(x + 1) for x in range(300)] ]
     dtypes = dict.fromkeys(dnames, "float32")
     dtypes["word"] = "string"
     ws = pd.read_table("data/fasttext-vectors.vec", 
@@ -25,7 +25,7 @@ if __name__ == "__main__":
                         # nrows     = 20000,
                       )
     ws = ws.sort_values("word")
-    ws = ws.iloc[8500:,]
+    # ws = ws.iloc[8500:,]
 
     npws = np.asarray(ws.iloc[:, 1:], dtype = "float32")
     words = np.asarray(ws["word"], dtype = "U50")
@@ -75,4 +75,4 @@ if __name__ == "__main__":
         print(word_pairs)
         print(word_pairs.shape)
         with open("data/similar-words.tab", "a") as sw:
-            np.savetxt(sw, word_pairs, fmt = "%s", delimiter = "\t")
+             np.savetxt(sw, word_pairs, fmt = "%s", delimiter = "\t")
