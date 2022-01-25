@@ -13,7 +13,7 @@
 
 module add gcc/11.1.0
 
-source /gpfs/home/svr14dgu/eebo-revo/configsh.py
+source ./configsh.py
 
 # about how many files to randomly select for input
 n_files=5000

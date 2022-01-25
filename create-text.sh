@@ -7,6 +7,8 @@
 #SBATCH --exclusive
 # create the raw EEBO text files from the XML in zips
 
+source ./configsh.py
+
 batchsize=100
 
 mkdir -p data/texts/test
@@ -23,7 +25,7 @@ while read -r zip xml_file split; do
     echo "Created $output"
   fi
 
-done <data/TEI-files.tab 
+done < $TEI_FILES_PATH
 
 wait
 
