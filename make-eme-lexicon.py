@@ -3,13 +3,13 @@ import re
 import sys
 import os
 from lxml import etree
-
+import configsh
 # unicode definition of punctuation
 re.ASCII = False
 
 
 lexicon_path = sys.argv[1]
-output_path = f"data/leme-cleaned/{os.path.basename(lexicon_path)}"
+output_path = f"{configsh.LEME_SCRATCH_DIR}{os.path.basename(lexicon_path)}"
 output_file = open(output_path, 'w')
 
 def get_lexeme(node):
