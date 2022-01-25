@@ -9,7 +9,7 @@ re.ASCII = False
 
 
 lexicon_path = sys.argv[1]
-output_path = f"{configsh.LEME_SCRATCH_DIR}{os.path.basename(lexicon_path)}"
+output_path = f"{configsh.LEME_SCRATCH_DIR}/{os.path.basename(lexicon_path)}"
 output_file = open(output_path, 'w')
 
 def get_lexeme(node):
@@ -57,10 +57,12 @@ for _, wordentry in  etree.iterparse(lexicon_path, tag = "wordentry",
         if len(word) > 25: continue
         # can contain spaces or "the ..."
         # or "A...":
-        word = re.sub("^an?\s+", "", word, re.IGNORECASE)
-        word = re.sub("^the\s+", "", word, re.IGNORECASE)
-        word = re.sub("^to\s+", "", word, re.IGNORECASE)
-        word = re.sub("&#182;\s+", "", word)
+        # or a bonus '">' and material around it from bad xml
+        word = re.sub(r"^an?\s+", "", word, re.IGNORECASE)
+        word = re.sub(r"^the\s+", "", word, re.IGNORECASE)
+        word = re.sub(r"^to\s+", "", word, re.IGNORECASE)
+        word = re.sub(r"&#182;\s+", "", word)
+        word = re.sub(r"^.*?>\W*", "", word)
         # we take the first word, up to spaces:
         try:
             word = word.split()[0]
